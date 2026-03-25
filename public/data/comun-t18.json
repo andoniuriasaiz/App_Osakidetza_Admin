@@ -1,0 +1,362 @@
+[
+  {
+    "id": "comun-t18_1",
+    "questionNum": 1,
+    "question": "¿Cuál es el objeto fundamental de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, según su Artículo 1?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Regular los cuidados paliativos avanzados en el Sistema Nacional de Salud."
+      },
+      {
+        "value": 2,
+        "text": "Modificar el Código Penal para despenalizar la asistencia al suicidio."
+      },
+      {
+        "value": 3,
+        "text": "Regular el derecho de toda persona a solicitar y recibir la prestación de ayuda para morir y la obligación de las Administraciones de garantizarla."
+      },
+      {
+        "value": 4,
+        "text": "Establecer el registro de las voluntades anticipadas y testamentos vitales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Regular el derecho de toda persona a solicitar y recibir la prestación de ayuda para morir y la obligación de las Administraciones de garantizarla."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 1 LO 3/2021: 'La presente ley tiene por objeto regular el derecho de toda persona a solicitar y recibir la prestación de ayuda para morir, así como las obligaciones de las administraciones públicas y del personal profesional sanitario a garantizarla.' Respuesta C."
+  },
+  {
+    "id": "comun-t18_2",
+    "questionNum": 2,
+    "question": "Conforme al Artículo 5 de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué requisito de nacionalidad se exige para poder recibir la prestación de ayuda para morir?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tener la ciudadanía española con residencia legal ininterrumpida de al menos 10 años."
+      },
+      {
+        "value": 2,
+        "text": "Tener la nacionalidad española o tener residencia legal en España de al menos 5 años."
+      },
+      {
+        "value": 3,
+        "text": "Ser mayor de edad y tener la nacionalidad española, residencia legal o certificado de empadronamiento que acredite un tiempo de permanencia superior a 12 meses en territorio español."
+      },
+      {
+        "value": 4,
+        "text": "Tener la nacionalidad española y residencia en el mismo municipio durante los últimos 2 años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ser mayor de edad y tener la nacionalidad española, residencia legal o certificado de empadronamiento que acredite un tiempo de permanencia superior a 12 meses en territorio español."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 5.1.a LO 3/2021: Para poder recibir la prestación de ayuda para morir se requiere 'tener la nacionalidad española o residencia legal en España o certificado de empadronamiento que acredite un tiempo de permanencia en territorio español superior a doce meses.' Respuesta C."
+  },
+  {
+    "id": "comun-t18_3",
+    "questionNum": 3,
+    "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué concepto define la ley como la \"administración directa a la persona paciente de una sustancia por parte del personal sanitario competente\"?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Suicidio médicamente asistido."
+      },
+      {
+        "value": 2,
+        "text": "Sedación paliativa profunda."
+      },
+      {
+        "value": 3,
+        "text": "Eutanasia."
+      },
+      {
+        "value": 4,
+        "text": "Asistencia para morir."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Eutanasia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 3.b LO 3/2021: La ley define como 'eutanasia' la 'administración directa a la persona paciente de una sustancia por parte del personal sanitario competente.' El suicidio médicamente asistido implica que el propio paciente se administra la sustancia. Respuesta C."
+  },
+  {
+    "id": "comun-t18_4",
+    "questionNum": 4,
+    "question": "Según el Artículo 5 de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es la condición que debe padecer la persona paciente para solicitar la prestación de ayuda para morir?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Padecer una enfermedad incurable en fase terminal o un deterioro funcional grave."
+      },
+      {
+        "value": 2,
+        "text": "Sufrir una enfermedad que limite gravemente su autonomía."
+      },
+      {
+        "value": 3,
+        "text": "Padecer una enfermedad grave e incurable o un padecimiento grave, crónico e imposibilitante, causantes de un sufrimiento intolerable."
+      },
+      {
+        "value": 4,
+        "text": "Sufrir un dolor físico o psíquico que no puede ser tratado con paliativos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Padecer una enfermedad grave e incurable o un padecimiento grave, crónico e imposibilitante, causantes de un sufrimiento intolerable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 5 LO 3/2021: Los requisitos para solicitar la prestación incluyen: mayoría de edad, nacionalidad/residencia, capacidad de obrar, padecer una enfermedad grave e incurable o padecimiento crónico grave, expresar de forma libre y autónoma la solicitud. Respuesta D."
+  },
+  {
+    "id": "comun-t18_5",
+    "questionNum": 5,
+    "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál debe ser la periodicidad mínima con la que el personal facultativo responsable debe consultar a la persona paciente, una vez presentada la solicitud, para confirmar si mantiene su deseo?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al menos cada 7 días."
+      },
+      {
+        "value": 2,
+        "text": "Al menos cada 15 días, debiendo dejarse constancia en la historia clínica."
+      },
+      {
+        "value": 3,
+        "text": "Al menos cada 30 días, si el procedimiento se extiende."
+      },
+      {
+        "value": 4,
+        "text": "Una única vez antes de la prestación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Al menos cada 7 días."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 8 LO 3/2021: La solicitud de prestación de ayuda para morir deberá realizarse 'por escrito o por otro medio que permita dejar constancia, ante el médico o médica responsable, en DOS ocasiones como mínimo, con un intervalo de al menos quince días naturales entre ambas.' Respuesta A."
+  },
+  {
+    "id": "comun-t18_6",
+    "questionNum": 6,
+    "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué órgano tiene la función de verificar en cada caso el cumplimiento de los requisitos establecidos en dicha Ley, con carácter previo a la realización de la prestación de ayuda para morir?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Comité de Ética Asistencial del centro sanitario."
+      },
+      {
+        "value": 2,
+        "text": "El Consejo Interterritorial del Sistema Nacional de Salud."
+      },
+      {
+        "value": 3,
+        "text": "La Comisión de Garantía y Evaluación."
+      },
+      {
+        "value": 4,
+        "text": "La Inspección Sanitaria de la comunidad autónoma."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Comisión de Garantía y Evaluación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 10 LO 3/2021: Para verificar los requisitos se constituye una Comisión de Verificación y Control, que en el ámbito de la Comunidad Autónoma del País Vasco recibe el nombre de Comisión de Garantía y Evaluación. Respuesta B."
+  },
+  {
+    "id": "comun-t18_7",
+    "questionNum": 7,
+    "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, si la persona paciente se encuentra en situación de incapacidad de hecho en el momento de solicitar la prestación, ¿quién puede presentar la solicitud en su nombre?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente sus familiares directos o cónyuge."
+      },
+      {
+        "value": 2,
+        "text": "Una persona facultativa o del trabajo social del equipo asistencial, siempre que la persona paciente hubiera suscrito con anterioridad un documento de instrucciones previas, testamento vital o documento equivalente."
+      },
+      {
+        "value": 3,
+        "text": "La persona legalmente habilitada por la autoridad judicial."
+      },
+      {
+        "value": 4,
+        "text": "No se puede solicitar la prestación si la persona paciente está en situación de incapacidad de hecho."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Una persona facultativa o del trabajo social del equipo asistencial, siempre que la persona paciente hubiera suscrito con anterioridad un documento de instrucciones previas, testamento vital o documento equivalente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 16 LO 3/2021: El personal sanitario podrá ejercer la objeción de conciencia para negarse a participar en la prestación de ayuda para morir, debiendo manifestarla con antelación y por escrito. Respuesta C."
+  },
+  {
+    "id": "comun-t18_8",
+    "questionNum": 8,
+    "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el derecho que asiste al personal sanitario directamente implicado en la prestación de ayuda para morir?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Derecho a la reubicación en un puesto de trabajo diferente."
+      },
+      {
+        "value": 2,
+        "text": "Derecho a un incremento salarial por la complejidad de la prestación."
+      },
+      {
+        "value": 3,
+        "text": "Derecho a la objeción de conciencia."
+      },
+      {
+        "value": 4,
+        "text": "Derecho a recibir asistencia jurídica de oficio."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Derecho a la objeción de conciencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 5.1.d LO 3/2021: El padecimiento debe ser: una 'enfermedad grave e incurable' o un 'padecimiento crónico grave, debilitante' que cause sufrimiento físico o psíquico intolerable y directo. Respuesta D."
+  },
+  {
+    "id": "comun-t18_9",
+    "questionNum": 9,
+    "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué define como \"padecimiento grave, crónico e imposibilitante\"?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aquel que implica la existencia de sufrimiento físico o psíquico constante."
+      },
+      {
+        "value": 2,
+        "text": "Aquel que genera una limitación que incide directamente sobre la autonomía física y capacidad de expresar su voluntad de la persona paciente."
+      },
+      {
+        "value": 3,
+        "text": "La dependencia de otra persona para la realización de al menos dos actividades básicas de la vida diaria."
+      },
+      {
+        "value": 4,
+        "text": "Una dolencia que ha sido declarada irreversible y con un pronóstico de vida inferior a seis meses."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Aquel que implica la existencia de sufrimiento físico o psíquico constante."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 17 LO 3/2021: La prestación de ayuda para morir está incluida en la cartera de servicios comunes del Sistema Nacional de Salud y su provisión es gratuita para el paciente. Respuesta A."
+  },
+  {
+    "id": "comun-t18_10",
+    "questionNum": 10,
+    "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el plazo que tiene la persona facultativa responsable para comunicar la resolución favorable a la Comisión de Garantía y Evaluación para su posterior verificación?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dentro de las 24 horas siguientes a la resolución."
+      },
+      {
+        "value": 2,
+        "text": "Dentro del día siguiente natural a la resolución."
+      },
+      {
+        "value": 3,
+        "text": "7 días desde la resolución favorable."
+      },
+      {
+        "value": 4,
+        "text": "No existe un plazo establecido para esta comunicación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Dentro del día siguiente natural a la resolución."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t18",
+    "explanation": "Art. 3 LO 3/2021: La ley distingue entre 'eutanasia' (médico administra directamente la sustancia) y 'suicidio médicamente asistido' (médico prescribe o suministra la sustancia pero la administra la propia persona). Respuesta B."
+  }
+]

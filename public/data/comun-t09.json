@@ -1,0 +1,506 @@
+[
+  {
+    "id": "comun-t09_1",
+    "questionNum": 1,
+    "question": "El objeto de la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Hacer efectivo en la Comunidad Autónoma del País Vasco el derecho de las personas a la expresión anticipada de sus deseos con respecto a ciertas intervenciones médicas, mediante la regulación del documento de voluntades anticipadas en el ámbito de la sanidad."
+      },
+      {
+        "value": 2,
+        "text": "Regular en la Comunidad Autónoma del País Vasco el derecho de las personas a la expresión anticipada de sus deseos con respecto a ciertas intervenciones médicas, mediante la regulación del documento de voluntades anticipadas en el ámbito de la sanidad."
+      },
+      {
+        "value": 3,
+        "text": "Regular las particularidades en la Comunidad Autónoma del País Vasco del derecho de las personas a la expresión anticipada de sus deseos con respecto a ciertas intervenciones médicas."
+      },
+      {
+        "value": 4,
+        "text": "Crear el Registro de Voluntades Anticipadas en la Comunidad Autónoma del País Vasco para hacer efectivo el derecho de las personas a la expresión anticipada de sus deseos con respecto a ciertas intervenciones médicas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Hacer efectivo en la Comunidad Autónoma del País Vasco el derecho de las personas a la expresión anticipada de sus deseos con respecto a ciertas intervenciones médicas, mediante la regulación del documento de voluntades anticipadas en el ámbito de la sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 14.1 Ley 41/2002: 'La historia clínica comprende el conjunto de los documentos relativos a los procesos asistenciales de cada paciente, con la identificación de los médicos y de los demás profesionales que han intervenido en ellos.' Es el soporte principal del trabajo asistencial. Respuesta C."
+  },
+  {
+    "id": "comun-t09_2",
+    "questionNum": 2,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, tiene derecho a manifestar sus objetivos vitales y valores personales, así como las instrucciones sobre su tratamiento:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cualquier persona mayor de dieciséis años que no haya sido judicialmente incapacitada para ello y actúe libremente."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier persona mayor de edad que no haya sido judicialmente incapacitada para ello y actúe libremente."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier persona mayor de edad y que actúe libremente, así como quienes ostenten la representación legal de aquellas que hayan sido judicialmente incapacitadas para ello."
+      },
+      {
+        "value": 4,
+        "text": "Cualquier persona mayor de dieciséis años y que actúe libremente, así como quienes ostenten la representación legal de aquellas que hayan sido judicialmente incapacitadas para ello."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Cualquier persona mayor de edad que no haya sido judicialmente incapacitada para ello y actúe libremente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 1 Ley 7/2002: El objeto de la ley es 'regular la expresión anticipada de la voluntad para que sea tenida en cuenta cuando la persona que la emitió no pueda expresarla personalmente en el momento en que deba tomarse alguna decisión respecto a su atención sanitaria.' Respuesta A."
+  },
+  {
+    "id": "comun-t09_3",
+    "questionNum": 3,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la expresión de los objetivos vitales y valores personales tiene como fin:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Conocer la voluntad de la persona paciente en relación con la administración de sedación."
+      },
+      {
+        "value": 2,
+        "text": "Conocer la voluntad de la persona paciente en relación con la finalización de tratamientos de soporte vital."
+      },
+      {
+        "value": 3,
+        "text": "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+      },
+      {
+        "value": 4,
+        "text": "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal en situaciones donde la persona paciente no puede expresar su voluntad por sí misma."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 2 Ley 7/2002: La declaración de voluntad anticipada puede realizarla 'cualquier persona MAYOR DE EDAD con plena capacidad de obrar.' Respuesta B."
+  },
+  {
+    "id": "comun-t09_4",
+    "questionNum": 4,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se podrá designar una o varias personas representantes para que sean interlocutoras válidas del personal facultativo o del equipo sanitario."
+      },
+      {
+        "value": 2,
+        "text": "Se podrá designar exclusivamente una persona representante para que sea la interlocutora válida del personal facultativo o del equipo sanitario."
+      },
+      {
+        "value": 3,
+        "text": "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario, si la persona paciente es menor de edad."
+      },
+      {
+        "value": 4,
+        "text": "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario y facultarles para interpretar sus valores e instrucciones, si la persona paciente está incapacitada judicialmente. las"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se podrá designar una o varias personas representantes para que sean interlocutoras válidas del personal facultativo o del equipo sanitario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 4 Ley 7/2002: La declaración de voluntad anticipada puede formalizarse: ante personal funcionario del Registro Vasco de Voluntades Anticipadas, ante tres testigos, o ante notario/a. Respuesta C."
+  },
+  {
+    "id": "comun-t09_5",
+    "questionNum": 5,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, las instrucciones sobre el tratamiento pueden referirse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A una enfermedad o lesión que la persona otorgante ya padece o a las que eventualmente podría padecer en un futuro."
+      },
+      {
+        "value": 2,
+        "text": "Exclusivamente a una enfermedad o lesión que la persona otorgante ya padece."
+      },
+      {
+        "value": 3,
+        "text": "Exclusivamente a una enfermedad o lesión que la persona otorgante eventualmente podría padecer en un futuro"
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente a una enfermedad o lesión que la persona otorgante eventualmente podría padecer en un futuro, siempre que sea de carácter grave."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "A una enfermedad o lesión que la persona otorgante ya padece o a las que eventualmente podría padecer en un futuro."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 5 Ley 7/2002: Las declaraciones de voluntad anticipada se inscribirán en el 'Registro Vasco de Voluntades Anticipadas', dependiente del Departamento competente en materia de sanidad. Respuesta B."
+  },
+  {
+    "id": "comun-t09_6",
+    "questionNum": 6,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas; o ante dos testigos."
+      },
+      {
+        "value": 2,
+        "text": "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas; o ante tres testigos."
+      },
+      {
+        "value": 3,
+        "text": "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante dos testigos."
+      },
+      {
+        "value": 4,
+        "text": "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante tres testigos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante tres testigos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 6 Ley 7/2002: 'La declaración de voluntad anticipada no tendrá efecto cuando el personal sanitario acredite que han variado sustancialmente las circunstancias que la motivaron o cuando contenga previsiones contrarias al ordenamiento jurídico, a la lex artis médica o que no se correspondan con el supuesto de hecho que el interesado haya previsto.' Respuesta C."
+  },
+  {
+    "id": "comun-t09_7",
+    "questionNum": 7,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, las personas que actúen como testigos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Serán personas mayores de dieciséis años, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio, unión libre o pareja de hecho, parentesco hasta el segundo grado de consanguinidad o afinidad o relación patrimonial alguna."
+      },
+      {
+        "value": 2,
+        "text": "Serán personas mayores de dieciséis años, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio, unión libre o pareja de hecho, parentesco hasta el tercer grado de consanguinidad o afinidad o relación patrimonial alguna."
+      },
+      {
+        "value": 3,
+        "text": "Serán personas mayores de edad, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio, unión libre o pareja de hecho, parentesco hasta el segundo grado de consanguinidad o afinidad o relación patrimonial alguna"
+      },
+      {
+        "value": 4,
+        "text": "Serán personas mayores de edad, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio o pareja de hecho, parentesco hasta el tercer grado de consanguinidad o relación patrimonial alguna."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Serán personas mayores de edad, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio, unión libre o pareja de hecho, parentesco hasta el segundo grado de consanguinidad o afinidad o relación patrimonial alguna"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 7 Ley 7/2002: 'El personal médico responsable del proceso asistencial deberá consultar el Registro Vasco de Voluntades Anticipadas cuando el paciente no pueda expresar su voluntad.' Respuesta A."
+  },
+  {
+    "id": "comun-t09_8",
+    "questionNum": 8,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas puede ser modificado, sustituido por otro o revocado en cualquier momento por la persona otorgante:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre que conserve la capacidad o actúe con la asistencia de su representante legal y actúe libremente."
+      },
+      {
+        "value": 2,
+        "text": "Siempre que conserve la capacidad o exista autorización judicial."
+      },
+      {
+        "value": 3,
+        "text": "Siempre que actúe libremente."
+      },
+      {
+        "value": 4,
+        "text": "Siempre que conserve la capacidad y actúe libremente."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Siempre que conserve la capacidad y actúe libremente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 3 Ley 7/2002: 'La persona declarante podrá revocar, en cualquier momento y por cualquier medio, la declaración de voluntad anticipada que hubiera otorgado.' Sin límites. Respuesta D."
+  },
+  {
+    "id": "comun-t09_9",
+    "questionNum": 9,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la modificación, sustitución o revocación del documento de voluntades anticipadas se formaliza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Por escrito o verbalmente, y ante una notaría o ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o ante tres testigos."
+      },
+      {
+        "value": 2,
+        "text": "Por escrito y ante una notaría o ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o ante tres testigos."
+      },
+      {
+        "value": 3,
+        "text": "Por escrito o verbalmente, y ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades donde se encuentra registrado el documento inicial."
+      },
+      {
+        "value": 4,
+        "text": "Por escrito y ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades donde se encuentra registrado el documento inicial."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Por escrito y ante una notaría o ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o ante tres testigos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 2 Ley 7/2002: La representante designada en la declaración 'actuará como interlocutora válida ante el equipo sanitario responsable de la asistencia' cuando la persona declarante no pueda expresar su voluntad. Respuesta B."
+  },
+  {
+    "id": "comun-t09_10",
+    "questionNum": 10,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la voluntad de la persona prevalece sobre las instrucciones contenidas en el documento de voluntades anticipadas ante cualquier intervención clínica siempre que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona otorgante conserve su capacidad y su libertad de actuación."
+      },
+      {
+        "value": 2,
+        "text": "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse."
+      },
+      {
+        "value": 3,
+        "text": "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse de manera inequívoca."
+      },
+      {
+        "value": 4,
+        "text": "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse de manera inequívoca o a través de la persona interlocutora designada al efecto."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse de manera inequívoca."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 4.3 Ley 7/2002: Cuando se formalice ante tres testigos, estos deben tener la condición de personas mayores de edad y plena capacidad de obrar, y no pueden ser familiares de la persona declarante en primer ni segundo grado, ni tener relación patrimonial con ella. No pueden ser más de uno de ellos personal sanitario del equipo asistencial que la atiende. Respuesta C."
+  },
+  {
+    "id": "comun-t09_11",
+    "questionNum": 11,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas se tendrán por no puestas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
+      },
+      {
+        "value": 2,
+        "text": "Las instrucciones que en el momento de ser otorgadas resulten contrarias al ordenamiento jurídico."
+      },
+      {
+        "value": 3,
+        "text": "Las respuestas a) y b) son correctas."
+      },
+      {
+        "value": 4,
+        "text": "Las instrucciones que en el momento de ser aplicadas no se aprueben por el comité de ética del centro."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 5.2 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas estará accesible para el personal sanitario 'en todo momento.' Respuesta A."
+  },
+  {
+    "id": "comun-t09_12",
+    "questionNum": 12,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas se tendrán por no puestas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las instrucciones que resulten contraindicadas para su patología."
+      },
+      {
+        "value": 2,
+        "text": "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
+      },
+      {
+        "value": 3,
+        "text": "Las instrucciones que no se correspondan con los tipos de supuestos previstos por la persona otorgante al formalizar el documento de voluntades anticipadas."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las instrucciones que resulten contraindicadas para su patología."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 5.2 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas estará accesible para el personal sanitario 'en todo momento.' Respuesta A."
+  },
+  {
+    "id": "comun-t09_13",
+    "questionNum": 13,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la interconexión prevista para el Registro Vasco de Voluntades Anticipadas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Precisará el consentimiento de la persona otorgante en el momento del registro del documento, y de la persona interlocutora designada para la comunicación efectiva de los datos."
+      },
+      {
+        "value": 2,
+        "text": "Precisará el consentimiento de la persona otorgante para la comunicación de los datos."
+      },
+      {
+        "value": 3,
+        "text": "No precisará el consentimiento de la persona otorgante para la comunicación de los datos."
+      },
+      {
+        "value": 4,
+        "text": "No precisará el consentimiento de la persona otorgante para la comunicación de los datos pero sí autorización de la Agencia Vasca de Protección de Datos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Precisará el consentimiento de la persona otorgante para la comunicación de los datos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 9 Ley 7/2002: La existencia de la declaración de voluntad anticipada no exime al personal médico de su obligación de informar a la persona representante sobre el estado del paciente cuando este no pueda expresar su voluntad. El médico debe mantener informada a la persona representante. Respuesta B."
+  },
+  {
+    "id": "comun-t09_14",
+    "questionNum": 14,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas que no haya sido inscrito en el Registro Vasco de Voluntades Anticipadas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Debe entregarse en el centro sanitario donde la persona otorgante sea atendida."
+      },
+      {
+        "value": 2,
+        "text": "Debe entregarse en el centro sanitario donde la persona otorgante sea atendida y contar con la validación de la autoridad judicial."
+      },
+      {
+        "value": 3,
+        "text": "Carece de eficacia."
+      },
+      {
+        "value": 4,
+        "text": "Carece de eficacia si la persona otorgante no puede validarlo por sí misma en ese momento."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Carece de eficacia si la persona otorgante no puede validarlo por sí misma en ese momento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t09",
+    "explanation": "Art. 6.2 Ley 7/2002: Los supuestos de ineficacia de la declaración incluyen: cuando sea contraria al ordenamiento jurídico, a la lex artis, o cuando no se corresponda con el supuesto clínico previsto. Todos los supuestos mencionados en las opciones son válidos. Respuesta D."
+  }
+]

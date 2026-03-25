@@ -1,0 +1,578 @@
+[
+  {
+    "id": "comun-t08_1",
+    "questionNum": 1,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la documentación clínica es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La información contenida en la historia clínica."
+      },
+      {
+        "value": 2,
+        "text": "El soporte de cualquier tipo o clase que contiene un conjunto de datos e informaciones de carácter asistencial y la documentación relativa a las voluntades anticipadas."
+      },
+      {
+        "value": 3,
+        "text": "El soporte de cualquier tipo o clase que contiene un conjunto de datos e informaciones de carácter asistencial y de investigación biomédica."
+      },
+      {
+        "value": 4,
+        "text": "El soporte de cualquier tipo o clase que contiene un conjunto de datos e informaciones de carácter asistencial."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El soporte de cualquier tipo o clase que contiene un conjunto de datos e informaciones de carácter asistencial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 3 Ley 41/2002: 'Documentación clínica: el soporte de cualquier tipo o clase que contiene un conjunto de datos e informaciones de carácter asistencial.' No incluye investigación biomédica ni voluntades anticipadas en la definición de 'documentación clínica'. Respuesta D."
+  },
+  {
+    "id": "comun-t08_2",
+    "questionNum": 2,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, es persona usuaria:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona que requiere asistencia sanitaria y está sometida a cuidados profesionales para el mantenimiento o recuperación de su salud."
+      },
+      {
+        "value": 2,
+        "text": "La persona que requiere asistencia sanitaria y está sometida a cuidados profesionales para el mantenimiento o recuperación de su salud en el sistema público de salud."
+      },
+      {
+        "value": 3,
+        "text": "La persona que utiliza los servicios sanitarios de educación y promoción de la salud, de prevención de enfermedades y de información sanitaria."
+      },
+      {
+        "value": 4,
+        "text": "La persona que utiliza los servicios sanitarios de educación y promoción de la salud, de prevención de enfermedades y de información sanitaria en el sistema público de salud."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La persona que utiliza los servicios sanitarios de educación y promoción de la salud, de prevención de enfermedades y de información sanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 3 Ley 41/2002: 'Usuario/a: la persona que utiliza los servicios sanitarios de educación y promoción de la salud, de prevención de enfermedades y de información sanitaria.' No se limita al sistema público. Respuesta C."
+  },
+  {
+    "id": "comun-t08_3",
+    "questionNum": 3,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la información asistencial:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como regla general se proporcionará verbalmente."
+      },
+      {
+        "value": 2,
+        "text": "Como regla general se proporcionará por escrito."
+      },
+      {
+        "value": 3,
+        "text": "Como regla general se proporcionará verbalmente y por escrito."
+      },
+      {
+        "value": 4,
+        "text": "Como regla general se proporcionará por escrito cuando se trate de pacientes menores de edad."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Como regla general se proporcionará verbalmente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 4.1 Ley 41/2002: 'La información asistencial se proporcionará verbalmente dejando constancia en la historia clínica.' La regla general es la comunicación verbal. Respuesta A."
+  },
+  {
+    "id": "comun-t08_4",
+    "questionNum": 4,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la información asistencial contiene, como mínimo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La finalidad y la naturaleza de cada intervención."
+      },
+      {
+        "value": 2,
+        "text": "La finalidad y la naturaleza de cada intervención y sus riesgos."
+      },
+      {
+        "value": 3,
+        "text": "La finalidad y la naturaleza de cada intervención, sus riesgos y sus consecuencias."
+      },
+      {
+        "value": 4,
+        "text": "La finalidad y la naturaleza de cada intervención, sus riesgos, sus consecuencias y los derechos de las personas pacientes."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La finalidad y la naturaleza de cada intervención, sus riesgos y sus consecuencias."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 5.1 Ley 41/2002: El titular del derecho a la información es 'el paciente', y también se informará a las personas vinculadas a él por razones familiares o de hecho, en la medida que el paciente lo permita. El médico decide 'en la medida adecuada al grado de su desarrollo y madurez' en menores. La titularidad es del paciente, no del representante legal como norma general. Respuesta B."
+  },
+  {
+    "id": "comun-t08_5",
+    "questionNum": 5,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, garantiza el cumplimiento del derecho a la información asistencial:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona facultativa responsable de la persona paciente"
+      },
+      {
+        "value": 2,
+        "text": "La persona facultativa responsable de la persona paciente y el personal profesional que le atienda durante el proceso asistencial o le aplique una técnica o un procedimiento concreto."
+      },
+      {
+        "value": 3,
+        "text": "La persona facultativa responsable de la persona paciente y el personal de enfermería."
+      },
+      {
+        "value": 4,
+        "text": "El centro sanitario."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La persona facultativa responsable de la persona paciente y el personal profesional que le atienda durante el proceso asistencial o le aplique una técnica o un procedimiento concreto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 8.3 Ley 41/2002: El consentimiento informado por escrito es necesario en: intervención quirúrgica, procedimientos diagnósticos y terapéuticos invasores, y en general cuando se apliquen procedimientos que supongan riesgos o inconvenientes de notoria y previsible repercusión negativa sobre la salud. Respuesta D."
+  },
+  {
+    "id": "comun-t08_6",
+    "questionNum": 6,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la persona titular del derecho a la información asistencial es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho, en la medida que la persona paciente lo permita de manera expresa o tácita."
+      },
+      {
+        "value": 2,
+        "text": "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho, en la medida que la persona paciente lo permita de manera expresa."
+      },
+      {
+        "value": 3,
+        "text": "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho, en la medida que la persona paciente lo permita por escrito."
+      },
+      {
+        "value": 4,
+        "text": "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho, en la medida que la persona paciente lo permita de manera expresa o tácita."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 9.2.c Ley 41/2002: El consentimiento puede otorgarlo un representante cuando el paciente 'no sea capaz de tomar decisiones, a criterio del médico responsable de la asistencia, o su estado físico o psíquico no le permita hacerse cargo de su situación.' No se exige que sea resolución judicial. Respuesta C."
+  },
+  {
+    "id": "comun-t08_7",
+    "questionNum": 7,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, cuando la persona paciente, según el criterio del personal facultativo que le asiste, carezca de capacidad para entender la información a causa de su estado físico o psíquico:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La información se pondrá en conocimiento de las personas vinculadas a la persona paciente por razones familiares o de hecho si así lo dispone la autoridad judicial."
+      },
+      {
+        "value": 2,
+        "text": "La información se pondrá en conocimiento de las personas vinculadas a la persona paciente por razones familiares o de hecho, después de haber consultado al Comité de Ética Asistencial de Centro."
+      },
+      {
+        "value": 3,
+        "text": "La información se pondrá en conocimiento de las personas vinculadas a la persona paciente por razones familiares o de hecho después de haber consultado con la dirección del centro."
+      },
+      {
+        "value": 4,
+        "text": "La información se pondrá en conocimiento de las personas vinculadas a la persona paciente por razones familiares o de hecho."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La información se pondrá en conocimiento de las personas vinculadas a la persona paciente por razones familiares o de hecho."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 9.3.a Ley 41/2002: En caso de riesgo para la salud pública o riesgo inmediato grave para la integridad física o psíquica del paciente, el facultativo puede actuar sin consentimiento. Pero si el paciente tuviera capacidad, debe ser informado. Los representantes actúan en ausencia de capacidad. Respuesta B."
+  },
+  {
+    "id": "comun-t08_8",
+    "questionNum": 8,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, cuando existe riesgo inmediato grave para la integridad física o psíquica de la persona enferma y no es posible conseguir su autorización:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal facultativo podrá llevar a cabo las intervenciones clínicas indispensables en favor de la salud de la persona paciente, con el consentimiento de sus familiares."
+      },
+      {
+        "value": 2,
+        "text": "El personal facultativo podrá llevar a cabo las intervenciones clínicas indispensables en favor de la salud de la persona paciente, con el consentimiento de quien ostente la representación legal."
+      },
+      {
+        "value": 3,
+        "text": "El personal facultativo podrá llevar a cabo las intervenciones clínicas indispensables en favor de la salud de la persona paciente, con autorización judicial."
+      },
+      {
+        "value": 4,
+        "text": "El personal facultativo podrá llevar a cabo las intervenciones clínicas indispensables en favor de la salud de la persona paciente, sin necesidad de contar con su consentimiento."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El personal facultativo podrá llevar a cabo las intervenciones clínicas indispensables en favor de la salud de la persona paciente, sin necesidad de contar con su consentimiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 16 Ley 41/2002: Los usos de la historia clínica están regulados. El acceso de cada profesional se limita 'a los datos de la historia clínica relacionados con la asistencia que le haya prestado.' No hay acceso general de todo el personal del centro a todas las historias. Respuesta D."
+  },
+  {
+    "id": "comun-t08_9",
+    "questionNum": 9,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, se otorgará el consentimiento por representación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como regla general, cuando la persona paciente sea menor de edad, salvo que no sea capaz intelectual ni emocionalmente de comprender el alcance de la intervención."
+      },
+      {
+        "value": 2,
+        "text": "Como regla general, cuando la persona paciente sea menor de dieseis años, salvo que no sea capaz intelectual ni emocionalmente de comprender el alcance de la intervención."
+      },
+      {
+        "value": 3,
+        "text": "Como regla general, cuando la persona paciente sea menor de edad."
+      },
+      {
+        "value": 4,
+        "text": "Como regla general, cuando la persona paciente sea menor de dieciséis años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Como regla general, cuando la persona paciente sea menor de edad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 17.1 Ley 41/2002: Los centros sanitarios tienen la obligación de conservar la documentación clínica 'como mínimo CINCO AÑOS contados desde la fecha del alta de cada proceso asistencial.' Respuesta C."
+  },
+  {
+    "id": "comun-t08_10",
+    "questionNum": 10,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el personal facultativo proporcionará a la persona paciente, antes de recabar su consentimiento escrito, la información básica siguiente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todos los riesgos en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
+      },
+      {
+        "value": 2,
+        "text": "Todos los riesgos, siempre que sean graves, en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
+      },
+      {
+        "value": 3,
+        "text": "Todos los riesgos probables en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
+      },
+      {
+        "value": 4,
+        "text": "Todos los riesgos, siempre que sean probables y graves, en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Todos los riesgos en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 18.1 Ley 41/2002: El paciente tiene derecho de acceso a la documentación de su historia clínica. Los familiares solo acceden cuando el paciente esté fallecido y no lo haya prohibido expresamente, o cuando tengan interés legítimo. La norma general es el acceso del propio paciente. Respuesta A."
+  },
+  {
+    "id": "comun-t08_11",
+    "questionNum": 11,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la historia clínica será archivada por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cada centro."
+      },
+      {
+        "value": 2,
+        "text": "Cada servicio."
+      },
+      {
+        "value": 3,
+        "text": "Cada sistema de salud."
+      },
+      {
+        "value": 4,
+        "text": "Cada centro, servicio y sistema de salud."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cada centro."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 11.1 Ley 41/2002: 'Por el documento de instrucciones previas, una persona mayor de edad, capaz y libre, manifiesta anticipadamente su voluntad con objeto de que ésta se cumpla en el momento en que llegue a situaciones en cuyas circunstancias no sea capaz de expresarlos personalmente.' Las instrucciones previas pueden referirse a los cuidados y tratamiento o al destino de sus órganos. NO sirven para acciones contrarias a la lex artis, al ordenamiento jurídico o que no se correspondan con el supuesto clínico previsto. Respuesta B."
+  },
+  {
+    "id": "comun-t08_12",
+    "questionNum": 12,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el acceso a la historia clínica con fines judiciales, epidemiológicos, de salud pública, de investigación o de docencia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Obliga a preservar los datos de identificación personal de la persona paciente, separados de los de carácter clinicoasistencial, de manera que, como regla general, quede asegurado el anonimato, salvo que quien sea titular de dichos datos haya dado su consentimiento para no separarlos o exista autorización judicial."
+      },
+      {
+        "value": 2,
+        "text": "Obliga a solicitar el consentimiento de la persona paciente y a preservar sus datos de identificación personal separados de los de carácter clinicoasistencial, de manera que, como regla general, quede asegurado el anonimato."
+      },
+      {
+        "value": 3,
+        "text": "Obliga a preservar los datos de identificación personal de la persona paciente, separados de los de carácter clinicoasistencial, de manera que, como regla general, quede asegurado el anonimato, salvo que el Comité de Ética haya otorgado su autorización para no separarlos."
+      },
+      {
+        "value": 4,
+        "text": "Obliga a preservar los datos de identificación personal de la persona paciente, separados de los de carácter clinicoasistencial, de manera que, como regla general, quede asegurado el anonimato, salvo que quien sea titular de dichos datos haya dado su consentimiento para no separarlos, si bien existen excepciones a esta regla."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Obliga a preservar los datos de identificación personal de la persona paciente, separados de los de carácter clinicoasistencial, de manera que, como regla general, quede asegurado el anonimato, salvo que quien sea titular de dichos datos haya dado su consentimiento para no separarlos o exista autorización judicial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 6 Ley 41/2002: 'El médico responsable del paciente tiene la obligación de informarle... sobre el diagnóstico, pronóstico y alternativas de tratamiento.' La persona responsable de dar la información asistencial es el MÉDICO RESPONSABLE. Respuesta A."
+  },
+  {
+    "id": "comun-t08_13",
+    "questionNum": 13,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la documentación clínica se conservará:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como mínimo, tres años contados desde la fecha del alta de cada proceso asistencial."
+      },
+      {
+        "value": 2,
+        "text": "Como mínimo, cinco años contados desde la fecha del alta de cada proceso asistencial."
+      },
+      {
+        "value": 3,
+        "text": "Como mínimo, diez años contados desde la fecha del alta de cada proceso asistencial.."
+      },
+      {
+        "value": 4,
+        "text": "Como mínimo, quince años contados desde la fecha del alta de cada proceso asistencial."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Como mínimo, cinco años contados desde la fecha del alta de cada proceso asistencial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 15 Ley 41/2002: La historia clínica de cada paciente incorporará: datos de identificación del paciente y del proceso asistencial, consentimientos informados, informes de urgencias, anamnesis y exploración, evolución, órdenes médicas, informe de alta, etc. Respuesta C."
+  },
+  {
+    "id": "comun-t08_14",
+    "questionNum": 14,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el acceso a la historia clínica de personas fallecidas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No se facilitará a terceros, salvo que se trate de familiares de la persona fallecida."
+      },
+      {
+        "value": 2,
+        "text": "Se facilitará a familiares salvo que la persona fallecida lo hubiese prohibido expresamente."
+      },
+      {
+        "value": 3,
+        "text": "Se facilitará a familiares hasta el segundo grado, salvo que la persona fallecida lo hubiese prohibido expresamente."
+      },
+      {
+        "value": 4,
+        "text": "Se facilitará a familiares hasta el tercer grado, salvo que la persona fallecida lo hubiese prohibido expresamente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se facilitará a familiares salvo que la persona fallecida lo hubiese prohibido expresamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 9.1 Ley 41/2002: 'La renuncia del paciente a recibir información está limitada por el interés de la salud del propio paciente, de terceros, de la colectividad y por las exigencias terapéuticas del caso.' Si la comunicación fuera perjudicial, el médico puede restringirla. Respuesta D."
+  },
+  {
+    "id": "comun-t08_15",
+    "questionNum": 15,
+    "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, en caso de que la persona paciente no acepte el alta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal facultativo, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la dirección del centro para que confirme o revoque la decisión."
+      },
+      {
+        "value": 2,
+        "text": "El personal facultativo, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión."
+      },
+      {
+        "value": 3,
+        "text": "La dirección del centro, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión."
+      },
+      {
+        "value": 4,
+        "text": "La dirección del centro, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad administrativa competente para que confirme o revoque la decisión."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La dirección del centro, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 10.3 Ley 41/2002: El paciente puede revocar su consentimiento en cualquier momento, con la única obligación de dejar constancia por escrito en su historia clínica. Respuesta B."
+  },
+  {
+    "id": "comun-t08_16",
+    "questionNum": 16,
+    "question": "Según la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, si el nombramiento de representante en el documento de instrucciones previas ha recaído en favor de la persona cónyuge o pareja de hecho de la persona otorgante:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
+      },
+      {
+        "value": 2,
+        "text": "Se extingue a partir bien de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
+      },
+      {
+        "value": 3,
+        "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
+      },
+      {
+        "value": 4,
+        "text": "Se extingue bien a partir de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se extingue bien a partir de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 2 Ley 7/2002: La declaración puede incluir: instrucciones sobre los tratamientos y cuidados que la persona desea o no recibir, la designación de una persona representante y el destino del cuerpo o de sus órganos tras el fallecimiento. Todas son correctas. Respuesta D."
+  }
+]

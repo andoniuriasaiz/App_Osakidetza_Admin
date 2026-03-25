@@ -1,0 +1,362 @@
+[
+  {
+    "id": "comun-t10_1",
+    "questionNum": 1,
+    "question": "Según dispone la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, podrán tener acceso a los datos personales de las personas fallecidas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las personas vinculadas a la persona fallecida por razones familiares o de hecho así como quienes ostenten la condición de herederas, en todo caso."
+      },
+      {
+        "value": 2,
+        "text": "Solo las personas vinculadas a la persona fallecida por razones familiares siempre que lo hubiera autorizado expresamente la persona fallecida."
+      },
+      {
+        "value": 3,
+        "text": "Las personas vinculadas a la persona fallecida por razones familiares o de hecho así como quienes ostenten la condición de herederas, salvo que la persona fallecida lo hubiese prohibido expresamente."
+      },
+      {
+        "value": 4,
+        "text": "En caso de que la persona fallecida fuera menor de edad, el acceso podrá ejercerse también por sus representantes legales o por el Ministerio Fiscal que siempre actuará de oficio."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las personas vinculadas a la persona fallecida por razones familiares o de hecho así como quienes ostenten la condición de herederas, salvo que la persona fallecida lo hubiese prohibido expresamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 9 RGPD y art. 9 LOPDGDD: Los datos relativos a la salud son una categoría especial de datos personales cuyo tratamiento está prohibido con carácter general, salvo en los supuestos que el propio RGPD reconoce (consentimiento explícito, interés vital, protección de la salud, etc.). Respuesta C."
+  },
+  {
+    "id": "comun-t10_2",
+    "questionNum": 2,
+    "question": "Señale la respuesta que no es correcta. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales a efectos del tratamiento de los datos, el consentimiento de la persona afectada tiene que ser una manifestación de voluntad que cumpla las siguientes características:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Libre."
+      },
+      {
+        "value": 2,
+        "text": "Verbal."
+      },
+      {
+        "value": 3,
+        "text": "Específica."
+      },
+      {
+        "value": 4,
+        "text": "Informada."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Verbal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 5 RGPD: Los principios del tratamiento de datos personales son: licitud, lealtad y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad. Respuesta A."
+  },
+  {
+    "id": "comun-t10_3",
+    "questionNum": 3,
+    "question": "Con relación al tratamiento de los datos personales de una persona menor de edad, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años."
+      },
+      {
+        "value": 2,
+        "text": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales no prevé que las personas menores de edad puedan dar su consentimiento válidamente a estos efectos."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años."
+      },
+      {
+        "value": 4,
+        "text": "El tratamiento de los datos de las personas menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el consentimiento de quienes ejercen la patria potestad o tutela, con el alcance que dichas personas determinen."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El tratamiento de los datos de las personas menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el consentimiento de quienes ejercen la patria potestad o tutela, con el alcance que dichas personas determinen."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 13-14 RGPD: El responsable del tratamiento debe informar al interesado, entre otros aspectos, sobre la base jurídica del tratamiento, los fines del mismo, los destinatarios de los datos y los derechos que le asisten. Respuesta B."
+  },
+  {
+    "id": "comun-t10_4",
+    "questionNum": 4,
+    "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en su artículo 9 considera categorías especiales de datos aquellos que permitan, respecto a la persona afectada, identificar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su ideología y afiliación sindical."
+      },
+      {
+        "value": 2,
+        "text": "Su religión y orientación sexual ."
+      },
+      {
+        "value": 3,
+        "text": "Sus creencias u origen racial o étnico."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Arts. 15-22 RGPD: Los derechos de los interesados incluyen: acceso (art. 15), rectificación (art. 16), supresión/olvido (art. 17), limitación (art. 18), portabilidad (art. 20), oposición (art. 21). La 'restricción de acceso de terceros' no es un derecho propiamente dicho reconocido de forma autónoma. Respuesta D."
+  },
+  {
+    "id": "comun-t10_5",
+    "questionNum": 5,
+    "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales establece que el tratamiento de datos de naturaleza penal podrá llevarse a cabo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo por profesionales de la abogacía y cuando tengan por objeto recoger la información facilitada por quienes les contraten para el ejercicio de sus funciones."
+      },
+      {
+        "value": 2,
+        "text": "Por profesionales de la abogacía y de la procura, cuando tengan por objeto recoger la información facilitada por quienes les contraten para el ejercicio de sus funciones."
+      },
+      {
+        "value": 3,
+        "text": "En los casos previstos por la propia Ley Orgánica 3/2018 y en otras normas de rango reglamentario."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente en los supuestos amparados en una norma de Derecho de la Unión y en la propia Ley Orgánica 2/2018."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Por profesionales de la abogacía y de la procura, cuando tengan por objeto recoger la información facilitada por quienes les contraten para el ejercicio de sus funciones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 83 RGPD: Las sanciones pueden alcanzar hasta 20 millones de euros o el 4% del volumen de negocio global anual. La Agencia Española de Protección de Datos (AEPD) es la autoridad de control en España. Respuesta A."
+  },
+  {
+    "id": "comun-t10_6",
+    "questionNum": 6,
+    "question": "Respecto al derecho de rectificación que regula la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona afectada deberá indicar en su solicitud a qué datos se refiere y deberá acompañar, en todo caso, la documentación justificativa de la inexactitud de los datos."
+      },
+      {
+        "value": 2,
+        "text": "La persona afectada deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse, y cuando sea preciso, deberá acompañar la documentación justificativa de la inexactitud o carácter incompleto de los datos objeto de tratamiento."
+      },
+      {
+        "value": 3,
+        "text": "La persona afectada deberá indicar en su solicitud solo la corrección que haya de realizarse y debe siempre acompañar la documentación justificativa de la inexactitud de los datos."
+      },
+      {
+        "value": 4,
+        "text": "No es necesario que la persona afectada indique expresamente en su solicitud qué datos deben rectificarse."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La persona afectada deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse, y cuando sea preciso, deberá acompañar la documentación justificativa de la inexactitud o carácter incompleto de los datos objeto de tratamiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 37 RGPD: El Delegado de Protección de Datos es obligatorio para autoridades y organismos públicos, para organizaciones que realizan actividades de seguimiento sistemático a gran escala y para quienes tratan a gran escala datos de categorías especiales. Respuesta B."
+  },
+  {
+    "id": "comun-t10_7",
+    "questionNum": 7,
+    "question": "Con relación al tratamiento de datos con fines de videovigilancia, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo las personas físicas podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes, así como sus instalaciones."
+      },
+      {
+        "value": 2,
+        "text": "Los datos serán suprimidos, en todo caso, en el plazo máximo de un mes desde su captación."
+      },
+      {
+        "value": 3,
+        "text": "Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones."
+      },
+      {
+        "value": 4,
+        "text": "En el caso de que los datos hubieran de ser conservados más allá del plazo de un mes desde su captación para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones, deberán ser puestas a disposición de la autoridad competente en un plazo máximo de cuarenta y ocho horas desde que se tuviera conocimiento de la existencia de la grabación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 32 RGPD: El responsable y el encargado del tratamiento aplicarán medidas técnicas y organizativas apropiadas para garantizar la seguridad. Incluyen: seudonimización y cifrado, confidencialidad, integridad, disponibilidad y resiliencia, restauración del acceso en caso de incidente y verificación periódica de eficacia. Respuesta C."
+  },
+  {
+    "id": "comun-t10_8",
+    "questionNum": 8,
+    "question": "Respecto a los sistemas de información de denuncias internas que contempla la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, es correcta la siguiente afirmación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En todo caso, transcurridos tres meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos."
+      },
+      {
+        "value": 2,
+        "text": "En todo caso, transcurridos seis meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos."
+      },
+      {
+        "value": 3,
+        "text": "En todo caso, y sin excepción, transcurridos seis meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias."
+      },
+      {
+        "value": 4,
+        "text": "La Ley no prevé plazo temporal alguno para la supresión de los datos del sistema de denuncias."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La Ley no prevé plazo temporal alguno para la supresión de los datos del sistema de denuncias."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 33 RGPD: La violación de seguridad debe notificarse a la autoridad de control 'sin dilación indebida y, de ser posible, en un plazo máximo de 72 HORAS desde que el responsable haya tenido conocimiento de ella.' Respuesta D."
+  },
+  {
+    "id": "comun-t10_9",
+    "questionNum": 9,
+    "question": "Señale la respuesta correcta respecto a la Agencia Española de Protección de Datos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su denominación oficial es “Agencia Española de Protección de Datos, Autoridad Administrativa Independiente”."
+      },
+      {
+        "value": 2,
+        "text": "Es una entidad administrativa de ámbito estatal sin personalidad jurídica propia."
+      },
+      {
+        "value": 3,
+        "text": "Su denominación oficial es “Agencia Española de Protección de Datos”."
+      },
+      {
+        "value": 4,
+        "text": "Se relaciona con el Gobierno a través de la Presidencia del Gobierno."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Su denominación oficial es “Agencia Española de Protección de Datos, Autoridad Administrativa Independiente”."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 6 RGPD: El tratamiento es lícito si concurre al menos una de las bases jurídicas: consentimiento, ejecución de contrato, obligación legal, intereses vitales, misión en interés público o ejercicio de poderes públicos, o intereses legítimos. El consentimiento no es el único fundamento. Respuesta A."
+  },
+  {
+    "id": "comun-t10_10",
+    "questionNum": 10,
+    "question": "Respecto al procedimiento de nombramiento de la Presidencia de la Agencia Española de Protección de Datos, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Será nombrada por el Gobierno, a propuesta del Ministerio de Justicia, y estará auxiliada por dos personas adjuntas."
+      },
+      {
+        "value": 2,
+        "text": "Su nombramiento debe ser ratificado por la Comisión de Justicia del Congreso de los Diputados por mayoría absoluta de sus integrantes en primera votación."
+      },
+      {
+        "value": 3,
+        "text": "Su nombramiento debe ser ratificado por la Comisión de Justicia del Congreso de los Diputados por mayoría de tres quintos de sus integrantes en primera votación."
+      },
+      {
+        "value": 4,
+        "text": "Será nombrada por el Parlamento mediante Ley."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Su nombramiento debe ser ratificado por la Comisión de Justicia del Congreso de los Diputados por mayoría absoluta de sus integrantes en primera votación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t10",
+    "explanation": "Art. 28 RGPD: Cuando el tratamiento se realice por cuenta del responsable, este solo utilizará encargados que ofrezcan garantías suficientes. Las relaciones entre responsable y encargado deben regularse mediante un contrato u otro acto jurídico. Respuesta B."
+  }
+]

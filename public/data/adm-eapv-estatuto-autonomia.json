@@ -1,0 +1,506 @@
+[
+  {
+    "id": "adm-eapv-estatuto-autonomia_1",
+    "questionNum": 1,
+    "question": "Tienen derecho a formar parte de la Comunidad Autónoma del País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Guipúzkoa, Álava y Vizcaya."
+      },
+      {
+        "value": 2,
+        "text": "Guipúzkoa, Álava, Vizcaya y Baja Navarra."
+      },
+      {
+        "value": 3,
+        "text": "Guipúzkoa, Álava, Vizcaya, Zuberoa y Lapurdi."
+      },
+      {
+        "value": 4,
+        "text": "Guipúzkoa, Álava, Vizcaya y Navarra."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Guipúzkoa, Álava, Vizcaya y Navarra."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 2 EAPV: 'Los Territorios Históricos que integran el País Vasco son: Álava, Guipúzcoa y Vizcaya, así como Navarra, siempre que esta última decida su incorporación de acuerdo con el procedimiento establecido en la disposición transitoria cuarta.' → Tienen derecho a formar parte: Álava + Guipúzcoa + Vizcaya (ya integradas) + Navarra (derecho de incorporación). Respuesta D."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_2",
+    "questionNum": 2,
+    "question": "La bandera del País Vasco es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tribanda."
+      },
+      {
+        "value": 2,
+        "text": "Crucífera."
+      },
+      {
+        "value": 3,
+        "text": "Bicrucífera."
+      },
+      {
+        "value": 4,
+        "text": "Farpada."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Bicrucífera."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 5 EAPV: 'La bandera del País Vasco es la bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo.' La palabra exacta del estatuto es 'bicrucífera' (dos cruces: aspa diagonal verde + cruz recta blanca superpuesta). Respuesta C."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_3",
+    "questionNum": 3,
+    "question": "Es la institución consultiva oficial en lo referente al euskera:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Real Academia de la Lengua Vasca-Euskaltzaindia."
+      },
+      {
+        "value": 2,
+        "text": "El Instituto Cultural Vasco."
+      },
+      {
+        "value": 3,
+        "text": "La Asociación de Terminología (UZEI)."
+      },
+      {
+        "value": 4,
+        "text": "El Departamento de Cultura y Política Lingüística del Gobierno Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La Real Academia de la Lengua Vasca-Euskaltzaindia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 6.3 EAPV: 'La Real Academia de la Lengua Vasca-Euskaltzaindia es institución consultiva oficial en lo referente al euskera.' Fijado expresamente en el Estatuto. Respuesta A."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_4",
+    "questionNum": 4,
+    "question": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía del País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los territorios o municipios que estuvieran enclavados parcialmente dentro del territorio de la Comunidad Autónoma podrán agregarse a ella previo cumplimiento de ciertos requisitos."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier territorio o municipio limítrofe con el territorio de la Comunidad Autónoma podrán agregarse a ella previo cumplimiento de ciertos requisitos."
+      },
+      {
+        "value": 3,
+        "text": "Los territorios o municipios que estuvieran enclavados totalmente dentro del territorio de la Comunidad Autónoma podrán agregarse a ella previo cumplimiento de ciertos requisitos."
+      },
+      {
+        "value": 4,
+        "text": "No se contempla la posibilidad de que otros territorios o municipios que estuvieran enclavados dentro del territorio de la Comunidad Autónoma puedan agregarse a ella previo cumplimiento de ciertos requisitos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los territorios o municipios que estuvieran enclavados totalmente dentro del territorio de la Comunidad Autónoma podrán agregarse a ella previo cumplimiento de ciertos requisitos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 8 EAPV: 'Los territorios o municipios que estuvieran enclavados totalmente dentro del territorio de la Comunidad Autónoma podrán, por las causas que sean, incorporarse a dicha Comunidad previa aprobación de sus órganos representativos.' El requisito es estar TOTALMENTE enclavado dentro del territorio. Los casos reales son Treviño (Álava) y Valle de Villaverde (Bizkaia), ambos 100% enclavados. Respuesta C."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_5",
+    "questionNum": 5,
+    "question": "Los poderes públicos vascos, en el ámbito de su competencia, adoptarán medidas que tienden a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Impulsar políticas para la promoción de la salud de sus ciudadanos."
+      },
+      {
+        "value": 2,
+        "text": "Fomentar el incremento del empleo y la estabilidad económica."
+      },
+      {
+        "value": 3,
+        "text": "Garantizar la inclusión de personas extranjeras residentes en el País Vasco."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Fomentar el incremento del empleo y la estabilidad económica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 9.2 EAPV: 'Los poderes públicos vascos, en el ámbito de su competencia, adoptarán aquellas medidas que tiendan a fomentar el incremento del empleo y la estabilidad económica.' Esta es la fórmula literal del artículo. Respuesta B."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_6",
+    "questionNum": 6,
+    "question": "El Parlamento Vasco es elegido por un periodo de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dos años."
+      },
+      {
+        "value": 2,
+        "text": "Tres años."
+      },
+      {
+        "value": 3,
+        "text": "Cuatro años."
+      },
+      {
+        "value": 4,
+        "text": "Cinco años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cuatro años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 26.1 EAPV: 'El Parlamento Vasco será elegido por un período de cuatro años.' Mismo periodo que el Congreso de los Diputados y la mayoría de parlamentos autonómicos. Respuesta C."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_7",
+    "questionNum": 7,
+    "question": "Los miembros del Parlamento Vasco durante su mandato, por los actos delictivos cometidos en el ámbito territorial de la Comunidad Autónoma:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Podrán ser detenidos, pero no retenidos."
+      },
+      {
+        "value": 2,
+        "text": "Podrán ser retenidos por un periodo máximo de 24 horas."
+      },
+      {
+        "value": 3,
+        "text": "Independientemente del delito, no podrán ser detenidos."
+      },
+      {
+        "value": 4,
+        "text": "No podrán ser detenidos ni retenidos sino en caso de flagrante delito."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No podrán ser detenidos ni retenidos sino en caso de flagrante delito."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 26.3 EAPV: 'Los miembros del Parlamento Vasco, por los actos delictivos cometidos en el ámbito territorial de la Comunidad Autónoma, no podrán ser detenidos ni retenidos sino en caso de flagrante delito.' Inmunidad parlamentaria clásica limitada al territorio autonómico. Respuesta D."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_8",
+    "questionNum": 8,
+    "question": "El Parlamento Vasco fijará su Reglamento Interno, que deberá ser aprobado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La mayoría absoluta de sus miembros."
+      },
+      {
+        "value": 2,
+        "text": "La mitad de sus miembros."
+      },
+      {
+        "value": 3,
+        "text": "La mayoría simple de sus miembros."
+      },
+      {
+        "value": 4,
+        "text": "Un tercio de los miembros y el Presidente."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La mayoría absoluta de sus miembros."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 27.1 EAPV: 'El Parlamento aprobará su propio Reglamento, que deberá ser aprobado por mayoría absoluta de sus miembros.' Mayoría absoluta (más de la mitad del total de miembros), no simple. Respuesta A."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_9",
+    "questionNum": 9,
+    "question": "En relación al Parlamento Vasco, los períodos ordinarios de sesiones durarán como mínimo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siete meses al año."
+      },
+      {
+        "value": 2,
+        "text": "Ocho meses al año."
+      },
+      {
+        "value": 3,
+        "text": "Nueve meses al año."
+      },
+      {
+        "value": 4,
+        "text": "Diez meses al año."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ocho meses al año."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 27.2 EAPV: 'El Parlamento se reunirá en períodos ordinarios de sesiones durante ocho meses como mínimo al año.' La sesión ordinaria abarca típicamente dos períodos: febrero-junio y septiembre-diciembre. Respuesta B."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_10",
+    "questionNum": 10,
+    "question": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco, la Cámara podrá reunirse en sesión extraordinaria a petición de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Del Gobierno y la Diputación Permanente."
+      },
+      {
+        "value": 2,
+        "text": "De la Diputación Permanente y la tercera parte de sus miembros."
+      },
+      {
+        "value": 3,
+        "text": "El Gobierno y la mitad de los miembros de la Diputación Permanente."
+      },
+      {
+        "value": 4,
+        "text": "El Gobierno, de la Diputación Permanente o de la tercera parte de sus miembros."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El Gobierno, de la Diputación Permanente o de la tercera parte de sus miembros."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 27.3 EAPV: 'La Cámara podrá reunirse en período extraordinario de sesiones a petición del Gobierno, de la Diputación Permanente o de la tercera parte de sus miembros.' Los tres órganos tienen capacidad de convocatoria. Respuesta D."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_11",
+    "questionNum": 11,
+    "question": "El Presidente del Gobierno Vasco ordenará la publicación de las Leyes del Parlamento Vasco en el “Boletín Oficial del País Vasco” en el plazo de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Nueve días de su aprobación."
+      },
+      {
+        "value": 2,
+        "text": "Doce días de su aprobación."
+      },
+      {
+        "value": 3,
+        "text": "Quince días de su aprobación."
+      },
+      {
+        "value": 4,
+        "text": "Dieciocho días de su aprobación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Quince días de su aprobación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 27.4 EAPV: 'Las Leyes del Parlamento Vasco serán promulgadas por el Presidente del Gobierno Vasco, quien ordenará su publicación en el Boletín Oficial del País Vasco en el plazo de quince días de su aprobación.' Plazo de 15 días desde la aprobación parlamentaria. Respuesta C."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_12",
+    "questionNum": 12,
+    "question": "En relación a las Leyes del Parlamento Vasco publicadas en el “Boletín Oficial del País Vasco”, a efectos de su vigencia regirá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La fecha de publicación."
+      },
+      {
+        "value": 2,
+        "text": "La fecha inmediatamente posterior al día de publicación."
+      },
+      {
+        "value": 3,
+        "text": "La fecha de su aprobación."
+      },
+      {
+        "value": 4,
+        "text": "La fecha inmediatamente posterior al día de su aprobación"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La fecha de publicación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 27.4 EAPV (continuación): 'Para la entrada en vigor de las leyes, regirá a todos los efectos la fecha de publicación en el Boletín Oficial del País Vasco.' La fecha de referencia para la vigencia es la de publicación en el BOPV, no la de aprobación ni la posterior. Respuesta A."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_13",
+    "questionNum": 13,
+    "question": "Es motivo de cese del Gobierno Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Pérdida de confianza parlamentaria."
+      },
+      {
+        "value": 2,
+        "text": "Fallecimiento de su Presidente."
+      },
+      {
+        "value": 3,
+        "text": "Sólo cuando finaliza la legislatura."
+      },
+      {
+        "value": 4,
+        "text": "a) y b) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) y b) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "Art. 46 EAPV: El Gobierno Vasco cesa por: celebración de elecciones al Parlamento Vasco, pérdida de la confianza parlamentaria (art. 47), dimisión o fallecimiento de su Presidente. La opción C (solo al final de legislatura) es falsa. Las opciones A (pérdida de confianza) y B (fallecimiento) son ambas causas de cese → Respuesta D: a) y b) son correctas."
+  },
+  {
+    "id": "adm-eapv-estatuto-autonomia_14",
+    "questionNum": 14,
+    "question": "¿En qué supuesto puede obtenerse la segunda opinión médica en centros sanitarios fuera de la Comunidad Autónoma del País Vasco?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando el paciente lo solicite expresamente."
+      },
+      {
+        "value": 2,
+        "text": "Cuando el primer diagnóstico haya sido emitido en atención primaria."
+      },
+      {
+        "value": 3,
+        "text": "Cuando no exista centro público disponible en el territorio."
+      },
+      {
+        "value": 4,
+        "text": "Cuando sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, previa autorización del Departamento de Sanidad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Cuando sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, previa autorización del Departamento de Sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-eapv-estatuto-autonomia",
+    "explanation": "D. 149/2007 Art. 6.2: 'Excepcionalmente, cuando sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, la segunda opinión médica podrá obtenerse en centros sanitarios fuera de la Comunidad Autónoma del País Vasco, previa autorización del Departamento de Sanidad.' Requiere circunstancias especiales de técnica + autorización expresa del Departamento. Respuesta D."
+  }
+]

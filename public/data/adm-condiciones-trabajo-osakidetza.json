@@ -1,0 +1,398 @@
+[
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_1",
+    "questionNum": 1,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009 Indica de esta relación a qué personal de Osakidetza NO le será de aplicación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal funcionario de carrera de las organizaciones de servicios de Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "El personal estatutario fijo."
+      },
+      {
+        "value": 3,
+        "text": "El personal laboral temporal contratado de acuerdo con el artículo 26.6 de la Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "El personal con relación de empleo estatutaria o funcionarial de carácter interino para la cobertura de necesidades que se encuentren incluidas dentro de los límites de la autorización de efectivos de carácter estructural, en tanto no sean objeto de cobertura ordinaria por los mecanismos de acceso y provisión que establece la Ley de Ordenación Sanitaria de Euskadi."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El personal laboral temporal contratado de acuerdo con el artículo 26.6 de la Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 2 (ámbito de aplicación): El Acuerdo es de aplicación al personal ESTATUTARIO y al personal LABORAL FIJO Y TEMPORAL de Osakidetza, EXCEPTO el personal laboral temporal contratado al amparo del art. 26.6 de la Ley de Ordenación sanitaria de Euskadi, que queda EXCLUIDO expresamente. Respuesta C."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_2",
+    "questionNum": 2,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, con relación a la ropa de trabajo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Osakidetza proporcionará al personal ropa y calzado de trabajo adecuados a su puesto de trabajo, según las disposiciones existentes, siendo obligatorio su uso. Se proporcionará con la periodicidad que según la prenda corresponda, reponiéndose en caso de deterioro mediante su entrega en cualquier momento anterior al cumplimiento del plazo."
+      },
+      {
+        "value": 2,
+        "text": "Osakidetza proporcionará al personal ropa y calzado de trabajo adecuados a su puesto de trabajo, según las disposiciones existentes, siendo voluntario su uso. Se proporcionará con la periodicidad que según la prenda corresponda, reponiéndose en caso de deterioro mediante su entrega en cualquier momento anterior al cumplimiento del plazo."
+      },
+      {
+        "value": 3,
+        "text": "Osakidetza no proporcionará al personal ropa y calzado de trabajo adecuados a su puesto de trabajo, según las disposiciones existentes, siendo obligatorio su uso."
+      },
+      {
+        "value": 4,
+        "text": "Osakidetza proporcionará al personal ropa y calzado de trabajo adecuados a su puesto de trabajo sólo para los fines de semana, según las disposiciones existentes, siendo obligatorio su uso. Se proporcionará con la periodicidad que según la prenda corresponda, reponiéndose en caso de deterioro mediante su entrega en cualquier momento anterior al cumplimiento del plazo."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Osakidetza proporcionará al personal ropa y calzado de trabajo adecuados a su puesto de trabajo, según las disposiciones existentes, siendo obligatorio su uso. Se proporcionará con la periodicidad que según la prenda corresponda, reponiéndose en caso de deterioro mediante su entrega en cualquier momento anterior al cumplimiento del plazo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 14 (ropa de trabajo): 'La organización de servicios facilitará al personal que así lo requiera la ropa de trabajo necesaria para el ejercicio de su actividad profesional, SIENDO OBLIGATORIO su uso.' La obligatoriedad del uso de la ropa de trabajo es la característica definitoria del artículo. Respuesta A."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_3",
+    "questionNum": 3,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La jubilación del personal estatutario y funcionario a los que les es de aplicación el presente Acuerdo se declarará de oficio a los sesenta y cinco años de edad, pudiendo prolongar voluntariamente su permanencia en dicha situación hasta, como máximo, los sesenta y siete años, en los términos establecidos en la normativa vigente."
+      },
+      {
+        "value": 2,
+        "text": "La jubilación del personal estatutario y funcionario a los que les es de aplicación el presente Acuerdo se declarará de oficio a los sesenta y cinco años de edad, pudiendo prolongar voluntariamente su permanencia en dicha situación hasta, como máximo, los setenta años, en los términos establecidos en la normativa vigente."
+      },
+      {
+        "value": 3,
+        "text": "La jubilación del personal estatutario y funcionario a los que les es de aplicación el presente Acuerdo se declarará de oficio a los sesenta y cuatro años de edad, pudiendo prolongar voluntariamente su permanencia en dicha situación hasta, como máximo, los setenta y siete, en los términos establecidos en la normativa vigente."
+      },
+      {
+        "value": 4,
+        "text": "La jubilación del personal estatutario y funcionario a los que les es de aplicación el presente Acuerdo se declarará de oficio a los sesenta años de edad, pudiendo prolongar voluntariamente su permanencia en dicha situación hasta, como máximo, los sesenta y cinco años, en los términos establecidos en la normativa vigente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La jubilación del personal estatutario y funcionario a los que les es de aplicación el presente Acuerdo se declarará de oficio a los sesenta y cinco años de edad, pudiendo prolongar voluntariamente su permanencia en dicha situación hasta, como máximo, los setenta años, en los términos establecidos en la normativa vigente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 20 (jubilación): 'La edad de jubilación forzosa será la de 65 años. No obstante, el personal podrá solicitar la prórroga de su permanencia en el servicio activo hasta un MÁXIMO DE 70 AÑOS de edad.' La edad ordinaria es 65 años y el límite máximo de prórroga es 70 años. Respuesta B."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_4",
+    "questionNum": 4,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Con carácter general, salvo para el personal en sistema de turnos rotatorios y a excepción de lo que proceda en el ámbito de Atención Primaria acerca de la prestación de servicios los sábados, la jornada normalizada diaria será de 8 horas."
+      },
+      {
+        "value": 2,
+        "text": "Con carácter general, salvo para el personal en sistema de turnos rotatorios y a excepción de lo que proceda en el ámbito de Atención Primaria acerca de la prestación de servicios los sábados, la jornada normalizada diaria será de 6 horas."
+      },
+      {
+        "value": 3,
+        "text": "Con carácter general, salvo para el personal en sistema de turnos rotatorios y a excepción de lo que proceda en el ámbito de Atención Primaria acerca de la prestación de servicios los sábados, la jornada normalizada diaria será de 7 horas."
+      },
+      {
+        "value": 4,
+        "text": "Con carácter general, salvo para el personal en sistema de turnos rotatorios y a excepción de lo que proceda en el ámbito de Atención Primaria acerca de la prestación de servicios los sábados, la jornada normalizada diaria será de 7,5 horas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Con carácter general, salvo para el personal en sistema de turnos rotatorios y a excepción de lo que proceda en el ámbito de Atención Primaria acerca de la prestación de servicios los sábados, la jornada normalizada diaria será de 7 horas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 27.3: 'Con carácter general, LA JORNADA NORMALIZADA DIARIA SERÁ DE 7 HORAS.' Este artículo fija expresamente la jornada diaria normalizada en 7 horas (no 8). Respuesta C."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_5",
+    "questionNum": 5,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La jornada complementaria no tendrá en ningún caso la condición ni el tratamiento establecido para las horas extraordinarias. En consecuencia, no estará afectada por las limitaciones que respecto a la realización de horas extraordinarias establecen o puedan establecer otras normas y disposiciones, y su compensación o retribución específica son las que expresamente se fijan en el anexo correspondiente del presente Acuerdo."
+      },
+      {
+        "value": 2,
+        "text": "La jornada complementaria tendrá la condición y el tratamiento establecido para las horas extraordinarias."
+      },
+      {
+        "value": 3,
+        "text": "La jornada complementaria en algunos casos tendrá la condición y el tratamiento establecido para las horas extraordinarias."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La jornada complementaria no tendrá en ningún caso la condición ni el tratamiento establecido para las horas extraordinarias. En consecuencia, no estará afectada por las limitaciones que respecto a la realización de horas extraordinarias establecen o puedan establecer otras normas y disposiciones, y su compensación o retribución específica son las que expresamente se fijan en el anexo correspondiente del presente Acuerdo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 28.4: 'La jornada complementaria NO TENDRÁ, en ningún caso, la condición ni los efectos de las HORAS EXTRAORDINARIAS.' La jornada complementaria es una categoría específica del ámbito sanitario, distinta y separada del régimen de horas extraordinarias. Respuesta A."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_6",
+    "questionNum": 6,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal tendrá derecho a disfrutar durante cada año completo de servicio de una vacación retribuida de 28 días laborales, computándose los sábados como laborales."
+      },
+      {
+        "value": 2,
+        "text": "Para los que no alcancen el año de servicio la duración vacacional será proporcional al tiempo de servicio transcurrido desde la fecha de su ingreso o reingreso hasta el 31 de Diciembre del mismo año."
+      },
+      {
+        "value": 3,
+        "text": "Las vacaciones no podrán ser compensadas, ni en todo ni en parte, en metálico, excepto cuando durante el transcurso del año se produzca la extinción de la relación de empleo, o sea declarado el trabajador en la situación de excedencia o de suspensión de funciones y aún no haya disfrutado o contemplado en su total disfrute el período vacacional."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 regulación de vacaciones: a) Las vacaciones anuales son de 28 DÍAS LABORABLES [→ opción a: VERDAD]; b) Cuando no se haya completado el año, las vacaciones son PROPORCIONALES al tiempo trabajado [→ opción b: VERDAD]; c) Las vacaciones NO pueden ser COMPENSADAS ECONÓMICAMENTE (salvo extinción de la relación de servicio) [→ opción c: VERDAD]. Las tres afirmaciones son correctas. Respuesta D: a), b) y c) correctas."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_7",
+    "questionNum": 7,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, se denominan Licencias:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A las ausencias de trabajo no tipificadas ni justificadas en la correspondiente norma. Deberán solicitarse mediante escrito dirigido a la Dirección de Recursos Humanos de la Organización de servicios correspondiente, con una antelación mínima de 10 días, salvo que se determine otro plazo en la regulación correspondiente o concurran causas excepcionales que deberán ser justificadas posteriormente."
+      },
+      {
+        "value": 2,
+        "text": "A las ausencias de trabajo, tipificadas y justificadas en la correspondiente norma. Deberán solicitarse mediante escrito dirigido a la Dirección de Recursos Humanos de la Organización de servicios correspondiente, con una antelación mínima de 30 días, salvo que se determine otro plazo en la regulación correspondiente o concurran causas excepcionales que deberán ser justificadas posteriormente."
+      },
+      {
+        "value": 3,
+        "text": "A las ausencias de trabajo, tipificadas y justificadas en la correspondiente norma. Deberán solicitarse mediante escrito dirigido a la Dirección de Recursos Humanos de la Organización de servicios correspondiente, con una antelación mínima de 10 días, salvo que se determine otro plazo en la regulación correspondiente o concurran causas excepcionales que deberán ser justificadas posteriormente."
+      },
+      {
+        "value": 4,
+        "text": "A las ausencias de trabajo, tipificadas y justificadas en la correspondiente norma. Deberán solicitarse verbalmente a la Dirección de Recursos Humanos de la Organización de servicios correspondiente, con una antelación mínima de 15 días, salvo que se determine otro plazo en la regulación correspondiente o concurran causas excepcionales que deberán ser justificadas posteriormente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "A las ausencias de trabajo, tipificadas y justificadas en la correspondiente norma. Deberán solicitarse mediante escrito dirigido a la Dirección de Recursos Humanos de la Organización de servicios correspondiente, con una antelación mínima de 10 días, salvo que se determine otro plazo en la regulación correspondiente o concurran causas excepcionales que deberán ser justificadas posteriormente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 39 (licencias): Las licencias son ausencias del puesto de trabajo TIPIFICADAS Y JUSTIFICADAS, que deben solicitarse POR ESCRITO con una antelación mínima de 10 DÍAS (salvo urgencia justificada). La opción C reproduce correctamente los elementos esenciales del régimen de licencias. Respuesta C."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_8",
+    "questionNum": 8,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, la licencia por enfermedad grave, hospitalización o fallecimiento de parientes es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cónyuge, compañero/a o hijo: Cinco días naturales. Dos días hábiles más, si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante."
+      },
+      {
+        "value": 2,
+        "text": "Cónyuge, compañero/a o hijo: Tres días naturales. Dos días hábiles más, si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante."
+      },
+      {
+        "value": 3,
+        "text": "Cónyuge, compañero/a o hijo: Un día natural. Dos días hábiles más, si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante."
+      },
+      {
+        "value": 4,
+        "text": "Cónyuge, compañero/a o hijo: Dos días naturales. Dos días hábiles más, si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cónyuge, compañero/a o hijo: Cinco días naturales. Dos días hábiles más, si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 47.1.a (permisos por fallecimiento/enfermedad grave): Por fallecimiento, accidente o enfermedad graves de cónyuge, hijos o padres: 5 DÍAS NATURALES ampliables en 2 DÍAS HÁBILES cuando sea necesario desplazamiento superior a 150 km. Total máximo: 5 naturales + 2 hábiles. Respuesta A."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_9",
+    "questionNum": 9,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En los casos de operaciones quirúrgicas que no precisen hospitalización, tanto de cónyuge, compañero, hijo como de familiares hasta 2.º grado de consanguinidad o afinidad o de grado aún más lejano si mediara convivencia estable debidamente acreditada, el trabajador dispondrá de una licencia de cinco días."
+      },
+      {
+        "value": 2,
+        "text": "En los casos de operaciones quirúrgicas que no precisen hospitalización, tanto de cónyuge, compañero, hijo como de familiares hasta 2.º grado de consanguinidad o afinidad o de grado aún más lejano si mediara convivencia estable debidamente acreditada, el trabajador dispondrá de una licencia de un día."
+      },
+      {
+        "value": 3,
+        "text": "En los casos de operaciones quirúrgicas que no precisen hospitalización, tanto de cónyuge, compañero, hijo como de familiares hasta 2.º grado de consanguinidad o afinidad o de grado aún más lejano si mediara convivencia estable debidamente acreditada, el trabajador dispondrá de una licencia de una semana."
+      },
+      {
+        "value": 4,
+        "text": "En los casos de operaciones quirúrgicas que no precisen hospitalización, tanto de cónyuge, compañero, hijo como de familiares hasta 2.º grado de consanguinidad o afinidad o de grado aún más lejano si mediara convivencia estable debidamente acreditada, el trabajador dispondrá de una licencia de dos semanas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "En los casos de operaciones quirúrgicas que no precisen hospitalización, tanto de cónyuge, compañero, hijo como de familiares hasta 2.º grado de consanguinidad o afinidad o de grado aún más lejano si mediara convivencia estable debidamente acreditada, el trabajador dispondrá de una licencia de un día."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 47.2: Por intervención quirúrgica SIN HOSPITALIZACIÓN que precise reposo domiciliario, de familiar hasta primer grado de consanguinidad o afinidad: 1 DÍA. La clave es 'sin hospitalización' — si hubiera hospitalización se aplicaría el plazo del Art. 47.1. Respuesta B."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_10",
+    "questionNum": 10,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, la Licencia por cumplimiento de deberes inexcusables de carácter público o personal NO se considerará:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Citaciones de Juzgados, Comisarías, Gobiernos Civiles o Militares, Revista Militar y de Armas, DNI, Pasaporte, Certificados y Registros en Centros Oficiales."
+      },
+      {
+        "value": 2,
+        "text": "Examen o renovación del carnet de conducir."
+      },
+      {
+        "value": 3,
+        "text": "La asistencia a las reuniones de los Órganos de Gobierno y Comisiones dependientes de los mismos de que formen parte en su calidad de cargo electivo como concejal, concejala, diputado, diputada, juntero, juntera, parlamentario o parlamentaria."
+      },
+      {
+        "value": 4,
+        "text": "Asistir a un concierto de música."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Asistir a un concierto de música."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 48.2 (deberes inexcusables): La lista incluye: asistencia a juicios, citaciones judiciales o notariales, cumplimiento de obligaciones electorales, renovación del DNI, reconocimientos médicos obligatorios, etc. 'Asistir a un CONCIERTO DE MÚSICA' NO figura en ningún apartado de deberes inexcusables. Es una actividad de ocio, no un deber legal o cívico inexcusable. Respuesta D."
+  },
+  {
+    "id": "adm-condiciones-trabajo-osakidetza_11",
+    "questionNum": 11,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, el personal fijo podrá solicitar la concesión de un permiso de reducción de su jornada laboral en determinadas condiciones. Indica cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Con carácter general, el porcentaje de reducción de jornada será del 50%. Los porcentajes de reducción de jornada distintos del general, se determinarán por libre acuerdo entre la Dirección de la Organización de servicios y el/la solicitante."
+      },
+      {
+        "value": 2,
+        "text": "En todo caso, la concesión de este permiso estará condicionada a la disponibilidad organizativa de la Organización de servicios correspondiente, y no podrá implicar un deterioro en el nivel y calidad del servicio prestado."
+      },
+      {
+        "value": 3,
+        "text": "La concesión de la reducción de jornada se realizará por un período mínimo de 6 meses, prorrogable por períodos de igual duración. Todo ello sin perjuicio de la terminación con anterioridad al plazo establecido en función de la concurrencia de cuestiones de tipo organizativo que así lo aconsejen, o motivadas por el incumplimiento de las condiciones pactadas."
+      },
+      {
+        "value": 4,
+        "text": "Con carácter general, el porcentaje de reducción de jornada será del 10%. Los porcentajes de reducción de jornada distintos del general, se determinarán por libre acuerdo entre la Dirección de la Organización de servicios y el/la solicitante."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Con carácter general, el porcentaje de reducción de jornada será del 10%. Los porcentajes de reducción de jornada distintos del general, se determinarán por libre acuerdo entre la Dirección de la Organización de servicios y el/la solicitante."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-condiciones-trabajo-osakidetza",
+    "explanation": "D.235/2007 Art. 60.1 (reducción de jornada por guarda legal): La reducción general es de UN TERCIO A LA MITAD (33%-50%) de la jornada. La opción D afirma que 'la reducción máxima es del 10%' → FALSO: el artículo establece que la reducción puede alcanzar hasta el 50% (la mitad). Respuesta D (afirmación FALSA)."
+  }
+]

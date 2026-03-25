@@ -1,0 +1,578 @@
+[
+  {
+    "id": "aux-e01_1",
+    "questionNum": 1,
+    "question": "Tienen derecho a formar parte de la Comunidad Autónoma del País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Guipúzcoa y Vizcaya."
+      },
+      {
+        "value": 2,
+        "text": "Álava, Guipúzcoa y Vizcaya."
+      },
+      {
+        "value": 3,
+        "text": "Álava, Guipúzcoa, Vizcaya y Navarra."
+      },
+      {
+        "value": 4,
+        "text": "Álava y Vizcaya."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Álava, Guipúzcoa y Vizcaya."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 2: Tienen derecho a formar parte de la CAPV los Territorios Históricos de ÁLAVA, GUIPÚZCOA Y VIZCAYA. Navarra (opción c) no forma parte de la CAPV, aunque tiene su propio régimen foral. Respuesta B."
+  },
+  {
+    "id": "aux-e01_2",
+    "questionNum": 2,
+    "question": "La bandera del País Vasco es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Bicrucífera, compuesta de aspa amarilla, cruz roja superpuesta y fondo blanca."
+      },
+      {
+        "value": 2,
+        "text": "Bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo."
+      },
+      {
+        "value": 3,
+        "text": "Bicrucífera, compuesta de aspa roja, cruz blanca superpuesta y fondo verde."
+      },
+      {
+        "value": 4,
+        "text": "Bicrucífera, compuesta de aspa negra, cruz roja superpuesta y fondo blanca."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 5: La bandera del País Vasco (Ikurriña) es la BICRUCÍFERA compuesta de ASPA VERDE, CRUZ BLANCA superpuesta y FONDO ROJO. Mnemotecnia: verde/blanca/roja — colores nacionales vascos. Respuesta B."
+  },
+  {
+    "id": "aux-e01_3",
+    "questionNum": 3,
+    "question": "El euskera:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Lengua propia del Pueblo Vasco, tendrá, como el castellano, carácter de lengua oficial en Euskadi, y todos sus habitantes tienen el derecho a conocer y usar ambas lenguas."
+      },
+      {
+        "value": 2,
+        "text": "Lengua propia del Pueblo Vasco, no tendrá carácter de lengua oficial en Euskadi, pero todos sus habitantes tienen el derecho a conocer y usar ambas lenguas."
+      },
+      {
+        "value": 3,
+        "text": "Lengua propia del Pueblo Vasco, no tendrá carácter de lengua oficial en Euskadi, y todos sus habitantes no tienen el derecho a conocer y usar ambas lenguas."
+      },
+      {
+        "value": 4,
+        "text": "No es lengua propia del Pueblo Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Lengua propia del Pueblo Vasco, tendrá, como el castellano, carácter de lengua oficial en Euskadi, y todos sus habitantes tienen el derecho a conocer y usar ambas lenguas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 6.1: El EUSKERA, lengua propia del Pueblo Vasco, TENDRÁ, COMO EL CASTELLANO, CARÁCTER DE LENGUA OFICIAL en Euskadi, y todos sus habitantes tienen el DERECHO A CONOCER Y USAR AMBAS LENGUAS. Respuesta A."
+  },
+  {
+    "id": "aux-e01_4",
+    "questionNum": 4,
+    "question": "Las instituciones comunes de la Comunidad Autónoma, teniendo en cuenta la diversidad socio-lingüística del País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No garantizan el uso de ambas lenguas."
+      },
+      {
+        "value": 2,
+        "text": "Recomienda el uso de ambas lenguas."
+      },
+      {
+        "value": 3,
+        "text": "Garantiza sólo a las personas mayores de 65 años el uso de ambas lenguas."
+      },
+      {
+        "value": 4,
+        "text": "Garantiza el uso de ambas lenguas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Garantiza el uso de ambas lenguas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 6.3: Las instituciones comunes de la CAPV, teniendo en cuenta la diversidad sociolingüística, GARANTIZARÁN EL USO DE AMBAS LENGUAS. No se limita a mayores de 65 años (c) ni es mera recomendación (b). Respuesta D."
+  },
+  {
+    "id": "aux-e01_5",
+    "questionNum": 5,
+    "question": "Por razón de lengua:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Nadie podrá ser discriminado."
+      },
+      {
+        "value": 2,
+        "text": "Está permitido discriminar."
+      },
+      {
+        "value": 3,
+        "text": "Está permitido discriminar en algunos casos."
+      },
+      {
+        "value": 4,
+        "text": "Está permitido discriminar dependiendo de la edad."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Nadie podrá ser discriminado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 6.4: 'Nadie podrá ser discriminado por razón de la lengua.' Prohibición absoluta de discriminación lingüística. Respuesta A."
+  },
+  {
+    "id": "aux-e01_6",
+    "questionNum": 6,
+    "question": "Tendrán la condición política de vascos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, sólo en algunos municipios integrados en el territorio de la Comunidad Autónoma."
+      },
+      {
+        "value": 2,
+        "text": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en municipios con más de 5.000 habitantes que estén integrados en el territorio de la Comunidad Autónoma."
+      },
+      {
+        "value": 3,
+        "text": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en cualquiera de los municipios integrados en el territorio de la Comunidad Autónoma."
+      },
+      {
+        "value": 4,
+        "text": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en municipios con más de 10.000 habitantes que estén integrados en el territorio de la Comunidad Autónoma."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en cualquiera de los municipios integrados en el territorio de la Comunidad Autónoma."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 7.1: Tendrán la condición política de vascos quienes tengan la vecindad administrativa en CUALQUIERA DE LOS MUNICIPIOS integrados en el territorio de la CAPV. No se limita a algunos municipios (a) ni exige umbral de habitantes (b y d). Respuesta C."
+  },
+  {
+    "id": "aux-e01_7",
+    "questionNum": 7,
+    "question": "Los residentes en el extranjero, así como sus descendientes, si así lo solicitaren:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
+      },
+      {
+        "value": 2,
+        "text": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si no hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
+      },
+      {
+        "value": 3,
+        "text": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que no conserven la nacionalidad española."
+      },
+      {
+        "value": 4,
+        "text": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 7.2: Los residentes en el extranjero y sus descendientes gozarán de idénticos derechos políticos si HUBIERAN TENIDO SU ÚLTIMA VECINDAD ADMINISTRATIVA EN EUSKADI y SIEMPRE QUE CONSERVEN LA NACIONALIDAD ESPAÑOLA. Doble requisito: vecindad previa + nacionalidad. Respuesta D."
+  },
+  {
+    "id": "aux-e01_8",
+    "questionNum": 8,
+    "question": "Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los establecidos en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Ayuntamiento."
+      },
+      {
+        "value": 2,
+        "text": "La Constitución."
+      },
+      {
+        "value": 3,
+        "text": "El Parlamento."
+      },
+      {
+        "value": 4,
+        "text": "El Senado."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La Constitución."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 9: Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los ESTABLECIDOS EN LA CONSTITUCIÓN. No los fija el Ayuntamiento (a), ni el Parlamento Vasco (c), ni el Senado (d). Respuesta B."
+  },
+  {
+    "id": "aux-e01_9",
+    "questionNum": 9,
+    "question": "Los poderes públicos vascos, en el ámbito de su competencia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Velarán y garantizarán el adecuado ejercicio de los derechos y deberes fundamentales de los ciudadanos."
+      },
+      {
+        "value": 2,
+        "text": "Impulsarán particularmente una política tendente a la mejora de las condiciones de vida y trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Adoptarán aquellas medidas que tiendan a fomentar el incremento del empleo y la estabilidad económica."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979: Los poderes públicos vascos velarán y garantizarán el ejercicio de derechos (a), impulsarán mejora de condiciones de vida y trabajo (b), y adoptarán medidas de fomento del empleo y estabilidad (c). Las TRES afirmaciones son correctas. Respuesta D."
+  },
+  {
+    "id": "aux-e01_10",
+    "questionNum": 10,
+    "question": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco, sin perjuicio de las competencias de las Instituciones a que se refiero el artículo 37 del presente Estatuto, el Parlamento Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ejerce la potestad legislativa."
+      },
+      {
+        "value": 2,
+        "text": "Aprueba sus presupuestos."
+      },
+      {
+        "value": 3,
+        "text": "Impulsa y controla la acción del Gobierno Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 25: El Parlamento Vasco ejerce la POTESTAD LEGISLATIVA (a), APRUEBA SUS PRESUPUESTOS (b), e IMPULSA Y CONTROLA la acción del Gobierno Vasco (c). Las tres funciones son correctas y corresponden al Parlamento. Respuesta D."
+  },
+  {
+    "id": "aux-e01_11",
+    "questionNum": 11,
+    "question": "El Parlamento Vasco estará integrado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un número distinto de representantes, dependiendo de los habitantes de cada Territorio Histórico, elegidos por sufragio universal, libre, directo y secreto."
+      },
+      {
+        "value": 2,
+        "text": "Un número distinto de representantes, dependiendo de la edad de los habitantes de cada Territorio Histórico, elegidos por sufragio universal, libre, directo y secreto."
+      },
+      {
+        "value": 3,
+        "text": "Un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, libre, directo y secreto."
+      },
+      {
+        "value": 4,
+        "text": "Un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, no siendo libre, directo y público."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, libre, directo y secreto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 26.1: El Parlamento Vasco estará integrado por UN NÚMERO IGUAL DE REPRESENTANTES DE CADA TERRITORIO HISTÓRICO elegidos por SUFRAGIO UNIVERSAL, LIBRE, DIRECTO Y SECRETO. No es número variable por habitantes (a). Respuesta C."
+  },
+  {
+    "id": "aux-e01_12",
+    "questionNum": 12,
+    "question": "El Parlamento Vasco será elegido por un periodo de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "2 años."
+      },
+      {
+        "value": 2,
+        "text": "4 años."
+      },
+      {
+        "value": 3,
+        "text": "1 año."
+      },
+      {
+        "value": 4,
+        "text": "5 años."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "4 años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 26.4: El Parlamento Vasco será elegido por un periodo de CUATRO AÑOS. Respuesta B."
+  },
+  {
+    "id": "aux-e01_13",
+    "questionNum": 13,
+    "question": "El Parlamento elegirá de entre sus miembros:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un Presidente, una Mesa y una Diputación Permanente."
+      },
+      {
+        "value": 2,
+        "text": "Tres Presidentes y una Mesa."
+      },
+      {
+        "value": 3,
+        "text": "Dos Presidentes y dos Mesas."
+      },
+      {
+        "value": 4,
+        "text": "Un Presidente, dos Mesas y una Diputación Permanente."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Un Presidente, una Mesa y una Diputación Permanente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 27.1: El Parlamento elegirá de entre sus miembros UN PRESIDENTE, UNA MESA Y UNA DIPUTACIÓN PERMANENTE. No son dos mesas (d) ni tres presidentes (b). Respuesta A."
+  },
+  {
+    "id": "aux-e01_14",
+    "questionNum": 14,
+    "question": "El Gobierno Vasco es el órgano colegiado que ostenta las funciones:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ejecutivas y administrativas del País Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Formativas del País Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Informativas del País Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Ejecutivas y organizativas del País Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Ejecutivas y administrativas del País Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 29.1: El Gobierno Vasco es el órgano colegiado que ostenta las FUNCIONES EJECUTIVAS Y ADMINISTRATIVAS del País Vasco. No son formativas (b) ni informativas (c) ni organizativas (d). Respuesta A."
+  },
+  {
+    "id": "aux-e01_15",
+    "questionNum": 15,
+    "question": "Las atribuciones del Gobierno y su organización, basada en un Presidente y Consejeros, así como el Estatuto de sus miembros, serán regulados por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Rey."
+      },
+      {
+        "value": 2,
+        "text": "El Estatuto de los Trabajadores."
+      },
+      {
+        "value": 3,
+        "text": "El Parlamento."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El Parlamento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 29.2: Las atribuciones del Gobierno, su organización y el Estatuto de sus miembros serán regulados POR EL PARLAMENTO VASCO. No por el Rey (a) ni por el Estatuto de los Trabajadores (b). Respuesta C."
+  },
+  {
+    "id": "aux-e01_16",
+    "questionNum": 16,
+    "question": "El Presidente del Gobierno será designado de entre sus miembros:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Por los Ayuntamientos y nombrado por el Lehendakari."
+      },
+      {
+        "value": 2,
+        "text": "Por los Ayuntamientos y nombrado por el Rey."
+      },
+      {
+        "value": 3,
+        "text": "Por el Parlamento Vasco y nombrado por el Rey."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Por el Parlamento Vasco y nombrado por el Rey."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e01",
+    "explanation": "LO 3/1979 Art. 33.1: El Presidente del Gobierno Vasco será designado POR EL PARLAMENTO VASCO Y NOMBRADO POR EL REY. No son los Ayuntamientos quienes designan (a, b). Respuesta C."
+  }
+]

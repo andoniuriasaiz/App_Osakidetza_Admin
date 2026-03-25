@@ -1,0 +1,290 @@
+[
+  {
+    "id": "comun-t05_1",
+    "questionNum": 1,
+    "question": "El consejo de administración de Osakidetza-Servicio Vasco de Salud está integrado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona titular de la presidencia y por un número no superior a cinco miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 2,
+        "text": "La persona titular de la presidencia y por un número no superior a tres miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "La persona titular de la presidencia y por cinco miembros en representación del Departamento competente en materia de sanidad."
+      },
+      {
+        "value": 4,
+        "text": "La persona titular de la presidencia, la Consejería del Departamento competente en materia de sanidad y tres miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La persona titular de la presidencia y por un número no superior a cinco miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 6 Decreto 255/1997: El Consejo de Administración de Osakidetza está integrado por 'la persona titular de la presidencia y por un número no superior a CINCO miembros en representación de la Administración de la Comunidad Autónoma de Euskadi'. Respuesta A."
+  },
+  {
+    "id": "comun-t05_2",
+    "questionNum": 2,
+    "question": "La función de nombrar y separar a quienes ocupen las Direcciones de División de la organización central del ente público Osakidetza-Servicio Vasco de Salud corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Consejo de Administración del Ente."
+      },
+      {
+        "value": 2,
+        "text": "La Dirección General del Ente."
+      },
+      {
+        "value": 3,
+        "text": "La Presidencia del Ente."
+      },
+      {
+        "value": 4,
+        "text": "Ninguno de los anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Presidencia del Ente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 15 Decreto 255/1997: La función de 'nombrar y separar a quienes ocupen las Direcciones de División de la organización central' corresponde a 'la PRESIDENCIA del Ente', a propuesta de la Dirección General. Respuesta C."
+  },
+  {
+    "id": "comun-t05_3",
+    "questionNum": 3,
+    "question": "La función de convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones del Consejo de Administración del ente público OsakidetzaServicio vasco de salud y decidir los empates con su voto de calidad corresponderá a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Dirección General."
+      },
+      {
+        "value": 2,
+        "text": "La Presidencia."
+      },
+      {
+        "value": 3,
+        "text": "La persona de mayor antigüedad del Consejo de Administración."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La Presidencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 8 Decreto 255/1997: La función de 'convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones y decidir los empates con su voto de calidad' en el Consejo de Administración corresponde a 'LA PRESIDENCIA'. Respuesta B."
+  },
+  {
+    "id": "comun-t05_4",
+    "questionNum": 4,
+    "question": "De acuerdo con el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del ente público Osakidetza-Servicio Vasco de Salud, para el desarrollo de sus funciones, la Dirección General del ente público Osakidetza-Servicio Vasco de Salud contará con el apoyo de un equipo directivo formado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dos Direcciones de División."
+      },
+      {
+        "value": 2,
+        "text": "Tres Direcciones de División."
+      },
+      {
+        "value": 3,
+        "text": "Cuatro Direcciones de División."
+      },
+      {
+        "value": 4,
+        "text": "La norma no establece el número concreto de Direcciones de División."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cuatro Direcciones de División."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 14 Decreto 255/1997: La Dirección General cuenta con CUATRO Directores de División. Respuesta C."
+  },
+  {
+    "id": "comun-t05_5",
+    "questionNum": 5,
+    "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión asistencial (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Supervisar el cumplimiento de las políticas generales de calidad y realizar auditorías."
+      },
+      {
+        "value": 2,
+        "text": "Definir criterios generales y proponer la política de precios correspondiente a la prestación de servicios sanitarios incluida en la cobertura pública."
+      },
+      {
+        "value": 3,
+        "text": "Coordinar los recursos y, en su caso, proponer medidas de intervención sobre las listas de espera."
+      },
+      {
+        "value": 4,
+        "text": "Promover protocolos de interés general."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Definir criterios generales y proponer la política de precios correspondiente a la prestación de servicios sanitarios incluida en la cobertura pública."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 20 Decreto 255/1997: En materia de gestión asistencial, corresponde a la organización central: supervisar el cumplimiento de políticas de calidad y realizar auditorías (a), coordinar recursos y proponer medidas sobre listas de espera (c), y promover protocolos de interés general (d). 'Definir criterios y proponer la política de precios' NO es función de la organización central en materia de gestión asistencial — los precios se fijan a nivel superior. Respuesta B."
+  },
+  {
+    "id": "comun-t05_6",
+    "questionNum": 6,
+    "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión de recursos humanos (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Supervisar, controlar y evaluar las políticas de personal del Ente."
+      },
+      {
+        "value": 2,
+        "text": "Promover acuerdos de cooperación con centros correspondientes a la sanidad privada."
+      },
+      {
+        "value": 3,
+        "text": "Dirigir el funcionamiento del registro de personal."
+      },
+      {
+        "value": 4,
+        "text": "Gestionar los procesos de selección y de provisión que el Consejo de Administración determine, por su carácter general, previsible número de aspirantes u otras circunstancias análogas, y, a tal fin, convocarlos, establecer sus bases, programas y contenidos, y designar a los tribunales calificadores de los mismos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Promover acuerdos de cooperación con centros correspondientes a la sanidad privada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 21 Decreto 255/1997: En materia de gestión de recursos humanos, corresponde a la organización central: supervisar políticas de personal (a), dirigir el registro de personal (c), y gestionar procesos de selección (d). 'Promover acuerdos de cooperación con centros de sanidad PRIVADA' NO es función de la organización central en gestión de RRHH. Respuesta B."
+  },
+  {
+    "id": "comun-t05_7",
+    "questionNum": 7,
+    "question": "De acuerdo con lo que señala el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del ente público Osakidetza-Servicio Vasco de Salud, cada organización de servicios sanitarios dependiente del ente público tendrá definido su objeto de actividad o ámbito de actuación sanitaria de conformidad con lo dispuesto específicamente en la:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ley 41/2002 de Autonomía del Paciente."
+      },
+      {
+        "value": 2,
+        "text": "Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "Decreto 17/2022, de 1 de febrero, del Registro Vasco de Profesionales del ámbito sanitario."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 23 Decreto 255/1997: El objeto de actividad o ámbito de actuación sanitaria de cada organización de servicios se define 'de conformidad con lo dispuesto específicamente en la LEY 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi'. Respuesta B."
+  },
+  {
+    "id": "comun-t05_8",
+    "questionNum": 8,
+    "question": "En materia específica de inversiones, la competencia para ejecutar las compras de suministros que se consideren centralizadas, así como definir y/o ejecutar, en su caso, las consideradas integradas corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Consejo de Administración del ente público Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 2,
+        "text": "La organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 3,
+        "text": "La organización de servicios del ente público Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 4,
+        "text": "A quien ostente la titularidad de la Dirección-Gerencia de cada organización de servicios sanitarios del Osakidetza-Servicio Vasco de Salud."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 22 Decreto 255/1997: La competencia para ejecutar compras de suministros centralizadas y las integradas corresponde 'a la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público Osakidetza'. Respuesta B."
+  }
+]

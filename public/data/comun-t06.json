@@ -1,0 +1,38 @@
+[
+  {
+    "id": "comun-t06_1",
+    "questionNum": 1,
+    "question": "Para el desarrollo de funciones de propuesta y asesoramiento, así como de participación en las organizaciones de servicios sanitarios, existirá un Consejo de Dirección en cada una de ellas, integrado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+      },
+      {
+        "value": 2,
+        "text": "El equipo directivo, las jefaturas de unidad que se determinen, representantes sindicales y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+      },
+      {
+        "value": 3,
+        "text": "El equipo directivo y las jefaturas de unidad que se determinen."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t06",
+    "explanation": "Art. 24 Decreto 255/1997 / Decreto 100/2018: El Consejo de Dirección de cada organización de servicios está integrado por 'el equipo directivo, las jefaturas de unidad que se determinen y una REPRESENTACIÓN DE PERSONAS VOCALES ELECTAS que formen parte de los Consejos Técnicos de participación profesional respectivos.' No se incluyen representantes sindicales. Respuesta A."
+  }
+]

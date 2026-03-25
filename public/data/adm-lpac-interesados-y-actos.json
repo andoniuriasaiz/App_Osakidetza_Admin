@@ -1,0 +1,974 @@
+[
+  {
+    "id": "adm-lpac-interesados-y-actos_1",
+    "questionNum": 1,
+    "question": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas tiene por objeto:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Regular los procedimientos administrativos en las Administraciones Públicas."
+      },
+      {
+        "value": 2,
+        "text": "Regular los requisitos de validez y eficacia de los actos administrativos."
+      },
+      {
+        "value": 3,
+        "text": "Regular los apoderamientos en los procedimientos administrativos."
+      },
+      {
+        "value": 4,
+        "text": "Regular los medios de identificación en los actos administrativos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Regular los procedimientos administrativos en las Administraciones Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 1.1 Ley 39/2015: 'Esta Ley tiene por objeto regular el procedimiento administrativo común de las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las AAPP, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.' El objeto principal es el PROCEDIMIENTO administrativo común. Respuesta A."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_2",
+    "questionNum": 2,
+    "question": "En relación a la capacidad para obrar ante las Administraciones Públicas de las personas menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico se establece que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tendrán capacidad de obrar SÓLO las personas que ejercen la patria potestad, tutela o curatela de las personas menores de edad."
+      },
+      {
+        "value": 2,
+        "text": "Las personas menores de edad tendrán capacidad de obrar sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela."
+      },
+      {
+        "value": 3,
+        "text": "Tendrán capacidad de obrar en cualquier supuesto siempre que cuenten con la asistencia de la persona que ejerza la patria potestad."
+      },
+      {
+        "value": 4,
+        "text": "Tendrán capacidad de obrar cuando estén asistidas por cualquier persona adulta que represente los intereses de la persona menor de edad."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las personas menores de edad tendrán capacidad de obrar sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 3.2 Ley 39/2015: 'A efectos de esta Ley, también tendrán capacidad de obrar ante las Administraciones Públicas: a) Las personas menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico SIN LA ASISTENCIA de la persona que ejerza la patria potestad, tutela o curatela.' La clave es 'sin asistencia' cuando el ordenamiento lo permita. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_3",
+    "questionNum": 3,
+    "question": "En el procedimiento administrativo, la falta o insuficiente acreditación de la representación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo establecido."
+      },
+      {
+        "value": 2,
+        "text": "Impedirá la realización del acto requiriendo a los interesados iniciar nuevamente el procedimiento administrativo."
+      },
+      {
+        "value": 3,
+        "text": "Supondrá la realización del acto de que se trate, sin la aceptación de la representación de los interesados."
+      },
+      {
+        "value": 4,
+        "text": "Dará lugar a la nulidad del acto de que se trate, sin que exista la posibilidad de que se subsane el defecto."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "No impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo establecido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 5.4 Ley 39/2015: 'La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo de diez días hábiles.' Se aplica el principio de subsanación: el defecto no anula el acto si se corrige en plazo. Respuesta A."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_4",
+    "questionNum": 4,
+    "question": "En relación a los registros electrónicos de apoderamientos, indica la información que NO debe contener los asientos que se realicen en los registros generales y particulares:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Fecha de inscripción."
+      },
+      {
+        "value": 2,
+        "text": "Período de tiempo por el cual se otorga el poder."
+      },
+      {
+        "value": 3,
+        "text": "Tipo de poder según las facultades que otorgue."
+      },
+      {
+        "value": 4,
+        "text": "Motivo por el que se otorga el poder."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Motivo por el que se otorga el poder."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 6.2 Ley 39/2015 especifica los datos de cada asiento del registro de apoderamientos: nombre e identificación de poderdante y apoderado, tipo de poder según facultades que otorgue, fecha de inscripción, y período de vigencia. El MOTIVO por el que se otorga el poder no es un dato exigido legalmente. Respuesta D."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_5",
+    "questionNum": 5,
+    "question": "Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez máxima de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un año a contar desde la fecha de inscripción."
+      },
+      {
+        "value": 2,
+        "text": "Tres años a contar desde el día siguiente a la fecha de inscripción."
+      },
+      {
+        "value": 3,
+        "text": "Cinco años a contar desde la fecha de inscripción."
+      },
+      {
+        "value": 4,
+        "text": "Siete años a contar desde el día siguiente a la fecha de inscripción."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cinco años a contar desde la fecha de inscripción."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 6.3 Ley 39/2015: 'Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez máxima de cinco años a contar desde la fecha de su inscripción. Antes de que finalice ese plazo, el poderdante podrá renovar su inscripción por un período de igual duración.' Plazo exacto: CINCO AÑOS desde la inscripción. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_6",
+    "questionNum": 6,
+    "question": "Respecto al uso de medios de identificación y la firma en el procedimiento administrativo, y más concretamente para la formulación de solicitudes:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La firma es obligatoria."
+      },
+      {
+        "value": 2,
+        "text": "La acreditación de identidad es opcional."
+      },
+      {
+        "value": 3,
+        "text": "No se requiere firma."
+      },
+      {
+        "value": 4,
+        "text": "Tanto la acreditación de identidad como la firma son voluntarias."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No se requiere firma."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 66.1(e) Ley 39/2015: Las solicitudes contendrán 'Firma del solicitante O acreditación de la autenticidad de su voluntad expresada por cualquier medio.' La ley distingue entre identificación (siempre necesaria) y firma (no siempre obligatoria, puede sustituirse por acreditación de autenticidad). En procedimientos electrónicos, la identificación electrónica sustituye a la firma tradicional. Para la mera formulación de solicitudes, NO se requiere firma en sentido estricto. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_7",
+    "questionNum": 7,
+    "question": "Según la Ley 39/2015, para realizar cualquier trámite de un procedimiento administrativo, los notarios y registradores de la propiedad y mercantiles:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Deciden el modo en el que se relacionan con las Administraciones Públicas."
+      },
+      {
+        "value": 2,
+        "text": "Están obligados a relacionarse de manera presencial."
+      },
+      {
+        "value": 3,
+        "text": "Están obligados a relacionarse por correo postal certificado."
+      },
+      {
+        "value": 4,
+        "text": "Están obligados a relacionarse a través de medios electrónicos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Están obligados a relacionarse a través de medios electrónicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 14.2(c) Ley 39/2015: 'En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: ... c) Los Notarios y Registradores de la Propiedad y Mercantiles.' Obligación expresa y sin excepciones. Respuesta D."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_8",
+    "questionNum": 8,
+    "question": "Para que un documento electrónico administrativo sea considerado válido:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Debe contener un código generado electrónicamente."
+      },
+      {
+        "value": 2,
+        "text": "Debe incorporar una referencia temporal del momento en el que ha sido emitido."
+      },
+      {
+        "value": 3,
+        "text": "Debe haber sido sellado por un funcionario responsable del registro electrónico."
+      },
+      {
+        "value": 4,
+        "text": "Debe disponer de un sistema de verificación online."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Debe incorporar una referencia temporal del momento en el que ha sido emitido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 26.2 Ley 39/2015: 'Para ser considerados válidos, los documentos electrónicos administrativos deberán: ... c) Incorporar una referencia temporal del momento en que han sido emitidos.' De entre las opciones, la referencia temporal es el requisito de validez que recoge literalmente el artículo. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_9",
+    "questionNum": 9,
+    "question": "El proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e integra de un documento, se denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Escaneo."
+      },
+      {
+        "value": 2,
+        "text": "Codificación."
+      },
+      {
+        "value": 3,
+        "text": "Digitalización."
+      },
+      {
+        "value": 4,
+        "text": "Indexación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Digitalización."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 27.1 Ley 39/2015: 'Las Administraciones Públicas podrán obtener imágenes electrónicas de los documentos privados aportados por los ciudadanos, con su misma validez y eficacia, a través de procesos de DIGITALIZACIÓN que garanticen su autenticidad, integridad y la conservación del documento imagen.' El término jurídico exacto es digitalización. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_10",
+    "questionNum": 10,
+    "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para poder contrastar la autenticidad de una copia en soporte papel se requiere que en la misma figure:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La condición de copia y contenga un código generado electrónicamente u otro sistema de verificación."
+      },
+      {
+        "value": 2,
+        "text": "La firma del funcionario que ha realizado la copia y un código de verificación."
+      },
+      {
+        "value": 3,
+        "text": "Un sello de entrada en el que figure fecha, hora y datos de la oficina de registro."
+      },
+      {
+        "value": 4,
+        "text": "Las copias realizadas por las Administraciones Públicas no requieren autentificación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La condición de copia y contenga un código generado electrónicamente u otro sistema de verificación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 27.3 Ley 39/2015: 'Las copias auténticas en papel deberán incluir la condición de copia auténtica y contendrán un código generado electrónicamente u otro sistema de verificación que permita contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos de la Administración.' Dos requisitos: indicación de 'copia auténtica' + código electrónico/sistema de verificación. Respuesta A."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_11",
+    "questionNum": 11,
+    "question": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas establece que cuando los documentos ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra administración, los interesados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Deben aportarlos obligatoriamente."
+      },
+      {
+        "value": 2,
+        "text": "Tienen derecho a no aportarlos."
+      },
+      {
+        "value": 3,
+        "text": "Deben entregar copia simple."
+      },
+      {
+        "value": 4,
+        "text": "Pueden aportarlos electrónicamente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Tienen derecho a no aportarlos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 28.2 Ley 39/2015: 'Los interesados no estarán obligados a aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.' Consagra el derecho a no aportar documentación que la propia Administración ya posea o pueda obtener. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_12",
+    "questionNum": 12,
+    "question": "El registro electrónico permitirá la presentación de documentos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todos los días hábiles durante ocho horas."
+      },
+      {
+        "value": 2,
+        "text": "Todos los días del año durante doce horas."
+      },
+      {
+        "value": 3,
+        "text": "Todos los días hábiles durante quince horas."
+      },
+      {
+        "value": 4,
+        "text": "Todos los días del año durante las veinticuatro horas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todos los días del año durante las veinticuatro horas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 16.4 Ley 39/2015: 'Los registros electrónicos de todas y cada una de las Administraciones... permitirán la presentación de documentos TODOS LOS DÍAS DEL AÑO DURANTE LAS VEINTICUATRO HORAS.' Este es uno de los principios clave de la Administración electrónica: disponibilidad 24/7/365. Respuesta D."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_13",
+    "questionNum": 13,
+    "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de la entrega:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No podrán hacerse cargo de la notificación otras personas que no sean el interesado."
+      },
+      {
+        "value": 2,
+        "text": "Podrán hacerse cargo de la notificación las personas mayores de dieciocho años que tengan relación de consanguineidad con el interesado."
+      },
+      {
+        "value": 3,
+        "text": "Podrá hacerse cargo de la notificación cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad."
+      },
+      {
+        "value": 4,
+        "text": "Podrá hacerse cargo de la notificación cualquier persona que se encuentre en el domicilio sin necesidad de hacer constar su identidad."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Podrá hacerse cargo de la notificación cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 42.2 Ley 39/2015: 'Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de la entrega, podrá hacerse cargo de la misma CUALQUIER PERSONA MAYOR DE CATORCE AÑOS que se encuentre en el domicilio y HAGA CONSTAR SU IDENTIDAD.' Dos requisitos: mayor de 14 años + identificación. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_14",
+    "questionNum": 14,
+    "question": "Las notificaciones por medios electrónicos se entenderán practicadas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando se produzca el acceso a su contenido."
+      },
+      {
+        "value": 2,
+        "text": "Con la puesta a disposición de la notificación en el medio electrónico."
+      },
+      {
+        "value": 3,
+        "text": "Cuando el interesado reciba también la notificación por medios no electrónicos."
+      },
+      {
+        "value": 4,
+        "text": "Cuando transcurra un mes desde la entrega de la notificación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cuando se produzca el acceso a su contenido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 43.2 Ley 39/2015: 'Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.' Si el interesado no accede, se entenderá rechazada a los 10 días naturales desde la puesta a disposición. El momento determinante es el ACCESO. Respuesta A."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_15",
+    "questionNum": 15,
+    "question": "Es un derecho del interesado en un procedimiento administrativo.",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A obtener una copia autentificada en el caso de tener que presentar un documento original."
+      },
+      {
+        "value": 2,
+        "text": "A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que se tengan la condición de interesado."
+      },
+      {
+        "value": 3,
+        "text": "A aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas"
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 53.1 Ley 39/2015 reconoce como derechos de los interesados: (a) Conocer en cualquier momento el estado de tramitación [→ opción b]; (d) Obtener copia de los documentos [→ opción a]; (e) Aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia [→ opción c]. Los tres son derechos reconocidos expresamente. Respuesta D: a), b) y c) son correctas."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_16",
+    "questionNum": 16,
+    "question": "De acuerdo a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el derecho a reclamar responsabilidad patrimonial:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No prescribe."
+      },
+      {
+        "value": 2,
+        "text": "Prescribe al año del hecho o acto que motive la indemnización."
+      },
+      {
+        "value": 3,
+        "text": "Prescribe a los dos años de haberse iniciado el procedimiento administrativo."
+      },
+      {
+        "value": 4,
+        "text": "Prescribe a los tres años de haberse producido la curación de los daños de carácter físico."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Prescribe al año del hecho o acto que motive la indemnización."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 67.1 Ley 39/2015: 'El derecho a reclamar prescribe AL AÑO de producido el hecho o el acto que motive la indemnización o de manifestarse su efecto lesivo. En caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.' Prescripción general: 1 año. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_17",
+    "questionNum": 17,
+    "question": "Según la Ley 39/2015, el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que lo acredita, y que la pondrá a disposición de la Administración cuando le sea requerida, se denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Declaración de conformidad."
+      },
+      {
+        "value": 2,
+        "text": "Declaración administrativa."
+      },
+      {
+        "value": 3,
+        "text": "Declaración responsable."
+      },
+      {
+        "value": 4,
+        "text": "Declaración jurada."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Declaración responsable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 69.1 Ley 39/2015: 'A los efectos de esta Ley, se entenderá por declaración responsable el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Administración cuando le sea requerida.' Respuesta C."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_18",
+    "questionNum": 18,
+    "question": "Según la Ley 39/2015 el expediente administrativo se define como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla."
+      },
+      {
+        "value": 2,
+        "text": "El conjunto de documentos remitidos por los interesados en el procedimiento administrativo a través de los medios electrónicos."
+      },
+      {
+        "value": 3,
+        "text": "El conjunto de ficheros, bases de datos, notas, comunicaciones, resúmenes, opiniones, borradores e informes internos entre órganos y entidades Administrativas."
+      },
+      {
+        "value": 4,
+        "text": "b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 70.1 Ley 39/2015: 'Se entiende por expediente administrativo el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.' Definición literal del artículo: documentos + actuaciones → antecedente y fundamento de la resolución. Respuesta A."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_19",
+    "questionNum": 19,
+    "question": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece en relación a la emisión de informes, salvo disposición expresa en contrario, que los informes serán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Preceptivos y vinculantes."
+      },
+      {
+        "value": 2,
+        "text": "Preceptivos y no vinculantes."
+      },
+      {
+        "value": 3,
+        "text": "Facultativos y vinculantes."
+      },
+      {
+        "value": 4,
+        "text": "Facultativos y no vinculantes."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Facultativos y no vinculantes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 79.1 Ley 39/2015: 'Salvo disposición expresa en contrario, los informes serán FACULTATIVOS Y NO VINCULANTES.' Regla general: el órgano decide si los solicita (facultativo) y no queda vinculado por su contenido (no vinculante). Excepción: cuando la ley los declara preceptivos y/o vinculantes. Respuesta D."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_20",
+    "questionNum": 20,
+    "question": "La Ley 39/2015 establece que, en la terminación de los procedimientos sancionadores, cuando la sanción tenga únicamente carácter pecunario, el órgano competente para resolver el procedimiento aplicará:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reducciones de al menos el 5% sobre el importe de la sanción propuesta."
+      },
+      {
+        "value": 2,
+        "text": "Reducciones de al menos el 10% sobre el importe de la sanción propuesta."
+      },
+      {
+        "value": 3,
+        "text": "Reducciones de al menos el 15% sobre el importe de la sanción propuesta."
+      },
+      {
+        "value": 4,
+        "text": "Reducciones de al menos el 20% sobre el importe de la sanción propuesta."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Reducciones de al menos el 20% sobre el importe de la sanción propuesta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 85.3 Ley 39/2015: 'Cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra no pecuniaria pero se ha justificado la improcedencia de la segunda, el órgano competente para resolver aplicará reducciones de, al menos, el 20% sobre el importe de la sanción propuesta.' El umbral mínimo de reducción es el VEINTE POR CIENTO. Respuesta D."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_21",
+    "questionNum": 21,
+    "question": "Cuando finalizado el procedimiento administrativo exista la obligación de pago derivada de una sanción pecunaria que haya que abonarse a la Hacienda Pública, ¿qué medio de pago NO está contemplado por la Ley 39/2015?:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Transferencia bancaria."
+      },
+      {
+        "value": 2,
+        "text": "Pagaré a 120 días."
+      },
+      {
+        "value": 3,
+        "text": "Domiciliación bancaria."
+      },
+      {
+        "value": 4,
+        "text": "Tarjeta de crédito y débito."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Pagaré a 120 días."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 88.2 Ley 39/2015 establece los medios válidos para pago de sanciones pecuniarias a la Hacienda Pública: a) transferencia bancaria, b) domiciliación bancaria, c) tarjeta de crédito y débito. El PAGARÉ A 120 DÍAS no figura como medio admitido. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_22",
+    "questionNum": 22,
+    "question": "La Ley 39/2015, en relación a la revisión de los actos en vía administrativa, establece que transcurridos seis meses desde el inicio del procedimiento sin dictarse resolución supondrá la caducidad del mismo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Si se hubiera iniciado de oficio."
+      },
+      {
+        "value": 2,
+        "text": "Si se hubiera iniciado a solicitud de los interesados."
+      },
+      {
+        "value": 3,
+        "text": "Si se hubiera iniciado de oficio o a solicitud de los interesados."
+      },
+      {
+        "value": 4,
+        "text": "Si existiera Dictamen del órgano consultivo de la Comunidad Autonóma."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Si se hubiera iniciado de oficio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 106.5 Ley 39/2015: La caducidad por inactividad en revisión de actos se produce cuando el procedimiento se inicia DE OFICIO. En los procedimientos iniciados a solicitud del interesado, el transcurso del plazo no produce caducidad sino desestimación presunta (silencio negativo). Respuesta A: si se hubiera iniciado de oficio."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_23",
+    "questionNum": 23,
+    "question": "Según la Ley 39/2015 la interposición de cualquier recurso:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "NUNCA podrá suspender la ejecución del acto impugnado."
+      },
+      {
+        "value": 2,
+        "text": "NO suspenderá la ejecución del acto impugnado si es de interés público."
+      },
+      {
+        "value": 3,
+        "text": "SIEMPRE dará lugar a la suspensión de la ejecución del acto impugnado."
+      },
+      {
+        "value": 4,
+        "text": "Podrá suspender la ejecución cuando ésta pudiera causar perjuicios de imposible o difícil reparación."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Podrá suspender la ejecución cuando ésta pudiera causar perjuicios de imposible o difícil reparación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 117.1 Ley 39/2015: 'La interposición de cualquier recurso... no suspenderá la ejecución del acto impugnado.' (regla general). Art. 117.2: 'No obstante... podrá suspender, de oficio o a solicitud del recurrente, la ejecución del acto impugnado cuando la ejecución HUBIERA DE OCASIONAR DAÑOS O PERJUICIOS DE IMPOSIBLE O DIFÍCIL REPARACIÓN.' Respuesta D."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_24",
+    "questionNum": 24,
+    "question": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, los interesados deberán formular alegaciones y presentar los documentos y justificantes que estimen procedentes en un plazo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que no sea inferior a cinco días ni superior a diez días."
+      },
+      {
+        "value": 2,
+        "text": "Que no sea inferior a diez días ni superior a quince días."
+      },
+      {
+        "value": 3,
+        "text": "Que no sea inferior a quince días ni superior a veinte días."
+      },
+      {
+        "value": 4,
+        "text": "Que no sea inferior a veinte días ni superior a treinta días."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Que no sea inferior a diez días ni superior a quince días."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Art. 82.4 Ley 39/2015: 'Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrá de manifiesto a los interesados para que, en un plazo no inferior a DIEZ DÍAS NI SUPERIOR A QUINCE, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.' Respuesta B."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_25",
+    "questionNum": 25,
+    "question": "La ubicación de los sistemas de información y comunicaciones para el registro de los datos de los usuarios del sistema nacional de salud deberán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ubicarse y prestarse dentro del territorio de la Unión Europea."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier territorio fuera de la Unión Europea."
+      },
+      {
+        "value": 3,
+        "text": "En Estados Unidos."
+      },
+      {
+        "value": 4,
+        "text": "En Reino Unido."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Ubicarse y prestarse dentro del territorio de la Unión Europea."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Ley 16/2003 de Cohesión y Calidad del SNS + normativa de protección de datos (RGPD/LOPDGDD): Los datos de salud son datos especialmente protegidos. Los sistemas de información del SNS que traten datos personales de pacientes deben ubicarse y prestarse DENTRO DEL TERRITORIO DE LA UNIÓN EUROPEA, como garantía de protección equivalente. La ubicación fuera de la UE requeriría garantías adicionales que no aplican a sistemas públicos sanitarios. Respuesta A."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_26",
+    "questionNum": 26,
+    "question": "Según la Carpeta Roja de Prevención, el parte interno de notificación de accidente, incidente o agresión:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Constituye un documento de carácter interno cuya finalidad es meramente informativa."
+      },
+      {
+        "value": 2,
+        "text": "Debe ser cumplimentado exclusivamente por la persona trabajadora afectada por el accidente."
+      },
+      {
+        "value": 3,
+        "text": "Es el registro necesario para declarar un accidente, incidente o agresión y posibilitar su reconocimiento a efectos legales."
+      },
+      {
+        "value": 4,
+        "text": "Tiene efectos equivalentes al parte de asistencia sanitaria emitido por la Mutua."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Es el registro necesario para declarar un accidente, incidente o agresión y posibilitar su reconocimiento a efectos legales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Carpeta Roja de Prevención Osakidetza: El parte interno de notificación de accidente, incidente o agresión ES EL REGISTRO NECESARIO para declarar el hecho y posibilitar su reconocimiento a efectos legales (reconocimiento como accidente de trabajo, tramitación ante Mutua/INSS, etc.). No es meramente informativo (opción A incorrecta), no solo lo cumplimenta el trabajador afectado (opción B incorrecta), y no equivale al parte de la Mutua que es un documento diferente (opción D incorrecta). Respuesta C."
+  },
+  {
+    "id": "adm-lpac-interesados-y-actos_27",
+    "questionNum": 27,
+    "question": "Según la Carpeta Roja de Prevención, NO deberán declararse mediante el parte interno de notificación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los accidentes e incidentes sufridos por personal propio del centro, con independencia de su gravedad."
+      },
+      {
+        "value": 2,
+        "text": "Los accidentes e incidentes graves sufridos por personal propio del centro."
+      },
+      {
+        "value": 3,
+        "text": "Los accidentes o incidentes leves sufridos por trabajadores de empresas externas o subcontratadas por Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "Los accidentes o incidentes graves sufridos por trabajadores de empresas externas o subcontratadas por Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los accidentes o incidentes leves sufridos por trabajadores de empresas externas o subcontratadas por Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-interesados-y-actos",
+    "explanation": "Carpeta Roja de Prevención Osakidetza: El parte interno es para el personal de Osakidetza. Los accidentes o incidentes LEVES sufridos por trabajadores de EMPRESAS EXTERNAS O SUBCONTRATADAS no se declaran mediante el parte interno de Osakidetza, ya que es la empresa contratista la responsable de su declaración ante su propia Mutua. Los accidentes graves de empresas externas en instalaciones de Osakidetza sí deben comunicarse internamente por razones de coordinación de actividades preventivas (Art. 24 Ley 31/1995). Respuesta C."
+  }
+]

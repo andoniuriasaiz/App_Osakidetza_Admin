@@ -1,0 +1,758 @@
+[
+  {
+    "id": "comun-t02_1",
+    "questionNum": 1,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, sus disposiciones se aplicarán a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A los servicios sanitarios de financiación pública y a los privados, en los mismos términos."
+      },
+      {
+        "value": 2,
+        "text": "A los servicios sanitarios de financiación pública. También a los privados en lo que se refiere al control de las actividades de salud pública y en materia de garantías de información, seguridad y calidad."
+      },
+      {
+        "value": 3,
+        "text": "A los servicios sanitarios de financiación pública y a los privados concertados."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente a los servicios sanitarios de financiación pública."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "A los servicios sanitarios de financiación pública. También a los privados en lo que se refiere al control de las actividades de salud pública y en materia de garantías de información, seguridad y calidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 3 Ley 16/2003: Las disposiciones se aplicarán 'a los servicios sanitarios financiados con fondos públicos. También se aplicarán a los privados en lo que se refiere al control de las actividades de salud pública y en materia de garantías de información, seguridad y calidad'. Respuesta B."
+  },
+  {
+    "id": "comun-t02_2",
+    "questionNum": 2,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para hacer efectivo el derecho a la protección de la salud y a la atención sanitaria, las personas titulares de los mismos deberán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tener nacionalidad española y residencia habitual en el territorio español."
+      },
+      {
+        "value": 2,
+        "text": "Tener reconocido su derecho a la asistencia sanitaria en España por cualquier otro título jurídico, aun no teniendo su residencia habitual en territorio español, siempre que no exista un tercero obligado al pago de dicha asistencia."
+      },
+      {
+        "value": 3,
+        "text": "Ser persona extranjera y con residencia legal y habitual en el territorio español y no tener la obligación de acreditar la cobertura obligatoria de la prestación sanitaria por otra vía."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 3 bis Ley 16/2003 (tras reforma): Para hacer efectivo el derecho a la protección de la salud son titulares: los españoles con residencia habitual en España (a), quienes tengan reconocido su derecho por otro título jurídico aunque no residan en España (b), y extranjeros con residencia legal y habitual en España sin otra cobertura obligatoria (c). Las tres son correctas → Respuesta D."
+  },
+  {
+    "id": "comun-t02_3",
+    "questionNum": 3,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la ciudadanía tendrá los siguientes derechos en el conjunto del Sistema Nacional de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A recibir asistencia sanitaria en su comunidad autónoma de residencia."
+      },
+      {
+        "value": 2,
+        "text": "A recibir el reembolso de los gastos derivados de la asistencia en la sanidad privada cuando se trate de servicios recogidos en el catálogo de prestaciones del Sistema Nacional de Salud."
+      },
+      {
+        "value": 3,
+        "text": "A recibir el reembolso de los gastos derivados de la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las respuestas anteriores es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "A recibir el reembolso de los gastos derivados de la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 4 Ley 16/2003: La ciudadanía tiene derecho, entre otros, 'a recibir asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a.' También hay derecho de reembolso pero de gastos en otro estado miembro UE (no en privada nacional). Respuesta C."
+  },
+  {
+    "id": "comun-t02_4",
+    "questionNum": 4,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común de servicios del Sistema Nacional de Salud se articula en torno a las siguientes modalidades:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios."
+      },
+      {
+        "value": 2,
+        "text": "Cartera común básica nacional de servicios asistenciales y cartera común autonómica de servicios asistenciales."
+      },
+      {
+        "value": 3,
+        "text": "Cartera común nacional básica de servicios asistenciales, cartera común suplementaria autonómica y cartera común de servicios accesorios autonómicos."
+      },
+      {
+        "value": 4,
+        "text": "Cartera común nacional y autonómica básica de servicios asistenciales, cartera común nacional y autonómica suplementaria y cartera común nacional y autonómica de servicios accesorios."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 7.1 Ley 16/2003: 'La cartera común de servicios del Sistema Nacional de Salud se articula en torno a las siguientes modalidades: cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios.' Respuesta A."
+  },
+  {
+    "id": "comun-t02_5",
+    "questionNum": 5,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común básica de servicios asistenciales del Sistema Nacional de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará en la Ley General de Presupuestos del Estado."
+      },
+      {
+        "value": 2,
+        "text": "Se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará mediante Real Decreto."
+      },
+      {
+        "value": 3,
+        "text": "Se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará en las normas autonómicas correspondientes."
+      },
+      {
+        "value": 4,
+        "text": "Se acordará en el seno de la Conferencia de Presidentes de las Comunidades Autónomas y se aprobará en las normas autonómicas correspondientes"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará mediante Real Decreto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 7.4 Ley 16/2003: La cartera común básica 'se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará mediante REAL DECRETO.' Respuesta B."
+  },
+  {
+    "id": "comun-t02_6",
+    "questionNum": 6,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común básica de servicios asistenciales del Sistema Nacional de Salud comprende:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, la prestación farmacéutica y la prestación ortoprotésica, cubiertos de forma completa por financiación pública."
+      },
+      {
+        "value": 2,
+        "text": "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente y la prestación farmacéutica, cubiertos de forma completa por financiación pública."
+      },
+      {
+        "value": 3,
+        "text": "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, y la prestación ortoprotésica, cubiertos de forma completa por financiación pública."
+      },
+      {
+        "value": 4,
+        "text": "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, cubiertos de forma completa por financiación pública."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, cubiertos de forma completa por financiación pública."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 8 bis Ley 16/2003: La cartera común básica comprende 'todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, cubiertos de forma completa por financiación pública.' La prestación farmacéutica y ortoprotésica van en la cartera SUPLEMENTARIA, no en la básica. Respuesta D."
+  },
+  {
+    "id": "comun-t02_7",
+    "questionNum": 7,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común suplementaria del Sistema Nacional de Salud incluirá las siguientes prestaciones:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente la prestación farmacéutica."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente la prestación ortoprotésica."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente la prestación farmacéutica y la prestación ortoprotésica."
+      },
+      {
+        "value": 4,
+        "text": "La prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 8 ter Ley 16/2003: La cartera común suplementaria incluye 'la prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos.' Todas tres. Respuesta D."
+  },
+  {
+    "id": "comun-t02_8",
+    "questionNum": 8,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común de servicios accesorios del Sistema Nacional de Salud incluye:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, estando sujetas a aportación y/o reembolso por parte de la persona usuaria."
+      },
+      {
+        "value": 2,
+        "text": "Todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, estando sujetas siempre a aportación de la persona usuaria."
+      },
+      {
+        "value": 3,
+        "text": "Todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, estando sujetas a siempre a reembolso por parte de la persona usuaria."
+      },
+      {
+        "value": 4,
+        "text": "Todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, pero también cubiertos de forma completa por financiación pública."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, estando sujetas a aportación y/o reembolso por parte de la persona usuaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 8 quáter Ley 16/2003: La cartera común de servicios accesorios incluye 'todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, estando sujetas a aportación y/o reembolso por parte de la persona usuaria.' Respuesta A."
+  },
+  {
+    "id": "comun-t02_9",
+    "questionNum": 9,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, las comunidades autónomas, en el ámbito de sus competencias, podrán aprobar sus respectivas carteras de servicios que incluirán, cuando menos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La cartera común de servicios del Sistema Nacional de Salud en su modalidad básica de servicios asistenciales."
+      },
+      {
+        "value": 2,
+        "text": "La cartera común de servicios del Sistema Nacional de Salud en sus modalidades básica de servicios asistenciales y suplementaria."
+      },
+      {
+        "value": 3,
+        "text": "La cartera común de servicios del Sistema Nacional de Salud en sus modalidades básica de servicios asistenciales, suplementaria y de servicios accesorios."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las respuestas anteriores es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La cartera común de servicios del Sistema Nacional de Salud en sus modalidades básica de servicios asistenciales, suplementaria y de servicios accesorios."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 7.2 Ley 16/2003: Las comunidades autónomas podrán aprobar sus carteras de servicios que incluirán, cuando menos, 'la cartera común de servicios del Sistema Nacional de Salud en sus modalidades básica de servicios asistenciales, suplementaria y de servicios accesorios.' Respuesta C."
+  },
+  {
+    "id": "comun-t02_10",
+    "questionNum": 10,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, las comunidades autónomas, podrán incorporar en sus carteras de servicios una técnica, tecnología o procedimiento no contemplado en la cartera común de servicios del Sistema Nacional de Salud. Con anterioridad a su incorporación, la comunidad autónoma concernida deberá informar, de forma motivada, al Consejo Interterritorial del Sistema Nacional de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Esta afirmación es correcta."
+      },
+      {
+        "value": 2,
+        "text": "Esta afirmación es correcta, salvo en lo que se refiere a la obligación de informar."
+      },
+      {
+        "value": 3,
+        "text": "Esta afirmación es correcta, salvo en lo que se refiere a que la información deberá ser motivada."
+      },
+      {
+        "value": 4,
+        "text": "Esta afirmación es falsa."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Esta afirmación es correcta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 7.3 Ley 16/2003: Las comunidades autónomas pueden incorporar técnicas no contempladas en la cartera común, pero con anterioridad deberán 'informar, de forma motivada, al Consejo Interterritorial del Sistema Nacional de Salud'. La afirmación es correcta tal cual. Respuesta A."
+  },
+  {
+    "id": "comun-t02_11",
+    "questionNum": 11,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la prestación de atención primaria no comprenderá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La atención a la salud bucodental."
+      },
+      {
+        "value": 2,
+        "text": "La atención paliativa a personas enfermas terminales."
+      },
+      {
+        "value": 3,
+        "text": "La rehabilitación básica."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las respuestas anteriores es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 12 Ley 16/2003: La prestación de atención primaria comprende expresamente: atención a la salud bucodental, atención paliativa a enfermos terminales y rehabilitación básica, entre otras. Ninguna de las opciones a), b) ni c) queda excluida — todas están incluidas en atención primaria. Respuesta D."
+  },
+  {
+    "id": "comun-t02_12",
+    "questionNum": 12,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para la elaboración del contenido de la cartera común de servicios del Sistema Nacional de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es preceptivo el informe favorable de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud, en relación con la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo."
+      },
+      {
+        "value": 2,
+        "text": "Se contará con la participación de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud, en la evaluación de la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo."
+      },
+      {
+        "value": 3,
+        "text": "Es preceptivo el informe favorable de las sociedades científicas implicadas, en relación con la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo."
+      },
+      {
+        "value": 4,
+        "text": "Se contará con la participación de las sociedades científicas implicadas, en la evaluación de la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se contará con la participación de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud, en la evaluación de la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 9 Ley 16/2003: 'Para la elaboración del contenido de la cartera común de servicios del SNS se contará con la participación de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias.' No se exige informe favorable (no es preceptivo vinculante), sino participación en la evaluación. Respuesta B."
+  },
+  {
+    "id": "comun-t02_13",
+    "questionNum": 13,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la exclusión de una técnica, tecnología o procedimiento actualmente incluido en la cartera de servicios se llevará a cabo cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se evidencie su falta de eficacia, efectividad o eficiencia, o que el balance entre beneficio y riesgo sea significativamente desfavorable."
+      },
+      {
+        "value": 2,
+        "text": "Requiera una formación para la que no exista la especialidad médica correspondiente."
+      },
+      {
+        "value": 3,
+        "text": "Hayan cambiado las condiciones económicas de su implantación."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se evidencie su falta de eficacia, efectividad o eficiencia, o que el balance entre beneficio y riesgo sea significativamente desfavorable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 10 Ley 16/2003: La exclusión de una técnica se producirá 'cuando se evidencie su falta de eficacia, efectividad o eficiencia, o que el balance entre beneficio y riesgo sea significativamente desfavorable'. Solo el primer criterio está establecido, no los motivos formativos ni económicos per se. Respuesta A."
+  },
+  {
+    "id": "comun-t02_14",
+    "questionNum": 14,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, los servicios de referencia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud y acreditados por el Ministerio de Sanidad y Consumo."
+      },
+      {
+        "value": 2,
+        "text": "Serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud y acreditados por la autoridad correspondiente de la Comunidad Autónoma donde se ubiquen."
+      },
+      {
+        "value": 3,
+        "text": "Serán designados y acreditados en el seno del Consejo Interterritorial del Sistema Nacional de Salud."
+      },
+      {
+        "value": 4,
+        "text": "Serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud, acreditados por el Ministerio de Sanidad y Consumo y financiados por la Comunidad Autónoma donde se ubiquen."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud y acreditados por el Ministerio de Sanidad y Consumo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 24 Ley 16/2003: 'Los servicios de referencia serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud y acreditados por el Ministerio de Sanidad y Consumo.' Respuesta A."
+  },
+  {
+    "id": "comun-t02_15",
+    "questionNum": 15,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la decisión sobre la financiación de los medicamentos de uso humano y veterinario corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al Consejo Interterritorial del Sistema Nacional de Salud."
+      },
+      {
+        "value": 2,
+        "text": "Al Ministerio de Sanidad y Consumo."
+      },
+      {
+        "value": 3,
+        "text": "A cada Comunidad Autónoma."
+      },
+      {
+        "value": 4,
+        "text": "Al Ministerio de Economía y Hacienda."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Al Ministerio de Sanidad y Consumo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 30 Ley 16/2003: 'La decisión sobre la financiación de los medicamentos de uso humano corresponde al Ministerio de Sanidad y Consumo.' Respuesta B."
+  },
+  {
+    "id": "comun-t02_16",
+    "questionNum": 16,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, el diseño de programas de formación y modernización de los recursos humanos del Sistema Nacional de Salud corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A la Comisión de Recursos Humanos del Sistema Nacional de Salud, sin perjuicio de las competencias de las comunidades autónomas."
+      },
+      {
+        "value": 2,
+        "text": "Al Ministerio de Educación, sin prejuicio de las competencias de las comunidades autónomas."
+      },
+      {
+        "value": 3,
+        "text": "A las comunidades autónomas, sin perjuicio de las competencias del Ministerio de Educación."
+      },
+      {
+        "value": 4,
+        "text": "A las comunidades autónomas, sin perjuicio de las competencias de la Comisión de Recursos Humanos del Sistema Nacional de Salud."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "A la Comisión de Recursos Humanos del Sistema Nacional de Salud, sin perjuicio de las competencias de las comunidades autónomas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 36 Ley 16/2003: 'El diseño de programas de formación y modernización de los recursos humanos del SNS corresponde a la Comisión de Recursos Humanos del Sistema Nacional de Salud, sin perjuicio de las competencias de las comunidades autónomas.' Respuesta A."
+  },
+  {
+    "id": "comun-t02_17",
+    "questionNum": 17,
+    "question": "A los efectos de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la competencia profesional es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La acreditación de formación continuada a lo largo del desempeño de su carrera profesional."
+      },
+      {
+        "value": 2,
+        "text": "La competencia acreditada por el título correspondiente acreditativo de la adquisición de conocimientos requeridos para el desempeño del puesto designado."
+      },
+      {
+        "value": 3,
+        "text": "La aptitud del personal profesional sanitario para integrar y aplicar los conocimientos, habilidades y actitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le plantean."
+      },
+      {
+        "value": 4,
+        "text": "La superación del proceso selectivo oficial convocado por la autoridad competente para la adquisición del vínculo estatutario con los servicios sanitarios."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La aptitud del personal profesional sanitario para integrar y aplicar los conocimientos, habilidades y actitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le plantean."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 34 Ley 16/2003: 'Se entiende por competencia profesional la aptitud del profesional sanitario para integrar y aplicar los conocimientos, habilidades y actitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le plantean.' Respuesta C."
+  },
+  {
+    "id": "comun-t02_18",
+    "questionNum": 18,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la tarjeta sanitaria individual incluirá los siguientes datos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exclusivamente los datos básicos de identificación de la persona titular de la tarjeta."
+      },
+      {
+        "value": 2,
+        "text": "Exclusivamente los datos básicos de identificación de la persona titular de la tarjeta y del derecho que le asiste en relación con la prestación farmacéutica."
+      },
+      {
+        "value": 3,
+        "text": "Los datos básicos de identificación de la persona titular de la tarjeta, del derecho que le asiste en relación con la prestación farmacéutica y del servicio de salud o entidad responsable de la asistencia sanitaria."
+      },
+      {
+        "value": 4,
+        "text": "Los datos básicos de identificación de la persona titular de la tarjeta, del derecho que le asiste en relación con la prestación farmacéutica, del servicio de salud o entidad responsable de la asistencia sanitaria y del personal profesional al que está adscrito en atención primaria."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Los datos básicos de identificación de la persona titular de la tarjeta, del derecho que le asiste en relación con la prestación farmacéutica, del servicio de salud o entidad responsable de la asistencia sanitaria y del personal profesional al que está adscrito en atención primaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 57 Ley 16/2003: La tarjeta sanitaria individual incluirá 'los datos básicos de identificación de la persona titular, del derecho que le asiste en relación con la prestación farmacéutica, del servicio de salud o entidad responsable de la asistencia sanitaria y del profesional al que está adscrito en atención primaria.' Respuesta D."
+  },
+  {
+    "id": "comun-t02_19",
+    "questionNum": 19,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la infraestructura para la mejora de la calidad del Sistema Nacional de Salud estará constituida por los elementos siguientes:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El registro de agresiones a profesionales de la sanidad, con el fin de adopción de medidas preventivas."
+      },
+      {
+        "value": 2,
+        "text": "El registro de acontecimientos adversos, que recogerá información sobre aquellas prácticas que hayan resultado un problema potencial de seguridad para la persona paciente."
+      },
+      {
+        "value": 3,
+        "text": "Las respuestas a) y b) son correctas."
+      },
+      {
+        "value": 4,
+        "text": "Las respuestas a) y b) son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las respuestas a) y b) son falsas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 59 Ley 16/2003: La infraestructura para la mejora de la calidad incluye: el registro de declaración de incidentes y eventos adversos, los indicadores, la acreditación, el sistema de información, etc. No contempla un 'registro de agresiones a profesionales' como elemento de esa infraestructura. La opción d) (ambas falsas) es correcta respecto a las afirmaciones a) y b) tal como están formuladas (b es falsa porque el registro es de incidentes/eventos adversos, no de prácticas que 'hayan resultado un problema potencial'). Respuesta D."
+  },
+  {
+    "id": "comun-t02_20",
+    "questionNum": 20,
+    "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la declaración de actuaciones coordinadas en salud pública y en seguridad alimentaria deberán encuadrarse en alguno de los supuestos siguientes:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Responder a situaciones de especial riesgo o alarma para la salud pública."
+      },
+      {
+        "value": 2,
+        "text": "Establecer planes preventivos para hacer frente a situaciones de especial riesgo o alarma para la salud pública."
+      },
+      {
+        "value": 3,
+        "text": "Realizar análisis epidemiológicos que permitan establecer estructuras y recursos según las previsiones en materia de salud pública y seguridad alimentaria."
+      },
+      {
+        "value": 4,
+        "text": "Las respuestas a) y b) son verdaderas y la c) es falsa."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las respuestas a) y b) son verdaderas y la c) es falsa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 65 Ley 16/2003: Las actuaciones coordinadas en salud pública deberán encuadrarse en: responder a situaciones de especial riesgo o alarma (a), o establecer planes preventivos frente a esas situaciones (b). Los análisis epidemiológicos del apartado c) no constituyen por sí solos un supuesto de declaración de actuaciones coordinadas. Respuesta D (a y b correctas, c falsa)."
+  },
+  {
+    "id": "comun-t02_21",
+    "questionNum": 21,
+    "question": "El personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No ostenta el derecho individual a la libre sindicación."
+      },
+      {
+        "value": 2,
+        "text": "Ostenta el derecho a la actividad sindical."
+      },
+      {
+        "value": 3,
+        "text": "Ostenta el derecho de reunión, que podrá ejercerlo siempre que cuente con la necesaria autorización previa."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ostenta el derecho a la actividad sindical."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 18 Ley 55/2003: El personal estatutario ostenta el derecho a la actividad sindical. El derecho de reunión no requiere autorización previa (art. 19 EM). La libre sindicación SÍ está reconocida. La opción correcta es la b) 'ostenta el derecho a la actividad sindical'. Respuesta B."
+  }
+]

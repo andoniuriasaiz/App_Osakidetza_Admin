@@ -1,0 +1,758 @@
+[
+  {
+    "id": "comun-t03_1",
+    "questionNum": 1,
+    "question": "El objeto de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Establecer las bases reguladoras de la relación funcionarial especial del personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud."
+      },
+      {
+        "value": 2,
+        "text": "Establecer el Estatuto Marco del personal estatutario vinculado por una relación laboral especial a los servicios de salud que integran el Sistema Nacional de Salud."
+      },
+      {
+        "value": 3,
+        "text": "Establecer las bases reguladoras de la relación funcionarial del personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores respuestas es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Establecer las bases reguladoras de la relación funcionarial especial del personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 1 Ley 55/2003: 'La presente ley tiene por objeto establecer las bases reguladoras de la RELACIÓN FUNCIONARIAL ESPECIAL del personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud.' Respuesta A."
+  },
+  {
+    "id": "comun-t03_2",
+    "questionNum": 2,
+    "question": "Según dispone la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la ordenación del régimen personal estatutario de los servicios de salud se rige por una serie de principios y criterios. Señale cuales no están entre los mencionados por esta ley:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sometimiento pleno a la ley y el derecho."
+      },
+      {
+        "value": 2,
+        "text": "Igualdad, mérito, capacidad y promoción en el acceso a la condición de personal estatutario."
+      },
+      {
+        "value": 3,
+        "text": "Integración en el régimen organizativo y funcional del servicio de salud y de sus centros e instituciones."
+      },
+      {
+        "value": 4,
+        "text": "Coordinación, cooperación y mutua información entre las Administraciones sanitarias públicas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Sometimiento pleno a la ley y el derecho."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 2 Ley 55/2003: Los principios y criterios son: igualdad, mérito, capacidad y publicidad (no solo 'sometimiento pleno a ley y derecho' como principio rector de la ordenación). Los demás principios mencionados (integración en el régimen organizativo, coordinación entre administraciones) SÍ están. El 'sometimiento pleno a la ley y el derecho' es un principio general pero no de los específicamente enumerados en la ordenación del régimen estatutario. Respuesta A."
+  },
+  {
+    "id": "comun-t03_3",
+    "questionNum": 3,
+    "question": "La condición de personal estatutario fijo se adquiere, tal y como prevé la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, por el cumplimiento de los siguientes requisitos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Incorporación a una plaza de servicio, institución o centro que corresponda en el plazo fijado en la convocatoria tras la superación de las pruebas de selección."
+      },
+      {
+        "value": 2,
+        "text": "Superación de las pruebas de selección; nombramiento conferido por el órgano competente; e incorporación a una plaza del servicio, institución o centro que corresponda en el plazo de un mes."
+      },
+      {
+        "value": 3,
+        "text": "Superación de las pruebas de selección; nombramiento conferido por el órgano competente; e incorporación, previo cumplimiento de los requisitos formales en cada caso establecidos, a una plaza del servicio, institución o centro que corresponda en el plazo determinado en la convocatoria."
+      },
+      {
+        "value": 4,
+        "text": "Superación de las pruebas de selección; nombramiento conferido por el órgano competente; e incorporación a una plaza del servicio, institución o centro que corresponda en todo caso en el plazo determinado en la convocatoria."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Superación de las pruebas de selección; nombramiento conferido por el órgano competente; e incorporación, previo cumplimiento de los requisitos formales en cada caso establecidos, a una plaza del servicio, institución o centro que corresponda en el plazo determinado en la convocatoria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 20 Ley 55/2003: La condición de personal estatutario fijo se adquiere por: superación de las pruebas de selección, nombramiento conferido por el órgano competente, e incorporación 'previo cumplimiento de los requisitos formales en cada caso establecidos, a una plaza del servicio, institución o centro que corresponda en el plazo determinado en la convocatoria'. Respuesta C."
+  },
+  {
+    "id": "comun-t03_4",
+    "questionNum": 4,
+    "question": "Según dice la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, en el proceso de la adquisición de la condición de personal estatutario fijo, no podrán recibir nombramiento y quedarán sin efecto las actuaciones de quienes:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria, una vez superado el proceso selectivo."
+      },
+      {
+        "value": 2,
+        "text": "No acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria, con carácter previo a la superación del proceso selectivo."
+      },
+      {
+        "value": 3,
+        "text": "No acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria, una vez firmada la convocatoria."
+      },
+      {
+        "value": 4,
+        "text": "Una vez superado el proceso selectivo, automáticamente se procede al nombramiento por el órgano competente."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "No acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria, una vez superado el proceso selectivo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 20.2 Ley 55/2003: No podrán recibir nombramiento quienes 'no acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria, UNA VEZ SUPERADO el proceso selectivo.' Si no los acreditan previamente, no pueden participar; si no los acreditan al final, no reciben nombramiento. Respuesta A."
+  },
+  {
+    "id": "comun-t03_5",
+    "questionNum": 5,
+    "question": "La pérdida de la condición de personal estatutario regulada en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, se produce:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre en caso de pena de inhabilitación especial para empleo o cargo público, afecte o no al correspondiente nombramiento."
+      },
+      {
+        "value": 2,
+        "text": "En caso de que se adopte la pena de inhabilitación absoluta sea firme o no."
+      },
+      {
+        "value": 3,
+        "text": "En caso de que se adopte la pena de inhabilitación especial para la correspondiente profesión, siempre que esta exceda de seis años."
+      },
+      {
+        "value": 4,
+        "text": "En caso de que se adopte la pena de inhabilitación especial para la correspondiente profesión, siempre que esta exceda de tres años."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "En caso de que se adopte la pena de inhabilitación especial para la correspondiente profesión, siempre que esta exceda de tres años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 26.d Ley 55/2003: La pérdida de la condición se produce por 'la pena de inhabilitación especial para la CORRESPONDIENTE PROFESIÓN, siempre que esta exceda de TRES AÑOS.' La opción D recoge correctamente el plazo de tres años para inhabilitación especial. Respuesta D."
+  },
+  {
+    "id": "comun-t03_6",
+    "questionNum": 6,
+    "question": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale cuál de las siguientes afirmaciones no es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La jubilación puede ser forzosa o voluntaria."
+      },
+      {
+        "value": 2,
+        "text": "Para que la persona interesada pueda prolongar su permanencia en servicio activo hasta cumplir los 70 años, bastará con que lo solicite voluntariamente."
+      },
+      {
+        "value": 3,
+        "text": "La jubilación forzosa se declarará al cumplir la persona interesada 65 años."
+      },
+      {
+        "value": 4,
+        "text": "Podrá optar a la jubilación voluntaria, total o parcial, el personal estatutario que reúna los requisitos establecidos en la legislación de Seguridad Social."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La jubilación forzosa se declarará al cumplir la persona interesada 65 años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 26.c y 27 Ley 55/2003: La jubilación forzosa se declara 'al cumplir la edad que en cada caso resulte de aplicación conforme a la normativa de Seguridad Social' (actualmente 65 o 67 años según cotización, no forzosamente 65). Puede prolongarse voluntariamente hasta los 70 años. La afirmación C ('se declarará al cumplir 65 años') es incorrecta. Respuesta C."
+  },
+  {
+    "id": "comun-t03_7",
+    "questionNum": 7,
+    "question": "Procede la extinción de la condición de personal estatutario fijo de los servicios de salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando se produzca la pérdida de la nacionalidad."
+      },
+      {
+        "value": 2,
+        "text": "En caso de recaer sanción firme disciplinaria de separación del servicio."
+      },
+      {
+        "value": 3,
+        "text": "Siempre que se imponga una pena principal o accesoria de inhabilitación especial para empleo o cargo público o para el ejercicio de la correspondiente profesión."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las anteriores respuestas son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 26 Ley 55/2003: Procede la extinción por: pérdida de la nacionalidad (a), sanción firme de separación del servicio (b), e inhabilitación especial (c). Las tres causas están contempladas, por tanto 'todas las anteriores' es correcto. Respuesta D."
+  },
+  {
+    "id": "comun-t03_8",
+    "questionNum": 8,
+    "question": "En materia de retribuciones, la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, prevé que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El sistema retributivo del personal estatutario se estructura en retribuciones básicas y retribuciones complementarias."
+      },
+      {
+        "value": 2,
+        "text": "La evaluación del personal estatutario a efectos de determinación de una parte de la retribuciones complementarias se establecerá a través de procedimientos fundados en los principios igualdad, objetividad y transparencia."
+      },
+      {
+        "value": 3,
+        "text": "El sistema retributivo del personal estatutario responde a los principios de cualificación técnica y profesional."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 41-44 Ley 55/2003: El sistema retributivo se estructura en básicas y complementarias (a); la evaluación se hará por principios de igualdad, objetividad y transparencia (b); responde a principios de cualificación técnica y profesional (c). Las tres son correctas. Respuesta D."
+  },
+  {
+    "id": "comun-t03_9",
+    "questionNum": 9,
+    "question": "De acuerdo con la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale la respuesta correcta respecto a las retribuciones del personal estatutario de los servicios de salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las retribuciones básicas son: el sueldo asignado a cada categoría en función del título exigido para su desempeño; los trienios; y las pagas extraordinarias."
+      },
+      {
+        "value": 2,
+        "text": "Las retribuciones básicas serán iguales en todos los servicios de salud independientemente de la anualidad en la que se perciban."
+      },
+      {
+        "value": 3,
+        "text": "El personal estatutario temporal percibirá la totalidad de las retribuciones que, en el correspondiente servicio de salud, correspondan a su nombramiento, con excepción del complemento de carrera."
+      },
+      {
+        "value": 4,
+        "text": "El complemento de atención continuada está destinado a retribuir la iniciativa continuada y permanente de la persona titular del puesto."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las retribuciones básicas son: el sueldo asignado a cada categoría en función del título exigido para su desempeño; los trienios; y las pagas extraordinarias."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 42 Ley 55/2003: Las retribuciones básicas son: sueldo asignado a la categoría en función del título exigido, trienios y pagas extraordinarias. Respuesta A."
+  },
+  {
+    "id": "comun-t03_10",
+    "questionNum": 10,
+    "question": "La pérdida de la condición de personal estatutario de los servicios de salud se produce cuando la incapacidad permanente sea declarada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En grado de incapacidad permanente total para la profesión habitual."
+      },
+      {
+        "value": 2,
+        "text": "En grado de incapacidad absoluta para todo trabajo."
+      },
+      {
+        "value": 3,
+        "text": "En grado de gran invalidez."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 26.e Ley 55/2003: La incapacidad permanente que causa la pérdida de la condición estatutaria es la declarada en grado de: incapacidad permanente total para la profesión habitual, incapacidad permanente absoluta para todo trabajo, y gran invalidez. Todas las respuestas son correctas. Respuesta D."
+  },
+  {
+    "id": "comun-t03_11",
+    "questionNum": 11,
+    "question": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, establece que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El tiempo de trabajo es el período en el que el personal permanece en el centro sanitario."
+      },
+      {
+        "value": 2,
+        "text": "Solo se considera tiempo de trabajo aquel en el que el personal se encuentre dentro del centro sanitario en su puesto de trabajo y en el ejercicio de su actividad y funciones."
+      },
+      {
+        "value": 3,
+        "text": "Para el cómputo del tiempo de trabajo, se puede tomar en consideración tanto el tiempo en el que se permanece en el centro sanitario como fuera de dicho centro."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las respuestas anteriores es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Para el cómputo del tiempo de trabajo, se puede tomar en consideración tanto el tiempo en el que se permanece en el centro sanitario como fuera de dicho centro."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 55 Ley 55/2003: 'Para el cómputo del tiempo de trabajo, se puede tomar en consideración tanto el tiempo en el que se permanece en el centro sanitario como fuera de dicho centro.' El tiempo de trabajo es el tiempo de prestación real de servicios, pudiendo computarse dentro y fuera del centro. Respuesta C."
+  },
+  {
+    "id": "comun-t03_12",
+    "questionNum": 12,
+    "question": "En el supuesto del personal estatutario de los servicios de salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El período de localización es aquel período de tiempo en el que el personal se encuentra únicamente en situación de disponibilidad."
+      },
+      {
+        "value": 2,
+        "text": "Se considera período de descanso todo período de tiempo que no sea tiempo de trabajo."
+      },
+      {
+        "value": 3,
+        "text": "El trabajo por turnos es una forma de organización del trabajo en equipo con arreglo al ritmo rotatorio y siempre de tipo continuo."
+      },
+      {
+        "value": 4,
+        "text": "El período de localización es aquel período de tiempo en el que el personal se encuentra en situación de disponibilidad a los solos efectos de asegurar su posible localización."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El período de localización es aquel período de tiempo en el que el personal se encuentra en situación de disponibilidad a los solos efectos de asegurar su posible localización."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 57.3 Ley 55/2003: 'El período de localización es aquel período de tiempo en el que el personal se encuentra en situación de disponibilidad A LOS SOLOS EFECTOS DE ASEGURAR SU POSIBLE LOCALIZACIÓN.' Respuesta D."
+  },
+  {
+    "id": "comun-t03_13",
+    "questionNum": 13,
+    "question": "Para el personal estatutario de los servicios de salud, el período nocturno tendrá la siguiente duración:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mínima de siete horas e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural."
+      },
+      {
+        "value": 2,
+        "text": "Mínima de ocho horas e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural."
+      },
+      {
+        "value": 3,
+        "text": "Mínima de ocho horas e incluirá necesariamente el período comprendido entre las doce y las cinco horas de cada día natural."
+      },
+      {
+        "value": 4,
+        "text": "Mínima de siete horas e incluirá necesariamente el período comprendido entre las doce y las cinco horas de cada día natural."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Mínima de ocho horas e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 57 Ley 55/2003: 'El período nocturno tendrá una duración MÍNIMA DE OCHO HORAS e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural.' Respuesta B."
+  },
+  {
+    "id": "comun-t03_14",
+    "questionNum": 14,
+    "question": "Atendiendo a lo dispuesto en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale la respuesta que no es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Para superarse la duración máxima conjunta de la jornada ordinaria y la jornada complementaria, será suficiente con justificar por parte del centro sanitario que existen razones organizativas o asistenciales que así lo justifiquen."
+      },
+      {
+        "value": 2,
+        "text": "Podrá superarse la duración máxima conjunta de la jornada ordinaria y de la jornada complementaria cuando el personal lo consienta y siempre que existan razones organizativas o asistenciales que así lo justifiquen en aras a garantizar la adecuada atención continuada y permanente"
+      },
+      {
+        "value": 3,
+        "text": "Podrá superarse la duración máxima conjunta de la jornada ordinaria y de la jornada complementaria siempre previa oferta expresa del centro sanitario."
+      },
+      {
+        "value": 4,
+        "text": "Los excesos de jornada tendrán el carácter de jornada complementaria y un límite máximo de 150 horas anuales."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Para superarse la duración máxima conjunta de la jornada ordinaria y la jornada complementaria, será suficiente con justificar por parte del centro sanitario que existen razones organizativas o asistenciales que así lo justifiquen."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 59 Ley 55/2003: Para superar la duración máxima conjunta de jornada ordinaria y complementaria se requiere SIEMPRE: el consentimiento del trabajador Y que existan razones organizativas o asistenciales. No es suficiente con que el centro justifique razones sin el consentimiento del profesional. La opción A es incorrecta porque no menciona el consentimiento. Respuesta A."
+  },
+  {
+    "id": "comun-t03_15",
+    "questionNum": 15,
+    "question": "Respecto a la jornada y descansos diarios del personal estatutario de los servicios de salud, es correcta la siguiente afirmación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El tiempo de trabajo correspondiente a la jornada ordinaria será siempre de 12 horas ininterrumpidas."
+      },
+      {
+        "value": 2,
+        "text": "El personal tiene derecho a un período mínimo de descanso ininterrumpido de 8 horas entre el fin de una jornada y el comienzo de la siguiente."
+      },
+      {
+        "value": 3,
+        "text": "Se podrán establecer jornadas ordinarias de hasta 24 horas con carácter excepcional y cuando así lo aconsejen razones organizativas o asistenciales."
+      },
+      {
+        "value": 4,
+        "text": "El descanso ininterrumpido de 12 horas entre el fin de una jornada y el comienzo de la siguiente solo podrá reducirse en el caso de trabajo a turnos, cuando el personal cambie de equipo y no pueda disfrutar del período de descanso diario entre el final de la jornada de un equipo y el comienzo de la jornada del siguiente."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El descanso ininterrumpido de 12 horas entre el fin de una jornada y el comienzo de la siguiente solo podrá reducirse en el caso de trabajo a turnos, cuando el personal cambie de equipo y no pueda disfrutar del período de descanso diario entre el final de la jornada de un equipo y el comienzo de la jornada del siguiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 60 Ley 55/2003: El personal tiene derecho a un período mínimo de descanso ininterrumpido de 12 horas entre jornadas. Esta reducción solo podrá producirse en el caso de trabajo a turnos, cuando el personal cambie de equipo. La opción D describe correctamente la excepción del trabajo a turnos. Respuesta D."
+  },
+  {
+    "id": "comun-t03_16",
+    "questionNum": 16,
+    "question": "Según establece la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Resulta incompatible para el personal estatutario de los servicios de salud el ejercicio de las funciones sanitarias con cualquier otro tipo de funciones."
+      },
+      {
+        "value": 2,
+        "text": "Al personal estatutario de los servicios de salud le resulta aplicable el mismo régimen de incompatibilidades establecido para el personal funcionario."
+      },
+      {
+        "value": 3,
+        "text": "Atendiendo a lo que establezca la legislación vigente, el personal estatutario de los servicios de salud podrá compatibilizar las funciones sanitarias y docente."
+      },
+      {
+        "value": 4,
+        "text": "Para el personal licenciado sanitario el complemento específico resulta irrenunciable."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Atendiendo a lo que establezca la legislación vigente, el personal estatutario de los servicios de salud podrá compatibilizar las funciones sanitarias y docente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 71 Ley 55/2003: El personal estatutario de los servicios de salud podrá compatibilizar las funciones sanitarias con las docentes, de investigación o pericial, de acuerdo con la legislación vigente. La normativa aplicable es la de incompatibilidades (Ley 53/1984). Respuesta C."
+  },
+  {
+    "id": "comun-t03_17",
+    "questionNum": 17,
+    "question": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud regula el descanso semanal. Señale la respuesta que no es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal tendrá derecho a un período mínimo que siempre será fijo de descanso ininterrumpido con una duración media de 24 horas semanales."
+      },
+      {
+        "value": 2,
+        "text": "El período de referencia para el cálculo del período de descanso semanal será de tres meses."
+      },
+      {
+        "value": 3,
+        "text": "En el caso de que no se hubiera disfrutado del tiempo mínimo de descanso semanal en el período de tres meses se producirá una compensación a través del régimen de descansos alternativos."
+      },
+      {
+        "value": 4,
+        "text": "El período de referencia para el cálculo del período de descanso semanal será de dos meses."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El personal tendrá derecho a un período mínimo que siempre será fijo de descanso ininterrumpido con una duración media de 24 horas semanales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 62 Ley 55/2003: El descanso semanal tendrá 'una duración media de 24 horas' pero NO será siempre fijo — puede variar en el período de referencia. La opción A dice 'que siempre será fijo', lo que es INCORRECTO. El período de referencia para el cálculo es de dos meses (no tres). Respuesta A."
+  },
+  {
+    "id": "comun-t03_18",
+    "questionNum": 18,
+    "question": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal tendrá derecho a una vacación retribuida cuya duración no será inferior en ningún caso a 30 días naturales."
+      },
+      {
+        "value": 2,
+        "text": "El personal estatutario de los servicios de salud podrá elegir sustituir el período de vacación por una compensación económica."
+      },
+      {
+        "value": 3,
+        "text": "Solo podrá ser sustituido por una compensación económica el período vacacional anual mediante la programación funcional de los centros, cuando así lo aconsejen razones organizativas."
+      },
+      {
+        "value": 4,
+        "text": "Anualmente, el personal tendrá derecho a una vacación retribuida cuya duración no será inferior a 30 días naturales, o al tiempo que proporcionalmente corresponda en función del tiempo de servicios."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Anualmente, el personal tendrá derecho a una vacación retribuida cuya duración no será inferior a 30 días naturales, o al tiempo que proporcionalmente corresponda en función del tiempo de servicios."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 63 Ley 55/2003: 'Anualmente, el personal tendrá derecho a una vacación retribuida cuya duración no será inferior a 30 días naturales, o al tiempo que proporcionalmente corresponda en función del tiempo de servicios.' Las vacaciones no pueden sustituirse por compensación económica salvo en casos de cese. Respuesta D."
+  },
+  {
+    "id": "comun-t03_19",
+    "questionNum": 19,
+    "question": "La excedencia voluntaria solicitada por el personal estatutario de los servicios de salud por interés particular exige haber prestado servicios efectivos en cualquiera de las Administraciones públicas durante:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los cinco años inmediatamente anteriores."
+      },
+      {
+        "value": 2,
+        "text": "Los cuatro años inmediatamente anteriores."
+      },
+      {
+        "value": 3,
+        "text": "Los dos años inmediatamente anteriores."
+      },
+      {
+        "value": 4,
+        "text": "Los tres años inmediatamente anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Los cinco años inmediatamente anteriores."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 67 Ley 55/2003: 'La excedencia voluntaria por interés particular exige haber prestado servicios efectivos en cualquiera de las administraciones públicas durante LOS CINCO AÑOS INMEDIATAMENTE ANTERIORES.' Respuesta A."
+  },
+  {
+    "id": "comun-t03_20",
+    "questionNum": 20,
+    "question": "Respecto al personal sujeto al régimen estatutario que establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Este vínculo estatutario se adquiere mediante el cumplimiento de los dos siguientes requisitos: superación del proceso selectivo correspondiente y nombramiento conferido por autoridad competente."
+      },
+      {
+        "value": 2,
+        "text": "Los principios que rigen el procedimiento selectivo para la adquisición del vínculo estatutario son exclusivamente el de igualdad, mérito y capacidad."
+      },
+      {
+        "value": 3,
+        "text": "Los instrumentos de clasificación del personal sujeto a este régimen estatutario son el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe."
+      },
+      {
+        "value": 4,
+        "text": "El grupo de titulación constituye el instrumento de clasificación del personal en base al agrupamiento unitario de las aptitudes profesionales y contenido específico da las tareas propias de la prestación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los instrumentos de clasificación del personal sujeto a este régimen estatutario son el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 30 Ley 8/1997: Los instrumentos de clasificación del personal estatutario son: 'el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe.' Respuesta C."
+  },
+  {
+    "id": "comun-t03_21",
+    "questionNum": 21,
+    "question": "¿La Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, es aplicable al personal estatutario de los servicios de salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No, porque se rige por normativa específica exclusivamente."
+      },
+      {
+        "value": 2,
+        "text": "Sí, como personal al servicio de las Administraciones Públicas."
+      },
+      {
+        "value": 3,
+        "text": "Solo si tienen plaza en propiedad."
+      },
+      {
+        "value": 4,
+        "text": "Solo al personal directivo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Sí, como personal al servicio de las Administraciones Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "La Ley 53/1984 de Incompatibilidades es aplicable al personal estatutario de los servicios de salud como personal al servicio de las Administraciones Públicas. El art. 71 de la Ley 55/2003 Estatuto Marco remite a la legislación de incompatibilidades vigente (Ley 53/1984). Respuesta B."
+  }
+]
