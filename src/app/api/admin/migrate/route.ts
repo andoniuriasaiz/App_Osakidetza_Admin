@@ -107,7 +107,16 @@ export async function POST(req: NextRequest) {
       )
     `;
 
-    return NextResponse.json({ ok: true, message: 'Migración completada: 7 tablas listas' });
+    // 8. OPEs que prepara cada usuario (aux, admin, tec)
+    await db`
+      CREATE TABLE IF NOT EXISTS user_tracks (
+        user_id    INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+        track_id   TEXT    NOT NULL CHECK (track_id IN ('aux', 'admin', 'tec')),
+        PRIMARY KEY (user_id, track_id)
+      )
+    `;
+
+    return NextResponse.json({ ok: true, message: 'Migración completada: 8 tablas listas' });
   } catch (err) {
     console.error('[migrate]', err);
     return NextResponse.json({ error: String(err) }, { status: 500 });

@@ -1,0 +1,578 @@
+[
+  {
+    "id": "tec-comun-t16_1",
+    "questionNum": 1,
+    "question": "Cual es el objeto fundamental de la Ley Organica 3/2021, de 24 de marzo, de regulacion de la eutanasia, segun su Articulo 1?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Regular los cuidados paliativos avanzados en el Sistema Nacional de Salud."
+      },
+      {
+        "value": 2,
+        "text": "Modificar el Codigo Penal para despenalizar la asistencia al suicidio."
+      },
+      {
+        "value": 3,
+        "text": "Regular el derecho de toda persona a solicitar y recibir la prestacion de ayuda para morir y la obligacion de las Administraciones de garantizarla."
+      },
+      {
+        "value": 4,
+        "text": "Establecer el registro de las voluntades anticipadas y testamentos vitales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Regular el derecho de toda persona a solicitar y recibir la prestacion de ayuda para morir y la obligacion de las Administraciones de garantizarla."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El Art. 1 de la LO 3/2021 establece como objeto regular el derecho de toda persona a solicitar y recibir la prestacion de ayuda para morir, y la correlativa obligacion de las Administraciones de garantizarla."
+  },
+  {
+    "id": "tec-comun-t16_2",
+    "questionNum": 2,
+    "question": "Conforme al Articulo 5 de la LO 3/2021, de regulacion de la eutanasia, que requisito de nacionalidad se exige para poder recibir la prestacion de ayuda para morir?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tener la ciudadania española con residencia legal ininterrumpida de al menos 10 años."
+      },
+      {
+        "value": 2,
+        "text": "Tener la nacionalidad española o tener residencia legal en España de al menos 5 años."
+      },
+      {
+        "value": 3,
+        "text": "Ser mayor de edad y tener la nacionalidad española, residencia legal o certificado de empadronamiento que acredite un tiempo de permanencia superior a 12 meses en territorio español."
+      },
+      {
+        "value": 4,
+        "text": "Tener la nacionalidad española y residencia en el mismo municipio durante los ultimos 2 años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ser mayor de edad y tener la nacionalidad española, residencia legal o certificado de empadronamiento que acredite un tiempo de permanencia superior a 12 meses en territorio español."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El Art. 5.1.a) LO 3/2021 exige ser mayor de edad y tener nacionalidad española, residencia legal o certificado de empadronamiento que acredite mas de 12 meses de permanencia en España."
+  },
+  {
+    "id": "tec-comun-t16_3",
+    "questionNum": 3,
+    "question": "Segun la LO 3/2021, de regulacion de la eutanasia, que concepto define la ley como la administracion directa a la persona paciente de una sustancia por parte del personal sanitario competente?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Suicidio medicamente asistido."
+      },
+      {
+        "value": 2,
+        "text": "Sedacion paliativa profunda."
+      },
+      {
+        "value": 3,
+        "text": "Eutanasia."
+      },
+      {
+        "value": 4,
+        "text": "Asistencia para morir."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Eutanasia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El Art. 3.b) LO 3/2021 define la eutanasia como la administracion directa al paciente de una sustancia por parte del personal sanitario competente que provoca su muerte de forma directa e intencionada."
+  },
+  {
+    "id": "tec-comun-t16_4",
+    "questionNum": 4,
+    "question": "Segun el Articulo 5 de la LO 3/2021, de regulacion de la eutanasia, cual es la condicion que debe padecer la persona paciente para solicitar la prestacion de ayuda para morir?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Padecer una enfermedad incurable en fase terminal o un deterioro funcional grave."
+      },
+      {
+        "value": 2,
+        "text": "Sufrir una enfermedad que limite gravemente su autonomia."
+      },
+      {
+        "value": 3,
+        "text": "Padecer una enfermedad grave e incurable o un padecimiento grave, cronico e imposibilitante, causantes de un sufrimiento intolerable."
+      },
+      {
+        "value": 4,
+        "text": "Sufrir un dolor fisico o psiquico que no puede ser tratado con paliativos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Padecer una enfermedad grave e incurable o un padecimiento grave, cronico e imposibilitante, causantes de un sufrimiento intolerable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El Art. 5.1.b) LO 3/2021 exige padecer una enfermedad grave e incurable, o un padecimiento grave, cronico e imposibilitante, causantes de un sufrimiento fisico o psiquico intolerable."
+  },
+  {
+    "id": "tec-comun-t16_5",
+    "questionNum": 5,
+    "question": "Segun la LO 3/2021, de regulacion de la eutanasia, cual debe ser la periodicidad minima con la que el personal facultativo responsable debe consultar a la persona paciente, una vez presentada la solicitud, para confirmar si mantiene su deseo?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al menos cada 7 dias."
+      },
+      {
+        "value": 2,
+        "text": "Al menos cada 15 dias, debiendo dejarse constancia en la historia clinica."
+      },
+      {
+        "value": 3,
+        "text": "Al menos cada 30 dias, si el procedimiento se extiende."
+      },
+      {
+        "value": 4,
+        "text": "Una unica vez antes de la prestacion."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Al menos cada 15 dias, debiendo dejarse constancia en la historia clinica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El Art. 8.2 LO 3/2021 establece que el medico responsable debe consultar al paciente al menos cada 15 dias para confirmar que mantiene su deseo, dejando constancia en la historia clinica."
+  },
+  {
+    "id": "tec-comun-t16_6",
+    "questionNum": 6,
+    "question": "Segun la LO 3/2021, de regulacion de la eutanasia, cual es el derecho que asiste al personal sanitario directamente implicado en la prestacion de ayuda para morir?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Derecho a la reubicacion en un puesto de trabajo diferente."
+      },
+      {
+        "value": 2,
+        "text": "Derecho a un incremento salarial por la complejidad de la prestacion."
+      },
+      {
+        "value": 3,
+        "text": "Derecho a la objecion de conciencia."
+      },
+      {
+        "value": 4,
+        "text": "Derecho a recibir asistencia juridica de oficio."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Derecho a la objecion de conciencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El Art. 16 LO 3/2021 reconoce el derecho a la objecion de conciencia del personal sanitario directamente implicado en la prestacion de ayuda para morir, debiendo manifestarlo con antelacion y por escrito."
+  },
+  {
+    "id": "tec-comun-t16_7",
+    "questionNum": 7,
+    "question": "Segun la LO 3/2021, de regulacion de la eutanasia, que define como padecimiento grave, cronico e imposibilitante?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aquel que implica la existencia de sufrimiento fisico o psiquico constante."
+      },
+      {
+        "value": 2,
+        "text": "Aquel que genera una limitacion que incide directamente sobre la autonomia fisica y capacidad de expresar su voluntad de la persona paciente."
+      },
+      {
+        "value": 3,
+        "text": "La dependencia de otra persona para la realizacion de al menos dos actividades basicas de la vida diaria."
+      },
+      {
+        "value": 4,
+        "text": "Una dolencia declarada irreversible y con un pronostico de vida inferior a seis meses."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Aquel que genera una limitacion que incide directamente sobre la autonomia fisica y capacidad de expresar su voluntad de la persona paciente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El Art. 3.c) LO 3/2021 define el padecimiento grave, cronico e imposibilitante como aquel que genera una limitacion que incide directamente sobre la autonomia fisica y la capacidad de expresar la voluntad de la persona."
+  },
+  {
+    "id": "tec-comun-t16_8",
+    "questionNum": 8,
+    "question": "Segun la LO 3/2021, de regulacion de la eutanasia, cual es el plazo que tiene la persona facultativa responsable para comunicar la resolucion favorable a la Comision de Garantia y Evaluacion para su posterior verificacion?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dentro de las 24 horas siguientes a la resolucion."
+      },
+      {
+        "value": 2,
+        "text": "Dentro del dia siguiente natural a la resolucion."
+      },
+      {
+        "value": 3,
+        "text": "7 dias desde la resolucion favorable."
+      },
+      {
+        "value": 4,
+        "text": "No existe un plazo establecido para esta comunicacion."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Dentro del dia siguiente natural a la resolucion."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El Art. 10.3 LO 3/2021 establece que el medico responsable debe comunicar la resolucion favorable a la Comision de Garantia y Evaluacion dentro del dia siguiente natural a dicha resolucion."
+  },
+  {
+    "id": "tec-comun-t16_9",
+    "questionNum": 9,
+    "question": "Cual es el principio general que establece la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Publicas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La libre acumulacion de empleos publicos."
+      },
+      {
+        "value": 2,
+        "text": "La incompatibilidad para desempeñar mas de un puesto en el sector publico, salvo excepciones."
+      },
+      {
+        "value": 3,
+        "text": "La compatibilidad automatica entre empleo publico y privado."
+      },
+      {
+        "value": 4,
+        "text": "La compatibilidad solo en el ambito sanitario."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La incompatibilidad para desempeñar mas de un puesto en el sector publico, salvo excepciones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El principio general de la Ley 53/1984 es la incompatibilidad del personal al servicio de las Administraciones Publicas para desempeñar mas de un puesto de trabajo en el sector publico, salvo excepciones expresamente previstas."
+  },
+  {
+    "id": "tec-comun-t16_10",
+    "questionNum": 10,
+    "question": "Con caracter general, el personal comprendido en la Ley 53/1984, de Incompatibilidades, podra desempeñar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dos puestos publicos si uno es a tiempo parcial."
+      },
+      {
+        "value": 2,
+        "text": "Un segundo puesto publico unicamente con autorizacion previa y en los supuestos previstos por la Ley."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier actividad privada sin limitacion."
+      },
+      {
+        "value": 4,
+        "text": "Dos puestos publicos si pertenecen a distinta Administracion."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Un segundo puesto publico unicamente con autorizacion previa y en los supuestos previstos por la Ley."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "La Ley 53/1984 establece que solo se puede desempeñar un segundo puesto publico con autorizacion previa y unicamente en los supuestos tasados que la propia Ley prevé, no de forma general."
+  },
+  {
+    "id": "tec-comun-t16_11",
+    "questionNum": 11,
+    "question": "Segun la Ley 53/1984, de Incompatibilidades, que requisito es imprescindible para autorizar la compatibilidad con una actividad privada?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que la actividad sea sanitaria."
+      },
+      {
+        "value": 2,
+        "text": "Que no se supere la jornada ordinaria establecida."
+      },
+      {
+        "value": 3,
+        "text": "Que no se comprometa la imparcialidad o independencia del personal publico."
+      },
+      {
+        "value": 4,
+        "text": "Que lo autorice la jefatura inmediata sin mas tramites."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Que no se comprometa la imparcialidad o independencia del personal publico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "La Ley 53/1984 exige que la actividad privada compatible no comprometa la imparcialidad o independencia del funcionario, ni interfiera con sus obligaciones publicas."
+  },
+  {
+    "id": "tec-comun-t16_12",
+    "questionNum": 12,
+    "question": "Segun la Ley 53/1984, de Incompatibilidades, puede percibirse mas de una remuneracion con cargo a los presupuestos publicos?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Si, siempre que no superen el salario minimo."
+      },
+      {
+        "value": 2,
+        "text": "No, salvo en los casos expresamente previstos en la Ley."
+      },
+      {
+        "value": 3,
+        "text": "Si, sin limitacion alguna."
+      },
+      {
+        "value": 4,
+        "text": "Solo si se trata de diferentes Administraciones autonomicas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "No, salvo en los casos expresamente previstos en la Ley."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "La Ley 53/1984 establece como regla general la prohibicion de percibir mas de una remuneracion con cargo a fondos publicos, salvo en los supuestos especificamente previstos y autorizados por la propia Ley."
+  },
+  {
+    "id": "tec-comun-t16_13",
+    "questionNum": 13,
+    "question": "Segun la Ley 53/1984, de Incompatibilidades, que ocurre si se desempeña una actividad incompatible sin autorizacion?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No ocurre nada si es fuera del horario laboral."
+      },
+      {
+        "value": 2,
+        "text": "Se considera falta leve."
+      },
+      {
+        "value": 3,
+        "text": "Puede dar lugar a responsabilidad disciplinaria."
+      },
+      {
+        "value": 4,
+        "text": "Solo se devuelve la remuneracion percibida."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Puede dar lugar a responsabilidad disciplinaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "El desempeño de actividades incompatibles sin la preceptiva autorizacion puede dar lugar a responsabilidad disciplinaria, siendo considerada falta muy grave que puede llevar a la separacion del servicio."
+  },
+  {
+    "id": "tec-comun-t16_14",
+    "questionNum": 14,
+    "question": "Segun la Ley 53/1984, de Incompatibilidades, que actividades estan exceptuadas del regimen general de incompatibilidades?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las actividades docentes o de investigacion en determinados supuestos."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier actividad privada."
+      },
+      {
+        "value": 3,
+        "text": "Solo actividades artisticas."
+      },
+      {
+        "value": 4,
+        "text": "Actividades comerciales propias sin limite."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las actividades docentes o de investigacion en determinados supuestos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "La Ley 53/1984 exceptua del regimen general las actividades docentes o de investigacion en determinados supuestos, asi como otras actividades de colaboracion ocasional."
+  },
+  {
+    "id": "tec-comun-t16_15",
+    "questionNum": 15,
+    "question": "Segun la Ley 53/1984, de Incompatibilidades, para que se autorice la compatibilidad para un segundo puesto publico es necesario que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sea en el mismo centro de trabajo."
+      },
+      {
+        "value": 2,
+        "text": "Sea la jornada completa."
+      },
+      {
+        "value": 3,
+        "text": "Sea en los supuestos tasados y no se modifique la jornada y horario del puesto principal."
+      },
+      {
+        "value": 4,
+        "text": "Lo apruebe el personal trabajador del servicio."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Sea en los supuestos tasados y no se modifique la jornada y horario del puesto principal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "La Ley 53/1984 exige que la compatibilidad para un segundo puesto publico se encuadre en los supuestos legalmente previstos y que no suponga modificacion de la jornada y horario del puesto principal."
+  },
+  {
+    "id": "tec-comun-t16_16",
+    "questionNum": 16,
+    "question": "La finalidad principal de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Publicas, es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Incrementar los ingresos del personal publico."
+      },
+      {
+        "value": 2,
+        "text": "Garantizar la dedicacion y la imparcialidad en el servicio publico."
+      },
+      {
+        "value": 3,
+        "text": "Permitir la pluriactividad generalizada."
+      },
+      {
+        "value": 4,
+        "text": "Reducir el numero de personal publico."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Garantizar la dedicacion y la imparcialidad en el servicio publico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t16",
+    "explanation": "La finalidad esencial de la Ley 53/1984 es garantizar la plena dedicacion del personal publico y su imparcialidad e independencia en el ejercicio de las funciones publicas, evitando conflictos de interes."
+  }
+]

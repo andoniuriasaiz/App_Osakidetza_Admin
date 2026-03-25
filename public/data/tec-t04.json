@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "tec-t04_1",
+    "questionNum": 1,
+    "question": "Conforme a la Ley 39/2015, cuando un plazo se señale por días, se entenderá que estos son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Días naturales, salvo que la norma disponga lo contrario."
+      },
+      {
+        "value": 2,
+        "text": "Días hábiles, excluyéndose del cómputo los sábados, domingos y festivos."
+      },
+      {
+        "value": 3,
+        "text": "Días naturales, incluyéndose sábados y domingos, pero no los festivos."
+      },
+      {
+        "value": 4,
+        "text": "Días hábiles, incluyéndose los sábados y excluyéndose únicamente los domingos y festivos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Días hábiles, excluyéndose del cómputo los sábados, domingos y festivos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 30.2 Ley 39/2015: cuando los plazos se señalen por días se entiende que son días hábiles, excluyéndose del cómputo los sábados, domingos y los declarados festivos."
+  },
+  {
+    "id": "tec-t04_2",
+    "questionNum": 2,
+    "question": "Conforme a la Ley 39/2015, el expediente administrativo electrónico:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Debe conservarse únicamente mientras el procedimiento esté en tramitación."
+      },
+      {
+        "value": 2,
+        "text": "Debe incluir únicamente los documentos aportados por las personas interesadas."
+      },
+      {
+        "value": 3,
+        "text": "Debe contener una relación ordenada de los documentos que lo integran, con independencia de su formato."
+      },
+      {
+        "value": 4,
+        "text": "Puede excluir los informes emitidos por otros órganos administrativos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Debe contener una relación ordenada de los documentos que lo integran, con independencia de su formato."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 70 Ley 39/2015: el expediente administrativo electrónico debe contener una relación ordenada de los documentos que lo integran, con independencia de su formato o soporte."
+  },
+  {
+    "id": "tec-t04_3",
+    "questionNum": 3,
+    "question": "En un procedimiento administrativo, antes de dictar resolución, la Administración debe conceder trámite de audiencia. ¿En qué supuesto puede prescindirse de dicho trámite?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando el procedimiento se tramite por vía de urgencia."
+      },
+      {
+        "value": 2,
+        "text": "Cuando la resolución ponga fin a la vía administrativa."
+      },
+      {
+        "value": 3,
+        "text": "Cuando el procedimiento tenga carácter sancionador."
+      },
+      {
+        "value": 4,
+        "text": "Cuando no se tengan en cuenta en la resolución otros hechos ni otras alegaciones que las aducidas por la persona interesada."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Cuando no se tengan en cuenta en la resolución otros hechos ni otras alegaciones que las aducidas por la persona interesada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 82.4 Ley 39/2015: podrá prescindirse del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones que las aducidas por el interesado."
+  },
+  {
+    "id": "tec-t04_4",
+    "questionNum": 4,
+    "question": "En relación con las personas interesadas en el procedimiento administrativo, diga cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se considerarán interesadas las personas que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por las decisiones que en el mismo se adopten."
+      },
+      {
+        "value": 2,
+        "text": "Se considerarán interesadas las asociaciones y organizaciones representativas de intereses económicos y sociales que se personen en el procedimiento, en tanto no haya recaído resolución definitiva."
+      },
+      {
+        "value": 3,
+        "text": "Las partes interesadas con capacidad de obrar pueden actuar en los procedimientos administrativos por medio de representante."
+      },
+      {
+        "value": 4,
+        "text": "Cuando en una solicitud figuren varias partes interesadas, las actuaciones se realizarán con la figura representante o interesada que expresamente haya sido señalada y, en su defecto, con aquella que figure en primer término."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se considerarán interesadas las asociaciones y organizaciones representativas de intereses económicos y sociales que se personen en el procedimiento, en tanto no haya recaído resolución definitiva."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 4 Ley 39/2015: las asociaciones y organizaciones representativas de intereses colectivos son interesadas solo cuando la ley les reconozca legitimación; no basta con personarse, y la afirmación B no recoge con exactitud los requisitos legales."
+  },
+  {
+    "id": "tec-t04_5",
+    "questionNum": 5,
+    "question": "En relación con los derechos de las personas interesadas en un procedimiento, diga cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las personas interesadas tienen derecho a acceder y obtener copias de los documentos contenidos en los citados procedimientos."
+      },
+      {
+        "value": 2,
+        "text": "Las personas interesadas tienen derecho a no presentar documentos originales, salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario."
+      },
+      {
+        "value": 3,
+        "text": "Las personas interesadas tienen derecho a aportar documentos en cualquier fase del procedimiento anterior a la resolución del mismo."
+      },
+      {
+        "value": 4,
+        "text": "Las personas interesadas tienen derecho a identificar al personal al servicio de la Administración pública bajo cuya responsabilidad se esté tramitando el procedimiento."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las personas interesadas tienen derecho a aportar documentos en cualquier fase del procedimiento anterior a la resolución del mismo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 53 Ley 39/2015: el derecho a aportar documentos existe en cualquier fase anterior al trámite de audiencia, no hasta la resolución. La opción C amplía incorrectamente el plazo."
+  },
+  {
+    "id": "tec-t04_6",
+    "questionNum": 6,
+    "question": "En relación con las actuaciones con varias personas interesadas, indique cuál es la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las actuaciones se efectuarán siempre con todas las personas interesadas."
+      },
+      {
+        "value": 2,
+        "text": "Las actuaciones se efectuarán con la persona representante o la persona interesada que expresamente hayan señalado y, en su defecto, con la persona que figure en primer término."
+      },
+      {
+        "value": 3,
+        "text": "Las actuaciones se efectuarán con la persona interesada que figure en último lugar."
+      },
+      {
+        "value": 4,
+        "text": "Las actuaciones se efectuarán únicamente con la persona que ostente la representante legal."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las actuaciones se efectuarán con la persona representante o la persona interesada que expresamente hayan señalado y, en su defecto, con la persona que figure en primer término."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 4.2 Ley 39/2015: cuando en una solicitud o actuación figuren varios interesados, las actuaciones se realizarán con el representante o el interesado que hayan señalado expresamente y, en su defecto, con quien figure en primer término."
+  },
+  {
+    "id": "tec-t04_7",
+    "questionNum": 7,
+    "question": "En relación con la obligación de relacionarse electrónicamente con las Administraciones públicas, indique cuál es la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todas las personas físicas estarán obligadas a relacionarse electrónicamente."
+      },
+      {
+        "value": 2,
+        "text": "El personal empleado público estará obligado a relacionarse electrónicamente solo cuando actúe como persona interesada."
+      },
+      {
+        "value": 3,
+        "text": "El personal profesional con colegiación obligatoria estará obligado a relacionarse electrónicamente para los trámites derivados de su actividad profesional."
+      },
+      {
+        "value": 4,
+        "text": "Las personas jurídicas estarán exentas de la obligación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El personal profesional con colegiación obligatoria estará obligado a relacionarse electrónicamente para los trámites derivados de su actividad profesional."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 14.2 Ley 39/2015: están obligados a relacionarse electrónicamente, entre otros, quienes ejerzan una actividad profesional que requiera colegiación obligatoria, para los trámites y actuaciones que realicen en el ejercicio de dicha actividad profesional."
+  },
+  {
+    "id": "tec-t04_8",
+    "questionNum": 8,
+    "question": "En relación con la publicación oficial de normas, indique cuál es la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La publicación en sede electrónica nunca tiene carácter oficial."
+      },
+      {
+        "value": 2,
+        "text": "La publicación en sede electrónica tendrá carácter oficial y auténtico en las condiciones que se determinen reglamentariamente."
+      },
+      {
+        "value": 3,
+        "text": "Solo tendrá carácter oficial si así lo dispone una resolución administrativa."
+      },
+      {
+        "value": 4,
+        "text": "No tendrá carácter auténtico en ningún caso."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La publicación en sede electrónica tendrá carácter oficial y auténtico en las condiciones que se determinen reglamentariamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 13 Ley 39/2015 y normativa de administración electrónica: la publicación en sede electrónica tiene carácter oficial y auténtico en las condiciones establecidas reglamentariamente, con idénticos efectos que la publicación en papel."
+  },
+  {
+    "id": "tec-t04_9",
+    "questionNum": 9,
+    "question": "Conforme al artículo 133 de la Ley 39/2015, ¿en qué supuestos puede PRESCINDIRSE de los trámites de consulta, audiencia e información pública?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En normas urbanísticas únicamente."
+      },
+      {
+        "value": 2,
+        "text": "En normas presupuestarias u organizativas o cuando concurran razones graves de interés público."
+      },
+      {
+        "value": 3,
+        "text": "En cualquier tipo de norma."
+      },
+      {
+        "value": 4,
+        "text": "Nunca puede prescindirse de dichos trámites."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "En normas presupuestarias u organizativas o cuando concurran razones graves de interés público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 133.4 Ley 39/2015: podrá prescindirse de los trámites de consulta, audiencia e información pública en el caso de normas presupuestarias u organizativas o cuando concurran razones graves de interés público que lo justifiquen."
+  },
+  {
+    "id": "tec-t04_10",
+    "questionNum": 10,
+    "question": "Conforme a la Ley 39/2015, el plazo máximo para resolver un procedimiento tramitado por la vía de la tramitación simplificada será de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "15 días."
+      },
+      {
+        "value": 2,
+        "text": "30 días."
+      },
+      {
+        "value": 3,
+        "text": "2 meses."
+      },
+      {
+        "value": 4,
+        "text": "3 meses."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "30 días."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 96.6 Ley 39/2015: el plazo máximo de resolución del procedimiento administrativo tramitado de forma simplificada será de 30 días."
+  },
+  {
+    "id": "tec-t04_11",
+    "questionNum": 11,
+    "question": "Conforme a la Ley 39/2015, el silencio administrativo tendrá efecto DESESTIMATORIO en los procedimientos iniciados a solicitud de la persona interesada cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El procedimiento tenga por objeto el ejercicio de derechos preexistentes."
+      },
+      {
+        "value": 2,
+        "text": "El procedimiento verse sobre responsabilidad patrimonial de las Administraciones Públicas."
+      },
+      {
+        "value": 3,
+        "text": "Una norma reglamentaria así lo establezca."
+      },
+      {
+        "value": 4,
+        "text": "El procedimiento no tenga efectos económicos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El procedimiento verse sobre responsabilidad patrimonial de las Administraciones Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 24.1 Ley 39/2015: el silencio tiene efecto desestimatorio en los procedimientos de responsabilidad patrimonial y en aquellos en que una norma con rango de ley o de Derecho UE así lo establezca."
+  },
+  {
+    "id": "tec-t04_12",
+    "questionNum": 12,
+    "question": "Conforme a la Ley 39/2015, en los procedimientos iniciados de oficio susceptibles de producir efectos desfavorables o de gravamen, el vencimiento del plazo máximo sin resolución expresa producirá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La estimación por silencio administrativo."
+      },
+      {
+        "value": 2,
+        "text": "La caducidad del procedimiento."
+      },
+      {
+        "value": 3,
+        "text": "La prescripción automática de la infracción."
+      },
+      {
+        "value": 4,
+        "text": "La nulidad de pleno derecho de las actuaciones."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La caducidad del procedimiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 25.1.b Ley 39/2015: en los procedimientos iniciados de oficio susceptibles de producir efectos desfavorables o de gravamen, el vencimiento del plazo máximo sin resolución expresa produce la caducidad del procedimiento."
+  },
+  {
+    "id": "tec-t04_13",
+    "questionNum": 13,
+    "question": "En relación con la obligación de resolver los procedimientos administrativos, cuando las normas reguladoras no fijen plazo máximo para resolver, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El plazo máximo para dictar resolución expresa no podrá exceder de 6 meses, salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea."
+      },
+      {
+        "value": 2,
+        "text": "Cuando las normas reguladoras del procedimiento no fijen un plazo máximo para la resolución, éste será de 3 meses."
+      },
+      {
+        "value": 3,
+        "text": "El cómputo de los plazos para dictar la resolución se contará siempre desde la fecha en que la solicitud haya entrado en el registro de la administración."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores afirmaciones es cierta."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El plazo máximo para dictar resolución expresa no podrá exceder de 6 meses, salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 21.3 Ley 39/2015: cuando las normas no fijen plazo máximo, este no podrá exceder de seis meses salvo que una norma con rango de ley establezca uno mayor o así lo prevea el Derecho de la UE."
+  },
+  {
+    "id": "tec-t04_14",
+    "questionNum": 14,
+    "question": "Conforme a la Ley 39/2015, el silencio tendrá efecto estimatorio:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En los procedimientos relativos al ejercicio del derecho de petición."
+      },
+      {
+        "value": 2,
+        "text": "En los procedimientos cuya estimación transfiera facultades relativas al dominio público o al servicio público."
+      },
+      {
+        "value": 3,
+        "text": "En los procedimientos de responsabilidad patrimonial."
+      },
+      {
+        "value": 4,
+        "text": "En los procedimientos iniciados a solicitud del interesado, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "En los procedimientos iniciados a solicitud del interesado, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 24.1 Ley 39/2015: la regla general es el silencio positivo en procedimientos iniciados a solicitud del interesado, salvo excepciones establecidas por ley o norma UE."
+  },
+  {
+    "id": "tec-t04_15",
+    "questionNum": 15,
+    "question": "Conforme a la Ley 39/2015, las personas interesadas podrán aducir alegaciones y aportar documentos u otros elementos de juicio:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En cualquier momento anterior al trámite de propuesta de resolución."
+      },
+      {
+        "value": 2,
+        "text": "En cualquier momento anterior al trámite de resolución."
+      },
+      {
+        "value": 3,
+        "text": "En cualquier momento anterior al trámite de práctica de prueba."
+      },
+      {
+        "value": 4,
+        "text": "En cualquier momento anterior al trámite de audiencia."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "En cualquier momento anterior al trámite de propuesta de resolución."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 76.1 Ley 39/2015: los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio en cualquier momento del procedimiento anterior al trámite de audiencia."
+  },
+  {
+    "id": "tec-t04_16",
+    "questionNum": 16,
+    "question": "Conforme a la Ley 39/2015, los defectos de tramitación que supongan paralización, infracción de plazos u omisión de trámites subsanables podrán alegarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Antes del trámite de audiencia."
+      },
+      {
+        "value": 2,
+        "text": "Antes de la resolución."
+      },
+      {
+        "value": 3,
+        "text": "En cualquier momento."
+      },
+      {
+        "value": 4,
+        "text": "Antes de la práctica de pruebas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En cualquier momento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 76.3 Ley 39/2015: los defectos de tramitación, en especial los que supongan paralización, infracción de plazos preceptivos u omisión de trámites que puedan ser subsanados antes de la resolución, podrán alegarse en cualquier momento por los interesados."
+  },
+  {
+    "id": "tec-t04_17",
+    "questionNum": 17,
+    "question": "Conforme a la Ley 39/2015, la renuncia como causa de terminación del procedimiento:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Será causa automática de terminación en todo procedimiento."
+      },
+      {
+        "value": 2,
+        "text": "Puede estar prohibida por el ordenamiento jurídico."
+      },
+      {
+        "value": 3,
+        "text": "Puede prohibirse discrecionalmente por el órgano resolutor."
+      },
+      {
+        "value": 4,
+        "text": "Puede prohibirse discrecionalmente por el órgano tramitador."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Puede estar prohibida por el ordenamiento jurídico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 94.1 Ley 39/2015: las personas interesadas podrán renunciar a sus derechos, siempre que no esté prohibido por el ordenamiento jurídico."
+  },
+  {
+    "id": "tec-t04_18",
+    "questionNum": 18,
+    "question": "Conforme a la Ley 39/2015, cuando en un procedimiento iniciado de oficio susceptible de producir efectos desfavorables se declare su caducidad, las actuaciones realizadas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se conservarán siempre con efectos plenos."
+      },
+      {
+        "value": 2,
+        "text": "No producirán efectos, sin perjuicio de que pueda iniciarse un nuevo procedimiento mientras no haya prescrito la acción."
+      },
+      {
+        "value": 3,
+        "text": "Producirán automáticamente la prescripción."
+      },
+      {
+        "value": 4,
+        "text": "Impedirán en todo caso la iniciación de un nuevo procedimiento."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "No producirán efectos, sin perjuicio de que pueda iniciarse un nuevo procedimiento mientras no haya prescrito la acción."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 95.3 Ley 39/2015: la caducidad no produce por sí sola la prescripción de las acciones; las actuaciones no producirán efectos pero podrá iniciarse un nuevo procedimiento mientras la acción no haya prescrito."
+  },
+  {
+    "id": "tec-t04_19",
+    "questionNum": 19,
+    "question": "Cuando una Administración aprecia que un acto administrativo es nulo de pleno derecho, ¿qué actuación puede llevar a cabo conforme a la Ley 39/2015?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Iniciar de oficio el procedimiento de revisión, previo dictamen del órgano consultivo competente."
+      },
+      {
+        "value": 2,
+        "text": "Declarar la nulidad directamente sin necesidad de procedimiento alguno."
+      },
+      {
+        "value": 3,
+        "text": "Declarar la nulidad únicamente a instancia de la persona interesada."
+      },
+      {
+        "value": 4,
+        "text": "Revocar el acto por razones de oportunidad."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Iniciar de oficio el procedimiento de revisión, previo dictamen del órgano consultivo competente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 106 Ley 39/2015: las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, declararán de oficio la nulidad de los actos, previo dictamen del Consejo de Estado u órgano consultivo equivalente."
+  },
+  {
+    "id": "tec-t04_20",
+    "questionNum": 20,
+    "question": "Conforme a la Ley 39/2015, las Administraciones Públicas podrán declarar la lesividad para el interés público de los actos favorables que sean anulables:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En cualquier momento."
+      },
+      {
+        "value": 2,
+        "text": "Dentro del plazo de cuatro años desde que se dictó el acto administrativo."
+      },
+      {
+        "value": 3,
+        "text": "Dentro del plazo de un año desde que se dictó el acto."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente cuando lo solicite la persona interesada."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Dentro del plazo de cuatro años desde que se dictó el acto administrativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 107.1 Ley 39/2015: las Administraciones Públicas podrán declarar la lesividad de sus propios actos favorables que sean anulables en el plazo de cuatro años desde que fueron dictados."
+  },
+  {
+    "id": "tec-t04_21",
+    "questionNum": 21,
+    "question": "Conforme a la Ley 39/2015, el plazo máximo para dictar y notificar la resolución del recurso de alzada será de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un mes."
+      },
+      {
+        "value": 2,
+        "text": "Dos meses."
+      },
+      {
+        "value": 3,
+        "text": "Tres meses."
+      },
+      {
+        "value": 4,
+        "text": "Seis meses."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Tres meses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 122.2 Ley 39/2015: el plazo máximo para dictar y notificar la resolución del recurso de alzada es de tres meses. Transcurrido este plazo sin resolución, se entiende desestimado."
+  },
+  {
+    "id": "tec-t04_22",
+    "questionNum": 22,
+    "question": "Conforme a la Ley 39/2015, contra la resolución de un recurso de alzada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cabe recurso de reposición."
+      },
+      {
+        "value": 2,
+        "text": "Cabe recurso extraordinario de revisión en todo caso."
+      },
+      {
+        "value": 3,
+        "text": "No cabe ningún otro recurso administrativo."
+      },
+      {
+        "value": 4,
+        "text": "Cabe siempre recurso contencioso-administrativo y recurso de reposición."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No cabe ningún otro recurso administrativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 122.3 Ley 39/2015: contra la resolución de un recurso de alzada no cabe ningún otro recurso administrativo, salvo el recurso extraordinario de revisión cuando proceda. La vía administrativa queda agotada."
+  },
+  {
+    "id": "tec-t04_23",
+    "questionNum": 23,
+    "question": "Conforme a la Ley 39/2015, si el procedimiento de revisión de oficio se hubiera iniciado a solicitud de persona interesada y transcurren seis meses sin resolución expresa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se producirá la prescripción de la acción."
+      },
+      {
+        "value": 2,
+        "text": "Se entenderá desestimada la solicitud por silencio administrativo."
+      },
+      {
+        "value": 3,
+        "text": "Se producirá la caducidad del procedimiento."
+      },
+      {
+        "value": 4,
+        "text": "Se entenderá estimada la solicitud por silencio administrativo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se entenderá desestimada la solicitud por silencio administrativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 106.5 Ley 39/2015: transcurrido el plazo de seis meses sin que haya recaído resolución expresa en el procedimiento de revisión iniciado a solicitud de interesado, se producirá la caducidad del mismo y se entenderá desestimada la solicitud."
+  },
+  {
+    "id": "tec-t04_24",
+    "questionNum": 24,
+    "question": "Conforme a la Ley 39/2015, las Administraciones Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Para revisar de oficio disposiciones generales, deberán impugnarlas ante el orden contencioso-administrativo, previa declaración de lesividad."
+      },
+      {
+        "value": 2,
+        "text": "Podrán revisar de oficio los actos favorables que sean anulables."
+      },
+      {
+        "value": 3,
+        "text": "Podrán impugnar ante el orden contencioso-administrativo los actos favorables anulables, previa declaración de lesividad."
+      },
+      {
+        "value": 4,
+        "text": "Podrán revisar de oficio cualquier acto favorable sin límite temporal."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Podrán impugnar ante el orden contencioso-administrativo los actos favorables anulables, previa declaración de lesividad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 107 Ley 39/2015: para anular actos favorables anulables, la Administración debe declararlos lesivos y luego impugnarlos ante la jurisdicción contencioso-administrativa. No puede revisarlos directamente de oficio."
+  },
+  {
+    "id": "tec-t04_25",
+    "questionNum": 25,
+    "question": "Conforme a la Ley 39/2015, el recurso de reposición:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es obligatorio antes de acudir al recurso contencioso-administrativo."
+      },
+      {
+        "value": 2,
+        "text": "Es potestativo y se interpone ante el mismo órgano que dictó el acto."
+      },
+      {
+        "value": 3,
+        "text": "Se interpone ante el órgano superior jerárquico."
+      },
+      {
+        "value": 4,
+        "text": "Tiene carácter extraordinario."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Es potestativo y se interpone ante el mismo órgano que dictó el acto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 123 Ley 39/2015: el recurso de reposición es potestativo, previo al contencioso-administrativo, y se interpone ante el mismo órgano que dictó el acto impugnado."
+  },
+  {
+    "id": "tec-t04_26",
+    "questionNum": 26,
+    "question": "Conforme a la Ley 39/2015, el plazo para interponer recurso de reposición será:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un mes si el acto fuera expreso."
+      },
+      {
+        "value": 2,
+        "text": "Tres meses si el acto fuera expreso."
+      },
+      {
+        "value": 3,
+        "text": "Dos meses si el acto fuera expreso."
+      },
+      {
+        "value": 4,
+        "text": "Un mes en todo caso."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Un mes si el acto fuera expreso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 124.1 Ley 39/2015: el recurso de reposición deberá interponerse en el plazo de un mes si el acto fuera expreso."
+  },
+  {
+    "id": "tec-t04_27",
+    "questionNum": 27,
+    "question": "Conforme a la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exista error de hecho que resulte de los propios documentos incorporados al expediente."
+      },
+      {
+        "value": 2,
+        "text": "Se discrepe de la valoración jurídica realizada por la Administración."
+      },
+      {
+        "value": 3,
+        "text": "Haya transcurrido el plazo para interponer recurso de alzada."
+      },
+      {
+        "value": 4,
+        "text": "Se trate de actos de trámite cualificados."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Exista error de hecho que resulte de los propios documentos incorporados al expediente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 125.1.a Ley 39/2015: el recurso extraordinario de revisión procede cuando al dictar el acto se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente."
+  },
+  {
+    "id": "tec-t04_28",
+    "questionNum": 28,
+    "question": "Conforme a la Ley 40/2015, ¿cuál de las siguientes competencias NO puede ser objeto de delegación?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La resolución de recursos administrativos ordinarios."
+      },
+      {
+        "value": 2,
+        "text": "La competencia para dictar actos de gestión."
+      },
+      {
+        "value": 3,
+        "text": "La instrucción de procedimientos administrativos."
+      },
+      {
+        "value": 4,
+        "text": "La potestad reglamentaria."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La potestad reglamentaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 9.2 Ley 40/2015: no podrán ser objeto de delegación, entre otras, las competencias relativas a la potestad reglamentaria."
+  },
+  {
+    "id": "tec-t04_29",
+    "questionNum": 29,
+    "question": "De acuerdo con la Ley 39/2015, en el ejercicio de la potestad reglamentaria, las Administraciones Públicas actuarán de acuerdo con los siguientes principios:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Jerarquía, descentralización y coordinación."
+      },
+      {
+        "value": 2,
+        "text": "Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+      },
+      {
+        "value": 3,
+        "text": "Legalidad, responsabilidad y control jurisdiccional."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente eficacia y eficiencia."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 129 Ley 39/2015: en el ejercicio de la potestad reglamentaria las Administraciones actuarán conforme a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+  },
+  {
+    "id": "tec-t04_30",
+    "questionNum": 30,
+    "question": "Conforme a la Ley 39/2015, los reglamentos producirán efectos jurídicos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Desde su aprobación por el órgano competente."
+      },
+      {
+        "value": 2,
+        "text": "Desde su firma por la persona titular del departamento correspondiente."
+      },
+      {
+        "value": 3,
+        "text": "Desde su publicación en el diario oficial correspondiente."
+      },
+      {
+        "value": 4,
+        "text": "Desde su comunicación a los interesados."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Desde su publicación en el diario oficial correspondiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 131 Ley 39/2015: las disposiciones de carácter general se publicarán en el diario oficial correspondiente y entrarán en vigor de acuerdo con lo dispuesto en ellas, sin que la publicación pueda sustituirse por otros medios."
+  },
+  {
+    "id": "tec-t04_31",
+    "questionNum": 31,
+    "question": "Conforme a la Ley 39/2015, en relación con la potestad para dictar reglamentos, diga cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En el ejercicio de la potestad reglamentaria, las Administraciones actuarán conforme a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+      },
+      {
+        "value": 2,
+        "text": "Las habilitaciones para el desarrollo reglamentario de las leyes se conferirán, con carácter general, al Gobierno o al Consejo de Gobierno respectivo."
+      },
+      {
+        "value": 3,
+        "text": "Los reglamentos producirán efectos jurídicos sin necesidad de publicación oficial."
+      },
+      {
+        "value": 4,
+        "text": "Cuando la propuesta reglamentaria afecte a los gastos o ingresos públicos, deberán valorarse sus repercusiones económicas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los reglamentos producirán efectos jurídicos sin necesidad de publicación oficial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 131 Ley 39/2015: los reglamentos deben publicarse en el diario oficial para producir efectos jurídicos. La afirmación C es falsa porque la publicación es requisito indispensable."
+  },
+  {
+    "id": "tec-t04_32",
+    "questionNum": 32,
+    "question": "De acuerdo con la Ley 39/2015, en relación con la consulta pública previa en el procedimiento de elaboración de normas, indique cuál es la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Nunca puede omitirse."
+      },
+      {
+        "value": 2,
+        "text": "Puede omitirse en normas presupuestarias u organizativas o cuando concurran razones graves de interés público."
+      },
+      {
+        "value": 3,
+        "text": "Solo puede omitirse en normas urbanísticas."
+      },
+      {
+        "value": 4,
+        "text": "Puede omitirse por decisión discrecional sin motivación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Puede omitirse en normas presupuestarias u organizativas o cuando concurran razones graves de interés público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 133.4 Ley 39/2015: puede prescindirse de la consulta pública previa en normas presupuestarias u organizativas, o cuando concurran razones graves de interés público debidamente justificadas."
+  },
+  {
+    "id": "tec-t04_33",
+    "questionNum": 33,
+    "question": "Conforme a la Ley 39/2015, podrá prescindirse de los trámites de consulta, audiencia e información pública en el procedimiento de elaboración de normas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En el caso de normas tributarias u organizativas, o cuando concurran razones de riesgo para la sanidad pública."
+      },
+      {
+        "value": 2,
+        "text": "En el caso de normas presupuestarias u organizativas, o cuando concurran razones graves de interés público que lo justifiquen."
+      },
+      {
+        "value": 3,
+        "text": "En el caso de normas tributarias u organizativas, o cuando concurran razones graves de interés público que lo justifiquen."
+      },
+      {
+        "value": 4,
+        "text": "En el caso de normas tributarias y presupuestarias, o cuando concurran razones de grave riesgo para la sanidad pública."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "En el caso de normas presupuestarias u organizativas, o cuando concurran razones graves de interés público que lo justifiquen."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 133.4 Ley 39/2015: puede prescindirse de los trámites de consulta, audiencia e información pública en normas presupuestarias u organizativas, o cuando concurran razones graves de interés público (no sanitario ni tributario)."
+  },
+  {
+    "id": "tec-t04_34",
+    "questionNum": 34,
+    "question": "De acuerdo con la Ley 39/2015, en relación con la evaluación normativa posterior, indique cuál de las siguientes opciones es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No está prevista en la Ley 39/2015."
+      },
+      {
+        "value": 2,
+        "text": "Es obligatoria en todos los casos sin excepción."
+      },
+      {
+        "value": 3,
+        "text": "Se realizará conforme a los términos previstos en la propia normativa aplicable y el plan anual normativo."
+      },
+      {
+        "value": 4,
+        "text": "Solo procede respecto de normas con rango de ley."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Se realizará conforme a los términos previstos en la propia normativa aplicable y el plan anual normativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 130 Ley 39/2015: las Administraciones evaluarán periódicamente la aplicación de las normas vigentes para comprobar si han cumplido los objetivos previstos, conforme al plan anual normativo."
+  },
+  {
+    "id": "tec-t04_35",
+    "questionNum": 35,
+    "question": "De acuerdo con la Ley 39/2015, en relación con el Plan Anual Normativo, indique cuál es la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es facultativo."
+      },
+      {
+        "value": 2,
+        "text": "Recoge las iniciativas reglamentarias que se prevé aprobar en el año siguiente."
+      },
+      {
+        "value": 3,
+        "text": "Solo incluye normas con rango de ley."
+      },
+      {
+        "value": 4,
+        "text": "No requiere publicidad."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Recoge las iniciativas reglamentarias que se prevé aprobar en el año siguiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 132.1 Ley 39/2015: la Administración General del Estado y las CCAA con competencia reglamentaria aprobarán un Plan Anual Normativo que recoge las iniciativas legales o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente."
+  },
+  {
+    "id": "tec-t04_36",
+    "questionNum": 36,
+    "question": "De acuerdo con la Ley 39/2015, en relación con la publicidad de las normas, indique cuál es la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La publicación en sede electrónica no tiene carácter oficial."
+      },
+      {
+        "value": 2,
+        "text": "La publicación en el diario oficial correspondiente es requisito para su validez y eficacia."
+      },
+      {
+        "value": 3,
+        "text": "Basta con su aprobación por el órgano competente."
+      },
+      {
+        "value": 4,
+        "text": "La publicación es necesaria únicamente para normas sancionadoras."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La publicación en el diario oficial correspondiente es requisito para su validez y eficacia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 131 Ley 39/2015: las disposiciones de carácter general se publicarán en el diario oficial correspondiente, siendo requisito imprescindible para su entrada en vigor y eficacia."
+  },
+  {
+    "id": "tec-t04_37",
+    "questionNum": 37,
+    "question": "Conforme a la Ley 40/2015, señale qué elemento NO forma parte del contenido mínimo de un convenio:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La identificación de las partes firmantes y la competencia con la que actúan."
+      },
+      {
+        "value": 2,
+        "text": "El objeto del convenio y las actuaciones a realizar por las partes."
+      },
+      {
+        "value": 3,
+        "text": "El régimen de modificación del convenio."
+      },
+      {
+        "value": 4,
+        "text": "El régimen sancionador aplicable a las partes en caso de incumplimiento."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El régimen sancionador aplicable a las partes en caso de incumplimiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 49 Ley 40/2015: el contenido mínimo de los convenios incluye identificación de partes, objeto, obligaciones, financiación, plazo, extinción y régimen jurídico. El régimen sancionador no es un elemento mínimo obligatorio."
+  },
+  {
+    "id": "tec-t04_38",
+    "questionNum": 38,
+    "question": "Conforme a la Ley 40/2015, los órganos colegiados podrán celebrar sesiones a distancia siempre que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La presidencia y la secretaría se encuentren físicamente en el mismo lugar."
+      },
+      {
+        "value": 2,
+        "text": "Se garantice la identidad de las personas integrantes, el contenido de sus manifestaciones y la interactividad en tiempo real."
+      },
+      {
+        "value": 3,
+        "text": "Se autorice expresamente en cada convocatoria por el órgano superior jerárquico."
+      },
+      {
+        "value": 4,
+        "text": "Las sesiones se celebren exclusivamente mediante correo electrónico."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se garantice la identidad de las personas integrantes, el contenido de sus manifestaciones y la interactividad en tiempo real."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 17.1 Ley 40/2015: los órganos colegiados pueden constituirse y adoptar acuerdos a distancia si se garantiza la identidad de los miembros, el contenido de sus manifestaciones y la interactividad en tiempo real."
+  },
+  {
+    "id": "tec-t04_39",
+    "questionNum": 39,
+    "question": "Conforme a la Ley 40/2015, sobre la delegación de firma, señale la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La delegación de firma altera la competencia del órgano delegante."
+      },
+      {
+        "value": 2,
+        "text": "La delegación de firma exige publicación en el diario oficial para su validez."
+      },
+      {
+        "value": 3,
+        "text": "La delegación de firma permite delegar la potestad reglamentaria."
+      },
+      {
+        "value": 4,
+        "text": "La delegación de firma no altera la competencia del órgano delegante y no requiere publicación para su validez."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La delegación de firma no altera la competencia del órgano delegante y no requiere publicación para su validez."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 12 Ley 40/2015: la delegación de firma no supone cesión de titularidad de la competencia ni altera su atribución; no requiere publicación para su validez."
+  },
+  {
+    "id": "tec-t04_40",
+    "questionNum": 40,
+    "question": "Conforme a la Ley 40/2015, en relación con la delegación de competencias, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La delegación únicamente puede recaer en órganos jerárquicamente dependientes."
+      },
+      {
+        "value": 2,
+        "text": "La delegación ni su revocación requieren publicación."
+      },
+      {
+        "value": 3,
+        "text": "En ningún caso puede ser objeto de delegación la resolución de los recursos en los órganos que hayan dictado los actos objeto del recurso."
+      },
+      {
+        "value": 4,
+        "text": "Las tres afirmaciones son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En ningún caso puede ser objeto de delegación la resolución de los recursos en los órganos que hayan dictado los actos objeto del recurso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 9.2 Ley 40/2015: no podrá delegarse la resolución de recursos en los órganos administrativos que hayan dictado en vía de delegación los actos objeto del recurso."
+  },
+  {
+    "id": "tec-t04_41",
+    "questionNum": 41,
+    "question": "Conforme a la Ley 40/2015, en relación con los órganos colegiados, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El correo electrónico es medio suficiente para celebrar sesiones a distancia."
+      },
+      {
+        "value": 2,
+        "text": "La presidencia y la secretaría deben estar físicamente presentes en todo caso."
+      },
+      {
+        "value": 3,
+        "text": "Las actas deberán aprobarse en la sesión inmediatamente siguiente."
+      },
+      {
+        "value": 4,
+        "text": "No podrá deliberarse sobre asuntos no incluidos en el orden del día salvo que estén presentes todas las personas integrantes y se declare la urgencia por unanimidad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No podrá deliberarse sobre asuntos no incluidos en el orden del día salvo que estén presentes todas las personas integrantes y se declare la urgencia por unanimidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 17.7 Ley 40/2015: no podrá ser objeto de deliberación o acuerdo ningún asunto no incluido en el orden del día, salvo que estén presentes todos los miembros y sea declarada la urgencia del asunto por el voto favorable de la mayoría."
+  },
+  {
+    "id": "tec-t04_42",
+    "questionNum": 42,
+    "question": "De acuerdo con la Ley 39/2015, en relación con la retroactividad de las disposiciones sancionadoras, indique cuál es la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Nunca tienen efecto retroactivo."
+      },
+      {
+        "value": 2,
+        "text": "Tienen efecto retroactivo cuando favorezcan al sujeto sancionado incluso respecto de sanciones pendientes."
+      },
+      {
+        "value": 3,
+        "text": "Solo tienen efecto retroactivo respecto de la tipificación."
+      },
+      {
+        "value": 4,
+        "text": "Siempre tienen efecto retroactivo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Tienen efecto retroactivo cuando favorezcan al sujeto sancionado incluso respecto de sanciones pendientes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 26.2 Ley 40/2015: las disposiciones sancionadoras favorables tendrán efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor, aunque el acto sancionador haya adquirido firmeza."
+  },
+  {
+    "id": "tec-t04_43",
+    "questionNum": 43,
+    "question": "Conforme a la Ley 40/2015, en relación con la responsabilidad patrimonial de las Administraciones Públicas, indique cuál es la opción correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Toda anulación de una disposición administrativa genera automáticamente derecho a indemnización."
+      },
+      {
+        "value": 2,
+        "text": "El daño debe ser efectivo, evaluable económicamente e individualizado."
+      },
+      {
+        "value": 3,
+        "text": "Basta con la existencia de riesgo."
+      },
+      {
+        "value": 4,
+        "text": "Solo procede cuando exista dolo de la Administración."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El daño debe ser efectivo, evaluable económicamente e individualizado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 32.2 Ley 40/2015: el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas."
+  },
+  {
+    "id": "tec-t04_44",
+    "questionNum": 44,
+    "question": "Conforme a la Ley 40/2015, en caso de concurrencia de varias Administraciones en la producción de un daño:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Responderán siempre de forma solidaria."
+      },
+      {
+        "value": 2,
+        "text": "Responderán en proporción a su participación en el hecho causante."
+      },
+      {
+        "value": 3,
+        "text": "No responderá ninguna si no puede determinarse la participación concreta."
+      },
+      {
+        "value": 4,
+        "text": "Solo responderá la Administración que haya dictado el acto final."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Responderán en proporción a su participación en el hecho causante."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 33 Ley 40/2015: cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones se derive responsabilidad, estas responderán en proporción a su participación en el hecho causante del daño."
+  },
+  {
+    "id": "tec-t04_45",
+    "questionNum": 45,
+    "question": "Conforme a la Ley 40/2015, en relación con la duración de los convenios administrativos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No podrán exceder de un año."
+      },
+      {
+        "value": 2,
+        "text": "No podrán exceder de cuatro años, prorrogables por otros cuatro."
+      },
+      {
+        "value": 3,
+        "text": "Tendrán duración indefinida."
+      },
+      {
+        "value": 4,
+        "text": "No admiten prórroga."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "No podrán exceder de cuatro años, prorrogables por otros cuatro."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 49.g Ley 40/2015: la duración de los convenios no podrá ser superior a cuatro años, salvo que norma con rango de ley permita mayor duración, pudiendo prorrogarse por acuerdo expreso de las partes hasta un máximo de cuatro años adicionales."
+  },
+  {
+    "id": "tec-t04_46",
+    "questionNum": 46,
+    "question": "Conforme a la Ley 40/2015, la competencia para resolver los procedimientos de responsabilidad patrimonial corresponderá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre al Consejo de Ministros."
+      },
+      {
+        "value": 2,
+        "text": "Al órgano que tenga atribuida la competencia en la materia de que derive el daño."
+      },
+      {
+        "value": 3,
+        "text": "Al órgano que haya causado materialmente el daño."
+      },
+      {
+        "value": 4,
+        "text": "Al órgano consultivo superior de la Administración afectada."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Al órgano que tenga atribuida la competencia en la materia de que derive el daño."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 92.1 Ley 40/2015: la competencia para resolver los procedimientos de responsabilidad patrimonial de las Administraciones Públicas corresponde al órgano competente en la materia de que derive el daño."
+  },
+  {
+    "id": "tec-t04_47",
+    "questionNum": 47,
+    "question": "Conforme a la Ley 40/2015, el principio non bis in ídem implica que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No puedan sancionarse hechos distintos, aunque protejan el mismo bien jurídico."
+      },
+      {
+        "value": 2,
+        "text": "No puedan imponerse sanciones administrativas cuando exista cualquier actuación judicial."
+      },
+      {
+        "value": 3,
+        "text": "No puedan sancionarse los mismos hechos cuando exista identidad de sujeto, hecho y fundamento."
+      },
+      {
+        "value": 4,
+        "text": "No puedan imponerse sanciones administrativas si la persona infractora es empleada pública."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No puedan sancionarse los mismos hechos cuando exista identidad de sujeto, hecho y fundamento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 31 Ley 40/2015: el principio non bis in ídem prohíbe sancionar los mismos hechos a la misma persona con el mismo fundamento jurídico por parte de varias Administraciones o del mismo órgano."
+  },
+  {
+    "id": "tec-t04_48",
+    "questionNum": 48,
+    "question": "De acuerdo con la Ley 39/2015, señale la afirmación que describe correctamente el principio de proporcionalidad en el ejercicio de la potestad sancionadora administrativa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La sanción debe adecuarse a la gravedad del hecho constitutivo de la infracción."
+      },
+      {
+        "value": 2,
+        "text": "La sanción debe imponerse siempre en su grado máximo cuando exista intencionalidad."
+      },
+      {
+        "value": 3,
+        "text": "La sanción debe coincidir con la prevista en el tipo penal equivalente."
+      },
+      {
+        "value": 4,
+        "text": "La sanción debe atender exclusivamente a la reincidencia del sujeto sancionado."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La sanción debe adecuarse a la gravedad del hecho constitutivo de la infracción."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t04",
+    "explanation": "Art. 29.3 Ley 40/2015: el principio de proporcionalidad exige que la sanción guarde la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada."
+  }
+]

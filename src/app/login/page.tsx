@@ -83,7 +83,7 @@ export default function LoginPage() {
               Osakidetza OPEk
             </h1>
             <p style={{ color: 'rgba(255,255,255,0.65)' }} className="mt-1 text-sm">
-              Práctica de exámenes de ofimática
+              Preparación de OPEs · AUX · ADM · TEC
             </p>
           </div>
         </div>

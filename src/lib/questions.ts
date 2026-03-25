@@ -19,29 +19,27 @@ export interface Question {
   module: string;
 }
 
-import { MODULES } from './modules';
+import { OPE_TRACKS } from './tracks';
 
 const questionCache: Record<string, Question[]> = {};
 
-// Helper to get role from localStorage (defaults to administrativo)
-function getUserRole(): 'administrativo' | 'auxiliar' {
-  if (typeof window === 'undefined') return 'administrativo';
-  return (localStorage.getItem('osakidetza_role') as any) || 'administrativo';
+// Get the active OPE track from localStorage (defaults to 'aux')
+function getActiveTrackId(): string {
+  if (typeof window === 'undefined') return 'aux';
+  return localStorage.getItem('osakidetza_active_track') || 'aux';
 }
 
 export async function loadQuestions(moduleId: string): Promise<Question[]> {
   if (questionCache[moduleId]) return questionCache[moduleId];
 
-  // Virtual "mezcla" module — loads and shuffles all relevant modules for the role
+  // Virtual "mezcla" module — loads all modules of the active OPE track and shuffles
   if (moduleId === 'mezcla') {
-    const role = getUserRole();
-    const relevantModules = MODULES.filter(m => 
-      m.category === 'comun' || m.category === role
-    ).map(m => m.id);
-    
-    const all = await Promise.all(relevantModules.map(m => loadQuestions(m)));
+    const trackId = getActiveTrackId() as 'aux' | 'admin' | 'tec';
+    const track = OPE_TRACKS.find(t => t.id === trackId) || OPE_TRACKS[0];
+    const allIds = [...track.commonModuleIds, ...track.specificModuleIds];
+    const all = await Promise.all(allIds.map(m => loadQuestions(m)));
     const combined = shuffleArray(all.flat());
-    questionCache[moduleId] = combined;
+    // Never cache mezcla — track may change between calls
     return combined;
   }
 

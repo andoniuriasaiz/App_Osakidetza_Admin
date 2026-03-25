@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "tec-comun-t04_1",
+    "questionNum": 1,
+    "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, establece que la Administración sanitaria vasca debe garantizar la tutela general de la salud pública a través de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Medidas preventivas."
+      },
+      {
+        "value": 2,
+        "text": "Promoción de la salud."
+      },
+      {
+        "value": 3,
+        "text": "Prestaciones sanitarias individuales."
+      },
+      {
+        "value": 4,
+        "text": "Son correctas todas las respuestas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Son correctas todas las respuestas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 3 Ley 8/1997: la tutela de la salud pública se garantiza mediante medidas preventivas, promoción de la salud y prestaciones sanitarias individuales. Las tres son correctas."
+  },
+  {
+    "id": "tec-comun-t04_2",
+    "questionNum": 2,
+    "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, reconoce la universalidad del derecho a la protección de la salud para:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todas las personas residentes en el territorio de Euskadi, así como para las personas transeúntes."
+      },
+      {
+        "value": 2,
+        "text": "Todas las personas residentes en Euskadi o fuera de Euskadi, así como para las personas transeúntes."
+      },
+      {
+        "value": 3,
+        "text": "Solo para las personas que tengan vecindad administrativa en Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "Solo para las personas de quienes pueda predicarse la condición política de vascos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Todas las personas residentes en el territorio de Euskadi, así como para las personas transeúntes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 5 Ley 8/1997: la universalidad del derecho a la protección de la salud se reconoce para todas las personas residentes en Euskadi y para personas transeúntes."
+  },
+  {
+    "id": "tec-comun-t04_3",
+    "questionNum": 3,
+    "question": "Señale cuál de los siguientes principios no se enuncian entre los principios informadores del sistema sanitario de Euskadi en la Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Universalidad."
+      },
+      {
+        "value": 2,
+        "text": "Solidaridad ciudadana."
+      },
+      {
+        "value": 3,
+        "text": "Equidad."
+      },
+      {
+        "value": 4,
+        "text": "Calidad de los servicios."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Solidaridad ciudadana."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 4 Ley 8/1997: los principios informadores son universalidad, equidad, calidad, eficiencia, participación ciudadana, integración, entre otros. La \"solidaridad ciudadana\" no figura como principio específico en el listado del art. 4."
+  },
+  {
+    "id": "tec-comun-t04_4",
+    "questionNum": 4,
+    "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, establece respecto a las áreas de salud que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La CAPV se divide territorialmente en áreas de salud de acuerdo con la situación socio-económica de cada demarcación geográfica."
+      },
+      {
+        "value": 2,
+        "text": "En cada área de salud pueden ponerse en práctica las actuaciones esenciales que requiere la tutela general de la salud pública y exclusivamente la asistencia sanitaria primaria."
+      },
+      {
+        "value": 3,
+        "text": "En cada área de salud se garantizará una adecuada ordenación de la atención primaria y su coordinación con la atención especializada."
+      },
+      {
+        "value": 4,
+        "text": "Son correctas la a) y la c)."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En cada área de salud se garantizará una adecuada ordenación de la atención primaria y su coordinación con la atención especializada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 7 Ley 8/1997: en cada área de salud se garantizará ordenación de la atención primaria y coordinación con la especializada. La división no es por criterio socioeconómico (a) ni se limita solo a primaria (b)."
+  },
+  {
+    "id": "tec-comun-t04_5",
+    "questionNum": 5,
+    "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi prevé la creación de sistemas de información necesarios para facilitar el ejercicio adecuado de los distintos niveles de responsabilidad en el sistema. A tal fin, los datos de carácter personal relativos a la salud podrán ser recabados y tratados siempre que se cumplan los siguientes requisitos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre debe constar el previo consentimiento de la persona afectada."
+      },
+      {
+        "value": 2,
+        "text": "Si no consta el previo consentimiento de la persona afectada se requiere que la actuación se encuentre debidamente autorizada y se efectúe previo procedimiento de disociación que garantice el anonimato de la información."
+      },
+      {
+        "value": 3,
+        "text": "Que conste el previo consentimiento de la persona afectada por escrito y que se garantice el anonimato de la información."
+      },
+      {
+        "value": 4,
+        "text": "Basta con que la actuación se encuentre debidamente autorizada."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Si no consta el previo consentimiento de la persona afectada se requiere que la actuación se encuentre debidamente autorizada y se efectúe previo procedimiento de disociación que garantice el anonimato de la información."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 15 Ley 8/1997: los datos sanitarios pueden tratarse con consentimiento previo o, si no lo hay, si la actuación está debidamente autorizada y se efectúa previo procedimiento de disociación que garantice el anonimato."
+  },
+  {
+    "id": "tec-comun-t04_6",
+    "questionNum": 6,
+    "question": "La Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi al contemplar los derechos y deberes ciudadanos, alude a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La obligación de dejar constancia escrita de todo proceso diagnóstico o terapéutico."
+      },
+      {
+        "value": 2,
+        "text": "La obligación de dejar constancia por cualquier medio de todo proceso diagnóstico."
+      },
+      {
+        "value": 3,
+        "text": "La obligación de dejar constancia por cualquier medio de todo proceso diagnóstico o terapéutico."
+      },
+      {
+        "value": 4,
+        "text": "No existe en la Ley ninguna previsión a este respecto, de modo que será el personal facultativo el que decida si el proceso diagnóstico o terapéutico debe quedar registrado."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La obligación de dejar constancia por cualquier medio de todo proceso diagnóstico o terapéutico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 10 Ley 8/1997: existe la obligación de dejar constancia por cualquier medio de todo proceso diagnóstico o terapéutico (no solo escrita, y abarca tanto diagnóstico como terapéutico)."
+  },
+  {
+    "id": "tec-comun-t04_7",
+    "questionNum": 7,
+    "question": "El contrato-programa, tal y como establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es el instrumento jurídico mediante el que se articulan las relaciones entre el Gobierno Vasco y las organizaciones del ente público Osakidetza para la provisión de servicios sanitarios."
+      },
+      {
+        "value": 2,
+        "text": "Es el instrumento jurídico mediante el que se articulan de manera directa las relaciones entre el Departamento competente en materia de sanidad y las organizaciones del ente público Osakidetza que tiene naturaleza jurídica de concierto."
+      },
+      {
+        "value": 3,
+        "text": "Es el instrumento jurídico mediante el que se articulan de manera directa las relaciones entre el Departamento competente en materia de sanidad y las organizaciones del ente público Osakidetza que tiene naturaleza jurídica de un convenio de carácter especial."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna respuesta es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Es el instrumento jurídico mediante el que se articulan de manera directa las relaciones entre el Departamento competente en materia de sanidad y las organizaciones del ente público Osakidetza que tiene naturaleza jurídica de un convenio de carácter especial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 26 Ley 8/1997: el contrato-programa es el instrumento de relación entre el Departamento de Sanidad y las organizaciones de Osakidetza, con naturaleza jurídica de convenio de carácter especial."
+  },
+  {
+    "id": "tec-comun-t04_8",
+    "questionNum": 8,
+    "question": "El consejo de administración de Osakidetza-Servicio Vasco de Salud está integrado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona titular de la presidencia y por un número no superior a cinco miembros en representación de la Administración de la CAPV."
+      },
+      {
+        "value": 2,
+        "text": "La persona titular de la presidencia y por un número no superior a tres miembros en representación de la Administración de la CAPV."
+      },
+      {
+        "value": 3,
+        "text": "La persona titular de la presidencia y por cinco miembros en representación del Departamento competente en materia de sanidad."
+      },
+      {
+        "value": 4,
+        "text": "La persona titular de la presidencia, la Consejería del Departamento competente en materia de sanidad y tres miembros en representación de la Administración de la CAPV."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La persona titular de la presidencia y por un número no superior a cinco miembros en representación de la Administración de la CAPV."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 30 Ley 8/1997: el Consejo de Administración está integrado por el Presidente/a y un número no superior a cinco miembros en representación de la Administración autonómica."
+  },
+  {
+    "id": "tec-comun-t04_9",
+    "questionNum": 9,
+    "question": "Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Plan de Salud de Euskadi debe ser aprobado por el Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "El Departamento competente en materia de sanidad debe elaborar semestralmente y remitir al Parlamento un informe con la evaluación de los objetivos y determinaciones del Plan de Salud de Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "El Departamento competente en materia de sanidad debe elaborar anualmente y remitir al Parlamento un informe con la evaluación de los objetivos y determinaciones del Plan de Salud de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "Son correctas las respuestas a) y c)."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Son correctas las respuestas a) y c)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 17 Ley 8/1997: el Plan de Salud debe ser aprobado por el Parlamento Vasco (a) y el Departamento debe elaborar anualmente un informe de evaluación para remitir al Parlamento (c). Ambas son correctas."
+  },
+  {
+    "id": "tec-comun-t04_10",
+    "questionNum": 10,
+    "question": "A los efectos de la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las plantillas de personal del ente público Osakidetza-Servicio Vasco de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Serán aprobadas por la Presidencia a propuesta del consejo de administración."
+      },
+      {
+        "value": 2,
+        "text": "Se denomina así al número de efectivos de carácter estructural con que cuentan tanto su organización central de administración como las organizaciones de servicios dependientes de Osakidetza."
+      },
+      {
+        "value": 3,
+        "text": "Deberán ajustarse al número máximo de efectivos, según grupos profesionales, que anualmente aprobará su consejo de administración a propuesta del Departamento de Sanidad."
+      },
+      {
+        "value": 4,
+        "text": "Deberán ajustarse al número máximo de efectivos, según grupos de titulación, que anualmente aprobará el Departamento de Sanidad."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Deberán ajustarse al número máximo de efectivos, según grupos profesionales, que anualmente aprobará su consejo de administración a propuesta del Departamento de Sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 35 Ley 8/1997: las plantillas de personal de Osakidetza se ajustarán al número máximo de efectivos por grupos profesionales que anualmente aprobará el Consejo de Administración a propuesta del Departamento de Sanidad."
+  },
+  {
+    "id": "tec-comun-t04_11",
+    "questionNum": 11,
+    "question": "En el ámbito territorial de la CAPV, las inspecciones necesarias para asegurar el cumplimiento de lo previsto en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi y en el resto de la legislación sanitaria corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A la inspección de trabajo del País Vasco adscrita al Departamento de trabajo y empleo del Gobierno Vasco."
+      },
+      {
+        "value": 2,
+        "text": "En todos los casos a las corporaciones locales de la Comunidad Autónoma."
+      },
+      {
+        "value": 3,
+        "text": "Al Departamento competente en materia de sanidad."
+      },
+      {
+        "value": 4,
+        "text": "La inspección en materia sanitaria no es competencia de la CAPV."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Al Departamento competente en materia de sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 46 Ley 8/1997: las inspecciones sanitarias corresponden al Departamento competente en materia de sanidad del Gobierno Vasco."
+  },
+  {
+    "id": "tec-comun-t04_12",
+    "questionNum": 12,
+    "question": "Señale cuál de los siguientes criterios no está contemplado en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi para la clasificación de las infracciones en leves, graves o muy graves:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La cuantía de la indemnización solicitada."
+      },
+      {
+        "value": 2,
+        "text": "Los riesgos para la salud."
+      },
+      {
+        "value": 3,
+        "text": "El grado de intencionalidad."
+      },
+      {
+        "value": 4,
+        "text": "La gravedad de la alteración sanitaria y social producida."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La cuantía de la indemnización solicitada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 48 Ley 8/1997: los criterios de graduación son: riesgo para la salud, grado de intencionalidad, gravedad de la alteración sanitaria y social. La cuantía de la indemnización solicitada no es un criterio de clasificación."
+  },
+  {
+    "id": "tec-comun-t04_13",
+    "questionNum": 13,
+    "question": "Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, en materia de sanciones señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las infracciones serán sancionadas exclusivamente con sanción pecuniaria o económica."
+      },
+      {
+        "value": 2,
+        "text": "En los casos de infracciones muy graves, el Gobierno Vasco podrá acordar el cierre temporal del establecimiento por un plazo máximo de cinco años."
+      },
+      {
+        "value": 3,
+        "text": "Sin perjuicio de la multa que proceda imponer, en ciertos casos, la sanción económica que se imponga podrá ser incrementada hasta el triple de la cuantía del beneficio ilícito obtenido."
+      },
+      {
+        "value": 4,
+        "text": "En los casos de infracciones muy graves, el Gobierno Vasco podrá acordar el cierre temporal del establecimiento por un plazo máximo de tres años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Sin perjuicio de la multa que proceda imponer, en ciertos casos, la sanción económica que se imponga podrá ser incrementada hasta el triple de la cuantía del beneficio ilícito obtenido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 49 Ley 8/1997: en determinados casos, la sanción económica puede incrementarse hasta el triple del beneficio ilícito obtenido. El cierre temporal máximo es 5 años (no 3), y las sanciones no son solo pecuniarias."
+  },
+  {
+    "id": "tec-comun-t04_14",
+    "questionNum": 14,
+    "question": "Según la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las organizaciones a través de las que se procede a la provisión de servicios sanitarios con medios adscritos al ente público Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Realizarán su actividad bajo el principio de autonomía económico-financiera y de gestión."
+      },
+      {
+        "value": 2,
+        "text": "Se configurarán como instituciones de titularidad privada y con personalidad jurídica propia."
+      },
+      {
+        "value": 3,
+        "text": "Se crearán por ley como entidades de titularidad pública y con personalidad jurídica propia."
+      },
+      {
+        "value": 4,
+        "text": "Para realizar su actividad dependen presupuestariamente del ente público Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Realizarán su actividad bajo el principio de autonomía económico-financiera y de gestión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 29 Ley 8/1997: las organizaciones de servicios de Osakidetza realizan su actividad bajo el principio de autonomía económico-financiera y de gestión."
+  },
+  {
+    "id": "tec-comun-t04_15",
+    "questionNum": 15,
+    "question": "Respecto al personal sujeto al régimen estatutario que establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Este vínculo estatutario se adquiere mediante el cumplimiento de dos requisitos: superación del proceso selectivo y nombramiento conferido por autoridad competente."
+      },
+      {
+        "value": 2,
+        "text": "Los principios que rigen el procedimiento selectivo para la adquisición del vínculo estatutario son exclusivamente el de igualdad, mérito y capacidad."
+      },
+      {
+        "value": 3,
+        "text": "Los instrumentos de clasificación del personal sujeto a este régimen estatutario son el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe."
+      },
+      {
+        "value": 4,
+        "text": "El grupo de titulación constituye el instrumento de clasificación del personal en base al agrupamiento unitario de las aptitudes profesionales y contenido específico de las tareas propias de la prestación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los instrumentos de clasificación del personal sujeto a este régimen estatutario son el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 34 Ley 8/1997: los instrumentos de clasificación del personal estatutario de Osakidetza son: grupo de titulación, grupo profesional, categoría y puesto funcional."
+  },
+  {
+    "id": "tec-comun-t04_16",
+    "questionNum": 16,
+    "question": "Corresponderá la presidencia del ente público Osakidetza-Servicio Vasco de Salud a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Quien ostente la presidencia del Gobierno (Lehendakari) de la CAPV."
+      },
+      {
+        "value": 2,
+        "text": "La Diputación General del Territorio Histórico en que esté situado el Ente."
+      },
+      {
+        "value": 3,
+        "text": "La presidencia a quien ostente la titularidad del Departamento de Sanidad y la presidencia de honor a quien ostente la presidencia del Gobierno (Lehendakari) de la CAPV."
+      },
+      {
+        "value": 4,
+        "text": "Quien ostente la titularidad del Departamento de Sanidad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Quien ostente la titularidad del Departamento de Sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 30 Ley 8/1997: la presidencia del Consejo de Administración de Osakidetza corresponde a quien ostente la titularidad del Departamento de Sanidad."
+  },
+  {
+    "id": "tec-comun-t04_17",
+    "questionNum": 17,
+    "question": "La función de nombrar y separar a quienes ocupen las Direcciones de División de la organización central del ente público corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Consejo de Administración del Ente."
+      },
+      {
+        "value": 2,
+        "text": "La Dirección General del Ente."
+      },
+      {
+        "value": 3,
+        "text": "La Presidencia del Ente."
+      },
+      {
+        "value": 4,
+        "text": "Ninguno de los anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Presidencia del Ente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 31.2 Ley 8/1997: la Presidencia del ente público tiene la función de nombrar y separar a las personas titulares de las Direcciones de División de la organización central."
+  },
+  {
+    "id": "tec-comun-t04_18",
+    "questionNum": 18,
+    "question": "La composición del Consejo del ente público Osakidetza-Servicio Vasco de Salud contará, además de la persona que ejerza la Presidencia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Con cinco integrantes: uno a propuesta de Hacienda y Administración Pública, otro a propuesta de Bienestar Social y tres a propuesta de la persona titular de Sanidad."
+      },
+      {
+        "value": 2,
+        "text": "Con cinco integrantes: uno a propuesta de Hacienda y Administración Pública, otro a propuesta de la Consejería de Presidencia y tres a propuesta de la persona titular de Sanidad."
+      },
+      {
+        "value": 3,
+        "text": "Con cinco integrantes: dos a propuesta de Hacienda y Administración Pública y tres a propuesta de la persona titular de Sanidad."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de los anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Con cinco integrantes: uno a propuesta de Hacienda y Administración Pública, otro a propuesta de Bienestar Social y tres a propuesta de la persona titular de Sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 30 Ley 8/1997: el Consejo de Administración de Osakidetza incluye 5 miembros: 1 de Hacienda y AP, 1 de Bienestar Social y 3 del Departamento de Sanidad."
+  },
+  {
+    "id": "tec-comun-t04_19",
+    "questionNum": 19,
+    "question": "La propuesta de Plan Estratégico del ente público Osakidetza-Servicio Vasco de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Será formulada por la Dirección General del Ente."
+      },
+      {
+        "value": 2,
+        "text": "Será aprobada por la Presidencia del Ente."
+      },
+      {
+        "value": 3,
+        "text": "Será sometida a informe del Consejo de Administración del Ente."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores son ciertas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las anteriores son ciertas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 31 Ley 8/1997: la Dirección General formula el Plan Estratégico, la Presidencia lo aprueba, y el Consejo de Administración lo informa. Todas las afirmaciones son correctas."
+  },
+  {
+    "id": "tec-comun-t04_20",
+    "questionNum": 20,
+    "question": "La función de convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones del Consejo de Administración y decidir los empates con su voto de calidad corresponderá a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Dirección General."
+      },
+      {
+        "value": 2,
+        "text": "La Presidencia."
+      },
+      {
+        "value": 3,
+        "text": "La persona de mayor antigüedad del Consejo de Administración."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La Presidencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 31 Ley 8/1997: la Presidencia del ente convoca, preside, suspende y levanta las sesiones del Consejo de Administración, arbitra sus deliberaciones y decide los empates con voto de calidad."
+  },
+  {
+    "id": "tec-comun-t04_21",
+    "questionNum": 21,
+    "question": "La persona titular de la Dirección General del ente público Osakidetza-Servicio Vasco de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No podrá asistir a las reuniones del Consejo de Administración del Ente."
+      },
+      {
+        "value": 2,
+        "text": "Presidirá las reuniones del Consejo de Administración del Ente."
+      },
+      {
+        "value": 3,
+        "text": "Asistirá a las reuniones del Consejo de Administración del Ente con voz y voto."
+      },
+      {
+        "value": 4,
+        "text": "Asistirá a las reuniones del Consejo de Administración del Ente con voz y sin voto."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Asistirá a las reuniones del Consejo de Administración del Ente con voz y sin voto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 32 Ley 8/1997: la persona titular de la Dirección General asistirá a las reuniones del Consejo de Administración con voz pero sin voto."
+  },
+  {
+    "id": "tec-comun-t04_22",
+    "questionNum": 22,
+    "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza, en materia de gestión asistencial (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Supervisar el cumplimiento de las políticas generales de calidad y realizar auditorías."
+      },
+      {
+        "value": 2,
+        "text": "Definir criterios generales y proponer la política de precios correspondiente a la prestación de servicios sanitarios incluida en la cobertura pública."
+      },
+      {
+        "value": 3,
+        "text": "Coordinar los recursos y, en su caso, proponer medidas de intervención sobre las listas de espera."
+      },
+      {
+        "value": 4,
+        "text": "Promover protocolos de interés general."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Definir criterios generales y proponer la política de precios correspondiente a la prestación de servicios sanitarios incluida en la cobertura pública."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "La organización central de Osakidetza no tiene como función propia definir la política de precios para la cobertura pública (eso corresponde al Departamento de Sanidad). La opción B es la incorrecta."
+  },
+  {
+    "id": "tec-comun-t04_23",
+    "questionNum": 23,
+    "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza, en materia de gestión de recursos humanos (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Supervisar, controlar y evaluar las políticas de personal del Ente."
+      },
+      {
+        "value": 2,
+        "text": "Promover acuerdos de cooperación con centros correspondientes a la sanidad privada."
+      },
+      {
+        "value": 3,
+        "text": "Dirigir el funcionamiento del registro de personal."
+      },
+      {
+        "value": 4,
+        "text": "Gestionar los procesos de selección y de provisión que el Consejo de Administración determine."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Promover acuerdos de cooperación con centros correspondientes a la sanidad privada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "La promoción de acuerdos de cooperación con centros de sanidad privada no es una función de gestión de RRHH de la organización central. La opción B es incorrecta en este contexto."
+  },
+  {
+    "id": "tec-comun-t04_24",
+    "questionNum": 24,
+    "question": "Corresponde a cada organización de servicios sanitarios del ente público Osakidetza el ejercicio de todas las facultades de gestión y administración que se requieran, quedando excluidas únicamente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aquellas facultades de gestión centralizada que los estatutos sociales atribuyen expresamente a la organización central del Ente Público y las competencias propias de otras instancias de acuerdo con las Leyes y Reglamentos vigentes."
+      },
+      {
+        "value": 2,
+        "text": "Aquellas facultades de gestión centralizada que los estatutos sociales atribuyen expresamente a la Presidencia del Ente Público y las competencias propias de otras instancias."
+      },
+      {
+        "value": 3,
+        "text": "Aquellas facultades de gestión centralizada que los estatutos sociales atribuyen expresamente al Consejo de Administración del Ente Público y las competencias propias de otras instancias."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Aquellas facultades de gestión centralizada que los estatutos sociales atribuyen expresamente a la organización central del Ente Público y las competencias propias de otras instancias de acuerdo con las Leyes y Reglamentos vigentes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 33 Ley 8/1997: cada organización de servicios tiene todas las facultades de gestión salvo las que los estatutos atribuyen expresamente a la organización central del ente y las competencias de otras instancias según las leyes."
+  },
+  {
+    "id": "tec-comun-t04_25",
+    "questionNum": 25,
+    "question": "El número de integrantes del equipo directivo de las organizaciones de servicios sanitarios del ente público Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Oscilará entre dos y tres."
+      },
+      {
+        "value": 2,
+        "text": "Oscilará entre tres y cuatro."
+      },
+      {
+        "value": 3,
+        "text": "Oscilará entre cuatro y cinco."
+      },
+      {
+        "value": 4,
+        "text": "La normativa no establece un número determinado sino un máximo de cinco."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Oscilará entre cuatro y cinco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 33 Ley 8/1997: el equipo directivo de cada organización de servicios oscilará entre cuatro y cinco integrantes según el tamaño y complejidad de la organización."
+  },
+  {
+    "id": "tec-comun-t04_26",
+    "questionNum": 26,
+    "question": "La función de representar al ente público Osakidetza en la negociación colectiva del Acuerdo Marco de Condiciones de Trabajo del Personal corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La organización central de administración y gestión corporativa del ente público Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "La Presidencia del ente público Osakidetza."
+      },
+      {
+        "value": 3,
+        "text": "El Consejo de Administración del ente público Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La organización central de administración y gestión corporativa del ente público Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 32 Ley 8/1997: corresponde a la organización central (Dirección General) la representación del ente en la negociación colectiva del Acuerdo Marco de Condiciones de Trabajo."
+  },
+  {
+    "id": "tec-comun-t04_27",
+    "questionNum": 27,
+    "question": "Para el desarrollo de funciones de propuesta y asesoramiento, así como de participación en las organizaciones de servicios sanitarios, existirá un Consejo de Dirección en cada una de ellas, integrado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+      },
+      {
+        "value": 2,
+        "text": "El equipo directivo, las jefaturas de unidad que se determinen, representantes sindicales y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+      },
+      {
+        "value": 3,
+        "text": "El equipo directivo y las jefaturas de unidad que se determinen."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 33 Ley 8/1997: el Consejo de Dirección de cada organización de servicios está integrado por el equipo directivo, las jefaturas de unidad determinadas y representación de vocales electas de los Consejos Técnicos de participación profesional."
+  },
+  {
+    "id": "tec-comun-t04_28",
+    "questionNum": 28,
+    "question": "Las organizaciones de servicios sanitarios del ente público Osakidetza podrán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Descentralizar la organización delegando en quienes ostenten la responsabilidad clínica facultades de gestión, aunque solo en materia de personal."
+      },
+      {
+        "value": 2,
+        "text": "Descentralizar la organización delegando en quienes ostenten la responsabilidad clínica facultades de gestión, pero solo en materia económica."
+      },
+      {
+        "value": 3,
+        "text": "Descentralizar la organización delegando en quienes ostenten la responsabilidad clínica facultades de gestión tanto en materia económica como de personal, de acuerdo con el marco estratégico y el contrato-programa."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Descentralizar la organización delegando en quienes ostenten la responsabilidad clínica facultades de gestión tanto en materia económica como de personal, de acuerdo con el marco estratégico y el contrato-programa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Art. 33 Ley 8/1997: las organizaciones pueden descentralizar delegando en responsables clínicos facultades de gestión tanto económicas como de personal, conforme al marco estratégico y el contrato-programa."
+  },
+  {
+    "id": "tec-comun-t04_29",
+    "questionNum": 29,
+    "question": "En materia específica de inversiones, la competencia para ejecutar las compras de suministros que se consideren centralizadas, así como definir y/o ejecutar, en su caso, las consideradas integradas corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Consejo de Administración del ente público Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "La organización central de administración y gestión corporativa del ente público Osakidetza."
+      },
+      {
+        "value": 3,
+        "text": "La organización de servicios del ente público Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "A quien ostente la titularidad de la Dirección-Gerencia de cada organización de servicios sanitarios."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La organización central de administración y gestión corporativa del ente público Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "Las compras centralizadas e integradas son competencia de la organización central de administración y gestión corporativa de Osakidetza."
+  },
+  {
+    "id": "tec-comun-t04_30",
+    "questionNum": 30,
+    "question": "En el ámbito de una organización de servicios sanitarios del ente público Osakidetza, presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento es una tarea que corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Dirección General del Ente."
+      },
+      {
+        "value": 2,
+        "text": "Quien ostente la titularidad de la Dirección-Gerencia del Ente."
+      },
+      {
+        "value": 3,
+        "text": "La Dirección Médica del Ente."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Quien ostente la titularidad de la Dirección-Gerencia del Ente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t04",
+    "explanation": "La Dirección-Gerencia de cada organización de servicios preside los Consejos Técnicos de participación profesional y promueve su eficaz funcionamiento."
+  }
+]
