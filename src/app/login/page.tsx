@@ -80,7 +80,7 @@ export default function LoginPage() {
               Osakidetza
             </p>
             <h1 className="text-3xl font-bold text-white tracking-tight">
-              IT Txartelak
+              Osakidetza OPEk
             </h1>
             <p style={{ color: 'rgba(255,255,255,0.65)' }} className="mt-1 text-sm">
               Práctica de exámenes de ofimática

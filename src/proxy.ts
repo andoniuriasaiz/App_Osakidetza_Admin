@@ -17,21 +17,21 @@ export async function proxy(req: NextRequest) {
   }
 
   // Check JWT cookie
-  const token = req.cookies.get('chatelac_session')?.value;
+  const token = req.cookies.get('osakidetza_session')?.value;
   if (!token) {
     return NextResponse.redirect(new URL('/login', req.url));
   }
 
   try {
     const secret = new TextEncoder().encode(
-      process.env.SESSION_SECRET ?? 'chatelac-session-secret-2026'
+      process.env.SESSION_SECRET ?? 'osakidetza-session-secret-2026'
     );
     await jwtVerify(token, secret);
     return NextResponse.next();
   } catch {
     // Invalid or expired token
     const res = NextResponse.redirect(new URL('/login', req.url));
-    res.cookies.delete('chatelac_session');
+    res.cookies.delete('osakidetza_session');
     return res;
   }
 }

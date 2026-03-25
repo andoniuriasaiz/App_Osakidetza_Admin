@@ -3,7 +3,7 @@
 // Patrón: lectura/escritura en localStorage siempre (rápido),
 //          persist() → BD en segundo plano (fire-and-forget).
 
-const KEY = 'chatelac_bookmarks';
+const KEY = 'osakidetza_bookmarks';
 
 function load(): Set<string> {
   if (typeof window === 'undefined') return new Set();

@@ -1,6 +1,6 @@
 import { CardState, createCard, updateCard, Quality } from './spaced-repetition';
 
-const PROGRESS_KEY = 'chatelac_progress';
+const PROGRESS_KEY = 'osakidetza_progress';
 
 export interface Progress {
   cards: Record<string, CardState>;

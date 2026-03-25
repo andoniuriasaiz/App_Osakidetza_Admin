@@ -1,7 +1,7 @@
 // ─── Theme (dark/light mode) ──────────────────────────────────────────────────
 // Persiste en localStorage y aplica data-theme al elemento <html>.
 
-const KEY = 'chatelac_theme';
+const KEY = 'osakidetza_theme';
 
 export type Theme = 'light' | 'dark';
 

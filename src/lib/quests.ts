@@ -1,7 +1,7 @@
 // ─── Daily Quests System ─────────────────────────────────────────────────────
 // 3 misiones fijas que se resetean a medianoche
 
-const QUESTS_KEY = 'chatelac_quests';
+const QUESTS_KEY = 'osakidetza_quests';
 
 export interface Quest {
   id: string;

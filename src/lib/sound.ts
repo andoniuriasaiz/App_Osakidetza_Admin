@@ -1,7 +1,7 @@
 // ─── Web Audio Sound Engine ─────────────────────────────────────────────────
 // Sin dependencias externas — todo generado con AudioContext
 
-const MUTE_KEY = 'chatelac_muted';
+const MUTE_KEY = 'osakidetza_muted';
 
 export function isMuted(): boolean {
   if (typeof window === 'undefined') return true;

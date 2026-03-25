@@ -2,8 +2,8 @@ import 'server-only';
 import { SignJWT, jwtVerify } from 'jose';
 import { cookies } from 'next/headers';
 
-const SESSION_COOKIE = 'chatelac_session';
-const secretKey = process.env.SESSION_SECRET || 'chatelac-session-secret-2026';
+const SESSION_COOKIE = 'osakidetza_session';
+const secretKey = process.env.SESSION_SECRET || 'osakidetza-session-secret-2026';
 const encodedKey = new TextEncoder().encode(secretKey);
 
 export interface SessionPayload {

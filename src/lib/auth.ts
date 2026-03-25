@@ -1,5 +1,5 @@
 // Cliente de auth — llama a las API routes, guarda username en localStorage como caché
-const SESSION_KEY = 'chatelac_session';
+const SESSION_KEY = 'osakidetza_session';
 
 // Devuelve el role si ok, null si credenciales incorrectas
 export async function login(username: string, password: string): Promise<string | null> {

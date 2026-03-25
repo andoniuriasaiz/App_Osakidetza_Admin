@@ -64,9 +64,9 @@ export function applyCombo(baseXP: number, streak: number): number {
 }
 
 // ─── localStorage XP cache ─────────────────────────────────────────────────────
-const XP_KEY = 'chatelac_xp';
-const GOAL_KEY = 'chatelac_daily_goal';
-const GOAL_PROGRESS_KEY = 'chatelac_goal_progress';
+const XP_KEY = 'osakidetza_xp';
+const GOAL_KEY = 'osakidetza_daily_goal';
+const GOAL_PROGRESS_KEY = 'osakidetza_goal_progress';
 
 export function getLocalXP(): number {
   if (typeof window === 'undefined') return 0;

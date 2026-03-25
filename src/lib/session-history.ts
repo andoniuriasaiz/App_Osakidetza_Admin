@@ -2,7 +2,7 @@
 // Historial de sesiones de estudio.
 // Patrón write-through: localStorage (lectura rápida) + BD (multidispositivo).
 
-const KEY = 'chatelac_session_log';
+const KEY = 'osakidetza_session_log';
 const MAX_ENTRIES = 30;
 
 export interface SessionEntry {

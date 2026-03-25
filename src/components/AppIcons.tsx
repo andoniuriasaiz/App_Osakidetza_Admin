@@ -1,7 +1,7 @@
 'use client';
 
 // ─────────────────────────────────────────────────────────────────────────────
-//  AppIcons.tsx — Unified SVG icon library for IT Txartelak
+//  AppIcons.tsx — Unified SVG icon library for Osakidetza OPEk
 //
 //  ● Module icons  — colored Microsoft Office–style tiles (40×40)
 //  ● UI icons      — 24×24 monochrome stroke icons (1.5–1.8px weight)

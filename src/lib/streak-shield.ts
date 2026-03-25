@@ -3,7 +3,7 @@
 // Se otorga 1 escudo por semana automáticamente (máx. 2 en reserva).
 // Patrón: localStorage. No necesita BD (los escudos son generosos, no premium).
 
-const KEY = 'chatelac_streak_shield';
+const KEY = 'osakidetza_streak_shield';
 const MAX_SHIELDS = 2;
 
 interface ShieldState {
