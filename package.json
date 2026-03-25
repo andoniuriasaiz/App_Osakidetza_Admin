@@ -1,7 +1,8 @@
 {
-  "name": "chatelac-quiz",
+  "name": "app-osakidetza-admin",
   "version": "0.1.0",
   "private": true,
+  "description": "App de estudio para la OPE de Osakidetza - Administrativo y Auxiliar",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

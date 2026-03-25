@@ -64,58 +64,7 @@ export default function ExamPage() {
   const [examXP, setExamXP] = useState(0);
   const [showLevelUp, setShowLevelUp] = useState(false);
   const [levelUpLevel, setLevelUpLevel] = useState<ReturnType<typeof getLevel> | null>(null);
-
-  useEffect(() => {
-    const session = getSession();
-    if (!session) router.push('/login');
-  }, [router]);
-
-  // ─── Timer ──────────────────────────────────────────────
-  useEffect(() => {
-    if (phase !== 'taking' || timeLeft === null) return;
-    if (timeLeft <= 0) { submitExam(); return; }
-    const t = setTimeout(() => setTimeLeft(prev => (prev ?? 1) - 1), 1000);
-    return () => clearTimeout(t);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [phase, timeLeft]);
-
-  // ─── Start exam ──────────────────────────────────────────
-  async function startExam() {
-    setLoading(true);
-    const all = await loadQuestions(config.moduleId);
-    // Only test-type questions (C and I) for the exam — B type doesn't fit timed format
-    const testQs = all.filter(q => q.type === 'C' || q.type === 'I');
-    const selected = shuffleArray(testQs).slice(0, config.questionCount);
-    setQuestions(selected);
-    setAnswers(new Map());
-    setCurrentIdx(0);
-    setTimeLeft(config.timeLimitMin ? config.timeLimitMin * 60 : null);
-    setTimeTaken(0);
-    setLoading(false);
-    setPhase('taking');
-  }
-
-  // ─── Toggle answer ───────────────────────────────────────
-  function toggleAnswer(val: number) {
-    const q = questions[currentIdx];
-    if (!q) return;
-    setAnswers(prev => {
-      const next = new Map(prev);
-      const current = next.get(currentIdx) ?? [];
-      if (q.correctAnswerNums.length === 1) {
-        next.set(currentIdx, [val]);
-      } else {
-        if (current.includes(val)) next.set(currentIdx, current.filter(v => v !== val));
-        else next.set(currentIdx, [...current, val]);
-      }
-      return next;
-    });
-  }
-
-  // ─── Navigate ────────────────────────────────────────────
-  function goTo(idx: number) {
-    setCurrentIdx(Math.max(0, Math.min(idx, questions.length - 1)));
-  }
+  const [role, setRole] = useState<'administrativo' | 'auxiliar'>('administrativo');
 
   // ─── Submit exam ─────────────────────────────────────────
   const submitExam = useCallback(() => {
@@ -127,7 +76,7 @@ export default function ExamPage() {
     const prevTotalXP = getLocalXP();
     let totalXP = 0;
 
-    const examResults: ExamAnswer[] = questions.map((q, i) => {
+    const examResults: ExamAnswer[] = questions.map((q: Question, i: number) => {
       const selected = answers.get(i) ?? [];
       const skipped = selected.length === 0;
       const correctSet = new Set(q.correctAnswerNums);
@@ -168,8 +117,63 @@ export default function ExamPage() {
     setResults(examResults);
     setPhase('review');
     setShowConfirm(false);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [questions, answers, timeLeft, config.timeLimitMin]);
+
+  useEffect(() => {
+    const session = getSession();
+    if (!session) {
+      router.push('/login');
+    } else {
+      const savedRole = localStorage.getItem('osakidetza_role') as 'administrativo' | 'auxiliar';
+      if (savedRole) setRole(savedRole);
+    }
+  }, [router]);
+
+  // ─── Timer ──────────────────────────────────────────────
+  useEffect(() => {
+    if (phase !== 'taking' || timeLeft === null) return;
+    if (timeLeft <= 0) { submitExam(); return; }
+    const t = setTimeout(() => setTimeLeft((prev: number | null) => (prev ?? 1) - 1), 1000);
+    return () => clearTimeout(t);
+  }, [phase, timeLeft, submitExam]);
+
+  // ─── Start exam ──────────────────────────────────────────
+  async function startExam() {
+    setLoading(true);
+    const all = await loadQuestions(config.moduleId);
+    // Only test-type questions (C and I) for the exam
+    const testQs = all.filter(q => q.type === 'C' || q.type === 'I');
+    const selected = shuffleArray(testQs).slice(0, config.questionCount);
+    setQuestions(selected);
+    setAnswers(new Map());
+    setCurrentIdx(0);
+    setTimeLeft(config.timeLimitMin ? config.timeLimitMin * 60 : null);
+    setTimeTaken(0);
+    setLoading(false);
+    setPhase('taking');
+  }
+
+  // ─── Toggle answer ───────────────────────────────────────
+  function toggleAnswer(val: number) {
+    const q = questions[currentIdx];
+    if (!q) return;
+    setAnswers((prev: Map<number, number[]>) => {
+      const next = new Map(prev);
+      const current = next.get(currentIdx) ?? [];
+      if (q.correctAnswerNums.length === 1) {
+        next.set(currentIdx, [val]);
+      } else {
+        if (current.includes(val)) next.set(currentIdx, current.filter((v: number) => v !== val));
+        else next.set(currentIdx, [...current, val]);
+      }
+      return next;
+    });
+  }
+
+  // ─── Navigate ────────────────────────────────────────────
+  function goTo(idx: number) {
+    setCurrentIdx(Math.max(0, Math.min(idx, questions.length - 1)));
+  }
 
   // ─── Keyboard shortcuts ──────────────────────────────────
   useEffect(() => {
@@ -180,7 +184,6 @@ export default function ExamPage() {
     }
     window.addEventListener('keydown', handleKey);
     return () => window.removeEventListener('keydown', handleKey);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [phase, currentIdx]);
 
   // ──────────────────────────────────────────────────────────
@@ -203,17 +206,18 @@ export default function ExamPage() {
         <div className="max-w-2xl mx-auto px-4 py-8 pb-24 space-y-6">
           {/* Module selector */}
           <div>
-            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">Módulo</p>
-            <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
+            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">Módulo de examen</p>
+            <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
               {[
-                { id: 'mezcla',        label: '🎲 Todos los módulos', sub: '758 preguntas' },
-                { id: 'access-basico', label: '🗄️ Access Básico',     sub: '137 preguntas' },
-                { id: 'excel-avanzado',label: '📊 Excel Avanzado',    sub: '128 preguntas' },
-                { id: 'powerpoint',    label: '📋 PowerPoint XP',     sub: '300 preguntas' },
-                { id: 'word-avanzado', label: '📝 Word Avanzado',     sub: '193 preguntas' },
-              ].map(m => (
+                { id: 'mezcla', label: '🎲 Todo el temario (' + (role === 'administrativo' ? 'Admin' : 'Auxiliar') + ')', sub: 'Combinado' },
+                ...MODULES.filter((m: any) => m.id !== 'mezcla' && (m.category === 'comun' || m.category === role)).slice(0, 5).map((m: any) => ({
+                  id: m.id,
+                  label: m.shortName,
+                  sub: m.category === 'comun' ? 'Temario Común' : 'Temario Específico'
+                }))
+              ].map((m: any) => (
                 <button key={m.id}
-                  onClick={() => setConfig(c => ({ ...c, moduleId: m.id }))}
+                  onClick={() => setConfig((c: any) => ({ ...c, moduleId: m.id }))}
                   className={`p-3 rounded-xl border-2 text-left transition-all ${
                     config.moduleId === m.id
                       ? 'border-[#282182] bg-[#e8e7f7]'
@@ -227,15 +231,18 @@ export default function ExamPage() {
                 </button>
               ))}
             </div>
+            {MODULES.filter((m: any) => m.category === 'comun' || m.category === role).length > 5 && (
+              <p className="text-[10px] text-gray-400 mt-2 text-center italic">Seleccionando los módulos más relevantes para tu rol</p>
+            )}
           </div>
 
           {/* Question count */}
           <div>
             <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">Número de preguntas</p>
             <div className="flex gap-2">
-              {[10, 20, 30, 50].map(n => (
+              {[10, 20, 30, 50].map((n: number) => (
                 <button key={n}
-                  onClick={() => setConfig(c => ({ ...c, questionCount: n }))}
+                  onClick={() => setConfig((c: any) => ({ ...c, questionCount: n }))}
                   className={`flex-1 py-3 rounded-xl font-bold text-sm transition-all border-2 ${
                     config.questionCount === n
                       ? 'border-[#282182] bg-[#282182] text-white'
@@ -255,9 +262,9 @@ export default function ExamPage() {
                 { val: 15,   label: '15 min' },
                 { val: 30,   label: '30 min' },
                 { val: 60,   label: '1 hora' },
-              ].map(({ val, label }) => (
+              ].map(({ val, label }: any) => (
                 <button key={String(val)}
-                  onClick={() => setConfig(c => ({ ...c, timeLimitMin: val }))}
+                  onClick={() => setConfig((c: any) => ({ ...c, timeLimitMin: val }))}
                   className={`flex-1 py-3 rounded-xl font-semibold text-xs transition-all border-2 ${
                     config.timeLimitMin === val
                       ? 'border-[#282182] bg-[#282182] text-white'
@@ -393,7 +400,7 @@ export default function ExamPage() {
 
             {/* Corporate-style clean option buttons */}
             <div className="p-4 grid grid-cols-1 gap-2">
-              {q?.options?.map((opt, i) => {
+              {q?.options?.map((opt: any, i: number) => {
                 const letter = ['A', 'B', 'C', 'D'][i % 4];
                 const isSelected = selected.includes(opt.value);
 
@@ -457,7 +464,7 @@ export default function ExamPage() {
           <div className="bg-white rounded-2xl border border-slate-200 p-4">
             <p className="text-xs font-semibold text-gray-400 mb-3">Navegación rápida</p>
             <div className="flex flex-wrap gap-1.5">
-              {questions.map((_, i) => {
+              {questions.map((_: Question, i: number) => {
                 const isAns = (answers.get(i) ?? []).length > 0;
                 const isCurrent = i === currentIdx;
                 return (
@@ -486,9 +493,9 @@ export default function ExamPage() {
   // ──────────────────────────────────────────────────────────
   // REVIEW PHASE
   // ──────────────────────────────────────────────────────────
-  const correct  = results.filter(r => r.isCorrect).length;
-  const wrong    = results.filter(r => !r.isCorrect && !r.skipped).length;
-  const skipped  = results.filter(r => r.skipped).length;
+  const correct  = results.filter((r: ExamAnswer) => r.isCorrect).length;
+  const wrong    = results.filter((r: ExamAnswer) => !r.isCorrect && !r.skipped).length;
+  const skipped  = results.filter((r: ExamAnswer) => r.skipped).length;
   const total    = results.length;
   const pctScore = total > 0 ? Math.round((correct / total) * 100) : 0;
   const passed   = pctScore >= 60;
@@ -538,7 +545,7 @@ export default function ExamPage() {
               </div>
             )}
             <div className="p-4 grid grid-cols-1 gap-2">
-              {q.options?.map((opt, i) => {
+              {q.options?.map((opt: any, i: number) => {
                 const wasSelected = r.selected.includes(opt.value);
                 const isCorrect   = q.correctAnswerNums.includes(opt.value);
                 const letter = ['A', 'B', 'C', 'D'][i % 4];
@@ -670,7 +677,7 @@ export default function ExamPage() {
             <span className="text-xs text-gray-400">{total} preguntas</span>
           </div>
           <div className="divide-y divide-slate-100 max-h-96 overflow-y-auto">
-            {results.map((r, i) => (
+            {results.map((r: ExamAnswer, i: number) => (
               <button
                 key={i}
                 onClick={() => setReviewIdx(i)}
@@ -698,10 +705,10 @@ export default function ExamPage() {
           </button>
           <button
             onClick={async () => {
-              const text = `🎯 Simulacro IT Txartelak — ${pctScore}% (${passed ? '✅ Aprobado' : '❌ Suspenso'})\n✔ ${correct} correctas · ✘ ${wrong} incorrectas · — ${skipped} sin respuesta\nCon penalización: ${penPct}%`;
+              const text = `🎯 Simulacro Osakidetza OPE — ${pctScore}% (${passed ? '✅ Aprobado' : '❌ Suspenso'})\n✔ ${correct} correctas · ✘ ${wrong} incorrectas · — ${skipped} sin respuesta\nCon penalización: ${penPct}%`;
               if (navigator.share) {
                 try {
-                  await navigator.share({ title: 'Mi resultado — IT Txartelak', text });
+                  await navigator.share({ title: 'Mi resultado — Osakidetza OPE', text });
                 } catch { /* cancelado */ }
               } else {
                 await navigator.clipboard.writeText(text);
