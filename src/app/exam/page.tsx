@@ -4,6 +4,7 @@ import { useEffect, useState, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { getSession } from '@/lib/auth';
 import { MODULES } from '@/lib/modules';
+import { OPE_TRACKS, daysUntilExam } from '@/lib/tracks';
 import { loadQuestions, Question, shuffleArray, getModuleBaseUrl } from '@/lib/questions';
 import { recordAnswer } from '@/lib/progress';
 import { addLocalXP, getLocalXP, persistXP, XP_EXAM_CORRECT, XP_EXAM_WRONG, getLevel, incrementTodayAnswerCount } from '@/lib/xp';
@@ -64,7 +65,7 @@ export default function ExamPage() {
   const [examXP, setExamXP] = useState(0);
   const [showLevelUp, setShowLevelUp] = useState(false);
   const [levelUpLevel, setLevelUpLevel] = useState<ReturnType<typeof getLevel> | null>(null);
-  const [role, setRole] = useState<'administrativo' | 'auxiliar'>('administrativo');
+  const [activeTrack, setActiveTrack] = useState<'aux' | 'admin' | 'tec'>('aux');
 
   // ─── Submit exam ─────────────────────────────────────────
   const submitExam = useCallback(() => {
@@ -124,8 +125,8 @@ export default function ExamPage() {
     if (!session) {
       router.push('/login');
     } else {
-      const savedRole = localStorage.getItem('osakidetza_role') as 'administrativo' | 'auxiliar';
-      if (savedRole) setRole(savedRole);
+      const savedTrack = localStorage.getItem('osakidetza_active_track') as 'aux' | 'admin' | 'tec';
+      if (savedTrack) setActiveTrack(savedTrack);
     }
   }, [router]);
 
@@ -204,43 +205,71 @@ export default function ExamPage() {
         </header>
 
         <div className="max-w-2xl mx-auto px-4 py-8 pb-24 space-y-6">
+          {/* OPE Preset */}
+          {(() => {
+            const track = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
+            const daysLeft = daysUntilExam(track.examDate);
+            return (
+              <div className="bg-gradient-to-br from-[#282182] to-[#170f55] rounded-2xl p-5 text-white">
+                <div className="flex items-center justify-between mb-3">
+                  <div>
+                    <p className="font-bold text-base">{track.icon} Simulacro OPE {track.shortName}</p>
+                    <p className="text-xs opacity-70 mt-0.5">{track.name}</p>
+                  </div>
+                  <div className="text-right bg-white/10 rounded-xl px-3 py-2">
+                    <div className="text-xl font-black leading-none">{daysLeft}</div>
+                    <div className="text-[10px] opacity-60">días</div>
+                  </div>
+                </div>
+                <button
+                  onClick={() => setConfig({ moduleId: 'mezcla', questionCount: 60, timeLimitMin: 90 })}
+                  className="w-full bg-white/15 hover:bg-white/25 border border-white/20 rounded-xl py-2.5 text-sm font-bold transition"
+                >
+                  🎯 Formato oficial — 60 preguntas, 90 min
+                </button>
+              </div>
+            );
+          })()}
+
           {/* Module selector */}
           <div>
             <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">Módulo de examen</p>
             <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
-              {[
-                { id: 'mezcla', label: '🎲 Todo el temario (' + (role === 'administrativo' ? 'Admin' : 'Auxiliar') + ')', sub: 'Combinado' },
-                ...MODULES.filter((m: any) => m.id !== 'mezcla' && (m.category === 'comun' || m.category === role)).slice(0, 5).map((m: any) => ({
-                  id: m.id,
-                  label: m.shortName,
-                  sub: m.category === 'comun' ? 'Temario Común' : 'Temario Específico'
-                }))
-              ].map((m: any) => (
-                <button key={m.id}
-                  onClick={() => setConfig((c: any) => ({ ...c, moduleId: m.id }))}
-                  className={`p-3 rounded-xl border-2 text-left transition-all ${
-                    config.moduleId === m.id
-                      ? 'border-[#282182] bg-[#e8e7f7]'
-                      : 'border-slate-200 bg-white hover:border-[#9591d0]'
-                  }`}
-                >
-                  <div className={`font-semibold text-sm ${config.moduleId === m.id ? 'text-[#282182]' : 'text-gray-800'}`}>
-                    {m.label}
-                  </div>
-                  <div className="text-xs text-gray-400 mt-0.5">{m.sub}</div>
-                </button>
-              ))}
+              {(() => {
+                const track = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
+                const allIds = [...track.commonModuleIds, ...track.specificModuleIds];
+                const mods = allIds.slice(0, 5).map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
+                return [
+                  { id: 'mezcla', label: `🎲 Todo el temario (${track.shortName})`, sub: 'Temario completo mezclado' },
+                  ...mods.map((m: any) => ({
+                    id: m.id,
+                    label: m.shortName,
+                    sub: (m.category === 'comun' || m.category === 'tec-comun') ? 'Temario Común' : 'Temario Específico'
+                  }))
+                ].map((m: any) => (
+                  <button key={m.id}
+                    onClick={() => setConfig((c: any) => ({ ...c, moduleId: m.id }))}
+                    className={`p-3 rounded-xl border-2 text-left transition-all ${
+                      config.moduleId === m.id
+                        ? 'border-[#282182] bg-[#e8e7f7]'
+                        : 'border-slate-200 bg-white hover:border-[#9591d0]'
+                    }`}
+                  >
+                    <div className={`font-semibold text-sm ${config.moduleId === m.id ? 'text-[#282182]' : 'text-gray-800'}`}>
+                      {m.label}
+                    </div>
+                    <div className="text-xs text-gray-400 mt-0.5">{m.sub}</div>
+                  </button>
+                ));
+              })()}
             </div>
-            {MODULES.filter((m: any) => m.category === 'comun' || m.category === role).length > 5 && (
-              <p className="text-[10px] text-gray-400 mt-2 text-center italic">Seleccionando los módulos más relevantes para tu rol</p>
-            )}
           </div>
 
           {/* Question count */}
           <div>
             <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">Número de preguntas</p>
             <div className="flex gap-2">
-              {[10, 20, 30, 50].map((n: number) => (
+              {[10, 20, 30, 60].map((n: number) => (
                 <button key={n}
                   onClick={() => setConfig((c: any) => ({ ...c, questionCount: n }))}
                   className={`flex-1 py-3 rounded-xl font-bold text-sm transition-all border-2 ${
@@ -259,9 +288,9 @@ export default function ExamPage() {
             <div className="flex gap-2">
               {[
                 { val: null, label: 'Sin límite' },
-                { val: 15,   label: '15 min' },
                 { val: 30,   label: '30 min' },
                 { val: 60,   label: '1 hora' },
+                { val: 90,   label: '90 min' },
               ].map(({ val, label }: any) => (
                 <button key={String(val)}
                   onClick={() => setConfig((c: any) => ({ ...c, timeLimitMin: val }))}
