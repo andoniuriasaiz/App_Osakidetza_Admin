@@ -12,7 +12,7 @@ import { syncQuestsFromDB } from '@/lib/quests';
 import { syncBookmarksFromDB } from '@/lib/bookmarks';
 import { syncSessionsFromDB } from '@/lib/session-history';
 import { syncShieldsFromDB } from '@/lib/streak-shield';
-import { initTheme, Theme } from '@/lib/theme';
+import { getTheme, initTheme, Theme } from '@/lib/theme';
 import BottomNav from '@/components/BottomNav';
 import XPBar from '@/components/XPBar';
 import { ModuleIcon, IconBarChart, IconFlame, IconShuffle } from '@/components/AppIcons';
