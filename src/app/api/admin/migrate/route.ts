@@ -3,7 +3,7 @@ import db from '@/lib/db';
 
 // POST /api/admin/migrate
 // Header: Authorization: Bearer <ADMIN_SECRET>
-// Runs all CREATE TABLE IF NOT EXISTS for v3.0 tables
+// Crea todas las tablas necesarias (idempotente — IF NOT EXISTS)
 export async function POST(req: NextRequest) {
   const authHeader = req.headers.get('authorization') || '';
   const token = authHeader.replace('Bearer ', '');
@@ -13,11 +13,20 @@ export async function POST(req: NextRequest) {
   }
 
   try {
-    // 1. Crear el schema si no existe
-    await db`CREATE SCHEMA IF NOT EXISTS osakidetza`;
-    // 2. Cambiar el search_path para esta sesión de migración
-    await db`SET search_path TO osakidetza`;
+    // 1. Tabla principal de usuarios (debe ir primero — el resto la referencia)
+    await db`
+      CREATE TABLE IF NOT EXISTS users (
+        id            SERIAL      PRIMARY KEY,
+        username      TEXT        NOT NULL UNIQUE,
+        password_hash TEXT        NOT NULL,
+        role          TEXT        NOT NULL DEFAULT 'user',
+        xp            INTEGER     NOT NULL DEFAULT 0,
+        daily_goal    INTEGER     NOT NULL DEFAULT 20,
+        created_at    TIMESTAMPTZ NOT NULL DEFAULT NOW()
+      )
+    `;
 
+    // 2. Historial de sesiones de estudio
     await db`
       CREATE TABLE IF NOT EXISTS user_sessions (
         id            TEXT    PRIMARY KEY,
@@ -35,12 +44,38 @@ export async function POST(req: NextRequest) {
         duration_sec  INTEGER NOT NULL DEFAULT 0
       )
     `;
-
     await db`
       CREATE INDEX IF NOT EXISTS idx_user_sessions_user_ts
       ON user_sessions(user_id, ts DESC)
     `;
 
+    // 3. Días de estudio (heatmap y racha)
+    await db`
+      CREATE TABLE IF NOT EXISTS study_dates (
+        user_id    INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+        study_date DATE    NOT NULL,
+        PRIMARY KEY (user_id, study_date)
+      )
+    `;
+
+    // 4. Estado de tarjetas de repetición espaciada (SM-2)
+    await db`
+      CREATE TABLE IF NOT EXISTS card_states (
+        user_id        INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+        card_id        TEXT    NOT NULL,
+        interval_days  REAL    NOT NULL DEFAULT 1,
+        ease_factor    REAL    NOT NULL DEFAULT 2.5,
+        repetitions    INTEGER NOT NULL DEFAULT 0,
+        next_review    DATE    NOT NULL DEFAULT CURRENT_DATE,
+        last_review    DATE,
+        total_reviews  INTEGER NOT NULL DEFAULT 0,
+        total_wrong    INTEGER NOT NULL DEFAULT 0,
+        updated_at     TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+        PRIMARY KEY (user_id, card_id)
+      )
+    `;
+
+    // 5. Progreso de misiones diarias
     await db`
       CREATE TABLE IF NOT EXISTS daily_quests (
         user_id        INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
@@ -53,6 +88,7 @@ export async function POST(req: NextRequest) {
       )
     `;
 
+    // 6. Contador de respuestas diarias (objetivo diario)
     await db`
       CREATE TABLE IF NOT EXISTS daily_answers (
         user_id     INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
@@ -62,6 +98,7 @@ export async function POST(req: NextRequest) {
       )
     `;
 
+    // 7. Escudos de racha
     await db`
       CREATE TABLE IF NOT EXISTS user_shields (
         user_id           INTEGER PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
@@ -70,7 +107,7 @@ export async function POST(req: NextRequest) {
       )
     `;
 
-    return NextResponse.json({ ok: true, message: 'Migración v3.0 completada' });
+    return NextResponse.json({ ok: true, message: 'Migración completada: 7 tablas listas' });
   } catch (err) {
     console.error('[migrate]', err);
     return NextResponse.json({ error: String(err) }, { status: 500 });
