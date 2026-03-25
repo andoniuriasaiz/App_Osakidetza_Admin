@@ -306,6 +306,43 @@ export default function Dashboard() {
           </button>
         </div>
 
+        {/* ── Modos de Estudio ── */}
+        <div className="mb-10">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-1 h-6 bg-violet-500 rounded-full" />
+            <h2 className="text-base font-black text-slate-900 uppercase tracking-tight">Modos de Estudio</h2>
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+            <button onClick={() => router.push('/exam')}
+              className="group bg-white rounded-2xl border-2 border-slate-100 p-4 text-left hover:border-[#282182]/40 hover:shadow-md transition-all">
+              <div className="w-10 h-10 rounded-xl bg-[#e8e7f7] flex items-center justify-center text-xl mb-3 group-hover:scale-110 transition-transform">📝</div>
+              <p className="font-bold text-sm text-gray-900 leading-snug">Simulacro</p>
+              <p className="text-xs text-gray-400 mt-0.5">60 preguntas · 90 min</p>
+            </button>
+
+            <button onClick={() => router.push('/leyes')}
+              className="group bg-white rounded-2xl border-2 border-slate-100 p-4 text-left hover:border-blue-300 hover:shadow-md transition-all">
+              <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center text-xl mb-3 group-hover:scale-110 transition-transform">⚖️</div>
+              <p className="font-bold text-sm text-gray-900 leading-snug">Por Ley</p>
+              <p className="text-xs text-gray-400 mt-0.5">LPAC, EBEP, EAPV…</p>
+            </button>
+
+            <button onClick={() => router.push('/errores')}
+              className="group bg-white rounded-2xl border-2 border-slate-100 p-4 text-left hover:border-red-300 hover:shadow-md transition-all">
+              <div className="w-10 h-10 rounded-xl bg-red-50 flex items-center justify-center text-xl mb-3 group-hover:scale-110 transition-transform">🔥</div>
+              <p className="font-bold text-sm text-gray-900 leading-snug">Mis Errores</p>
+              <p className="text-xs text-gray-400 mt-0.5">Preguntas problemáticas</p>
+            </button>
+
+            <button onClick={() => router.push('/comparar')}
+              className="group bg-white rounded-2xl border-2 border-slate-100 p-4 text-left hover:border-indigo-300 hover:shadow-md transition-all">
+              <div className="w-10 h-10 rounded-xl bg-indigo-50 flex items-center justify-center text-xl mb-3 group-hover:scale-110 transition-transform">⚡</div>
+              <p className="font-bold text-sm text-gray-900 leading-snug">AUX vs ADM</p>
+              <p className="text-xs text-gray-400 mt-0.5">Comparativa de nivel</p>
+            </button>
+          </div>
+        </div>
+
         {/* ── Módulos del track ── */}
         <div className="space-y-14">
           {/* Temario Común */}
