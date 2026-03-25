@@ -222,7 +222,7 @@ export default function AdminPage() {
             <div>
               <span className="font-bold text-gray-900 text-sm">Admin</span>
               <span className="text-gray-300 mx-2">·</span>
-              <span className="text-xs text-gray-500">Chatelac Quiz</span>
+              <span className="text-xs text-gray-500">Osakidetza OPE Admin</span>
             </div>
           </div>
           <button onClick={async () => { await logout(); router.push('/login'); }}

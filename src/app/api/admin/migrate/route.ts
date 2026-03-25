@@ -13,6 +13,11 @@ export async function POST(req: NextRequest) {
   }
 
   try {
+    // 1. Crear el schema si no existe
+    await db`CREATE SCHEMA IF NOT EXISTS osakidetza`;
+    // 2. Cambiar el search_path para esta sesión de migración
+    await db`SET search_path TO osakidetza`;
+
     await db`
       CREATE TABLE IF NOT EXISTS user_sessions (
         id            TEXT    PRIMARY KEY,
