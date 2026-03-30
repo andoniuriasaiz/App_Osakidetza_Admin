@@ -29,8 +29,13 @@ function getActiveTrackId(): string {
   return localStorage.getItem('osakidetza_active_track') || 'aux';
 }
 
-export async function loadQuestions(moduleId: string): Promise<Question[]> {
-  if (questionCache[moduleId]) return questionCache[moduleId];
+export async function loadQuestions(moduleId: string | string[]): Promise<Question[]> {
+  if (Array.isArray(moduleId)) {
+    const all = await Promise.all(moduleId.map(id => loadQuestions(id)));
+    return shuffleArray(all.flat());
+  }
+
+  if (questionCache[moduleId]) return questionCache[moduleId] as Question[];
 
   // Virtual "mezcla" module — loads all modules of the active OPE track and shuffles
   if (moduleId === 'mezcla') {
@@ -58,6 +63,11 @@ export async function loadQuestions(moduleId: string): Promise<Question[]> {
     console.warn('No questions for', moduleId, e);
     return [];
   }
+}
+
+export async function loadQuestionsByIds(ids: string[]): Promise<Question[]> {
+  const allQs = await loadQuestions('mezcla'); // Carga todos los módulos pertinentes al OPE activo
+  return allQs.filter(q => ids.includes(q.id));
 }
 
 export function shuffleArray<T>(arr: T[]): T[] {

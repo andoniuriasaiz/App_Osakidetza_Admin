@@ -46,3 +46,13 @@ CREATE TABLE IF NOT EXISTS user_shields (
   count               INTEGER     NOT NULL DEFAULT 0,
   last_granted_week   TEXT        NOT NULL DEFAULT ''
 );
+
+-- Programas de estudio generados
+CREATE TABLE IF NOT EXISTS study_programs (
+  user_id         INTEGER     PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
+  track_id        TEXT        NOT NULL,
+  start_date      DATE        NOT NULL,
+  exam_date       DATE        NOT NULL,
+  program_data    JSONB       NOT NULL,
+  updated_ts      BIGINT      NOT NULL
+);

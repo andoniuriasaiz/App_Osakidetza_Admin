@@ -35,15 +35,6 @@ export default function ErroresPage() {
   const [showLevelUp, setShowLevelUp] = useState(false);
   const [levelUpLevel, setLevelUpLevel] = useState<ReturnType<typeof getLevel> | null>(null);
 
-  useEffect(() => {
-    const session = getSession();
-    if (!session) { router.push('/login'); return; }
-    const t = localStorage.getItem('osakidetza_active_track') as 'aux' | 'admin' | 'tec';
-    const track = t || 'aux';
-    setActiveTrack(track);
-    buildQueue(track);
-  }, [router]);
-
   async function buildQueue(trackId: string) {
     setPhase('loading');
     const track = OPE_TRACKS.find(t => t.id === trackId) || OPE_TRACKS[0];
@@ -58,7 +49,7 @@ export default function ErroresPage() {
     const errorQs: ErrorQuestion[] = questions
       .filter(q => (wc[q.id] || 0) >= MIN_WRONG)
       .map(q => ({ question: q, wrongCount: wc[q.id] || 0, moduleId: q.module }))
-      .sort((a, b) => b.wrongCount - a.wrongCount); // más falladas primero
+      .sort((a, b) => b.wrongCount - a.wrongCount);
 
     if (errorQs.length === 0) {
       setPhase('empty');
@@ -73,6 +64,17 @@ export default function ErroresPage() {
     setSessionWrong(0);
     setPhase('studying');
   }
+
+  useEffect(() => {
+    const session = getSession();
+    if (!session) { router.push('/login'); return; }
+    const t = localStorage.getItem('osakidetza_active_track') as 'aux' | 'admin' | 'tec';
+    const track = t || 'aux';
+    setActiveTrack(track);
+    buildQueue(track);
+  }, [router]);
+
+
 
   function selectOption(val: number) {
     if (confirmed || phase !== 'studying') return;

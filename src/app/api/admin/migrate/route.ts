@@ -116,7 +116,19 @@ export async function POST(req: NextRequest) {
       )
     `;
 
-    return NextResponse.json({ ok: true, message: 'Migración completada: 8 tablas listas' });
+    // 9. Programas de estudio generados
+    await db`
+      CREATE TABLE IF NOT EXISTS study_programs (
+        user_id         INTEGER PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
+        track_id        TEXT    NOT NULL,
+        start_date      DATE    NOT NULL,
+        exam_date       DATE    NOT NULL,
+        program_data    JSONB   NOT NULL,
+        updated_ts      BIGINT  NOT NULL
+      )
+    `;
+
+    return NextResponse.json({ ok: true, message: 'Migración completada: 9 tablas listas' });
   } catch (err) {
     console.error('[migrate]', err);
     return NextResponse.json({ error: String(err) }, { status: 500 });

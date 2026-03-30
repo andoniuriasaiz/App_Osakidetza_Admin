@@ -28,6 +28,89 @@ interface Pair {
 
 type Phase = 'selector' | 'loading' | 'comparing';
 
+function QuestionCard({
+  q, track, trackLabel, trackBg, trackColor,
+  selected, onSelect, revealed, onReveal,
+}: {
+  q: Question; track: 'aux' | 'adm'; trackLabel: string; trackBg: string; trackColor: string;
+  selected: number | null; onSelect: (v: number) => void; revealed: boolean; onReveal: () => void;
+}) {
+  return (
+    <div className={`rounded-2xl border-2 overflow-hidden ${trackBg}`}>
+      {/* Header */}
+      <div className={`px-4 py-3 border-b ${trackBg}`}>
+        <span className={`text-xs font-black px-2.5 py-1 rounded-full ${trackColor}`}>{trackLabel}</span>
+        <p className="text-xs text-gray-400 mt-1">#{q.questionNum}</p>
+      </div>
+      {/* Question text */}
+      <div className="px-4 py-4 bg-white">
+        <p className="text-sm font-semibold text-gray-900 leading-snug">{q.question}</p>
+      </div>
+      {/* Options */}
+      <div className="bg-white px-4 pb-4 grid grid-cols-1 gap-1.5">
+        {q.options?.map((opt, i) => {
+          const letter = ['A', 'B', 'C', 'D'][i % 4];
+          const isSel  = selected === opt.value;
+          const isOk   = q.correctAnswerNums.includes(opt.value);
+          const showOk = revealed && isOk;
+          const showWrong = revealed && isSel && !isOk;
+
+          let bg = '#f8f9fa'; let border = '#e5e7eb'; let clr = '#374151';
+          if (isSel && !revealed) { bg = '#fff'; border = track === 'aux' ? '#059669' : '#4f46e5'; clr = track === 'aux' ? '#065f46' : '#312e81'; }
+          if (showOk)  { bg = '#f0fdf4'; border = '#22c55e'; clr = '#166534'; }
+          if (showWrong) { bg = '#fef2f2'; border = '#ef4444'; clr = '#991b1b'; }
+
+          return (
+            <button key={opt.value}
+              onClick={() => !revealed && onSelect(opt.value)}
+              disabled={revealed}
+              className="w-full flex items-center gap-2 px-3 py-2.5 rounded-xl text-xs text-left transition-all"
+              style={{ background: bg, border: `2px solid ${border}`, color: clr }}
+            >
+              <span className="w-6 h-6 rounded-lg flex items-center justify-center text-xs font-black flex-shrink-0"
+                style={{
+                  background: showOk ? '#22c55e' : showWrong ? '#ef4444' : (isSel && !revealed) ? (track === 'aux' ? '#059669' : '#4f46e5') : '#e8e7f7',
+                  color: (showOk || showWrong || (isSel && !revealed)) ? 'white' : '#282182',
+                }}>
+                {showOk ? '✓' : showWrong ? '✗' : letter}
+              </span>
+              <span className="flex-1 leading-snug">{opt.text}</span>
+            </button>
+          );
+        })}
+      </div>
+      {/* Reveal button */}
+      {!revealed ? (
+        <div className="bg-white px-4 pb-4">
+          <button onClick={onReveal}
+            disabled={selected === null}
+            className={`w-full py-2.5 rounded-xl font-bold text-xs transition ${
+              selected !== null
+                ? (track === 'aux' ? 'bg-emerald-600 hover:bg-emerald-700' : 'bg-indigo-600 hover:bg-indigo-700') + ' text-white'
+                : 'bg-slate-100 text-slate-400 cursor-not-allowed'
+            }`}>
+            Ver respuesta
+          </button>
+        </div>
+      ) : (
+        <div className={`px-4 pb-4 bg-white`}>
+          <div className={`rounded-xl p-3 text-xs ${
+            (() => {
+              const isCorrect = selected !== null && q.correctAnswerNums.includes(selected);
+              return isCorrect ? 'bg-green-50 border border-green-200 text-green-800' : 'bg-red-50 border border-red-200 text-red-800';
+            })()
+          }`}>
+            {(() => {
+              const isCorrect = selected !== null && q.correctAnswerNums.includes(selected);
+              return isCorrect ? '✓ Correcto' : '✗ Incorrecto — ' + q.correctAnswers?.join(', ');
+            })()}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
 export default function CompararPage() {
   const router = useRouter();
   const [phase, setPhase] = useState<Phase>('selector');
@@ -181,89 +264,6 @@ export default function CompararPage() {
   const pair = pairs[pairIdx];
   if (!pair) return null;
   const pct = Math.round((pairIdx / pairs.length) * 100);
-
-  function QuestionCard({
-    q, track, trackLabel, trackBg, trackColor,
-    selected, onSelect, revealed, onReveal,
-  }: {
-    q: Question; track: 'aux' | 'adm'; trackLabel: string; trackBg: string; trackColor: string;
-    selected: number | null; onSelect: (v: number) => void; revealed: boolean; onReveal: () => void;
-  }) {
-    return (
-      <div className={`rounded-2xl border-2 overflow-hidden ${trackBg}`}>
-        {/* Header */}
-        <div className={`px-4 py-3 border-b ${trackBg}`}>
-          <span className={`text-xs font-black px-2.5 py-1 rounded-full ${trackColor}`}>{trackLabel}</span>
-          <p className="text-xs text-gray-400 mt-1">#{q.questionNum}</p>
-        </div>
-        {/* Question text */}
-        <div className="px-4 py-4 bg-white">
-          <p className="text-sm font-semibold text-gray-900 leading-snug">{q.question}</p>
-        </div>
-        {/* Options */}
-        <div className="bg-white px-4 pb-4 grid grid-cols-1 gap-1.5">
-          {q.options?.map((opt, i) => {
-            const letter = ['A', 'B', 'C', 'D'][i % 4];
-            const isSel  = selected === opt.value;
-            const isOk   = q.correctAnswerNums.includes(opt.value);
-            const showOk = revealed && isOk;
-            const showWrong = revealed && isSel && !isOk;
-
-            let bg = '#f8f9fa'; let border = '#e5e7eb'; let clr = '#374151';
-            if (isSel && !revealed) { bg = '#fff'; border = track === 'aux' ? '#059669' : '#4f46e5'; clr = track === 'aux' ? '#065f46' : '#312e81'; }
-            if (showOk)  { bg = '#f0fdf4'; border = '#22c55e'; clr = '#166534'; }
-            if (showWrong) { bg = '#fef2f2'; border = '#ef4444'; clr = '#991b1b'; }
-
-            return (
-              <button key={opt.value}
-                onClick={() => !revealed && onSelect(opt.value)}
-                disabled={revealed}
-                className="w-full flex items-center gap-2 px-3 py-2.5 rounded-xl text-xs text-left transition-all"
-                style={{ background: bg, border: `2px solid ${border}`, color: clr }}
-              >
-                <span className="w-6 h-6 rounded-lg flex items-center justify-center text-xs font-black flex-shrink-0"
-                  style={{
-                    background: showOk ? '#22c55e' : showWrong ? '#ef4444' : (isSel && !revealed) ? (track === 'aux' ? '#059669' : '#4f46e5') : '#e8e7f7',
-                    color: (showOk || showWrong || (isSel && !revealed)) ? 'white' : '#282182',
-                  }}>
-                  {showOk ? '✓' : showWrong ? '✗' : letter}
-                </span>
-                <span className="flex-1 leading-snug">{opt.text}</span>
-              </button>
-            );
-          })}
-        </div>
-        {/* Reveal button */}
-        {!revealed ? (
-          <div className="bg-white px-4 pb-4">
-            <button onClick={onReveal}
-              disabled={selected === null}
-              className={`w-full py-2.5 rounded-xl font-bold text-xs transition ${
-                selected !== null
-                  ? (track === 'aux' ? 'bg-emerald-600 hover:bg-emerald-700' : 'bg-indigo-600 hover:bg-indigo-700') + ' text-white'
-                  : 'bg-slate-100 text-slate-400 cursor-not-allowed'
-              }`}>
-              Ver respuesta
-            </button>
-          </div>
-        ) : (
-          <div className={`px-4 pb-4 bg-white`}>
-            <div className={`rounded-xl p-3 text-xs ${
-              (() => {
-                const isCorrect = selected !== null && q.correctAnswerNums.includes(selected);
-                return isCorrect ? 'bg-green-50 border border-green-200 text-green-800' : 'bg-red-50 border border-red-200 text-red-800';
-              })()
-            }`}>
-              {(() => {
-                const isCorrect = selected !== null && q.correctAnswerNums.includes(selected);
-                return isCorrect ? '✓ Correcto' : '✗ Incorrecto — ' + q.correctAnswers?.join(', ');
-              })()}
-            </div>
-          </div>
-        )}
-      </div>
-    );
-  }
 
   const bothRevealed = revealAux && revealAdm;
 

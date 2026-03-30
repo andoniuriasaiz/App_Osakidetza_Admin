@@ -5,9 +5,10 @@ import { useRouter } from 'next/navigation';
 import { getSession } from '@/lib/auth';
 import { MODULES } from '@/lib/modules';
 import { OPE_TRACKS, daysUntilExam } from '@/lib/tracks';
-import { loadQuestions, Question, shuffleArray, getModuleBaseUrl } from '@/lib/questions';
-import { recordAnswer } from '@/lib/progress';
-import { addLocalXP, getLocalXP, persistXP, XP_EXAM_CORRECT, XP_EXAM_WRONG, getLevel, incrementTodayAnswerCount } from '@/lib/xp';
+import { loadQuestions, loadQuestionsByIds, Question, shuffleArray, getModuleBaseUrl } from '@/lib/questions';
+import { getCardState } from '@/lib/progress'; // Only pure data access/processing
+import { updateCard } from '@/lib/spaced-repetition';
+import { XP_EXAM_CORRECT, XP_EXAM_WRONG, getLevel } from '@/lib/xp';
 import { playCorrect, playWrong, playSessionDone } from '@/lib/sound';
 import { notifyAnswered } from '@/lib/quests';
 import BottomNav from '@/components/BottomNav';
@@ -19,7 +20,7 @@ import { IconShare } from '@/components/AppIcons';
 type ExamPhase = 'config' | 'taking' | 'review';
 
 interface ExamConfig {
-  moduleId: string;
+  moduleIds: string[];
   questionCount: number;
   timeLimitMin: number | null; // null = sin límite
 }
@@ -45,10 +46,11 @@ export default function ExamPage() {
 
   const [phase, setPhase] = useState<ExamPhase>('config');
   const [config, setConfig] = useState<ExamConfig>({
-    moduleId: 'mezcla',
+    moduleIds: ['mezcla'],
     questionCount: 30,
     timeLimitMin: null,
   });
+  const [customSelection, setCustomSelection] = useState(false);
 
   // Taking phase
   const [questions, setQuestions]   = useState<Question[]>([]);
@@ -68,14 +70,16 @@ export default function ExamPage() {
   const [activeTrack, setActiveTrack] = useState<'aux' | 'admin' | 'tec'>('aux');
 
   // ─── Submit exam ─────────────────────────────────────────
-  const submitExam = useCallback(() => {
+  const submitExam = useCallback(async () => {
     const totalSecs = config.timeLimitMin
       ? config.timeLimitMin * 60 - (timeLeft ?? 0)
       : 0;
     setTimeTaken(totalSecs);
 
-    const prevTotalXP = getLocalXP();
     let totalXP = 0;
+    const bulkResults: any[] = [];
+    let correctCount = 0;
+    let wrongCount = 0;
 
     const examResults: ExamAnswer[] = questions.map((q: Question, i: number) => {
       const selected = answers.get(i) ?? [];
@@ -86,34 +90,49 @@ export default function ExamPage() {
         correctSet.size === selectedSet.size &&
         [...correctSet].every(v => selectedSet.has(v));
 
-      // Record to SM-2
-      if (!skipped) recordAnswer(q.id, isCorrect ? 2 : 0);
-
-      // Award XP + quests
       if (!skipped) {
+        // Calculate the new SM-2 card state locally
+        const oldState = getCardState(q.id);
+        const newState = updateCard(oldState, isCorrect ? 2 : 0);
+        
+        bulkResults.push({ cardId: q.id, cardState: newState });
+        
         const xp = isCorrect ? XP_EXAM_CORRECT : XP_EXAM_WRONG;
-        addLocalXP(xp);
         totalXP += xp;
-        const count = incrementTodayAnswerCount();
-        notifyAnswered(count);
+        if (isCorrect) correctCount++; else wrongCount++;
+        
+        notifyAnswered(1);
       }
 
       return { question: q, selected, isCorrect, skipped };
     });
 
-    persistXP(getLocalXP());
     setExamXP(totalXP);
+
+    // Call the PostgreSQL endpoint exclusively (Zero LocalStorage)
+    try {
+      await fetch('/api/progress/bulk', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          results: bulkResults,
+          sessionData: {
+            moduleId: config.moduleIds.join(','),
+            moduleName: config.moduleIds[0] === 'weaks' ? 'Repaso Puntos Débiles' : 'Simulacro OPE',
+            correct: correctCount,
+            wrong: wrongCount,
+            total: questions.length,
+            xp: totalXP,
+            durationSec: totalSecs
+          }
+        })
+      });
+    } catch (e) {
+      console.error('Failed to sync results strictly to DB', e);
+    }
 
     // Sound
     playSessionDone();
-
-    // Level-up detection
-    const newTotalXP = getLocalXP();
-    const prevLvl = getLevel(prevTotalXP);
-    const newLvl = getLevel(newTotalXP);
-    if (newLvl.level > prevLvl.level) {
-      setTimeout(() => { setLevelUpLevel(newLvl); setShowLevelUp(true); }, 1000);
-    }
 
     setResults(examResults);
     setPhase('review');
@@ -138,12 +157,29 @@ export default function ExamPage() {
     return () => clearTimeout(t);
   }, [phase, timeLeft, submitExam]);
 
-  // ─── Start exam ──────────────────────────────────────────
   async function startExam() {
     setLoading(true);
-    const all = await loadQuestions(config.moduleId);
+    let all: Question[] = [];
+
+    if (config.moduleIds.length === 1 && config.moduleIds[0] === 'weaks') {
+      try {
+        const res = await fetch('/api/stats/weaknesses');
+        if (res.ok) {
+          const data = await res.json();
+          const ids = (data.weaknesses || []).map((w: any) => w.card_id);
+          const fullQs = await loadQuestionsByIds(ids);
+          all = fullQs;
+        }
+      } catch (e) {
+        console.error("Failed loading weaknesses", e);
+      }
+    } else {
+      const fetchId = (config.moduleIds.length === 1 && config.moduleIds[0] === 'mezcla') ? 'mezcla' : config.moduleIds;
+      all = await loadQuestions(fetchId);
+    }
+
     // Only test-type questions (C and I) for the exam
-    const testQs = all.filter(q => q.type === 'C' || q.type === 'I');
+    const testQs = all.filter((q: Question) => q.type === 'C' || q.type === 'I');
     const selected = shuffleArray(testQs).slice(0, config.questionCount);
     setQuestions(selected);
     setAnswers(new Map());
@@ -222,7 +258,7 @@ export default function ExamPage() {
                   </div>
                 </div>
                 <button
-                  onClick={() => setConfig({ moduleId: 'mezcla', questionCount: 60, timeLimitMin: 90 })}
+                  onClick={() => setConfig({ moduleIds: ['mezcla'], questionCount: 60, timeLimitMin: 90 })}
                   className="w-full bg-white/15 hover:bg-white/25 border border-white/20 rounded-xl py-2.5 text-sm font-bold transition"
                 >
                   🎯 Formato oficial — 60 preguntas, 90 min
@@ -231,38 +267,117 @@ export default function ExamPage() {
             );
           })()}
 
+          {/* Weaknesses mode */}
+          <button 
+             onClick={() => setConfig({ moduleIds: ['weaks'], questionCount: 30, timeLimitMin: null })}
+             className={`w-full flex items-center justify-between p-4 rounded-xl border-2 transition-all ${
+               config.moduleIds[0] === 'weaks'
+                 ? 'border-rose-600 bg-rose-50'
+                 : 'border-slate-200 bg-white hover:border-rose-300'
+             }`}
+          >
+            <div className="text-left">
+              <p className={`font-bold text-[15px] ${config.moduleIds[0] === 'weaks' ? 'text-rose-700' : 'text-slate-800'}`}>
+                💥 Repaso de Puntos Débiles
+              </p>
+              <p className="text-xs text-slate-500 mt-1">Examen exclusivo con tus preguntas más falladas históricamente según la BD</p>
+            </div>
+          </button>
+
+          <div className="relative">
+            <div className="absolute inset-0 flex items-center" aria-hidden="true">
+              <div className="w-full border-t border-gray-200"></div>
+            </div>
+            <div className="relative flex justify-center">
+              <span className="px-2 bg-slate-50 text-[10px] uppercase font-semibold text-gray-500 tracking-widest">o bien configura a medida</span>
+            </div>
+          </div>
+
           {/* Module selector */}
           <div>
-            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">Módulo de examen</p>
-            <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
-              {(() => {
-                const track = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
-                const allIds = [...track.commonModuleIds, ...track.specificModuleIds];
-                const mods = allIds.slice(0, 5).map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
-                return [
-                  { id: 'mezcla', label: `🎲 Todo el temario (${track.shortName})`, sub: 'Temario completo mezclado' },
-                  ...mods.map((m: any) => ({
-                    id: m.id,
-                    label: m.shortName,
-                    sub: (m.category === 'comun' || m.category === 'tec-comun') ? 'Temario Común' : 'Temario Específico'
-                  }))
-                ].map((m: any) => (
-                  <button key={m.id}
-                    onClick={() => setConfig((c: any) => ({ ...c, moduleId: m.id }))}
-                    className={`p-3 rounded-xl border-2 text-left transition-all ${
-                      config.moduleId === m.id
-                        ? 'border-[#282182] bg-[#e8e7f7]'
-                        : 'border-slate-200 bg-white hover:border-[#9591d0]'
-                    }`}
-                  >
-                    <div className={`font-semibold text-sm ${config.moduleId === m.id ? 'text-[#282182]' : 'text-gray-800'}`}>
-                      {m.label}
-                    </div>
-                    <div className="text-xs text-gray-400 mt-0.5">{m.sub}</div>
-                  </button>
-                ));
-              })()}
+            <div className="flex items-center justify-between mb-3">
+              <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Módulos de examen</p>
+              <button 
+                onClick={() => setCustomSelection(!customSelection)}
+                className="text-[10px] font-bold uppercase tracking-wider bg-slate-200 text-slate-700 px-3 py-1.5 rounded-lg hover:bg-slate-300 transition"
+              >
+                {customSelection ? '← Volver a Presets' : 'Selección Múltiple ⚙️'}
+              </button>
             </div>
+
+            {!customSelection ? (
+              <div className="grid grid-cols-2 gap-2 sm:grid-cols-2">
+                {(() => {
+                  const track = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
+                  
+                  // Generar los presets basados en el track
+                  const presets = [
+                    { id: 'all', label: `Todo el temario (${track.shortName})`, ids: ['mezcla'] },
+                    { id: 'comunes', label: 'COMUNES (General)', ids: track.commonModuleIds },
+                  ];
+
+                  if (track.id === 'aux') {
+                    presets.push({ id: 'especificos', label: 'Específico AUXILIAR', ids: track.specificModuleIds });
+                  } else if (track.id === 'admin') {
+                    presets.push({ id: 'especificos', label: 'Específico ADMINISTRATIVO', ids: track.specificModuleIds });
+                  } else if (track.id === 'tec') {
+                    presets.push({ id: 'especificos', label: 'Específico TÉCNICO', ids: track.specificModuleIds });
+                  }
+
+                  return presets.map(p => {
+                    const isSelected = JSON.stringify(config.moduleIds) === JSON.stringify(p.ids);
+                    return (
+                      <button key={p.id}
+                        onClick={() => setConfig((c: any) => ({ ...c, moduleIds: p.ids }))}
+                        className={`p-3 rounded-xl border-2 text-left transition-all ${
+                          isSelected ? 'border-[#282182] bg-[#e8e7f7]' : 'border-slate-200 bg-white hover:border-[#9591d0]'
+                        }`}
+                      >
+                        <div className={`font-semibold text-[13px] ${isSelected ? 'text-[#282182]' : 'text-gray-800'}`}>
+                          {p.label}
+                        </div>
+                      </button>
+                    );
+                  });
+                })()}
+              </div>
+            ) : (
+              <div className="bg-white border-2 border-slate-200 rounded-xl p-4 max-h-[300px] overflow-y-auto w-full">
+                <p className="text-xs text-gray-400 font-medium mb-3">Selecciona los módulos específicos:</p>
+                <div className="space-y-2">
+                  {(() => {
+                    const track = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
+                    const allIds = [...track.commonModuleIds, ...track.specificModuleIds];
+                    const trackModules = allIds.map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
+
+                    return trackModules.map(m => {
+                      const isSelected = config.moduleIds.includes(m.id);
+                      return (
+                        <label key={m.id} className={`flex items-start gap-3 p-2 rounded-lg cursor-pointer transition-colors ${isSelected ? 'bg-[#f4f4fb]' : 'hover:bg-slate-50'}`}>
+                          <input 
+                            type="checkbox" 
+                            checked={isSelected}
+                            className="mt-1 w-4 h-4 rounded text-[#282182] focus:ring-[#282182] border-gray-300"
+                            onChange={() => {
+                              setConfig(c => {
+                                const ids = new Set(c.moduleIds.filter(id => id !== 'mezcla'));
+                                if (isSelected) ids.delete(m.id);
+                                else ids.add(m.id);
+                                return { ...c, moduleIds: ids.size > 0 ? Array.from(ids) : ['mezcla'] };
+                              });
+                            }}
+                          />
+                          <div className="flex-1">
+                            <div className="text-sm font-semibold text-gray-800 leading-tight">{m.shortName}</div>
+                            <div className="text-[10px] text-gray-500 mt-0.5">{m.name}</div>
+                          </div>
+                        </label>
+                      );
+                    });
+                  })()}
+                </div>
+              </div>
+            )}
           </div>
 
           {/* Question count */}
@@ -338,7 +453,7 @@ export default function ExamPage() {
     const q = questions[currentIdx];
     const selected = answers.get(currentIdx) ?? [];
     const answered = selected.length > 0;
-    const baseUrl = getModuleBaseUrl(q?.module ?? config.moduleId);
+    const baseUrl = getModuleBaseUrl(q?.module ?? ((config.moduleIds[0] === 'mezcla' || config.moduleIds[0] === 'weaks') ? 'aux' : config.moduleIds[0]));
     const rawImg = q?.imageUrl || (q?.image ? `${baseUrl}${q.image}` : null);
     const imgSrc = rawImg && !rawImg.includes('noimage') ? rawImg : null;
 

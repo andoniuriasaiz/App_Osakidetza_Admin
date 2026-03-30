@@ -81,7 +81,7 @@ const items = [
   { href: '/dashboard', label: 'Inicio',  Icon: HomeIcon },
   { href: '/exam',      label: 'Examen',  Icon: ExamIcon },
   { href: '/stats',     label: 'Stats',   Icon: StatsIcon },
-  { href: '/plan',      label: 'Plan',    Icon: PlanIcon },
+  { href: '/programa',  label: 'Programa', Icon: PlanIcon },
 ] as const;
 
 export default function BottomNav() {

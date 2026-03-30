@@ -7,12 +7,13 @@ import { MODULES } from '@/lib/modules';
 import { OPE_TRACKS, OpeTrack, daysUntilExam } from '@/lib/tracks';
 import { loadQuestions } from '@/lib/questions';
 import { getModuleStats, getStreak, syncFromDB } from '@/lib/progress';
-import { getLocalXP, getDailyGoal, setDailyGoal as saveDailyGoal, getTodayAnswerCount, syncXPFromDB, syncDailyProgressFromDB } from '@/lib/xp';
+import { getLocalXP, getDailyGoal, getTodayAnswerCount, syncXPFromDB, syncDailyProgressFromDB } from '@/lib/xp';
 import { syncQuestsFromDB } from '@/lib/quests';
 import { syncBookmarksFromDB } from '@/lib/bookmarks';
 import { syncSessionsFromDB } from '@/lib/session-history';
 import { syncShieldsFromDB } from '@/lib/streak-shield';
-import { getTheme, initTheme, Theme } from '@/lib/theme';
+import { initTheme } from '@/lib/theme';
+import { fetchStudyProgram, StudyProgram, StudyDay } from '@/lib/study-program';
 import BottomNav from '@/components/BottomNav';
 import XPBar from '@/components/XPBar';
 import { ModuleIcon, IconBarChart, IconFlame, IconShuffle } from '@/components/AppIcons';
@@ -33,12 +34,6 @@ type TrackId = 'aux' | 'admin' | 'tec';
 
 const TRACK_STORAGE_KEY = 'osakidetza_active_track';
 
-/** Colores de la barra de countdown según días restantes */
-function countdownColor(days: number): string {
-  if (days > 60) return 'text-emerald-600';
-  if (days > 30) return 'text-amber-500';
-  return 'text-red-600';
-}
 
 export default function Dashboard() {
   const router = useRouter();
@@ -49,9 +44,12 @@ export default function Dashboard() {
   const [xp, setXp] = useState(0);
   const [dailyGoal, setDailyGoal] = useState(20);
   const [todayCount, setTodayCount] = useState(0);
-  const [theme, setThemeState] = useState<Theme>('light');
   const [activeTrack, setActiveTrack] = useState<TrackId>('aux');
-  const [daysLeft, setDaysLeft] = useState(0);
+  
+  // Study Program
+  const [studyProgram, setStudyProgram] = useState<StudyProgram | null>(null);
+  const [todayAgenda, setTodayAgenda] = useState<StudyDay | null>(null);
+  const [weaknessesCount, setWeaknessesCount] = useState<number>(0);
 
   // Load stats for all modules of the active track
   const loadStats = useCallback(async (track: OpeTrack) => {
@@ -85,17 +83,20 @@ export default function Dashboard() {
   useEffect(() => {
     const session = getSession();
     if (!session) { router.push('/login'); return; }
-    setUsername(session.username);
-    initTheme();
-    setThemeState(getTheme());
-    setXp(getLocalXP());
-    setDailyGoal(getDailyGoal());
-    setTodayCount(getTodayAnswerCount());
-    // Restore saved track
-    const savedTrack = (localStorage.getItem(TRACK_STORAGE_KEY) as TrackId) || 'aux';
-    setActiveTrack(savedTrack);
-    const track = OPE_TRACKS.find(t => t.id === savedTrack) || OPE_TRACKS[0];
-    setDaysLeft(daysUntilExam(track.examDate));
+
+    Promise.resolve().then(() => {
+      setUsername(session.username);
+      initTheme();
+      setXp(getLocalXP());
+      setDailyGoal(getDailyGoal());
+      setTodayCount(getTodayAnswerCount());
+      // Restore saved track
+      const savedTrack = (localStorage.getItem(TRACK_STORAGE_KEY) as TrackId) || 'aux';
+      setActiveTrack(savedTrack);
+    });
+
+    const currentTrack = (localStorage.getItem(TRACK_STORAGE_KEY) as TrackId) || 'aux';
+    const track = OPE_TRACKS.find(t => t.id === currentTrack) || OPE_TRACKS[0];
 
     syncFromDB().then(() => {
       setStreak(getStreak());
@@ -110,22 +111,35 @@ export default function Dashboard() {
     syncSessionsFromDB();
     syncShieldsFromDB();
     syncDailyProgressFromDB().then(() => setTodayCount(getTodayAnswerCount()));
+
+    fetchStudyProgram().then(p => {
+      setStudyProgram(p);
+      if (p) {
+        const todayStr = new Date().toISOString().split('T')[0];
+        const day = p.days.find(d => d.date === todayStr);
+        setTodayAgenda(day || null);
+      }
+    });
+
+    fetch('/api/stats/weaknesses')
+      .then(res => res.json())
+      .then(data => {
+        if (data.weaknesses) setWeaknessesCount(data.weaknesses.length);
+      })
+      .catch(() => {});
   }, [router, loadStats]);
 
-  // Update countdown when track changes
-  useEffect(() => {
-    const track = OPE_TRACKS.find(t => t.id === activeTrack);
-    if (track) setDaysLeft(daysUntilExam(track.examDate));
-  }, [activeTrack]);
+
 
   async function handleLogout() {
     await logout();
     router.push('/login');
   }
 
-  const currentTrack = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
-  const commonModules  = currentTrack.commonModuleIds.map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
-  const specificModules = currentTrack.specificModuleIds.map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
+  const currentTrackConfig = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
+  const daysLeft = daysUntilExam(currentTrackConfig.examDate);
+  const commonModules  = currentTrackConfig.commonModuleIds.map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
+  const specificModules = currentTrackConfig.specificModuleIds.map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
   const allTrackModules = [...commonModules, ...specificModules];
 
   // Summary stats
@@ -192,7 +206,7 @@ export default function Dashboard() {
             </div>
             <div>
               <h1 className="font-bold text-gray-900 text-base leading-none mb-0.5">Osakidetza OPE</h1>
-              <p className="text-[10px] font-bold text-[#7070a0] uppercase tracking-wider">{currentTrack.shortName} · Examen 21 jun. 2026</p>
+              <p className="text-[10px] font-bold text-[#7070a0] uppercase tracking-wider">{currentTrackConfig.shortName} · Examen 21 jun. 2026</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
@@ -253,6 +267,82 @@ export default function Dashboard() {
           <div className="absolute -right-5 -top-5 w-20 h-20 bg-white/5 rounded-full" />
         </div>
 
+        {/* ── Alarma de Puntos Débiles (Backend Integrado) ── */}
+        {weaknessesCount > 0 && (
+          <div className="mb-6 bg-rose-50 border-2 border-rose-200 p-4 rounded-2xl shadow-sm relative overflow-hidden flex items-center gap-4">
+            <div className="bg-rose-100 text-rose-600 text-3xl w-14 h-14 rounded-full flex items-center justify-center shrink-0">
+              🔥
+            </div>
+            <div className="flex-1">
+              <h3 className="font-bold text-base text-rose-900 leading-tight">Tienes {weaknessesCount} puntos débiles</h3>
+              <p className="text-xs font-medium text-rose-700 mt-0.5">La BD ha detectado fallos recurrentes.</p>
+            </div>
+            <button 
+              onClick={() => router.push('/exam')}
+              className="bg-rose-600 hover:bg-rose-700 text-white px-4 py-2.5 rounded-xl font-bold text-xs shadow-sm transition shrink-0"
+            >
+              Solventar →
+            </button>
+          </div>
+        )}
+
+        {/* ── Tarjeta Hoy (Programa de Estudio) ── */}
+        {todayAgenda && (
+          <div className={`mb-8 bg-white border-2 p-5 rounded-2xl shadow-sm transition-all relative overflow-hidden ${
+            todayAgenda.completed ? 'border-emerald-200 bg-emerald-50/30' : 'border-[#282182] ring-2 ring-[#282182] ring-offset-2'
+          }`}>
+            <div className="absolute top-0 right-0 p-3 opacity-10 blur-[1px]">
+              <span className="text-6xl">{todayAgenda.type === 'new' ? '📖' : todayAgenda.type === 'simulacro' ? '🎯' : todayAgenda.type === 'rest' ? '😴' : '🔄'}</span>
+            </div>
+            <div className="relative z-10 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+              <div>
+                <div className="flex items-center gap-2 mb-2.5">
+                  <span className={`text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-sm ${
+                    todayAgenda.type === 'new' ? 'bg-blue-100 text-blue-800' :
+                    todayAgenda.type === 'review' ? 'bg-emerald-100 text-emerald-800' :
+                    todayAgenda.type === 'simulacro' ? 'bg-amber-100 text-amber-800' :
+                    'bg-slate-100 text-slate-600'
+                  }`}>
+                    {todayAgenda.type === 'new' ? 'TEMAS NUEVOS' : todayAgenda.type === 'simulacro' ? 'SIMULACRO' : todayAgenda.type === 'rest' ? 'DESCANSO' : 'REPASO'}
+                  </span>
+                  {todayAgenda.completed && (
+                    <span className="text-[10px] font-black uppercase tracking-wider text-emerald-600 bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded-full">
+                      COMPLETADO ✓
+                    </span>
+                  )}
+                </div>
+                <h3 className="font-bold text-lg text-slate-900 leading-tight mb-1">
+                  Tu plan para hoy
+                </h3>
+                <p className="text-sm font-medium text-slate-500 max-w-sm mb-3">
+                  {todayAgenda.description}
+                </p>
+                {todayAgenda.assignedModules && todayAgenda.assignedModules.length > 0 && (
+                  <div className="flex flex-wrap gap-1.5 mt-1">
+                    {todayAgenda.assignedModules.map(modId => {
+                      const m = MODULES.find(x => x.id === modId);
+                      return m ? (
+                        <span key={modId} className={`text-xs font-bold px-2 py-1 rounded ${m.bgColor} ${m.color} border ${m.borderColor}`}>
+                          {m.shortName}
+                        </span>
+                      ) : null;
+                    })}
+                  </div>
+                )}
+              </div>
+              
+              {!todayAgenda.completed && todayAgenda.type !== 'rest' && (
+                <button 
+                  onClick={() => router.push(todayAgenda.type === 'simulacro' ? '/exam' : '/programa')}
+                  className="bg-[#282182] hover:bg-[#1e1965] text-white px-6 py-3.5 rounded-xl font-bold text-sm shadow-md transition shrink-0"
+                >
+                  Empezar ahora →
+                </button>
+              )}
+            </div>
+          </div>
+        )}
+
         {/* ── OPE Track Selector ── */}
         <div className="flex bg-slate-200/50 p-1 rounded-xl mb-8 shadow-inner w-fit mx-auto sm:mx-0 gap-0.5">
           {OPE_TRACKS.map(track => (
@@ -284,7 +374,7 @@ export default function Dashboard() {
                   </div>
                   <div>
                     <h3 className="font-bold text-xl text-slate-900">Entrenamiento Mixto</h3>
-                    <p className="text-slate-500 text-sm font-medium">{currentTrack.name} — todo el temario intercalado</p>
+                    <p className="text-slate-500 text-sm font-medium">{currentTrackConfig.name} — todo el temario intercalado</p>
                   </div>
                 </div>
                 <div className="flex gap-3">
@@ -386,11 +476,11 @@ export default function Dashboard() {
                   Temario Específico
                 </h2>
                 <p className="text-xs text-slate-400 font-medium">
-                  {currentTrack.name}
+                  {currentTrackConfig.name}
                 </p>
               </div>
               <span
-                className={`ml-auto text-xs font-bold px-3 py-1 rounded-full ${currentTrack.badgeColor}`}
+                className={`ml-auto text-xs font-bold px-3 py-1 rounded-full ${currentTrackConfig.badgeColor}`}
               >
                 {specificModules.length} temas
               </span>

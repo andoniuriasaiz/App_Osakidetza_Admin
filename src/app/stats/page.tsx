@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import { getSession } from '@/lib/auth';
 import { MODULES } from '@/lib/modules';
@@ -197,7 +197,8 @@ function AccuracySparkline({ sessions }: { sessions: SessionEntry[] }) {
 function ForecastChart({ allQuestionIds }: { allQuestionIds: string[] }) {
   const progress = getAllProgress();
   const DAY = 86_400_000;
-  const now = Date.now();
+  
+  const now = useMemo(() => Date.now(), []);
 
   // Count questions due per day for the next 7 days
   const counts = Array(7).fill(0);
