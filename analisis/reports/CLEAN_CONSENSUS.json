@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-03-31T22:43:04",
+  "_generated": "2026-03-31T23:03:27",
   "_categories": [
     "C2",
     "A2",
@@ -312,7 +312,7 @@
       "originalId": 31,
       "text": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la prestación de atención primaria no comprenderá:",
       "app": "D",
-      "k": "D",
+      "k": "?",
       "o": "D",
       "consensus": "D",
       "status": "PERFECT"
@@ -342,9 +342,9 @@
       "originalId": 34,
       "text": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, los servicios de referencia:",
       "app": "B",
-      "k": "B",
+      "k": "D",
       "o": "A",
-      "consensus": "B",
+      "consensus": "D",
       "status": "TRIPLE_DISPUTE"
     },
     {
@@ -522,7 +522,7 @@
       "originalId": 52,
       "text": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, establece que:",
       "app": "C",
-      "k": "C",
+      "k": "?",
       "o": "C",
       "consensus": "C",
       "status": "PERFECT"
@@ -3074,7 +3074,7 @@
       "originalId": 8,
       "text": "Según dispone la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, cuando una actuación sanitaria se realice por un equipo de profesionales (señálese la respuesta incorrecta):",
       "app": "A",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
       "status": "PERFECT"
@@ -3094,7 +3094,7 @@
       "originalId": 10,
       "text": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, los centros sanitarios acreditados para desarrollar programas de formación continuada:",
       "app": "B",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
       "status": "PERFECT"
@@ -3174,10 +3174,10 @@
       "originalId": 8,
       "text": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del SNS, la exclusión de una técnica o procedimiento de la cartera de servicios se llevará a cabo cuando:",
       "app": "B",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t02_9",
@@ -3194,7 +3194,7 @@
       "originalId": 10,
       "text": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del SNS, la declaración de actuaciones coordinadas en salud pública y seguridad alimentaria deberán encuadrarse en alguno de los supuestos siguientes:",
       "app": "B",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
       "status": "PERFECT"
@@ -3274,7 +3274,7 @@
       "originalId": 8,
       "text": "De acuerdo con la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, señale la respuesta correcta respecto a las retribuciones del personal estatutario:",
       "app": "A",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
       "status": "PERFECT"
@@ -3294,10 +3294,10 @@
       "originalId": 10,
       "text": "En el supuesto del personal estatutario de los servicios de salud:",
       "app": "D",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t03_11",
@@ -3424,7 +3424,7 @@
       "originalId": 8,
       "text": "El consejo de administración de Osakidetza-Servicio Vasco de Salud está integrado por:",
       "app": "A",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
       "status": "PERFECT"
@@ -3444,10 +3444,10 @@
       "originalId": 10,
       "text": "A los efectos de la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las plantillas de personal del ente público Osakidetza-Servicio Vasco de Salud:",
       "app": "C",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t04_11",
@@ -3724,10 +3724,10 @@
       "originalId": 8,
       "text": "De acuerdo con el Decreto 100/2018 de las OSI de Osakidetza, ¿qué órganos componen el equipo directivo de una OSI, según la estructura general del artículo 5.2?",
       "app": "B",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t05_9",
@@ -3744,7 +3744,7 @@
       "originalId": 10,
       "text": "De acuerdo con el Decreto 100/2018 de las OSI de Osakidetza, ¿cuál de los siguientes NO es un órgano de dirección encargado del gobierno y gestión de las OSI de Tipo I y II?",
       "app": "B",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
       "status": "PERFECT"
@@ -3874,7 +3874,7 @@
       "originalId": 8,
       "text": "Según el Decreto 147/2015, de 21 de julio, las reclamaciones contra actuaciones del personal:",
       "app": "A",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
       "status": "PERFECT"
@@ -3954,10 +3954,10 @@
       "originalId": 8,
       "text": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, en caso de que la persona paciente no acepte el alta:",
       "app": "C",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t09_1",
@@ -4034,10 +4034,10 @@
       "originalId": 8,
       "text": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, en el documento de voluntades anticipadas se tendrán por no puestas:",
       "app": "D",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t10_1",
@@ -4114,10 +4114,10 @@
       "originalId": 8,
       "text": "Respecto a los sistemas de información de denuncias internas que contempla la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, es correcta la siguiente afirmación:",
       "app": "B",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t11_1",
@@ -4194,10 +4194,10 @@
       "originalId": 8,
       "text": "De acuerdo con lo establecido en el artículo 54.3 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿qué formas de violencia se incorporan como casos constitutivos de violencia machista?",
       "app": "B",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t12_1",
@@ -4274,10 +4274,10 @@
       "originalId": 8,
       "text": "¿Qué enfoque de investigación prioriza el Plan de Salud Euskadi 2030 para asegurar que los avances científicos lleguen de forma efectiva a la práctica clínica y la salud de la población?",
       "app": "B",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t12_9",
@@ -4294,7 +4294,7 @@
       "originalId": 10,
       "text": "En la lucha contra las desigualdades, ¿qué tipo de soluciones habitacionales promueve el Plan de Salud Euskadi 2030 para las diferentes etapas de la vida?",
       "app": "B",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
       "status": "PERFECT"
@@ -4424,10 +4424,10 @@
       "originalId": 8,
       "text": "El principio de Innovacion en el Pacto Vasco de Salud se aplica a:",
       "app": "B",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t13_9",
@@ -4444,10 +4444,10 @@
       "originalId": 10,
       "text": "En que grandes ambitos se estructuran las Lineas Estrategicas del Pacto Vasco de Salud?",
       "app": "C",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t13_11",
@@ -4574,10 +4574,10 @@
       "originalId": 8,
       "text": "Que documento se menciona en la Estrategia de Seguridad del Paciente 20-30 como el que determino que las personas atendidas por un sistema medicalizado (tipo 061/112) presentan un mayor porcentaje de incidentes de seguridad en el entorno de Emergencias?",
       "app": "C",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t14_9",
@@ -4594,10 +4594,10 @@
       "originalId": 10,
       "text": "Cual de las siguientes Lineas de Accion de la Estrategia de Seguridad del Paciente 20-30 NO esta relacionada con el sistema de utilizacion del medicamento?",
       "app": "C",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t15_1",
@@ -4674,7 +4674,7 @@
       "originalId": 8,
       "text": "En relacion con la violencia machista contra las mujeres, el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) establece como linea de actuacion prioritaria:",
       "app": "A",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
       "status": "PERFECT"
@@ -4694,10 +4694,10 @@
       "originalId": 10,
       "text": "De acuerdo con el III Plan de Normalizacion del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta correcta:",
       "app": "C",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t15_11",
@@ -4914,10 +4914,10 @@
       "originalId": 8,
       "text": "Segun la LO 3/2021, de regulacion de la eutanasia, cual es el plazo que tiene la persona facultativa responsable para comunicar la resolucion favorable a la Comision de Garantia y Evaluacion para su posterior verificacion?",
       "app": "B",
-      "k": "A",
+      "k": "?",
       "o": "A",
       "consensus": "A",
-      "status": "RED_FLAG"
+      "status": "TRIPLE_DISPUTE"
     },
     {
       "id": "tec-comun-t16_9",
@@ -4934,7 +4934,7 @@
       "originalId": 10,
       "text": "Con caracter general, el personal comprendido en la Ley 53/1984, de Incompatibilidades, podra desempeñar:",
       "app": "B",
-      "k": "B",
+      "k": "?",
       "o": "B",
       "consensus": "B",
       "status": "PERFECT"
@@ -5546,9 +5546,9 @@
       "originalId": 89,
       "text": "Para que un documento electrónico administrativo sea considerado válido:",
       "app": "A",
-      "k": "A",
+      "k": "?",
       "o": "C",
-      "consensus": "A",
+      "consensus": "C",
       "status": "TRIPLE_DISPUTE"
     },
     {
@@ -5926,9 +5926,9 @@
       "originalId": 122,
       "text": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, son requisitos para la creación de cualquier órgano administrativo exigirá:",
       "app": "C",
-      "k": "A",
+      "k": "?",
       "o": "D",
-      "consensus": "A",
+      "consensus": "D",
       "status": "TRIPLE_DISPUTE"
     },
     {
@@ -6246,9 +6246,9 @@
       "originalId": 155,
       "text": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la presente Ley tiene por objeto:",
       "app": "B",
-      "k": "B",
+      "k": "?",
       "o": "C",
-      "consensus": "B",
+      "consensus": "C",
       "status": "TRIPLE_DISPUTE"
     },
     {
@@ -6306,9 +6306,9 @@
       "originalId": 161,
       "text": "Según el artículo 2 de la Ley 31/1995, de Prevención de Riesgos Laborales, la presente Ley será de aplicación:",
       "app": "C",
-      "k": "C",
+      "k": "?",
       "o": "D",
-      "consensus": "C",
+      "consensus": "D",
       "status": "TRIPLE_DISPUTE"
     },
     {
@@ -6676,9 +6676,9 @@
       "originalId": 135,
       "text": "Según el Decreto 149/2007, la solicitud de segunda opinión médica deberá presentarse:",
       "app": "C",
-      "k": "B",
+      "k": "?",
       "o": "A",
-      "consensus": "B",
+      "consensus": "A",
       "status": "TRIPLE_DISPUTE"
     },
     {

@@ -31,3 +31,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+analisis/pipeline/__pycache__/
+
+# pipeline artifacts
+analisis/reports/dashboard_20*.html
+analisis/reports/fix_log_20*.json
+backup/

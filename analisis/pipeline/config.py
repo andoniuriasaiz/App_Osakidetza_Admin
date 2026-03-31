@@ -15,9 +15,15 @@ REPORTS_DIR   = ANALISIS_DIR / "reports"            # outputs generados
 BACKUP_DIR    = ROOT / "backup"
 
 # ── URLs de scraping ─────────────────────────────────────────────────────────
-# Kaixo: URL de la práctica interactiva
+# Kaixo: página resumen con TODAS las respuestas en tabla (aukera2=eran)
+# Una sola petición por categoría — mucho más eficiente que per-pregunta.
+KAIXO_ERAN_BASE = "https://www.kaixo.com/opeosaki/index.php?aukera={category}&aukera2=eran&hizk=1"
+# Kaixo: URL de la práctica interactiva (conservada para referencia)
 KAIXO_BASE   = "https://www.kaixo.com/opeosaki/index.php?aukera={category}&hizk=1&num={num}"
-# Osasuntest: página estática con respuesta visible en HTML
+# Osasuntest: página de categoría con tabla de todas las respuestas
+# (las preguntas individuales no existen como URLs separadas)
+OSASUN_CAT_BASE = "https://www.osasuntest.es/osakidetza/{category}/"
+# Conservada para referencia histórica (devuelve 404)
 OSASUN_BASE  = "https://www.osasuntest.es/osakidetza/{category}/pregunta-{num}"
 
 # ── Mapa de categorías ───────────────────────────────────────────────────────
@@ -46,9 +52,13 @@ CATEGORIES = {
         "label":          "Común A2 / Técnico",
         "kaixo_cat":      "ope26osakicomun200",
         "kaixo_n":        200,
-        "osasun_cat":     "enfermero",
-        "osasun_n":       700,
-        "osasun_offset":  0,
+        # Osasuntest: el bloque enfermero tiene 700 preguntas en total,
+        # pero solo las primeras 200 son el bloque común A2 (las que nos interesan).
+        # Usamos la tabla MÁS PEQUEÑA de la página (= solo el bloque común).
+        "osasun_cat":       "enfermero",
+        "osasun_n":         200,
+        "osasun_offset":    0,
+        "osasun_min_table": True,  # usar tabla más pequeña (bloque común)
         "raw_kaixo":      "kaixo_common_a2.json",
         "raw_osasun":     "osasun_nurse.json",
         "app_file":       "tec-comun.json",
