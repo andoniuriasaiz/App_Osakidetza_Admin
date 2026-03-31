@@ -23,10 +23,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Álava, Guipúzcoa, Vizcaya y Navarra."
+      "Álava, Guipúzcoa y Vizcaya."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -134,10 +134,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "No garantizan el uso de ambas lenguas."
+      "Garantiza el uso de ambas lenguas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -245,10 +245,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si no hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
+      "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -282,17 +282,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "El Parlamento."
+      "La Constitución."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e01",
-    "explanation": "LO 3/1979 Art. 9: Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los ESTABLECIDOS EN LA CONSTITUCIÓN. No los fija el Ayuntamiento (a), ni el Parlamento Vasco (c), ni el Senado (d). Respuesta C.",
+    "explanation": "LO 3/1979 Art. 9: Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los ESTABLECIDOS EN LA CONSTITUCIÓN. No los fija el Ayuntamiento (a), ni el Parlamento Vasco (c), ni el Senado (d). Respuesta B.",
     "originalId": 8
   },
   {
@@ -356,10 +356,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Aprueba sus presupuestos."
+      "Todas las respuestas anteriores son correctas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -393,10 +393,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Un número distinto de representantes, dependiendo de la edad de los habitantes de cada Territorio Histórico, elegidos por sufragio universal, libre, directo y secreto."
+      "Un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, libre, directo y secreto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -467,10 +467,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Dos Presidentes y dos Mesas."
+      "Un Presidente, una Mesa y una Diputación Permanente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -541,10 +541,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "El Estatuto de los Trabajadores."
+      "El Parlamento."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -578,10 +578,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Todas las respuestas anteriores son incorrectas."
+      "Por el Parlamento Vasco y nombrado por el Rey."
     ],
     "multipleCorrect": false,
     "hasImage": false,

@@ -97,10 +97,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Dará lugar a la nulidad del acto de que se trate, sin que exista la posibilidad de que se subsane el defecto."
+      "No impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo establecido."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -208,10 +208,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "No se requiere firma."
+      "La firma es obligatoria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -430,10 +430,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Todos los días hábiles durante ocho horas."
+      "Todos los días del año durante las veinticuatro horas."
     ],
     "multipleCorrect": false,
     "hasImage": false,

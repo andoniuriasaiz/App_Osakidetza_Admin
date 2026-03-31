@@ -1,0 +1,1058 @@
+{
+  "timestamp": "2026-03-31T22:06:41.943435",
+  "mode": "dry_run",
+  "total_fixes": 150,
+  "total_errors": 3,
+  "changes": [
+    {
+      "id": "adm-d255-osakidetza-especifico_2",
+      "old": "B(2) → ['Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes promoviendo la mejora continua de los niveles de información, siempre que dicha atención no sea personalizada.']",
+      "new": "C(3) → [Proporcionar a las personas que accedan a sus servicios las condiciones necesari...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-d255-osakidetza-especifico_3",
+      "old": "C(3) → ['Promover la formación y actualización de su personal no sanitario.']",
+      "new": "D(4) → [Promover la creación de empresas privadas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-d255-osakidetza-especifico_4",
+      "old": "D(4) → ['a) b) y c) son correctas.']",
+      "new": "A(1) → [Presidente y Consejo de Administración....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "adm-d255-osakidetza-especifico_9",
+      "old": "B(2) → ['Aprobar la propuesta de Presupuestos, Estados Financieros Previsionales y Memoria anual de actividades del Ente Público.']",
+      "new": "D(4) → [a) b) y c) son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-d255-osakidetza-especifico_10",
+      "old": "D(4) → ['Nombrar y separar a los Directores-Gerentes de las organizaciones de servicios sanitarios del Ente Público.']",
+      "new": "B(2) → [En los Consejos de Administración decidir los empates con su voto de calidad....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-d255-osakidetza-especifico_11",
+      "old": "C(3) → ['Suministrar servicios comunes de asesoramiento y apoyo técnico.']",
+      "new": "D(4) → [a) b) y c) son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-d255-osakidetza-especifico_12",
+      "old": "C(3) → ['Supervisar, controlar y evaluar las políticas de personal del Ente.']",
+      "new": "B(2) → [Elaborar el Plan estratégico del Ente Público....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-d255-osakidetza-especifico_13",
+      "old": "B(2) → ['NO es responsabilidad de cada organización de servicios del Ente Público Osakidetza-Servicio vasco de salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios que tengan encomendada, quedando excluidas únicamente aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente.']",
+      "new": "A(1) → [Corresponde a cada organización de servicios del Ente Público Osakidetza-Servici...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-d255-osakidetza-especifico_17",
+      "old": "D(4) → ['a) b) y c) son incorrectas.']",
+      "new": "C(3) → [Tanto el Ente Público Osakidetza-Servicio vasco de salud como cada una de las or...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-ebep-empleado-publico_2",
+      "old": "B(2) → ['La ejecución de programas de carácter temporal, que no podrán tener una duración superior a un año, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.']",
+      "new": "A(1) → [La sustitución transitoria de los titulares, durante el tiempo estrictamente nec...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-lpac-interesados-y-actos_3",
+      "old": "D(4) → ['Dará lugar a la nulidad del acto de que se trate, sin que exista la posibilidad de que se subsane el defecto.']",
+      "new": "A(1) → [No impedirá que se tenga por realizado el acto de que se trate, siempre que se a...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "adm-lpac-interesados-y-actos_6",
+      "old": "C(3) → ['No se requiere firma.']",
+      "new": "A(1) → [La firma es obligatoria....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-lpac-interesados-y-actos_12",
+      "old": "A(1) → ['Todos los días hábiles durante ocho horas.']",
+      "new": "D(4) → [Todos los días del año durante las veinticuatro horas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-lpac-procedimiento_2",
+      "old": "A(1) → ['Embargo definitivo de rentas.']",
+      "new": "B(2) → [Suspensión temporal de actividades....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-lpac-procedimiento_4",
+      "old": "D(4) → ['Imponer a los infractores una sanción no pecuniaria y exigir al denunciante la restitución del daño.']",
+      "new": "C(3) → [Eximir al denunciante del pago de la multa que le correspondería u otro tipo de ...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-lpac-recursos_3",
+      "old": "B(2) → ['Secretarios del Estado.']",
+      "new": "A(1) → [Consejo de Estado....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-lrjsp-sector-publico_2",
+      "old": "C(3) → ['Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica.']",
+      "new": "A(1) → [Acreditar que no existe duplicación de otros órganos administrativos ya existent...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "adm-lrjsp-sector-publico_12",
+      "old": "A(1) → ['Tener enemistad manifiesta con cualquiera de los interesados.']",
+      "new": "D(4) → [a) b) y c) son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-prl-atencion-cliente-osaki_11",
+      "old": "B(2) → ['Hasta un máximo de 45º.']",
+      "new": "A(1) → [Hasta un máximo de 35º....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-prl-atencion-cliente-osaki_17",
+      "old": "B(2) → ['Producir daños exclusivamente materiales.']",
+      "new": "D(4) → [No producir lesiones, pero poder ocasionar daños materiales o ambientales....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-prl-prevencion-riesgos_4",
+      "old": "C(3) → ['Recibir formación en materia preventiva.']",
+      "new": "D(4) → [Todas las respuestas anteriores son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-protocolo-acoso-sexual-osaki_1",
+      "old": "C(3) → ['Anualmente y, una vez transcurridos los primeros cuatro años, cada cuatro años.']",
+      "new": "D(4) → [Anualmente durante los primeros cuatro años y, a partir de ese momento, cada dos...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-protocolo-acoso-sexual-osaki_2",
+      "old": "A(1) → ['Los hechos no alcancen la entidad suficiente para ser calificados como acoso sexual o acoso por razón de sexo, pero puedan resultar inadecuados.']",
+      "new": "C(3) → [Los hechos no revistan la gravedad suficiente para ser considerados acoso sexual...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-protocolo-acoso-sexual-osaki_4",
+      "old": "C(3) → ['Exento de riesgos y, consecuentemente, libre de situaciones de acoso sexual y acoso por razón de sexo, excluyendo el ciberacoso.']",
+      "new": "A(1) → [Exento de riesgos y, en consecuencia, libre de situaciones de acoso sexual y aco...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-puestos-funcionales_8",
+      "old": "D(4) → ['La Plantilla Estructural aprobada por el Consejo de Administración para la Organización, constituida por un 50% de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios que integran el Ente Público Osakidetza-Servicio vasco de salud.']",
+      "new": "A(1) → [La Plantilla Estructural aprobada por el Consejo de Administración para la Organ...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-puestos-funcionales_9",
+      "old": "D(4) → ['Los efectivos incluidos en las Plantillas Funcionales de las distintas Organizaciones de Servicios, podrán ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas Funcionales.']",
+      "new": "B(2) → [El 25% de los efectivos incluidos en las Plantillas Funcionales de las distintas...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-puestos-funcionales_10",
+      "old": "A(1) → ['Los efectivos pertenecientes a las distintas Organizaciones de Servicios podrán ser objeto de traslado entre las mismas mediante Resolución del Director General de Osakidetza-Servicio vasco de Salud.']",
+      "new": "B(2) → [Los efectivos pertenecientes a las distintas Organizaciones de Servicios no pued...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-puestos-funcionales_11",
+      "old": "A(1) → ['Las modificaciones de Plantilla Funcional que no conlleven alteración de la Plantilla Estructural de una Organización de Servicios serán aprobadas por Resolución del Director-Gerente de la misma.']",
+      "new": "B(2) → [Las modificaciones de Plantilla Funcional que no conlleven alteración de la Plan...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-puestos-funcionales_12",
+      "old": "C(3) → ['Las modificaciones de Plantilla Funcional que impliquen variación de la Plantilla Estructural de una Organización de Servicios estarán sujetas a la consideración y aprobación del Consejo de Administración de Osakidetza-Servicio vasco de salud, debiendo ser aprobados por el Consejo de Gobierno si los mismos suponen alteración del número máximo de efectivos por Grupo Profesional establecido para el Ente Público.']",
+      "new": "B(2) → [Las modificaciones de Plantilla Funcional que impliquen variación de la Plantill...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-segunda-opinion-medica_1",
+      "old": "C(3) → ['En los Servicios de Atención al Paciente-Usuario de los centros sanitarios o del Departamento de Sanidad.']",
+      "new": "B(2) → [En cualquier registro oficial de la Administración....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-segunda-opinion-medica_3",
+      "old": "B(2) → ['Podrá optar por continuar la atención en el centro que emitió la segunda opinión.']",
+      "new": "A(1) → [Deberá continuar obligatoriamente la atención en el centro de origen....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-segunda-opinion-medica_8",
+      "old": "C(3) → ['En un plazo máximo de 15 días naturales.']",
+      "new": "B(2) → [En un plazo máximo de 10 días hábiles....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-segunda-opinion-medica_11",
+      "old": "C(3) → ['Los Servicios de Atención al Paciente-Usuario de los centros sanitarios y las Direcciones Médicas del centro de origen.']",
+      "new": "D(4) → [Los Servicios de Atención al Paciente-Usuario de los centros sanitarios y las un...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_1",
+      "old": "C(3) → ['Establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos, así como las consecuencias derivadas de su incumplimiento.']",
+      "new": "D(4) → [a) b) y c) son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_3",
+      "old": "C(3) → ['Las entidades gestoras y los servicios comunes de la Seguridad Social, así como las mutuas de accidente de trabajo y enfermedades profesionales colaboradoras de la Seguridad Social.']",
+      "new": "A(1) → [Las entidades gestoras y los servicios que no sean comunes de la Seguridad Socia...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_4",
+      "old": "C(3) → ['Las entidades de Derecho Público que, con independencia funcional o con una especial autonomía reconocida por la Ley, tengan atribuidas funciones de regulación o supervisión de carácter externo sobre un determinado sector o actividad.']",
+      "new": "A(1) → [Los organismos autónomos y las Agencias Estatales que, con independencia funcion...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_5",
+      "old": "B(2) → ['Las entidades de Derecho Público con personalidad jurídica propia, vinculadas a cualquiera de las Administraciones Públicas o dependientes de ellas, incluidas las Universidades públicas.']",
+      "new": "A(1) → [Las entidades de Derecho Público con personalidad jurídica propia, sin vinculaci...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_6",
+      "old": "D(4) → ['a) b) y c) son correctas.']",
+      "new": "A(1) → [La Casa de su Majestad el Rey....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_7",
+      "old": "D(4) → ['a) b) y c) son incorrectas.']",
+      "new": "A(1) → [Las sociedades mercantiles en cuyo capital social la participación, directa o in...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_9",
+      "old": "A(1) → ['Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros.']",
+      "new": "D(4) → [Las entidades privadas que perciban durante el período de un año ayudas o subven...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_10",
+      "old": "D(4) → ['a) b) y c) son incorrectas.']",
+      "new": "B(2) → [La información sujeta a las obligaciones de transparencia será publicada en las ...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_11",
+      "old": "D(4) → ['Toda la información será comprensible, de acceso fácil y gratuito y estará a disposición de las personas con discapacidad en una modalidad que dificulte la accesibilidad y comprensión.']",
+      "new": "B(2) → [Toda la información será comprensible, de acceso fácil y con un coste mínimo y e...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_12",
+      "old": "D(4) → ['a) b) y c) son correctas.']",
+      "new": "B(2) → [Los sujetos comprendidos en el ámbito de aplicación incluirán un organigrama act...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_13",
+      "old": "D(4) → ['El grado de cumplimiento y resultados de las Administraciones Públicas deberán ser objeto de evaluación y publicación periódica sin adjuntar los indicadores de medida y valoración, en la forma en que se determine por cada Administración competente.']",
+      "new": "B(2) → [El grado de cumplimiento y resultados de las Administraciones Públicas deberán s...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_18",
+      "old": "D(4) → ['Se incentivará el incumplimiento reiterado de las obligaciones de publicidad activa reguladas.']",
+      "new": "B(2) → [El incumplimiento reiterado de las obligaciones de publicidad activa reguladas t...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "adm-transparencia-y-buen-gobierno_19",
+      "old": "D(4) → ['La Administración General del Estado desarrollará un Portal de Transparencia, dependiente del Ministerio de la Presidencia, que facilitará el acceso de los ciudadanos a parte de la información relativa a su ámbito de actuación.']",
+      "new": "B(2) → [La Administración General del Estado desarrollará un Portal de Transparencia, de...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "aux-e01_4",
+      "old": "A(1) → ['Garantiza el uso de ambas lenguas.']",
+      "new": "D(4) → [Garantiza el uso de ambas lenguas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e01_7",
+      "old": "B(2) → ['Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española.']",
+      "new": "D(4) → [Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si ...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "aux-e01_8",
+      "old": "C(3) → ['La Constitución.']",
+      "new": "B(2) → [La Constitución....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e01_10",
+      "old": "B(2) → ['Todas las respuestas anteriores son correctas.']",
+      "new": "D(4) → [Todas las respuestas anteriores son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e01_11",
+      "old": "B(2) → ['Un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, libre, directo y secreto.']",
+      "new": "C(3) → [Un número igual de representantes de cada Territorio Histórico elegidos por sufr...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "aux-e01_13",
+      "old": "C(3) → ['Un Presidente, una Mesa y una Diputación Permanente.']",
+      "new": "A(1) → [Un Presidente, una Mesa y una Diputación Permanente....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e01_15",
+      "old": "B(2) → ['El Parlamento.']",
+      "new": "C(3) → [El Parlamento....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "aux-e01_16",
+      "old": "D(4) → ['Por el Parlamento Vasco y nombrado por el Rey.']",
+      "new": "C(3) → [Por el Parlamento Vasco y nombrado por el Rey....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "aux-e02_1",
+      "old": "B(2) → ['1 día.']",
+      "new": "A(1) → [5 días....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e02_20",
+      "old": "C(3) → ['Solo por medios no electrónicos salvo obligación legal.']",
+      "new": "B(2) → [Por medios electrónicos o no electrónicos, según elijan....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e02_31",
+      "old": "C(3) → ['Se excluirán únicamente los domingos.']",
+      "new": "B(2) → [Se excluirán los sábados, domingos y festivos....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "aux-e02_42",
+      "old": "B(2) → ['Podrán subsanarse por el transcurso del tiempo.']",
+      "new": "C(3) → [No serán susceptibles de convalidación....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e02_45",
+      "old": "B(2) → ['Solo podrá concederse a instancia del interesado.']",
+      "new": "A(1) → [Podrá concederse de oficio o a petición de los interesados si las circunstancias...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e03_3",
+      "old": "B(2) → ['Siempre positivo.']",
+      "new": "C(3) → [Estimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e05_14",
+      "old": "A(1) → ['Transparencia y publicidad.']",
+      "new": "D(4) → [a) b) y c) son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e06_1",
+      "old": "D(4) → ['Procedimiento administrativo electrónico.']",
+      "new": "B(2) → [Actuación administrativa automatizada....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "aux-e06_7",
+      "old": "A(1) → ['El Senado y las Direcciones Generales.']",
+      "new": "B(2) → [Las Cortes Generales y las asambleas legislativas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e06_11",
+      "old": "A(1) → ['Competencia.']",
+      "new": "D(4) → [Mérito....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "aux-e08_2",
+      "old": "A(1) → ['Haber prestado dos años de servicios en Osakidetza en la misma categoría desde la que se solicita el desarrollo profesional.']",
+      "new": "B(2) → [Haber tomado parte en el último proceso de Oferta Pública de Empleo convocado, c...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e08_9",
+      "old": "B(2) → ['Un protocolo de seguridad del paciente y de buenas prácticas.']",
+      "new": "D(4) → [Un protocolo ante situaciones de discriminación por razón de sexo....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e08_16",
+      "old": "D(4) → ['Cinco días naturales. Dos días hábiles más si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante.']",
+      "new": "A(1) → [Dos días hábiles. Dos días hábiles más si los hechos que lo motivan se producen ...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e11_1",
+      "old": "C(3) → ['Para aquellos procesos de enfermedad que conlleven una baja de 3 días, en los términos que se desarrollan en el presente Decreto.']",
+      "new": "B(2) → [Para aquellos procesos de enfermedad que conlleven riesgo para la vida o calidad...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e11_2",
+      "old": "C(3) → ['Los datos de la Seguridad Social.']",
+      "new": "D(4) → [a) y b) son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e11_3",
+      "old": "B(2) → ['Enfermedades neurológicas degenerativas.']",
+      "new": "D(4) → [Todas las respuestas anteriores son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e11_14",
+      "old": "D(4) → ['Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios según la edad.']",
+      "new": "A(1) → [Se emitirá por la Dirección Médica un informe razonado en el que se valore la so...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e12_2",
+      "old": "C(3) → ['Fuerzas Armadas.']",
+      "new": "D(4) → [Todas las respuestas anteriores son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "aux-e12_7",
+      "old": "B(2) → ['Aquellos que, en ausencia de medidas preventivas específicas, no originen riesgos para la seguridad, pero sí para la salud de los trabajadores que los desarrollan o utilizan.']",
+      "new": "A(1) → [Aquellos que, en ausencia de medidas preventivas específicas, originen riesgos p...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "aux-e12_9",
+      "old": "D(4) → ['Todas las respuestas anteriores son incorrectas.']",
+      "new": "A(1) → [La promoción de la mejora de las condiciones de trabajo dirigida a elevar el niv...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "aux-e12_12",
+      "old": "D(4) → ['La integración eficaz de la prevención de riesgos laborales con los pacientes.']",
+      "new": "B(2) → [La integración eficaz de la prevención de riesgos laborales en el sistema de ges...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "aux-e12_17",
+      "old": "A(1) → ['Velará por la coordinación entre las distintas Administraciones públicas.']",
+      "new": "D(4) → [a) b) y c) son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "aux-e12_18",
+      "old": "A(1) → ['No actuará como centro de referencia nacional.']",
+      "new": "B(2) → [Actuará como centro de referencia nacional, garantizando la coordinación y trans...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t01_11",
+      "old": "B(2) → ['Se articulará de forma jerarquizada o colegiada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas.']",
+      "new": "D(4) → [Ninguna de las anteriores es correcta....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t01_13",
+      "old": "C(3) → ['Cada cuatro años.']",
+      "new": "D(4) → [La Ley no lo determina explícitamente....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t02_3",
+      "old": "C(3) → ['A recibir el reembolso de los gastos derivados de la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a.']",
+      "new": "A(1) → [A recibir asistencia sanitaria en su comunidad autónoma de residencia....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t02_4",
+      "old": "A(1) → ['Cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios.']",
+      "new": "B(2) → [Cartera común básica nacional de servicios asistenciales y cartera común autonóm...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t02_19",
+      "old": "D(4) → ['Las respuestas a) y b) son falsas.']",
+      "new": "B(2) → [El registro de acontecimientos adversos, que recogerá información sobre aquellas...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t02_21",
+      "old": "B(2) → ['Ostenta el derecho a la actividad sindical.']",
+      "new": "D(4) → [Todas las respuestas son correctas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t03_5",
+      "old": "D(4) → ['En caso de que se adopte la pena de inhabilitación especial para la correspondiente profesión, siempre que esta exceda de tres años.']",
+      "new": "C(3) → [En caso de que se adopte la pena de inhabilitación especial para la correspondie...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t03_7",
+      "old": "D(4) → ['Todas las anteriores respuestas son correctas.']",
+      "new": "B(2) → [En caso de recaer sanción firme disciplinaria de separación del servicio....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t03_12",
+      "old": "D(4) → ['El período de localización es aquel período de tiempo en el que el personal se encuentra en situación de disponibilidad a los solos efectos de asegurar su posible localización.']",
+      "new": "B(2) → [Se considera período de descanso todo período de tiempo que no sea tiempo de tra...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t03_15",
+      "old": "D(4) → ['El descanso ininterrumpido de 12 horas entre el fin de una jornada y el comienzo de la siguiente solo podrá reducirse en el caso de trabajo a turnos, cuando el personal cambie de equipo y no pueda disfrutar del período de descanso diario entre el final de la jornada de un equipo y el comienzo de la jornada del siguiente.']",
+      "new": "C(3) → [Se podrán establecer jornadas ordinarias de hasta 24 horas con carácter excepcio...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t03_16",
+      "old": "B(2) → ['Al personal estatutario de los servicios de salud le resulta aplicable el mismo régimen de incompatibilidades establecido para el personal funcionario.']",
+      "new": "C(3) → [Atendiendo a lo que establezca la legislación vigente, el personal estatutario d...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t03_17",
+      "old": "C(3) → ['En el caso de que no se hubiera disfrutado del tiempo mínimo de descanso semanal en el período de tres meses se producirá una compensación a través del régimen de descansos alternativos.']",
+      "new": "D(4) → [El período de referencia para el cálculo del período de descanso semanal será de...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t04_5",
+      "old": "C(3) → ['En cada área de salud se garantizará una adecuada ordenación de la atención primaria y su coordinación con la atención especializada.']",
+      "new": "D(4) → [Son correctas la a) y la c)....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t04_9",
+      "old": "C(3) → ['La obligación de dejar constancia por cualquier medio de todo proceso diagnóstico o terapéutico.']",
+      "new": "A(1) → [La obligación de dejar constancia escrita de todo proceso diagnóstico o terapéut...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t04_12",
+      "old": "A(1) → ['Ente público con personalidad jurídica propia y adscrito al Departamento de la Administración General competente en materia de salud.']",
+      "new": "B(2) → [Ente público de derecho privado con personalidad jurídica propia....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t04_15",
+      "old": "D(4) → ['Del Departamento competente en materia de sanidad.']",
+      "new": "A(1) → [Del Gobierno Vasco....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t04_18",
+      "old": "C(3) → ['Sin perjuicio de la multa que proceda imponer, en ciertos casos, la sanción económica que se imponga podrá ser incrementada hasta el triple de la cuantía del beneficio ilícito obtenido.']",
+      "new": "B(2) → [En los casos de infracciones muy graves, el Gobierno Vasco podrá acordar el cier...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t04_20",
+      "old": "A(1) → ['El Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de ente público de derecho privado o público.']",
+      "new": "D(4) → [Las tres anteriores son erróneas...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t04_23",
+      "old": "A(1) → ['Con cinco integrantes en representación de la Administración de la Comunidad Autónoma, que nombrará el Gobierno: una persona a propuesta de la titularidad del Departamento de Hacienda y Administración Pública, otra a propuesta de quien ostente la titularidad de Bienestar Social y las tres restantes a propuesta de la persona titular de Sanidad.']",
+      "new": "C(3) → [Con cinco integrantes en representación de la Administración de la Comunidad Aut...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t04_31",
+      "old": "B(2) → ['Quien ostente la titularidad de la Dirección-Gerencia del Ente.']",
+      "new": "D(4) → [Ninguna de las anteriores....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t04_38",
+      "old": "B(2) → ['200.000 habitantes.']",
+      "new": "D(4) → [100.000 habitantes....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t04_45",
+      "old": "A(1) → ['Dirección de Atención Integrada.']",
+      "new": "B(2) → [Dirección Gerencia....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t04_51",
+      "old": "B(2) → ['La persona titular de la Dirección Médica.']",
+      "new": "A(1) → [La persona titular de la Dirección Gerencia....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t04_55",
+      "old": "A(1) → ['Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; participación en la investigación biomédica; obtención de la Tarjeta Individual Sanitaria.']",
+      "new": "C(3) → [Relaciones asistenciales; participación responsable en la gestión de la propia s...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t05_2",
+      "old": "B(2) → ['La Dirección General del Ente.']",
+      "new": "A(1) → [El Consejo de Administración del Ente....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t08_9",
+      "old": "C(3) → ['Como regla general, cuando la persona paciente sea menor de edad.']",
+      "new": "D(4) → [Como regla general, cuando la persona paciente sea menor de dieciséis años....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t08_12",
+      "old": "A(1) → ['Obliga a preservar los datos de identificación personal de la persona paciente, separados de los de carácter clinicoasistencial, de manera que, como regla general, quede asegurado el anonimato, salvo que quien sea titular de dichos datos haya dado su consentimiento para no separarlos o exista autorización judicial.']",
+      "new": "D(4) → [Obliga a preservar los datos de identificación personal de la persona paciente, ...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t09_6",
+      "old": "C(3) → ['Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante dos testigos.']",
+      "new": "B(2) → [Se formaliza por escrito y mediante uno de los siguientes procedimientos a elecc...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t09_10",
+      "old": "C(3) → ['La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse de manera inequívoca.']",
+      "new": "B(2) → [La persona otorgante conserve su capacidad, su libertad de actuación y la posibi...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t10_3",
+      "old": "A(1) → ['Únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años.']",
+      "new": "C(3) → [Únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t10_9",
+      "old": "C(3) → ['Su denominación oficial es “Agencia Española de Protección de Datos”.']",
+      "new": "A(1) → [Su denominación oficial es “Agencia Española de Protección de Datos, Autoridad A...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t10_10",
+      "old": "B(2) → ['Su nombramiento debe ser ratificado por la Comisión de Justicia del Congreso de los Diputados por mayoría absoluta de sus integrantes en primera votación.']",
+      "new": "C(3) → [Su nombramiento debe ser ratificado por la Comisión de Justicia del Congreso de ...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t12_7",
+      "old": "D(4) → ['Más de 300 personas.']",
+      "new": "C(3) → [Cerca de 200 personas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t12_11",
+      "old": "D(4) → ['Resiliente, preventivo, comunitario e integral.']",
+      "new": "B(2) → [Flexible, sólido, ágil y escalable....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t14_4",
+      "old": "A(1) → ['2008-2012 y 2013-2017.']",
+      "new": "C(3) → [2013-2016 y 2017-2020....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "A"
+    },
+    {
+      "id": "comun-t14_7",
+      "old": "D(4) → ['Gestión de los incidentes de seguridad.']",
+      "new": "C(3) → [Atención a las segundas y terceras víctimas....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t14_15",
+      "old": "B(2) → ['15 líneas de acción.']",
+      "new": "D(4) → [17 líneas de acción....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t15_1",
+      "old": "B(2) → ['75% mujeres y 25% hombres']",
+      "new": "C(3) → [80% mujeres y 20% hombres...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t15_7",
+      "old": "D(4) → ['Investigación, aumentando el número de investigaciones con perspectiva de género.']",
+      "new": "C(3) → [Igualdad Salarial, con el objetivo de reducir a la mitad las categorías que tien...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "D"
+    },
+    {
+      "id": "comun-t16_5",
+      "old": "C(3) → ['“Aukeratu zeure hizkuntza/Elige tu lengua” es el lema de la campaña de activación del registro de la lengua preferente de cada paciente llevada a cabo en 2017. Se atribuye a todas las direcciones y gerencias de Osakidetza la responsabilidad de realizar la campaña con el lema “Aukeratu zeure hizkuntza/Elige tu lengua”.']",
+      "new": "A(1) → [“Aukeratu zeure hizkuntza/Elige tu lengua” es el lema de la campaña de activació...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t17_2",
+      "old": "C(3) → ['33,8%']",
+      "new": "D(4) → [28%...]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t18_3",
+      "old": "C(3) → ['Eutanasia.']",
+      "new": "D(4) → [Asistencia para morir....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "C"
+    },
+    {
+      "id": "comun-t18_9",
+      "old": "B(2) → ['Aquel que genera una limitación que incide directamente sobre la autonomía física y capacidad de expresar su voluntad de la persona paciente.']",
+      "new": "A(1) → [Aquel que implica la existencia de sufrimiento físico o psíquico constante....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "comun-t18_10",
+      "old": "B(2) → ['Dentro del día siguiente natural a la resolución.']",
+      "new": "D(4) → [No existe un plazo establecido para esta comunicación....]",
+      "status": "TRIPLE_DISPUTE",
+      "osasun": "B"
+    },
+    {
+      "id": "tec-comun-t02_2",
+      "old": "C(3) → ['A recibir el reembolso de los gastos derivados de la asistencia sanitaria del catálogo del SNS que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a.']",
+      "new": "D(4) → [Ninguna de las respuestas anteriores es correcta....]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t03_13",
+      "old": "C(3) → ['En el caso de que no se hubiera disfrutado del tiempo mínimo de descanso semanal en el período de tres meses se producirá una compensación a través del régimen de descansos alternativos.']",
+      "new": "B(2) → [El período de referencia para el cálculo del período de descanso semanal será de...]",
+      "status": "UNKNOWN",
+      "osasun": "D"
+    },
+    {
+      "id": "tec-comun-t03_14",
+      "old": "C(3) → ['Solo podrá ser sustituido por una compensación económica el período vacacional anual mediante la programación funcional de los centros, cuando así lo aconsejen razones organizativas.']",
+      "new": "D(4) → [Anualmente, el personal tendrá derecho a una vacación retribuida cuya duración n...]",
+      "status": "UNKNOWN",
+      "osasun": "C"
+    },
+    {
+      "id": "tec-comun-t04_9",
+      "old": "C(3) → ['El Departamento competente en materia de sanidad debe elaborar anualmente y remitir al Parlamento un informe con la evaluación de los objetivos y determinaciones del Plan de Salud de Euskadi.']",
+      "new": "D(4) → [Son correctas las respuestas a) y c)....]",
+      "status": "UNKNOWN",
+      "osasun": "B"
+    },
+    {
+      "id": "tec-comun-t04_10",
+      "old": "C(3) → ['Deberán ajustarse al número máximo de efectivos, según grupos profesionales, que anualmente aprobará su consejo de administración a propuesta del Departamento de Sanidad.']",
+      "new": "B(2) → [Se denomina así al número de efectivos de carácter estructural con que cuentan t...]",
+      "status": "UNKNOWN",
+      "osasun": "C"
+    },
+    {
+      "id": "tec-comun-t04_16",
+      "old": "B(2) → ['La Diputación General del Territorio Histórico en que esté situado el Ente.']",
+      "new": "D(4) → [Quien ostente la titularidad del Departamento de Sanidad....]",
+      "status": "UNKNOWN",
+      "osasun": "B"
+    },
+    {
+      "id": "tec-comun-t04_25",
+      "old": "A(1) → ['Oscilará entre dos y tres.']",
+      "new": "B(2) → [Oscilará entre tres y cuatro....]",
+      "status": "UNKNOWN",
+      "osasun": "D"
+    },
+    {
+      "id": "tec-comun-t06_3",
+      "old": "A(1) → ['El respeto a la libertad de la persona, a su dignidad y a la autonomía en las decisiones que afecten a su salud.']",
+      "new": "D(4) → [Todas las respuestas anteriores son correctas....]",
+      "status": "UNKNOWN",
+      "osasun": "B"
+    },
+    {
+      "id": "tec-comun-t08_1",
+      "old": "C(3) → ['El soporte de cualquier tipo o clase que contiene un conjunto de datos e informaciones de carácter asistencial y de investigación biomédica.']",
+      "new": "D(4) → [El soporte de cualquier tipo o clase que contiene un conjunto de datos e informa...]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t08_2",
+      "old": "C(3) → ['Como regla general se proporcionará verbalmente y por escrito.']",
+      "new": "D(4) → [Como regla general se proporcionará por escrito cuando se trate de pacientes men...]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t08_3",
+      "old": "C(3) → ['La finalidad y la naturaleza de cada intervención, sus riesgos y sus consecuencias.']",
+      "new": "D(4) → [La finalidad y la naturaleza de cada intervención, sus riesgos, sus consecuencia...]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t08_4",
+      "old": "C(3) → ['La persona facultativa responsable de la persona paciente y el personal de enfermería.']",
+      "new": "D(4) → [El centro sanitario....]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t08_5",
+      "old": "C(3) → ['La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho, en la medida que la persona paciente lo permita por escrito.']",
+      "new": "D(4) → [La persona paciente. También serán informadas las personas vinculadas a ella, po...]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t08_7",
+      "old": "C(3) → ['Todos los riesgos probables en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención.']",
+      "new": "D(4) → [Todos los riesgos, siempre que sean probables y graves, en condiciones normales....]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t08_8",
+      "old": "C(3) → ['La dirección del centro, previa comprobación del informe clínico, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión.']",
+      "new": "D(4) → [La dirección del centro, previa comprobación del informe clínico, oirá a la pers...]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t09_1",
+      "old": "D(4) → ['Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal.']",
+      "new": "C(3) → [Ayudar a interpretar las instrucciones y servir de orientación para la toma de d...]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t09_2",
+      "old": "D(4) → ['Se podrá designar una o varias personas representantes si la persona paciente está incapacitada judicialmente.']",
+      "new": "C(3) → [Se podrá designar una o varias personas representantes si la persona paciente es...]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t09_5",
+      "old": "D(4) → ['Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la CAPV; o ante tres testigos.']",
+      "new": "A(1) → [Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de ...]",
+      "status": "UNKNOWN",
+      "osasun": "B"
+    },
+    {
+      "id": "tec-comun-t09_8",
+      "old": "D(4) → ['Las instrucciones que en el momento de ser aplicadas no se aprueben por el comité de ética del centro.']",
+      "new": "C(3) → [Las respuestas a) y b) son correctas....]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t10_3",
+      "old": "A(1) → ['Únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años.']",
+      "new": "C(3) → [Únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años....]",
+      "status": "UNKNOWN",
+      "osasun": "D"
+    },
+    {
+      "id": "tec-comun-t10_7",
+      "old": "A(1) → ['Solo las personas físicas podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes.']",
+      "new": "C(3) → [Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salv...]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t10_8",
+      "old": "B(2) → ['En todo caso, transcurridos seis meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos.']",
+      "new": "A(1) → [En todo caso, transcurridos tres meses desde la introducción de los datos, deber...]",
+      "status": "UNKNOWN",
+      "osasun": "C"
+    },
+    {
+      "id": "tec-comun-t12_11",
+      "old": "B(2) → ['Programa de Farmacia.']",
+      "new": "A(1) → [Programa de Salud Pública....]",
+      "status": "UNKNOWN",
+      "osasun": "C"
+    },
+    {
+      "id": "tec-comun-t13_4",
+      "old": "B(2) → ['Nuevos vectores y virus anteriormente inexistentes en nuestro entorno, como el virus del Nilo.']",
+      "new": "D(4) → [La erradicacion total de las enfermedades infecciosas estacionales....]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t13_5",
+      "old": "D(4) → ['Reflejar resultados en salud y sostenibilidad, y no solo volumen de actividad.']",
+      "new": "B(2) → [Ser confidenciales y accesibles unicamente para la alta direccion del Departamen...]",
+      "status": "UNKNOWN",
+      "osasun": "D"
+    },
+    {
+      "id": "tec-comun-t14_5",
+      "old": "D(4) → ['Gestion de los incidentes de seguridad.']",
+      "new": "C(3) → [Atencion a las segundas y terceras victimas....]",
+      "status": "UNKNOWN",
+      "osasun": "B"
+    },
+    {
+      "id": "tec-comun-t15_3",
+      "old": "D(4) → ['Direccion General de Osakidetza.']",
+      "new": "C(3) → [Consejo de Administracion de Osakidetza....]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    },
+    {
+      "id": "tec-comun-t15_16",
+      "old": "B(2) → ['Los escritos individualizados de respuesta a solicitudes y reclamaciones de las personas trabajadoras deberan redactarse en las dos lenguas oficiales.']",
+      "new": "C(3) → [Osakidetza ha de garantizar que la informacion y los servicios ofrecidos tanto a...]",
+      "status": "UNKNOWN",
+      "osasun": "B"
+    },
+    {
+      "id": "tec-comun-t15_18",
+      "old": "B(2) → ['Cancer de mama en mujeres y cancer de prostata en hombres.']",
+      "new": "C(3) → [Cancer de pancreas y cancer de pulmon....]",
+      "status": "UNKNOWN",
+      "osasun": "A"
+    }
+  ]
+}
