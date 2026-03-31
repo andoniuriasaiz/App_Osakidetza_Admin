@@ -40,7 +40,7 @@ export async function POST(req: NextRequest) {
 
     // 2. Insert into user_sessions if sessionData is provided
     if (sessionData) {
-      const sessionId = Math.random().toString(36).substring(2, 10);
+      const sessionId = crypto.randomUUID();
       await db`
         INSERT INTO user_sessions (
           id, user_id, date, ts, module_id, module_name, mode,

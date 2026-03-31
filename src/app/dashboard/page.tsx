@@ -115,8 +115,8 @@ export default function Dashboard() {
     fetchStudyProgram().then(p => {
       setStudyProgram(p);
       if (p) {
-        const todayStr = new Date().toISOString().split('T')[0];
-        const day = p.days.find(d => d.date === todayStr);
+        const todayDateStr = new Date().toISOString().split('T')[0];
+        const day = p.days.find(d => d.date === todayDateStr);
         setTodayAgenda(day || null);
       }
     });
@@ -142,6 +142,19 @@ export default function Dashboard() {
   const specificModules = currentTrackConfig.specificModuleIds.map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
   const allTrackModules = [...commonModules, ...specificModules];
 
+  // Programa: progreso + módulos atrasados acumulados
+  const todayStr = new Date().toISOString().split('T')[0];
+  const programProgress = studyProgram
+    ? { completed: studyProgram.days.filter(d => d.completed).length, total: studyProgram.days.length }
+    : null;
+  const overdueModuleIds: string[] = studyProgram
+    ? [...new Set(
+        studyProgram.days
+          .filter(d => d.date < todayStr && !d.completed && d.assignedModules.length > 0)
+          .flatMap(d => d.assignedModules)
+      )]
+    : [];
+
   // Summary stats
   const allStats = allTrackModules.map(m => moduleStats[m.id] || { total: 0, new: 0, mastered: 0, dueNow: 0 });
   const totalDue = allStats.reduce((s, m) => s + m.dueNow, 0);
@@ -150,28 +163,41 @@ export default function Dashboard() {
   const totalMastered = allStats.reduce((s, m) => s + m.mastered, 0);
   const overallProgress = totalQuestions > 0 ? Math.round((totalMastered / totalQuestions) * 100) : 0;
 
+  const todayModuleIds = new Set([
+    ...(todayAgenda?.assignedModules ?? []),
+    ...overdueModuleIds,
+  ]);
+
   const renderModuleCard = (mod: typeof MODULES[0]) => {
     const stats = moduleStats[mod.id];
     const hasQuestions = stats && stats.total > 0;
     const studied = hasQuestions ? stats.total - stats.new : 0;
     const progress = hasQuestions && stats.total > 0 ? Math.round((studied / stats.total) * 100) : 0;
+    const isToday = todayModuleIds.has(mod.id);
+    const isOverdue = overdueModuleIds.includes(mod.id);
 
     return (
       <div
         key={mod.id}
-        className={`bg-white rounded-2xl border-2 p-4 cursor-pointer transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 ${mod.borderColor} ${!hasQuestions ? 'opacity-50' : ''}`}
+        className={`bg-white rounded-2xl border-2 p-4 cursor-pointer transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 ${
+          isOverdue ? 'border-amber-400 ring-1 ring-amber-300' : isToday ? 'border-[#282182] ring-1 ring-[#282182]/30' : mod.borderColor
+        } ${!hasQuestions ? 'opacity-50' : ''}`}
         onClick={() => hasQuestions && router.push(`/study/${mod.id}`)}
       >
         <div className="flex items-start justify-between mb-3">
           <ModuleIcon id={mod.id} size={40} />
-          {hasQuestions && stats.dueNow > 0 && (
-            <span className="bg-red-100 text-red-600 text-xs font-bold px-2 py-0.5 rounded-full">
-              {stats.dueNow}
-            </span>
-          )}
-          {hasQuestions && stats.dueNow === 0 && stats.mastered === stats.total && stats.total > 0 && (
-            <span className="bg-green-100 text-green-600 text-xs font-bold px-1.5 py-0.5 rounded-full">✓</span>
-          )}
+          <div className="flex flex-col items-end gap-1">
+            {isOverdue && <span className="bg-amber-100 text-amber-700 text-[9px] font-black px-1.5 py-0.5 rounded-full uppercase tracking-wide">Atrasado</span>}
+            {isToday && !isOverdue && <span className="bg-[#e8e7f7] text-[#282182] text-[9px] font-black px-1.5 py-0.5 rounded-full uppercase tracking-wide">Hoy</span>}
+            {hasQuestions && stats.dueNow > 0 && (
+              <span className="bg-red-100 text-red-600 text-xs font-bold px-2 py-0.5 rounded-full">
+                {stats.dueNow}
+              </span>
+            )}
+            {hasQuestions && stats.dueNow === 0 && stats.mastered === stats.total && stats.total > 0 && (
+              <span className="bg-green-100 text-green-600 text-xs font-bold px-1.5 py-0.5 rounded-full">✓</span>
+            )}
+          </div>
         </div>
         <h3 className="font-semibold text-gray-900 text-xs mb-1 leading-snug">{mod.shortName}</h3>
         {hasQuestions ? (
@@ -277,8 +303,8 @@ export default function Dashboard() {
               <h3 className="font-bold text-base text-rose-900 leading-tight">Tienes {weaknessesCount} puntos débiles</h3>
               <p className="text-xs font-medium text-rose-700 mt-0.5">La BD ha detectado fallos recurrentes.</p>
             </div>
-            <button 
-              onClick={() => router.push('/exam')}
+            <button
+              onClick={() => router.push('/errores')}
               className="bg-rose-600 hover:bg-rose-700 text-white px-4 py-2.5 rounded-xl font-bold text-xs shadow-sm transition shrink-0"
             >
               Solventar →
@@ -287,58 +313,113 @@ export default function Dashboard() {
         )}
 
         {/* ── Tarjeta Hoy (Programa de Estudio) ── */}
-        {todayAgenda && (
+        {(todayAgenda || overdueModuleIds.length > 0) && (
           <div className={`mb-8 bg-white border-2 p-5 rounded-2xl shadow-sm transition-all relative overflow-hidden ${
-            todayAgenda.completed ? 'border-emerald-200 bg-emerald-50/30' : 'border-[#282182] ring-2 ring-[#282182] ring-offset-2'
+            todayAgenda?.completed ? 'border-emerald-200 bg-emerald-50/30' : 'border-[#282182] ring-2 ring-[#282182] ring-offset-2'
           }`}>
             <div className="absolute top-0 right-0 p-3 opacity-10 blur-[1px]">
-              <span className="text-6xl">{todayAgenda.type === 'new' ? '📖' : todayAgenda.type === 'simulacro' ? '🎯' : todayAgenda.type === 'rest' ? '😴' : '🔄'}</span>
+              <span className="text-6xl">{
+                todayAgenda?.type === 'new' ? '📖'
+                : todayAgenda?.type === 'simulacro' ? '🎯'
+                : todayAgenda?.type === 'rest' ? '😴'
+                : todayAgenda?.type === 'weaks' ? '🔥'
+                : '🔄'
+              }</span>
             </div>
-            <div className="relative z-10 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-              <div>
-                <div className="flex items-center gap-2 mb-2.5">
-                  <span className={`text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-sm ${
-                    todayAgenda.type === 'new' ? 'bg-blue-100 text-blue-800' :
-                    todayAgenda.type === 'review' ? 'bg-emerald-100 text-emerald-800' :
-                    todayAgenda.type === 'simulacro' ? 'bg-amber-100 text-amber-800' :
-                    'bg-slate-100 text-slate-600'
-                  }`}>
-                    {todayAgenda.type === 'new' ? 'TEMAS NUEVOS' : todayAgenda.type === 'simulacro' ? 'SIMULACRO' : todayAgenda.type === 'rest' ? 'DESCANSO' : 'REPASO'}
-                  </span>
-                  {todayAgenda.completed && (
-                    <span className="text-[10px] font-black uppercase tracking-wider text-emerald-600 bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded-full">
-                      COMPLETADO ✓
-                    </span>
+            <div className="relative z-10">
+
+              {/* Progreso del plan */}
+              {programProgress && (
+                <div className="mb-4">
+                  <div className="flex items-center justify-between mb-1">
+                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Progreso del programa</span>
+                    <span className="text-[10px] font-bold text-[#282182]">{programProgress.completed}/{programProgress.total} días</span>
+                  </div>
+                  <div className="w-full bg-slate-100 rounded-full h-1.5">
+                    <div
+                      className="h-1.5 bg-[#282182] rounded-full transition-all"
+                      style={{ width: `${Math.round((programProgress.completed / Math.max(1, programProgress.total)) * 100)}%` }}
+                    />
+                  </div>
+                </div>
+              )}
+
+              <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-4">
+                <div className="flex-1 min-w-0">
+                  {todayAgenda && (
+                    <>
+                      <div className="flex items-center gap-2 mb-2.5 flex-wrap">
+                        <span className={`text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-sm ${
+                          todayAgenda.type === 'new' ? 'bg-blue-100 text-blue-800' :
+                          todayAgenda.type === 'review' ? 'bg-emerald-100 text-emerald-800' :
+                          todayAgenda.type === 'simulacro' ? 'bg-amber-100 text-amber-800' :
+                          todayAgenda.type === 'weaks' ? 'bg-rose-100 text-rose-800' :
+                          'bg-slate-100 text-slate-600'
+                        }`}>
+                          {todayAgenda.type === 'new' ? 'TEMAS NUEVOS'
+                          : todayAgenda.type === 'simulacro' ? 'SIMULACRO'
+                          : todayAgenda.type === 'rest' ? 'DESCANSO'
+                          : todayAgenda.type === 'weaks' ? 'PUNTOS DÉBILES'
+                          : 'REPASO'}
+                        </span>
+                        {todayAgenda.completed && (
+                          <span className="text-[10px] font-black uppercase tracking-wider text-emerald-600 bg-emerald-100 border border-emerald-200 px-2 py-0.5 rounded-full">
+                            COMPLETADO ✓
+                          </span>
+                        )}
+                      </div>
+                      <h3 className="font-bold text-lg text-slate-900 leading-tight mb-1">Tu plan para hoy</h3>
+                      <p className="text-sm font-medium text-slate-500 max-w-sm mb-3">{todayAgenda.description}</p>
+                      {todayAgenda.assignedModules && todayAgenda.assignedModules.length > 0 && (
+                        <div className="flex flex-wrap gap-1.5 mb-3">
+                          {todayAgenda.assignedModules.map(modId => {
+                            const m = MODULES.find(x => x.id === modId);
+                            return m ? (
+                              <button key={modId} onClick={() => router.push(`/study/${modId}`)}
+                                className={`text-xs font-bold px-2.5 py-1.5 rounded-lg border transition hover:opacity-80 hover:shadow-sm ${m.bgColor} ${m.color} ${m.borderColor}`}>
+                                {m.shortName} →
+                              </button>
+                            ) : null;
+                          })}
+                        </div>
+                      )}
+                    </>
+                  )}
+
+                  {/* Módulos atrasados acumulados */}
+                  {overdueModuleIds.length > 0 && (
+                    <div className="mt-2 bg-amber-50 border border-amber-200 rounded-xl p-3">
+                      <p className="text-xs font-bold text-amber-800 mb-2">
+                        ⚠️ {overdueModuleIds.length} módulo{overdueModuleIds.length > 1 ? 's' : ''} pendiente{overdueModuleIds.length > 1 ? 's' : ''} de días anteriores
+                      </p>
+                      <div className="flex flex-wrap gap-1.5">
+                        {overdueModuleIds.map(modId => {
+                          const m = MODULES.find(x => x.id === modId);
+                          return m ? (
+                            <button key={modId} onClick={() => router.push(`/study/${modId}`)}
+                              className="text-xs font-bold px-2.5 py-1.5 rounded-lg border border-amber-300 bg-amber-100 text-amber-800 hover:bg-amber-200 transition">
+                              {m.shortName} →
+                            </button>
+                          ) : null;
+                        })}
+                      </div>
+                    </div>
                   )}
                 </div>
-                <h3 className="font-bold text-lg text-slate-900 leading-tight mb-1">
-                  Tu plan para hoy
-                </h3>
-                <p className="text-sm font-medium text-slate-500 max-w-sm mb-3">
-                  {todayAgenda.description}
-                </p>
-                {todayAgenda.assignedModules && todayAgenda.assignedModules.length > 0 && (
-                  <div className="flex flex-wrap gap-1.5 mt-1">
-                    {todayAgenda.assignedModules.map(modId => {
-                      const m = MODULES.find(x => x.id === modId);
-                      return m ? (
-                        <span key={modId} className={`text-xs font-bold px-2 py-1 rounded ${m.bgColor} ${m.color} border ${m.borderColor}`}>
-                          {m.shortName}
-                        </span>
-                      ) : null;
-                    })}
-                  </div>
+
+                {(!todayAgenda?.completed && todayAgenda && todayAgenda.type !== 'rest') && (
+                  <button
+                    onClick={() => router.push(
+                      todayAgenda.type === 'simulacro' ? '/exam'
+                      : todayAgenda.type === 'weaks' ? '/errores'
+                      : '/programa'
+                    )}
+                    className="bg-[#282182] hover:bg-[#1e1965] text-white px-6 py-3.5 rounded-xl font-bold text-sm shadow-md transition shrink-0 self-start"
+                  >
+                    Empezar ahora →
+                  </button>
                 )}
               </div>
-              
-              {!todayAgenda.completed && todayAgenda.type !== 'rest' && (
-                <button 
-                  onClick={() => router.push(todayAgenda.type === 'simulacro' ? '/exam' : '/programa')}
-                  className="bg-[#282182] hover:bg-[#1e1965] text-white px-6 py-3.5 rounded-xl font-bold text-sm shadow-md transition shrink-0"
-                >
-                  Empezar ahora →
-                </button>
-              )}
             </div>
           </div>
         )}

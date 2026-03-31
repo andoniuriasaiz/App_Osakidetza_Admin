@@ -8,7 +8,7 @@ import { OPE_TRACKS, daysUntilExam } from '@/lib/tracks';
 import { loadQuestions, loadQuestionsByIds, Question, shuffleArray, getModuleBaseUrl } from '@/lib/questions';
 import { getCardState } from '@/lib/progress'; // Only pure data access/processing
 import { updateCard } from '@/lib/spaced-repetition';
-import { XP_EXAM_CORRECT, XP_EXAM_WRONG, getLevel } from '@/lib/xp';
+import { XP_EXAM_CORRECT, XP_EXAM_WRONG, getLevel, addLocalXP, getLocalXP } from '@/lib/xp';
 import { playCorrect, playWrong, playSessionDone } from '@/lib/sound';
 import { notifyAnswered } from '@/lib/quests';
 import BottomNav from '@/components/BottomNav';
@@ -68,6 +68,10 @@ export default function ExamPage() {
   const [showLevelUp, setShowLevelUp] = useState(false);
   const [levelUpLevel, setLevelUpLevel] = useState<ReturnType<typeof getLevel> | null>(null);
   const [activeTrack, setActiveTrack] = useState<'aux' | 'admin' | 'tec'>('aux');
+
+  // Flagging & review filter
+  const [flagged, setFlagged] = useState<Set<number>>(new Set());
+  const [reviewFilter, setReviewFilter] = useState<'all' | 'wrong' | 'correct' | 'skipped' | 'flagged'>('all');
 
   // ─── Submit exam ─────────────────────────────────────────
   const submitExam = useCallback(async () => {
@@ -131,6 +135,16 @@ export default function ExamPage() {
       console.error('Failed to sync results strictly to DB', e);
     }
 
+    // Actualizar caché local de XP (la BD ya se actualizó en el fetch anterior)
+    if (totalXP > 0) {
+      const prevXP = getLocalXP();
+      addLocalXP(totalXP);
+      const newLvl = getLevel(getLocalXP());
+      if (newLvl.level > getLevel(prevXP).level) {
+        setTimeout(() => { setLevelUpLevel(newLvl); setShowLevelUp(true); }, 800);
+      }
+    }
+
     // Sound
     playSessionDone();
 
@@ -186,8 +200,19 @@ export default function ExamPage() {
     setCurrentIdx(0);
     setTimeLeft(config.timeLimitMin ? config.timeLimitMin * 60 : null);
     setTimeTaken(0);
+    setFlagged(new Set());
+    setReviewFilter('all');
     setLoading(false);
     setPhase('taking');
+  }
+
+  // ─── Toggle flag ─────────────────────────────────────────
+  function toggleFlag(idx: number) {
+    setFlagged(prev => {
+      const next = new Set(prev);
+      if (next.has(idx)) next.delete(idx); else next.add(idx);
+      return next;
+    });
   }
 
   // ─── Toggle answer ───────────────────────────────────────
@@ -342,41 +367,64 @@ export default function ExamPage() {
                 })()}
               </div>
             ) : (
-              <div className="bg-white border-2 border-slate-200 rounded-xl p-4 max-h-[300px] overflow-y-auto w-full">
-                <p className="text-xs text-gray-400 font-medium mb-3">Selecciona los módulos específicos:</p>
-                <div className="space-y-2">
-                  {(() => {
-                    const track = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
-                    const allIds = [...track.commonModuleIds, ...track.specificModuleIds];
-                    const trackModules = allIds.map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
+              (() => {
+                const track = OPE_TRACKS.find(t => t.id === activeTrack) || OPE_TRACKS[0];
+                const allIds = [...track.commonModuleIds, ...track.specificModuleIds];
+                const trackModules = allIds.map(id => MODULES.find(m => m.id === id)!).filter(Boolean);
+                const selectedCount = config.moduleIds.filter(id => id !== 'mezcla').length;
 
-                    return trackModules.map(m => {
-                      const isSelected = config.moduleIds.includes(m.id);
-                      return (
-                        <label key={m.id} className={`flex items-start gap-3 p-2 rounded-lg cursor-pointer transition-colors ${isSelected ? 'bg-[#f4f4fb]' : 'hover:bg-slate-50'}`}>
-                          <input 
-                            type="checkbox" 
-                            checked={isSelected}
-                            className="mt-1 w-4 h-4 rounded text-[#282182] focus:ring-[#282182] border-gray-300"
-                            onChange={() => {
-                              setConfig(c => {
-                                const ids = new Set(c.moduleIds.filter(id => id !== 'mezcla'));
-                                if (isSelected) ids.delete(m.id);
-                                else ids.add(m.id);
-                                return { ...c, moduleIds: ids.size > 0 ? Array.from(ids) : ['mezcla'] };
-                              });
-                            }}
-                          />
-                          <div className="flex-1">
-                            <div className="text-sm font-semibold text-gray-800 leading-tight">{m.shortName}</div>
-                            <div className="text-[10px] text-gray-500 mt-0.5">{m.name}</div>
-                          </div>
-                        </label>
-                      );
-                    });
-                  })()}
-                </div>
-              </div>
+                return (
+                  <div className="bg-white border-2 border-slate-200 rounded-xl overflow-hidden">
+                    {/* Cabecera con acciones */}
+                    <div className="flex items-center justify-between px-4 py-2.5 bg-slate-50 border-b border-slate-100">
+                      <span className="text-xs font-bold text-gray-500">
+                        {selectedCount > 0 ? `${selectedCount} módulo${selectedCount > 1 ? 's' : ''} seleccionado${selectedCount > 1 ? 's' : ''}` : 'Sin módulos'}
+                      </span>
+                      <div className="flex gap-1.5">
+                        <button
+                          onClick={() => setConfig(c => ({ ...c, moduleIds: allIds }))}
+                          className="text-[10px] font-bold px-2 py-1 rounded-lg bg-[#e8e7f7] text-[#282182] hover:bg-[#d4d3f0] transition"
+                        >
+                          Selec. todo
+                        </button>
+                        <button
+                          onClick={() => setConfig(c => ({ ...c, moduleIds: ['mezcla'] }))}
+                          className="text-[10px] font-bold px-2 py-1 rounded-lg bg-slate-200 text-slate-600 hover:bg-slate-300 transition"
+                        >
+                          Limpiar
+                        </button>
+                      </div>
+                    </div>
+                    <div className="max-h-[280px] overflow-y-auto p-3 space-y-1">
+                      {trackModules.map(m => {
+                        const isSelected = config.moduleIds.includes(m.id);
+                        return (
+                          <label key={m.id} className={`flex items-center gap-3 p-2.5 rounded-xl cursor-pointer transition-colors ${isSelected ? 'bg-[#f4f4fb] border border-[#c8c6eb]' : 'hover:bg-slate-50 border border-transparent'}`}>
+                            <input
+                              type="checkbox"
+                              checked={isSelected}
+                              className="w-4 h-4 rounded text-[#282182] focus:ring-[#282182] border-gray-300"
+                              onChange={() => {
+                                setConfig(c => {
+                                  const ids = new Set(c.moduleIds.filter(id => id !== 'mezcla'));
+                                  if (isSelected) ids.delete(m.id);
+                                  else ids.add(m.id);
+                                  return { ...c, moduleIds: ids.size > 0 ? Array.from(ids) : ['mezcla'] };
+                                });
+                              }}
+                            />
+                            <div className="flex-1 min-w-0">
+                              <div className={`text-sm font-semibold leading-tight ${isSelected ? 'text-[#282182]' : 'text-gray-800'}`}>{m.shortName}</div>
+                              <div className="text-[10px] text-gray-400 mt-0.5 truncate">{m.name}</div>
+                            </div>
+                            {isSelected && <span className="text-[#282182] text-xs font-bold shrink-0">✓</span>}
+                          </label>
+                        );
+                      })}
+                    </div>
+                  </div>
+                );
+              })()
             )}
           </div>
 
@@ -513,7 +561,7 @@ export default function ExamPage() {
           {/* Question card */}
           <div className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
             <div className="px-5 pt-5 pb-4 border-b border-slate-100">
-              <div className="flex items-center gap-2 mb-3">
+              <div className="flex items-center gap-2 mb-3 flex-wrap">
                 <span className={`text-xs font-bold px-2.5 py-1 rounded-full ${
                   q?.type === 'I' ? 'bg-blue-100 text-blue-700' : 'bg-green-100 text-green-700'
                 }`}>
@@ -524,8 +572,18 @@ export default function ExamPage() {
                   <span className="text-xs text-blue-500 font-medium">· varias correctas</span>
                 )}
                 {answered && (
-                  <span className="ml-auto text-xs text-emerald-600 font-semibold">✓ Respondida</span>
+                  <span className="text-xs text-emerald-600 font-semibold">✓ Respondida</span>
                 )}
+                <button
+                  onClick={() => toggleFlag(currentIdx)}
+                  className={`ml-auto text-xs font-bold px-2.5 py-1 rounded-lg border transition ${
+                    flagged.has(currentIdx)
+                      ? 'bg-amber-100 border-amber-400 text-amber-700'
+                      : 'bg-slate-100 border-slate-200 text-slate-500 hover:border-amber-300 hover:text-amber-600'
+                  }`}
+                >
+                  {flagged.has(currentIdx) ? '⚑ Marcada' : '⚐ Marcar'}
+                </button>
               </div>
               <h2 className="text-base font-semibold text-gray-900 leading-snug">{q?.question}</h2>
             </div>
@@ -606,27 +664,45 @@ export default function ExamPage() {
 
           {/* Question grid navigator */}
           <div className="bg-white rounded-2xl border border-slate-200 p-4">
-            <p className="text-xs font-semibold text-gray-400 mb-3">Navegación rápida</p>
+            <div className="flex items-center justify-between mb-3">
+              <p className="text-xs font-semibold text-gray-400">Navegación rápida</p>
+              {flagged.size > 0 && (
+                <span className="text-[10px] font-bold text-amber-700 bg-amber-100 px-2 py-0.5 rounded-full">
+                  ⚑ {flagged.size} marcada{flagged.size > 1 ? 's' : ''}
+                </span>
+              )}
+            </div>
             <div className="flex flex-wrap gap-1.5">
               {questions.map((_: Question, i: number) => {
                 const isAns = (answers.get(i) ?? []).length > 0;
                 const isCurrent = i === currentIdx;
+                const isFlag = flagged.has(i);
                 return (
                   <button
                     key={i}
                     onClick={() => goTo(i)}
-                    className={`w-8 h-8 rounded-lg text-xs font-bold transition-all ${
+                    className={`w-8 h-8 rounded-lg text-xs font-bold transition-all relative ${
                       isCurrent
                         ? 'bg-[#282182] text-white ring-2 ring-[#9591d0]'
+                        : isFlag
+                        ? 'bg-amber-200 text-amber-800 hover:bg-amber-300'
                         : isAns
                         ? 'bg-emerald-100 text-emerald-700 hover:bg-emerald-200'
                         : 'bg-slate-100 text-slate-500 hover:bg-slate-200'
                     }`}
                   >
                     {i + 1}
+                    {isFlag && !isCurrent && (
+                      <span className="absolute -top-1 -right-1 w-2 h-2 bg-amber-500 rounded-full" />
+                    )}
                   </button>
                 );
               })}
+            </div>
+            <div className="flex gap-3 mt-2.5 text-[10px] text-gray-400 font-medium">
+              <span><span className="inline-block w-3 h-3 rounded bg-emerald-100 mr-1" />Respondida</span>
+              <span><span className="inline-block w-3 h-3 rounded bg-amber-200 mr-1" />Marcada</span>
+              <span><span className="inline-block w-3 h-3 rounded bg-slate-100 mr-1" />Sin responder</span>
             </div>
           </div>
         </main>
@@ -816,12 +892,39 @@ export default function ExamPage() {
 
         {/* Per-question review */}
         <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden">
-          <div className="px-5 py-4 border-b border-slate-100 flex items-center justify-between">
-            <p className="font-semibold text-gray-800 text-sm">Revisión pregunta a pregunta</p>
-            <span className="text-xs text-gray-400">{total} preguntas</span>
+          <div className="px-5 py-4 border-b border-slate-100">
+            <div className="flex items-center justify-between mb-3">
+              <p className="font-semibold text-gray-800 text-sm">Revisión pregunta a pregunta</p>
+              <span className="text-xs text-gray-400">{total} preguntas</span>
+            </div>
+            {/* Filter tabs */}
+            <div className="flex gap-1.5 flex-wrap">
+              {([
+                { key: 'all',     label: `Todas (${total})`,  color: 'bg-slate-100 text-slate-700' },
+                { key: 'wrong',   label: `✗ Errores (${wrong})`,   color: 'bg-red-100 text-red-700' },
+                { key: 'correct', label: `✓ Correctas (${correct})`, color: 'bg-green-100 text-green-700' },
+                { key: 'skipped', label: `○ Sin resp. (${skipped})`, color: 'bg-slate-100 text-slate-500' },
+                ...(flagged.size > 0 ? [{ key: 'flagged', label: `⚑ Marcadas (${flagged.size})`, color: 'bg-amber-100 text-amber-700' }] : []),
+              ] as { key: string; label: string; color: string }[]).map(f => (
+                <button key={f.key}
+                  onClick={() => setReviewFilter(f.key as typeof reviewFilter)}
+                  className={`text-xs font-bold px-2.5 py-1 rounded-lg border-2 transition ${
+                    reviewFilter === f.key ? `${f.color} border-current` : 'bg-white border-slate-200 text-slate-400 hover:border-slate-300'
+                  }`}
+                >
+                  {f.label}
+                </button>
+              ))}
+            </div>
           </div>
           <div className="divide-y divide-slate-100 max-h-96 overflow-y-auto">
-            {results.map((r: ExamAnswer, i: number) => (
+            {results.map((r: ExamAnswer, i: number) => {
+              // Apply filter
+              if (reviewFilter === 'wrong'   && (r.isCorrect || r.skipped)) return null;
+              if (reviewFilter === 'correct' && !r.isCorrect) return null;
+              if (reviewFilter === 'skipped' && !r.skipped) return null;
+              if (reviewFilter === 'flagged' && !flagged.has(i)) return null;
+              return (
               <button
                 key={i}
                 onClick={() => setReviewIdx(i)}
@@ -835,9 +938,11 @@ export default function ExamPage() {
                   {r.skipped ? '○' : r.isCorrect ? '✓' : '✗'}
                 </span>
                 <span className="text-xs text-gray-700 truncate flex-1">{r.question.question}</span>
+                {flagged.has(i) && <span className="text-amber-500 text-xs flex-shrink-0">⚑</span>}
                 <span className="text-xs text-gray-400 flex-shrink-0">ver →</span>
               </button>
-            ))}
+            );
+            })}
           </div>
         </div>
 

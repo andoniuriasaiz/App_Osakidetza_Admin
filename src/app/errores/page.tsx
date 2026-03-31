@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import { getSession } from '@/lib/auth';
 import { OPE_TRACKS } from '@/lib/tracks';
 import { loadQuestions, Question, shuffleArray } from '@/lib/questions';
-import { getAllProgress, recordAnswer, getWrongCount } from '@/lib/progress';
+import { getAllProgress, recordAnswer } from '@/lib/progress';
 import { addLocalXP, persistXP, XP_EXAM_CORRECT, XP_EXAM_WRONG, getLocalXP, getLevel, incrementTodayAnswerCount } from '@/lib/xp';
 import { playCorrect, playWrong } from '@/lib/sound';
 import { notifyAnswered } from '@/lib/quests';

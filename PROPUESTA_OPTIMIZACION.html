@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Propuesta de Optimización — Osakidetza OPE 2026</title>
+<style>
+  :root {
+    --brand: #282182;
+    --brand-light: #e8e7f7;
+    --brand-mid: #9591d0;
+    --green: #16a34a;
+    --amber: #d97706;
+    --red: #dc2626;
+    --slate: #64748b;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f4f4fb; color: #1e293b; line-height: 1.6; }
+  .container { max-width: 860px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size: 1.8rem; font-weight: 900; color: var(--brand); letter-spacing: -0.5px; margin-bottom: 0.25rem; }
+  .subtitle { color: var(--slate); font-size: 0.875rem; margin-bottom: 2rem; }
+  h2 { font-size: 1.1rem; font-weight: 800; color: #1e293b; margin: 2.5rem 0 1rem; display: flex; align-items: center; gap: 0.5rem; }
+  h2 .badge { font-size: 0.65rem; font-weight: 700; padding: 2px 8px; border-radius: 999px; text-transform: uppercase; letter-spacing: 0.05em; }
+  h3 { font-size: 0.95rem; font-weight: 700; color: #334155; margin: 1.25rem 0 0.5rem; }
+  p { font-size: 0.9rem; color: #475569; margin-bottom: 0.75rem; }
+  ul { margin-left: 1.25rem; margin-bottom: 0.75rem; }
+  li { font-size: 0.875rem; color: #475569; margin-bottom: 0.4rem; }
+  .card { background: white; border-radius: 1rem; border: 1.5px solid #e2e8f0; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
+  .card.green  { border-color: #bbf7d0; background: #f0fdf4; }
+  .card.amber  { border-color: #fde68a; background: #fffbeb; }
+  .card.red    { border-color: #fecaca; background: #fef2f2; }
+  .card.brand  { border-color: #c4c1e8; background: var(--brand-light); }
+  .tag { display: inline-block; font-size: 0.7rem; font-weight: 700; padding: 2px 8px; border-radius: 6px; text-transform: uppercase; letter-spacing: 0.04em; margin-right: 4px; }
+  .tag.done  { background: #dcfce7; color: #166534; }
+  .tag.todo  { background: #dbeafe; color: #1e40af; }
+  .tag.high  { background: #fee2e2; color: #991b1b; }
+  .tag.med   { background: #fef3c7; color: #92400e; }
+  .tag.low   { background: #f1f5f9; color: #475569; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1rem; }
+  @media (max-width: 600px) { .grid2 { grid-template-columns: 1fr; } }
+  .stat { background: white; border-radius: 0.75rem; border: 1.5px solid #e2e8f0; padding: 1rem; text-align: center; }
+  .stat-num { font-size: 1.8rem; font-weight: 900; color: var(--brand); }
+  .stat-label { font-size: 0.75rem; color: var(--slate); font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+  .principle { display: flex; gap: 1rem; background: white; border-radius: 0.875rem; border: 1.5px solid #e2e8f0; padding: 1rem 1.25rem; margin-bottom: 0.75rem; }
+  .principle-icon { font-size: 1.5rem; flex-shrink: 0; }
+  .principle-title { font-size: 0.9rem; font-weight: 700; color: #1e293b; margin-bottom: 0.2rem; }
+  .principle-body  { font-size: 0.82rem; color: #64748b; }
+  .principle.ok .principle-title::after { content: ' ✓'; color: var(--green); font-size: 0.8rem; }
+  .divider { border: none; border-top: 1.5px solid #e2e8f0; margin: 2rem 0; }
+  .roadmap-item { display: flex; gap: 1rem; padding: 0.875rem 1rem; background: white; border-radius: 0.75rem; border: 1.5px solid #e2e8f0; margin-bottom: 0.5rem; align-items: flex-start; }
+  .roadmap-item .num { width: 1.75rem; height: 1.75rem; border-radius: 50%; background: var(--brand-light); color: var(--brand); font-weight: 900; font-size: 0.8rem; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-top: 2px; }
+  .roadmap-item.p1 .num { background: #fee2e2; color: #991b1b; }
+  .roadmap-item.p2 .num { background: #fef3c7; color: #92400e; }
+  .roadmap-item.p3 .num { background: #dcfce7; color: #166534; }
+  .roadmap-item strong { font-size: 0.875rem; color: #1e293b; display: block; }
+  .roadmap-item span { font-size: 0.8rem; color: #64748b; }
+  header-bar { display: flex; align-items: center; gap: 0.75rem; background: var(--brand); color: white; border-radius: 1rem; padding: 1.25rem 1.5rem; margin-bottom: 2rem; }
+  .header-bar { display: flex; align-items: center; gap: 1rem; background: linear-gradient(135deg, #282182, #170f55); color: white; border-radius: 1rem; padding: 1.25rem 1.5rem; margin-bottom: 2rem; }
+  .header-bar h1 { color: white; }
+  .header-bar .subtitle { color: rgba(255,255,255,0.7); margin-bottom: 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.83rem; background: white; border-radius: 0.875rem; overflow: hidden; border: 1.5px solid #e2e8f0; }
+  th { background: #f8fafc; font-weight: 700; color: #64748b; padding: 0.6rem 1rem; text-align: left; border-bottom: 1.5px solid #e2e8f0; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
+  td { padding: 0.6rem 1rem; border-bottom: 1px solid #f1f5f9; color: #334155; }
+  tr:last-child td { border-bottom: none; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header-bar">
+    <div>
+      <h1>Propuesta de Optimización</h1>
+      <p class="subtitle">Osakidetza OPE 2026 — Análisis técnico + Hoja de ruta de mejoras · Andoni Uriasaiz</p>
+    </div>
+  </div>
+
+  <!-- ───────── ESTADO ACTUAL ───────── -->
+  <h2>📊 Estado actual del sistema</h2>
+  <p>La app ya implementa las técnicas más eficaces para la memorización de oposiciones tipo test. Aquí el inventario con lo que está hecho y lo que falta.</p>
+
+  <div class="grid2">
+    <div class="stat"><div class="stat-num">7</div><div class="stat-label">Bugs corregidos</div></div>
+    <div class="stat"><div class="stat-num">9</div><div class="stat-label">Mejoras aplicadas</div></div>
+  </div>
+
+  <div class="principle ok">
+    <div class="principle-icon">🧠</div>
+    <div><div class="principle-title">Repetición Espaciada (SM-2)</div>
+    <div class="principle-body">El algoritmo SM-2 calcula el intervalo óptimo de repaso para cada tarjeta individualmente. Es la técnica con mayor evidencia científica para la memoria a largo plazo (hasta +200% de retención vs estudio masivo). <strong>Estado: implementado y funcional.</strong></div></div>
+  </div>
+  <div class="principle ok">
+    <div class="principle-icon">🔀</div>
+    <div><div class="principle-title">Interleaving (Entrenamiento Mixto)</div>
+    <div class="principle-body">Mezclar preguntas de módulos diferentes durante una sesión mejora la discriminación entre conceptos y combate la "ilusión de saber". El Entrenamiento Mixto implementa exactamente esto. <strong>Estado: implementado.</strong></div></div>
+  </div>
+  <div class="principle ok">
+    <div class="principle-icon">📝</div>
+    <div><div class="principle-title">Active Recall (Recuperación activa)</div>
+    <div class="principle-body">Generar la respuesta antes de verla es hasta 4× más efectivo que releer el temario. Todo el sistema de test fuerza la recuperación activa. <strong>Estado: implementado.</strong></div></div>
+  </div>
+  <div class="principle ok">
+    <div class="principle-icon">🔥</div>
+    <div><div class="principle-title">Error Analysis</div>
+    <div class="principle-body">Estudiar los errores frecuentes con más atención que el resto es crítico para oposiciones. La página "Mis Errores" lo implementa con umbral de 2+ fallos. <strong>Estado: implementado.</strong></div></div>
+  </div>
+  <div class="principle ok">
+    <div class="principle-icon">🎯</div>
+    <div><div class="principle-title">Simulacro en condiciones reales</div>
+    <div class="principle-body">Practicar sin corrección inmediata, con tiempo, y con penalización (−⅓) replica el estrés del examen real y mejora el rendimiento el día D. <strong>Estado: implementado.</strong></div></div>
+  </div>
+  <div class="principle">
+    <div class="principle-icon">⏱️</div>
+    <div><div class="principle-title">Técnica Pomodoro adaptada</div>
+    <div class="principle-body">Sesiones de 25-45 minutos con descansos estructurados mejoran la concentración y reducen la fatiga cognitiva. El programa ya asigna tipos de sesión por día, pero no hay temporizador de sesión activo.</div></div>
+  </div>
+  <div class="principle">
+    <div class="principle-icon">📖</div>
+    <div><div class="principle-title">Elaborative Interrogation</div>
+    <div class="principle-body">Añadir "¿por qué esta opción es correcta?" tras cada pregunta aumenta significativamente la consolidación. Actualmente no hay campo de explicación en las preguntas.</div></div>
+  </div>
+
+  <hr class="divider" />
+
+  <!-- ───────── BUGS CORREGIDOS ───────── -->
+  <h2>✅ Bugs corregidos en esta sesión <span class="badge done" style="background:#dcfce7;color:#166534">Ya aplicados</span></h2>
+
+  <table>
+    <thead><tr><th>Archivo</th><th>Bug</th><th>Impacto</th></tr></thead>
+    <tbody>
+      <tr><td>auth.ts</td><td>Usuario "invitado"/"guest" entraba sin contraseña</td><td><span class="tag high">Seguridad</span></td></tr>
+      <tr><td>dashboard/page.tsx</td><td>Botón "Solventar puntos débiles" redirigía a /exam (simulacro) en vez de /errores</td><td><span class="tag high">Funcional</span></td></tr>
+      <tr><td>dashboard/page.tsx + programa/page.tsx</td><td>Tipo de día "weaks" sin etiqueta, color ni ruta de acción</td><td><span class="tag high">Funcional</span></td></tr>
+      <tr><td>exam/page.tsx</td><td>XP del examen se guardaba en BD pero no actualizaba la caché local → nivel no cambiaba al instante</td><td><span class="tag med">UX</span></td></tr>
+      <tr><td>api/progress/bulk/route.ts</td><td>sessionId generado con Math.random() → colisiones posibles</td><td><span class="tag med">Datos</span></td></tr>
+      <tr><td>errores/page.tsx</td><td>Import "getWrongCount" declarado pero nunca usado</td><td><span class="tag low">Código</span></td></tr>
+      <tr><td>api/admin/create-user/route.ts</td><td>Ruta legacy duplicada con auth Bearer diferente y sin soporte de rol</td><td><span class="tag med">Arquitectura</span></td></tr>
+    </tbody>
+  </table>
+
+  <h2>✨ Mejoras UX/UI aplicadas</h2>
+
+  <div class="grid2">
+    <div class="card brand">
+      <h3>🎯 Simulacro mejorado</h3>
+      <ul>
+        <li><strong>⚑ Marcar preguntas</strong> durante el examen para revisarlas después</li>
+        <li><strong>Filtros en revisión</strong>: Todas / Errores / Correctas / Sin responder / Marcadas</li>
+        <li><strong>Leyenda en el grid</strong> de navegación (respondida/marcada/sin respuesta)</li>
+        <li><strong>Selec. todo / Limpiar</strong> en selector de módulos personalizado</li>
+        <li><strong>Contador de módulos</strong> seleccionados activo</li>
+      </ul>
+    </div>
+    <div class="card brand">
+      <h3>📅 Dashboard + Programa</h3>
+      <ul>
+        <li><strong>Módulos del día clicables</strong> → van directo a /study/modId</li>
+        <li><strong>Módulos atrasados acumulados</strong> con aviso ámbar</li>
+        <li><strong>Barra de progreso del programa</strong> en la tarjeta de hoy</li>
+        <li><strong>Badges HOY / ATRASADO</strong> en las tarjetas de módulos</li>
+        <li><strong>Toggle Esta semana / Todo el programa</strong> en la página de programa</li>
+        <li><strong>Vista completa agrupada por fases</strong> (Vuelta 1, 2, Sprint)</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr class="divider" />
+
+  <!-- ───────── ARQUITECTURA: LOCALSTORAGE ───────── -->
+  <h2>🗄️ Estrategia DB-first vs localStorage</h2>
+  <p>El usuario quiere "<em>todo a la BD, nada de localStorage</em>". La arquitectura actual usa localStorage como <strong>caché de UI rápida</strong> y la BD como <strong>fuente de verdad</strong>. Esto es correcto para una PWA móvil (offline-first). El problema real era que <strong>algunas escrituras no llegaban a la BD</strong>. Estado actual:</p>
+
+  <table>
+    <thead><tr><th>Dato</th><th>Escribe en BD</th><th>Caché localStorage</th><th>Problema</th></tr></thead>
+    <tbody>
+      <tr><td>Card states (SM-2)</td><td>✅ Sí (fire-and-forget)</td><td>Sí</td><td>—</td></tr>
+      <tr><td>Sesiones de estudio</td><td>✅ Sí (bulk API)</td><td>Sí (últimas 30)</td><td>—</td></tr>
+      <tr><td>XP tras simulacro</td><td>✅ Sí (bulk API)</td><td>⚠️ No actualizaba local</td><td><span class="tag done">Corregido</span></td></tr>
+      <tr><td>XP tras estudio normal</td><td>✅ Sí (persistXP)</td><td>Sí</td><td>—</td></tr>
+      <tr><td>Progreso diario</td><td>✅ Sí (daily-progress)</td><td>Sí</td><td>—</td></tr>
+      <tr><td>Racha de estudio</td><td>✅ Sí (touch-day)</td><td>Sí</td><td>—</td></tr>
+      <tr><td>Bookmarks</td><td>✅ Sí</td><td>Sí</td><td>—</td></tr>
+      <tr><td>Programa de estudio</td><td>✅ Sí (API study-program)</td><td>No</td><td>—</td></tr>
+    </tbody>
+  </table>
+
+  <div class="card amber" style="margin-top:0.75rem">
+    <h3>⚠️ Pendiente: next_review / last_review como DATE vs timestamp</h3>
+    <p>El schema SQL define <code>next_review DATE</code> pero el código envía timestamps en milisegundos (Unix ms). El driver <em>postgres.js</em> puede manejar esto, pero lo correcto sería usar <code>TIMESTAMPTZ</code> o convertir explícitamente con <code>to_timestamp($value/1000.0)::date</code> en la query. Bajo riesgo en producción, pero corrección recomendada.</p>
+  </div>
+
+  <hr class="divider" />
+
+  <!-- ───────── HOJA DE RUTA ───────── -->
+  <h2>🗺️ Hoja de ruta — próximas mejoras recomendadas</h2>
+  <p>Ordenadas por impacto en preparación del examen vs esfuerzo de implementación.</p>
+
+  <h3>🔴 Prioridad Alta — máximo impacto en el aprendizaje</h3>
+
+  <div class="roadmap-item p1">
+    <div class="num">1</div>
+    <div>
+      <strong>Explicaciones / Justificaciones por pregunta</strong>
+      <span>Añadir un campo <code>explanation</code> en los JSON de preguntas y mostrarlo tras confirmar respuesta. El <em>elaborative interrogation</em> (entender el porqué) consolida 3× mejor que solo saber la respuesta. Ejemplo: tras fallar "El EBEP regula…" mostrar el artículo concreto y el contexto normativo.</span>
+    </div>
+  </div>
+
+  <div class="roadmap-item p1">
+    <div class="num">2</div>
+    <div>
+      <strong>Modo "Test rápido 10 min" desde el Dashboard</strong>
+      <span>Botón directo que lanza 10–15 preguntas de repasos pendientes del día. Las investigaciones muestran que <em>múltiples sesiones cortas</em> (2–3 × 15 min) son más eficaces que una sola sesión larga. Actualmente hay que ir a /study → elegir módulo → elegir modo "Due".</span>
+    </div>
+  </div>
+
+  <div class="roadmap-item p1">
+    <div class="num">3</div>
+    <div>
+      <strong>Puntuación calibrada en simulacros (percentil histórico)</strong>
+      <span>Mostrar "Esta semana tu media es 68% — hoy has sacado 72% (+4)" usando el historial de sesiones ya guardado en la BD. Permite al usuario ver su progresión real, no solo el resultado aislado de cada examen.</span>
+    </div>
+  </div>
+
+  <h3>🟡 Prioridad Media — mejora significativa de UX</h3>
+
+  <div class="roadmap-item p2">
+    <div class="num">4</div>
+    <div>
+      <strong>Temporizador Pomodoro integrado en el modo estudio</strong>
+      <span>Añadir un contador 25 min (estudio) + 5 min (pausa) visible en la barra superior de /study. Al terminar el Pomodoro, mostrar una pantalla de pausa con el resumen de lo estudiado. Ciencia: la técnica Pomodoro mejora la concentración y reduce la procrastinación.</span>
+    </div>
+  </div>
+
+  <div class="roadmap-item p2">
+    <div class="num">5</div>
+    <div>
+      <strong>Gráfica de evolución semanal en /stats</strong>
+      <span>Línea de % de aciertos por semana usando los datos de <code>user_sessions</code>. Actualmente la página /stats existe pero no sé si está completa. Ver la mejora visual es un gran motivador (efecto Hawthorne). Datos ya disponibles en BD.</span>
+    </div>
+  </div>
+
+  <div class="roadmap-item p2">
+    <div class="num">6</div>
+    <div>
+      <strong>Corregir schema: DATE → TIMESTAMPTZ para next_review / last_review</strong>
+      <span>Migración sencilla: <code>ALTER TABLE card_states ALTER COLUMN next_review TYPE TIMESTAMPTZ USING to_timestamp(EXTRACT(EPOCH FROM next_review))</code>. Evitar bugs futuros de zona horaria.</span>
+    </div>
+  </div>
+
+  <div class="roadmap-item p2">
+    <div class="num">7</div>
+    <div>
+      <strong>Modo "Repaso de artículos de ley" en /leyes</strong>
+      <span>La página /leyes ya existe pero revisar su implementación. Las oposiciones Osakidetza tienen peso fuerte en LPAC, EBEP, EAPV. Un modo de estudio de preguntas filtradas por ley (no solo por módulo) ayuda a contextualizar normativa.</span>
+    </div>
+  </div>
+
+  <h3>🟢 Prioridad Baja — pulido y calidad de vida</h3>
+
+  <div class="roadmap-item p3">
+    <div class="num">8</div>
+    <div>
+      <strong>Notificación push "Es hora de repasar"</strong>
+      <span>PWA push notification cuando hay >10 preguntas pendientes y no se ha estudiado en el día. Aumenta el cumplimiento del programa sin abrir la app manualmente.</span>
+    </div>
+  </div>
+
+  <div class="roadmap-item p3">
+    <div class="num">9</div>
+    <div>
+      <strong>Modo "Simulacro en papel" — PDF exportable</strong>
+      <span>Generar un PDF con 60 preguntas aleatorias (sin respuestas) para imprimir y practicar sin pantalla. Útil en las últimas semanas antes del examen.</span>
+    </div>
+  </div>
+
+  <div class="roadmap-item p3">
+    <div class="num">10</div>
+    <div>
+      <strong>Configurar objetivo diario desde el perfil</strong>
+      <span>La API <code>/api/user/goal</code> ya existe pero no hay UI para cambiar el objetivo diario desde el dashboard. Un selector simple de 10/20/30/50 preguntas al día.</span>
+    </div>
+  </div>
+
+  <hr class="divider" />
+
+  <!-- ───────── TÉCNICAS DE ESTUDIO ───────── -->
+  <h2>🎓 Guía: Cómo estudiar para oposiciones tipo test (evidencia científica)</h2>
+
+  <div class="card">
+    <h3>1. La curva del olvido — por qué el repaso espaciado es imprescindible</h3>
+    <p>Sin repasar, olvidamos el 50% en 1 hora, el 70% en 24 horas, y casi el 90% en una semana. El algoritmo SM-2 de la app calcula exactamente cuándo repasar cada pregunta para reforzar justo antes del olvido, multiplicando la eficiencia del estudio.</p>
+    <p><strong>Práctica recomendada:</strong> Estudia al menos 20 preguntas de repaso ("Due") cada día antes de ver temas nuevos.</p>
+  </div>
+
+  <div class="card">
+    <h3>2. Testing Effect — el test es mejor que releer</h3>
+    <p>Volver a leer el temario da sensación de aprendizaje pero produce poca retención. Hacerse preguntas (aunque fallen) fuerza al cerebro a recuperar la información, formando conexiones más fuertes. Es el principio detrás de toda la app.</p>
+    <p><strong>Práctica recomendada:</strong> No releas un tema sin antes pasar por el módulo correspondiente en modo "Libre" o "Due".</p>
+  </div>
+
+  <div class="card">
+    <h3>3. Interleaving — mezclar es mejor que bloques</h3>
+    <p>Estudiar 30 preguntas del Tema 1 + 30 del Tema 2 produce mejor retención a largo plazo que 60 del Tema 1 seguidas. El Entrenamiento Mixto implementa esto. Úsalo 3–4 días a la semana, especialmente en la Vuelta 2.</p>
+    <p><strong>Práctica recomendada:</strong> Alterna módulos específicos con comunes en sesiones largas. No hagas módulos enteros de una vez.</p>
+  </div>
+
+  <div class="card">
+    <h3>4. Simulacros: cuándo, cuántos y cómo</h3>
+    <ul>
+      <li><strong>Vuelta 1 (temario nuevo):</strong> Simulacro corto de 30 preguntas los sábados, solo del temario visto esa semana.</li>
+      <li><strong>Vuelta 2 (consolidación):</strong> Simulacro completo 60/90min los jueves y sábados.</li>
+      <li><strong>Sprint final (últimas 3 semanas):</strong> Simulacro oficial cada lunes y sábado. Revisa TODOS los errores el día siguiente.</li>
+      <li><strong>Regla de oro:</strong> Revisar los errores del simulacro es más valioso que hacer otro simulacro.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>5. Sesiones óptimas de estudio</h3>
+    <ul>
+      <li><strong>Duración ideal:</strong> 25–45 minutos de concentración máxima (técnica Pomodoro). Pausa de 5–10 min.</li>
+      <li><strong>Frecuencia:</strong> 2–3 sesiones por día son más efectivas que 1 sesión larga. El cerebro consolida en los descansos.</li>
+      <li><strong>Por la mañana:</strong> Temas nuevos (mayor energía cognitiva).</li>
+      <li><strong>Por la tarde/noche:</strong> Repasos pendientes (Due) y errores frecuentes.</li>
+      <li><strong>Nunca estudies >2h seguidas</strong> sin un descanso real de 20 min.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>6. La noche antes del examen</h3>
+    <ul>
+      <li>No estudies temario nuevo. Solo repasa esquemas o errores conocidos, máximo 1h.</li>
+      <li>Duerme mínimo 7–8 horas. La consolidación de memoria ocurre durante el sueño.</li>
+      <li>Haz un simulacro corto de 20 preguntas al mediodía para "calentar" sin agotar.</li>
+    </ul>
+  </div>
+
+  <hr class="divider" />
+
+  <div class="card green">
+    <h3>✅ Resumen ejecutivo</h3>
+    <p>La app ya implementa los 5 pilares científicamente validados para oposiciones tipo test. Los bugs críticos están corregidos. La arquitectura BD-first funciona correctamente (el localStorage es solo caché de UI, todos los datos van a la BD).</p>
+    <p>Las mejoras con mayor ROI pedagógico para el tiempo que queda hasta el examen (junio 2026) son: <strong>explicaciones por pregunta</strong>, <strong>test rápido diario</strong> desde el dashboard, y <strong>gráfica de evolución</strong> para mantener la motivación.</p>
+  </div>
+
+  <p style="text-align:center; color:#94a3b8; font-size:0.75rem; margin-top:2rem">Generado con Claude · Osakidetza OPE 2026 · Andoni Uriasaiz</p>
+</div>
+</body>
+</html>
