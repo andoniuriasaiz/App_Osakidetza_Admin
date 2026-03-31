@@ -33,7 +33,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t17",
-    "explanation": "POIE 2025-2030: La vigencia temporal del Plan Oncológico Integral de Euskadi (POIE) es 2025-2030. Respuesta B."
+    "explanation": "POIE 2025-2030: La vigencia temporal del Plan Oncológico Integral de Euskadi (POIE) es 2025-2030. Respuesta B.",
+    "originalId": 271
   },
   {
     "id": "comun-t17_2",
@@ -69,7 +70,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t17",
-    "explanation": "POIE 2025-2030 (Resumen Ejecutivo): El cáncer es responsable del 28% de las muertes en Euskadi, siendo la segunda causa de mortalidad. La C recoge correctamente este porcentaje. Respuesta C."
+    "explanation": "POIE 2025-2030 (Resumen Ejecutivo): El cáncer es responsable del 28% de las muertes en Euskadi, siendo la segunda causa de mortalidad. La C recoge correctamente este porcentaje. Respuesta C.",
+    "originalId": 272
   },
   {
     "id": "comun-t17_3",
@@ -105,7 +107,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t17",
-    "explanation": "POIE 2025-2030 Resumen Ejecutivo: Las dos localizaciones más frecuentes en el período 2015-2019 fueron: cáncer de mama en mujeres y cáncer de próstata en hombres. Respuesta B."
+    "explanation": "POIE 2025-2030 Resumen Ejecutivo: Las dos localizaciones más frecuentes en el período 2015-2019 fueron: cáncer de mama en mujeres y cáncer de próstata en hombres. Respuesta B.",
+    "originalId": 273
   },
   {
     "id": "comun-t17_4",
@@ -141,7 +144,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t17",
-    "explanation": "POIE 2025-2030: Los cinco ejes o áreas prioritarias del Plan Oncológico son: Prevención y detección precoz, Diagnóstico y tratamiento, Cuidados y calidad de vida, Investigación e innovación, e Información y vigilancia epidemiológica. Respuesta C."
+    "explanation": "POIE 2025-2030: Los cinco ejes o áreas prioritarias del Plan Oncológico son: Prevención y detección precoz, Diagnóstico y tratamiento, Cuidados y calidad de vida, Investigación e innovación, e Información y vigilancia epidemiológica. Respuesta C.",
+    "originalId": 274
   },
   {
     "id": "comun-t17_5",
@@ -177,7 +181,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t17",
-    "explanation": "POIE 2025-2030: El Plan incorpora el enfoque de equidad para garantizar que todos los pacientes oncológicos tengan acceso equitativo a los tratamientos y cuidados, independientemente de su lugar de residencia o situación socioeconómica. Respuesta A."
+    "explanation": "POIE 2025-2030: El Plan incorpora el enfoque de equidad para garantizar que todos los pacientes oncológicos tengan acceso equitativo a los tratamientos y cuidados, independientemente de su lugar de residencia o situación socioeconómica. Respuesta A.",
+    "originalId": 275
   },
   {
     "id": "comun-t17_6",
@@ -213,7 +218,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t17",
-    "explanation": "POIE 2025-2030: El Plan contempla la participación de los pacientes oncológicos y sus familias como agentes activos en el diseño y evaluación de los servicios oncológicos. Respuesta B."
+    "explanation": "POIE 2025-2030: El Plan contempla la participación de los pacientes oncológicos y sus familias como agentes activos en el diseño y evaluación de los servicios oncológicos. Respuesta B.",
+    "originalId": 277
   },
   {
     "id": "comun-t17_7",
@@ -249,7 +255,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t17",
-    "explanation": "POIE 2025-2030: Los programas de cribado (detección precoz) contemplados en el Plan incluyen: cribado de cáncer colorrectal, de cáncer de mama y de cáncer de cérvix. Respuesta C."
+    "explanation": "POIE 2025-2030: Los programas de cribado (detección precoz) contemplados en el Plan incluyen: cribado de cáncer colorrectal, de cáncer de mama y de cáncer de cérvix. Respuesta C.",
+    "originalId": 278
   },
   {
     "id": "comun-t17_8",
@@ -285,6 +292,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t17",
-    "explanation": "POIE 2025-2030 (Listado de acrónimos): 'PROMs' corresponde a 'Patient-Reported Outcome Measures', traducido como 'Medidas de Resultados Reportadas por los y las Pacientes'. Son instrumentos que recogen la perspectiva del paciente sobre los resultados de su tratamiento. Respuesta D."
+    "explanation": "POIE 2025-2030 (Listado de acrónimos): 'PROMs' corresponde a 'Patient-Reported Outcome Measures', traducido como 'Medidas de Resultados Reportadas por los y las Pacientes'. Son instrumentos que recogen la perspectiva del paciente sobre los resultados de su tratamiento. Respuesta D.",
+    "originalId": 279
   }
 ]

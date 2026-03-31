@@ -33,7 +33,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Art. 4.2 Ley 31/1995 + Manual Informativo Osakidetza: 'Riesgo laboral': LA POSIBILIDAD DE QUE UN TRABAJADOR SUFRA UN DETERMINADO DAÑO DERIVADO DEL TRABAJO. No es solo la probabilidad de accidente durante la jornada (a), ni exclusivamente daños por accidente (c), ni toda situación peligrosa detectada (d). Respuesta B."
+    "explanation": "Art. 4.2 Ley 31/1995 + Manual Informativo Osakidetza: 'Riesgo laboral': LA POSIBILIDAD DE QUE UN TRABAJADOR SUFRA UN DETERMINADO DAÑO DERIVADO DEL TRABAJO. No es solo la probabilidad de accidente durante la jornada (a), ni exclusivamente daños por accidente (c), ni toda situación peligrosa detectada (d). Respuesta B.",
+    "originalId": 162
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_2",
@@ -69,7 +70,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo Osakidetza: Un accidente se define como 'todo SUCESO NO DESEADO NI ESPERADO que puede dar lugar a PÉRDIDAS DE LA SALUD O LESIONES en las personas.' Esta definición es más amplia que la legal (que requiere lesión corporal). No requiere que sea durante la jornada (a), ni fuera del entorno laboral (b), ni solo en el centro de trabajo (d). Respuesta C."
+    "explanation": "Manual Informativo Osakidetza: Un accidente se define como 'todo SUCESO NO DESEADO NI ESPERADO que puede dar lugar a PÉRDIDAS DE LA SALUD O LESIONES en las personas.' Esta definición es más amplia que la legal (que requiere lesión corporal). No requiere que sea durante la jornada (a), ni fuera del entorno laboral (b), ni solo en el centro de trabajo (d). Respuesta C.",
+    "originalId": 163
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_3",
@@ -105,7 +107,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo Osakidetza: En caso de accidente de trabajo, el trabajador deberá notificarlo A LA MAYOR BREVEDAD POSIBLE tanto A SU RESPONSABLE INMEDIATO como A LA UNIDAD BÁSICA DE PREVENCIÓN (UBP). No se notifica solo a la UBP (b), ni se va al sanitario sin comunicar (c), ni se espera al día siguiente (d). Respuesta A."
+    "explanation": "Manual Informativo Osakidetza: En caso de accidente de trabajo, el trabajador deberá notificarlo A LA MAYOR BREVEDAD POSIBLE tanto A SU RESPONSABLE INMEDIATO como A LA UNIDAD BÁSICA DE PREVENCIÓN (UBP). No se notifica solo a la UBP (b), ni se va al sanitario sin comunicar (c), ni se espera al día siguiente (d). Respuesta A.",
+    "originalId": 164
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_4",
@@ -141,7 +144,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo Osakidetza (manipulación manual de cargas): Técnica correcta: MANTENER LA ESPALDA RECTA y FLEXIONAR LAS RODILLAS durante la elevación de la carga. Así se aprovecha la musculatura de piernas (más potente) y se protege la columna. El esfuerzo con musculatura dorsal (a) o con el tronco sin flexionar piernas (c) son técnicas incorrectas. Respuesta B."
+    "explanation": "Manual Informativo Osakidetza (manipulación manual de cargas): Técnica correcta: MANTENER LA ESPALDA RECTA y FLEXIONAR LAS RODILLAS durante la elevación de la carga. Así se aprovecha la musculatura de piernas (más potente) y se protege la columna. El esfuerzo con musculatura dorsal (a) o con el tronco sin flexionar piernas (c) son técnicas incorrectas. Respuesta B.",
+    "originalId": 165
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_5",
@@ -177,7 +181,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo Osakidetza (riesgos biológicos): El personal con mayor exposición es: EL PERSONAL QUE PRESTA ASISTENCIA DIRECTA A ENFERMOS, EL PERSONAL DE LABORATORIO y EL PERSONAL QUE TRABAJA CON ANIMALES. No todo el personal por igual (a), ni específicamente el administrativo (b), ni solo el de limpieza (c). Respuesta D."
+    "explanation": "Manual Informativo Osakidetza (riesgos biológicos): El personal con mayor exposición es: EL PERSONAL QUE PRESTA ASISTENCIA DIRECTA A ENFERMOS, EL PERSONAL DE LABORATORIO y EL PERSONAL QUE TRABAJA CON ANIMALES. No todo el personal por igual (a), ni específicamente el administrativo (b), ni solo el de limpieza (c). Respuesta D.",
+    "originalId": 166
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_6",
@@ -213,7 +218,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo Osakidetza (productos químicos): Regla absoluta: 'NUNCA SE DEBE OLER NI PROBAR UN PRODUCTO QUÍMICO, CON INDEPENDENCIA DE SU ETIQUETADO O USO HABITUAL.' La opción a) admite oler para identificar (FALSO — nunca está justificado). La d) dice que basta conservarlos cerrados (FALSO — hay más medidas). Respuesta C."
+    "explanation": "Manual Informativo Osakidetza (productos químicos): Regla absoluta: 'NUNCA SE DEBE OLER NI PROBAR UN PRODUCTO QUÍMICO, CON INDEPENDENCIA DE SU ETIQUETADO O USO HABITUAL.' La opción a) admite oler para identificar (FALSO — nunca está justificado). La d) dice que basta conservarlos cerrados (FALSO — hay más medidas). Respuesta C.",
+    "originalId": 167
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_7",
@@ -249,7 +255,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "RD 488/1997 + Manual PVD Osakidetza: Se considera 'usuario de PVD' el trabajador que supere MÁS DE 4 HORAS DIARIAS o MÁS DE 20 HORAS SEMANALES de trabajo efectivo con la pantalla de visualización de datos. Umbrales exactos: 4 horas/día / 20 horas/semana. Respuesta A."
+    "explanation": "RD 488/1997 + Manual PVD Osakidetza: Se considera 'usuario de PVD' el trabajador que supere MÁS DE 4 HORAS DIARIAS o MÁS DE 20 HORAS SEMANALES de trabajo efectivo con la pantalla de visualización de datos. Umbrales exactos: 4 horas/día / 20 horas/semana. Respuesta A.",
+    "originalId": 168
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_8",
@@ -285,7 +292,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo PVD Osakidetza (fatiga visual): La FATIGA VISUAL se debe específicamente a: LA ILUMINACIÓN INADECUADA DEL PUESTO y LA PRESENCIA DE BRILLOS, REFLEJOS Y DESLUMBRAMIENTOS en la pantalla. Las posturas forzadas (a) causan fatiga musculoesquelética, las pausas (b) son preventivas pero no la causa, y el teclado/ratón (d) causan otra tipología de fatiga. Respuesta C."
+    "explanation": "Manual Informativo PVD Osakidetza (fatiga visual): La FATIGA VISUAL se debe específicamente a: LA ILUMINACIÓN INADECUADA DEL PUESTO y LA PRESENCIA DE BRILLOS, REFLEJOS Y DESLUMBRAMIENTOS en la pantalla. Las posturas forzadas (a) causan fatiga musculoesquelética, las pausas (b) son preventivas pero no la causa, y el teclado/ratón (d) causan otra tipología de fatiga. Respuesta C.",
+    "originalId": 169
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_9",
@@ -321,7 +329,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo PVD Osakidetza (condiciones ambientales): Se recomienda ORIENTAR LA PANTALLA PERPENDICULARMENTE A LAS VENTANAS PARA EVITAR DESLUMBRAMIENTOS, de forma que las ventanas queden a los laterales del puesto. La opción a) 'paralela a las ventanas' situaría la ventana directamente frente o detrás del usuario (FALSO). Reducir la iluminación (b) no es correcto. Iluminación exclusivamente artificial (d) tampoco. Respuesta C."
+    "explanation": "Manual Informativo PVD Osakidetza (condiciones ambientales): Se recomienda ORIENTAR LA PANTALLA PERPENDICULARMENTE A LAS VENTANAS PARA EVITAR DESLUMBRAMIENTOS, de forma que las ventanas queden a los laterales del puesto. La opción a) 'paralela a las ventanas' situaría la ventana directamente frente o detrás del usuario (FALSO). Reducir la iluminación (b) no es correcto. Iluminación exclusivamente artificial (d) tampoco. Respuesta C.",
+    "originalId": 170
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_10",
@@ -357,7 +366,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo PVD Osakidetza (regulación de la silla): La altura de la silla se regula hasta que, APOYANDO EL ANTEBRAZO EN LA MESA, SE FORME UN ÁNGULO DE APROXIMADAMENTE 90°. Esto garantiza que los brazos trabajen en una posición neutra. Los pies deben quedar apoyados (usualmente con reposapiés si es necesario), pero el criterio principal de regulación es el ángulo del codo. Respuesta D."
+    "explanation": "Manual Informativo PVD Osakidetza (regulación de la silla): La altura de la silla se regula hasta que, APOYANDO EL ANTEBRAZO EN LA MESA, SE FORME UN ÁNGULO DE APROXIMADAMENTE 90°. Esto garantiza que los brazos trabajen en una posición neutra. Los pies deben quedar apoyados (usualmente con reposapiés si es necesario), pero el criterio principal de regulación es el ángulo del codo. Respuesta D.",
+    "originalId": 171
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_11",
@@ -393,7 +403,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo PVD Osakidetza (atención a personas): Cuando sea necesario atender a personas en un puesto con ordenador, la pantalla podrá colocarse girada HASTA UN MÁXIMO DE 45°. Este giro permite la interacción sin abandonar el puesto y manteniendo visibilidad de la pantalla. Respuesta B."
+    "explanation": "Manual Informativo PVD Osakidetza (atención a personas): Cuando sea necesario atender a personas en un puesto con ordenador, la pantalla podrá colocarse girada HASTA UN MÁXIMO DE 45°. Este giro permite la interacción sin abandonar el puesto y manteniendo visibilidad de la pantalla. Respuesta B.",
+    "originalId": 172
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_12",
@@ -429,7 +440,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo PVD Osakidetza (teclado y ratón): Para prevenir molestias musculoesqueléticas, el teclado y el ratón se colocarán de manera que PERMITAN EL APOYO ADECUADO DE MUÑECAS Y/O ANTEBRAZOS SOBRE LA MESA. Mantener los brazos en suspensión (c) aumenta la carga muscular estática. Solo apoyar las manos (a) es insuficiente. Respuesta B."
+    "explanation": "Manual Informativo PVD Osakidetza (teclado y ratón): Para prevenir molestias musculoesqueléticas, el teclado y el ratón se colocarán de manera que PERMITAN EL APOYO ADECUADO DE MUÑECAS Y/O ANTEBRAZOS SOBRE LA MESA. Mantener los brazos en suspensión (c) aumenta la carga muscular estática. Solo apoyar las manos (a) es insuficiente. Respuesta B.",
+    "originalId": 173
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_13",
@@ -465,7 +477,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Carpeta Roja de Prevención (accidente in itinere): Para que se considere in itinere, además de producirse en el trayecto domicilio-trabajo o viceversa, el MEDIO DE LOCOMOCIÓN SEA EL HABITUAL y EL ITINERARIO SE CONSIDERE NORMAL (el trayecto habitual, sin desvíos no justificados). Respuesta B."
+    "explanation": "Carpeta Roja de Prevención (accidente in itinere): Para que se considere in itinere, además de producirse en el trayecto domicilio-trabajo o viceversa, el MEDIO DE LOCOMOCIÓN SEA EL HABITUAL y EL ITINERARIO SE CONSIDERE NORMAL (el trayecto habitual, sin desvíos no justificados). Respuesta B.",
+    "originalId": 179
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_14",
@@ -501,7 +514,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Carpeta Roja de Prevención (pinchazo/corte): Actuación inmediata: 1) LIMPIAR LA HERIDA SIN RESTREGAR; 2) DEJAR FLUIR LA SANGRE DURANTE 2-3 MINUTOS (no exprimir); 3) APLICAR ANTISÉPTICO. No se tapa inmediatamente (c) ni se acude a urgencias sin manipular (d). Respuesta B."
+    "explanation": "Carpeta Roja de Prevención (pinchazo/corte): Actuación inmediata: 1) LIMPIAR LA HERIDA SIN RESTREGAR; 2) DEJAR FLUIR LA SANGRE DURANTE 2-3 MINUTOS (no exprimir); 3) APLICAR ANTISÉPTICO. No se tapa inmediatamente (c) ni se acude a urgencias sin manipular (d). Respuesta B.",
+    "originalId": 182
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_15",
@@ -537,7 +551,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Carpeta Roja de Prevención (contacto fluidos biológicos con mucosas): Actuación: LAVAR LA ZONA AFECTADA CON AGUA ABUNDANTE O SUERO FISIOLÓGICO DURANTE VARIOS MINUTOS. El arrastre mecánico por irrigación es la medida más efectiva. No se seca sin aclarar (a), ni se aplica jabón sin aclarado (b), ni se usa antiséptico concentrado (c). Respuesta D."
+    "explanation": "Carpeta Roja de Prevención (contacto fluidos biológicos con mucosas): Actuación: LAVAR LA ZONA AFECTADA CON AGUA ABUNDANTE O SUERO FISIOLÓGICO DURANTE VARIOS MINUTOS. El arrastre mecánico por irrigación es la medida más efectiva. No se seca sin aclarar (a), ni se aplica jabón sin aclarado (b), ni se usa antiséptico concentrado (c). Respuesta D.",
+    "originalId": 183
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_16",
@@ -573,7 +588,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Carpeta Roja de Prevención (contacto fluidos biológicos con piel no intacta): Actuación: LAVAR LA ZONA AFECTADA CON AGUA Y JABÓN, SIN FROTAR DE FORMA AGRESIVA (para no ampliar la lesión). No se aplica antiséptico sin aclarado (a), ni se cubre inmediatamente sin lavar (c), ni solo desinfectante alcohólico (d). Respuesta B."
+    "explanation": "Carpeta Roja de Prevención (contacto fluidos biológicos con piel no intacta): Actuación: LAVAR LA ZONA AFECTADA CON AGUA Y JABÓN, SIN FROTAR DE FORMA AGRESIVA (para no ampliar la lesión). No se aplica antiséptico sin aclarado (a), ni se cubre inmediatamente sin lavar (c), ni solo desinfectante alcohólico (d). Respuesta B.",
+    "originalId": 184
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_17",
@@ -609,7 +625,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Carpeta Roja de Prevención (definición de incidente): Un INCIDENTE es un suceso que NO PRODUCE LESIONES, pero SÍ PUEDE OCASIONAR DAÑOS MATERIALES O AMBIENTALES. Se diferencia del accidente (que produce lesión) y del suceso sin consecuencias. No siempre produce baja (a), no son exclusivamente materiales (b), y sí puede haber daños materiales (c incorrecta). Respuesta D."
+    "explanation": "Carpeta Roja de Prevención (definición de incidente): Un INCIDENTE es un suceso que NO PRODUCE LESIONES, pero SÍ PUEDE OCASIONAR DAÑOS MATERIALES O AMBIENTALES. Se diferencia del accidente (que produce lesión) y del suceso sin consecuencias. No siempre produce baja (a), no son exclusivamente materiales (b), y sí puede haber daños materiales (c incorrecta). Respuesta D.",
+    "originalId": 193
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_18",
@@ -645,7 +662,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Manual Informativo Osakidetza (prevención caídas al mismo nivel): Las medidas básicas son: a) MANTENER LIMPIAS Y DESPEJADAS LAS ZONAS DE PASO; b) RETIRAR OBSTÁCULOS Y OBJETOS INNECESARIOS de las zonas de tránsito; c) LIMPIAR INMEDIATAMENTE LOS DERRAMES EN EL SUELO. Las tres son medidas básicas y complementarias. Respuesta D: a), b) y c) correctas."
+    "explanation": "Manual Informativo Osakidetza (prevención caídas al mismo nivel): Las medidas básicas son: a) MANTENER LIMPIAS Y DESPEJADAS LAS ZONAS DE PASO; b) RETIRAR OBSTÁCULOS Y OBJETOS INNECESARIOS de las zonas de tránsito; c) LIMPIAR INMEDIATAMENTE LOS DERRAMES EN EL SUELO. Las tres son medidas básicas y complementarias. Respuesta D: a), b) y c) correctas.",
+    "originalId": 197
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_19",
@@ -681,7 +699,8 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Carpeta Roja de Prevención: En caso de accidente SIN LESIONES APARENTES, el trabajador igualmente DEBERÁ COMUNICARLO Y CUMPLIMENTAR EL PARTE INTERNO DE NOTIFICACIÓN. Todo accidente, aunque no produzca lesión visible, debe registrarse para el análisis de las causas y la prevención futura. Respuesta B."
+    "explanation": "Carpeta Roja de Prevención: En caso de accidente SIN LESIONES APARENTES, el trabajador igualmente DEBERÁ COMUNICARLO Y CUMPLIMENTAR EL PARTE INTERNO DE NOTIFICACIÓN. Todo accidente, aunque no produzca lesión visible, debe registrarse para el análisis de las causas y la prevención futura. Respuesta B.",
+    "originalId": 198
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_20",
@@ -717,6 +736,7 @@
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Carpeta Roja de Prevención (protocolo accidente biológico): Ante exposición accidental a riesgo biológico el trabajador debe: 1) APLICAR LAS MEDIDAS INMEDIATAS (lavado, antiséptico según el tipo de exposición) y 2) COMUNICAR EL ACCIDENTE al responsable y cumplimentar el parte interno. No se espera pasivamente (a), ni se cumplimenta solo el parte sin medidas previas (c), ni se acude a urgencias sin comunicar (d). Respuesta B."
+    "explanation": "Carpeta Roja de Prevención (protocolo accidente biológico): Ante exposición accidental a riesgo biológico el trabajador debe: 1) APLICAR LAS MEDIDAS INMEDIATAS (lavado, antiséptico según el tipo de exposición) y 2) COMUNICAR EL ACCIDENTE al responsable y cumplimentar el parte interno. No se espera pasivamente (a), ni se cumplimenta solo el parte sin medidas previas (c), ni se acude a urgencias sin comunicar (d). Respuesta B.",
+    "originalId": 200
   }
 ]

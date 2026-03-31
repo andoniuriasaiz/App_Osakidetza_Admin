@@ -33,7 +33,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 6 Decreto 255/1997: El Consejo de Administración de Osakidetza está integrado por 'la persona titular de la presidencia y por un número no superior a CINCO miembros en representación de la Administración de la Comunidad Autónoma de Euskadi'. Respuesta A."
+    "explanation": "Art. 6 Decreto 255/1997: El Consejo de Administración de Osakidetza está integrado por 'la persona titular de la presidencia y por un número no superior a CINCO miembros en representación de la Administración de la Comunidad Autónoma de Euskadi'. Respuesta A.",
+    "originalId": 72
   },
   {
     "id": "comun-t05_2",
@@ -69,7 +70,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Decreto 255/1997, art. 22: El nombramiento y separación de los Directores de División de la organización central de Osakidetza es competencia del Consejo de Administración, a propuesta del Director General. La app indica C (Director General) pero la competencia recae en el Consejo de Administración. Respuesta B."
+    "explanation": "Decreto 255/1997, art. 22: El nombramiento y separación de los Directores de División de la organización central de Osakidetza es competencia del Consejo de Administración, a propuesta del Director General. La app indica C (Director General) pero la competencia recae en el Consejo de Administración. Respuesta B.",
+    "originalId": 84
   },
   {
     "id": "comun-t05_3",
@@ -105,7 +107,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 8 Decreto 255/1997: La función de 'convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones y decidir los empates con su voto de calidad' en el Consejo de Administración corresponde a 'LA PRESIDENCIA'. Respuesta B."
+    "explanation": "Art. 8 Decreto 255/1997: La función de 'convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones y decidir los empates con su voto de calidad' en el Consejo de Administración corresponde a 'LA PRESIDENCIA'. Respuesta B.",
+    "originalId": 88
   },
   {
     "id": "comun-t05_4",
@@ -141,7 +144,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 14 Decreto 255/1997: La Dirección General cuenta con CUATRO Directores de División. Respuesta C."
+    "explanation": "Art. 14 Decreto 255/1997: La Dirección General cuenta con CUATRO Directores de División. Respuesta C.",
+    "originalId": 89
   },
   {
     "id": "comun-t05_5",
@@ -177,7 +181,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 20 Decreto 255/1997: En materia de gestión asistencial, corresponde a la organización central: supervisar el cumplimiento de políticas de calidad y realizar auditorías (a), coordinar recursos y proponer medidas sobre listas de espera (c), y promover protocolos de interés general (d). 'Definir criterios y proponer la política de precios' NO es función de la organización central en materia de gestión asistencial — los precios se fijan a nivel superior. Respuesta B."
+    "explanation": "Art. 20 Decreto 255/1997: En materia de gestión asistencial, corresponde a la organización central: supervisar el cumplimiento de políticas de calidad y realizar auditorías (a), coordinar recursos y proponer medidas sobre listas de espera (c), y promover protocolos de interés general (d). 'Definir criterios y proponer la política de precios' NO es función de la organización central en materia de gestión asistencial — los precios se fijan a nivel superior. Respuesta B.",
+    "originalId": 91
   },
   {
     "id": "comun-t05_6",
@@ -213,7 +218,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 21 Decreto 255/1997: En materia de gestión de recursos humanos, corresponde a la organización central: supervisar políticas de personal (a), dirigir el registro de personal (c), y gestionar procesos de selección (d). 'Promover acuerdos de cooperación con centros de sanidad PRIVADA' NO es función de la organización central en gestión de RRHH. Respuesta B."
+    "explanation": "Art. 21 Decreto 255/1997: En materia de gestión de recursos humanos, corresponde a la organización central: supervisar políticas de personal (a), dirigir el registro de personal (c), y gestionar procesos de selección (d). 'Promover acuerdos de cooperación con centros de sanidad PRIVADA' NO es función de la organización central en gestión de RRHH. Respuesta B.",
+    "originalId": 92
   },
   {
     "id": "comun-t05_7",
@@ -249,7 +255,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 23 Decreto 255/1997: El objeto de actividad o ámbito de actuación sanitaria de cada organización de servicios se define 'de conformidad con lo dispuesto específicamente en la LEY 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi'. Respuesta B."
+    "explanation": "Art. 23 Decreto 255/1997: El objeto de actividad o ámbito de actuación sanitaria de cada organización de servicios se define 'de conformidad con lo dispuesto específicamente en la LEY 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi'. Respuesta B.",
+    "originalId": 93
   },
   {
     "id": "comun-t05_8",
@@ -285,6 +292,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 22 Decreto 255/1997: La competencia para ejecutar compras de suministros centralizadas y las integradas corresponde 'a la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público Osakidetza'. Respuesta B."
+    "explanation": "Art. 22 Decreto 255/1997: La competencia para ejecutar compras de suministros centralizadas y las integradas corresponde 'a la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público Osakidetza'. Respuesta B.",
+    "originalId": 99
   }
 ]

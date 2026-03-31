@@ -33,7 +33,8 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e13",
-    "explanation": "Art. 4.6 Ley 31/1995: 'Equipo de trabajo': CUALQUIER MÁQUINA, APARATO, INSTRUMENTO O INSTALACIÓN UTILIZADO EN EL TRABAJO. La clave es 'UTILIZADO EN EL TRABAJO'. La opción c) dice 'instrumento utilizado' que es la definición correcta. Respuesta C."
+    "explanation": "Art. 4.6 Ley 31/1995: 'Equipo de trabajo': CUALQUIER MÁQUINA, APARATO, INSTRUMENTO O INSTALACIÓN UTILIZADO EN EL TRABAJO. La clave es 'UTILIZADO EN EL TRABAJO'. La opción c) dice 'instrumento utilizado' que es la definición correcta. Respuesta C.",
+    "originalId": 43
   },
   {
     "id": "aux-e13_2",
@@ -69,7 +70,8 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e13",
-    "explanation": "Art. 4.8 Ley 31/1995: 'Equipo de protección individual': CUALQUIER EQUIPO DESTINADO A SER LLEVADO O SUJETADO POR EL TRABAJADOR para que le PROTEJA DE UNO O VARIOS RIESGOS que puedan amenazar su seguridad o salud, así como cualquier complemento o accesorio destinado a tal fin. Respuesta B."
+    "explanation": "Art. 4.8 Ley 31/1995: 'Equipo de protección individual': CUALQUIER EQUIPO DESTINADO A SER LLEVADO O SUJETADO POR EL TRABAJADOR para que le PROTEJA DE UNO O VARIOS RIESGOS que puedan amenazar su seguridad o salud, así como cualquier complemento o accesorio destinado a tal fin. Respuesta B.",
+    "originalId": 45
   },
   {
     "id": "aux-e13_3",
@@ -105,7 +107,8 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e13",
-    "explanation": "Manual Informativo Osakidetza (definición de accidente): Accidente de trabajo es todo SUCESO NO ESPERADO NI DESEADO que da lugar a PÉRDIDAS DE LA SALUD O LESIONES en los trabajadores. No esperado (a implica deseado). Respuesta B."
+    "explanation": "Manual Informativo Osakidetza (definición de accidente): Accidente de trabajo es todo SUCESO NO ESPERADO NI DESEADO que da lugar a PÉRDIDAS DE LA SALUD O LESIONES en los trabajadores. No esperado (a implica deseado). Respuesta B.",
+    "originalId": 61
   },
   {
     "id": "aux-e13_4",
@@ -141,7 +144,8 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e13",
-    "explanation": "Carpeta Roja de Prevención Osakidetza: Los accidentes en función de las lesiones se clasifican en ACCIDENTE SIN BAJA (a) y ACCIDENTE CON BAJA (b). Ambas clasificaciones son correctas. Respuesta C."
+    "explanation": "Carpeta Roja de Prevención Osakidetza: Los accidentes en función de las lesiones se clasifican en ACCIDENTE SIN BAJA (a) y ACCIDENTE CON BAJA (b). Ambas clasificaciones son correctas. Respuesta C.",
+    "originalId": 62
   },
   {
     "id": "aux-e13_5",
@@ -177,7 +181,8 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e13",
-    "explanation": "Carpeta Roja Osakidetza: La definición INCORRECTA es la opción d): 'Accidente sin baja es cuando la lesión LE IMPOSIBILITA para el desempeño de su trabajo habitual.' Esto es FALSO — accidente SIN BAJA es cuando la lesión NO le imposibilita. La opción d) dice lo contrario de la definición correcta. Respuesta D."
+    "explanation": "Carpeta Roja Osakidetza: La definición INCORRECTA es la opción d): 'Accidente sin baja es cuando la lesión LE IMPOSIBILITA para el desempeño de su trabajo habitual.' Esto es FALSO — accidente SIN BAJA es cuando la lesión NO le imposibilita. La opción d) dice lo contrario de la definición correcta. Respuesta D.",
+    "originalId": 63
   },
   {
     "id": "aux-e13_6",
@@ -213,7 +218,8 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e13",
-    "explanation": "Carpeta Roja Osakidetza: NO se considera accidente in itinere el que ocurre DURANTE LAS VACACIONES (d), aunque el medio de locomoción sea el habitual. El accidente in itinere requiere que sea en el trayecto domicilio-trabajo o viceversa, no durante el periodo vacacional. Respuesta D."
+    "explanation": "Carpeta Roja Osakidetza: NO se considera accidente in itinere el que ocurre DURANTE LAS VACACIONES (d), aunque el medio de locomoción sea el habitual. El accidente in itinere requiere que sea en el trayecto domicilio-trabajo o viceversa, no durante el periodo vacacional. Respuesta D.",
+    "originalId": 64
   },
   {
     "id": "aux-e13_7",
@@ -249,7 +255,8 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e13",
-    "explanation": "Manual Informativo Osakidetza: Si a un trabajador le ocurre un accidente, incidente o agresión, deberá INFORMAR INMEDIATAMENTE a su RESPONSABLE INMEDIATO y, si no puede, a la UNIDAD BÁSICA DE PREVENCIÓN (UBP). No a los dos días (b) ni a los siete días (c). Respuesta A."
+    "explanation": "Manual Informativo Osakidetza: Si a un trabajador le ocurre un accidente, incidente o agresión, deberá INFORMAR INMEDIATAMENTE a su RESPONSABLE INMEDIATO y, si no puede, a la UNIDAD BÁSICA DE PREVENCIÓN (UBP). No a los dos días (b) ni a los siete días (c). Respuesta A.",
+    "originalId": 65
   },
   {
     "id": "aux-e13_8",
@@ -285,6 +292,7 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e13",
-    "explanation": "Manual Informativo Osakidetza (protocolo ante agresión): La actuación inmediata incluye: a) COMUNICAR la agresión al responsable inmediato; b) si requiere asistencia médica, ACUDIR a la UBP; c) CUMPLIMENTAR el Registro de Notificación (Formato I) firmado y enviarlo. Las tres actuaciones son correctas y complementarias. Respuesta D."
+    "explanation": "Manual Informativo Osakidetza (protocolo ante agresión): La actuación inmediata incluye: a) COMUNICAR la agresión al responsable inmediato; b) si requiere asistencia médica, ACUDIR a la UBP; c) CUMPLIMENTAR el Registro de Notificación (Formato I) firmado y enviarlo. Las tres actuaciones son correctas y complementarias. Respuesta D.",
+    "originalId": 67
   }
 ]
