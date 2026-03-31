@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "tec-t08_1",
+    "questionNum": 1,
+    "question": "Conforme a la Ley 8/1997, la dirección, planificación y programación del Sistema Sanitario de Euskadi corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al Parlamento Vasco, mediante ley formal aprobada por mayoría absoluta."
+      },
+      {
+        "value": 2,
+        "text": "A las Diputaciones Forales en el ámbito de sus respectivos territorios históricos."
+      },
+      {
+        "value": 3,
+        "text": "Al Gobierno Vasco, a través del Departamento competente en materia de sanidad."
+      },
+      {
+        "value": 4,
+        "text": "Al Consejo de Administración de Osakidetza-Servicio Vasco de Salud."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Al Gobierno Vasco, a través del Departamento competente en materia de sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 7 Ley 8/1997: la dirección, planificación y programación del Sistema Sanitario de Euskadi corresponde al Gobierno Vasco, que la ejerce a través del Departamento competente en materia de sanidad."
+  },
+  {
+    "id": "tec-t08_2",
+    "questionNum": 2,
+    "question": "Conforme a la Ley 8/1997, el contrato-programa entre el Departamento competente en materia de sanidad y Osakidetza tiene naturaleza jurídica de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Contrato administrativo especial."
+      },
+      {
+        "value": 2,
+        "text": "Contrato de concesión de servicios."
+      },
+      {
+        "value": 3,
+        "text": "Convenio de carácter especial."
+      },
+      {
+        "value": 4,
+        "text": "Encomienda de gestión."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Convenio de carácter especial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 17 Ley 8/1997: el contrato-programa es el instrumento jurídico mediante el que se articula la relación entre el Departamento de Sanidad y Osakidetza, teniendo naturaleza de convenio de carácter especial."
+  },
+  {
+    "id": "tec-t08_3",
+    "questionNum": 3,
+    "question": "Conforme a la Ley 8/1997, Osakidetza-Servicio Vasco de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tiene naturaleza jurídica de organismo autónomo administrativo."
+      },
+      {
+        "value": 2,
+        "text": "Tiene personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines."
+      },
+      {
+        "value": 3,
+        "text": "Carece de personalidad jurídica diferenciada del Departamento competente en materia de sanidad."
+      },
+      {
+        "value": 4,
+        "text": "Tiene naturaleza de sociedad mercantil pública."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Tiene personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 15 Ley 8/1997: Osakidetza-Servicio Vasco de Salud es un ente público de derecho privado con personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines."
+  },
+  {
+    "id": "tec-t08_4",
+    "questionNum": 4,
+    "question": "Conforme a la Ley 8/1997, la dirección, planificación y programación del Sistema Sanitario de Euskadi corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Al ente público Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 3,
+        "text": "Al Gobierno Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Al Consejo de Administración de Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Al Gobierno Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 7 Ley 8/1997: corresponde al Gobierno Vasco la dirección, planificación y programación del Sistema Sanitario de Euskadi, ejercida a través del Departamento de Sanidad."
+  },
+  {
+    "id": "tec-t08_5",
+    "questionNum": 5,
+    "question": "Conforme a la Ley 8/1997, el contrato-programa es el instrumento jurídico mediante el que se articulan:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las relaciones entre el Gobierno Vasco y los centros de salud de atención primaria."
+      },
+      {
+        "value": 2,
+        "text": "De manera directa las relaciones entre el Departamento competente en materia de sanidad y las organizaciones del ente público Osakidetza."
+      },
+      {
+        "value": 3,
+        "text": "Las relaciones entre Osakidetza y las entidades locales."
+      },
+      {
+        "value": 4,
+        "text": "Las relaciones entre el Parlamento Vasco y el Departamento competente en materia de sanidad."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "De manera directa las relaciones entre el Departamento competente en materia de sanidad y las organizaciones del ente público Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 17 Ley 8/1997: el contrato-programa articula de manera directa las relaciones entre el Departamento competente en materia de sanidad y las organizaciones del Ente Público Osakidetza-Servicio Vasco de Salud."
+  },
+  {
+    "id": "tec-t08_6",
+    "questionNum": 6,
+    "question": "Conforme a la Ley 8/1997, señale cuál de los siguientes principios NO se enuncia entre los principios informadores del Sistema Sanitario de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Universalidad."
+      },
+      {
+        "value": 2,
+        "text": "Equidad."
+      },
+      {
+        "value": 3,
+        "text": "Solidaridad ciudadana."
+      },
+      {
+        "value": 4,
+        "text": "Jerarquía administrativa."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Jerarquía administrativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 3 Ley 8/1997: los principios informadores del Sistema Sanitario de Euskadi son universalidad, equidad, solidaridad, calidad, integración, descentralización y participación, entre otros. La jerarquía administrativa no figura como principio informador del sistema."
+  },
+  {
+    "id": "tec-t08_7",
+    "questionNum": 7,
+    "question": "Conforme a la Ley 8/1997, el Consejo de Administración de Osakidetza está integrado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Presidencia y un número no superior a cinco integrantes en representación de la Administración de la CAE."
+      },
+      {
+        "value": 2,
+        "text": "La Presidencia y un número no superior a tres integrantes en representación de la Administración de la CAE."
+      },
+      {
+        "value": 3,
+        "text": "La Presidencia y un número no superior a seis integrantes en representación de la Administración de la CAE."
+      },
+      {
+        "value": 4,
+        "text": "La Presidencia, el Consejero competente en materia de sanidad y tres integrantes adicionales."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La Presidencia y un número no superior a cinco integrantes en representación de la Administración de la CAE."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 18 Ley 8/1997: el Consejo de Administración de Osakidetza estará integrado por la Presidencia y un número no superior a cinco integrantes en representación de la Administración de la Comunidad Autónoma de Euskadi."
+  },
+  {
+    "id": "tec-t08_8",
+    "questionNum": 8,
+    "question": "Conforme a la Ley 8/1997, en materia de determinación de condiciones de trabajo en Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los acuerdos requieren para su validez la aprobación expresa y formal del Consejo de Gobierno."
+      },
+      {
+        "value": 2,
+        "text": "En caso de desacuerdo corresponderá al Consejo de Administración determinar unilateralmente las condiciones de trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Se mantendrá en todo caso un marco único de negociación colectiva en el ente Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "La resolución de conflictos corresponderá exclusivamente al Parlamento Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Se mantendrá en todo caso un marco único de negociación colectiva en el ente Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 22 Ley 8/1997: en Osakidetza se mantendrá un marco único de negociación colectiva, garantizando la uniformidad de las condiciones de trabajo para todo el personal del ente público."
+  },
+  {
+    "id": "tec-t08_9",
+    "questionNum": 9,
+    "question": "Conforme a la Ley 8/1997, las estructuras públicas de provisión de servicios sanitarios se configuran:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como órganos administrativos sin autonomía funcional."
+      },
+      {
+        "value": 2,
+        "text": "Como entidades descentralizadas con autonomía de gestión en el marco de la planificación sanitaria."
+      },
+      {
+        "value": 3,
+        "text": "Como sociedades mercantiles de capital íntegramente público."
+      },
+      {
+        "value": 4,
+        "text": "Como órganos dependientes directamente del Parlamento Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Como entidades descentralizadas con autonomía de gestión en el marco de la planificación sanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 26 Ley 8/1997: las estructuras públicas de provisión de servicios sanitarios se configuran como entidades descentralizadas dotadas de autonomía de gestión, dentro del marco de la planificación sanitaria."
+  },
+  {
+    "id": "tec-t08_10",
+    "questionNum": 10,
+    "question": "Conforme a la Ley 8/1997, la organización de las estructuras públicas de provisión de servicios sanitarios debe orientarse a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La centralización absoluta de la gestión."
+      },
+      {
+        "value": 2,
+        "text": "La compartimentación funcional de los servicios."
+      },
+      {
+        "value": 3,
+        "text": "La integración funcional y continuidad asistencial dentro del Sistema Sanitario de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "La subordinación jerárquica de las organizaciones a las Diputaciones Forales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La integración funcional y continuidad asistencial dentro del Sistema Sanitario de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 26 Ley 8/1997: las estructuras de provisión deben organizarse orientándose hacia la integración funcional y la continuidad asistencial, garantizando la coherencia del sistema."
+  },
+  {
+    "id": "tec-t08_11",
+    "questionNum": 11,
+    "question": "Conforme a la Ley 8/1997, la provisión de servicios sanitarios podrá realizarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exclusivamente mediante gestión directa administrativa."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente mediante conciertos con entidades privadas."
+      },
+      {
+        "value": 3,
+        "text": "Mediante medios propios o ajenos, públicos o privados, conforme a la planificación sanitaria."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente por el Ente Público Osakidetza sin posibilidad de colaboración externa."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Mediante medios propios o ajenos, públicos o privados, conforme a la planificación sanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 13 Ley 8/1997: la provisión de servicios sanitarios puede realizarse mediante medios propios o ajenos, públicos o privados, siempre en el marco de la planificación sanitaria y con los controles establecidos."
+  },
+  {
+    "id": "tec-t08_12",
+    "questionNum": 12,
+    "question": "Conforme a la Ley 8/1997, las estructuras sanitarias como servicio de interés público implican que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se excluye toda forma de colaboración público-privada."
+      },
+      {
+        "value": 2,
+        "text": "Su régimen jurídico impide cualquier autonomía de gestión."
+      },
+      {
+        "value": 3,
+        "text": "Deben garantizar el acceso equitativo a las prestaciones sanitarias en el marco del sistema."
+      },
+      {
+        "value": 4,
+        "text": "Se rigen exclusivamente por Derecho privado."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Deben garantizar el acceso equitativo a las prestaciones sanitarias en el marco del sistema."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Ley 8/1997: la naturaleza de servicio de interés público implica que las estructuras sanitarias deben garantizar el acceso equitativo y universal a las prestaciones, sin exclusiones ni discriminaciones."
+  },
+  {
+    "id": "tec-t08_13",
+    "questionNum": 13,
+    "question": "Conforme a la Ley 8/1997, las estructuras públicas de provisión de servicios sanitarios deberán organizarse de forma que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Queden subordinadas jerárquicamente al Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Se integren funcionalmente en el Sistema Sanitario de Euskadi garantizando la continuidad asistencial."
+      },
+      {
+        "value": 3,
+        "text": "Actúen de manera independiente sin coordinación con la planificación sanitaria."
+      },
+      {
+        "value": 4,
+        "text": "Se configuren exclusivamente como órganos administrativos sin autonomía de gestión."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se integren funcionalmente en el Sistema Sanitario de Euskadi garantizando la continuidad asistencial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 26 Ley 8/1997: la organización de las estructuras de provisión debe garantizar su integración funcional en el sistema y la continuidad asistencial para los pacientes."
+  },
+  {
+    "id": "tec-t08_14",
+    "questionNum": 14,
+    "question": "Conforme a la Ley 8/1997, la autonomía de gestión de las estructuras públicas de provisión de servicios sanitarios:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Excluye cualquier sujeción a la planificación sanitaria."
+      },
+      {
+        "value": 2,
+        "text": "Se ejerce en el marco de los objetivos fijados por la planificación y los instrumentos de relación con el Departamento competente."
+      },
+      {
+        "value": 3,
+        "text": "Impide el control por parte del Ente Público."
+      },
+      {
+        "value": 4,
+        "text": "Supone la aplicación exclusiva del Derecho privado."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se ejerce en el marco de los objetivos fijados por la planificación y los instrumentos de relación con el Departamento competente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 26 Ley 8/1997: la autonomía de gestión de las organizaciones de servicios se ejerce dentro del marco fijado por la planificación sanitaria y los instrumentos de relación establecidos (contrato-programa)."
+  },
+  {
+    "id": "tec-t08_15",
+    "questionNum": 15,
+    "question": "Conforme a la Ley 8/1997, las estructuras sanitarias como servicio de interés público implican que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo pueden gestionarse mediante fórmulas de gestión directa administrativa."
+      },
+      {
+        "value": 2,
+        "text": "Pueden articularse mediante medios propios o ajenos conforme a la planificación sanitaria."
+      },
+      {
+        "value": 3,
+        "text": "Se excluye cualquier colaboración con entidades privadas."
+      },
+      {
+        "value": 4,
+        "text": "No pueden asumir potestades administrativas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Pueden articularse mediante medios propios o ajenos conforme a la planificación sanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 13 Ley 8/1997: la condición de servicio de interés público no impide que la provisión se articule mediante medios propios o ajenos, públicos o privados, siempre conforme a la planificación sanitaria."
+  },
+  {
+    "id": "tec-t08_16",
+    "questionNum": 16,
+    "question": "Conforme a la Ley 8/1997, el carácter de servicio de interés público de las estructuras sanitarias comporta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La aplicación exclusiva del Derecho privado en su actividad."
+      },
+      {
+        "value": 2,
+        "text": "La obligación de garantizar el acceso equitativo a las prestaciones sanitarias dentro del sistema."
+      },
+      {
+        "value": 3,
+        "text": "La inexistencia de autonomía organizativa."
+      },
+      {
+        "value": 4,
+        "text": "La dependencia funcional de las Diputaciones Forales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La obligación de garantizar el acceso equitativo a las prestaciones sanitarias dentro del sistema."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Ley 8/1997: el carácter de servicio de interés público comporta la obligación de garantizar el acceso equitativo de toda la ciudadanía a las prestaciones sanitarias, en condiciones de igualdad."
+  },
+  {
+    "id": "tec-t08_17",
+    "questionNum": 17,
+    "question": "Conforme a la Ley 8/1997, las estructuras públicas de provisión de servicios sanitarios:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Actúan exclusivamente mediante gestión directa administrativa."
+      },
+      {
+        "value": 2,
+        "text": "Pueden organizarse en estructuras descentralizadas con autonomía de gestión."
+      },
+      {
+        "value": 3,
+        "text": "Carecen de responsabilidad en la gestión de recursos asignados."
+      },
+      {
+        "value": 4,
+        "text": "Dependen jerárquicamente de las Diputaciones Forales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Pueden organizarse en estructuras descentralizadas con autonomía de gestión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 26 Ley 8/1997: las estructuras públicas de provisión pueden organizarse de forma descentralizada, con autonomía de gestión dentro del marco de la planificación sanitaria establecida por el Departamento de Sanidad."
+  },
+  {
+    "id": "tec-t08_18",
+    "questionNum": 18,
+    "question": "Conforme al Decreto 255/1997, el Ente Público Osakidetza-Servicio Vasco de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Carece de personalidad jurídica propia."
+      },
+      {
+        "value": 2,
+        "text": "Tiene personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines."
+      },
+      {
+        "value": 3,
+        "text": "Es un órgano administrativo integrado en el Departamento competente en materia de sanidad."
+      },
+      {
+        "value": 4,
+        "text": "Tiene naturaleza de sociedad mercantil pública."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Tiene personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta B."
+  },
+  {
+    "id": "tec-t08_19",
+    "questionNum": 19,
+    "question": "Según el Decreto 255/1997, el Consejo de Administración de Osakidetza es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un órgano unipersonal con funciones ejecutivas."
+      },
+      {
+        "value": 2,
+        "text": "El órgano colegiado rector del Ente Público."
+      },
+      {
+        "value": 3,
+        "text": "Un órgano consultivo sin competencias decisorias."
+      },
+      {
+        "value": 4,
+        "text": "Un órgano dependiente jerárquicamente de cada organización de servicios."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El órgano colegiado rector del Ente Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 9 Decreto 255/1997: el Consejo de Administración es el órgano rector colegiado de Osakidetza, con competencias de gobierno y dirección estratégica del Ente Público."
+  },
+  {
+    "id": "tec-t08_20",
+    "questionNum": 20,
+    "question": "Conforme al Decreto 255/1997, la Dirección General del Ente Público:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es un órgano colegiado."
+      },
+      {
+        "value": 2,
+        "text": "Ejerce funciones ejecutivas y de dirección ordinaria del Ente."
+      },
+      {
+        "value": 3,
+        "text": "Carece de competencias propias."
+      },
+      {
+        "value": 4,
+        "text": "Sustituye al Consejo de Administración en todas sus funciones."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ejerce funciones ejecutivas y de dirección ordinaria del Ente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 255/1997: la Dirección General es el órgano unipersonal de dirección ejecutiva y ordinaria de Osakidetza, responsable de la gestión diaria del Ente bajo las directrices del Consejo de Administración."
+  },
+  {
+    "id": "tec-t08_21",
+    "questionNum": 21,
+    "question": "Conforme al Decreto 255/1997, la Secretaría del Consejo de Administración:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Debe recaer necesariamente en una persona integrante del Consejo con derecho a voto."
+      },
+      {
+        "value": 2,
+        "text": "Puede recaer en una persona que no sea integrante del Consejo y carecer de voto."
+      },
+      {
+        "value": 3,
+        "text": "Es ejercida siempre por el/la Director/a General."
+      },
+      {
+        "value": 4,
+        "text": "Tiene voto dirimente en caso de empate."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Puede recaer en una persona que no sea integrante del Consejo y carecer de voto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 255/1997: la secretaría del Consejo de Administración puede recaer en una persona que no sea miembro del Consejo, en cuyo caso asistirá con voz pero sin voto."
+  },
+  {
+    "id": "tec-t08_22",
+    "questionNum": 22,
+    "question": "Conforme al Decreto 255/1997, el régimen de funcionamiento del Consejo de Administración:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exige unanimidad para la adopción de acuerdos."
+      },
+      {
+        "value": 2,
+        "text": "Se rige por las reglas generales aplicables a los órganos colegiados del sector público."
+      },
+      {
+        "value": 3,
+        "text": "No requiere convocatoria previa."
+      },
+      {
+        "value": 4,
+        "text": "Permite adoptar acuerdos sin acta formal."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se rige por las reglas generales aplicables a los órganos colegiados del sector público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 255/1997: el Consejo de Administración de Osakidetza se rige, en cuanto a su funcionamiento, por las reglas generales de los órganos colegiados de las Administraciones Públicas."
+  },
+  {
+    "id": "tec-t08_23",
+    "questionNum": 23,
+    "question": "Conforme al Decreto 255/1997, la organización central del Ente Público tiene como finalidad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sustituir a las organizaciones de servicios en la prestación directa."
+      },
+      {
+        "value": 2,
+        "text": "Garantizar la coordinación, homogeneidad y dirección estratégica del Ente."
+      },
+      {
+        "value": 3,
+        "text": "Ejercer exclusivamente funciones consultivas."
+      },
+      {
+        "value": 4,
+        "text": "Gestionar únicamente el patrimonio del Ente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Garantizar la coordinación, homogeneidad y dirección estratégica del Ente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 255/1997: la organización central de Osakidetza tiene como función principal garantizar la coordinación, la homogeneidad en la gestión y la dirección estratégica de todo el Ente Público."
+  },
+  {
+    "id": "tec-t08_24",
+    "questionNum": 24,
+    "question": "Conforme al Decreto 255/1997, las organizaciones de servicios:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No pueden ejercer potestades administrativas en ningún caso."
+      },
+      {
+        "value": 2,
+        "text": "Ejercen potestades administrativas cuando así se les atribuya conforme al ordenamiento."
+      },
+      {
+        "value": 3,
+        "text": "Actúan siempre como sociedades mercantiles."
+      },
+      {
+        "value": 4,
+        "text": "Dependen jerárquicamente de las Diputaciones Forales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ejercen potestades administrativas cuando así se les atribuya conforme al ordenamiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 255/1997: las organizaciones de servicios de Osakidetza pueden ejercer potestades administrativas cuando les sean expresamente atribuidas conforme al ordenamiento jurídico vigente."
+  },
+  {
+    "id": "tec-t08_25",
+    "questionNum": 25,
+    "question": "Conforme al Decreto 255/1997, el régimen de gestión de Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se rige exclusivamente por Derecho privado."
+      },
+      {
+        "value": 2,
+        "text": "Se rige exclusivamente por Derecho público."
+      },
+      {
+        "value": 3,
+        "text": "Se somete al Derecho público en el ejercicio de potestades administrativas y al régimen jurídico correspondiente en el resto de su actividad."
+      },
+      {
+        "value": 4,
+        "text": "Excluye la responsabilidad patrimonial frente a terceros."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Se somete al Derecho público en el ejercicio de potestades administrativas y al régimen jurídico correspondiente en el resto de su actividad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 255/1997: Osakidetza aplica el Derecho público cuando ejerce potestades administrativas (actos de autoridad) y el Derecho privado en el resto de su actividad ordinaria, como es propio de los entes públicos de Derecho privado."
+  },
+  {
+    "id": "tec-t08_26",
+    "questionNum": 26,
+    "question": "Conforme al Decreto 255/1997, las organizaciones de servicios:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Son órganos colegiados."
+      },
+      {
+        "value": 2,
+        "text": "Constituyen estructuras descentralizadas de gestión para la provisión de servicios sanitarios."
+      },
+      {
+        "value": 3,
+        "text": "No pueden celebrar contratos."
+      },
+      {
+        "value": 4,
+        "text": "No dependen funcionalmente del Ente Público."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Constituyen estructuras descentralizadas de gestión para la provisión de servicios sanitarios."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 255/1997: las organizaciones de servicios son estructuras descentralizadas del Ente Público, dotadas de cierta autonomía de gestión para la provisión directa de los servicios sanitarios."
+  },
+  {
+    "id": "tec-t08_27",
+    "questionNum": 27,
+    "question": "Conforme al Decreto 67/2003, la aprobación del plan de euskera de Osakidetza compete:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A la Viceconsejería de Política lingüística."
+      },
+      {
+        "value": 2,
+        "text": "Al Consejo de Administración de Osakidetza debiendo informarse a la Viceconsejería de Política lingüística."
+      },
+      {
+        "value": 3,
+        "text": "A la Viceconsejería de Política lingüística debiendo someterse previamente a consulta de las organizaciones sindicales con representación en la Mesa Sectorial de Sanidad."
+      },
+      {
+        "value": 4,
+        "text": "Al Consejo de Sanidad de Euskadi debiendo informarse a la Viceconsejería de Política lingüística."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Al Consejo de Administración de Osakidetza debiendo informarse a la Viceconsejería de Política lingüística."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 67/2003: la aprobación del Plan de Euskera de Osakidetza corresponde al Consejo de Administración del Ente Público, debiendo informarse de ello a la Viceconsejería de Política Lingüística."
+  },
+  {
+    "id": "tec-t08_28",
+    "questionNum": 28,
+    "question": "Con relación a los objetivos mínimos del uso del euskera en atención primaria, el Decreto 67/2003 dispone que los servicios serán bilingües cuando los ámbitos de actuación tengan un porcentaje de euskaldunes:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Superior al 45 %."
+      },
+      {
+        "value": 2,
+        "text": "Superior al 45 % y hasta el 70 %."
+      },
+      {
+        "value": 3,
+        "text": "Superior al 50 %."
+      },
+      {
+        "value": 4,
+        "text": "Superior al 70 %."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Superior al 70 %."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 67/2003: los servicios asistenciales y de atención a la persona usuaria ofertados en atención primaria serán bilingües cuando el porcentaje de euskaldunes en el ámbito de influencia del centro sea superior al 70%."
+  },
+  {
+    "id": "tec-t08_29",
+    "questionNum": 29,
+    "question": "El Decreto 67/2003, de Normalización del Uso del Euskera en Osakidetza, tiene por objeto:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aprobar el Plan de Euskera en Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "Aprobar los perfiles lingüísticos de los puestos funcionales."
+      },
+      {
+        "value": 3,
+        "text": "Establecer las bases que han de regular el Plan de Euskera en Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "Aprobar los perfiles lingüísticos y las fechas de preceptividad de los puestos funcionales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Establecer las bases que han de regular el Plan de Euskera en Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 1 Decreto 67/2003: el decreto tiene por objeto establecer las bases reguladoras del Plan de Euskera en Osakidetza-Servicio Vasco de Salud, no aprobarlo directamente (eso corresponde al Consejo de Administración)."
+  },
+  {
+    "id": "tec-t08_30",
+    "questionNum": 30,
+    "question": "Según el Título preliminar de la Ley 10/1982, Básica de Normalización del Euskera, ¿cuál es la consideración legal del euskera respecto al pueblo vasco?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es una lengua de uso preferente pero no oficial."
+      },
+      {
+        "value": 2,
+        "text": "Es la única lengua oficial en todo el territorio."
+      },
+      {
+        "value": 3,
+        "text": "Es la lengua propia del País Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Es una variante dialectal del patrimonio español."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Es la lengua propia del País Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 2 Ley 10/1982: el euskera es la lengua propia del País Vasco; como tal, todos los ciudadanos tienen el derecho a conocerla y usarla, y los poderes públicos deben garantizar su uso."
+  },
+  {
+    "id": "tec-t08_31",
+    "questionNum": 31,
+    "question": "Según el artículo 5 de la Ley 10/1982, ¿cuál de los siguientes es un derecho lingüístico de la ciudadanía del País Vasco?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El derecho a la exención total de aprender castellano."
+      },
+      {
+        "value": 2,
+        "text": "El derecho a exigir que toda la publicidad privada sea solo en euskera."
+      },
+      {
+        "value": 3,
+        "text": "El derecho a recibir atención exclusivamente en castellano en centros extranjeros."
+      },
+      {
+        "value": 4,
+        "text": "El derecho a relacionarse en euskera o en castellano con la administración."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El derecho a relacionarse en euskera o en castellano con la administración."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 5 Ley 10/1982: todos los ciudadanos tienen derecho a relacionarse con la Administración Pública en cualquiera de las dos lenguas oficiales (euskera o castellano) y a ser atendidos en la lengua que elijan."
+  },
+  {
+    "id": "tec-t08_32",
+    "questionNum": 32,
+    "question": "De acuerdo con el artículo 8 de la Ley 10/1982, ¿cómo deben redactarse las notificaciones y comunicaciones administrativas de los poderes públicos en el País Vasco?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En la lengua que el personal funcionario de turno considere apropiada."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente en euskera para fomentar su normalización progresiva."
+      },
+      {
+        "value": 3,
+        "text": "En forma bilingüe, salvo que las personas interesadas elijan expresamente una lengua."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente en castellano para asegurar la comprensión legal."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En forma bilingüe, salvo que las personas interesadas elijan expresamente una lengua."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 8 Ley 10/1982: las notificaciones y comunicaciones de los poderes públicos se redactarán en forma bilingüe, salvo que las personas interesadas expresamente elijan recibir la comunicación en una sola lengua."
+  },
+  {
+    "id": "tec-t08_33",
+    "questionNum": 33,
+    "question": "¿Qué función cumple el órgano de encuentro mencionado en el artículo 29 de la Ley 10/1982, Básica de Normalización del Euskera?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sancionar a las empresas privadas que no utilicen el euskera en su rotulación."
+      },
+      {
+        "value": 2,
+        "text": "Sustituir a la Real Academia de la Lengua Vasca en sus funciones normativas."
+      },
+      {
+        "value": 3,
+        "text": "Traducir todos los libros de texto al euskera batua."
+      },
+      {
+        "value": 4,
+        "text": "Canalizar y coordinar los esfuerzos de las diversas instituciones en la normalización del euskera."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Canalizar y coordinar los esfuerzos de las diversas instituciones en la normalización del euskera."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 29 Ley 10/1982: el órgano de encuentro previsto en la ley tiene como función canalizar y coordinar los esfuerzos de las diversas instituciones públicas y privadas en el proceso de normalización del uso del euskera."
+  },
+  {
+    "id": "tec-t08_34",
+    "questionNum": 34,
+    "question": "Según el Decreto 67/2003, ¿qué requisito de personal debe cumplir una unidad administrativa para ser considerada bilingüe?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que el 100% de las personas trabajadoras sean bilingües nativas acreditadas."
+      },
+      {
+        "value": 2,
+        "text": "Que al menos el 50% de los puestos tengan asignado el perfil lingüístico 4."
+      },
+      {
+        "value": 3,
+        "text": "Que la persona responsable y el 80% de los puestos de la unidad tengan un perfil lingüístico con fecha de preceptividad."
+      },
+      {
+        "value": 4,
+        "text": "Que la persona responsable de la unidad posea un título universitario en Filología Vasca."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Que la persona responsable y el 80% de los puestos de la unidad tengan un perfil lingüístico con fecha de preceptividad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Decreto 67/2003: para que una unidad se considere bilingüe, se requiere que la persona responsable y el 80% de los puestos de la unidad tengan asignado un perfil lingüístico con fecha de preceptividad ya alcanzada."
+  },
+  {
+    "id": "tec-t08_35",
+    "questionNum": 35,
+    "question": "Conforme a la Ley 31/1995, en relación con los daños derivados del trabajo, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se considerarán daños derivados del trabajo las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo."
+      },
+      {
+        "value": 2,
+        "text": "Se considerarán daños derivados del trabajo las lesiones que puedan producirse en un futuro inmediato con motivo u ocasión del trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Se considerarán daños derivados del trabajo todos los perjuicios que se hayan producido o que puedan producirse en ausencia de medidas preventivas."
+      },
+      {
+        "value": 4,
+        "text": "No se considerarán daños derivados del trabajo los acaecidos por incumplimiento grave de la persona trabajadora en la adopción de medidas preventivas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se considerarán daños derivados del trabajo las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 4.3 Ley 31/1995: se consideran daños derivados del trabajo las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo, incluyendo accidentes de trabajo y enfermedades profesionales."
+  },
+  {
+    "id": "tec-t08_36",
+    "questionNum": 36,
+    "question": "De conformidad con la Ley 31/1995, el derecho a una protección eficaz en materia de seguridad y salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es un derecho colectivo exclusivamente."
+      },
+      {
+        "value": 2,
+        "text": "Implica un deber de protección de la persona empresaria frente a los riesgos laborales."
+      },
+      {
+        "value": 3,
+        "text": "Solo se activa tras producirse un accidente."
+      },
+      {
+        "value": 4,
+        "text": "Es disponible por convenio colectivo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Implica un deber de protección de la persona empresaria frente a los riesgos laborales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 14 Ley 31/1995: el derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo supone la existencia de un correlativo deber del empresario de protección frente a los riesgos laborales."
+  },
+  {
+    "id": "tec-t08_37",
+    "questionNum": 37,
+    "question": "De conformidad con la Ley 31/1995, el coste de las medidas relativas a la seguridad y salud en el trabajo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Puede repercutirse parcialmente a la persona trabajadora."
+      },
+      {
+        "value": 2,
+        "text": "Puede descontarse del salario previa aceptación de la persona trabajadora."
+      },
+      {
+        "value": 3,
+        "text": "No deberá recaer en modo alguno sobre las personas trabajadoras."
+      },
+      {
+        "value": 4,
+        "text": "Se distribuye entre persona empresaria y trabajadora."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No deberá recaer en modo alguno sobre las personas trabajadoras."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 14.5 Ley 31/1995: el coste de las medidas relativas a la seguridad y salud en el trabajo no podrá recaer en modo alguno sobre los trabajadores."
+  },
+  {
+    "id": "tec-t08_38",
+    "questionNum": 38,
+    "question": "De conformidad con la Ley 31/1995, entre los principios de la acción preventiva NO se encuentra:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Anteponer la protección individual a la colectiva."
+      },
+      {
+        "value": 2,
+        "text": "Evitar los riesgos."
+      },
+      {
+        "value": 3,
+        "text": "Combatir los riesgos en su origen."
+      },
+      {
+        "value": 4,
+        "text": "Adaptar el trabajo a la persona."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Anteponer la protección individual a la colectiva."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 15.1.h Ley 31/1995: uno de los principios de la acción preventiva es anteponer las medidas de protección colectiva a las individuales, exactamente al contrario de lo que afirma la opción A."
+  },
+  {
+    "id": "tec-t08_39",
+    "questionNum": 39,
+    "question": "De conformidad con la Ley 31/1995, la evaluación inicial de riesgos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo se realiza una vez al inicio de la actividad empresarial."
+      },
+      {
+        "value": 2,
+        "text": "Debe actualizarse cuando cambien las condiciones de trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Es voluntaria en empresas de menos de 10 personas trabajadoras."
+      },
+      {
+        "value": 4,
+        "text": "Solo se realiza tras accidente laboral."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Debe actualizarse cuando cambien las condiciones de trabajo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 16.2 Ley 31/1995: la evaluación de riesgos deberá revisarse cuando puedan haberse producido cambios significativos en las condiciones de trabajo o cuando los daños para la salud de los trabajadores así lo hagan necesario."
+  },
+  {
+    "id": "tec-t08_40",
+    "questionNum": 40,
+    "question": "De conformidad con la Ley 31/1995, si la evaluación pone de manifiesto situaciones de riesgo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona empresaria podrá esperar a la actuación inspectora para adoptar las medidas oportunas."
+      },
+      {
+        "value": 2,
+        "text": "La persona empresaria deberá planificar la actividad preventiva necesaria."
+      },
+      {
+        "value": 3,
+        "text": "Se paraliza automáticamente la actividad que motive el riesgo o riesgos."
+      },
+      {
+        "value": 4,
+        "text": "La actuación empresarial se reduce a informar a las personas trabajadoras y a la inspección de trabajo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La persona empresaria deberá planificar la actividad preventiva necesaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 16.2.b Ley 31/1995: cuando la evaluación de riesgos ponga de manifiesto situaciones de riesgo, el empresario deberá planificar la actividad preventiva que proceda con objeto de eliminar, controlar o reducir dichos riesgos."
+  },
+  {
+    "id": "tec-t08_41",
+    "questionNum": 41,
+    "question": "De conformidad con la Ley 31/1995, la formación en materia preventiva:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es voluntaria para la persona trabajadora."
+      },
+      {
+        "value": 2,
+        "text": "Debe impartirse dentro de la jornada siempre que sea posible o con descuento del tiempo invertido."
+      },
+      {
+        "value": 3,
+        "text": "Puede ser sufragada por la persona trabajadora cuando se realice dentro del tiempo de trabajo."
+      },
+      {
+        "value": 4,
+        "text": "Solo se imparte al inicio del contrato."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Debe impartirse dentro de la jornada siempre que sea posible o con descuento del tiempo invertido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 19.2 Ley 31/1995: la formación se impartirá, siempre que sea posible, dentro de la jornada de trabajo o, en su defecto, en otras horas pero con el descuento en aquella del tiempo invertido. Su coste no recae sobre el trabajador."
+  },
+  {
+    "id": "tec-t08_42",
+    "questionNum": 42,
+    "question": "De conformidad con la Ley 31/1995, ante un riesgo grave e inminente el trabajador:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Debe continuar su actividad hasta recibir la oportuna orden empresarial."
+      },
+      {
+        "value": 2,
+        "text": "Solo puede interrumpir la actividad si lo decide el comité de empresa."
+      },
+      {
+        "value": 3,
+        "text": "Debe solicitar autorización de la inspección de trabajo para poder interrumpir la actividad laboral."
+      },
+      {
+        "value": 4,
+        "text": "Puede interrumpir su actividad y abandonar el lugar de trabajo."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Puede interrumpir su actividad y abandonar el lugar de trabajo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 21.2 Ley 31/1995: ante riesgo grave e inminente, el trabajador tiene derecho a interrumpir su actividad y, si fuera necesario, abandonar el lugar de trabajo, sin que pueda sufrir perjuicio alguno por ello."
+  },
+  {
+    "id": "tec-t08_43",
+    "questionNum": 43,
+    "question": "De conformidad con la Ley 31/1995, la vigilancia de la salud de la persona trabajadora:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es siempre obligatoria para la persona trabajadora."
+      },
+      {
+        "value": 2,
+        "text": "Es voluntaria salvo excepciones legalmente previstas."
+      },
+      {
+        "value": 3,
+        "text": "Puede realizarse sin consentimiento de la persona trabajadora en todos los casos."
+      },
+      {
+        "value": 4,
+        "text": "Permite comunicar los resultados médicos a la persona empresaria sin limitación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Es voluntaria salvo excepciones legalmente previstas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t08",
+    "explanation": "Art. 22.1 Ley 31/1995: la vigilancia de la salud solo podrá llevarse a cabo cuando el trabajador preste su consentimiento, salvo en los supuestos específicamente previstos por la ley (riesgos graves para el propio trabajador o terceros, etc.)."
+  }
+]

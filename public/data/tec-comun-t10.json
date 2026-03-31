@@ -33,7 +33,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 3 LO 3/2018: pueden acceder a datos de personas fallecidas sus herederas y personas vinculadas por razones familiares o de hecho, salvo que la persona fallecida lo hubiese prohibido expresamente o la ley lo establezca de otra forma."
+    "explanation": "Art. 3 LO 3/2018: pueden acceder a datos de personas fallecidas sus herederas y personas vinculadas por razones familiares o de hecho, salvo que la persona fallecida lo hubiese prohibido expresamente o la ley lo establezca de otra forma.",
+    "officialId": 105
   },
   {
     "id": "tec-comun-t10_2",
@@ -69,7 +70,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 6 LO 3/2018 y RGPD: el consentimiento debe ser libre, específico, informado e inequívoco. No se requiere que sea verbal (puede ser escrito o por acción positiva). La característica \"verbal\" no es un requisito."
+    "explanation": "Art. 6 LO 3/2018 y RGPD: el consentimiento debe ser libre, específico, informado e inequívoco. No se requiere que sea verbal (puede ser escrito o por acción positiva). La característica \"verbal\" no es un requisito.",
+    "officialId": 106
   },
   {
     "id": "tec-comun-t10_3",
@@ -105,7 +107,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A."
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A.",
+    "officialId": 107
   },
   {
     "id": "tec-comun-t10_4",
@@ -141,7 +144,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 9 LO 3/2018 y art. 9 RGPD: son categorías especiales los datos que revelen ideología, afiliación sindical, religión, creencias, origen racial o étnico, salud, vida sexual u orientación sexual. Las tres opciones son correctas."
+    "explanation": "Art. 9 LO 3/2018 y art. 9 RGPD: son categorías especiales los datos que revelen ideología, afiliación sindical, religión, creencias, origen racial o étnico, salud, vida sexual u orientación sexual. Las tres opciones son correctas.",
+    "officialId": 108
   },
   {
     "id": "tec-comun-t10_5",
@@ -177,7 +181,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 10 LO 3/2018: el tratamiento de datos penales también puede llevarse a cabo por abogados Y procuradores cuando recojan información facilitada por quienes les contraten para el ejercicio de sus funciones. No solo abogados."
+    "explanation": "Art. 10 LO 3/2018: el tratamiento de datos penales también puede llevarse a cabo por abogados Y procuradores cuando recojan información facilitada por quienes les contraten para el ejercicio de sus funciones. No solo abogados.",
+    "officialId": 109
   },
   {
     "id": "tec-comun-t10_6",
@@ -213,7 +218,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 16 LO 3/2018: la persona afectada debe indicar en su solicitud a qué datos se refiere y la corrección necesaria, y cuando sea preciso acompañar documentación justificativa. No siempre es obligatoria la documentación."
+    "explanation": "Art. 16 LO 3/2018: la persona afectada debe indicar en su solicitud a qué datos se refiere y la corrección necesaria, y cuando sea preciso acompañar documentación justificativa. No siempre es obligatoria la documentación.",
+    "officialId": 110
   },
   {
     "id": "tec-comun-t10_7",
@@ -249,7 +255,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A."
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A.",
+    "officialId": 111
   },
   {
     "id": "tec-comun-t10_8",
@@ -285,6 +292,7 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B."
+    "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B.",
+    "officialId": 112
   }
 ]

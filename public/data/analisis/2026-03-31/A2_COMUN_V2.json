@@ -1,0 +1,1802 @@
+[
+  {
+    "ID": 1,
+    "Txt": "De acuerdo con las normas generales de ordenación ",
+    "App": "D",
+    "K": "AD",
+    "O": "D",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 2,
+    "Txt": "Según lo establecido en la normativa vigente sobre",
+    "App": "C",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 3,
+    "Txt": "Según la normativa vigente, el órgano encargado de",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 4,
+    "Txt": "En el marco de la ordenación de las profesiones sa",
+    "App": "D",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 5,
+    "Txt": "Según la normativa de ordenación de las profesione",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 6,
+    "Txt": "De acuerdo con las normas generales de ordenación ",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 7,
+    "Txt": "Los centros sanitarios revisarán que el personal s",
+    "App": "A",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 8,
+    "Txt": "Según dispone la Ley 44/2003, de 21 de noviembre, ",
+    "App": "C",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 9,
+    "Txt": "De acuerdo con la Ley 44/2003, de 21 de noviembre,",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 10,
+    "Txt": "De acuerdo con la Ley 44/2003, de 21 de noviembre,",
+    "App": "D",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 11,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "A",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 12,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "C",
+    "K": "D",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 13,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "C",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 14,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "C",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 15,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 16,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "A",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 17,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "C",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 18,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 19,
+    "Txt": "A los efectos de la Ley 16/2003, de 28 de mayo, de",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 20,
+    "Txt": "Según dispone la Ley 16/2003, de 28 de mayo, de co",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 21,
+    "Txt": "Según dispone la Ley 55/2003, de 16 de diciembre, ",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 22,
+    "Txt": "La condición de personal estatutario fijo se adqui",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 23,
+    "Txt": "Según dice la Ley 55/2003, de 16 de diciembre, del",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 24,
+    "Txt": "La pérdida de la condición de personal estatutario",
+    "App": "D",
+    "K": "CB",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 25,
+    "Txt": "Conforme a la Ley 55/2003, de 16 de diciembre, del",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 26,
+    "Txt": "Procede la extinción de la condición de personal e",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 27,
+    "Txt": "En materia de retribuciones, la Ley 55/2003, de 16",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 28,
+    "Txt": "De acuerdo con la Ley 55/2003, de 16 de diciembre,",
+    "App": "C",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 29,
+    "Txt": "La pérdida de la condición de personal estatutario",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 30,
+    "Txt": "En el supuesto del personal estatutario de los ser",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 31,
+    "Txt": "Para el personal estatutario de los servicios de s",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 32,
+    "Txt": "Según establece la Ley 55/2003, de 16 de diciembre",
+    "App": "B",
+    "K": "BC",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 33,
+    "Txt": "La Ley 55/2003, de 16 de diciembre, del Estatuto M",
+    "App": "C",
+    "K": "B",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 34,
+    "Txt": "Conforme a la Ley 55/2003, de 16 de diciembre, del",
+    "App": "C",
+    "K": "D",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 35,
+    "Txt": "La excedencia voluntaria solicitada por el persona",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 36,
+    "Txt": "La Ley 8/1997, de 26 de junio, de ordenación Sanit",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 37,
+    "Txt": "La Ley 8/1997, de 26 de junio, de ordenación Sanit",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 38,
+    "Txt": "Señale cuál de los siguientes principios no se enu",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 39,
+    "Txt": "La Ley 8/1997, de 26 de junio, de ordenación Sanit",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 40,
+    "Txt": "La Ley 8/1997, de 26 de junio, de ordenación Sanit",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 41,
+    "Txt": "La Ley 8/1997, de 26 de junio, de Ordenación Sanit",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 42,
+    "Txt": "El contrato-programa, tal y como establece la Ley ",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 43,
+    "Txt": "El consejo de administración de Osakidetza-Servici",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 44,
+    "Txt": "Según establece la Ley 8/1997, de 26 de junio, de ",
+    "App": "C",
+    "K": "D",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 45,
+    "Txt": "A los efectos de la Ley 8/1997, de 26 de junio, de",
+    "App": "C",
+    "K": "B",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 46,
+    "Txt": "En el ámbito territorial de la CAPV, las inspeccio",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 47,
+    "Txt": "Señale cuál de los siguientes criterios no está co",
+    "App": "A",
+    "K": "A",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 48,
+    "Txt": "Según establece la Ley 8/1997, de 26 de junio, de ",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 49,
+    "Txt": "Según la Ley 8/1997, de 26 de junio, de Ordenación",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 50,
+    "Txt": "Respecto al personal sujeto al régimen estatutario",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 51,
+    "Txt": "Corresponderá la presidencia del ente público Osak",
+    "App": "B",
+    "K": "D",
+    "O": "B",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 52,
+    "Txt": "La función de nombrar y separar a quienes ocupen l",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 53,
+    "Txt": "La composición del Consejo del ente público Osakid",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 54,
+    "Txt": "La propuesta de Plan Estratégico del ente público ",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 55,
+    "Txt": "La función de convocar, presidir, suspender y leva",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 56,
+    "Txt": "La persona titular de la Dirección General del ent",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 57,
+    "Txt": "Corresponde a la organización central de administr",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 58,
+    "Txt": "Corresponde a la organización central de administr",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 59,
+    "Txt": "Corresponde a cada organización de servicios sanit",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 60,
+    "Txt": "El número de integrantes del equipo directivo de l",
+    "App": "A",
+    "K": "B",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 61,
+    "Txt": "La función de representar al ente público Osakidet",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 62,
+    "Txt": "Para el desarrollo de funciones de propuesta y ase",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 63,
+    "Txt": "Las organizaciones de servicios sanitarios del ent",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 64,
+    "Txt": "En materia específica de inversiones, la competenc",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 65,
+    "Txt": "En el ámbito de una organización de servicios sani",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 66,
+    "Txt": "Según el Artículo 1 del Decreto 100/2018 de las or",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 67,
+    "Txt": "Según el Artículo 2.1 del Decreto 100/2018 de las ",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 68,
+    "Txt": "Según el Artículo 1 del Decreto 100/2018 de las OS",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 69,
+    "Txt": "De acuerdo con el Artículo 3 del Decreto 100/2018 ",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 70,
+    "Txt": "Según el Decreto 100/2018 de las OSI de Osakidetza",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 71,
+    "Txt": "Según el Decreto 100/2018 de las OSI de Osakidetza",
+    "App": "B",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 72,
+    "Txt": "Según el Artículo 5 del Decreto 100/2018 de las OS",
+    "App": "B",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 73,
+    "Txt": "De acuerdo con el Decreto 100/2018 de las OSI de O",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 74,
+    "Txt": "De acuerdo con el Decreto 100/2018 de las OSI de O",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 75,
+    "Txt": "De acuerdo con el Decreto 100/2018 de las OSI de O",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 76,
+    "Txt": "Según el Artículo 7.3 del Decreto 100/2018 de las ",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 77,
+    "Txt": "Según los Artículos 7 y 9 del Decreto 100/2018 de ",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 78,
+    "Txt": "Según el Artículo 8.m del Decreto 100/2018 de las ",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 79,
+    "Txt": "De acuerdo con el Decreto 100/2018 de las OSI de O",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 80,
+    "Txt": "Según el Artículo 19.1 del Decreto 100/2018 de las",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 81,
+    "Txt": "Según el Decreto 147/2015, de 21 de julio, por el ",
+    "App": "B",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 82,
+    "Txt": "Según el Decreto 147/2015, de 21 de julio, todos l",
+    "App": "A",
+    "K": "A",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 83,
+    "Txt": "Según el Decreto 147/2015, de 21 de julio, los pri",
+    "App": "A",
+    "K": "D",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 84,
+    "Txt": "A los efectos de la Declaración sobre Derechos y D",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 85,
+    "Txt": "Según el Decreto 147/2015, de 21 de julio, las per",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 86,
+    "Txt": "Según el Decreto 147/2015, de 21 de julio, la pers",
+    "App": "A",
+    "K": "A",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 87,
+    "Txt": "Según el Decreto 147/2015, de 21 de julio, los Ser",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 88,
+    "Txt": "Según el Decreto 147/2015, de 21 de julio, las rec",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 89,
+    "Txt": "Según dispone la Ley 41/2002, de 14 de noviembre, ",
+    "App": "C",
+    "K": "D",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 90,
+    "Txt": "Según dispone la Ley 41/2002, de 14 de noviembre, ",
+    "App": "C",
+    "K": "A",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 91,
+    "Txt": "Según dispone la Ley 41/2002, de 14 de noviembre, ",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 92,
+    "Txt": "Según dispone la Ley 41/2002, de 14 de noviembre, ",
+    "App": "C",
+    "K": "B",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 93,
+    "Txt": "Según dispone la Ley 41/2002, de 14 de noviembre, ",
+    "App": "C",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 94,
+    "Txt": "Según dispone la Ley 41/2002, de 14 de noviembre, ",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 95,
+    "Txt": "Según dispone la Ley 41/2002, de 14 de noviembre, ",
+    "App": "C",
+    "K": "D",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 96,
+    "Txt": "Según dispone la Ley 41/2002, de 14 de noviembre, ",
+    "App": "C",
+    "K": "A",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 97,
+    "Txt": "Según dispone la Ley 7/2002, de 12 de diciembre, d",
+    "App": "D",
+    "K": "C",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 98,
+    "Txt": "Según dispone la Ley 7/2002, de 12 de diciembre, d",
+    "App": "D",
+    "K": "A",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 99,
+    "Txt": "Según la Ley 7/2002, de 12 de diciembre, de las vo",
+    "App": "A",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 100,
+    "Txt": "Según dispone la Ley 7/2002, de 12 de diciembre, d",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 101,
+    "Txt": "Según dispone la Ley 7/2002, de 12 de diciembre, d",
+    "App": "D",
+    "K": "C",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 102,
+    "Txt": "Según dispone la Ley 7/2002, de 12 de diciembre, d",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 103,
+    "Txt": "Según dispone la Ley 7/2002, de 12 de diciembre, d",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 104,
+    "Txt": "Según dispone la Ley 7/2002, de 12 de diciembre, d",
+    "App": "D",
+    "K": "A",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 105,
+    "Txt": "Según dispone la Ley Orgánica 3/2018, de 5 de dici",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 106,
+    "Txt": "Señale la respuesta que no es correcta. Según la L",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 107,
+    "Txt": "Con relación al tratamiento de los datos personale",
+    "App": "A",
+    "K": "C",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 108,
+    "Txt": "La Ley Orgánica 3/2018, de 5 de diciembre, de Prot",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 109,
+    "Txt": "La Ley Orgánica 3/2018, de 5 de diciembre, de Prot",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 110,
+    "Txt": "Respecto al derecho de rectificación que regula la",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 111,
+    "Txt": "Con relación al tratamiento de datos con fines de ",
+    "App": "A",
+    "K": "C",
+    "O": "A",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 112,
+    "Txt": "Respecto a los sistemas de información de denuncia",
+    "App": "B",
+    "K": "A",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 113,
+    "Txt": "El artículo 1 del Decreto Legislativo 1/2023, de 1",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 114,
+    "Txt": "Según el artículo 2 del Decreto Legislativo 1/2023",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 115,
+    "Txt": "Según el Decreto Legislativo 1/2023, de 16 de marz",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 116,
+    "Txt": "Según el Decreto Legislativo 1/2023, de 16 de marz",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 117,
+    "Txt": "Según el Decreto Legislativo 1/2023, de 16 de marz",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 118,
+    "Txt": "Según el Decreto Legislativo 1/2023, de 16 de marz",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 119,
+    "Txt": "De acuerdo con lo establecido en el artículo 54 de",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 120,
+    "Txt": "De acuerdo con lo establecido en el artículo 54.3 ",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 121,
+    "Txt": "¿Cuántos Objetivos Generales, clasificados como fi",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 122,
+    "Txt": "Según el Plan de Salud Euskadi 2030, la VISIÓN que",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 123,
+    "Txt": "¿Cuál de los siguientes NO es un principio rector ",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 124,
+    "Txt": "El Objetivo General 1 (OG1) del Plan de Salud Eusk",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 125,
+    "Txt": "El Objetivo General 4 (OG4) del Plan de Salud Eusk",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 126,
+    "Txt": "¿A qué hace referencia el acrónimo AVAD en el Plan",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 127,
+    "Txt": "¿Cuál es uno de los objetivos clave del Plan de Sa",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 128,
+    "Txt": "¿Qué enfoque de investigación prioriza el Plan de ",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 129,
+    "Txt": "Según el modelo de evaluación del Plan de Salud Eu",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 130,
+    "Txt": "En la lucha contra las desigualdades, ¿qué tipo de",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 131,
+    "Txt": "Según la comparativa de la Memoria Económica del P",
+    "App": "B",
+    "K": "A",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 132,
+    "Txt": "El Plan de Salud Euskadi 2030 busca lograr \"comuni",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 133,
+    "Txt": "En el ámbito de la salud digital, ¿qué concepto de",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 134,
+    "Txt": "¿Cómo define el Plan de Salud Euskadi 2030 el conc",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 135,
+    "Txt": "¿Cuál es la visión del Plan de Salud Euskadi 2030 ",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 136,
+    "Txt": "Segun el analisis del contexto social del Diagnost",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 137,
+    "Txt": "El documento de Diagnostico del Pacto Vasco de Sal",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 138,
+    "Txt": "Cual es uno de los principales desafios identifica",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 139,
+    "Txt": "Sobre el impacto del cambio global y climatico, el",
+    "App": "B",
+    "K": "D",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 140,
+    "Txt": "El Diagnostico del Pacto Vasco de Salud de Euskadi",
+    "App": "D",
+    "K": "B",
+    "O": "D",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 141,
+    "Txt": "Cual es la finalidad principal de los Valores Fund",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 142,
+    "Txt": "Cual de los siguientes es un Valor Fundamental exp",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 143,
+    "Txt": "El principio de Innovacion en el Pacto Vasco de Sa",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 144,
+    "Txt": "En el marco del Pacto Vasco de Salud, la Orientaci",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 145,
+    "Txt": "En que grandes ambitos se estructuran las Lineas E",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 146,
+    "Txt": "Cual es el papel de la Atencion Primaria y Comunit",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 147,
+    "Txt": "En relacion con la Linea Estrategica 06 sobre Cron",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 148,
+    "Txt": "La Linea Estrategica 07 sobre Atencion Sociosanita",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 149,
+    "Txt": "Respecto a la Salud Mental (Linea 11), el Pacto Va",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 150,
+    "Txt": "La Linea Estrategica 18 sobre Digitalizacion en Sa",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 151,
+    "Txt": "Cual es el Objetivo General establecido para la Es",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 152,
+    "Txt": "El principio hipocratico al que se hace referencia",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 153,
+    "Txt": "Cuales son las dos nuevas Lineas de Accion incorpo",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 154,
+    "Txt": "De acuerdo con la Estrategia de Seguridad del Paci",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 155,
+    "Txt": "Cual es el enfoque principal de la Linea de Accion",
+    "App": "D",
+    "K": "C",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 156,
+    "Txt": "Cual de los siguientes es el Objetivo Especifico n",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 157,
+    "Txt": "La Linea de Accion Corporativa L8 de la Estrategia",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 158,
+    "Txt": "Que documento se menciona en la Estrategia de Segu",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 159,
+    "Txt": "El capitulo de Formacion de la Estrategia de Segur",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 160,
+    "Txt": "Cual de las siguientes Lineas de Accion de la Estr",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 161,
+    "Txt": "Segun el diagnostico del II Plan para la Igualdad ",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 162,
+    "Txt": "Una de las metas del II Plan para la Igualdad de M",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 163,
+    "Txt": "Que institucion aprueba el II Plan para la Igualda",
+    "App": "D",
+    "K": "C",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 164,
+    "Txt": "De acuerdo con el II Plan para la Igualdad de Muje",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 165,
+    "Txt": "Una de las Metas del II Plan para la Igualdad de M",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 166,
+    "Txt": "Cual fue el objetivo del I Plan de Igualdad, tenie",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 167,
+    "Txt": "Cual es la Meta 5 establecida en el II Plan para l",
+    "App": "D",
+    "K": "C",
+    "O": "D",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 168,
+    "Txt": "En relacion con la violencia machista contra las m",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 169,
+    "Txt": "El III Plan de Normalizacion del Uso del Euskera e",
+    "App": "A",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 170,
+    "Txt": "De acuerdo con el III Plan de Normalizacion del Us",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 171,
+    "Txt": "En atencion al III Plan de Normalizacion del Uso d",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 172,
+    "Txt": "El III Plan de Normalizacion del Uso del Euskera e",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 173,
+    "Txt": "El III Plan de Normalizacion del Uso del Euskera e",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 174,
+    "Txt": "Siguiendo lo previsto en el III Plan de Normalizac",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 175,
+    "Txt": "En atencion a lo previsto en el III Plan de Normal",
+    "App": "C",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 176,
+    "Txt": "Conforme al III Plan de Normalizacion del Uso del ",
+    "App": "B",
+    "K": "C",
+    "O": "B",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 177,
+    "Txt": "Segun el Resumen Ejecutivo del Plan Oncologico Int",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 178,
+    "Txt": "Segun el Resumen Ejecutivo del POIE 2025-2030, cua",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 179,
+    "Txt": "Cual de las siguientes es una de las aspiraciones ",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 180,
+    "Txt": "La Mision del Plan Oncologico Integral de Euskadi ",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 181,
+    "Txt": "En el POIE 2025-2030, la Centralidad de la persona",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 182,
+    "Txt": "Cual fue una de las principales areas de mejora id",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 183,
+    "Txt": "Segun el listado de acronimos del POIE 2025-2030, ",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 184,
+    "Txt": "El POIE 2025-2030 se alinea con el Plan de Salud d",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 185,
+    "Txt": "Cual es el objeto fundamental de la Ley Organica 3",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 186,
+    "Txt": "Conforme al Articulo 5 de la LO 3/2021, de regulac",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 187,
+    "Txt": "Segun la LO 3/2021, de regulacion de la eutanasia,",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 188,
+    "Txt": "Segun el Articulo 5 de la LO 3/2021, de regulacion",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 189,
+    "Txt": "Segun la LO 3/2021, de regulacion de la eutanasia,",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 190,
+    "Txt": "Segun la LO 3/2021, de regulacion de la eutanasia,",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 191,
+    "Txt": "Segun la LO 3/2021, de regulacion de la eutanasia,",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 192,
+    "Txt": "Segun la LO 3/2021, de regulacion de la eutanasia,",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 193,
+    "Txt": "Cual es el principio general que establece la Ley ",
+    "App": "A",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 194,
+    "Txt": "Con caracter general, el personal comprendido en l",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 195,
+    "Txt": "Segun la Ley 53/1984, de Incompatibilidades, que r",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 196,
+    "Txt": "Segun la Ley 53/1984, de Incompatibilidades, puede",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 197,
+    "Txt": "Segun la Ley 53/1984, de Incompatibilidades, que o",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 198,
+    "Txt": "Segun la Ley 53/1984, de Incompatibilidades, que a",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 199,
+    "Txt": "Segun la Ley 53/1984, de Incompatibilidades, para ",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 200,
+    "Txt": "La finalidad principal de la Ley 53/1984, de 26 de",
+    "App": "A",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  }
+]

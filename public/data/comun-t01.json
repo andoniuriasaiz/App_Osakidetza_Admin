@@ -33,7 +33,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 2.1.b Ley 44/2003: Para poder ejercer una profesión sanitaria, es requisito imprescindible 'la colegiación, cuando una ley estatal establezca esta obligación para el ejercicio de una profesión titulada o algunas actividades propias de ésta'. Respuesta A.",
+    "explanation": "Art. 2 Ley 44/2003: la colegiación es requisito imprescindible cuando una ley estatal la establezca.",
     "originalId": 1
   },
   {
@@ -245,7 +245,7 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
       "La renuncia se ejerza de acuerdo con procedimientos regulares."
@@ -292,7 +292,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5.1.a Ley 44/2003: Las personas pacientes 'tienen derecho a recibir información sobre su proceso en los términos previstos en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente'. La remisión expresa es a la Ley 41/2002. Respuesta C.",
+    "explanation": "La Ley 44/2003 remite expresamente a la Ley 41/2002 para el derecho de información.",
     "originalId": 8
   },
   {
@@ -329,7 +329,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 6.2 Ley 44/2003: Corresponde al licenciado/graduado en Medicina las actividades de: promoción y mantenimiento de la salud, prevención de enfermedades, diagnóstico, tratamiento, terapéutica, rehabilitación y enjuiciamiento/pronóstico. La DISPENSACIÓN de medicamentos es competencia del farmacéutico (art. 6.3.e Ley 44/2003), NO del médico. Respuesta B.",
+    "explanation": "La dispensación de medicamentos es función del farmacéutico (incorrecta para médico).",
     "originalId": 9
   },
   {
@@ -588,7 +588,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5.1 Ley 44/2003: Entre los deberes del personal sanitario está informar sobre su titulación, especialidad, categoría y función, pero NO se exige informar sobre 'la forma en que han actualizado sus conocimientos' ni sobre 'demandas de responsabilidad que hayan derivado en responsabilidades administrativas'. La opción C describe un deber inexistente en la ley. Respuesta C.",
+    "explanation": "C es el principio falso: no existe deber de informar sobre demandas de responsabilidad administrativa.",
     "originalId": 17
   },
   {
@@ -652,7 +652,7 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
       "Los centros sanitarios acreditados para la formación especializada deberán contar con jefaturas de estudios y con la coordinación docente que resulten adecuados en función de su capacidad docente."

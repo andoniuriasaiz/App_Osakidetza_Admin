@@ -1,0 +1,631 @@
+[
+  {
+    "id": "aux-e11_1",
+    "questionNum": 1,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opinión médica en el ámbito del Sistema Sanitario de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Para aquellos procesos de enfermedad que no conlleven riesgo para la vida o calidad de la misma, en los términos que se desarrollan en el presente Decreto."
+      },
+      {
+        "value": 2,
+        "text": "Para aquellos procesos de enfermedad que conlleven riesgo para la vida o calidad de la misma, en los términos que se desarrollan en el presente Decreto."
+      },
+      {
+        "value": 3,
+        "text": "Para aquellos procesos de enfermedad que conlleven una baja de 3 días, en los términos que se desarrollan en el presente Decreto."
+      },
+      {
+        "value": 4,
+        "text": "Para aquellos procesos de enfermedad que conlleven una baja de 5 días, en los términos que se desarrollan en el presente Decreto."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Para aquellos procesos de enfermedad que conlleven una baja de 3 días, en los términos que se desarrollan en el presente Decreto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007: El ejercicio del derecho a la segunda opinión médica se garantiza PARA AQUELLOS PROCESOS DE ENFERMEDAD QUE CONLLEVEN RIESGO PARA LA VIDA O CALIDAD DE LA MISMA. No para procesos sin riesgo (a) ni para bajas de 3 o 5 días (c, d). Respuesta C.",
+    "originalId": 17
+  },
+  {
+    "id": "aux-e11_2",
+    "questionNum": 2,
+    "question": "El derecho a la segunda opinión médica tiene como finalidad contrastar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un primer diagnóstico."
+      },
+      {
+        "value": 2,
+        "text": "Una propuesta terapéutica."
+      },
+      {
+        "value": 3,
+        "text": "Los datos de la Seguridad Social."
+      },
+      {
+        "value": 4,
+        "text": "a) y b) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los datos de la Seguridad Social."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 1: La finalidad de la segunda opinión médica es CONTRASTAR UN PRIMER DIAGNÓSTICO (a) O UNA PROPUESTA TERAPÉUTICA (b). Ambas opciones son correctas. Respuesta C (a y b correctas).",
+    "originalId": 18
+  },
+  {
+    "id": "aux-e11_3",
+    "questionNum": 3,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opinión médica en los siguientes procesos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Enfermedad neoplásica maligna."
+      },
+      {
+        "value": 2,
+        "text": "Enfermedades neurológicas degenerativas."
+      },
+      {
+        "value": 3,
+        "text": "Enfermedades cardiovasculares."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Enfermedades neurológicas degenerativas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Anexo: El derecho se garantiza para procesos que incluyen ENFERMEDAD NEOPLÁSICA MALIGNA (a), ENFERMEDADES NEUROLÓGICAS DEGENERATIVAS (b) y ENFERMEDADES CARDIOVASCULARES (c) de cierta gravedad. Las tres categorías están contempladas. Respuesta B (todas correctas).",
+    "originalId": 19
+  },
+  {
+    "id": "aux-e11_4",
+    "questionNum": 4,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, podrán solicitar la segunda opinión médica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las personas usuarias residentes en España que tengan derecho a la asistencia sanitaria."
+      },
+      {
+        "value": 2,
+        "text": "Sólo las personas usuarias residentes en Madrid que tengan derecho a la asistencia sanitaria de cobertura pública."
+      },
+      {
+        "value": 3,
+        "text": "Las personas usuarias residentes en la Comunidad Autónoma de Euskadi que tengan derecho a la asistencia sanitaria de cobertura pública a cargo del Sistema Sanitario de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las personas usuarias residentes en la Comunidad Autónoma de Euskadi que tengan derecho a la asistencia sanitaria de cobertura pública a cargo del Sistema Sanitario de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 3: Podrán solicitar la segunda opinión médica LAS PERSONAS USUARIAS RESIDENTES EN LA CAPV QUE TENGAN DERECHO A LA ASISTENCIA SANITARIA DE COBERTURA PÚBLICA a cargo del Sistema Sanitario de Euskadi. No son residentes en España en general (a) ni solo en Madrid (b). Respuesta C.",
+    "originalId": 20
+  },
+  {
+    "id": "aux-e11_5",
+    "questionNum": 5,
+    "question": "La segunda opinión médica será realizada por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Administrativos de un centro integrado en la red pública de Osakidetza-Servicio vasco de salud, distinto a aquél en el que se le haya diagnosticado la enfermedad."
+      },
+      {
+        "value": 2,
+        "text": "Profesionales médicos de un centro integrado en la red pública de Osakidetza- Servicio vasco de salud, distinto a aquél en el que se le haya diagnosticado la enfermedad."
+      },
+      {
+        "value": 3,
+        "text": "Profesionales médicos del centro integrado en la red pública de Osakidetza-Servicio vasco de salud, donde se le haya diagnosticado la enfermedad."
+      },
+      {
+        "value": 4,
+        "text": "Auxiliares de enfermería de un centro integrado en la red pública de Osakidetza- Servicio vasco de salud, distinto a aquél en el que se le haya diagnosticado la enfermedad."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Profesionales médicos de un centro integrado en la red pública de Osakidetza- Servicio vasco de salud, distinto a aquél en el que se le haya diagnosticado la enfermedad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 4: La segunda opinión será realizada por PROFESIONALES MÉDICOS de un centro integrado en la RED PÚBLICA DE OSAKIDETZA-SVS, DISTINTO a aquél en el que se haya diagnosticado la enfermedad. No son administrativos (a) ni auxiliares (d). Respuesta B.",
+    "originalId": 21
+  },
+  {
+    "id": "aux-e11_6",
+    "questionNum": 6,
+    "question": "Preferentemente, el centro en el que se realizará la evaluación que requiera el ejercicio del derecho a la segunda opinión médica será aquel:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre más próximo al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida."
+      },
+      {
+        "value": 2,
+        "text": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre a más de 20 kilómetros de distancia al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida."
+      },
+      {
+        "value": 3,
+        "text": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre a más de 30 kilómetros de distancia al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida."
+      },
+      {
+        "value": 4,
+        "text": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre menos próximo al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre más próximo al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 4.2: Preferentemente, el centro será AQUEL DENTRO DE LA CAPV QUE SE ENCUENTRE MÁS PRÓXIMO al domicilio de la persona, de entre los que dispongan de la especialidad requerida. No el más lejano (d) ni el que esté a más de 20 o 30 km (b, c). Respuesta A.",
+    "originalId": 22
+  },
+  {
+    "id": "aux-e11_7",
+    "questionNum": 7,
+    "question": "Cuando así sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, se podrá obtener una segunda opinión médica en centros concertados o centros sanitarios integrados en el sistema sanitario público de otra Comunidad Autónoma:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Previa autorización del Departamento de Sanidad."
+      },
+      {
+        "value": 2,
+        "text": "Sin previa autorización del Departamento de Sanidad si se solicita con 15 días de antelación."
+      },
+      {
+        "value": 3,
+        "text": "Sin previa autorización del Departamento de Sanidad si se solicita con 10 días de antelación."
+      },
+      {
+        "value": 4,
+        "text": "Sin previa autorización del Departamento de Sanidad si se solicita con 7 días de antelación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Previa autorización del Departamento de Sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 4.3: Cuando sea necesario por las especiales circunstancias de una técnica, se podrá acudir a centros concertados o de otra CCAA PREVIA AUTORIZACIÓN DEL DEPARTAMENTO DE SANIDAD. No es sin autorización (b, c, d). Respuesta A.",
+    "originalId": 23
+  },
+  {
+    "id": "aux-e11_8",
+    "questionNum": 8,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre la segunda opinión médica se fundamentará:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de destino, sin perjuicio de la posibilidad de realizar las pruebas complementarias que fueren necesarias para obtener un diagnóstico."
+      },
+      {
+        "value": 2,
+        "text": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de destino, no pudiendo realizar las pruebas complementarias que fueren necesarias para obtener un diagnóstico."
+      },
+      {
+        "value": 3,
+        "text": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de origen, sin perjuicio de la posibilidad de realizar las pruebas complementarias que fueren necesarias para obtener un diagnóstico."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de origen, sin perjuicio de la posibilidad de realizar las pruebas complementarias que fueren necesarias para obtener un diagnóstico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 5.1: La segunda opinión se fundamentará EN LOS INFORMES Y PRUEBAS REALIZADAS POR EL SERVICIO MÉDICO DE ORIGEN, sin perjuicio de la posibilidad de realizar pruebas complementarias necesarias. El origen (no el destino, opción a) proporciona la documentación base. Respuesta C.",
+    "originalId": 24
+  },
+  {
+    "id": "aux-e11_9",
+    "questionNum": 9,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, por Osakidetza-Servicio vasco de salud se adoptarán las medidas necesarias:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Para repetir las pruebas diagnósticas innecesarias y para garantizar la integración de la información de salud en su correspondiente historia clínica."
+      },
+      {
+        "value": 2,
+        "text": "Para evitar la repetición innecesaria de pruebas diagnósticas y para garantizar la integración de la información de salud en su correspondiente historia clínica."
+      },
+      {
+        "value": 3,
+        "text": "Para repetir las pruebas diagnósticas innecesarias y para garantizar la integración de la información de salud en cualquier historia clínica."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Para evitar la repetición innecesaria de pruebas diagnósticas y para garantizar la integración de la información de salud en su correspondiente historia clínica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 5.2: Osakidetza adoptará medidas para EVITAR LA REPETICIÓN INNECESARIA DE PRUEBAS DIAGNÓSTICAS y para GARANTIZAR LA INTEGRACIÓN DE LA INFORMACIÓN DE SALUD en su historia clínica. No para repetir pruebas innecesariamente (a). Respuesta B.",
+    "originalId": 25
+  },
+  {
+    "id": "aux-e11_10",
+    "questionNum": 10,
+    "question": "La solicitud de una segunda opinión médica podrá presentarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sólo en el Ayuntamiento donde resides."
+      },
+      {
+        "value": 2,
+        "text": "En cualquier unidad del Servicio de Atención al Paciente-Usuario de la red de centros sanitarios de Osakidetza-Servicio vasco de salud."
+      },
+      {
+        "value": 3,
+        "text": "Sólo en la unidad del Servicio de Atención al Paciente-Usuario de la red de centros sanitarios de Osakidetza-Servicio vasco de salud próximo a donde resides."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "En cualquier unidad del Servicio de Atención al Paciente-Usuario de la red de centros sanitarios de Osakidetza-Servicio vasco de salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 6.1: La solicitud de segunda opinión podrá presentarse EN CUALQUIER UNIDAD DEL SERVICIO DE ATENCIÓN AL PACIENTE-USUARIO de la red de centros sanitarios de Osakidetza-SVS. No solo en el Ayuntamiento (a) ni solo en el más próximo (c). Respuesta B.",
+    "originalId": 27
+  },
+  {
+    "id": "aux-e11_11",
+    "questionNum": 11,
+    "question": "La solicitud, que contendrá una exposición de las circunstancias que dan lugar a la petición de una segunda opinión médica, será tramitada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En el centro asistencial que haya atendido en primera instancia al paciente."
+      },
+      {
+        "value": 2,
+        "text": "En cualquier centro asistencial."
+      },
+      {
+        "value": 3,
+        "text": "En el Ayuntamiento donde reside."
+      },
+      {
+        "value": 4,
+        "text": "En el centro asistencial próximo a donde reside."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "En el centro asistencial que haya atendido en primera instancia al paciente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 6.2: La solicitud será tramitada EN EL CENTRO ASISTENCIAL QUE HAYA ATENDIDO EN PRIMERA INSTANCIA al paciente (centro de origen). No en cualquier centro (b) ni en el Ayuntamiento (c). Respuesta A.",
+    "originalId": 28
+  },
+  {
+    "id": "aux-e11_12",
+    "questionNum": 12,
+    "question": "En el centro sanitario de origen, el Servicio de Atención al Paciente-Usuario informará de la solicitud de una segunda opinión médica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al Auxiliar administrativo."
+      },
+      {
+        "value": 2,
+        "text": "Al enfermero."
+      },
+      {
+        "value": 3,
+        "text": "A la Dirección Médica."
+      },
+      {
+        "value": 4,
+        "text": "Al anestesista."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "A la Dirección Médica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 6.3: El Servicio de Atención al Paciente-Usuario del centro de origen informará de la solicitud A LA DIRECCIÓN MÉDICA. No al auxiliar administrativo (a) ni al enfermero (b). Respuesta C.",
+    "originalId": 29
+  },
+  {
+    "id": "aux-e11_13",
+    "questionNum": 13,
+    "question": "El Servicio de Atención al Paciente-Usuario, si hubiere derecho a ello, concertará la fecha, hora y servicio médico que atenderá la petición de segunda opinión desde que tuviere entrada la solicitud en el registro correspondiente, en el plazo de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "12 días hábiles."
+      },
+      {
+        "value": 2,
+        "text": "10 días hábiles."
+      },
+      {
+        "value": 3,
+        "text": "15 días hábiles."
+      },
+      {
+        "value": 4,
+        "text": "18 días hábiles."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "15 días hábiles."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 7: El Servicio de Atención al Paciente-Usuario concertará la cita desde la entrada de la solicitud en el plazo de QUINCE DÍAS HÁBILES. Respuesta C.",
+    "originalId": 30
+  },
+  {
+    "id": "aux-e11_14",
+    "questionNum": 14,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, en el caso de que no se considere adecuada una segunda opinión médica, conforme los criterios que establece el presente Decreto:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios clínicos."
+      },
+      {
+        "value": 2,
+        "text": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios subjetivos."
+      },
+      {
+        "value": 3,
+        "text": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios administrativos."
+      },
+      {
+        "value": 4,
+        "text": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios según la edad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios según la edad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 8: Cuando no se considere adecuada la segunda opinión, se emitirá por la Dirección Médica UN INFORME RAZONADO en el que se valore la solicitud CON ARREGLO A CRITERIOS CLÍNICOS. No subjetivos (b) ni administrativos (c) ni por edad (d). Respuesta D.",
+    "originalId": 31
+  },
+  {
+    "id": "aux-e11_15",
+    "questionNum": 15,
+    "question": "Una vez obtenida la segunda opinión médica si el segundo diagnóstico es confirmatorio del primero, la atención sanitaria se llevará a cabo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En el centro sanitario donde se emitió la segunda opinión médica."
+      },
+      {
+        "value": 2,
+        "text": "En cualquier centro sanitario."
+      },
+      {
+        "value": 3,
+        "text": "En el centro sanitario de origen."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las anteriores respuestas son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "Art. 10 Decreto 149/2007: Si el segundo diagnóstico no confirma el primero (discrepancia), corresponde igualmente al paciente tomar la decisión sobre el tratamiento a seguir, ejerciendo su autonomía. Respuesta D.",
+    "originalId": 33
+  },
+  {
+    "id": "aux-e11_16",
+    "questionNum": 16,
+    "question": "Una vez obtenida la segunda opinión médica si el segundo diagnóstico no es confirmatorio del primero, la atención sanitaria se llevará a cabo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En el centro sanitario donde se emitió la segunda opinión médica."
+      },
+      {
+        "value": 2,
+        "text": "En cualquier centro sanitario."
+      },
+      {
+        "value": 3,
+        "text": "En el centro sanitario de origen."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las anteriores respuestas son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "Art. 10 Decreto 149/2007: Si el segundo diagnóstico no confirma el primero (discrepancia), corresponde igualmente al paciente tomar la decisión sobre el tratamiento a seguir, ejerciendo su autonomía. Respuesta D.",
+    "originalId": 34
+  },
+  {
+    "id": "aux-e11_17",
+    "questionNum": 17,
+    "question": "La obtención de una segunda opinión médica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dará derecho a permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica."
+      },
+      {
+        "value": 2,
+        "text": "No dará derecho a permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica."
+      },
+      {
+        "value": 3,
+        "text": "Decidirá el paciente si permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica."
+      },
+      {
+        "value": 4,
+        "text": "Decidirá el Auxiliar administrativo si permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "No dará derecho a permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e11",
+    "explanation": "D.149/2007 Art. 10: La obtención de una segunda opinión médica NO DARÁ DERECHO A PERMANECER SIMULTÁNEAMENTE, por el mismo proceso, EN DOS LISTAS DE ESPERA para intervención quirúrgica. Respuesta B.",
+    "originalId": 35
+  }
+]

@@ -33,7 +33,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 2 Ley 44/2003: Para ejercer una profesión sanitaria son requisitos: la colegiación (cuando ley estatal la exija), la inexistencia de inhabilitación o suspensión, Y tener suscrito seguro de responsabilidad cuando se ejerza en asistencia sanitaria pública. Al tratarse de requisitos acumulativos, 'todo lo anterior' es la respuesta correcta. Respuesta D."
+    "explanation": "Art. 2 Ley 44/2003: Para ejercer una profesión sanitaria son requisitos: la colegiación (cuando ley estatal la exija), la inexistencia de inhabilitación o suspensión, Y tener suscrito seguro de responsabilidad cuando se ejerza en asistencia sanitaria pública. Al tratarse de requisitos acumulativos, 'todo lo anterior' es la respuesta correcta. Respuesta D.",
+    "officialId": 1
   },
   {
     "id": "tec-comun-t01_2",
@@ -59,17 +60,18 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Se ha de tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas causado con ocasión de la prestación de tal asistencia o servicios cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública."
+      "Se ha de tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas causado con ocasión de la prestación de tal asistencia o servicios cuando se ejerza la profesión en el ámbito de la asistencia sanitaria privada."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 2 Ley 44/2003: El seguro de responsabilidad se exige 'cuando se ejerza la profesión en el ámbito de la asistencia sanitaria PÚBLICA', no privada. La opción C es la única que recoge correctamente el ámbito público y acepta tanto seguro individual como aval u otra garantía financiera de protección colectiva. Respuesta C."
+    "explanation": "Art. 2 Ley 44/2003: El seguro de responsabilidad se exige 'cuando se ejerza la profesión en el ámbito de la asistencia sanitaria PÚBLICA', no privada. La opción C es la única que recoge correctamente el ámbito público y acepta tanto seguro individual como aval u otra garantía financiera de protección colectiva. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 2
   },
   {
     "id": "tec-comun-t01_3",
@@ -105,7 +107,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 3 bis Ley 44/2003 (añadido por Ley 6/2023): El órgano del Registro Estatal de Profesionales Sanitarios podrá consultar los datos del DNI/NIE del personal sanitario ante el organismo competente en identificación de personas para verificar la autenticidad de los documentos aportados. Respuesta A."
+    "explanation": "Art. 3 bis Ley 44/2003 (añadido por Ley 6/2023): El órgano del Registro Estatal de Profesionales Sanitarios podrá consultar los datos del DNI/NIE del personal sanitario ante el organismo competente en identificación de personas para verificar la autenticidad de los documentos aportados. Respuesta A.",
+    "officialId": 3
   },
   {
     "id": "tec-comun-t01_4",
@@ -131,17 +134,18 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Ninguna de las anteriores es correcta."
+      "Tienen derecho a la libre elección del personal facultativo que debe atenderles, tanto si su ejercicio profesional se desarrolla en el sistema público como en el ámbito privado."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta D."
+    "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 4
   },
   {
     "id": "tec-comun-t01_5",
@@ -177,7 +181,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 5.1.c) Ley 44/2003: los pacientes tienen derecho a conocer el nombre, titulación y especialidad del profesional, así como la categoría y función si estuvieran definidas en su centro o institución. No incluye la hoja de servicios."
+    "explanation": "Art. 5.1.c) Ley 44/2003: los pacientes tienen derecho a conocer el nombre, titulación y especialidad del profesional, así como la categoría y función si estuvieran definidas en su centro o institución. No incluye la hoja de servicios.",
+    "officialId": 5
   },
   {
     "id": "tec-comun-t01_6",
@@ -213,7 +218,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 5.2 Ley 44/2003: la renuncia requiere que no conlleve desatención, que se ejerza según procedimientos establecidos y explícitos, y que quede constancia formal. La opción C es incorrecta al decir \"aunque no sea formal\": la ley exige constancia formal."
+    "explanation": "Art. 5.2 Ley 44/2003: la renuncia requiere que no conlleve desatención, que se ejerza según procedimientos establecidos y explícitos, y que quede constancia formal. La opción C es incorrecta al decir \"aunque no sea formal\": la ley exige constancia formal.",
+    "officialId": 6
   },
   {
     "id": "tec-comun-t01_7",
@@ -239,17 +245,18 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Cada cinco años como mínimo."
+      "Cada tres años como mínimo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 22 bis Ley 44/2003 (añadido por RDL 1/2023): los centros sanitarios revisarán el cumplimiento de requisitos cada cinco años como mínimo."
+    "explanation": "Art. 22 bis Ley 44/2003 (añadido por RDL 1/2023): los centros sanitarios revisarán el cumplimiento de requisitos cada cinco años como mínimo.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 7
   },
   {
     "id": "tec-comun-t01_8",
@@ -275,17 +282,18 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Se articulará de forma preferentemente colegiada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
+      "Se articulará, preferentemente, de forma jerarquizada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 9.2 Ley 44/2003: el equipo se articulará de forma jerarquizada o colegiada (opción B es la literal). La opción A dice \"preferentemente jerarquizada\" y la C dice \"preferentemente colegiada\": ambas son incorrectas por añadir \"preferentemente\" donde no lo hay y alterar el texto. La opción C es la incorrecta pedida."
+    "explanation": "Art. 9.2 Ley 44/2003: el equipo se articulará de forma jerarquizada o colegiada (opción B es la literal). La opción A dice \"preferentemente jerarquizada\" y la C dice \"preferentemente colegiada\": ambas son incorrectas por añadir \"preferentemente\" donde no lo hay y alterar el texto. La opción C es la incorrecta pedida.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 8
   },
   {
     "id": "tec-comun-t01_9",
@@ -321,7 +329,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 5 Ley 44/2003: los principios de la relación profesional-paciente incluyen a, b y d. La opción C no corresponde a ningún principio del art. 5; la obligación de informar sobre formación y demandas de responsabilidad no está recogida como principio general."
+    "explanation": "Art. 5 Ley 44/2003: los principios de la relación profesional-paciente incluyen a, b y d. La opción C no corresponde a ningún principio del art. 5; la obligación de informar sobre formación y demandas de responsabilidad no está recogida como principio general.",
+    "officialId": 9
   },
   {
     "id": "tec-comun-t01_10",
@@ -347,16 +356,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Todas las anteriores son incorrectas."
+      "Deberán contar una comisión de docencia, así como con jefaturas de estudios, coordinación docente y personal tutor de la formación que resulten adecuados en función de las actividades a desarrollar."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t01",
-    "explanation": "Art. 40 Ley 44/2003: los centros para formación de especialistas (no simplemente formación continuada) deben contar con comisión de docencia, jefatura de estudios y tutores. Ninguna opción describe exactamente lo que prevé la ley para formación continuada específicamente, que se regula de forma distinta."
+    "explanation": "Art. 40 Ley 44/2003: los centros para formación de especialistas (no simplemente formación continuada) deben contar con comisión de docencia, jefatura de estudios y tutores. Ninguna opción describe exactamente lo que prevé la ley para formación continuada específicamente, que se regula de forma distinta.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 10
   }
 ]

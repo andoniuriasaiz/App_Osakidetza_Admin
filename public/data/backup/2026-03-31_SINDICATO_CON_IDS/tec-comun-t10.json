@@ -1,0 +1,290 @@
+[
+  {
+    "id": "tec-comun-t10_1",
+    "questionNum": 1,
+    "question": "Según dispone la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, podrán tener acceso a los datos personales de las personas fallecidas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las personas vinculadas a la persona fallecida por razones familiares o de hecho así como quienes ostenten la condición de herederas, en todo caso."
+      },
+      {
+        "value": 2,
+        "text": "Solo las personas vinculadas a la persona fallecida por razones familiares siempre que lo hubiera autorizado expresamente la persona fallecida."
+      },
+      {
+        "value": 3,
+        "text": "Las personas vinculadas a la persona fallecida por razones familiares o de hecho así como quienes ostenten la condición de herederas, salvo que la persona fallecida lo hubiese prohibido expresamente."
+      },
+      {
+        "value": 4,
+        "text": "En caso de que la persona fallecida fuera menor de edad, el acceso podrá ejercerse también por sus representantes legales o por el Ministerio Fiscal que siempre actuará de oficio."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las personas vinculadas a la persona fallecida por razones familiares o de hecho así como quienes ostenten la condición de herederas, salvo que la persona fallecida lo hubiese prohibido expresamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t10",
+    "explanation": "Art. 3 LO 3/2018: pueden acceder a datos de personas fallecidas sus herederas y personas vinculadas por razones familiares o de hecho, salvo que la persona fallecida lo hubiese prohibido expresamente o la ley lo establezca de otra forma."
+  },
+  {
+    "id": "tec-comun-t10_2",
+    "questionNum": 2,
+    "question": "Señale la respuesta que no es correcta. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, a efectos del tratamiento de los datos, el consentimiento de la persona afectada tiene que ser una manifestación de voluntad que cumpla las siguientes características:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Libre."
+      },
+      {
+        "value": 2,
+        "text": "Verbal."
+      },
+      {
+        "value": 3,
+        "text": "Específica."
+      },
+      {
+        "value": 4,
+        "text": "Informada."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Verbal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t10",
+    "explanation": "Art. 6 LO 3/2018 y RGPD: el consentimiento debe ser libre, específico, informado e inequívoco. No se requiere que sea verbal (puede ser escrito o por acción positiva). La característica \"verbal\" no es un requisito."
+  },
+  {
+    "id": "tec-comun-t10_3",
+    "questionNum": 3,
+    "question": "Con relación al tratamiento de los datos personales de una persona menor de edad, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años."
+      },
+      {
+        "value": 2,
+        "text": "La Ley Orgánica 3/2018 no prevé que las personas menores de edad puedan dar su consentimiento válidamente a estos efectos."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años."
+      },
+      {
+        "value": 4,
+        "text": "El tratamiento de los datos de las personas menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el consentimiento de quienes ejercen la patria potestad o tutela, con el alcance que dichas personas determinen."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t10",
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A."
+  },
+  {
+    "id": "tec-comun-t10_4",
+    "questionNum": 4,
+    "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, en su artículo 9 considera categorías especiales de datos aquellos que permitan, respecto a la persona afectada, identificar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su ideología y afiliación sindical."
+      },
+      {
+        "value": 2,
+        "text": "Su religión y orientación sexual."
+      },
+      {
+        "value": 3,
+        "text": "Sus creencias u origen racial o étnico."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t10",
+    "explanation": "Art. 9 LO 3/2018 y art. 9 RGPD: son categorías especiales los datos que revelen ideología, afiliación sindical, religión, creencias, origen racial o étnico, salud, vida sexual u orientación sexual. Las tres opciones son correctas."
+  },
+  {
+    "id": "tec-comun-t10_5",
+    "questionNum": 5,
+    "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, establece que el tratamiento de datos de naturaleza penal podrá llevarse a cabo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo por profesionales de la abogacía y cuando tengan por objeto recoger la información facilitada por quienes les contraten."
+      },
+      {
+        "value": 2,
+        "text": "Por profesionales de la abogacía y de la procura, cuando tengan por objeto recoger la información facilitada por quienes les contraten."
+      },
+      {
+        "value": 3,
+        "text": "En los casos previstos por la propia Ley Orgánica 3/2018 y en otras normas de rango reglamentario."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente en los supuestos amparados en una norma de Derecho de la Unión y en la propia Ley Orgánica 2/2018."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Por profesionales de la abogacía y de la procura, cuando tengan por objeto recoger la información facilitada por quienes les contraten."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t10",
+    "explanation": "Art. 10 LO 3/2018: el tratamiento de datos penales también puede llevarse a cabo por abogados Y procuradores cuando recojan información facilitada por quienes les contraten para el ejercicio de sus funciones. No solo abogados."
+  },
+  {
+    "id": "tec-comun-t10_6",
+    "questionNum": 6,
+    "question": "Respecto al derecho de rectificación que regula la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona afectada deberá indicar en su solicitud a qué datos se refiere y deberá acompañar, en todo caso, la documentación justificativa de la inexactitud de los datos."
+      },
+      {
+        "value": 2,
+        "text": "La persona afectada deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse, y cuando sea preciso, deberá acompañar la documentación justificativa de la inexactitud o carácter incompleto de los datos."
+      },
+      {
+        "value": 3,
+        "text": "La persona afectada deberá indicar en su solicitud solo la corrección que haya de realizarse y debe siempre acompañar la documentación justificativa de la inexactitud de los datos."
+      },
+      {
+        "value": 4,
+        "text": "No es necesario que la persona afectada indique expresamente en su solicitud qué datos deben rectificarse."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La persona afectada deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse, y cuando sea preciso, deberá acompañar la documentación justificativa de la inexactitud o carácter incompleto de los datos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t10",
+    "explanation": "Art. 16 LO 3/2018: la persona afectada debe indicar en su solicitud a qué datos se refiere y la corrección necesaria, y cuando sea preciso acompañar documentación justificativa. No siempre es obligatoria la documentación."
+  },
+  {
+    "id": "tec-comun-t10_7",
+    "questionNum": 7,
+    "question": "Con relación al tratamiento de datos con fines de videovigilancia, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo las personas físicas podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes."
+      },
+      {
+        "value": 2,
+        "text": "Los datos serán suprimidos, en todo caso, en el plazo máximo de un mes desde su captación."
+      },
+      {
+        "value": 3,
+        "text": "Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones."
+      },
+      {
+        "value": 4,
+        "text": "En el caso de que los datos hubieran de ser conservados más allá de un mes, deberán ser puestas a disposición de la autoridad competente en un plazo máximo de cuarenta y ocho horas desde que se tuviera conocimiento de la existencia de la grabación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Solo las personas físicas podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t10",
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A."
+  },
+  {
+    "id": "tec-comun-t10_8",
+    "questionNum": 8,
+    "question": "Respecto a los sistemas de información de denuncias internas que contempla la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, es correcta la siguiente afirmación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En todo caso, transcurridos tres meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos."
+      },
+      {
+        "value": 2,
+        "text": "En todo caso, transcurridos seis meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos."
+      },
+      {
+        "value": 3,
+        "text": "En todo caso, y sin excepción, transcurridos seis meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias."
+      },
+      {
+        "value": 4,
+        "text": "La Ley no prevé plazo temporal alguno para la supresión de los datos del sistema de denuncias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "En todo caso, transcurridos seis meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t10",
+    "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B."
+  }
+]

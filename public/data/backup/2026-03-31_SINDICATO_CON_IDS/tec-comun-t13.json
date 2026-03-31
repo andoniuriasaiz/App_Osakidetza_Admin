@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tec-comun-t13_1",
+    "questionNum": 1,
+    "question": "Segun el analisis del contexto social del Diagnostico del Pacto Vasco de Salud de Euskadi, que factor se identifica como motor clave para que la ciudadania del siglo XXI demande un papel mas activo en su salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El incremento exclusivo de la esperanza de vida al nacer."
+      },
+      {
+        "value": 2,
+        "text": "El acceso generalizado a la informacion y un mayor nivel educativo en la CAPV."
+      },
+      {
+        "value": 3,
+        "text": "La reduccion drastica de las listas de espera en consultas externas."
+      },
+      {
+        "value": 4,
+        "text": "La implementacion de la receta electronica en todas las farmacias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El acceso generalizado a la informacion y un mayor nivel educativo en la CAPV."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El Diagnostico del Pacto Vasco indica que el mayor nivel educativo y el acceso generalizado a la informacion son motores clave del empoderamiento ciudadano en salud."
+  },
+  {
+    "id": "tec-comun-t13_2",
+    "questionNum": 2,
+    "question": "El documento de Diagnostico del Pacto Vasco de Salud de Euskadi señala que los flujos migratorios actuales en Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No tienen impacto relevante en el perfil epidemiologico de la comunidad."
+      },
+      {
+        "value": 2,
+        "text": "Revelan patologias anteriormente poco conocidas en nuestro entorno, pero prevalentes en otras latitudes."
+      },
+      {
+        "value": 3,
+        "text": "Se limitan exclusivamente a personas en edad laboral con excelente estado de salud inicial."
+      },
+      {
+        "value": 4,
+        "text": "Han provocado la saturacion irreversible de los servicios de urgencias hospitalarias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Revelan patologias anteriormente poco conocidas en nuestro entorno, pero prevalentes en otras latitudes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El Diagnostico indica que la migracion trae patologias poco conocidas en Euskadi pero prevalentes en paises de origen, suponiendo un reto epidemiologico."
+  },
+  {
+    "id": "tec-comun-t13_3",
+    "questionNum": 3,
+    "question": "Cual es uno de los principales desafios identificados en el Diagnostico del Pacto Vasco de Salud de Euskadi respecto a la formacion y relevo del personal sanitario?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La excesiva oferta de plazas MIR en todas las especialidades medicas."
+      },
+      {
+        "value": 2,
+        "text": "La falta de interes de las nuevas generaciones por las profesiones biosanitarias."
+      },
+      {
+        "value": 3,
+        "text": "La necesidad de planificar el relevo ante la jubilacion de cohortes numerosas de profesionales."
+      },
+      {
+        "value": 4,
+        "text": "La prohibicion de la formacion continua dentro del horario laboral."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La necesidad de planificar el relevo ante la jubilacion de cohortes numerosas de profesionales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El Diagnostico identifica como reto clave la planificacion del relevo generacional ante la proxima jubilacion de grandes cohortes de profesionales sanitarios."
+  },
+  {
+    "id": "tec-comun-t13_4",
+    "questionNum": 4,
+    "question": "Sobre el impacto del cambio global y climatico, el Diagnostico del Pacto Vasco de Salud de Euskadi advierte de la aparicion de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Patologias ligadas exclusivamente al consumo de alimentos ultraprocesados."
+      },
+      {
+        "value": 2,
+        "text": "Nuevos vectores y virus anteriormente inexistentes en nuestro entorno, como el virus del Nilo."
+      },
+      {
+        "value": 3,
+        "text": "Una disminucion natural de las enfermedades respiratorias debido al aumento de temperaturas."
+      },
+      {
+        "value": 4,
+        "text": "La erradicacion total de las enfermedades infecciosas estacionales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Nuevos vectores y virus anteriormente inexistentes en nuestro entorno, como el virus del Nilo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El Diagnostico advierte que el cambio climatico favorece la aparicion de nuevos vectores y patogenos, como el virus del Nilo Occidental, antes inexistentes en el entorno vasco."
+  },
+  {
+    "id": "tec-comun-t13_5",
+    "questionNum": 5,
+    "question": "El Diagnostico del Pacto Vasco de Salud de Euskadi propone que los indicadores sanitarios para evaluar el sistema deben:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Basarse exclusivamente en mediciones de actividad (numero de consultas y cirugias)."
+      },
+      {
+        "value": 2,
+        "text": "Ser confidenciales y accesibles unicamente para la alta direccion del Departamento de Salud."
+      },
+      {
+        "value": 3,
+        "text": "Ignorar la perspectiva de genero para simplificar la toma de datos estadisticos."
+      },
+      {
+        "value": 4,
+        "text": "Reflejar resultados en salud y sostenibilidad, y no solo volumen de actividad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Reflejar resultados en salud y sostenibilidad, y no solo volumen de actividad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El Diagnostico propone orientar los indicadores hacia resultados en salud y sostenibilidad del sistema, superando la vision centrada unicamente en volumen de actividad asistencial."
+  },
+  {
+    "id": "tec-comun-t13_6",
+    "questionNum": 6,
+    "question": "Cual es la finalidad principal de los Valores Fundamentales del Pacto Vasco de Salud, segun el Libro de Valores y principios?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ser la base para la elaboracion del futuro Plan Estrategico de Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "Establecer la estructura financiera y la autonomia de gestion del sistema de salud."
+      },
+      {
+        "value": 3,
+        "text": "Ser el fundamento etico y social que soporta la actividad del Sistema Publico de Salud de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "Garantizar la cobertura universal unicamente a la ciudadania vasca empadronada."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ser el fundamento etico y social que soporta la actividad del Sistema Publico de Salud de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "Los Valores Fundamentales del Pacto Vasco de Salud constituyen el fundamento etico y social sobre el que se sustenta toda la actividad del Sistema Publico de Salud de Euskadi."
+  },
+  {
+    "id": "tec-comun-t13_7",
+    "questionNum": 7,
+    "question": "Cual de los siguientes es un Valor Fundamental explicito del Pacto Vasco de Salud, ademas de la Universalidad y la Equidad?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Sostenibilidad del sistema."
+      },
+      {
+        "value": 2,
+        "text": "La Eficiencia en el gasto."
+      },
+      {
+        "value": 3,
+        "text": "La Corresponsabilidad."
+      },
+      {
+        "value": 4,
+        "text": "El Plurilinguismo como eje central de la atencion."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Corresponsabilidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El Pacto Vasco de Salud define como Valores Fundamentales la Universalidad, la Equidad y la Corresponsabilidad, implicando a ciudadania y profesionales en el sistema."
+  },
+  {
+    "id": "tec-comun-t13_8",
+    "questionNum": 8,
+    "question": "El principio de Innovacion en el Pacto Vasco de Salud se aplica a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exclusivamente a la aplicacion de nuevas tecnologias de imagen medica."
+      },
+      {
+        "value": 2,
+        "text": "La I+D+i en todas las fases y dimensiones de la salud, incluyendo la organizativa y la asistencial."
+      },
+      {
+        "value": 3,
+        "text": "La importacion de modelos de exito de otros sistemas sanitarios europeos."
+      },
+      {
+        "value": 4,
+        "text": "La digitalizacion de la historia clinica en Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La I+D+i en todas las fases y dimensiones de la salud, incluyendo la organizativa y la asistencial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El principio de Innovacion del Pacto Vasco abarca la I+D+i en todas sus dimensiones: clinica, organizativa, tecnologica y de gestion."
+  },
+  {
+    "id": "tec-comun-t13_9",
+    "questionNum": 9,
+    "question": "En el marco del Pacto Vasco de Salud, la Orientacion al Valor significa que el sistema debe priorizar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las intervenciones que generen los mejores resultados relevantes para la persona al menor coste posible."
+      },
+      {
+        "value": 2,
+        "text": "El valor de mercado de las acciones de las empresas proveedoras de tecnologia."
+      },
+      {
+        "value": 3,
+        "text": "El incremento constante de las infraestructuras fisicas sobre la inversion en personal."
+      },
+      {
+        "value": 4,
+        "text": "La compra masiva de medicamentos de marca sobre los genericos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las intervenciones que generen los mejores resultados relevantes para la persona al menor coste posible."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "La Orientacion al Valor como principio rector significa priorizar las intervenciones que aporten los mejores resultados en salud relevantes para la persona al menor coste posible."
+  },
+  {
+    "id": "tec-comun-t13_10",
+    "questionNum": 10,
+    "question": "En que grandes ambitos se estructuran las Lineas Estrategicas del Pacto Vasco de Salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cinco Lineas Estrategicas: prevencion y promocion; atencion a la enfermedad; calidad, innovacion y sostenibilidad; desarrollo de profesionales; y Gobernanza."
+      },
+      {
+        "value": 2,
+        "text": "Seis Lineas Estrategicas: prevencion y promocion; atencion a la enfermedad; areas prioritarias de salud; calidad, innovacion y sostenibilidad; desarrollo de profesionales; y transparencia y participacion ciudadana."
+      },
+      {
+        "value": 3,
+        "text": "Seis Lineas Estrategicas: prevencion y promocion; atencion a la enfermedad; areas prioritarias de salud; calidad, innovacion y sostenibilidad; desarrollo de profesionales; y gobernanza."
+      },
+      {
+        "value": 4,
+        "text": "Seis Lineas Estrategicas: prevencion y promocion; atencion sociosanitaria; areas prioritarias; calidad, innovacion y sostenibilidad; desarrollo de profesionales; y gobernanza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Seis Lineas Estrategicas: prevencion y promocion; atencion a la enfermedad; areas prioritarias de salud; calidad, innovacion y sostenibilidad; desarrollo de profesionales; y gobernanza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El Pacto Vasco de Salud se estructura en 6 Lineas Estrategicas: prevencion/promocion, atencion a la enfermedad, areas prioritarias, calidad/innovacion/sostenibilidad, desarrollo de profesionales y gobernanza."
+  },
+  {
+    "id": "tec-comun-t13_11",
+    "questionNum": 11,
+    "question": "Cual es el papel de la Atencion Primaria y Comunitaria dentro de las Lineas Estrategicas del Pacto Vasco de Salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Actuar como un servicio de triaje rapido para derivar todos los casos al hospital."
+      },
+      {
+        "value": 2,
+        "text": "Ser un servicio opcional para quienes no dispongan de seguro privado."
+      },
+      {
+        "value": 3,
+        "text": "Limitarse a la atencion administrativa y la gestion de bajas laborales."
+      },
+      {
+        "value": 4,
+        "text": "Ser la base estrategica que cohesione y sustente todo el sistema de salud vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Ser la base estrategica que cohesione y sustente todo el sistema de salud vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "El Pacto Vasco posiciona la Atencion Primaria y Comunitaria como la base estrategica que cohesiona y sustenta el conjunto del sistema sanitario vasco."
+  },
+  {
+    "id": "tec-comun-t13_12",
+    "questionNum": 12,
+    "question": "En relacion con la Linea Estrategica 06 sobre Cronicidad del Pacto Vasco de Salud, que objetivo se persigue primordialmente?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Institucionalizar a todas las personas con enfermedades cronicas en centros especializados."
+      },
+      {
+        "value": 2,
+        "text": "Reforzar la autonomia y corresponsabilidad de las personas con enfermedades cronicas."
+      },
+      {
+        "value": 3,
+        "text": "Sustituir las consultas medicas presenciales por seguimiento telefonico automatico."
+      },
+      {
+        "value": 4,
+        "text": "Reducir la cobertura de medicamentos para patologias de larga duracion."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Reforzar la autonomia y corresponsabilidad de las personas con enfermedades cronicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "La Linea Estrategica sobre Cronicidad busca reforzar la autonomia y corresponsabilidad de las personas con enfermedades cronicas, fomentando el autocuidado y la atencion integrada."
+  },
+  {
+    "id": "tec-comun-t13_13",
+    "questionNum": 13,
+    "question": "La Linea Estrategica 07 sobre Atencion Sociosanitaria del Pacto Vasco de Salud subraya la necesidad de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Separar definitivamente las competencias de Salud de las de Servicios Sociales."
+      },
+      {
+        "value": 2,
+        "text": "Mejorar la coordinacion y el transito de las personas entre el sistema sanitario y el social."
+      },
+      {
+        "value": 3,
+        "text": "Eliminar las ayudas a la dependencia para fomentar el ahorro publico."
+      },
+      {
+        "value": 4,
+        "text": "Obligar a las personas pacientes a elegir entre atencion medica o apoyo social."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Mejorar la coordinacion y el transito de las personas entre el sistema sanitario y el social."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "La Linea de Atencion Sociosanitaria pone el foco en mejorar la coordinacion y los transitos entre el sistema sanitario y social, evitando la fragmentacion de la atencion."
+  },
+  {
+    "id": "tec-comun-t13_14",
+    "questionNum": 14,
+    "question": "Respecto a la Salud Mental (Linea 11), el Pacto Vasco de Salud pone el foco en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La promocion del bienestar emocional y la deteccion precoz, especialmente en jovenes."
+      },
+      {
+        "value": 2,
+        "text": "El aislamiento preventivo de las personas con trastornos mentales graves."
+      },
+      {
+        "value": 3,
+        "text": "La medicalizacion sistematica de cualquier malestar emocional de la ciudadania."
+      },
+      {
+        "value": 4,
+        "text": "La reduccion de la plantilla de psicologia en los centros de salud primaria."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La promocion del bienestar emocional y la deteccion precoz, especialmente en jovenes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "La Linea 11 sobre Salud Mental prioriza la promocion del bienestar emocional y la deteccion precoz, con especial enfasis en jovenes y adolescentes."
+  },
+  {
+    "id": "tec-comun-t13_15",
+    "questionNum": 15,
+    "question": "La Linea Estrategica 18 sobre Digitalizacion en Salud del Pacto Vasco de Salud busca la transformacion digital para:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reemplazar al personal sanitario por sistemas de inteligencia artificial autonomos."
+      },
+      {
+        "value": 2,
+        "text": "Eliminar el papel de todos los archivos historicos sin digitalizar previamente."
+      },
+      {
+        "value": 3,
+        "text": "Facilitar la accesibilidad, la personalizacion de la atencion y la eficiencia organizativa."
+      },
+      {
+        "value": 4,
+        "text": "Crear una base de datos publica con el historial clinico de toda la ciudadania."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Facilitar la accesibilidad, la personalizacion de la atencion y la eficiencia organizativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t13",
+    "explanation": "La Linea 18 de Digitalizacion persigue facilitar la accesibilidad de la ciudadania, personalizar la atencion sanitaria y mejorar la eficiencia organizativa del sistema."
+  }
+]

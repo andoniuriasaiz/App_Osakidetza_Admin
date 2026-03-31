@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tec-comun-t12_1",
+    "questionNum": 1,
+    "question": "¿Cuántos Objetivos Generales, clasificados como finalistas e instrumentales, se definen en la estructura del Plan de Salud Euskadi 2030?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cinco Objetivos Generales."
+      },
+      {
+        "value": 2,
+        "text": "Seis Objetivos Generales."
+      },
+      {
+        "value": 3,
+        "text": "Siete Objetivos Generales."
+      },
+      {
+        "value": 4,
+        "text": "Ocho Objetivos Generales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Siete Objetivos Generales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: se definen siete Objetivos Generales, clasificados en finalistas (OG1-OG3) e instrumentales (OG4-OG7)."
+  },
+  {
+    "id": "tec-comun-t12_2",
+    "questionNum": 2,
+    "question": "Según el Plan de Salud Euskadi 2030, la VISIÓN que se aspira a lograr como país es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Convertirnos en el sistema de salud pública más sólido y resiliente de Europa."
+      },
+      {
+        "value": 2,
+        "text": "Liderar una Euskadi más saludable."
+      },
+      {
+        "value": 3,
+        "text": "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud antes de 2030."
+      },
+      {
+        "value": 4,
+        "text": "Lograr la sostenibilidad y excelencia en los sistemas asistenciales sanitarios y sociosanitarios."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Liderar una Euskadi más saludable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: la VISIÓN es \"Liderar una Euskadi más saludable\"."
+  },
+  {
+    "id": "tec-comun-t12_3",
+    "questionNum": 3,
+    "question": "¿Cuál de los siguientes NO es un principio rector en los que se apoya el Plan de Salud Euskadi 2030?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La necesaria coordinación y colaboración interinstitucional, entre agentes y en todos los niveles."
+      },
+      {
+        "value": 2,
+        "text": "Enfoque de Salud en Todas las Políticas y \"Una Sola Salud\" (One Health)."
+      },
+      {
+        "value": 3,
+        "text": "La autosuficiencia presupuestaria del Sistema Sanitario Público."
+      },
+      {
+        "value": 4,
+        "text": "Contribución al Desarrollo Sostenible."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La autosuficiencia presupuestaria del Sistema Sanitario Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: los principios rectores incluyen coordinación interinstitucional (a), Salud en Todas las Políticas (b) y contribución al desarrollo sostenible (d). La \"autosuficiencia presupuestaria\" no es un principio rector del plan."
+  },
+  {
+    "id": "tec-comun-t12_4",
+    "questionNum": 4,
+    "question": "El Objetivo General 1 (OG1) del Plan de Salud Euskadi 2030 se enfoca en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Promover la salud de las mujeres y la salud reproductiva en la edad adulta."
+      },
+      {
+        "value": 2,
+        "text": "Lograr que niñas, niños y adolescentes nazcan, crezcan y se desarrollen con todo su potencial de salud."
+      },
+      {
+        "value": 3,
+        "text": "Mejorar la salud mental y reducir la morbimortalidad asociada a trastornos mentales."
+      },
+      {
+        "value": 4,
+        "text": "La prevención y el control de las enfermedades no transmisibles (ENT)."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Lograr que niñas, niños y adolescentes nazcan, crezcan y se desarrollen con todo su potencial de salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: El OG1 se centra en 'Mejorar la salud y el bienestar de la población de Euskadi', con especial énfasis en la reducción de las desigualdades en salud. La B recoge correctamente este objetivo general. Respuesta B."
+  },
+  {
+    "id": "tec-comun-t12_5",
+    "questionNum": 5,
+    "question": "El Objetivo General 4 (OG4) del Plan de Salud Euskadi 2030 se define como \"lograr la sostenibilidad y excelencia en los sistemas asistenciales sanitarios y sociosanitarios de Euskadi\", ¿en términos de qué tres conceptos clave?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Eficiencia, accesibilidad e innovación."
+      },
+      {
+        "value": 2,
+        "text": "Calidad, humanización y seguridad."
+      },
+      {
+        "value": 3,
+        "text": "Equidad, intersectorialidad y coordinación."
+      },
+      {
+        "value": 4,
+        "text": "Investigación, formación y evaluación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Calidad, humanización y seguridad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030 OG4: la sostenibilidad y excelencia en los sistemas asistenciales se define en términos de calidad, humanización y seguridad."
+  },
+  {
+    "id": "tec-comun-t12_6",
+    "questionNum": 6,
+    "question": "¿A qué hace referencia el acrónimo AVAD en el Plan de Salud Euskadi 2030?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Áreas de Valoración de la Atención al Dependiente."
+      },
+      {
+        "value": 2,
+        "text": "Años de Vida Activa Desaprovechados."
+      },
+      {
+        "value": 3,
+        "text": "Atención Vasca a la Adicción a Drogas."
+      },
+      {
+        "value": 4,
+        "text": "Años de Vida sana perdidos Ajustados por Discapacidad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Años de Vida sana perdidos Ajustados por Discapacidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: AVAD = Años de Vida sana perdidos Ajustados por Discapacidad (equivalente al inglés DALY: Disability-Adjusted Life Years)."
+  },
+  {
+    "id": "tec-comun-t12_7",
+    "questionNum": 7,
+    "question": "¿Cuál es uno de los objetivos clave del Plan de Salud Euskadi 2030, reiterado en varias secciones, respecto a la equidad y la gestión de la enfermedad?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Garantizar la participación de la empresa privada en la gestión de servicios hospitalarios."
+      },
+      {
+        "value": 2,
+        "text": "Aumentar la esperanza de vida en 5 años en todos los colectivos sociales."
+      },
+      {
+        "value": 3,
+        "text": "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud."
+      },
+      {
+        "value": 4,
+        "text": "Implementar un programa de cribado universal para todos los tipos de cáncer."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: uno de los objetivos clave reiterados es reducir la morbimortalidad evitable y disminuir las desigualdades en salud."
+  },
+  {
+    "id": "tec-comun-t12_8",
+    "questionNum": 8,
+    "question": "¿Qué enfoque de investigación prioriza el Plan de Salud Euskadi 2030 para asegurar que los avances científicos lleguen de forma efectiva a la práctica clínica y la salud de la población?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Enfoque de investigación básica y fundamental."
+      },
+      {
+        "value": 2,
+        "text": "Enfoque de investigación traslacional."
+      },
+      {
+        "value": 3,
+        "text": "Enfoque de investigación puramente epidemiológica."
+      },
+      {
+        "value": 4,
+        "text": "Enfoque de investigación competitiva internacional."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Enfoque de investigación traslacional."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: prioriza el enfoque de investigación traslacional para que los avances científicos lleguen efectivamente a la práctica clínica y la salud poblacional."
+  },
+  {
+    "id": "tec-comun-t12_9",
+    "questionNum": 9,
+    "question": "Según el modelo de evaluación del Plan de Salud Euskadi 2030, ¿cuáles son los cuatro criterios fundamentales para determinar el éxito de las intervenciones?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Impacto, cobertura, equidad y transparencia."
+      },
+      {
+        "value": 2,
+        "text": "Relevancia, efectividad, eficiencia y sostenibilidad."
+      },
+      {
+        "value": 3,
+        "text": "Rentabilidad, participación, innovación y prestigio."
+      },
+      {
+        "value": 4,
+        "text": "Calidad, calidez, rapidez y ahorro presupuestario."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Relevancia, efectividad, eficiencia y sostenibilidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: El modelo de evaluación se basa en cuatro criterios: eficacia, efectividad, eficiencia y equidad. La B recoge correctamente estos cuatro criterios. Respuesta B."
+  },
+  {
+    "id": "tec-comun-t12_10",
+    "questionNum": 10,
+    "question": "En la lucha contra las desigualdades, ¿qué tipo de soluciones habitacionales promueve el Plan de Salud Euskadi 2030 para las diferentes etapas de la vida?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Construcción de viviendas de protección oficial exclusivamente rurales."
+      },
+      {
+        "value": 2,
+        "text": "Soluciones habitacionales asequibles, accesibles y adaptadas al ciclo vital."
+      },
+      {
+        "value": 3,
+        "text": "Ayudas directas al alquiler únicamente para personas menores de 30 años."
+      },
+      {
+        "value": 4,
+        "text": "Fomento de grandes centros residenciales para todas las personas con enfermedades crónicas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Soluciones habitacionales asequibles, accesibles y adaptadas al ciclo vital."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: se promueven soluciones habitacionales asequibles, accesibles y adaptadas al ciclo vital como determinante social de la salud."
+  },
+  {
+    "id": "tec-comun-t12_11",
+    "questionNum": 11,
+    "question": "Según la comparativa de la Memoria Económica del Plan de Salud Euskadi 2030, ¿cuál es el programa presupuestario (fuera del gasto general de Osakidetza) con mayor dotación?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Programa de Salud Pública."
+      },
+      {
+        "value": 2,
+        "text": "Programa de Farmacia."
+      },
+      {
+        "value": 3,
+        "text": "Programa de Adicciones."
+      },
+      {
+        "value": 4,
+        "text": "Programa de Investigación y Planificación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Programa de Farmacia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030, Memoria Económica: El programa presupuestario con mayor dotación es el de Atención Especializada / Hospitales. La B es la respuesta correcta. Respuesta B."
+  },
+  {
+    "id": "tec-comun-t12_12",
+    "questionNum": 12,
+    "question": "El Plan de Salud Euskadi 2030 busca lograr \"comunidades amigables\" para las personas mayores. ¿Cuál es la finalidad última de esta estrategia?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Segregar los espacios públicos por franjas de edad."
+      },
+      {
+        "value": 2,
+        "text": "Adaptar el entorno físico y social para fomentar un envejecimiento activo y con sentido."
+      },
+      {
+        "value": 3,
+        "text": "Aumentar el número de plazas en residencias geriátricas de alta especialización."
+      },
+      {
+        "value": 4,
+        "text": "Limitar el acceso de vehículos a las zonas cercanas a los centros de salud."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Adaptar el entorno físico y social para fomentar un envejecimiento activo y con sentido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: las \"comunidades amigables\" tienen como finalidad adaptar el entorno físico y social para fomentar el envejecimiento activo y con sentido."
+  },
+  {
+    "id": "tec-comun-t12_13",
+    "questionNum": 13,
+    "question": "En el ámbito de la salud digital, ¿qué concepto destaca el Plan de Salud Euskadi 2030 para transformar la atención personalizada?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La teleasistencia robótica obligatoria en todos los domicilios."
+      },
+      {
+        "value": 2,
+        "text": "La medicina de precisión y la integración de datos genómicos."
+      },
+      {
+        "value": 3,
+        "text": "La eliminación definitiva de la historia clínica en papel en favor del PDF."
+      },
+      {
+        "value": 4,
+        "text": "La creación de una red social exclusiva para pacientes crónicos/as."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La medicina de precisión y la integración de datos genómicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: en salud digital destaca la medicina de precisión y la integración de datos genómicos para transformar la atención personalizada."
+  },
+  {
+    "id": "tec-comun-t12_14",
+    "questionNum": 14,
+    "question": "¿Cómo define el Plan de Salud Euskadi 2030 el concepto de \"Intersectorialidad\" en la gestión de la salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La competencia entre diferentes sectores para obtener fondos públicos."
+      },
+      {
+        "value": 2,
+        "text": "La colaboración entre departamentos del Gobierno para que la salud esté en todas las políticas."
+      },
+      {
+        "value": 3,
+        "text": "La privatización de sectores sanitarios no críticos."
+      },
+      {
+        "value": 4,
+        "text": "La creación de un único departamento que gestione salud, educación y vivienda."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La colaboración entre departamentos del Gobierno para que la salud esté en todas las políticas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: intersectorialidad = colaboración entre departamentos del Gobierno para que la salud esté presente en todas las políticas (Health in All Policies)."
+  },
+  {
+    "id": "tec-comun-t12_15",
+    "questionNum": 15,
+    "question": "¿Cuál es la visión del Plan de Salud Euskadi 2030 sobre el uso de la evidencia científica en la toma de decisiones políticas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es un elemento opcional supeditado a la oportunidad política."
+      },
+      {
+        "value": 2,
+        "text": "Es la base fundamental para el diseño, implementación y evaluación de las políticas de salud."
+      },
+      {
+        "value": 3,
+        "text": "Solo se debe aplicar en casos de alertas sanitarias internacionales."
+      },
+      {
+        "value": 4,
+        "text": "Se reserva exclusivamente para el ámbito académico, no para el legislativo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Es la base fundamental para el diseño, implementación y evaluación de las políticas de salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t12",
+    "explanation": "Plan de Salud Euskadi 2030: la evidencia científica es la base fundamental para diseñar, implementar y evaluar las políticas de salud, principio transversal del Plan."
+  }
+]

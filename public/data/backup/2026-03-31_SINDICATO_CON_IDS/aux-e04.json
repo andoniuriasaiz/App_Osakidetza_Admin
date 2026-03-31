@@ -1,0 +1,668 @@
+[
+  {
+    "id": "aux-e04_1",
+    "questionNum": 1,
+    "question": "Las revisiones de oficio de los actos administrativos nulos o anulables, los recursos administrativos extraordinarios y las reclamaciones previas a las vías jurisdiccionales civil y laboral que no comprendan la exigencia de responsabilidad, serán conocidas por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Presidencia o por el Director General de Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 2,
+        "text": "El Consejo de Administración o por los Directores-Gerentes de Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 3,
+        "text": "La Presidencia o por el Consejo de Administración de Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 4,
+        "text": "El Director General o por los Directores-Gerentes de las organizaciones de Osakidetza-Servicio Vasco de Salud."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El Director General o por los Directores-Gerentes de las organizaciones de Osakidetza-Servicio Vasco de Salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Normativa específica Osakidetza-SVS: Las revisiones de oficio de actos nulos o anulables, los recursos extraordinarios y las reclamaciones previas a vías jurisdiccionales (excepto responsabilidad patrimonial) son conocidas POR EL DIRECTOR GENERAL O POR LOS DIRECTORES-GERENTES de las organizaciones de Osakidetza. Respuesta D.",
+    "originalId": 120
+  },
+  {
+    "id": "aux-e04_2",
+    "questionNum": 2,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso de alzada será de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un mes en todo caso."
+      },
+      {
+        "value": 2,
+        "text": "Un mes si el acto es expreso y en cualquier momento si no lo es."
+      },
+      {
+        "value": 3,
+        "text": "Dos meses desde la notificación."
+      },
+      {
+        "value": 4,
+        "text": "Tres meses desde la publicación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Un mes si el acto es expreso y en cualquier momento si no lo es."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 122.1 Ley 39/2015: El plazo para interponer recurso de alzada será de UN MES SI EL ACTO FUERA EXPRESO. Si no lo fuera (silencio), el recurso PODRÁ INTERPONERSE EN CUALQUIER MOMENTO. Respuesta B.",
+    "originalId": 173
+  },
+  {
+    "id": "aux-e04_3",
+    "questionNum": 3,
+    "question": "Según la Ley 39/2015, el recurso potestativo de reposición se interpone:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre antes de acudir a la vía contencioso-administrativa."
+      },
+      {
+        "value": 2,
+        "text": "Contra actos que no pongan fin a la vía administrativa."
+      },
+      {
+        "value": 3,
+        "text": "Contra actos que pongan fin a la vía administrativa."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente contra actos presuntos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Contra actos que no pongan fin a la vía administrativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "originalId": 174
+  },
+  {
+    "id": "aux-e04_4",
+    "questionNum": 4,
+    "question": "Según la Ley 39/2015, la interposición del recurso potestativo de reposición:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Suspende automáticamente la ejecución del acto."
+      },
+      {
+        "value": 2,
+        "text": "Impide acudir a la vía contencioso-administrativa hasta su resolución."
+      },
+      {
+        "value": 3,
+        "text": "Permite interponer simultáneamente recurso contencioso-administrativo."
+      },
+      {
+        "value": 4,
+        "text": "Sustituye al recurso de alzada."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Impide acudir a la vía contencioso-administrativa hasta su resolución."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 123.2 Ley 39/2015: No se podrá interponer recurso contencioso-administrativo HASTA QUE SEA RESUELTO EXPRESAMENTE O SE HAYA PRODUCIDO LA DESESTIMACIÓN PRESUNTA del recurso de reposición interpuesto. La reposición potestativa IMPIDE acudir a la vía CA mientras está pendiente. Respuesta B.",
+    "originalId": 175
+  },
+  {
+    "id": "aux-e04_5",
+    "questionNum": 5,
+    "question": "Según la Ley 39/2015, el plazo máximo para dictar y notificar resolución en el recurso de alzada será de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un mes."
+      },
+      {
+        "value": 2,
+        "text": "Dos meses."
+      },
+      {
+        "value": 3,
+        "text": "Tres meses."
+      },
+      {
+        "value": 4,
+        "text": "Seis meses."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Tres meses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 122.2 Ley 39/2015: El plazo máximo para dictar y notificar la resolución del recurso de alzada será de TRES MESES. Transcurrido ese plazo sin resolución expresa, el recurso se entenderá desestimado. Respuesta C.",
+    "originalId": 176
+  },
+  {
+    "id": "aux-e04_6",
+    "questionNum": 6,
+    "question": "Según la Ley 39/2015, transcurrido el plazo para resolver el recurso de alzada sin que recaiga resolución expresa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se entenderá estimado por silencio administrativo."
+      },
+      {
+        "value": 2,
+        "text": "Se entenderá desestimado por silencio administrativo."
+      },
+      {
+        "value": 3,
+        "text": "Se producirá la caducidad del procedimiento."
+      },
+      {
+        "value": 4,
+        "text": "Se archivará automáticamente el recurso"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se entenderá desestimado por silencio administrativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 122.2 Ley 39/2015: Transcurrido el plazo máximo para resolver el recurso de alzada sin resolución expresa, SE ENTENDERÁ DESESTIMADO POR SILENCIO ADMINISTRATIVO. El silencio en recursos es siempre negativo. Respuesta B.",
+    "originalId": 177
+  },
+  {
+    "id": "aux-e04_7",
+    "questionNum": 7,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso potestativo de reposición será de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un mes si el acto es expreso."
+      },
+      {
+        "value": 2,
+        "text": "Dos meses si el acto es expreso."
+      },
+      {
+        "value": 3,
+        "text": "Tres meses desde la notificación."
+      },
+      {
+        "value": 4,
+        "text": "En cualquier momento"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Un mes si el acto es expreso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 124.1 Ley 39/2015: El plazo para interponer el recurso potestativo de reposición será de UN MES SI EL ACTO FUERA EXPRESO. Si no lo fuera, en cualquier momento. Respuesta A.",
+    "originalId": 178
+  },
+  {
+    "id": "aux-e04_8",
+    "questionNum": 8,
+    "question": "Según la Ley 39/2015, el plazo máximo para resolver el recurso potestativo de reposición será de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un mes."
+      },
+      {
+        "value": 2,
+        "text": "Dos meses."
+      },
+      {
+        "value": 3,
+        "text": "Tres meses."
+      },
+      {
+        "value": 4,
+        "text": "Seis meses."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Un mes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 124.2 Ley 39/2015: El plazo máximo para dictar y notificar la resolución del recurso de reposición será de UN MES. Transcurrido sin resolución, se entiende desestimado. Respuesta A.",
+    "originalId": 179
+  },
+  {
+    "id": "aux-e04_9",
+    "questionNum": 9,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El acto sea anulable."
+      },
+      {
+        "value": 2,
+        "text": "Existan errores materiales evidentes."
+      },
+      {
+        "value": 3,
+        "text": "Aparezcan documentos de valor esencial ignorados al dictarse el acto."
+      },
+      {
+        "value": 4,
+        "text": "El interesado no haya sido notificado."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Existan errores materiales evidentes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "originalId": 180
+  },
+  {
+    "id": "aux-e04_10",
+    "questionNum": 10,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se haya dictado el acto fuera de plazo."
+      },
+      {
+        "value": 2,
+        "text": "Al dictarlos se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente."
+      },
+      {
+        "value": 3,
+        "text": "El acto no haya sido motivado."
+      },
+      {
+        "value": 4,
+        "text": "El interesado no esté conforme con la resolución."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Al dictarlos se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "originalId": 180
+  },
+  {
+    "id": "aux-e04_11",
+    "questionNum": 11,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso extraordinario de revisión por error de hecho será de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un año desde la notificación del acto impugnado."
+      },
+      {
+        "value": 2,
+        "text": "Dos años desde la notificación del acto impugnado."
+      },
+      {
+        "value": 3,
+        "text": "Cuatro años desde la notificación del acto impugnado."
+      },
+      {
+        "value": 4,
+        "text": "En cualquier momento."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cuatro años desde la notificación del acto impugnado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 126.2 Ley 39/2015: El recurso extraordinario de revisión por ERROR DE HECHO (causa a del Art. 125.1) deberá interponerse en el plazo de CUATRO AÑOS siguientes a la fecha de la notificación de la resolución impugnada. Respuesta C.",
+    "originalId": 182
+  },
+  {
+    "id": "aux-e04_12",
+    "questionNum": 12,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión por aparición de documentos de valor esencial deberá interponerse en el plazo de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un mes desde el conocimiento de los documentos."
+      },
+      {
+        "value": 2,
+        "text": "Tres meses desde el conocimiento de los documentos."
+      },
+      {
+        "value": 3,
+        "text": "Cuatro meses desde el conocimiento de los documentos"
+      },
+      {
+        "value": 4,
+        "text": "En cualquier momento."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Tres meses desde el conocimiento de los documentos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 126.3 Ley 39/2015: En los demás casos (causas b, c, d del Art. 125.1, incluida la APARICIÓN DE DOCUMENTOS DE VALOR ESENCIAL), el recurso deberá interponerse en el plazo de TRES MESES a contar desde el conocimiento de los documentos. Respuesta B.",
+    "originalId": 183
+  },
+  {
+    "id": "aux-e04_13",
+    "questionNum": 13,
+    "question": "Según la Ley 39/2015, contra la resolución del recurso extraordinario de revisión:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cabe recurso de alzada."
+      },
+      {
+        "value": 2,
+        "text": "Cabe recurso potestativo de reposición."
+      },
+      {
+        "value": 3,
+        "text": "Cabe un nuevo recurso extraordinario de revisión."
+      },
+      {
+        "value": 4,
+        "text": "No cabe ningún otro recurso administrativo."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No cabe ningún otro recurso administrativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 126 Ley 39/2015: Contra la resolución del recurso extraordinario de revisión NO CABRÁ NINGÚN OTRO RECURSO ADMINISTRATIVO. La vía administrativa queda agotada con este recurso. Respuesta D.",
+    "originalId": 184
+  },
+  {
+    "id": "aux-e04_14",
+    "questionNum": 14,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión se interpondrá ante:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El órgano superior jerárquico."
+      },
+      {
+        "value": 2,
+        "text": "El órgano que dictó el acto impugnado."
+      },
+      {
+        "value": 3,
+        "text": "El órgano instructor del procedimiento."
+      },
+      {
+        "value": 4,
+        "text": "El órgano competente para resolver el recurso de alzada."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El órgano que dictó el acto impugnado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "originalId": 185
+  },
+  {
+    "id": "aux-e04_15",
+    "questionNum": 15,
+    "question": "Según la Ley 39/2015, será causa de inadmisión de un recurso administrativo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que el interesado no esté conforme con la resolución."
+      },
+      {
+        "value": 2,
+        "text": "Carecer manifiestamente de fundamento."
+      },
+      {
+        "value": 3,
+        "text": "Que el recurso se interponga por vía electrónica."
+      },
+      {
+        "value": 4,
+        "text": "Que el acto sea anulable."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Carecer manifiestamente de fundamento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 116.1.c Ley 39/2015: Será causa de inadmisión de un recurso administrativo CARECER MANIFIESTAMENTE DE FUNDAMENTO. No simplemente no estar de acuerdo con la resolución (a). Respuesta B.",
+    "originalId": 186
+  },
+  {
+    "id": "aux-e04_16",
+    "questionNum": 16,
+    "question": "Según la Ley 39/2015, la interposición de un recurso administrativo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Suspende automáticamente la ejecución del acto impugnado."
+      },
+      {
+        "value": 2,
+        "text": "Suspende siempre la ejecución en vía administrativa."
+      },
+      {
+        "value": 3,
+        "text": "No suspende la ejecución del acto, salvo que una norma lo establezca o se acuerde motivadamente."
+      },
+      {
+        "value": 4,
+        "text": "Impide la notificación del acto."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No suspende la ejecución del acto, salvo que una norma lo establezca o se acuerde motivadamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 117.1 Ley 39/2015: La interposición de un recurso administrativo NO SUSPENDE LA EJECUCIÓN DEL ACTO IMPUGNADO, SALVO QUE UNA NORMA LO ESTABLEZCA EXPRESAMENTE O EL ÓRGANO LO ACUERDE MOTIVADAMENTE. Regla general: no suspensión automática. Respuesta C.",
+    "originalId": 187
+  },
+  {
+    "id": "aux-e04_17",
+    "questionNum": 17,
+    "question": "Según la Ley 39/2015, la competencia para resolver un recurso de alzada corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al mismo órgano que dictó el acto."
+      },
+      {
+        "value": 2,
+        "text": "Al órgano superior jerárquico del que dictó el acto."
+      },
+      {
+        "value": 3,
+        "text": "Al órgano instructor del procedimiento."
+      },
+      {
+        "value": 4,
+        "text": "Al órgano que determine el interesado."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Al órgano superior jerárquico del que dictó el acto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 122.1 Ley 39/2015: La competencia para resolver el recurso de alzada corresponde AL ÓRGANO SUPERIOR JERÁRQUICO DEL QUE DICTÓ EL ACTO impugnado. No al mismo órgano (a). Respuesta B.",
+    "originalId": 188
+  },
+  {
+    "id": "aux-e04_18",
+    "questionNum": 18,
+    "question": "Según la Ley 39/2015, la nulidad de pleno derecho podrá declararse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo a instancia del interesado."
+      },
+      {
+        "value": 2,
+        "text": "De oficio o a instancia del interesado."
+      },
+      {
+        "value": 3,
+        "text": "Exclusivamente por vía judicial."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente en recurso extraordinario de revisión."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "De oficio o a instancia del interesado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e04",
+    "explanation": "Art. 106.1 Ley 39/2015: La nulidad de pleno derecho podrá declararse POR INICIATIVA PROPIA (de oficio) O A SOLICITUD DEL INTERESADO, en cualquier momento. No solo a instancia de parte (a). Respuesta B.",
+    "originalId": 198
+  }
+]

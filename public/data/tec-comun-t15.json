@@ -33,7 +33,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "Segun el diagnostico del II Plan de Igualdad, en enero de 2025 la plantilla de Osakidetza estaba compuesta por un 80% de mujeres y un 20% de hombres."
+    "explanation": "Segun el diagnostico del II Plan de Igualdad, en enero de 2025 la plantilla de Osakidetza estaba compuesta por un 80% de mujeres y un 20% de hombres.",
+    "officialId": 161
   },
   {
     "id": "tec-comun-t15_2",
@@ -69,7 +70,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La meta de CAPACITACIÓN tiene como objetivo garantizar que el 100% del personal directivo reciba formación en igualdad durante la vigencia del plan. La D recoge correctamente el contenido de esta meta. Respuesta D."
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La meta de CAPACITACIÓN tiene como objetivo garantizar que el 100% del personal directivo reciba formación en igualdad durante la vigencia del plan. La D recoge correctamente el contenido de esta meta. Respuesta D.",
+    "officialId": 162
   },
   {
     "id": "tec-comun-t15_3",
@@ -105,7 +107,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D."
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
+    "officialId": 163
   },
   {
     "id": "tec-comun-t15_4",
@@ -141,7 +144,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "El techo de cristal describe la barrera invisible que impide a las mujeres acceder a puestos de mayor responsabilidad y toma de decisiones, a pesar de contar con la cualificacion necesaria."
+    "explanation": "El techo de cristal describe la barrera invisible que impide a las mujeres acceder a puestos de mayor responsabilidad y toma de decisiones, a pesar de contar con la cualificacion necesaria.",
+    "officialId": 164
   },
   {
     "id": "tec-comun-t15_5",
@@ -167,17 +171,18 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Reducir, al menos, en un 2% la brecha de genero existente en las medidas de conciliacion para cuidados."
+      "Aumentar el numero de investigaciones con perspectiva de genero interseccional en un 4%."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "El objetivo de la meta Corresponsabilidad es reducir al menos en un 2% la brecha de genero existente en las medidas de conciliacion para cuidados en Osakidetza."
+    "explanation": "El objetivo de la meta Corresponsabilidad es reducir al menos en un 2% la brecha de genero existente en las medidas de conciliacion para cuidados en Osakidetza.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 162
   },
   {
     "id": "tec-comun-t15_6",
@@ -213,7 +218,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "El I Plan de Igualdad, como primer plan estrategico en esta materia, tuvo como objetivo establecer cimientos solidos para el cumplimiento legislativo y la alineacion con marcos estrategicos de igualdad."
+    "explanation": "El I Plan de Igualdad, como primer plan estrategico en esta materia, tuvo como objetivo establecer cimientos solidos para el cumplimiento legislativo y la alineacion con marcos estrategicos de igualdad.",
+    "officialId": 166
   },
   {
     "id": "tec-comun-t15_7",
@@ -249,7 +255,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D."
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
+    "officialId": 2022
   },
   {
     "id": "tec-comun-t15_8",
@@ -285,7 +292,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "El II Plan establece como linea prioritaria frente a la violencia machista el refuerzo de la prevencion, la deteccion precoz y la mejora de la respuesta asistencial integrada desde el sistema de salud."
+    "explanation": "El II Plan establece como linea prioritaria frente a la violencia machista el refuerzo de la prevencion, la deteccion precoz y la mejora de la respuesta asistencial integrada desde el sistema de salud.",
+    "officialId": 168
   },
   {
     "id": "tec-comun-t15_9",
@@ -311,17 +319,18 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Deben emitirse en la lengua que decidan las personas responsables de las unidades que utilizan estos sistemas audiovisuales."
+      "Deben emitirse en las dos lenguas oficiales, primero en euskera y luego en castellano."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: En los escritos y comunicaciones internas se potenciará el uso del euskera, y se fomentará que el personal que conoce el idioma lo utilice en sus comunicaciones internas. La A recoge correctamente este criterio. Respuesta A."
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: En los escritos y comunicaciones internas se potenciará el uso del euskera, y se fomentará que el personal que conoce el idioma lo utilice en sus comunicaciones internas. La A recoge correctamente este criterio. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 169
   },
   {
     "id": "tec-comun-t15_10",
@@ -357,7 +366,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: Los servicios mínimos lingüísticos establecen que en los servicios de urgencias y en atención directa al paciente siempre debe haber disponibilidad de atención en euskera. La C recoge correctamente este mínimo garantizado. Respuesta C."
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: Los servicios mínimos lingüísticos establecen que en los servicios de urgencias y en atención directa al paciente siempre debe haber disponibilidad de atención en euskera. La C recoge correctamente este mínimo garantizado. Respuesta C.",
+    "officialId": 170
   },
   {
     "id": "tec-comun-t15_11",
@@ -393,7 +403,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: Los perfiles lingüísticos de los puestos de trabajo son requisitos de acreditación del nivel de euskera necesario para cada puesto. La C recoge correctamente la función y naturaleza de los perfiles lingüísticos. Respuesta C."
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: Los perfiles lingüísticos de los puestos de trabajo son requisitos de acreditación del nivel de euskera necesario para cada puesto. La C recoge correctamente la función y naturaleza de los perfiles lingüísticos. Respuesta C.",
+    "officialId": 171
   },
   {
     "id": "tec-comun-t15_12",
@@ -419,17 +430,18 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "La recepcion en euskera."
+      "La recepcion en euskera solo cuando la comunicacion sea telefonica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "El III Plan garantiza la recepcion en euskera a toda la ciudadania vascohablante en todos los servicios de recepcion, admision, unidades asistenciales y administrativas, sin distincion de modalidad."
+    "explanation": "El III Plan garantiza la recepcion en euskera a toda la ciudadania vascohablante en todos los servicios de recepcion, admision, unidades asistenciales y administrativas, sin distincion de modalidad.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 169
   },
   {
     "id": "tec-comun-t15_13",
@@ -455,17 +467,18 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "La lengua utilizada por cada ciudadano o ciudadana."
+      "Siempre las dos lenguas oficiales independientemente de la lengua utilizada por cada ciudadano."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "El III Plan establece que los escritos individualizados de respuesta se redactaran en la misma lengua utilizada por la persona ciudadana en su comunicacion."
+    "explanation": "El III Plan establece que los escritos individualizados de respuesta se redactaran en la misma lengua utilizada por la persona ciudadana en su comunicacion.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 169
   },
   {
     "id": "tec-comun-t15_14",
@@ -501,7 +514,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "La opcion B es incorrecta porque el signo azul con la letra e no se limita solo a identificacion individual del personal bilingue; el Plan prevé variantes del simbolo para distintas situaciones linguisticas."
+    "explanation": "La opcion B es incorrecta porque el signo azul con la letra e no se limita solo a identificacion individual del personal bilingue; el Plan prevé variantes del simbolo para distintas situaciones linguisticas.",
+    "officialId": 174
   },
   {
     "id": "tec-comun-t15_15",
@@ -527,17 +541,18 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Medicina familiar, pediatria, enfermeria y matrona."
+      "Todas las anteriores respuestas son correctas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "El III Plan especifica que el procedimiento de oferta de servicios en euskera en atencion primaria se refiere a: medicina familiar, pediatria, enfermeria y matrona."
+    "explanation": "El III Plan especifica que el procedimiento de oferta de servicios en euskera en atencion primaria se refiere a: medicina familiar, pediatria, enfermeria y matrona.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 175
   },
   {
     "id": "tec-comun-t15_16",
@@ -573,7 +588,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta B."
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta B.",
+    "officialId": 176
   },
   {
     "id": "tec-comun-t15_17",
@@ -609,7 +625,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "POIE 2025-2030 (Resumen Ejecutivo): El cáncer es responsable del 28% de las muertes en Euskadi, siendo la segunda causa de mortalidad. La C recoge correctamente este porcentaje. Respuesta C."
+    "explanation": "POIE 2025-2030 (Resumen Ejecutivo): El cáncer es responsable del 28% de las muertes en Euskadi, siendo la segunda causa de mortalidad. La C recoge correctamente este porcentaje. Respuesta C.",
+    "officialId": 177
   },
   {
     "id": "tec-comun-t15_18",
@@ -645,7 +662,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "En el periodo 2015-2019, las localizaciones mas frecuentes fueron el cancer de mama en mujeres y el cancer de prostata en hombres, segun los datos epidemiologicos del POIE 2025-2030."
+    "explanation": "En el periodo 2015-2019, las localizaciones mas frecuentes fueron el cancer de mama en mujeres y el cancer de prostata en hombres, segun los datos epidemiologicos del POIE 2025-2030.",
+    "officialId": 177
   },
   {
     "id": "tec-comun-t15_19",
@@ -681,7 +699,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "La Vision del POIE 2025-2030 incluye como aspiracion mejorar la calidad de vida de pacientes, supervivientes y sus familiares y personas cuidadoras a lo largo de todo el proceso oncologico."
+    "explanation": "La Vision del POIE 2025-2030 incluye como aspiracion mejorar la calidad de vida de pacientes, supervivientes y sus familiares y personas cuidadoras a lo largo de todo el proceso oncologico.",
+    "officialId": 179
   },
   {
     "id": "tec-comun-t15_20",
@@ -717,7 +736,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "La Mision del POIE 2025-2030 se orienta a generar valor a la ciudadania vasca en terminos de mejores resultados en salud, abarcando prevencion, diagnostico precoz, tratamiento y supervivencia."
+    "explanation": "La Mision del POIE 2025-2030 se orienta a generar valor a la ciudadania vasca en terminos de mejores resultados en salud, abarcando prevencion, diagnostico precoz, tratamiento y supervivencia.",
+    "officialId": 180
   },
   {
     "id": "tec-comun-t15_21",
@@ -753,7 +773,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "El principio de Centralidad de la persona y humanizacion del POIE 2025-2030 incorpora la perspectiva de genero y la atencion a la diversidad como elementos esenciales de la atencion oncologica."
+    "explanation": "El principio de Centralidad de la persona y humanizacion del POIE 2025-2030 incorpora la perspectiva de genero y la atencion a la diversidad como elementos esenciales de la atencion oncologica.",
+    "officialId": 181
   },
   {
     "id": "tec-comun-t15_22",
@@ -789,7 +810,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "La evaluacion del POE 2018-2023 identifico como area de mejora prioritaria reforzar la atencion a colectivos especificos: infancia y adolescencia, personas mayores y largas supervivientes oncologicas."
+    "explanation": "La evaluacion del POE 2018-2023 identifico como area de mejora prioritaria reforzar la atencion a colectivos especificos: infancia y adolescencia, personas mayores y largas supervivientes oncologicas.",
+    "officialId": 182
   },
   {
     "id": "tec-comun-t15_23",
@@ -825,7 +847,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "PROMs son las siglas de Patient-Reported Outcome Measures, es decir, Medidas de Resultados Reportadas por los y las Pacientes, instrumento clave para evaluar la calidad de vida percibida."
+    "explanation": "PROMs son las siglas de Patient-Reported Outcome Measures, es decir, Medidas de Resultados Reportadas por los y las Pacientes, instrumento clave para evaluar la calidad de vida percibida.",
+    "officialId": 2025
   },
   {
     "id": "tec-comun-t15_24",
@@ -861,6 +884,7 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t15",
-    "explanation": "Una de las prioridades del Plan de Salud de Euskadi 2030 con la que se alinea el POIE es reducir la morbimortalidad evitable y disminuir las desigualdades en salud."
+    "explanation": "Una de las prioridades del Plan de Salud de Euskadi 2030 con la que se alinea el POIE es reducir la morbimortalidad evitable y disminuir las desigualdades en salud.",
+    "officialId": 184
   }
 ]

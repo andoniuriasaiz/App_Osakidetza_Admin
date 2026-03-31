@@ -107,7 +107,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta C.",
+    "explanation": "Objetivos vitales sirven para interpretar instrucciones y orientar decisiones clínicas.",
     "originalId": 158
   },
   {
@@ -144,7 +144,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 6 Ley 7/2002: En el documento de voluntades anticipadas se podrá designar una o varias personas representantes para que sean las interlocutoras válidas con el médico o equipo sanitario. No se exige incapacidad judicial para esta designación. Respuesta A.",
+    "explanation": "Art. 6 Ley 7/2002: representante para cualquier supuesto de incapacidad de expresión.",
     "originalId": 159
   },
   {
@@ -181,7 +181,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5 Ley 7/2002: Las instrucciones sobre el tratamiento pueden referirse a 'una enfermedad o lesión que la persona otorgante ya padece, o a las que eventualmente podría padecer en un futuro'. No se limita solo a situaciones futuras o graves. Respuesta A.",
+    "explanation": "Art. 5: instrucciones para enfermedad presente o futura.",
     "originalId": 161
   },
   {
@@ -218,7 +218,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 4 y 5 Ley 7/2002: El DVA se formaliza ante notario, funcionario del registro (o servicio de documentación de centros sanitarios) o ante testigos. La opción C recoge correctamente la vía de los centros sanitarios y el número de testigos ajustado a la interpretación de consenso. Respuesta C.",
+    "explanation": "Procedimientos: Registro/Centros + 2 testigos.",
     "originalId": 162
   },
   {
@@ -255,7 +255,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta C.",
+    "explanation": "Art. 7 Ley 7/2002: testigos deben ser mayores de edad (18) y cumplir grados.",
     "originalId": 163
   },
   {
@@ -329,7 +329,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3.2 Ley 7/2002: La modificación o sustitución del DVA requiere las mismas formalidades que su otorgamiento (Escrito + Notaria/Registro/Testigos). No basta cualquier registro de entrada. Respuesta B.",
+    "explanation": "Modificación formalizada por mismos cauces que otorgamiento (escrito).",
     "originalId": 165
   },
   {
@@ -366,7 +366,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 4.3 Ley 7/2002: Cuando se formalice ante tres testigos, estos deben tener la condición de personas mayores de edad y plena capacidad de obrar, y no pueden ser familiares de la persona declarante en primer ni segundo grado, ni tener relación patrimonial con ella. No pueden ser más de uno de ellos personal sanitario del equipo asistencial que la atiende. Respuesta C.",
+    "explanation": "Prevalece voluntad inequívoca ante interlocutor.",
     "originalId": 166
   },
   {
@@ -403,7 +403,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 9 Ley 7/2002: Se tendrán por no puestas las instrucciones que resulten contrarias al ordenamiento jurídico EN EL MOMENTO DE SER APLICADAS. No se requiere aprobación del comité de ética para la validez de las instrucciones de la persona. Respuesta A.",
+    "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.",
     "originalId": 167
   },
   {
@@ -430,17 +430,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Todas las respuestas anteriores son correctas."
+      "Las instrucciones que resulten contraindicadas para su patología."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D.",
+    "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.",
     "originalId": 167
   },
   {
@@ -477,7 +477,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas es de carácter público, adscrito al Departamento de Sanidad del Gobierno Vasco. Su acceso está restringido al propio interesado, su representante, y los profesionales sanitarios que atienden al otorgante. Respuesta C.",
+    "explanation": "Art. 12: la interconexión del Registro no precisa consentimiento adicional.",
     "originalId": 169
   },
   {
@@ -514,7 +514,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 11 Ley 7/2002: El documento que no sea inscrito 'deberá ser entregado en el centro sanitario donde el otorgante sea atendido para que sea incorporado a su historia clínica'. No carece de eficacia por la falta de inscripción si se aporta al centro. Respuesta A.",
+    "explanation": "Art. 11: DVA no inscrito ES válido si se aporta.",
     "originalId": 170
   }
 ]

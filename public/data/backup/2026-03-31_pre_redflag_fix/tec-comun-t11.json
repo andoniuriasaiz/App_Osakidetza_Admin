@@ -1,0 +1,290 @@
+[
+  {
+    "id": "tec-comun-t11_1",
+    "questionNum": 1,
+    "question": "El artículo 1 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, añade un concepto específico al objeto de la ley que refuerza el fin último de la norma, ¿cuál es?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La igualdad de oportunidades."
+      },
+      {
+        "value": 2,
+        "text": "El empoderamiento de las mujeres."
+      },
+      {
+        "value": 3,
+        "text": "Lograr una sociedad libre de violencia machista."
+      },
+      {
+        "value": 4,
+        "text": "La eliminación de roles tradicionales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Lograr una sociedad libre de violencia machista."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t11",
+    "explanation": "Art. 1 DL 1/2023: el texto refundido añade al objeto de la ley la finalidad de lograr una sociedad libre de violencia machista contra las mujeres, reforzando el fin último de la norma."
+  },
+  {
+    "id": "tec-comun-t11_2",
+    "questionNum": 2,
+    "question": "Según el artículo 2 del Decreto Legislativo 1/2023, de 16 de marzo, ¿a qué entidades privadas les es exigible el cumplimiento de los principios generales de esta ley durante su relación con la administración?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo a las que tengan una plantilla superior a 250 personas."
+      },
+      {
+        "value": 2,
+        "text": "A todas las empresas con sede en Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "A las que suscriban contratos o convenios, estén participadas por poderes públicos o sean beneficiarias de ayudas."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna entidad privada está sujeta a los principios de la ley."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "A las que suscriban contratos o convenios, estén participadas por poderes públicos o sean beneficiarias de ayudas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t11",
+    "explanation": "Art. 2 DL 1/2023: los principios generales son exigibles a entidades privadas que suscriban contratos o convenios con la Administración, estén participadas por poderes públicos o sean beneficiarias de ayudas públicas."
+  },
+  {
+    "id": "tec-comun-t11_3",
+    "questionNum": 3,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, ¿cuál de estos es un principio general de actuación de los poderes públicos vascos incorporado en la nueva redacción del artículo 3?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El principio de jerarquía administrativa."
+      },
+      {
+        "value": 2,
+        "text": "La integración de la perspectiva interseccional."
+      },
+      {
+        "value": 3,
+        "text": "El principio de celeridad procesal."
+      },
+      {
+        "value": 4,
+        "text": "La centralización de recursos de acogida."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La integración de la perspectiva interseccional."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t11",
+    "explanation": "Art. 3 DL 1/2023: la nueva redacción incorpora como principio general de actuación de los poderes públicos vascos la integración de la perspectiva interseccional en las políticas de igualdad."
+  },
+  {
+    "id": "tec-comun-t11_4",
+    "questionNum": 4,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, respecto al principio de representación equilibrada, ¿en qué caso se permite excepcionalmente una presencia de mujeres superior al 60%?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En ningún caso."
+      },
+      {
+        "value": 2,
+        "text": "Solo si no hay hombres capacitados en el sector."
+      },
+      {
+        "value": 3,
+        "text": "Cuando sea acorde al objetivo de corregir la histórica situación de infrarrepresentación de las mujeres."
+      },
+      {
+        "value": 4,
+        "text": "Si el órgano tiene menos de cuatro integrantes."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cuando sea acorde al objetivo de corregir la histórica situación de infrarrepresentación de las mujeres."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t11",
+    "explanation": "DL 1/2023: excepcionalmente puede superarse el 60% de presencia femenina cuando sea acorde al objetivo de corregir la histórica situación de infrarrepresentación de las mujeres."
+  },
+  {
+    "id": "tec-comun-t11_5",
+    "questionNum": 5,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, ¿qué planes específicos deben someterse ahora, obligatoriamente, a una evaluación previa de impacto en función del género?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo los planes de formación interna."
+      },
+      {
+        "value": 2,
+        "text": "Los planes territoriales y urbanísticos."
+      },
+      {
+        "value": 3,
+        "text": "Los planes de marketing de empresas públicas."
+      },
+      {
+        "value": 4,
+        "text": "Ningún plan, solo los proyectos de ley."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los planes territoriales y urbanísticos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t11",
+    "explanation": "DL 1/2023: entre los planes que deben someterse a evaluación previa de impacto de género se encuentran los planes territoriales y urbanísticos, incorporados en la nueva redacción."
+  },
+  {
+    "id": "tec-comun-t11_6",
+    "questionNum": 6,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, ¿qué requisito nuevo deben cumplir las empresas de más de 50 personas trabajadoras para poder recibir subvenciones públicas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tener paridad total en su directiva."
+      },
+      {
+        "value": 2,
+        "text": "Acreditar haber establecido medidas para prevenir y combatir el acoso sexual y las violencias sexuales."
+      },
+      {
+        "value": 3,
+        "text": "Tener un departamento exclusivo de igualdad."
+      },
+      {
+        "value": 4,
+        "text": "Estar inscritas en un registro internacional de igualdad."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Acreditar haber establecido medidas para prevenir y combatir el acoso sexual y las violencias sexuales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t11",
+    "explanation": "DL 1/2023: las empresas de más de 50 personas trabajadoras deben acreditar haber establecido medidas para prevenir y combatir el acoso sexual y las violencias sexuales para poder recibir subvenciones públicas."
+  },
+  {
+    "id": "tec-comun-t11_7",
+    "questionNum": 7,
+    "question": "De acuerdo con lo establecido en el artículo 54 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿cómo se define la \"violencia machista contra las mujeres\"?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo la violencia física en el hogar."
+      },
+      {
+        "value": 2,
+        "text": "Una violación de los derechos humanos y un problema de salud pública de primer orden."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente los delitos contra la libertad sexual."
+      },
+      {
+        "value": 4,
+        "text": "Un conflicto de convivencia familiar."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Una violación de los derechos humanos y un problema de salud pública de primer orden."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t11",
+    "explanation": "Art. 54 DL 1/2023: la violencia machista contra las mujeres se define como una violación de los derechos humanos y un problema de salud pública de primer orden."
+  },
+  {
+    "id": "tec-comun-t11_8",
+    "questionNum": 8,
+    "question": "De acuerdo con lo establecido en el artículo 54.3 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿qué formas de violencia se incorporan como casos constitutivos de violencia machista?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo la violencia física y psicológica."
+      },
+      {
+        "value": 2,
+        "text": "La violencia obstétrica, la política de género y la violencia digital."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente el acoso laboral."
+      },
+      {
+        "value": 4,
+        "text": "No se detallan formas, se remite al Código Penal."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La violencia obstétrica, la política de género y la violencia digital."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t11",
+    "explanation": "Art. 54.3 DL 1/2023: se incorporan como formas específicas de violencia machista la violencia obstétrica, la violencia política de género y la violencia digital, entre otras."
+  }
+]

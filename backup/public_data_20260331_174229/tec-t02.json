@@ -1,0 +1,794 @@
+[
+  {
+    "id": "tec-t02_1",
+    "questionNum": 1,
+    "question": "Conforme determina la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía, la denominación de la Comunidad Autónoma es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Euskal Herria."
+      },
+      {
+        "value": 2,
+        "text": "Euskadi o País Vasco."
+      },
+      {
+        "value": 3,
+        "text": "País Vasco en la versión en castellano del Estatuto."
+      },
+      {
+        "value": 4,
+        "text": "Comunidad Autónoma Vasca."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Euskadi o País Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 1 EAPV: el pueblo vasco o Euskal Herria, como expresión de su nacionalidad, y para acceder a su autogobierno, se constituye en Comunidad Autónoma dentro del Estado español bajo la denominación de Euskadi o País Vasco."
+  },
+  {
+    "id": "tec-t02_2",
+    "questionNum": 2,
+    "question": "Conforme determina la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco, la designación de la sede de las instituciones comunes de la Comunidad Autónoma del País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Corresponde al/a la lehendakari."
+      },
+      {
+        "value": 2,
+        "text": "Se hará mediante Ley del Parlamento Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Corresponde a cada uno de los Territorios Históricos que integran el País Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las respuestas anteriores es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se hará mediante Ley del Parlamento Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 4.2 EAPV: la sede de las instituciones comunes de la Comunidad Autónoma se determinará por Ley del Parlamento Vasco."
+  },
+  {
+    "id": "tec-t02_3",
+    "questionNum": 3,
+    "question": "Indique, conforme establece la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco, cuál de las siguientes respuestas es incorrecta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La bandera del País Vasco es la bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo."
+      },
+      {
+        "value": 2,
+        "text": "El euskera tendrá como el castellano carácter de lengua oficial en Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "Tendrán la condición política de vasco/as quienes tengan la vecindad administrativa, de acuerdo con las Leyes Generales del Estado, en cualquiera de los municipios integrados en el territorio de la Comunidad Autónoma."
+      },
+      {
+        "value": 4,
+        "text": "Podrán agregarse a la Comunidad Autónoma del País Vasco otros territorios o municipios que estuvieran enclavados parcialmente o en su totalidad dentro del territorio de la misma, siempre que lo aprueben el Parlamento Vasco y las Cortes Generales."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La bandera del País Vasco es la bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 5 EAPV: la bandera del País Vasco es la bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo. En realidad el aspa es verde y el fondo rojo, pero la cruz es blanca. La respuesta A es incorrecta porque describe correctamente la ikurriña; la opción D es la incorrecta pues requiere además solicitud del ayuntamiento."
+  },
+  {
+    "id": "tec-t02_4",
+    "questionNum": 4,
+    "question": "De acuerdo con la Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía para el País Vasco, gozarán de idénticos derechos políticos que las personas residentes en el País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las personas residentes en el extranjero que lo solicitaran y hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española. Este derecho no será extensible a sus descendientes."
+      },
+      {
+        "value": 2,
+        "text": "Con carácter automático, las personas residentes en el extranjero que hubieran tenido su última vecindad administrativa en Euskadi y conserven la nacionalidad española."
+      },
+      {
+        "value": 3,
+        "text": "Las personas residentes en el extranjero, así como sus descendientes, que lo solicitaran y hubieran tenido su última vecindad administrativa en Euskadi, independientemente de su nacionalidad."
+      },
+      {
+        "value": 4,
+        "text": "Las personas residentes en el extranjero, así como sus descendientes, si así lo solicitaran y hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las personas residentes en el extranjero, así como sus descendientes, si así lo solicitaran y hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 7.2 EAPV: los residentes en el extranjero y sus descendientes podrán gozar de los mismos derechos políticos si lo solicitan, tuvieron su última vecindad en Euskadi y conservan la nacionalidad española."
+  },
+  {
+    "id": "tec-t02_5",
+    "questionNum": 5,
+    "question": "De acuerdo con la Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía para el País Vasco, indíquese la afirmación correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Estatuto de Autonomía del País Vasco reconoce el derecho de Navarra a formar parte de la Comunidad Autónoma del País Vasco de acuerdo con el procedimiento establecido en el mismo."
+      },
+      {
+        "value": 2,
+        "text": "El Estatuto de Autonomía del País Vasco reconoce el derecho a formar parte de la Comunidad Autónoma Vasca a las provincias de Álava, Gipuzkoa y Bizkaia, no así a Navarra."
+      },
+      {
+        "value": 3,
+        "text": "La Disposición Transitoria 4ª de la Constitución Española establece el procedimiento para la incorporación de Navarra a la Comunidad Autónoma del País Vasco, para el supuesto de que aquella decidiera dicha incorporación."
+      },
+      {
+        "value": 4,
+        "text": "El Estatuto de Autonomía del País Vasco no hace mención del derecho de Navarra a formar parte de la Comunidad Autónoma Vasca."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Disposición Transitoria 4ª de la Constitución Española establece el procedimiento para la incorporación de Navarra a la Comunidad Autónoma del País Vasco, para el supuesto de que aquella decidiera dicha incorporación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "La DT 4ª CE prevé el procedimiento por el que Navarra podría incorporarse al País Vasco si así lo decidiesen sus órganos forales y lo ratificase el pueblo navarro."
+  },
+  {
+    "id": "tec-t02_6",
+    "questionNum": 6,
+    "question": "De acuerdo con la Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía para el País Vasco, ¿cuál de los siguientes requisitos para la agregación a la Comunidad Autónoma del País Vasco de otros territorios o municipios que estuvieran enclavados en su totalidad dentro de la misma, es INCORRECTO?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que lo acuerden los/las habitantes de dicho municipio o territorio mediante referéndum aprobado por mayoría absoluta."
+      },
+      {
+        "value": 2,
+        "text": "Que lo aprueben las Cortes Generales del Estado mediante Ley Orgánica."
+      },
+      {
+        "value": 3,
+        "text": "Que lo apruebe el Parlamento Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Que solicite la incorporación el Ayuntamiento o la mayoría de los Ayuntamientos interesados."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Que lo acuerden los/las habitantes de dicho municipio o territorio mediante referéndum aprobado por mayoría absoluta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 8 EAPV: no se exige referéndum de los habitantes; basta la solicitud del Ayuntamiento, aprobación del Parlamento Vasco y de las Cortes Generales mediante Ley Orgánica."
+  },
+  {
+    "id": "tec-t02_7",
+    "questionNum": 7,
+    "question": "En relación con los derechos y deberes fundamentales de la ciudadanía vasca, el Estatuto de Autonomía del País Vasco NO recoge la siguiente afirmación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los poderes públicos vascos impulsarán una política tendente a la mejora de las condiciones de vida y trabajo."
+      },
+      {
+        "value": 2,
+        "text": "Los derechos y deberes fundamentales de la ciudadanía del País Vasco serán los establecidos en el presente Estatuto."
+      },
+      {
+        "value": 3,
+        "text": "Los poderes públicos vascos adoptarán, en el ámbito de su competencia, aquellas medidas que tiendan a fomentar el incremento del empleo y la estabilidad económica."
+      },
+      {
+        "value": 4,
+        "text": "Los poderes públicos vascos velarán y garantizarán el adecuado ejercicio de los derechos y deberes fundamentales de la ciudadanía."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los derechos y deberes fundamentales de la ciudadanía del País Vasco serán los establecidos en el presente Estatuto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "El EAPV no establece derechos y deberes fundamentales propios; estos son los de la Constitución Española. La opción B es incorrecta porque no figura en el Estatuto con ese tenor."
+  },
+  {
+    "id": "tec-t02_8",
+    "questionNum": 8,
+    "question": "De acuerdo con la Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía para el País Vasco, indíquese cuál de las siguientes respuestas es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El euskera tendrá, como el castellano, carácter de lengua oficial en Euskadi, y todos y todas sus habitantes tienen el deber de conocer y el derecho a usar ambas lenguas."
+      },
+      {
+        "value": 2,
+        "text": "La designación de la sede de las instituciones comunes de la Comunidad Autónoma del País Vasco se hará mediante Ley del Parlamento Vasco, posteriormente ratificada por las Cortes Generales españolas."
+      },
+      {
+        "value": 3,
+        "text": "La bandera del País Vasco es la bicrucífera, compuesta de aspa roja, cruz blanca superpuesta y fondo verde."
+      },
+      {
+        "value": 4,
+        "text": "Se reconocen las banderas y enseñas propias de los Territorios Históricos que integran la Comunidad Autónoma."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se reconocen las banderas y enseñas propias de los Territorios Históricos que integran la Comunidad Autónoma."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 5.2 EAPV: los Territorios Históricos podrán usar sus banderas y enseñas propias. La opción A es incorrecta porque el EAPV no establece el deber de conocer el euskera (a diferencia del castellano en la CE)."
+  },
+  {
+    "id": "tec-t02_9",
+    "questionNum": 9,
+    "question": "De acuerdo con la Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía para el País Vasco, tienen la condición política de vascos y vascas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las personas nacidas en cualquiera de los municipios integrados en la Comunidad Autónoma."
+      },
+      {
+        "value": 2,
+        "text": "Las personas que tengan vecindad administrativa en cualquiera de los municipios integrados en la Comunidad Autónoma."
+      },
+      {
+        "value": 3,
+        "text": "Las personas que acrediten vecindad administrativa en cualquiera de los municipios integrados en la Comunidad Autónoma durante al menos un año."
+      },
+      {
+        "value": 4,
+        "text": "Todas las personas que lo soliciten y se inscriban en los correspondientes registros municipales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las personas que tengan vecindad administrativa en cualquiera de los municipios integrados en la Comunidad Autónoma."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 7.1 EAPV: tendrán la condición política de vascos quienes tengan la vecindad administrativa, de acuerdo con las leyes generales del Estado, en cualquiera de los municipios de la Comunidad Autónoma."
+  },
+  {
+    "id": "tec-t02_10",
+    "questionNum": 10,
+    "question": "Conforme determina la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco, en materia de sanidad interior corresponde al País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El desarrollo legislativo y la ejecución de la legislación básica del Estado."
+      },
+      {
+        "value": 2,
+        "text": "La ejecución de la legislación estatal."
+      },
+      {
+        "value": 3,
+        "text": "La ejecución de la legislación básica del Estado."
+      },
+      {
+        "value": 4,
+        "text": "La competencia exclusiva."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El desarrollo legislativo y la ejecución de la legislación básica del Estado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 18 EAPV: en materia de sanidad interior corresponde al País Vasco el desarrollo legislativo y la ejecución de la legislación básica del Estado."
+  },
+  {
+    "id": "tec-t02_11",
+    "questionNum": 11,
+    "question": "En relación con el proceso de reforma del Estatuto de Autonomía del País Vasco, indíquese cuál de las siguientes afirmaciones es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La iniciativa de reforma corresponde a las Cortes Generales del Estado español, al Gobierno Vasco y al Parlamento Vasco, a propuesta de la mayoría simple de sus componentes."
+      },
+      {
+        "value": 2,
+        "text": "La propuesta de reforma habrá de ser aprobada por el Parlamento Vasco mediante mayoría cualificada de 2/3 de sus componentes."
+      },
+      {
+        "value": 3,
+        "text": "Tras su aprobación por el Parlamento Vasco, la reforma será aprobada por las Cortes Generales del Estado mediante Ley Orgánica."
+      },
+      {
+        "value": 4,
+        "text": "Con carácter previo a la remisión a las Cortes Generales, se requerirá la aprobación del electorado vasco mediante referéndum."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Tras su aprobación por el Parlamento Vasco, la reforma será aprobada por las Cortes Generales del Estado mediante Ley Orgánica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 46 EAPV: la reforma del Estatuto se aprobará por el Parlamento Vasco por mayoría absoluta, luego las Cortes Generales la aprobarán mediante Ley Orgánica, y finalmente será sometida a referéndum."
+  },
+  {
+    "id": "tec-t02_12",
+    "questionNum": 12,
+    "question": "De acuerdo con la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco, indíquese sobre cuál de las siguientes materias NO tiene Euskadi competencia exclusiva:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Pesca en aguas interiores, marisqueo y acuicultura, caza y pesca fluvial y lacustre."
+      },
+      {
+        "value": 2,
+        "text": "Asistencia Social."
+      },
+      {
+        "value": 3,
+        "text": "Investigación científica y técnica en coordinación con el Estado."
+      },
+      {
+        "value": 4,
+        "text": "Sanidad interior."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Sanidad interior."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "La sanidad interior es competencia compartida (desarrollo legislativo y ejecución de la legislación básica estatal, art. 18 EAPV), no exclusiva. Las otras tres sí son exclusivas (arts. 10 y 16 EAPV)."
+  },
+  {
+    "id": "tec-t02_13",
+    "questionNum": 13,
+    "question": "¿Cuál de las siguientes afirmaciones sobre la reforma del Estatuto de Autonomía del País Vasco es correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La iniciativa de reforma corresponde al Parlamento Vasco, al Gobierno Vasco o a las Juntas Generales de los Territorios Históricos."
+      },
+      {
+        "value": 2,
+        "text": "El Gobierno Vasco podrá ser facultado, por delegación expresa del Estado, para convocar el referéndum necesario para la reforma del Estatuto."
+      },
+      {
+        "value": 3,
+        "text": "La propuesta de reforma, una vez aprobada en el Parlamento Vasco, debe ser trasladada a las Cortes Generales para su aprobación mediante Ley ordinaria, y finalmente se precisará la aprobación mediante referéndum."
+      },
+      {
+        "value": 4,
+        "text": "La propuesta de reforma corresponde al Parlamento Vasco, al Gobierno Vasco o a las Cortes Generales y, una vez aprobada por el Parlamento Vasco, podrá ser sometida a referéndum."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La propuesta de reforma corresponde al Parlamento Vasco, al Gobierno Vasco o a las Cortes Generales y, una vez aprobada por el Parlamento Vasco, podrá ser sometida a referéndum."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 46 EAPV: la iniciativa corresponde al Parlamento Vasco, al Gobierno Vasco o a las Cortes Generales. Aprobada por el Parlamento Vasco, pasa a las Cortes (Ley Orgánica) y luego a referéndum."
+  },
+  {
+    "id": "tec-t02_14",
+    "questionNum": 14,
+    "question": "Según establece el Estatuto de Autonomía del País Vasco, es de competencia de la Comunidad Autónoma del País Vasco el desarrollo legislativo y la ejecución dentro de su territorio de la legislación básica del estado en materia de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Organización del crédito, banca y seguros."
+      },
+      {
+        "value": 2,
+        "text": "Propiedad intelectual e industrial."
+      },
+      {
+        "value": 3,
+        "text": "Legislación del Estado sobre productos farmacéuticos."
+      },
+      {
+        "value": 4,
+        "text": "La gestión del régimen económico de la Seguridad Social."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Legislación del Estado sobre productos farmacéuticos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 18.2 EAPV: corresponde al País Vasco el desarrollo legislativo y la ejecución de la legislación del Estado sobre productos farmacéuticos."
+  },
+  {
+    "id": "tec-t02_15",
+    "questionNum": 15,
+    "question": "La Comisión Mixta constituida para el señalamiento de los cupos correspondientes a cada territorio histórico que integran el cupo global que el País Vasco aporta al Estado, estará integrada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Por una persona representante de cada Diputación Foral y una del Gobierno Vasco."
+      },
+      {
+        "value": 2,
+        "text": "De una parte, por una persona representante de cada Diputación Foral y otras tantas por el Gobierno Vasco, y de otra, por un número igual de representantes de la Administración del Estado."
+      },
+      {
+        "value": 3,
+        "text": "De una parte, por una persona representante de cada Diputación Foral, y de otra, por un número igual de representantes del Gobierno Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Por una persona representante de cada Diputación Foral, una del Gobierno Vasco y, finalmente, una persona representante de la Administración del Estado."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "De una parte, por una persona representante de cada Diputación Foral y otras tantas por el Gobierno Vasco, y de otra, por un número igual de representantes de la Administración del Estado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "DT 1ª EAPV: la Comisión Mixta de Cupo se integra paritariamente por representantes de las Diputaciones Forales y del Gobierno Vasco, de un lado, e igual número de representantes de la Administración del Estado, de otro."
+  },
+  {
+    "id": "tec-t02_16",
+    "questionNum": 16,
+    "question": "De acuerdo con el título III del Estatuto de Autonomía del País Vasco, ¿cuál de las siguientes respuestas NO constituye ingresos de la Hacienda General del País Vasco?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El producto de las operaciones de crédito y emisiones de deuda."
+      },
+      {
+        "value": 2,
+        "text": "Rendimientos procedentes de su patrimonio."
+      },
+      {
+        "value": 3,
+        "text": "Transferencias del Fondo de Compensación Interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado."
+      },
+      {
+        "value": 4,
+        "text": "La recaudación directa de impuestos a la ciudadanía por parte del Gobierno Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La recaudación directa de impuestos a la ciudadanía por parte del Gobierno Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 42 EAPV: los ingresos de la Hacienda General del País Vasco son los rendimientos del patrimonio, las operaciones de crédito, las asignaciones del Estado y otras fuentes legales. La recaudación directa de impuestos corresponde a las Diputaciones Forales, no al Gobierno Vasco directamente."
+  },
+  {
+    "id": "tec-t02_17",
+    "questionNum": 17,
+    "question": "Indíquese, en relación con el Patrimonio de la Comunidad Autónoma Vasca, cuál de las siguientes afirmaciones es INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Una Ley del Parlamento Vasco regulará la administración, defensa y conservación del patrimonio del País Vasco."
+      },
+      {
+        "value": 2,
+        "text": "El Gobierno Vasco resolverá sobre los órganos del País Vasco a quienes se transferirá la propiedad o uso de dichos bienes y derechos."
+      },
+      {
+        "value": 3,
+        "text": "Se integrarán en el patrimonio de la Comunidad Autónoma vasca los derechos y bienes del Estado afectos a servicios y competencias asumidas por dicha Comunidad."
+      },
+      {
+        "value": 4,
+        "text": "Constituirán ingresos de la Hacienda General del País Vasco los rendimientos procedentes de su patrimonio."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El Gobierno Vasco resolverá sobre los órganos del País Vasco a quienes se transferirá la propiedad o uso de dichos bienes y derechos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 41 EAPV: no es el Gobierno Vasco quien resuelve la transferencia de bienes del Estado, sino que estos se integran en el patrimonio autonómico conforme a los procedimientos de traspaso. La opción B atribuye incorrectamente esta función al Gobierno Vasco."
+  },
+  {
+    "id": "tec-t02_18",
+    "questionNum": 18,
+    "question": "De acuerdo con el Estatuto de Autonomía del País Vasco, los convenios con otras Comunidades Autónomas para la gestión y prestación de servicios propios de la exclusiva competencia de estas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Entrarán automáticamente en vigor una vez celebrados."
+      },
+      {
+        "value": 2,
+        "text": "Deberán ser comunicados a las Cortes Generales para su autorización."
+      },
+      {
+        "value": 3,
+        "text": "Deberán ser comunicados a las Cortes Generales, y entrarán en vigor si transcurridos 15 días no se hubieran manifestado reparos al mismo."
+      },
+      {
+        "value": 4,
+        "text": "Deberán ser comunicados a las Cortes Generales antes de su entrada en vigor."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Deberán ser comunicados a las Cortes Generales antes de su entrada en vigor."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 22 EAPV: los convenios de colaboración con otras CCAA para gestión de servicios deben comunicarse a las Cortes Generales antes de su entrada en vigor, sin que se requiera autorización expresa."
+  },
+  {
+    "id": "tec-t02_19",
+    "questionNum": 19,
+    "question": "En relación con el Ararteko, diga cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona titular del Ararteko es designada por el Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "La persona titular del Ararteko es designada para periodos de 8 años, no pudiendo ser reelegible."
+      },
+      {
+        "value": 3,
+        "text": "La persona titular del Ararteko dará cuenta al Parlamento de sus actividades en un informe anual."
+      },
+      {
+        "value": 4,
+        "text": "La persona titular del Ararteko es independiente y autónoma en su funcionamiento de la Defensoría del Pueblo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La persona titular del Ararteko es designada para periodos de 8 años, no pudiendo ser reelegible."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "La Ley 3/1985 establece un mandato de 5 años (no 8), con posibilidad de reelección por una sola vez. La opción B es falsa en cuanto a la duración del mandato."
+  },
+  {
+    "id": "tec-t02_20",
+    "questionNum": 20,
+    "question": "Con relación al Tribunal Vasco de Cuentas Públicas, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es un órgano dependiente del Gobierno Vasco para la fiscalización de las actividades económico-financieras del sector público."
+      },
+      {
+        "value": 2,
+        "text": "Las personas integrantes del Tribunal Vasco de Cuentas Públicas son designadas por el Gobierno Vasco, a propuesta de la Consejería competente en materia de Hacienda y Finanzas."
+      },
+      {
+        "value": 3,
+        "text": "La obstrucción a las actuaciones del Tribunal Vasco de Cuentas Públicas tendrá carácter de infracción."
+      },
+      {
+        "value": 4,
+        "text": "La fiscalización de los contratos celebrados por el sector público vasco no afectará a los contratos de obras públicas que se someterán a la fiscalización del Tribunal de Cuentas de España."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La obstrucción a las actuaciones del Tribunal Vasco de Cuentas Públicas tendrá carácter de infracción."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Ley 1/1988: el Tribunal Vasco de Cuentas Públicas es independiente del Gobierno. La obstrucción a sus actuaciones es tipificada como infracción. Sus miembros son elegidos por el Parlamento Vasco, no por el Gobierno."
+  },
+  {
+    "id": "tec-t02_21",
+    "questionNum": 21,
+    "question": "El Tribunal Vasco de Cuentas Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Podrá adoptar cuantas medidas precautorias considere oportunas para salvaguardar y proteger los bienes, caudales y efectos públicos."
+      },
+      {
+        "value": 2,
+        "text": "Será examinado de sus propias cuentas por el Gobierno."
+      },
+      {
+        "value": 3,
+        "text": "No podrá instruir procedimientos jurisdiccionales al enjuiciamiento de presuntas responsabilidades contables."
+      },
+      {
+        "value": 4,
+        "text": "Realizará los controles en la sede del propio tribunal."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Podrá adoptar cuantas medidas precautorias considere oportunas para salvaguardar y proteger los bienes, caudales y efectos públicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Ley 1/1988: el Tribunal Vasco de Cuentas Públicas puede adoptar medidas precautorias para proteger los bienes públicos cuando aprecie indicios de irregularidades."
+  },
+  {
+    "id": "tec-t02_22",
+    "questionNum": 22,
+    "question": "Conforme determina la Ley 3/1985, de 27 de febrero, por la que se crea y regula la institución del Ararteko, señale cuál de las siguientes afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es una institución prevista en la Constitución española junto a la del Defensor del Pueblo que encuentra su desarrollo en el Estatuto de Autonomía del País Vasco."
+      },
+      {
+        "value": 2,
+        "text": "La persona titular será designada por el Parlamento vasco y es necesario el voto favorable de la mayoría de tres quintas partes del Parlamento."
+      },
+      {
+        "value": 3,
+        "text": "Ejerce sus funciones de salvaguarda de los derechos de la ciudadanía frente a posibles vulneraciones por parte de particulares, de acuerdo con las leyes, en coordinación con la institución del Defensor del Pueblo."
+      },
+      {
+        "value": 4,
+        "text": "La persona titular del Ararteko puede tener afiliación a un partido político, pero no desempeñar funciones directivas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La persona titular será designada por el Parlamento vasco y es necesario el voto favorable de la mayoría de tres quintas partes del Parlamento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t02",
+    "explanation": "Art. 3 Ley 3/1985: la persona titular del Ararteko es elegida por el Parlamento Vasco mediante votación en la que se exige la mayoría de tres quintas partes de sus miembros."
+  }
+]

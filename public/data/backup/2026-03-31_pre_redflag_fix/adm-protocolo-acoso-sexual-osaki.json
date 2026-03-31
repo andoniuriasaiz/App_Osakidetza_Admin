@@ -1,0 +1,483 @@
+[
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_1",
+    "questionNum": 1,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el protocolo será revisado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cada cuatro años."
+      },
+      {
+        "value": 2,
+        "text": "Cada cinco años."
+      },
+      {
+        "value": 3,
+        "text": "Anualmente y, una vez transcurridos los primeros cuatro años, cada cuatro años."
+      },
+      {
+        "value": 4,
+        "text": "Anualmente durante los primeros cuatro años y, a partir de ese momento, cada dos años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Anualmente y, una vez transcurridos los primeros cuatro años, cada cuatro años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (disposición final): El protocolo será revisado ANUALMENTE Y, UNA VEZ TRANSCURRIDOS LOS PRIMEROS CUATRO AÑOS, CADA CUATRO AÑOS. Respuesta C.",
+    "originalId": 147
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_2",
+    "questionNum": 2,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el procedimiento informal se utilizará cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los hechos no alcancen la entidad suficiente para ser calificados como acoso sexual o acoso por razón de sexo, pero puedan resultar inadecuados."
+      },
+      {
+        "value": 2,
+        "text": "Las conductas no constituyan acoso sexual ni por razón de sexo, aunque generen malestar en el entorno laboral."
+      },
+      {
+        "value": 3,
+        "text": "Los hechos no revistan la gravedad suficiente para ser considerados acoso sexual o por razón de sexo."
+      },
+      {
+        "value": 4,
+        "text": "Las actuaciones descritas no puedan calificarse como acoso, sin perjuicio de que requieran intervención preventiva."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Los hechos no alcancen la entidad suficiente para ser calificados como acoso sexual o acoso por razón de sexo, pero puedan resultar inadecuados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento informal): Se utilizará cuando LOS HECHOS NO ALCANCEN LA ENTIDAD SUFICIENTE PARA SER CALIFICADOS COMO ACOSO SEXUAL O ACOSO POR RAZÓN DE SEXO, PERO PUEDAN RESULTAR INADECUADOS. Son situaciones incipientes o fronterizas que, sin constituir acoso formalmente, requieren intervención preventiva rápida. Respuesta A.",
+    "originalId": 148
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_3",
+    "questionNum": 3,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la Asesoría Confidencial tiene entre sus funciones:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Adoptar y ejecutar las sanciones disciplinarias derivadas de los procedimientos por acoso."
+      },
+      {
+        "value": 2,
+        "text": "Resolver con carácter definitivo los casos de acoso sexual y por razón de sexo."
+      },
+      {
+        "value": 3,
+        "text": "Recibir, analizar y tramitar las quejas y denuncias relacionadas con posibles situaciones de acoso."
+      },
+      {
+        "value": 4,
+        "text": "Asumir las funciones atribuidas a la Dirección de Personas en materia de gestión de personal."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Recibir, analizar y tramitar las quejas y denuncias relacionadas con posibles situaciones de acoso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (Asesoría Confidencial): Sus funciones incluyen RECIBIR, ANALIZAR Y TRAMITAR LAS QUEJAS Y DENUNCIAS relacionadas con posibles situaciones de acoso. No adopta ni ejecuta sanciones disciplinarias (a) — eso corresponde a la Dirección. No resuelve definitivamente los casos (b). No sustituye a la Dirección de Personas en materia de personal (d). Respuesta C.",
+    "originalId": 149
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_4",
+    "questionNum": 4,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, Osakidetza velará por el mantenimiento de un entorno laboral:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exento de riesgos y, en consecuencia, libre de situaciones de acoso sexual y acoso por razón de sexo en todas sus formas, incluyendo el ciberacoso."
+      },
+      {
+        "value": 2,
+        "text": "Libre de riesgos y, por tanto, exento de situaciones de acoso sexual y por razón de sexo, incluyendo el ciberacoso."
+      },
+      {
+        "value": 3,
+        "text": "Exento de riesgos y, consecuentemente, libre de situaciones de acoso sexual y acoso por razón de sexo, excluyendo el ciberacoso."
+      },
+      {
+        "value": 4,
+        "text": "Exento de riesgos y libre de situaciones de acoso sexual y por razón de sexo, en cualquiera de sus formas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Exento de riesgos y, en consecuencia, libre de situaciones de acoso sexual y acoso por razón de sexo en todas sus formas, incluyendo el ciberacoso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024: Osakidetza velará por el mantenimiento de un entorno laboral EXENTO DE RIESGOS y, en consecuencia, LIBRE DE SITUACIONES DE ACOSO SEXUAL Y ACOSO POR RAZÓN DE SEXO EN TODAS SUS FORMAS, INCLUYENDO EL CIBERACOSO. La mención expresa al ciberacoso (a) distingue a esta opción de la d). Respuesta A.",
+    "originalId": 150
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_5",
+    "questionNum": 5,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, Osakidetza se compromete a salvaguardar los derechos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "De las personas trabajadoras garantizando la aplicación del régimen disciplinario."
+      },
+      {
+        "value": 2,
+        "text": "De las personas afectadas con las debidas garantías."
+      },
+      {
+        "value": 3,
+        "text": "De las personas afectadas en condiciones de igualdad."
+      },
+      {
+        "value": 4,
+        "text": "De las personas trabajadoras de Osakidetza mediante medidas preventivas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "De las personas afectadas con las debidas garantías."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024: Osakidetza se compromete a salvaguardar los derechos DE LAS PERSONAS AFECTADAS CON LAS DEBIDAS GARANTÍAS. El protocolo garantiza: confidencialidad, presunción de inocencia, protección frente a represalias, y trato digno a todas las partes. Respuesta B.",
+    "originalId": 151
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_6",
+    "questionNum": 6,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el protocolo se aplicará:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A todo el personal estatutario fijo de Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "A todo el personal adscrito a los centros sanitarios."
+      },
+      {
+        "value": 3,
+        "text": "A todo el personal adscrito a Osakidetza, incluido personal directivo."
+      },
+      {
+        "value": 4,
+        "text": "A todo el personal adscrito a Osakidetza, incluido personal directivo, en formación y empresas externas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "A todo el personal adscrito a Osakidetza, incluido personal directivo, en formación y empresas externas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (ámbito de aplicación): El protocolo se aplica a TODO EL PERSONAL ADSCRITO A OSAKIDETZA, INCLUIDO PERSONAL DIRECTIVO, EN FORMACIÓN (residentes, estudiantes de prácticas) Y PERSONAL DE EMPRESAS EXTERNAS que presten servicios en centros de Osakidetza. Es el ámbito más amplio posible. Respuesta D.",
+    "originalId": 152
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_7",
+    "questionNum": 7,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, constituye acoso sexual:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cualquier comportamiento reiterado de naturaleza sexual que genere un entorno laboral hostil."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier conducta de carácter sexual relacionada con el sexo de la persona."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga como propósito o produzca el efecto de atentar contra la dignidad de una persona."
+      },
+      {
+        "value": 4,
+        "text": "Cualquier actuación de contenido sexual que pueda resultar ofensiva en el ámbito laboral."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga como propósito o produzca el efecto de atentar contra la dignidad de una persona."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "LO 3/2007 Art. 7.1 (recogida en el Protocolo): 'Constituye acoso sexual cualquier COMPORTAMIENTO, VERBAL O FÍSICO, DE NATURALEZA SEXUAL que tenga el PROPÓSITO O PRODUZCA EL EFECTO DE ATENTAR CONTRA LA DIGNIDAD de una persona.' Clave: verbal O físico + propósito O efecto. La opción a) exige reiteración (FALSO — un solo acto puede ser acoso sexual). Respuesta C.",
+    "originalId": 153
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_8",
+    "questionNum": 8,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, cualquier persona que sufra o conozca una situación de acoso:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Podrá comunicarla únicamente a través de los órganos de representación sindical."
+      },
+      {
+        "value": 2,
+        "text": "Podrá comunicarla solo si es personal fijo de Osakidetza."
+      },
+      {
+        "value": 3,
+        "text": "Deberá ponerla en conocimiento de la Dirección de Personas."
+      },
+      {
+        "value": 4,
+        "text": "Tendrá derecho a denunciarla."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Tendrá derecho a denunciarla."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024: Cualquier persona que sufra o conozca una situación de acoso TENDRÁ DERECHO A DENUNCIARLA. Es un derecho (no una obligación). No se limita a personal fijo (b), ni a la representación sindical (a), ni obliga a acudir solo a la Dirección de Personas (c). Respuesta D.",
+    "originalId": 154
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_9",
+    "questionNum": 9,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el principio de confidencialidad implica que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La información solo podrá compartirse con autorización judicial."
+      },
+      {
+        "value": 2,
+        "text": "La información será accesible a todas las partes implicadas."
+      },
+      {
+        "value": 3,
+        "text": "La información se limitará a las personas estrictamente necesarias para la tramitación."
+      },
+      {
+        "value": 4,
+        "text": "La información se comunicará a los órganos de representación sindical."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La información se limitará a las personas estrictamente necesarias para la tramitación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (principio de confidencialidad): La información obtenida en el procedimiento SE LIMITARÁ A LAS PERSONAS ESTRICTAMENTE NECESARIAS PARA LA TRAMITACIÓN. No requiere autorización judicial (a), no es accesible a todas las partes (b), y no se comunica sistemáticamente a la representación sindical (d). Respuesta C.",
+    "originalId": 186
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_10",
+    "questionNum": 10,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la reiteración de conductas ofensivas tras utilizar los procedimientos establecidos constituye:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un requisito imprescindible para que exista acoso."
+      },
+      {
+        "value": 2,
+        "text": "Un supuesto excluido del protocolo."
+      },
+      {
+        "value": 3,
+        "text": "Una circunstancia atenuante."
+      },
+      {
+        "value": 4,
+        "text": "Una circunstancia agravante."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Una circunstancia agravante."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024: La reiteración de conductas ofensivas tras haber utilizado los procedimientos establecidos constituye UNA CIRCUNSTANCIA AGRAVANTE de la conducta. No es un requisito para que exista acoso (a — el acoso puede ser un único acto grave), ni es un supuesto excluido (b), ni es atenuante (c). Respuesta D.",
+    "originalId": 187
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_11",
+    "questionNum": 11,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el procedimiento formal se iniciará cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las partes no alcancen acuerdo en el procedimiento informal."
+      },
+      {
+        "value": 2,
+        "text": "El trabajador lo solicite verbalmente."
+      },
+      {
+        "value": 3,
+        "text": "Existan indicios penales."
+      },
+      {
+        "value": 4,
+        "text": "El responsable directo lo considere oportuno."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las partes no alcancen acuerdo en el procedimiento informal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento formal): El procedimiento formal se iniciará cuando LAS PARTES NO ALCANCEN ACUERDO EN EL PROCEDIMIENTO INFORMAL, o cuando la gravedad de los hechos aconseje ir directamente a la vía formal. No requiere solo solicitud verbal (b), ni indicios penales (c), ni decisión unilateral del responsable (d). Respuesta A.",
+    "originalId": 188
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_12",
+    "questionNum": 12,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la formación en materia de acoso sexual y por razón de sexo tiene como finalidad principal:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sensibilizar ante las denuncias."
+      },
+      {
+        "value": 2,
+        "text": "Sensibilizar y prevenir situaciones de acoso."
+      },
+      {
+        "value": 3,
+        "text": "Sustituir el procedimiento disciplinario."
+      },
+      {
+        "value": 4,
+        "text": "Informar exclusivamente al personal directivo"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Sensibilizar y prevenir situaciones de acoso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (formación): La formación en materia de acoso sexual y por razón de sexo tiene como finalidad principal SENSIBILIZAR Y PREVENIR SITUACIONES DE ACOSO en el entorno laboral. No se limita a las denuncias (a), ni sustituye el procedimiento disciplinario (c), ni se restringe solo al personal directivo (d). Respuesta B.",
+    "originalId": 189
+  },
+  {
+    "id": "adm-protocolo-acoso-sexual-osaki_13",
+    "questionNum": 13,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la utilización del procedimiento informal tiene como objetivo principal:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Iniciar el expediente disciplinario correspondiente."
+      },
+      {
+        "value": 2,
+        "text": "Resolver de forma ágil situaciones incipientes antes de que deriven en acoso."
+      },
+      {
+        "value": 3,
+        "text": "Sustituir el procedimiento formal en todos los casos."
+      },
+      {
+        "value": 4,
+        "text": "Determinar responsabilidades disciplinarias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Resolver de forma ágil situaciones incipientes antes de que deriven en acoso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-protocolo-acoso-sexual-osaki",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (objetivo del procedimiento informal): El procedimiento informal tiene como objetivo principal RESOLVER DE FORMA ÁGIL SITUACIONES INCIPIENTES ANTES DE QUE DERIVEN EN ACOSO. Es un mecanismo de intervención temprana. No inicia el expediente disciplinario (a), ni sustituye el formal en todos los casos (c), ni determina responsabilidades (d). Respuesta B.",
+    "originalId": 196
+  }
+]

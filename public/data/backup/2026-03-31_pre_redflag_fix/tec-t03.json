@@ -1,0 +1,794 @@
+[
+  {
+    "id": "tec-t03_1",
+    "questionNum": 1,
+    "question": "Conforme determina la Ley 3/1985, de 27 de febrero, por la que se crea y regula la institución del Ararteko, la persona titular es designada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Por cuatro años, pudiendo ser reelegida una sola vez por igual período."
+      },
+      {
+        "value": 2,
+        "text": "Por cuatro años, pudiendo ser reelegida una sola vez."
+      },
+      {
+        "value": 3,
+        "text": "Por cinco años, sin posibilidad de reelección."
+      },
+      {
+        "value": 4,
+        "text": "Por cinco años, pudiendo ser reelegida una sola vez por igual período."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Por cinco años, pudiendo ser reelegida una sola vez por igual período."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Art. 4 Ley 3/1985: la persona titular del Ararteko es designada por un período de cinco años, pudiendo ser reelegida por una sola vez por igual período."
+  },
+  {
+    "id": "tec-t03_2",
+    "questionNum": 2,
+    "question": "Conforme establece la Ley 3/1985, de 27 de febrero, por la que se crea y regula la institución del Ararteko, la persona titular deberá cesar en toda situación de incompatibilidad que pudiere afectarle:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dentro de los cinco días siguientes a su nombramiento y antes de tomar posesión."
+      },
+      {
+        "value": 2,
+        "text": "Dentro de los quince días siguientes a su nombramiento y antes de tomar posesión."
+      },
+      {
+        "value": 3,
+        "text": "En un plazo no superior a un mes desde su nombramiento y antes de tomar posesión."
+      },
+      {
+        "value": 4,
+        "text": "Dentro de los diez días siguientes a su nombramiento y antes de tomar posesión."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Dentro de los diez días siguientes a su nombramiento y antes de tomar posesión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Art. 7 Ley 3/1985: la persona titular deberá cesar en toda situación de incompatibilidad dentro de los diez días siguientes a su nombramiento y antes de tomar posesión del cargo."
+  },
+  {
+    "id": "tec-t03_3",
+    "questionNum": 3,
+    "question": "Conforme establece la Ley 3/1985, de 27 de febrero, por la que se crea y regula la institución del Ararteko, la persona adjunta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Será nombrada por la persona titular del Ararteko, previa conformidad del Parlamento."
+      },
+      {
+        "value": 2,
+        "text": "Será nombrada por el Parlamento, en la forma que determine su Reglamento."
+      },
+      {
+        "value": 3,
+        "text": "Será nombrada por la persona titular del Ararteko, sin que sea necesaria la previa conformidad del Parlamento."
+      },
+      {
+        "value": 4,
+        "text": "Será nombrada por la persona titular del Ararteko y separada por el Parlamento."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Será nombrada por la persona titular del Ararteko, previa conformidad del Parlamento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Art. 9 Ley 3/1985: la persona adjunta será nombrada por la persona titular del Ararteko, previa conformidad del Parlamento Vasco."
+  },
+  {
+    "id": "tec-t03_4",
+    "questionNum": 4,
+    "question": "Conforme a la Ley 1/1988, de 5 de febrero, de creación del Tribunal Vasco de Cuentas Públicas, las personas que lo integran serán elegidas entre aquellas que cuenten con una experiencia profesional de al menos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Doce años."
+      },
+      {
+        "value": 2,
+        "text": "Diez años."
+      },
+      {
+        "value": 3,
+        "text": "Quince años."
+      },
+      {
+        "value": 4,
+        "text": "Ocho años."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Diez años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 1/1988: los miembros del Tribunal Vasco de Cuentas Públicas deben contar con titulación académica superior, reconocida competencia en el ámbito funcional del tribunal y experiencia profesional de al menos diez años."
+  },
+  {
+    "id": "tec-t03_5",
+    "questionNum": 5,
+    "question": "Señale cuál de las siguientes respuestas es la correcta en relación con la delegación de funciones establecida en la Ley 7/1981, de 30 de junio, de Gobierno:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La delegación sólo puede realizarse mediante decreto del/de la lehendakari."
+      },
+      {
+        "value": 2,
+        "text": "La delegación de funciones no puede ser revocada una vez otorgada salvo de forma excepcional."
+      },
+      {
+        "value": 3,
+        "text": "Los actos delegados se considerarán dictados por el Órgano delegante."
+      },
+      {
+        "value": 4,
+        "text": "La función delegada puede ser objeto de subdelegación si tal posibilidad está prevista en el Decreto u Orden de delegación."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La función delegada puede ser objeto de subdelegación si tal posibilidad está prevista en el Decreto u Orden de delegación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981: la subdelegación de funciones es posible si el Decreto u Orden de delegación la prevé expresamente. Los actos delegados se consideran dictados por el órgano delegado, no por el delegante."
+  },
+  {
+    "id": "tec-t03_6",
+    "questionNum": 6,
+    "question": "¿Cuál de las siguientes respuestas en relación con la responsabilidad del Gobierno Vasco frente al Parlamento Vasco es correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Si el Parlamento Vasco aprueba una moción de censura, el/la lehendakari presentará su dimisión y la persona candidata incluida en aquélla se entenderá designada por el Parlamento a los efectos de su nombramiento por el Rey."
+      },
+      {
+        "value": 2,
+        "text": "El Parlamento Vasco podrá exigir la responsabilidad del Gobierno mediante la adopción de una moción de censura, que deberá ser propuesta, al menos, por la quinta parte de los y las Parlamentarias."
+      },
+      {
+        "value": 3,
+        "text": "Si el Parlamento Vasco niega la cuestión de confianza planteada por el/la lehendakari, tendrá que convocar elecciones para que se proceda a la elección de un nuevo/a Lehendakari."
+      },
+      {
+        "value": 4,
+        "text": "La persona que ostenta la Lehendakaritza, previa deliberación del Gobierno, podrá plantear al Parlamento la cuestión de confianza sobre su programa o sobre una declaración de política general, confianza que se entenderá otorgada cuando obtuviese la mayoría absoluta de los votos de la Cámara."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Si el Parlamento Vasco aprueba una moción de censura, el/la lehendakari presentará su dimisión y la persona candidata incluida en aquélla se entenderá designada por el Parlamento a los efectos de su nombramiento por el Rey."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981: si el Parlamento aprueba una moción de censura constructiva, el lehendakari cesa y la persona candidata alternativa incluida en la moción queda designada para su nombramiento por el Rey."
+  },
+  {
+    "id": "tec-t03_7",
+    "questionNum": 7,
+    "question": "¿Cuál de las siguientes respuestas en relación con la potestad del Gobierno Vasco de dictar Decretos-Legislativos es correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Parlamento Vasco podrá delegar en el Gobierno la potestad de dictar normas con rango de Ley, denominadas Decretos-Legislativos, si bien sólo en caso de extraordinaria y urgente necesidad."
+      },
+      {
+        "value": 2,
+        "text": "La delegación legislativa deberá acordarse mediante una Ley ordinaria cuando su objeto sea la elaboración de textos articulados o por una Ley de Bases cuando se trate de refundir varios textos legales en uno solo."
+      },
+      {
+        "value": 3,
+        "text": "El Parlamento Vasco podrá delegar en el Gobierno la potestad de dictar Decretos-Legislativos que afecten al desarrollo de los derechos fundamentales y de las libertades públicas."
+      },
+      {
+        "value": 4,
+        "text": "El Parlamento Vasco no podrá delegar en el Gobierno la potestad de dictar Decretos-Legislativos que afecten al ordenamiento básico del Gobierno o al régimen jurídico de la Administración del País Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El Parlamento Vasco no podrá delegar en el Gobierno la potestad de dictar Decretos-Legislativos que afecten al ordenamiento básico del Gobierno o al régimen jurídico de la Administración del País Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981: la delegación legislativa no puede afectar al ordenamiento básico del Gobierno ni al régimen jurídico de la Administración vasca. Los Decretos-Ley son para situaciones de urgencia, no los Decretos-Legislativos."
+  },
+  {
+    "id": "tec-t03_8",
+    "questionNum": 8,
+    "question": "En relación con el cese del/de la lehendakari, señale la respuesta correcta, de acuerdo con la Ley 7/1981, de 30 de junio, de Gobierno:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El/la lehendakari cesa únicamente por la celebración de elecciones al Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "El/la lehendakari cesa si el Parlamento aprueba una moción de censura por mayoría simple."
+      },
+      {
+        "value": 3,
+        "text": "El/la lehendakari cesa por dimisión, pérdida de la confianza parlamentaria o fallecimiento."
+      },
+      {
+        "value": 4,
+        "text": "El/la lehendakari cesa automáticamente cuando se disuelve el Parlamento Vasco, sin excepción."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El/la lehendakari cesa por dimisión, pérdida de la confianza parlamentaria o fallecimiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981: las causas de cese del lehendakari son la dimisión, la pérdida de la confianza parlamentaria (moción de censura o pérdida de cuestión de confianza), incapacidad y fallecimiento, entre otras."
+  },
+  {
+    "id": "tec-t03_9",
+    "questionNum": 9,
+    "question": "Conforme a la Ley 7/1981, de 30 de junio, de Gobierno, corresponde al Gobierno Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Definir el Programa de Gobierno."
+      },
+      {
+        "value": 2,
+        "text": "Aprobar las Proposiciones de Ley para su remisión al Parlamento o determinar su retirada, en las condiciones que establezca el Reglamento de la Cámara."
+      },
+      {
+        "value": 3,
+        "text": "Ejercer, mediante Decretos-Legislativos, la delegación legislativa en los términos establecidos en esta Ley."
+      },
+      {
+        "value": 4,
+        "text": "Ejercer, mediante Decretos-Leyes, la delegación legislativa en los términos establecidos en esta Ley."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ejercer, mediante Decretos-Legislativos, la delegación legislativa en los términos establecidos en esta Ley."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981: corresponde al Gobierno Vasco ejercer la delegación legislativa mediante Decretos-Legislativos cuando el Parlamento le haya delegado esa potestad. Definir el Programa de Gobierno corresponde al lehendakari."
+  },
+  {
+    "id": "tec-t03_10",
+    "questionNum": 10,
+    "question": "La Ley 7/1981, de 30 de junio, de Gobierno contempla la suspensión de las funciones del/de la lehendakari. El acuerdo del Gobierno Vasco sobre la imposibilidad de ejercer sus funciones se adoptará por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mayoría de tres quintas partes de sus integrantes."
+      },
+      {
+        "value": 2,
+        "text": "Mayoría de las cuatro quintas partes de sus integrantes."
+      },
+      {
+        "value": 3,
+        "text": "Mayoría de tres cuartas partes de sus integrantes."
+      },
+      {
+        "value": 4,
+        "text": "El Gobierno no es competente para acordar la imposibilidad del/de la lehendakari para el desempeño de sus funciones."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Mayoría de las cuatro quintas partes de sus integrantes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981: el acuerdo del Gobierno sobre la imposibilidad temporal del lehendakari para ejercer sus funciones requiere la mayoría de las cuatro quintas partes de sus integrantes."
+  },
+  {
+    "id": "tec-t03_11",
+    "questionNum": 11,
+    "question": "Conforme a la Ley 7/1981, de 30 de junio, de Gobierno, la persona titular de la Lehendakaritza (Lehendakari):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Será designada por el Parlamento y nombrada por la persona que ostente la Presidencia del Gobierno central."
+      },
+      {
+        "value": 2,
+        "text": "Será designada, de entre sus integrantes, por el Parlamento y nombrada por el Rey mediante un Real Decreto."
+      },
+      {
+        "value": 3,
+        "text": "Será designada, de entre sus integrantes, por el Parlamento y nombrada por el Rey mediante Ley."
+      },
+      {
+        "value": 4,
+        "text": "Será designada y nombrada, de entre sus integrantes, por el Parlamento mediante un Real-Decreto."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Será designada, de entre sus integrantes, por el Parlamento y nombrada por el Rey mediante un Real Decreto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981 y EAPV: el lehendakari es designado por el Parlamento Vasco de entre sus integrantes y nombrado por el Rey mediante Real Decreto."
+  },
+  {
+    "id": "tec-t03_12",
+    "questionNum": 12,
+    "question": "De acuerdo con la Ley 7/1981, de 30 de junio, de Gobierno, señale cuál de las siguientes respuestas NO es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Resultará elegido/a lehendakari en la primera votación la persona candidata que hubiere obtenido la mayoría absoluta de los votos de la Cámara."
+      },
+      {
+        "value": 2,
+        "text": "Al comienzo de cada legislatura del Parlamento Vasco, la persona que ostente la Presidencia del Parlamento convocará a la Cámara para la designación del/de la lehendakari."
+      },
+      {
+        "value": 3,
+        "text": "El/la lehendakari será designado/a por el Parlamento, siendo nombrado/a por la persona que ostente la Presidencia del mismo."
+      },
+      {
+        "value": 4,
+        "text": "Si ninguna de las personas candidatas alcanzara la mayoría absoluta en la primera votación, se repetirá ésta y será designado/a lehendakari la persona que obtuviera la mayoría simple de los votos emitidos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El/la lehendakari será designado/a por el Parlamento, siendo nombrado/a por la persona que ostente la Presidencia del mismo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981: el lehendakari es nombrado por el Rey, no por la Presidencia del Parlamento. La opción C es incorrecta al atribuir el nombramiento al Presidente del Parlamento."
+  },
+  {
+    "id": "tec-t03_13",
+    "questionNum": 13,
+    "question": "De acuerdo con la Ley 7/1981, de 30 de junio, de Gobierno, indíquese cuál de las siguientes afirmaciones en relación con la potestad reglamentaria del Gobierno Vasco es INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El ejercicio de la potestad reglamentaria de las personas titulares de los Departamentos adoptará la forma de Decreto y será firmada por la persona titular del mismo."
+      },
+      {
+        "value": 2,
+        "text": "Las normas reglamentarias no podrán imponer sanciones ni multas, salvo en los casos expresamente autorizados por la Ley."
+      },
+      {
+        "value": 3,
+        "text": "Las disposiciones administrativas de carácter general adoptarán la forma de Decreto, así como las disposiciones del/de la lehendakari."
+      },
+      {
+        "value": 4,
+        "text": "Las normas reglamentarias se publicarán en el Boletín Oficial del País Vasco y entrarán en vigor a los 20 días de su publicación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El ejercicio de la potestad reglamentaria de las personas titulares de los Departamentos adoptará la forma de Decreto y será firmada por la persona titular del mismo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Ley 7/1981: la potestad reglamentaria de los Consejeros/as de Departamento se ejerce mediante Orden, no mediante Decreto. Los Decretos son del Gobierno o del lehendakari. La opción A es incorrecta."
+  },
+  {
+    "id": "tec-t03_14",
+    "questionNum": 14,
+    "question": "Teniendo en cuenta la estructura general del Departamento de Salud del Gobierno Vasco, indíquese cuál de las siguientes direcciones NO se encuentra dentro de la Viceconsejería de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dirección de Investigación, Innovación y Evaluación sanitarias."
+      },
+      {
+        "value": 2,
+        "text": "Dirección de Salud Pública y Adicciones."
+      },
+      {
+        "value": 3,
+        "text": "Dirección de Farmacia."
+      },
+      {
+        "value": 4,
+        "text": "Dirección de Transformación, Planificación y Digitalización en Salud."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Dirección de Farmacia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: la Dirección de Farmacia depende de la Viceconsejería de Administración y Financiación Sanitarias, no de la Viceconsejería de Salud."
+  },
+  {
+    "id": "tec-t03_15",
+    "questionNum": 15,
+    "question": "De acuerdo con el Decreto 319/2024, indíquese cuál de las siguientes funciones NO corresponde a la Dirección de Gabinete y Comunicación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La organización y seguimiento del programa de trabajo y actuación del Consejero/a."
+      },
+      {
+        "value": 2,
+        "text": "La colaboración interinstitucional e interdepartamental en el ámbito sociosanitario."
+      },
+      {
+        "value": 3,
+        "text": "La organización de los actos oficiales y protocolarios que celebre el Departamento."
+      },
+      {
+        "value": 4,
+        "text": "La canalización de las relaciones del Departamento con el Consejo Interterritorial de Sanidad del Sistema Nacional de Salud."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La colaboración interinstitucional e interdepartamental en el ámbito sociosanitario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: la colaboración interinstitucional en el ámbito sociosanitario corresponde a la Viceconsejería de Salud o la Dirección de Atención Sociosanitaria, no a la Dirección de Gabinete y Comunicación."
+  },
+  {
+    "id": "tec-t03_16",
+    "questionNum": 16,
+    "question": "De acuerdo con el Decreto 319/2024, la provisión de los puestos de libre designación, previa convocatoria pública, así como la designación del personal eventual, corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A la Viceconsejería de Salud."
+      },
+      {
+        "value": 2,
+        "text": "Al Consejero o Consejera."
+      },
+      {
+        "value": 3,
+        "text": "A la Viceconsejería de Administración y Financiación Sanitarias."
+      },
+      {
+        "value": 4,
+        "text": "A las Delegaciones Territoriales de Álava, de Bizkaia y de Gipuzkoa."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Al Consejero o Consejera."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: la provisión de puestos de libre designación y la designación del personal eventual del Departamento de Salud corresponde al Consejero o Consejera."
+  },
+  {
+    "id": "tec-t03_17",
+    "questionNum": 17,
+    "question": "La estructura orgánica y funcional del Departamento de Salud del Gobierno Vasco que propone el Decreto 319/2024 pretende consolidar como señas de identidad del sistema sanitario vasco las siguientes (indíquese la respuesta INCORRECTA):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Universalidad"
+      },
+      {
+        "value": 2,
+        "text": "Sostenibilidad"
+      },
+      {
+        "value": 3,
+        "text": "Calidad"
+      },
+      {
+        "value": 4,
+        "text": "Eficiencia"
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Eficiencia"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: las señas de identidad del sistema sanitario vasco son universalidad, sostenibilidad y calidad. La eficiencia es un principio de gestión, pero no figura como seña de identidad diferenciada en el Decreto 319/2024."
+  },
+  {
+    "id": "tec-t03_18",
+    "questionNum": 18,
+    "question": "Dentro de la estructura orgánica y funcional del Departamento de Salud del Gobierno Vasco, la definición de las políticas de gestión pública correspondientes a las áreas de actuación de las distintas direcciones corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al Consejero o Consejera."
+      },
+      {
+        "value": 2,
+        "text": "A la persona titular de la Viceconsejería correspondiente."
+      },
+      {
+        "value": 3,
+        "text": "A la persona titular de la Viceconsejería de Salud en todo caso."
+      },
+      {
+        "value": 4,
+        "text": "Al Director o Directora que estuviera al frente de cada dirección."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "A la persona titular de la Viceconsejería correspondiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: la definición de las políticas de gestión pública de las áreas de actuación de las distintas direcciones corresponde a la persona titular de la Viceconsejería de la que dependen."
+  },
+  {
+    "id": "tec-t03_19",
+    "questionNum": 19,
+    "question": "De acuerdo con el Decreto 319/2024, las delegaciones territoriales se estructuran en las siguientes áreas de actuación (indíquese la respuesta INCORRECTA):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Área de Atención Sociosanitaria."
+      },
+      {
+        "value": 2,
+        "text": "Área de Servicios Generales."
+      },
+      {
+        "value": 3,
+        "text": "Área de Salud Pública y Adicciones."
+      },
+      {
+        "value": 4,
+        "text": "Área de Ordenación y Contratación Sanitarias."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Área de Atención Sociosanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: las delegaciones territoriales se estructuran en Área de Servicios Generales, Área de Salud Pública y Adicciones, y Área de Ordenación y Contratación Sanitarias. El Área de Atención Sociosanitaria no es un área de las delegaciones territoriales."
+  },
+  {
+    "id": "tec-t03_20",
+    "questionNum": 20,
+    "question": "Con arreglo al Decreto 319/2024, las delegaciones territoriales del Departamento de Salud del Gobierno Vasco dependen jerárquicamente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "De la Viceconsejería de Administración y Financiación Sanitarias."
+      },
+      {
+        "value": 2,
+        "text": "De la Viceconsejería de Salud."
+      },
+      {
+        "value": 3,
+        "text": "De la Dirección de Gabinete y de Comunicación."
+      },
+      {
+        "value": 4,
+        "text": "De la Consejería de Salud del Gobierno Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "De la Viceconsejería de Administración y Financiación Sanitarias."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: las delegaciones territoriales de Álava, Bizkaia y Gipuzkoa dependen jerárquicamente de la Viceconsejería de Administración y Financiación Sanitarias."
+  },
+  {
+    "id": "tec-t03_21",
+    "questionNum": 21,
+    "question": "De acuerdo con el Decreto 319/2024, ¿cuál de las siguientes funciones no corresponde a la Dirección de Régimen Jurídico, Económico y Servicios Generales?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La elaboración de estudios e informes jurídicos en materias que afectan al Departamento de Salud."
+      },
+      {
+        "value": 2,
+        "text": "La dirección, impulso y coordinación de la elaboración de los anteproyectos de ley y disposiciones de carácter general en materias que afecten al Departamento de Salud y a las entidades adscritas."
+      },
+      {
+        "value": 3,
+        "text": "El desarrollo de las actuaciones administrativas relacionadas con la gestión de las prestaciones sanitarias."
+      },
+      {
+        "value": 4,
+        "text": "La coordinación y tramitación de los asuntos que deban ser sometidos al Consejo de Administración del ente público Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El desarrollo de las actuaciones administrativas relacionadas con la gestión de las prestaciones sanitarias."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: la gestión de prestaciones sanitarias corresponde a otras direcciones (Dirección de Aseguramiento y Prestaciones). La Dirección de Régimen Jurídico se ocupa de asuntos jurídicos, normativos y de servicios generales."
+  },
+  {
+    "id": "tec-t03_22",
+    "questionNum": 22,
+    "question": "De acuerdo con el Decreto 319/2024, indíquese cuál de las siguientes funciones y áreas de actuación NO corresponde al Departamento de Salud del Gobierno Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Prevención de adicciones."
+      },
+      {
+        "value": 2,
+        "text": "Innovación e investigación sanitaria."
+      },
+      {
+        "value": 3,
+        "text": "Promoción de la actividad física."
+      },
+      {
+        "value": 4,
+        "text": "Salud Pública: vigilancia, protección y promoción de la salud."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Promoción de la actividad física."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t03",
+    "explanation": "Decreto 319/2024: la promoción de la actividad física es competencia del Departamento de Educación o del Departamento de Cultura y Política Lingüística, no del Departamento de Salud."
+  }
+]

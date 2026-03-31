@@ -23,17 +23,18 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "A los servicios sanitarios de financiación pública y a los privados, en los mismos términos."
+      "A los servicios sanitarios de financiación pública. También a los privados en lo que se refiere al control de las actividades de salud pública y en materia de garantías de información, seguridad y calidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 14 Ley 16/2003: La atención sociosanitaria comprende el conjunto de cuidados destinados a aquellos enfermos, generalmente crónicos, que por sus especiales características pueden beneficiarse de la actuación simultánea y sinergética de los servicios sanitarios y sociales. Respuesta A."
+    "explanation": "Art. 14 Ley 16/2003: La atención sociosanitaria comprende el conjunto de cuidados destinados a aquellos enfermos, generalmente crónicos, que por sus especiales características pueden beneficiarse de la actuación simultánea y sinergética de los servicios sanitarios y sociales. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 11
   },
   {
     "id": "tec-comun-t02_2",
@@ -69,7 +70,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C."
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
+    "officialId": 12
   },
   {
     "id": "tec-comun-t02_3",
@@ -95,17 +97,18 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Cartera común nacional básica de servicios asistenciales, cartera común suplementaria autonómica y cartera común de servicios accesorios autonómicos."
+      "Cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C."
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 13
   },
   {
     "id": "tec-comun-t02_4",
@@ -131,17 +134,18 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación + transporte urgente + ortoprotésica; cubiertos completamente por financiación pública."
+      "Actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación + transporte urgente + farmacéutica; cubiertos completamente por financiación pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C."
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 11
   },
   {
     "id": "tec-comun-t02_5",
@@ -167,17 +171,18 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "La prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos."
+      "Únicamente la prestación ortoprotésica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 8 ter Ley 16/2003: cartera suplementaria = farmacéutica + ortoprotésica + productos dietéticos; con aportación del usuario."
+    "explanation": "Art. 8 ter Ley 16/2003: cartera suplementaria = farmacéutica + ortoprotésica + productos dietéticos; con aportación del usuario.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 11
   },
   {
     "id": "tec-comun-t02_6",
@@ -203,17 +208,18 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "La atención a la salud bucodental."
+      "Ninguna de las respuestas anteriores es correcta."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta A."
+    "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 16
   },
   {
     "id": "tec-comun-t02_7",
@@ -239,17 +245,18 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Es preceptivo el informe favorable de las sociedades científicas implicadas."
+      "Se contará con la participación de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del SNS."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C."
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 11
   },
   {
     "id": "tec-comun-t02_8",
@@ -275,17 +282,18 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Se evidencie su falta de eficacia, efectividad o eficiencia, o que el balance beneficio-riesgo sea significativamente desfavorable."
+      "Requiera una formación para la que no exista la especialidad médica correspondiente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 9.2 Ley 16/2003: la exclusión procede por falta de eficacia, efectividad o eficiencia, o balance beneficio-riesgo desfavorable."
+    "explanation": "Art. 9.2 Ley 16/2003: la exclusión procede por falta de eficacia, efectividad o eficiencia, o balance beneficio-riesgo desfavorable.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 11
   },
   {
     "id": "tec-comun-t02_9",
@@ -321,7 +329,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 44 Ley 16/2003: competencia profesional = aptitud para integrar y aplicar conocimientos, habilidades y actitudes de buenas prácticas para resolver los problemas planteados."
+    "explanation": "Art. 44 Ley 16/2003: competencia profesional = aptitud para integrar y aplicar conocimientos, habilidades y actitudes de buenas prácticas para resolver los problemas planteados.",
+    "officialId": 19
   },
   {
     "id": "tec-comun-t02_10",
@@ -347,16 +356,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Las respuestas a) y b) son verdaderas y la c) es falsa."
+      "Establecer planes preventivos para hacer frente a situaciones de especial riesgo o alarma para la salud pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 65 Ley 16/2003: actuaciones coordinadas para responder a riesgo/alarma (a) o establecer planes preventivos (b). Los análisis epidemiológicos (c) no son supuesto de declaración coordinada."
+    "explanation": "Art. 65 Ley 16/2003: actuaciones coordinadas para responder a riesgo/alarma (a) o establecer planes preventivos (b). Los análisis epidemiológicos (c) no son supuesto de declaración coordinada.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 11
   }
 ]

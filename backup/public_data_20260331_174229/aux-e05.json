@@ -1,0 +1,557 @@
+[
+  {
+    "id": "aux-e05_1",
+    "questionNum": 1,
+    "question": "Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo."
+      },
+      {
+        "value": 2,
+        "text": "NO tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo."
+      },
+      {
+        "value": 3,
+        "text": "Tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter potestativo."
+      },
+      {
+        "value": 4,
+        "text": "NO tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter potestativo."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 5.1 Ley 40/2015: Tendrán la consideración de órganos administrativos las unidades a las que se atribuyan funciones que TENGAN EFECTOS JURÍDICOS FRENTE A TERCEROS o cuya actuación tenga carácter PRECEPTIVO. Respuesta A.",
+    "originalId": 68
+  },
+  {
+    "id": "aux-e05_2",
+    "questionNum": 2,
+    "question": "La Ley 40/2015, en relación a los órganos de las Administraciones Públicas, establece que la competencia es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Revocable."
+      },
+      {
+        "value": 2,
+        "text": "Irrenunciable."
+      },
+      {
+        "value": 3,
+        "text": "Eludible."
+      },
+      {
+        "value": 4,
+        "text": "Rehusable."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Irrenunciable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 8.1 Ley 40/2015: La competencia es IRRENUNCIABLE y se ejercerá por los órganos que la tengan atribuida. No es revocable (a) ni eludible (c) ni rehusable (d). Respuesta B.",
+    "originalId": 69
+  },
+  {
+    "id": "aux-e05_3",
+    "questionNum": 3,
+    "question": "Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A los órganos superiores competentes por razón de la materia y del territorio."
+      },
+      {
+        "value": 2,
+        "text": "A los órganos inferiores competentes por razón de la materia y del territorio."
+      },
+      {
+        "value": 3,
+        "text": "A los órganos centralizados competentes por razón de la materia y del territorio."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "A los órganos inferiores competentes por razón de la materia y del territorio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 8.2 Ley 40/2015: Si alguna disposición atribuye la competencia a una Administración sin especificar el órgano, la facultad de instruir y resolver corresponde A LOS ÓRGANOS INFERIORES competentes por razón de la materia y del territorio. Respuesta B.",
+    "originalId": 70
+  },
+  {
+    "id": "aux-e05_4",
+    "questionNum": 4,
+    "question": "Contra un acuerdo de avocación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cabrá rectificación de errores."
+      },
+      {
+        "value": 2,
+        "text": "NO cabrá rectificación de errores."
+      },
+      {
+        "value": 3,
+        "text": "Cabrá recurso."
+      },
+      {
+        "value": 4,
+        "text": "NO cabrá recurso."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "NO cabrá recurso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 10 Ley 40/2015: Contra los acuerdos de avocación NO CABRÁ RECURSO ALGUNO. La avocación es una actuación interna de la jerarquía administrativa no susceptible de impugnación directa. Respuesta D.",
+    "originalId": 71
+  },
+  {
+    "id": "aux-e05_5",
+    "questionNum": 5,
+    "question": "La encomienda de gestión supone:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El traspaso de la titularidad."
+      },
+      {
+        "value": 2,
+        "text": "Renunciar a la titularidad."
+      },
+      {
+        "value": 3,
+        "text": "Ceder la titularidad."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son incorrectas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 11.3 Ley 40/2015: La encomienda de gestión NO supone CESIÓN DE TITULARIDAD DE LA COMPETENCIA ni de los elementos sustantivos de su ejercicio. No supone traspaso (a), renuncia (b) ni cesión (c) de titularidad. Las tres opciones son incorrectas. Respuesta D.",
+    "originalId": 72
+  },
+  {
+    "id": "aux-e05_6",
+    "questionNum": 6,
+    "question": "En cuanto a la delegación de firma:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Altera la competencia del órgano delegante."
+      },
+      {
+        "value": 2,
+        "text": "Es necesaria la validez para su publicación."
+      },
+      {
+        "value": 3,
+        "text": "En las resoluciones y actos que se firmen por delegación se hará constar la delegación de firma."
+      },
+      {
+        "value": 4,
+        "text": "Los actos firmados por delegación NO requieren que se haga constar la autoridad de procedencia."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En las resoluciones y actos que se firmen por delegación se hará constar la delegación de firma."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 12.2 Ley 40/2015: En las resoluciones y actos que se firmen por delegación SE HARÁ CONSTAR la autoridad de procedencia y la circunstancia de la DELEGACIÓN DE FIRMA. La delegación de firma no altera la competencia (a es FALSO) ni requiere publicación para su validez (b). Respuesta C.",
+    "originalId": 73
+  },
+  {
+    "id": "aux-e05_7",
+    "questionNum": 7,
+    "question": "En las resoluciones y actos que se dicten mediante suplencia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se hará constar la circunstancia de la suplencia."
+      },
+      {
+        "value": 2,
+        "text": "Se especificará el titular del órgano cuya suplencia se adoptan."
+      },
+      {
+        "value": 3,
+        "text": "Se indicará quién está ejerciendo efectivamente esa suplencia."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 13.2 Ley 40/2015: En las resoluciones adoptadas mediante suplencia SE HARÁ CONSTAR LA CIRCUNSTANCIA DE LA SUPLENCIA (a), SE ESPECIFICARÁ EL TITULAR DEL ÓRGANO cuya suplencia se adopta (b) e SE INDICARÁ QUIÉN LA EJERCE EFECTIVAMENTE (c). Las tres son obligatorias. Respuesta D.",
+    "originalId": 74
+  },
+  {
+    "id": "aux-e05_8",
+    "questionNum": 8,
+    "question": "Los órganos colegiados tendrán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un Secretario que podrá ser un miembro del propio órgano o una persona al servicio de la Administración Pública correspondiente."
+      },
+      {
+        "value": 2,
+        "text": "Un Secretario que podrá ser un miembro del propio órgano y dos personas al servicio de la Administración Pública correspondiente."
+      },
+      {
+        "value": 3,
+        "text": "Un Secretario que podrá ser un miembro del propio órgano o tres personas al servicio de la Administración Pública correspondiente."
+      },
+      {
+        "value": 4,
+        "text": "Un Secretario que podrá ser un miembro del propio órgano y cuatro personas al servicio de la Administración Pública correspondiente."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Un Secretario que podrá ser un miembro del propio órgano o una persona al servicio de la Administración Pública correspondiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 15.2 Ley 40/2015: Los órganos colegiados tendrán UN SECRETARIO que PODRÁ SER UN MIEMBRO DEL PROPIO ÓRGANO O UNA PERSONA AL SERVICIO DE LA ADMINISTRACIÓN PÚBLICA correspondiente. No dos ni tres personas. Respuesta A.",
+    "originalId": 75
+  },
+  {
+    "id": "aux-e05_9",
+    "questionNum": 9,
+    "question": "En las sesiones que celebren los órganos colegiados a distancia, se consideran medios electrónicos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los medios telefónicos."
+      },
+      {
+        "value": 2,
+        "text": "Las audioconferencias."
+      },
+      {
+        "value": 3,
+        "text": "El correo electrónico."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 17.1 Ley 40/2015: En las sesiones a distancia, se consideran medios electrónicos los MEDIOS TELEFÓNICOS (a), las AUDIOCONFERENCIAS (b), el CORREO ELECTRÓNICO (c) y otros sistemas similares. Los tres son válidos. Respuesta D.",
+    "originalId": 76
+  },
+  {
+    "id": "aux-e05_10",
+    "questionNum": 10,
+    "question": "Respecto a las sesiones que celebre el órgano colegiado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En las actas NO hay que poner el orden del día."
+      },
+      {
+        "value": 2,
+        "text": "Podrán grabarse las sesiones."
+      },
+      {
+        "value": 3,
+        "text": "El acta de cada sesión NO se puede aprobar en la misma sesión o la inmediata."
+      },
+      {
+        "value": 4,
+        "text": "El Secretario remitirá por correo postal a los miembros del órgano colegiado el acta."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Podrán grabarse las sesiones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 18.2 Ley 40/2015: Las sesiones de los órganos colegiados PODRÁN GRABARSE. El contenido de la grabación, junto con la certificación expedida por el secretario, puede sustituir al acta. Respuesta B.",
+    "originalId": 77
+  },
+  {
+    "id": "aux-e05_11",
+    "questionNum": 11,
+    "question": "Corresponde al Presidente de los órganos colegiados de la Administración General del Estado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Velar por la legalidad formal y material de las actuaciones del órgano."
+      },
+      {
+        "value": 2,
+        "text": "Garantizar que la adopción de acuerdos es respetada."
+      },
+      {
+        "value": 3,
+        "text": "Ostentar la representación del órgano."
+      },
+      {
+        "value": 4,
+        "text": "Certificar las actuaciones del órgano."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ostentar la representación del órgano."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 19.2.a Ley 40/2015: Corresponde al Presidente de los órganos colegiados de la AGE OSTENTAR LA REPRESENTACIÓN DEL ÓRGANO. También vela por la legalidad pero la representación es la función más característica del presidente. Respuesta C.",
+    "originalId": 78
+  },
+  {
+    "id": "aux-e05_12",
+    "questionNum": 12,
+    "question": "Corresponde a los miembros de los órganos colegiados de la Administración General del Estado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Asegurar el cumplimiento de leyes."
+      },
+      {
+        "value": 2,
+        "text": "Participar en los debates de las sesiones."
+      },
+      {
+        "value": 3,
+        "text": "Moderar el desarrollo de los debates."
+      },
+      {
+        "value": 4,
+        "text": "Acordar la convocatoria de las sesiones."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Participar en los debates de las sesiones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 19.3 Ley 40/2015: Corresponde a los miembros de los órganos colegiados PARTICIPAR EN LOS DEBATES DE LAS SESIONES. La convocatoria (d) y la moderación (c) corresponden al Presidente. Respuesta B.",
+    "originalId": 79
+  },
+  {
+    "id": "aux-e05_13",
+    "questionNum": 13,
+    "question": "A la dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias, se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Certificado de BaKQ."
+      },
+      {
+        "value": 2,
+        "text": "Portal de Internet."
+      },
+      {
+        "value": 3,
+        "text": "Sede electrónica."
+      },
+      {
+        "value": 4,
+        "text": "Izenpe."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Sede electrónica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 38.1 Ley 40/2015: La dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, se denomina SEDE ELECTRÓNICA. No portal de Internet (b), que tiene otro concepto. Respuesta C.",
+    "originalId": 80
+  },
+  {
+    "id": "aux-e05_14",
+    "questionNum": 14,
+    "question": "Cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de:,responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad einteroperabilidad",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Transparencia y publicidad."
+      },
+      {
+        "value": 2,
+        "text": "Responsabilidad y calidad."
+      },
+      {
+        "value": 3,
+        "text": "Seguridad y accesibilidad."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Transparencia y publicidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 38.2 Ley 40/2015: Las sedes electrónicas se crean con sujeción a los principios de TRANSPARENCIA Y PUBLICIDAD (a), RESPONSABILIDAD Y CALIDAD (b), SEGURIDAD Y ACCESIBILIDAD (c), así como neutralidad e interoperabilidad. Las tres opciones mencionan principios contemplados. Respuesta A.",
+    "originalId": 81
+  },
+  {
+    "id": "aux-e05_15",
+    "questionNum": 15,
+    "question": "Las Administraciones Públicas podrán identificarse mediante el uso de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sellos electrónicos."
+      },
+      {
+        "value": 2,
+        "text": "Códigos de verificación."
+      },
+      {
+        "value": 3,
+        "text": "Claves de internet."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Sellos electrónicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e05",
+    "explanation": "Art. 40.2 Ley 40/2015: Las Administraciones Públicas podrán identificarse mediante el uso de SELLOS ELECTRÓNICOS basados en certificados de sello electrónico. Este es el mecanismo primario de identificación institucional previsto en la Ley. Respuesta A.",
+    "originalId": 82
+  }
+]

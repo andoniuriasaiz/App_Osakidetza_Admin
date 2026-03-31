@@ -1,0 +1,631 @@
+[
+  {
+    "id": "adm-prl-prevencion-riesgos_1",
+    "questionNum": 1,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la presente Ley tiene por objeto:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Promover la mejora de las condiciones de trabajo en salud laboral."
+      },
+      {
+        "value": 2,
+        "text": "Promover la mejora de las condiciones de trabajo para elevar el nivel de protección de la seguridad y la salud de los trabajadores."
+      },
+      {
+        "value": 3,
+        "text": "Establecer las obligaciones en materia de prevención de riesgos laborales."
+      },
+      {
+        "value": 4,
+        "text": "Regular los accidentes de trabajo y las enfermedades profesionales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Promover la mejora de las condiciones de trabajo para elevar el nivel de protección de la seguridad y la salud de los trabajadores."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 2.1 Ley 31/1995: 'La presente Ley tiene por objeto PROMOVER LA MEJORA DE LAS CONDICIONES DE TRABAJO dirigida a ELEVAR EL NIVEL DE PROTECCIÓN DE LA SEGURIDAD Y LA SALUD de los trabajadores en el trabajo.' La opción a) dice solo 'en salud laboral' (incompleta), la c) habla de 'establecer obligaciones' (no es el objeto), la d) de 'regular accidentes' (tampoco). Respuesta B.",
+    "originalId": 155
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_2",
+    "questionNum": 2,
+    "question": "Según la Ley de Prevención de Riesgos Laborales, el coste de las medidas relativas a la seguridad y la salud en el trabajo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Podrá recaer parcialmente sobre los trabajadores."
+      },
+      {
+        "value": 2,
+        "text": "Será compartido entre empresario y trabajadores."
+      },
+      {
+        "value": 3,
+        "text": "Podrá repercutirse mediante mejoras salariales."
+      },
+      {
+        "value": 4,
+        "text": "No deberá recaer en ningún caso sobre los trabajadores."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No deberá recaer en ningún caso sobre los trabajadores."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 14.5 Ley 31/1995: 'El coste de las medidas relativas a la seguridad y la salud en el trabajo NO DEBERÁ RECAER EN MODO ALGUNO SOBRE LOS TRABAJADORES.' Prohibición absoluta: ni parcialmente (a), ni compartido (b), ni repercutido en salarios (c). El coste es exclusivamente del empresario. Respuesta D.",
+    "originalId": 156
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_3",
+    "questionNum": 3,
+    "question": "Según la Ley 31/1995, los principios de la acción preventiva incluyen:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Adaptar el trabajo a la persona."
+      },
+      {
+        "value": 2,
+        "text": "Adaptar la persona al puesto de trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Eliminar únicamente los riesgos graves."
+      },
+      {
+        "value": 4,
+        "text": "Priorizar la protección individual frente a la colectiva."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Adaptar el trabajo a la persona."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 15.1.d Ley 31/1995 (principios de la acción preventiva): 'ADAPTAR EL TRABAJO A LA PERSONA, en particular en lo que respecta a la concepción de los puestos de trabajo, así como a la elección de los equipos y los métodos de trabajo y de producción.' También, Art. 15.1.h: 'Anteponer la protección COLECTIVA a la INDIVIDUAL' (lo contrario de la opción d). Respuesta A.",
+    "originalId": 157
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_4",
+    "questionNum": 4,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, son derechos de los trabajadores en materia de prevención:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Recibir una protección eficaz en materia de seguridad y salud en el trabajo."
+      },
+      {
+        "value": 2,
+        "text": "Recibir información sobre los riesgos para la seguridad y la salud en el trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Recibir formación en materia preventiva."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Recibir formación en materia preventiva."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 14.1 + Art. 18 + Art. 19 Ley 31/1995: Los trabajadores tienen derecho a: a) una PROTECCIÓN EFICAZ en seguridad y salud (Art. 14.1); b) INFORMACIÓN sobre los riesgos para su seguridad y salud (Art. 18); c) FORMACIÓN en materia preventiva (Art. 19). Los tres derechos están reconocidos expresamente. Respuesta C.",
+    "originalId": 158
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_5",
+    "questionNum": 5,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la evaluación de los riesgos laborales deberá realizarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente al inicio de la actividad laboral."
+      },
+      {
+        "value": 2,
+        "text": "Cuando cambien las condiciones de trabajo o se detecten daños para la salud."
+      },
+      {
+        "value": 3,
+        "text": "Solo cuando lo soliciten los representantes de los trabajadores."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente en caso de accidente de trabajo grave."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Cuando cambien las condiciones de trabajo o se detecten daños para la salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 16.2 Ley 31/1995: La evaluación inicial debe REVISARSE 'cuando se hayan detectado daños para la salud de los trabajadores' y cuando existan cambios en las condiciones de trabajo. No es un hecho puntual (inicio de actividad, a), ni requiere solicitud de representantes (c), ni solo en accidentes graves (d). Respuesta B.",
+    "originalId": 159
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_6",
+    "questionNum": 6,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, los trabajadores tendrán derecho a interrumpir su actividad y abandonar el lugar de trabajo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando consideren que existe un riesgo grave e inminente para su seguridad y salud."
+      },
+      {
+        "value": 2,
+        "text": "Cuando el empresario no haya facilitado formación preventiva."
+      },
+      {
+        "value": 3,
+        "text": "Cuando se produzca cualquier incidente en el centro de trabajo."
+      },
+      {
+        "value": 4,
+        "text": "Cuando no se haya realizado la evaluación de riesgos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cuando consideren que existe un riesgo grave e inminente para su seguridad y salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 21.2 Ley 31/1995: 'Los trabajadores... podrán interrumpir su actividad y, si fuera necesario, abandonar el lugar de trabajo de forma inmediata CUANDO CONSIDEREN QUE DICHA ACTIVIDAD ENTRAÑA UN RIESGO GRAVE E INMINENTE para su vida o su salud.' El criterio es la percepción subjetiva de riesgo grave e inminente. Respuesta A.",
+    "originalId": 160
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_7",
+    "questionNum": 7,
+    "question": "Según el artículo 2 de la Ley 31/1995, de Prevención de Riesgos Laborales, la presente Ley será de aplicación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente a las relaciones laborales reguladas por el Estatuto de los Trabajadores."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente al personal al servicio de la Administración Pública."
+      },
+      {
+        "value": 3,
+        "text": "A las relaciones laborales reguladas por el Estatuto de los Trabajadores y al personal al servicio de las Administraciones Públicas."
+      },
+      {
+        "value": 4,
+        "text": "Las respuestas a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "A las relaciones laborales reguladas por el Estatuto de los Trabajadores y al personal al servicio de las Administraciones Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 2.1 Ley 31/1995 (ámbito de aplicación): 'Esta Ley y sus normas de desarrollo serán de aplicación tanto en el ámbito de las relaciones laborales reguladas en el texto refundido del ESTATUTO DE LOS TRABAJADORES, como en el de las relaciones de carácter administrativo o estatutario del PERSONAL CIVIL AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS.' Doble ámbito: ET + AAPP. Respuesta C.",
+    "originalId": 161
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_8",
+    "questionNum": 8,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, este documento tiene como finalidad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sustituir al Manual de Riesgos Generales del ámbito sanitario."
+      },
+      {
+        "value": 2,
+        "text": "Informar sobre los riesgos generales de todos los trabajadores sanitarios."
+      },
+      {
+        "value": 3,
+        "text": "Informar a los trabajadores sobre los riesgos específicos de su puesto de trabajo."
+      },
+      {
+        "value": 4,
+        "text": "Informar sobre las obligaciones del personal del área de atención al cliente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Informar a los trabajadores sobre los riesgos específicos de su puesto de trabajo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Manual Informativo de PRL en Atención Primaria de Osakidetza: La finalidad del documento es INFORMAR A LOS TRABAJADORES SOBRE LOS RIESGOS ESPECÍFICOS DE SU PUESTO DE TRABAJO. No sustituye al manual de riesgos generales (a), ni se limita a todos los trabajadores sanitarios en general (b), ni se centra exclusivamente en el área de atención al cliente (d). Respuesta C.",
+    "originalId": 174
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_9",
+    "questionNum": 9,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, entre las medidas de prevención ante accidentes se recomienda:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Colocar los objetos de uso frecuente sobre superficies estables, priorizando su accesibilidad."
+      },
+      {
+        "value": 2,
+        "text": "Colocar los objetos de forma estable sobre armarios, baldas o vitrinas y retirar aquellos que no sean necesarios"
+      },
+      {
+        "value": 3,
+        "text": "Mantener y organizar en las zonas de paso únicamente los objetos necesarios para la actividad diaria."
+      },
+      {
+        "value": 4,
+        "text": "Mantener y organizar los materiales de trabajo atendiendo principalmente a criterios de rapidez y funcionalidad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Mantener y organizar los materiales de trabajo atendiendo principalmente a criterios de rapidez y funcionalidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta D.",
+    "originalId": 175
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_10",
+    "questionNum": 10,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, en relación con el uso de enchufes y regletas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se debe evitar la sobrecarga de enchufes y regletas, especialmente cuando se utilicen de forma continuada."
+      },
+      {
+        "value": 2,
+        "text": "No se recomienda la utilización de regletas salvo que dispongan de sistemas de protección adicionales."
+      },
+      {
+        "value": 3,
+        "text": "No se deben sobrecargar enchufes ni regletas ni utilizar cables en mal estado o pelados."
+      },
+      {
+        "value": 4,
+        "text": "El uso de enchufes múltiples se limitará únicamente a zonas con bajo consumo eléctrico."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No se deben sobrecargar enchufes ni regletas ni utilizar cables en mal estado o pelados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Manual Informativo de PRL Atención Primaria (riesgo eléctrico): Recomendación clara: 'NO SE DEBEN SOBRECARGAR enchufes ni regletas NI UTILIZAR CABLES EN MAL ESTADO O PELADOS.' La opción a) solo habla de sobrecarga en uso continuado (incompleta). La opción b) prohíbe regletas sin protección adicional (no es la recomendación exacta). Respuesta C.",
+    "originalId": 176
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_11",
+    "questionNum": 11,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, cuando se detecten anomalías o defectos en equipos, instalaciones o mobiliario, el trabajador deberá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Proceder a su corrección inmediata si no existe riesgo grave."
+      },
+      {
+        "value": 2,
+        "text": "Comunicarlo al Servicio de Prevención para su valoración."
+      },
+      {
+        "value": 3,
+        "text": "Informarlo al responsable mediante el correspondiente parte de avería."
+      },
+      {
+        "value": 4,
+        "text": "Señalizar la anomalía y continuar con la actividad habitual."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Informarlo al responsable mediante el correspondiente parte de avería."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Manual Informativo de PRL Atención Primaria (detección de anomalías): Cuando se detecten anomalías o defectos en equipos, instalaciones o mobiliario, el trabajador debe 'INFORMARLO AL RESPONSABLE MEDIANTE EL CORRESPONDIENTE PARTE DE AVERÍA.' No debe intentar corregirlo por su cuenta (a), ni solo al Servicio de Prevención (b), ni simplemente señalizar y continuar (d). Respuesta C.",
+    "originalId": 177
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_12",
+    "questionNum": 12,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, entre las recomendaciones generales dirigidas al personal del Área de Atención al Cliente se encuentra:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se recomienda disponer en el puesto de trabajo únicamente del material estrictamente necesario para la tarea habitual."
+      },
+      {
+        "value": 2,
+        "text": "Se recomienda mantener el puesto de trabajo ordenado, aunque puede acumularse material de uso ocasional."
+      },
+      {
+        "value": 3,
+        "text": "Se recomienda priorizar la accesibilidad a todos los elementos del puesto, aunque no se utilicen de forma habitual."
+      },
+      {
+        "value": 4,
+        "text": "Se recomienda mantener el puesto de trabajo organizado y limpio, disponiendo únicamente de lo estrictamente necesario."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se recomienda mantener el puesto de trabajo organizado y limpio, disponiendo únicamente de lo estrictamente necesario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Manual Informativo de PRL Atención Primaria (Área de Atención al Cliente): Recomendación: 'MANTENER EL PUESTO DE TRABAJO ORGANIZADO Y LIMPIO, disponiendo únicamente de lo ESTRICTAMENTE NECESARIO.' La opción a) menciona solo lo necesario (sin 'organizado y limpio'). La opción b) admite acumulación de material ocasional (incorrecto). Respuesta D.",
+    "originalId": 178
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_13",
+    "questionNum": 13,
+    "question": "Según la Ley 31/1995, la vigilancia de la salud de los trabajadores se realizará:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre con carácter obligatorio."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente a solicitud del trabajador."
+      },
+      {
+        "value": 3,
+        "text": "En función de los riesgos inherentes al trabajo."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente tras un accidente laboral."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Únicamente a solicitud del trabajador."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 22.1 Ley 31/1995: 'El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud EN FUNCIÓN DE LOS RIESGOS INHERENTES AL TRABAJO.' Con carácter VOLUNTARIO para el trabajador (salvo excepciones). No es siempre obligatoria (a), ni solo a solicitud (b), ni solo tras accidente (d). Respuesta B.",
+    "originalId": 190
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_14",
+    "questionNum": 14,
+    "question": "Según la Ley 31/1995, los delegados de prevención son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Técnicos del Servicio de Prevención."
+      },
+      {
+        "value": 2,
+        "text": "Miembros del Comité de Seguridad y Salud."
+      },
+      {
+        "value": 3,
+        "text": "Representantes de los trabajadores con funciones específicas en prevención."
+      },
+      {
+        "value": 4,
+        "text": "Representantes de los trabajadores designados por el empresario."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Representantes de los trabajadores con funciones específicas en prevención."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 35.1 Ley 31/1995: 'Los Delegados de Prevención son los REPRESENTANTES DE LOS TRABAJADORES CON FUNCIONES ESPECÍFICAS EN MATERIA DE PREVENCIÓN DE RIESGOS en el trabajo.' No son técnicos del Servicio de Prevención (a). Son miembros del Comité de Seguridad y Salud (b) pero eso no es su definición. Son elegidos por y entre los representantes de los trabajadores, no designados por el empresario (d). Respuesta C.",
+    "originalId": 191
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_15",
+    "questionNum": 15,
+    "question": "Según la Ley 31/1995, la planificación de la actividad preventiva deberá realizarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Antes del inicio de la actividad laboral."
+      },
+      {
+        "value": 2,
+        "text": "A partir de una evaluación inicial de riesgos."
+      },
+      {
+        "value": 3,
+        "text": "Solo cuando existan daños para la salud."
+      },
+      {
+        "value": 4,
+        "text": "Tras la imposición de sanciones administrativas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "A partir de una evaluación inicial de riesgos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 16.2.b Ley 31/1995: La planificación de la actividad preventiva deberá realizarse 'A PARTIR DE UNA EVALUACIÓN INICIAL DE RIESGOS' cuando los resultados de la misma pusieran de manifiesto situaciones de riesgo. La evaluación es el punto de partida necesario. Respuesta B.",
+    "originalId": 192
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_16",
+    "questionNum": 16,
+    "question": "Según la Ley 31/1995, el empresario deberá adoptar medidas para que los trabajadores reciban formación en materia preventiva:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente en el momento de la contratación."
+      },
+      {
+        "value": 2,
+        "text": "Solo cuando se produzca un accidente de trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Al inicio de la relación laboral y cuando se produzcan cambios en las funciones o tecnologías."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente a solicitud de los representantes de los trabajadores."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Al inicio de la relación laboral y cuando se produzcan cambios en las funciones o tecnologías."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Art. 19.1 Ley 31/1995: El empresario garantizará formación preventiva 'tanto EN EL MOMENTO DE SU CONTRATACIÓN, cualquiera que sea la modalidad o duración, como CUANDO SE PRODUZCAN CAMBIOS EN LAS FUNCIONES QUE DESEMPEÑE o se INTRODUZCAN NUEVAS TECNOLOGÍAS o cambios en los equipos de trabajo.' No se limita a la contratación (a) ni solo a accidentes (b). Respuesta C.",
+    "originalId": 195
+  },
+  {
+    "id": "adm-prl-prevencion-riesgos_17",
+    "questionNum": 17,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, en relación con las posturas forzadas en el Área de Atención al Cliente, se recomienda:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mantener la misma postura durante la atención para evitar movimientos repetitivos."
+      },
+      {
+        "value": 2,
+        "text": "Priorizar la rapidez en la atención frente a la corrección postural."
+      },
+      {
+        "value": 3,
+        "text": "Adaptar el puesto de trabajo a las características físicas del trabajador, regulando silla y pantalla."
+      },
+      {
+        "value": 4,
+        "text": "Adaptar el puesto de trabajo ajustando únicamente la altura de la pantalla para evitar molestias."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Adaptar el puesto de trabajo a las características físicas del trabajador, regulando silla y pantalla."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-prevencion-riesgos",
+    "explanation": "Manual Informativo de PRL Atención Primaria (posturas forzadas): Se recomienda 'ADAPTAR EL PUESTO DE TRABAJO A LAS CARACTERÍSTICAS FÍSICAS DEL TRABAJADOR, REGULANDO SILLA Y PANTALLA.' La adaptación ergonómica es integral (silla + pantalla), no solo la altura de la pantalla (d). Nunca se debe mantener la misma postura estática (a) ni sacrificar la postura por la rapidez (b). Respuesta C.",
+    "originalId": 199
+  }
+]

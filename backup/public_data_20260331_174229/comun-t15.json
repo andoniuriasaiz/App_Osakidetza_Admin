@@ -1,0 +1,372 @@
+[
+  {
+    "id": "comun-t15_1",
+    "questionNum": 1,
+    "question": "Según el diagnóstico del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza, ¿qué porcentaje de mujeres y hombres, respectivamente, componía la plantilla total de Osakidetza en enero de 2025?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "60% mujeres y 40% hombres"
+      },
+      {
+        "value": 2,
+        "text": "75% mujeres y 25% hombres"
+      },
+      {
+        "value": 3,
+        "text": "80% mujeres y 20% hombres"
+      },
+      {
+        "value": 4,
+        "text": "90% mujeres y 10% hombres"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "75% mujeres y 25% hombres"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: Según el diagnóstico, en enero de 2025 la plantilla de Osakidetza estaba compuesta por un 75% de mujeres y un 25% de hombres. Respuesta B.",
+    "originalId": 246
+  },
+  {
+    "id": "comun-t15_2",
+    "questionNum": 2,
+    "question": "Una de las metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza es la “CAPACITACIÓN EN IGUALDAD”. ¿Cuál es su objetivo principal?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reducir la brecha de género en investigación en un 4%."
+      },
+      {
+        "value": 2,
+        "text": "Conseguir que todas las personas trabajadoras de Osakidetza conozcan el Plan y el Protocolo de Acoso."
+      },
+      {
+        "value": 3,
+        "text": "Reducir a la mitad las categorías con brecha retributiva superior al 5%."
+      },
+      {
+        "value": 4,
+        "text": "Garantizar la formación básica, progresiva, permanente y obligatoria de todo el personal de Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Garantizar la formación básica, progresiva, permanente y obligatoria de todo el personal de Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La meta de CAPACITACIÓN tiene como objetivo garantizar que el 100% del personal directivo reciba formación en igualdad durante la vigencia del plan. La D recoge correctamente el contenido de esta meta. Respuesta D.",
+    "originalId": 247
+  },
+  {
+    "id": "comun-t15_3",
+    "questionNum": 3,
+    "question": "¿Qué institución aprueba el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mesa Sectorial de Sanidad."
+      },
+      {
+        "value": 2,
+        "text": "Emakunde."
+      },
+      {
+        "value": 3,
+        "text": "Consejo de Administración de Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "Dirección General de Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Consejo de Administración de Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta C.",
+    "originalId": 248
+  },
+  {
+    "id": "comun-t15_4",
+    "questionNum": 4,
+    "question": "De acuerdo con el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028), ¿qué concepto define, dentro del diagnóstico de la organización, la dificultad invisible que encuentran las mujeres para acceder a puestos de mayor responsabilidad y toma de decisiones?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Segregación horizontal."
+      },
+      {
+        "value": 2,
+        "text": "Suelo pegajoso."
+      },
+      {
+        "value": 3,
+        "text": "Brecha salarial técnica"
+      },
+      {
+        "value": 4,
+        "text": "Techo de cristal."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Techo de cristal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: El Plan contempla medidas para reducir la brecha de género en los puestos de responsabilidad y dirección, donde los hombres están sobrerrepresentados pese a ser minoría en la plantilla. Respuesta A.",
+    "originalId": 249
+  },
+  {
+    "id": "comun-t15_5",
+    "questionNum": 5,
+    "question": "Una de las Metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) es “CORRESPONSABILIDAD”. ¿Cuál es el objetivo específico asociado a esta meta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reducir el porcentaje de hombres en puestos de dirección."
+      },
+      {
+        "value": 2,
+        "text": "Reducir a la mitad la brecha de género en investigación."
+      },
+      {
+        "value": 3,
+        "text": "Reducir, al menos, en un 2% la brecha de género existente en las medidas de conciliación para cuidados."
+      },
+      {
+        "value": 4,
+        "text": "Aumentar el número de investigaciones con perspectiva de género interseccional en un 4%."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Reducir, al menos, en un 2% la brecha de género existente en las medidas de conciliación para cuidados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: El Plan incluye un protocolo de actuación ante el acoso sexual y el acoso por razón de sexo, contemplando medidas de prevención, detección y respuesta. Respuesta D.",
+    "originalId": 250
+  },
+  {
+    "id": "comun-t15_6",
+    "questionNum": 6,
+    "question": "¿Cuál fue el objetivo del I Plan de Igualdad, teniendo en cuenta su condición de primer plan estratégico de Osakidetza en esta materia?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Consolidar los avances logrados y profundizar el proceso transformador."
+      },
+      {
+        "value": 2,
+        "text": "Establecer unos cimientos sólidos para garantizar el cumplimiento de la legislación y la alineación a los marcos estratégicos."
+      },
+      {
+        "value": 3,
+        "text": "Reducir la brecha salarial a la mitad en todas las categorías profesionales."
+      },
+      {
+        "value": 4,
+        "text": "Lograr la aprobación por parte del Consejo de Dirección de Osakidetza en julio de 2025."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Establecer unos cimientos sólidos para garantizar el cumplimiento de la legislación y la alineación a los marcos estratégicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La conciliación de la vida laboral, familiar y personal es uno de los ejes del Plan, contemplando medidas para facilitar la corresponsabilidad. Respuesta B.",
+    "originalId": 251
+  },
+  {
+    "id": "comun-t15_7",
+    "questionNum": 7,
+    "question": "¿Cuál es la Meta 5 establecida en el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reducir la brecha de género existente en las medidas de conciliación para cuidados."
+      },
+      {
+        "value": 2,
+        "text": "Capacitación en Igualdad, garantizando la formación progresiva del personal."
+      },
+      {
+        "value": 3,
+        "text": "Igualdad Salarial, con el objetivo de reducir a la mitad las categorías que tienen una brecha retributiva > 5%."
+      },
+      {
+        "value": 4,
+        "text": "Investigación, aumentando el número de investigaciones con perspectiva de género."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Investigación, aumentando el número de investigaciones con perspectiva de género."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
+    "originalId": 252
+  },
+  {
+    "id": "comun-t15_8",
+    "questionNum": 8,
+    "question": "¿Cuál es el carácter y el propósito fundamental del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es un documento informativo sobre la normativa europea en materia de igualdad sin aplicación directa en la asistencia sanitaria."
+      },
+      {
+        "value": 2,
+        "text": "Se define como una guía de recomendaciones de adhesión voluntaria para las diferentes Organizaciones de Servicios."
+      },
+      {
+        "value": 3,
+        "text": "Se trata de un reglamento técnico dirigido exclusivamente al personal con funciones de gestión y dirección."
+      },
+      {
+        "value": 4,
+        "text": "Es un instrumento estratégico de planificación que busca integrar de forma transversal la perspectiva de género en la cultura y gestión de la organización."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Es un instrumento estratégico de planificación que busca integrar de forma transversal la perspectiva de género en la cultura y gestión de la organización."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
+    "originalId": 253
+  },
+  {
+    "id": "comun-t15_9",
+    "questionNum": 9,
+    "question": "El enfoque de \"interseccionalidad\" mencionado en los fundamentos del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) implica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Analizar cómo el género interactúa con otros factores (edad, origen, discapacidad, orientación sexual, etc.) para identificar formas específicas de discriminación."
+      },
+      {
+        "value": 2,
+        "text": "Tratar todas las desigualdades de forma aislada para evitar confusiones estadísticas."
+      },
+      {
+        "value": 3,
+        "text": "Fomentar el intercambio de personal entre diferentes centros hospitalarios para equilibrar la plantilla."
+      },
+      {
+        "value": 4,
+        "text": "Priorizar la atención sanitaria en las intersecciones de las grandes áreas metropolitanas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Analizar cómo el género interactúa con otros factores (edad, origen, discapacidad, orientación sexual, etc.) para identificar formas específicas de discriminación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: El seguimiento del Plan se realizará a través de una Comisión de Seguimiento, con informes periódicos y evaluación final. Respuesta D.",
+    "originalId": 254
+  },
+  {
+    "id": "comun-t15_10",
+    "questionNum": 10,
+    "question": "En relación con la violencia machista contra las mujeres, el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) establece como línea de actuación prioritaria:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El refuerzo de la prevención, la detección precoz y la mejora de la respuesta asistencial integrada desde el sistema de salud."
+      },
+      {
+        "value": 2,
+        "text": "La derivación inmediata de cualquier caso detectado a servicios jurídicos externos, sin intervención del personal sanitario."
+      },
+      {
+        "value": 3,
+        "text": "La creación de un registro anónimo donde las personas profesionales puedan denunciar conductas sin seguimiento posterior."
+      },
+      {
+        "value": 4,
+        "text": "La limitación de la atención asistencial únicamente a las consecuencias físicas derivadas de la violencia."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El refuerzo de la prevención, la detección precoz y la mejora de la respuesta asistencial integrada desde el sistema de salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t15",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La segregación ocupacional (concentración de mujeres en determinadas categorías y hombres en otras) es una de las desigualdades de género identificadas en el diagnóstico del Plan. Respuesta B.",
+    "originalId": 255
+  }
+]

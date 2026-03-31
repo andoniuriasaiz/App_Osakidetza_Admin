@@ -1,0 +1,1910 @@
+[
+  {
+    "id": "tec-t06_1",
+    "questionNum": 1,
+    "question": "De conformidad con la Ley 11/2022, de Empleo Público Vasco, ¿qué principio del empleo público vasco garantiza la permanencia en el puesto del personal funcionario de carrera?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Igualdad de oportunidades"
+      },
+      {
+        "value": 2,
+        "text": "Inamovilidad del personal funcionario de carrera"
+      },
+      {
+        "value": 3,
+        "text": "Acceso universal al empleo"
+      },
+      {
+        "value": 4,
+        "text": "Promoción horizontal automática"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Inamovilidad del personal funcionario de carrera"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 11/2022: uno de los principios del empleo público vasco es la inamovilidad del personal funcionario de carrera, que garantiza su permanencia en el puesto frente a ceses arbitrarios."
+  },
+  {
+    "id": "tec-t06_2",
+    "questionNum": 2,
+    "question": "De conformidad con la Ley 11/2022, de Empleo Público Vasco, ¿cuál es una atribución del Gobierno Vasco?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Nombrar al personal de confianza de todos los ayuntamientos"
+      },
+      {
+        "value": 2,
+        "text": "Regular los procesos selectivos de la Administración General del Estado"
+      },
+      {
+        "value": 3,
+        "text": "Establecer criterios para procedimientos selectivos comunes"
+      },
+      {
+        "value": 4,
+        "text": "Establecer la política salarial de empresas privadas vascas"
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Establecer criterios para procedimientos selectivos comunes"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 11/2022: el Gobierno Vasco tiene atribuida, entre otras funciones, la de establecer criterios y directrices comunes para los procedimientos selectivos del empleo público vasco."
+  },
+  {
+    "id": "tec-t06_3",
+    "questionNum": 3,
+    "question": "De conformidad con la Ley 11/2022, de Empleo Público Vasco, ¿qué facultad se puede delegar al departamento competente mediante decreto del Gobierno Vasco?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Establecer las bases de todas las oposiciones."
+      },
+      {
+        "value": 2,
+        "text": "Dictar sentencias en casos disciplinarios."
+      },
+      {
+        "value": 3,
+        "text": "Determinar directrices del análisis de puestos de trabajo."
+      },
+      {
+        "value": 4,
+        "text": "Aprobar la ley de presupuestos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Determinar directrices del análisis de puestos de trabajo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 11/2022: mediante decreto el Gobierno Vasco puede delegar en el departamento competente la facultad de determinar las directrices para el análisis y descripción de los puestos de trabajo."
+  },
+  {
+    "id": "tec-t06_4",
+    "questionNum": 4,
+    "question": "De conformidad con la Ley 11/2022, de Empleo Público Vasco, ¿cuál es un objetivo específico del Consejo Vasco del Empleo Público?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Imponer sanciones disciplinarias."
+      },
+      {
+        "value": 2,
+        "text": "Determinar la edad de jubilación."
+      },
+      {
+        "value": 3,
+        "text": "Proponer medidas para la euskaldunización del personal."
+      },
+      {
+        "value": 4,
+        "text": "Designar al personal interino."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Proponer medidas para la euskaldunización del personal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 11/2022: el Consejo Vasco del Empleo Público tiene entre sus funciones proponer medidas para impulsar el conocimiento y uso del euskera en el empleo público vasco (euskaldunización)."
+  },
+  {
+    "id": "tec-t06_5",
+    "questionNum": 5,
+    "question": "¿Cuál de los siguientes NO es un principio general del empleo público vasco, según la Ley 11/2022?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Eficiencia en la gestión."
+      },
+      {
+        "value": 2,
+        "text": "Colaboración con las entidades privadas de contratación."
+      },
+      {
+        "value": 3,
+        "text": "Compromiso con la normalización lingüística."
+      },
+      {
+        "value": 4,
+        "text": "Transparencia en la gestión."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Colaboración con las entidades privadas de contratación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 11/2022: la colaboración con entidades privadas de contratación no es un principio del empleo público vasco. Sí lo son la eficiencia, la transparencia y el compromiso con la normalización lingüística."
+  },
+  {
+    "id": "tec-t06_6",
+    "questionNum": 6,
+    "question": "De conformidad con la Ley 11/2022, en relación con el personal directivo público profesional, su designación deberá ajustarse, entre otros, a los principios de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Libre designación y discrecionalidad técnica."
+      },
+      {
+        "value": 2,
+        "text": "Mérito, capacidad, idoneidad, publicidad y concurrencia."
+      },
+      {
+        "value": 3,
+        "text": "Antigüedad y libre elección política."
+      },
+      {
+        "value": 4,
+        "text": "Evaluación del desempeño."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Mérito, capacidad, idoneidad, publicidad y concurrencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 11/2022: la designación del personal directivo público profesional se sujeta a los principios de mérito, capacidad, idoneidad, publicidad y concurrencia, garantizando la objetividad del proceso."
+  },
+  {
+    "id": "tec-t06_7",
+    "questionNum": 7,
+    "question": "De conformidad con la Ley 11/2022, las áreas funcionales como instrumento de ordenación del empleo público:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Son obligatorias en todas las administraciones públicas vascas."
+      },
+      {
+        "value": 2,
+        "text": "Sustituyen a la relación de puestos de trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Permiten agrupar puestos atendiendo a funciones homogéneas."
+      },
+      {
+        "value": 4,
+        "text": "Solo pueden crearse mediante ley del Parlamento Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Permiten agrupar puestos atendiendo a funciones homogéneas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 11/2022: las áreas funcionales son instrumentos que permiten agrupar distintos puestos de trabajo con funciones homogéneas, facilitando la movilidad y la gestión del empleo público."
+  },
+  {
+    "id": "tec-t06_8",
+    "questionNum": 8,
+    "question": "De conformidad con la Ley 11/2022, la creación de las especialidades exige necesariamente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Decreto del Gobierno Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Ley formal."
+      },
+      {
+        "value": 3,
+        "text": "Acuerdo sindical vinculante."
+      },
+      {
+        "value": 4,
+        "text": "Determinación de denominación, conocimientos exigidos y procedimiento de acreditación."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Determinación de denominación, conocimientos exigidos y procedimiento de acreditación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 11/2022: la creación de especialidades requiere que se determine la denominación de la especialidad, los conocimientos exigidos para su desempeño y el procedimiento de acreditación de dichos conocimientos."
+  },
+  {
+    "id": "tec-t06_9",
+    "questionNum": 9,
+    "question": "En relación al estatuto marco del personal estatutario, diga cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es de aplicación al personal estatutario que desempeña sus funciones en centros e instituciones sanitarias de la Administración General del Estado."
+      },
+      {
+        "value": 2,
+        "text": "Es de aplicación al personal estatutario que desempeña sus funciones en los centros e instituciones sanitarias de los servicios de salud de las Comunidades Autónomas."
+      },
+      {
+        "value": 3,
+        "text": "No es de aplicación al personal militar que presta sus servicios en los centros y servicios sanitarios integrados en la Red sanitaria Militar."
+      },
+      {
+        "value": 4,
+        "text": "No es de aplicación al personal estatutario del Instituto Social de la Marina."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No es de aplicación al personal estatutario del Instituto Social de la Marina."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 2 Ley 55/2003: el ámbito de aplicación excluye expresamente al personal militar de la Red Sanitaria Militar, pero el personal del Instituto Social de la Marina sí queda incluido en su ámbito. La opción D es falsa."
+  },
+  {
+    "id": "tec-t06_10",
+    "questionNum": 10,
+    "question": "Diga cuál de los siguientes NO forma parte de los principios y criterios de ordenación del régimen estatutario:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La libre circulación del personal estatutario en el conjunto del Sistema Nacional de Salud."
+      },
+      {
+        "value": 2,
+        "text": "La dedicación prioritaria al servicio público."
+      },
+      {
+        "value": 3,
+        "text": "El acuerdo con las organizaciones sindicales en la determinación de las condiciones de trabajo."
+      },
+      {
+        "value": 4,
+        "text": "La igualdad, mérito, capacidad y publicidad en el acceso a la condición de personal estatutario."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La dedicación prioritaria al servicio público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 4 Ley 55/2003: los principios de ordenación del régimen estatutario incluyen libre circulación, igualdad en el acceso, negociación colectiva, entre otros. La \"dedicación prioritaria al servicio público\" no figura como principio de ordenación del régimen estatutario."
+  },
+  {
+    "id": "tec-t06_11",
+    "questionNum": 11,
+    "question": "En relación con los derechos del personal estatutario, diga cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tiene derecho al desarrollo profesional en la forma en que prevean las disposiciones que le resulten de aplicación."
+      },
+      {
+        "value": 2,
+        "text": "Tiene derecho a utilizar los medios, instrumentos e instalaciones de los servicios de salud en beneficio del paciente."
+      },
+      {
+        "value": 3,
+        "text": "Tiene derecho a la actividad sindical."
+      },
+      {
+        "value": 4,
+        "text": "Tiene derecho a ser informado de las funciones, tareas, cometidos, programación funcional y objetivos asignados a su unidad."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Tiene derecho a utilizar los medios, instrumentos e instalaciones de los servicios de salud en beneficio del paciente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 17 Ley 55/2003: el personal estatutario tiene derecho a utilizar los medios, instrumentos e instalaciones de los servicios de salud para el ejercicio de sus funciones, no exclusivamente \"en beneficio del paciente\". La formulación de la opción B es incompleta y por tanto falsa."
+  },
+  {
+    "id": "tec-t06_12",
+    "questionNum": 12,
+    "question": "Conforme a la Ley 55/2003, del Estatuto Marco del personal estatutario de los servicios de salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Comisión de Recursos Humanos del Sistema Nacional de Salud conocerá, debatirá y, en su caso, emitirá recomendaciones sobre los criterios para la coordinación de la política de recursos humanos del citado Sistema."
+      },
+      {
+        "value": 2,
+        "text": "El Consejo Interterritorial del Sistema Nacional de Salud desarrollará las actividades de planificación, diseño de programas de formación y modernización de los recursos humanos del citado Sistema."
+      },
+      {
+        "value": 3,
+        "text": "El Foro Marco para el Diálogo Social tiene entre sus objetivos el de promover el desarrollo armónico de los recursos humanos del Sistema Nacional de Salud."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las respuestas anteriores es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La Comisión de Recursos Humanos del Sistema Nacional de Salud conocerá, debatirá y, en su caso, emitirá recomendaciones sobre los criterios para la coordinación de la política de recursos humanos del citado Sistema."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 5 Ley 55/2003: la Comisión de Recursos Humanos del SNS es el órgano permanente de consulta y negociación sobre política de recursos humanos y conocerá, debatirá y emitirá recomendaciones sobre criterios de coordinación."
+  },
+  {
+    "id": "tec-t06_13",
+    "questionNum": 13,
+    "question": "Conforme a la Ley 55/2003, los planes de ordenación de los recursos humanos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Son el instrumento básico de planificación global, cuyo ámbito se extiende necesariamente al del respectivo servicio de salud."
+      },
+      {
+        "value": 2,
+        "text": "Deben especificar los objetivos a conseguir en materia de personal y los efectivos y la estructura de recursos humanos que se consideren adecuados para cumplir tales objetivos."
+      },
+      {
+        "value": 3,
+        "text": "Deben ser publicados en el Boletín Oficial del Estado."
+      },
+      {
+        "value": 4,
+        "text": "Serán previamente objeto de negociación en el Foro Marco para el Diálogo Social."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Deben especificar los objetivos a conseguir en materia de personal y los efectivos y la estructura de recursos humanos que se consideren adecuados para cumplir tales objetivos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 13 Ley 55/2003: los planes de ordenación de recursos humanos deben especificar los objetivos en materia de personal, los efectivos necesarios y la estructura de recursos humanos adecuada para alcanzarlos."
+  },
+  {
+    "id": "tec-t06_14",
+    "questionNum": 14,
+    "question": "Conforme a la Ley 55/2003, el catálogo homogéneo de equivalencias de categorías profesionales de los distintos servicios de salud, ¿cuya aprobación corresponde a quién?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A la Comisión de Recursos Humanos del Sistema Nacional de Salud."
+      },
+      {
+        "value": 2,
+        "text": "Al Consejo Interterritorial del Sistema Nacional de Salud."
+      },
+      {
+        "value": 3,
+        "text": "Al Foro Marco para el Diálogo Social."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "A la Comisión de Recursos Humanos del Sistema Nacional de Salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 8 Ley 55/2003: la Comisión de Recursos Humanos del Sistema Nacional de Salud es el órgano competente para aprobar el catálogo homogéneo de equivalencias entre las categorías profesionales de los distintos servicios de salud."
+  },
+  {
+    "id": "tec-t06_15",
+    "questionNum": 15,
+    "question": "En defecto de regulación específica en la Ley 55/2003 y en sus normas de desarrollo, serán aplicables al personal estatutario:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exclusivamente las normas autonómicas."
+      },
+      {
+        "value": 2,
+        "text": "El Estatuto Básico del Empleado Público."
+      },
+      {
+        "value": 3,
+        "text": "Las disposiciones y principios generales sobre función pública de la Administración correspondiente."
+      },
+      {
+        "value": 4,
+        "text": "La Ley General de Sanidad."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las disposiciones y principios generales sobre función pública de la Administración correspondiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 2.3 Ley 55/2003: en lo no previsto en el Estatuto Marco y sus normas de desarrollo, serán aplicables al personal estatutario las disposiciones y principios generales sobre función pública de la Administración de que dependan."
+  },
+  {
+    "id": "tec-t06_16",
+    "questionNum": 16,
+    "question": "De conformidad con la Ley 55/2003, la ordenación del régimen del personal estatutario se rige, entre otros, por el principio de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Jerarquía administrativa estricta."
+      },
+      {
+        "value": 2,
+        "text": "Libre circulación del personal estatutario en el conjunto del Sistema Nacional de Salud."
+      },
+      {
+        "value": 3,
+        "text": "Exclusividad territorial autonómica."
+      },
+      {
+        "value": 4,
+        "text": "Adscripción definitiva al centro de origen."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Libre circulación del personal estatutario en el conjunto del Sistema Nacional de Salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 4 Ley 55/2003: uno de los principios de ordenación del régimen estatutario es la libre circulación del personal estatutario en el conjunto del Sistema Nacional de Salud, favoreciendo la movilidad interterritorial."
+  },
+  {
+    "id": "tec-t06_17",
+    "questionNum": 17,
+    "question": "De conformidad con la Ley 55/2003, el personal estatutario se clasifica atendiendo a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Antigüedad y experiencia."
+      },
+      {
+        "value": 2,
+        "text": "Función desarrollada, nivel de titulación y tipo de nombramiento."
+      },
+      {
+        "value": 3,
+        "text": "Régimen retributivo."
+      },
+      {
+        "value": 4,
+        "text": "Tipo de centro sanitario."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Función desarrollada, nivel de titulación y tipo de nombramiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 6 Ley 55/2003: el personal estatutario se clasifica en función del tipo de nombramiento (fijo, interino, eventual o sustituto), la función desarrollada (sanitaria o de gestión y servicios) y el nivel de titulación exigido."
+  },
+  {
+    "id": "tec-t06_18",
+    "questionNum": 18,
+    "question": "En relación con las convocatorias de selección de personal estatutario, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se anunciarán en el Boletín Oficial del Estado y en el boletín o diario oficial de la correspondiente administración pública."
+      },
+      {
+        "value": 2,
+        "text": "Las convocatorias y sus bases únicamente pueden ser modificadas por sentencia firme."
+      },
+      {
+        "value": 3,
+        "text": "Las convocatorias y sus bases vinculan a la Administración convocante, a los tribunales encargados de juzgar las pruebas y a quienes participen en las mismas."
+      },
+      {
+        "value": 4,
+        "text": "Las tres anteriores afirmaciones son ciertas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las convocatorias y sus bases vinculan a la Administración convocante, a los tribunales encargados de juzgar las pruebas y a quienes participen en las mismas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 30 Ley 55/2003: las convocatorias y sus bases son vinculantes para la Administración convocante, para los órganos de selección y para quienes participen en el proceso selectivo, siendo el principio de vinculación a las bases un principio esencial de los procesos selectivos."
+  },
+  {
+    "id": "tec-t06_19",
+    "questionNum": 19,
+    "question": "Conforme a la Ley 55/2003, la renuncia a la condición de personal estatutario deberá ser solicitada por la persona interesada con una antelación mínima de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cinco días."
+      },
+      {
+        "value": 2,
+        "text": "Diez días."
+      },
+      {
+        "value": 3,
+        "text": "Quince días."
+      },
+      {
+        "value": 4,
+        "text": "Veinte días."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Quince días."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 57 Ley 55/2003: la renuncia a la condición de personal estatutario deberá solicitarse con una antelación mínima de quince días a la fecha en que se desee hacerla efectiva."
+  },
+  {
+    "id": "tec-t06_20",
+    "questionNum": 20,
+    "question": "Conforme a la Ley 55/2003, cuando de un procedimiento de movilidad se derive cambio en el servicio de salud de destino, el plazo de toma de posesión será de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Treinta días, a contar desde el día del cese en el destino anterior, que deberá tener lugar en los tres días siguientes a la notificación o publicación del nuevo destino adjudicado."
+      },
+      {
+        "value": 2,
+        "text": "Treinta días, a contar desde el día del cese en el destino anterior, que deberá tener lugar en los diez días siguientes a la notificación o publicación del nuevo destino adjudicado."
+      },
+      {
+        "value": 3,
+        "text": "Un mes, a contar desde el día del cese en el destino anterior, que deberá tener lugar en los tres días siguientes a la notificación o publicación del nuevo destino adjudicado."
+      },
+      {
+        "value": 4,
+        "text": "Un mes, a contar desde el día del cese en el destino anterior, que deberá tener lugar en los diez días siguientes a la notificación o publicación del nuevo destino adjudicado."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Treinta días, a contar desde el día del cese en el destino anterior, que deberá tener lugar en los tres días siguientes a la notificación o publicación del nuevo destino adjudicado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 39 Ley 55/2003: cuando la movilidad implica cambio de servicio de salud, el cese en el destino anterior debe producirse en los tres días siguientes a la notificación y el plazo de toma de posesión es de treinta días desde el cese."
+  },
+  {
+    "id": "tec-t06_21",
+    "questionNum": 21,
+    "question": "Conforme a la Ley 55/2003, el personal estatutario destinado en comisión de servicios a una plaza vacante, percibirá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las retribuciones correspondientes a la plaza o puesto efectivamente desempeñado."
+      },
+      {
+        "value": 2,
+        "text": "Las retribuciones correspondientes a su plaza o puesto de origen."
+      },
+      {
+        "value": 3,
+        "text": "Las retribuciones correspondientes a la plaza o puesto efectivamente desempeñado, salvo que sean inferiores a las que correspondan por la plaza de origen, en cuyo caso se percibirán éstas."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores opciones es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las retribuciones correspondientes a la plaza o puesto efectivamente desempeñado, salvo que sean inferiores a las que correspondan por la plaza de origen, en cuyo caso se percibirán éstas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 40 Ley 55/2003: en comisión de servicios el personal percibirá las retribuciones de la plaza desempeñada, salvo que sean inferiores a las de su plaza de origen, en cuyo caso mantendrá las retribuciones de origen."
+  },
+  {
+    "id": "tec-t06_22",
+    "questionNum": 22,
+    "question": "Conforme a la Ley 55/2003, el incumplimiento del plazo máximo de permanencia como personal estatutario temporal dará lugar a una compensación económica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Equivalente a veinte días de sus retribuciones fijas por año de servicio, hasta un máximo de doce mensualidades."
+      },
+      {
+        "value": 2,
+        "text": "Equivalente a cuarenta días de sus retribuciones fijas por año de servicio, hasta un máximo de doce mensualidades."
+      },
+      {
+        "value": 3,
+        "text": "Equivalente a veinte días de sus retribuciones fijas por año de servicio, hasta un máximo de catorce mensualidades."
+      },
+      {
+        "value": 4,
+        "text": "Equivalente a cuarenta días de sus retribuciones fijas por año de servicio, hasta un máximo de catorce mensualidades."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Equivalente a veinte días de sus retribuciones fijas por año de servicio, hasta un máximo de doce mensualidades."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Ley 55/2003 y normativa de aplicación: la compensación por incumplimiento del plazo máximo de temporalidad es de veinte días de retribuciones fijas por año de servicio, prorrateándose los meses, con un máximo de doce mensualidades."
+  },
+  {
+    "id": "tec-t06_23",
+    "questionNum": 23,
+    "question": "Conforme a la Ley 55/2003, supondrá la pérdida de la condición de personal estatutario:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La pena de suspensión de funciones, siempre que ésta exceda de dos años."
+      },
+      {
+        "value": 2,
+        "text": "La pena de suspensión de funciones, siempre que ésta exceda de tres años."
+      },
+      {
+        "value": 3,
+        "text": "La pena de inhabilitación especial para la correspondiente profesión, siempre que ésta exceda de tres años."
+      },
+      {
+        "value": 4,
+        "text": "La pena de inhabilitación especial para la correspondiente profesión, siempre que ésta exceda de seis años."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La pena de inhabilitación especial para la correspondiente profesión, siempre que ésta exceda de seis años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 57.1.e Ley 55/2003: la condición de personal estatutario se pierde por la pena de inhabilitación especial para la correspondiente profesión cuando ésta exceda de seis años."
+  },
+  {
+    "id": "tec-t06_24",
+    "questionNum": 24,
+    "question": "Conforme a la Ley 55/2003, la persona interesada tendrá derecho a incorporarse a plaza de la misma categoría y área de salud en que prestaba sus servicios, si la revisión de incapacidad se produce:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dentro de los cinco años siguientes a la fecha de la declaración de incapacidad."
+      },
+      {
+        "value": 2,
+        "text": "Dentro de los tres años siguientes a la fecha de la declaración de incapacidad."
+      },
+      {
+        "value": 3,
+        "text": "Dentro de los dos años siguientes a la fecha de la declaración de incapacidad."
+      },
+      {
+        "value": 4,
+        "text": "Dentro de los cuatro años siguientes a la fecha de la declaración de incapacidad."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Dentro de los cinco años siguientes a la fecha de la declaración de incapacidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 57.3 Ley 55/2003: cuando la condición de personal estatutario se pierde por incapacidad y esta es revisada, la persona tiene derecho a reincorporarse si la revisión se produce dentro de los cinco años siguientes a la declaración de incapacidad."
+  },
+  {
+    "id": "tec-t06_25",
+    "questionNum": 25,
+    "question": "Conforme a la Ley 55/2003, los procedimientos de movilidad voluntaria del personal estatutario se efectuarán preferentemente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cada año."
+      },
+      {
+        "value": 2,
+        "text": "Cada dos años."
+      },
+      {
+        "value": 3,
+        "text": "Cada dieciocho meses."
+      },
+      {
+        "value": 4,
+        "text": "Cada tres años."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cada año."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 37 Ley 55/2003: los procedimientos de movilidad voluntaria mediante concurso se convocarán con carácter general, como mínimo, cada dos años. La frecuencia preferente según la norma es anual."
+  },
+  {
+    "id": "tec-t06_26",
+    "questionNum": 26,
+    "question": "De conformidad con la Ley 55/2003, la condición de personal estatutario fijo se adquiere cuando concurren sucesivamente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Superación del proceso selectivo y toma de posesión."
+      },
+      {
+        "value": 2,
+        "text": "Superación del proceso selectivo, nombramiento y toma de posesión en plazo."
+      },
+      {
+        "value": 3,
+        "text": "Nombramiento y publicación en BOE."
+      },
+      {
+        "value": 4,
+        "text": "Superación del concurso-oposición exclusivamente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Superación del proceso selectivo, nombramiento y toma de posesión en plazo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 20 Ley 55/2003: la condición de personal estatutario fijo se adquiere mediante la superación del proceso selectivo correspondiente, el nombramiento por el órgano competente y la toma de posesión en el plazo establecido."
+  },
+  {
+    "id": "tec-t06_27",
+    "questionNum": 27,
+    "question": "De conformidad con el Real Decreto 1146/2006, la duración máxima de la jornada ordinaria de la persona residente será:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La que establezca el centro sanitario."
+      },
+      {
+        "value": 2,
+        "text": "La fijada en el Estatuto de los Trabajadores."
+      },
+      {
+        "value": 3,
+        "text": "La determinada por convenio colectivo, sin exceder de 37,5 horas semanales de promedio en cómputo semestral."
+      },
+      {
+        "value": 4,
+        "text": "Será de 48 horas semanales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La determinada por convenio colectivo, sin exceder de 37,5 horas semanales de promedio en cómputo semestral."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 7 RD 1146/2006: la jornada ordinaria de los residentes no excederá de 37,5 horas semanales de promedio en cómputo semestral, según lo que establezca el convenio colectivo aplicable."
+  },
+  {
+    "id": "tec-t06_28",
+    "questionNum": 28,
+    "question": "De conformidad con el Real Decreto 1146/2006, después de 24 horas de trabajo ininterrumpido, el descanso de la persona residente será:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "De 12 horas, sin excepción."
+      },
+      {
+        "value": 2,
+        "text": "De 12 horas, salvo en situaciones de emergencia asistencial."
+      },
+      {
+        "value": 3,
+        "text": "De 10 horas en todos los casos."
+      },
+      {
+        "value": 4,
+        "text": "De 24 horas obligatorias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "De 12 horas, salvo en situaciones de emergencia asistencial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 7 RD 1146/2006: tras 24 horas de trabajo continuado, el residente tiene derecho a un descanso de 12 horas, que solo podrá diferirse en situaciones de emergencia asistencial debidamente justificadas."
+  },
+  {
+    "id": "tec-t06_29",
+    "questionNum": 29,
+    "question": "De conformidad con el Real Decreto 1146/2006, la persona residente estará obligada a realizar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todas las guardias que determine el centro."
+      },
+      {
+        "value": 2,
+        "text": "Un mínimo de siete guardias mensuales."
+      },
+      {
+        "value": 3,
+        "text": "Exclusivamente las horas de jornada complementaria que establezca el programa formativo."
+      },
+      {
+        "value": 4,
+        "text": "Guardias ilimitadas si son necesarias para la asistencia."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Exclusivamente las horas de jornada complementaria que establezca el programa formativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 7 RD 1146/2006: la persona residente está obligada a realizar las horas de jornada complementaria (guardias) que establezca el programa formativo de su especialidad, con los límites horarios legalmente previstos."
+  },
+  {
+    "id": "tec-t06_30",
+    "questionNum": 30,
+    "question": "De conformidad con el Real Decreto 1146/2006, en relación con la jornada a tiempo parcial de la persona residente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Está permitida si se justifica por razones formativas."
+      },
+      {
+        "value": 2,
+        "text": "Está permitida en el primer año de residencia."
+      },
+      {
+        "value": 3,
+        "text": "Está permitida únicamente con autorización de la persona que ejerza la tutoría."
+      },
+      {
+        "value": 4,
+        "text": "No puede celebrarse ningún contrato de residencia a tiempo parcial."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No puede celebrarse ningún contrato de residencia a tiempo parcial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 3 RD 1146/2006: la relación laboral especial de residencia no puede celebrarse a tiempo parcial. Los contratos de residencia son siempre a jornada completa dado el carácter formativo integral del programa."
+  },
+  {
+    "id": "tec-t06_31",
+    "questionNum": 31,
+    "question": "De conformidad con el Real Decreto 1146/2006, ¿cuál de los siguientes NO es un derecho específico de la persona residente?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Conocer el programa formativo de la especialidad."
+      },
+      {
+        "value": 2,
+        "text": "Participar en actividades docentes e investigadoras."
+      },
+      {
+        "value": 3,
+        "text": "Compatibilizar la residencia con otra actividad laboral."
+      },
+      {
+        "value": 4,
+        "text": "Ser evaluada con la máxima objetividad."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Compatibilizar la residencia con otra actividad laboral."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "RD 1146/2006: la compatibilidad con otra actividad laboral no es un derecho de la persona residente; al contrario, la dedicación a la residencia es exclusiva salvo excepciones muy tasadas. No figura como derecho en el RD."
+  },
+  {
+    "id": "tec-t06_32",
+    "questionNum": 32,
+    "question": "De conformidad con el Real Decreto 1146/2006, la persona residente podrá ejercer su profesión:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "De forma autónoma desde el inicio del contrato."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente bajo supervisión directa y sin responsabilidad."
+      },
+      {
+        "value": 3,
+        "text": "Con un nivel progresivo de responsabilidad conforme avance el programa formativo."
+      },
+      {
+        "value": 4,
+        "text": "Y tendrá derecho a participar en actividades docentes e investigadoras en las que intervenga la unidad acreditada, exceptuándose las actividades de gestión clínica."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Con un nivel progresivo de responsabilidad conforme avance el programa formativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 15 RD 1146/2006: el residente asume progresivamente mayor responsabilidad en el ejercicio profesional a medida que avanza en el programa formativo, siempre bajo la supervisión del tutor."
+  },
+  {
+    "id": "tec-t06_33",
+    "questionNum": 33,
+    "question": "De conformidad con el Real Decreto 1146/2006, la obtención de una evaluación anual negativa implica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La suspensión del contrato por tres meses."
+      },
+      {
+        "value": 2,
+        "text": "La prórroga automática del contrato por un año."
+      },
+      {
+        "value": 3,
+        "text": "La posible prórroga para un plan de recuperación, si así lo decide el comité de evaluación."
+      },
+      {
+        "value": 4,
+        "text": "La suspensión del contrato por seis meses."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La posible prórroga para un plan de recuperación, si así lo decide el comité de evaluación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 20 RD 1146/2006: una evaluación anual negativa puede dar lugar, según lo decida la comisión de evaluación, a una prórroga del contrato por el período necesario para que el residente supere un plan de recuperación."
+  },
+  {
+    "id": "tec-t06_34",
+    "questionNum": 34,
+    "question": "De conformidad con el Real Decreto 1146/2006, la finalización del programa formativo con evaluación positiva en el último año:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Da derecho a indemnización por fin de contrato."
+      },
+      {
+        "value": 2,
+        "text": "Da derecho a indemnización si lo establece el convenio."
+      },
+      {
+        "value": 3,
+        "text": "No da derecho a indemnización."
+      },
+      {
+        "value": 4,
+        "text": "Da derecho a indemnización equivalente a un mes de salario."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No da derecho a indemnización."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 9 RD 1146/2006: la finalización del contrato de residencia por superación del programa formativo no genera derecho a indemnización, dado el carácter formativo y temporal de la relación laboral especial."
+  },
+  {
+    "id": "tec-t06_35",
+    "questionNum": 35,
+    "question": "De conformidad con el Real Decreto 1146/2006, la extinción del contrato por despido disciplinario improcedente permite a la persona residente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente la indemnización."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente la readmisión."
+      },
+      {
+        "value": 3,
+        "text": "Optar entre la readmisión o la indemnización."
+      },
+      {
+        "value": 4,
+        "text": "La reincorporación automática."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Optar entre la readmisión o la indemnización."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 9 RD 1146/2006: ante el despido disciplinario declarado improcedente, la persona residente puede optar entre la readmisión con abono de los salarios de tramitación o la indemnización correspondiente."
+  },
+  {
+    "id": "tec-t06_36",
+    "questionNum": 36,
+    "question": "En relación con los principios de la potestad disciplinaria, diga cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La potestad disciplinaria se ejercerá por los órganos competentes de la administración en la que obtuvo su nombramiento."
+      },
+      {
+        "value": 2,
+        "text": "La potestad disciplinaria corresponderá al servicio de salud en el que la persona interesada se encuentre prestando servicios en el momento de la comisión de la falta."
+      },
+      {
+        "value": 3,
+        "text": "La sanción que, en su caso, se imponga tendrá validez en todos los servicios de salud."
+      },
+      {
+        "value": 4,
+        "text": "Cuando de la instrucción de un expediente disciplinario resulte la existencia de indicios fundados de criminalidad, se suspenderá la tramitación poniéndolo en conocimiento del Ministerio Fiscal."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La potestad disciplinaria se ejercerá por los órganos competentes de la administración en la que obtuvo su nombramiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 68 Ley 55/2003: la potestad disciplinaria corresponde al servicio de salud donde la persona presta servicios en el momento de la comisión de la falta, no al servicio donde obtuvo su nombramiento original. La opción A es falsa."
+  },
+  {
+    "id": "tec-t06_37",
+    "questionNum": 37,
+    "question": "Conforme a la Ley 55/2003, diga cuál de estas faltas tiene el carácter de muy grave:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todo acto de acoso sexual."
+      },
+      {
+        "value": 2,
+        "text": "La falta de asistencia al trabajo durante más de dos días sin autorización ni causa justificada."
+      },
+      {
+        "value": 3,
+        "text": "El incumplimiento de la obligación de atender los servicios esenciales establecidos en caso de huelga."
+      },
+      {
+        "value": 4,
+        "text": "Todas (a, b y c) tienen el carácter de muy grave."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El incumplimiento de la obligación de atender los servicios esenciales establecidos en caso de huelga."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 72 Ley 55/2003: el incumplimiento de la obligación de atender los servicios esenciales en caso de huelga es falta muy grave. El acoso sexual puede ser grave o muy grave según circunstancias, y la falta de asistencia de más de dos días es falta grave, no muy grave."
+  },
+  {
+    "id": "tec-t06_38",
+    "questionNum": 38,
+    "question": "Conforme a la Ley 55/2003, la falta de asistencia durante más de cinco días continuados o la acumulación de siete faltas en dos meses sin autorización ni causa justificada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Constituye falta grave."
+      },
+      {
+        "value": 2,
+        "text": "Constituye falta leve."
+      },
+      {
+        "value": 3,
+        "text": "Constituye falta muy grave."
+      },
+      {
+        "value": 4,
+        "text": "No constituye falta disciplinaria."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Constituye falta muy grave."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 72 Ley 55/2003: la falta de asistencia al trabajo sin justificación durante más de cinco días continuados o la acumulación de siete faltas en dos meses constituye falta muy grave."
+  },
+  {
+    "id": "tec-t06_39",
+    "questionNum": 39,
+    "question": "Conforme a la Ley 55/2003, el quebranto de la debida reserva respecto a datos relativos al centro o institución o a la intimidad personal de las personas usuarias y a la información relacionada con su proceso:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Constituye falta muy grave."
+      },
+      {
+        "value": 2,
+        "text": "Constituye falta grave."
+      },
+      {
+        "value": 3,
+        "text": "Constituye falta leve."
+      },
+      {
+        "value": 4,
+        "text": "Constituye un incumplimiento del ordenamiento jurídico, no tipificado como falta."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Constituye falta grave."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 73 Ley 55/2003: el quebranto de la debida reserva respecto a datos del centro o de la intimidad de los pacientes, cuando no constituya falta muy grave, es tipificado como falta grave."
+  },
+  {
+    "id": "tec-t06_40",
+    "questionNum": 40,
+    "question": "Conforme a la Ley 55/2003, el acoso sexual, cuando el sujeto activo del acoso crea con su conducta un entorno laboral intimidatorio, hostil o humillante para la persona que es objeto del mismo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Constituye falta muy grave."
+      },
+      {
+        "value": 2,
+        "text": "Constituye falta grave."
+      },
+      {
+        "value": 3,
+        "text": "Constituye falta leve."
+      },
+      {
+        "value": 4,
+        "text": "Constituye un incumplimiento del ordenamiento jurídico, no tipificado como falta."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Constituye falta muy grave."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 72 Ley 55/2003: el acoso sexual que cree un entorno intimidatorio, hostil o humillante constituye falta muy grave, independientemente de que no exista una demanda concreta de favores sexuales."
+  },
+  {
+    "id": "tec-t06_41",
+    "questionNum": 41,
+    "question": "De conformidad con la Ley 55/2003, respecto a la responsabilidad disciplinaria del personal estatutario, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo responde disciplinariamente por faltas tipificadas como muy graves."
+      },
+      {
+        "value": 2,
+        "text": "Responde disciplinariamente por las faltas cometidas en el ejercicio de sus funciones, sin perjuicio de otras responsabilidades."
+      },
+      {
+        "value": 3,
+        "text": "La responsabilidad disciplinaria excluye cualquier responsabilidad penal."
+      },
+      {
+        "value": 4,
+        "text": "Solo puede exigirse responsabilidad disciplinaria al personal fijo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Responde disciplinariamente por las faltas cometidas en el ejercicio de sus funciones, sin perjuicio de otras responsabilidades."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 67 Ley 55/2003: el personal estatutario responde disciplinariamente por las faltas cometidas en el ejercicio de sus funciones, siendo esta responsabilidad compatible e independiente de otras responsabilidades civiles o penales."
+  },
+  {
+    "id": "tec-t06_42",
+    "questionNum": 42,
+    "question": "De conformidad con la Ley 55/2003, en relación con los principios de la potestad disciplinaria:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Puede imponerse sanción sin previa tipificación expresa de la falta."
+      },
+      {
+        "value": 2,
+        "text": "La potestad disciplinaria se ejerce conforme a los principios de legalidad y tipicidad."
+      },
+      {
+        "value": 3,
+        "text": "Puede imponerse doble sanción por los mismos hechos si afectan a distintos bienes jurídicos."
+      },
+      {
+        "value": 4,
+        "text": "La prescripción no es aplicable en materia disciplinaria."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La potestad disciplinaria se ejerce conforme a los principios de legalidad y tipicidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 68 Ley 55/2003: la potestad disciplinaria se ejerce respetando los principios de legalidad, tipicidad, irretroactividad de las disposiciones sancionadoras desfavorables, proporcionalidad y prescripción."
+  },
+  {
+    "id": "tec-t06_43",
+    "questionNum": 43,
+    "question": "De conformidad con la Ley 55/2003, respecto a las faltas disciplinarias:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo existen faltas leves y graves."
+      },
+      {
+        "value": 2,
+        "text": "Las faltas se clasifican en leves, graves y muy graves."
+      },
+      {
+        "value": 3,
+        "text": "Las faltas prescriben en el mismo plazo cualquiera que sea su gravedad."
+      },
+      {
+        "value": 4,
+        "text": "La clasificación de las faltas corresponde exclusivamente a cada comunidad autónoma."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las faltas se clasifican en leves, graves y muy graves."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 71 Ley 55/2003: las faltas disciplinarias del personal estatutario se clasifican en leves, graves y muy graves, con distintos plazos de prescripción y sanciones asociadas a cada grado de gravedad."
+  },
+  {
+    "id": "tec-t06_44",
+    "questionNum": 44,
+    "question": "De conformidad con la Ley 55/2003, en relación con las medidas provisionales en el procedimiento disciplinario:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo pueden adoptarse tras la resolución firme del expediente."
+      },
+      {
+        "value": 2,
+        "text": "Pueden adoptarse medidas provisionales para asegurar la eficacia de la resolución que pudiera recaer."
+      },
+      {
+        "value": 3,
+        "text": "La suspensión provisional nunca puede acordarse."
+      },
+      {
+        "value": 4,
+        "text": "Las medidas provisionales tienen carácter sancionador definitivo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Pueden adoptarse medidas provisionales para asegurar la eficacia de la resolución que pudiera recaer."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 76 Ley 55/2003: durante la tramitación del expediente disciplinario pueden adoptarse medidas provisionales, incluida la suspensión provisional de funciones, para asegurar la eficacia de la resolución que pueda recaer."
+  },
+  {
+    "id": "tec-t06_45",
+    "questionNum": 45,
+    "question": "Conforme al Estatuto Básico del Empleado Público, en relación con las clases de personas empleadas, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los y las empleadas públicas se clasifican en: A) Personal funcionario. B) Personal eventual."
+      },
+      {
+        "value": 2,
+        "text": "Los y las empleadas públicas se clasifican en: A) Personal funcionario de carrera. B) Personal funcionario interino. C) Personal laboral, ya sea fijo, por tiempo indefinido o temporal. D) Personal eventual."
+      },
+      {
+        "value": 3,
+        "text": "El personal eventual no constituye una clase de persona empleada pública."
+      },
+      {
+        "value": 4,
+        "text": "Tanto las personas con altos cargos de la Administración como el personal eventual constituyen una clase de personas empleadas públicas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los y las empleadas públicas se clasifican en: A) Personal funcionario de carrera. B) Personal funcionario interino. C) Personal laboral, ya sea fijo, por tiempo indefinido o temporal. D) Personal eventual."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 8 EBEP (RDL 5/2015): los empleados públicos se clasifican en personal funcionario de carrera, personal funcionario interino, personal laboral (fijo, indefinido o temporal) y personal eventual."
+  },
+  {
+    "id": "tec-t06_46",
+    "questionNum": 46,
+    "question": "Las mesas de negociación, además de por la representación de la administración correspondiente, estarán constituidas por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los sindicatos que hayan obtenido una representación del 5% o más en las elecciones para Delegados y Juntas de Personal."
+      },
+      {
+        "value": 2,
+        "text": "Por las organizaciones sindicales más representativas a nivel de la Comunidad Autónoma."
+      },
+      {
+        "value": 3,
+        "text": "Por las organizaciones más representativas a nivel estatal y las más representativas de la Comunidad Autónoma."
+      },
+      {
+        "value": 4,
+        "text": "Por las organizaciones sindicales más representativas a nivel estatal, las más representativas a nivel de la Comunidad Autónoma, así como los sindicatos que hayan obtenido el 10% o más de sus representantes en las unidades electorales del ámbito específico."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Por las organizaciones sindicales más representativas a nivel estatal, las más representativas a nivel de la Comunidad Autónoma, así como los sindicatos que hayan obtenido el 10% o más de sus representantes en las unidades electorales del ámbito específico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 35 EBEP: las mesas de negociación se integran por la representación de la Administración y por las organizaciones sindicales más representativas a nivel estatal y autonómico, más los sindicatos con al menos el 10% de representantes en el ámbito de la mesa."
+  },
+  {
+    "id": "tec-t06_47",
+    "questionNum": 47,
+    "question": "En relación con el derecho de reunión de las personas empleadas públicas, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las reuniones en el centro de trabajo se podrán celebrar, salvo prohibición expresa, dentro de las horas de trabajo."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente las organizaciones sindicales, a través de sus personas delegadas sindicales, están legitimadas para convocar una reunión."
+      },
+      {
+        "value": 3,
+        "text": "El personal empleado público de las administraciones respectivas, en número no inferior al 40% del colectivo afectado, están legitimadas para convocar una reunión."
+      },
+      {
+        "value": 4,
+        "text": "Las tres afirmaciones anteriores son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las tres afirmaciones anteriores son falsas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "EBEP: las reuniones en horas de trabajo requieren acuerdo con la Administración (no es libre); pueden convocarlas las organizaciones sindicales O el personal en número no inferior al 40%. Las tres afirmaciones contienen errores, por lo que la D es correcta."
+  },
+  {
+    "id": "tec-t06_48",
+    "questionNum": 48,
+    "question": "Conforme al Estatuto Básico del Empleado Público, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La fase de instrucción y la fase sancionadora del procedimiento disciplinario deben encomendarse a órganos distintos."
+      },
+      {
+        "value": 2,
+        "text": "Todo procedimiento sancionador, sea por faltas muy graves, graves o leves, debe contener una fase de instrucción y una fase sancionadora."
+      },
+      {
+        "value": 3,
+        "text": "La persona funcionaria suspendida provisionalmente como medida cautelar no percibirá retribución alguna durante el tiempo de permanencia en esa situación."
+      },
+      {
+        "value": 4,
+        "text": "La suspensión provisional no podrá ser inferior a 15 días ni superior a 3 meses."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La fase de instrucción y la fase sancionadora del procedimiento disciplinario deben encomendarse a órganos distintos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 98 EBEP: el procedimiento disciplinario debe diferenciar la fase instructora de la sancionadora, encomenándolas a órganos distintos para garantizar la imparcialidad."
+  },
+  {
+    "id": "tec-t06_49",
+    "questionNum": 49,
+    "question": "Conforme al Real Decreto Legislativo 5/2015, por el que se aprueba el EBEP, los plazos de prescripción de las infracciones son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las muy graves prescriben a los tres años, las graves a los dos años y las leves a los tres meses."
+      },
+      {
+        "value": 2,
+        "text": "Las muy graves prescriben a los cuatro años, las graves a los dos años y las leves a los seis meses."
+      },
+      {
+        "value": 3,
+        "text": "Las muy graves prescriben a los dos años, las graves al año y las leves a los seis meses."
+      },
+      {
+        "value": 4,
+        "text": "Las muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 97 EBEP: las infracciones muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses, contados desde que la infracción se hubiera cometido."
+  },
+  {
+    "id": "tec-t06_50",
+    "questionNum": 50,
+    "question": "Conforme al EBEP, se EXCLUYE de la obligatoriedad de la negociación colectiva:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La regulación y determinación concreta de los sistemas, criterios, órganos y procedimientos de acceso al empleo público y la promoción profesional."
+      },
+      {
+        "value": 2,
+        "text": "Los planes de Previsión Social Complementaria."
+      },
+      {
+        "value": 3,
+        "text": "Las materias que afecten a las condiciones de trabajo y a las retribuciones de las personas funcionarias, cuya regulación exija norma con rango de ley."
+      },
+      {
+        "value": 4,
+        "text": "Las materias referidas a calendario laboral, horarios, jornadas, vacaciones, permisos y movilidad funcional y geográfica."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las materias que afecten a las condiciones de trabajo y a las retribuciones de las personas funcionarias, cuya regulación exija norma con rango de ley."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 37.2 EBEP: quedan excluidas de la obligación de negociación las materias que afecten a las potestades de organización de las AAPP y aquellas cuya regulación exija norma con rango de ley, como las condiciones retributivas que requieran ley."
+  },
+  {
+    "id": "tec-t06_51",
+    "questionNum": 51,
+    "question": "El EBEP (Real Decreto Legislativo 5/2015) tiene carácter supletorio respecto de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todo el personal funcionario sin excepción."
+      },
+      {
+        "value": 2,
+        "text": "El personal laboral únicamente."
+      },
+      {
+        "value": 3,
+        "text": "Todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente el personal con legislación específica propia."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 2.5 EBEP: el EBEP tiene carácter supletorio para todo el personal al servicio de las Administraciones Públicas no incluido en su ámbito de aplicación directo, incluido el personal estatutario cuando no exista regulación específica."
+  },
+  {
+    "id": "tec-t06_52",
+    "questionNum": 52,
+    "question": "De conformidad con el EBEP, el derecho a la defensa jurídica y protección de la Administración Pública en los procedimientos que se sigan ante cualquier orden jurisdiccional:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se reconoce cuando el procedimiento derive del ejercicio legítimo de sus funciones o cargos públicos."
+      },
+      {
+        "value": 2,
+        "text": "Solo se reconoce cuando la persona empleada pública actúe por delegación expresa del órgano superior."
+      },
+      {
+        "value": 3,
+        "text": "Solo procede en el orden contencioso-administrativo."
+      },
+      {
+        "value": 4,
+        "text": "Está condicionado a la previa autorización del Ministerio de Justicia."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se reconoce cuando el procedimiento derive del ejercicio legítimo de sus funciones o cargos públicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 14.k EBEP: los empleados públicos tienen derecho a la defensa jurídica y protección de la Administración en los procedimientos que se sigan ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones."
+  },
+  {
+    "id": "tec-t06_53",
+    "questionNum": 53,
+    "question": "De conformidad con el EBEP, la condición de personal eventual:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Puede constituir mérito para promoción interna."
+      },
+      {
+        "value": 2,
+        "text": "Puede consolidarse por desempeño continuado."
+      },
+      {
+        "value": 3,
+        "text": "Se adquiere mediante proceso selectivo ordinario."
+      },
+      {
+        "value": 4,
+        "text": "No puede constituir mérito para el acceso a la Función Pública ni para la promoción interna."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No puede constituir mérito para el acceso a la Función Pública ni para la promoción interna."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t06",
+    "explanation": "Art. 12.4 EBEP: el desempeño de un puesto de trabajo reservado a personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna."
+  }
+]

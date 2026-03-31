@@ -1,0 +1,631 @@
+[
+  {
+    "id": "adm-d255-osakidetza-especifico_1",
+    "questionNum": 1,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud se define como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ente Público de Derecho Público, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones públicas de servicios sanitarios dependientes del mismo."
+      },
+      {
+        "value": 2,
+        "text": "Ente Público de Derecho Público, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones privadas de servicios sanitarios dependientes del mismo."
+      },
+      {
+        "value": 3,
+        "text": "Ente Público de Derecho Privado, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones públicas de servicios sanitarios dependientes del mismo."
+      },
+      {
+        "value": 4,
+        "text": "Ente Público de Derecho Privado, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones privadas de servicios sanitarios dependientes del mismo."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ente Público de Derecho Privado, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones públicas de servicios sanitarios dependientes del mismo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 1: 'el Ente Público Osakidetza-Servicio vasco de salud es el Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de Ente Público de DERECHO PRIVADO, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones PÚBLICAS de servicios sanitarios dependientes del mismo.' Clave: Derecho PRIVADO (no Público) + organizaciones PÚBLICAS (no privadas). Respuesta C.",
+    "originalId": 6
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_2",
+    "questionNum": 2,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud tiene como fines:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes sin tener en cuenta la calidad de la misma."
+      },
+      {
+        "value": 2,
+        "text": "Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes promoviendo la mejora continua de los niveles de información, siempre que dicha atención no sea personalizada."
+      },
+      {
+        "value": 3,
+        "text": "Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes promoviendo la mejora continua de los niveles de información, la personalización en la atención y la calidad de la misma."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes promoviendo la mejora continua de los niveles de información, la personalización en la atención y la calidad de la misma."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 3.b (Fines): 'Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes de carácter instrumental o complementario, promoviendo especialmente la mejora contínua de los niveles de información, la personalización en la atención y la calidad de la misma.' La opción A incluye 'sin tener en cuenta la calidad' (FALSO) y la B dice 'siempre que no sea personalizada' (FALSO). Solo la C reproduce correctamente el fin. Respuesta C.",
+    "originalId": 7
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_3",
+    "questionNum": 3,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud NO tiene como fin:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Promover la docencia en ciencias de la salud."
+      },
+      {
+        "value": 2,
+        "text": "Promover la formación y actualización de su personal sanitario."
+      },
+      {
+        "value": 3,
+        "text": "Promover la formación y actualización de su personal no sanitario."
+      },
+      {
+        "value": 4,
+        "text": "Promover la creación de empresas privadas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Promover la creación de empresas privadas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 3 enumera los fines de Osakidetza: c) 'Promover la docencia en ciencias de la salud' [→ opción a: TRUE]; d) 'Promover la formación y actualización de los conocimientos... de su personal sanitario y no sanitario' [→ opciones b y c: TRUE]. 'Promover la creación de empresas privadas' NO aparece en ningún fin del Art. 3; es totalmente ajeno al objeto sanitario público. Respuesta D: la opción incorrecta.",
+    "originalId": 8
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_4",
+    "questionNum": 4,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, la organización rectora comprende a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Presidente y Consejo de Administración."
+      },
+      {
+        "value": 2,
+        "text": "Director del centro y Consejo de Administración."
+      },
+      {
+        "value": 3,
+        "text": "Dirección y Comité de empresa."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 9
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_5",
+    "questionNum": 5,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, la Presidencia corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Lehendakari."
+      },
+      {
+        "value": 2,
+        "text": "Consejero de Sanidad."
+      },
+      {
+        "value": 3,
+        "text": "Kutxa Fundazioa."
+      },
+      {
+        "value": 4,
+        "text": "Presidente del Gobierno."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Presidente del Gobierno."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 10
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_6",
+    "questionNum": 6,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cuál de estas funciones de la Presidencia es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ejercer la representación del Ente Público."
+      },
+      {
+        "value": 2,
+        "text": "Supervisar las operaciones del Ente Público y presentar al Consejo de Administración los informes que considere oportunos."
+      },
+      {
+        "value": 3,
+        "text": "Ejercer la representación del Consejo de Administración."
+      },
+      {
+        "value": 4,
+        "text": "No tiene potestad para supervisar las operaciones del Ente Público."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No tiene potestad para supervisar las operaciones del Ente Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 11
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_7",
+    "questionNum": 7,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración se encarga principalmente de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Asesoramiento a otras empresas."
+      },
+      {
+        "value": 2,
+        "text": "Formación e información."
+      },
+      {
+        "value": 3,
+        "text": "Comunicación y redes sociales."
+      },
+      {
+        "value": 4,
+        "text": "Dirigir y controlar sus actuaciones."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Dirigir y controlar sus actuaciones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 12
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_8",
+    "questionNum": 8,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración está compuesto por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Seis miembros en representación de la Administración de la Comunidad Autónoma."
+      },
+      {
+        "value": 2,
+        "text": "Ocho miembros en representación de la Administración de la Comunidad Autónoma."
+      },
+      {
+        "value": 3,
+        "text": "Presidente del Ente Público y cinco miembros en representación de la Administración de la Comunidad Autónoma."
+      },
+      {
+        "value": 4,
+        "text": "Presidente del Ente Público y el Lehendakari."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Presidente del Ente Público y el Lehendakari."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 13
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_9",
+    "questionNum": 9,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración tiene las siguientes funciones:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aprobar, a propuesta del Presidente, los criterios y líneas generales de actuación del Ente Público y de todas las organizaciones dependientes del mismo."
+      },
+      {
+        "value": 2,
+        "text": "Aprobar la propuesta de Presupuestos, Estados Financieros Previsionales y Memoria anual de actividades del Ente Público."
+      },
+      {
+        "value": 3,
+        "text": "Aprobar, a propuesta del Director General, el Plan Estratégico del Ente Público."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 15
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_10",
+    "questionNum": 10,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, al Director General NO le corresponde en sus funciones:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ejercer la dirección de todos los servicios y del personal del Ente Público."
+      },
+      {
+        "value": 2,
+        "text": "En los Consejos de Administración decidir los empates con su voto de calidad."
+      },
+      {
+        "value": 3,
+        "text": "Ejecutar los acuerdos del Consejo de Administración."
+      },
+      {
+        "value": 4,
+        "text": "Nombrar y separar a los Directores-Gerentes de las organizaciones de servicios sanitarios del Ente Público."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Nombrar y separar a los Directores-Gerentes de las organizaciones de servicios sanitarios del Ente Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 16
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_11",
+    "questionNum": 11,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, corresponde a la organización central de administración y gestión corporativa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Establecer las reglas generales sobre representación, comunicación e imagen oficial, de acuerdo con las normas gubernamentales correspondientes."
+      },
+      {
+        "value": 2,
+        "text": "Elaborar el Plan estratégico del Ente Público."
+      },
+      {
+        "value": 3,
+        "text": "Suministrar servicios comunes de asesoramiento y apoyo técnico."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 12 (Facultades organización central): 1. 'Establecer las reglas generales sobre representación, comunicación e imagen oficial' [→ opción a]; 2. 'Elaborar el Plan Estratégico del Ente Público' [→ opción b]; 3. 'Suministrar servicios comunes de asesoramiento y apoyo técnico' [→ opción c]. Las tres son funciones expresas de la organización central. Respuesta D: a)+b)+c) correctas.",
+    "originalId": 17
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_12",
+    "questionNum": 12,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, NO corresponde a la organización central en materia específica de gestión de recursos humanos la siguiente facultad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dirigir el funcionamiento del registro de personal."
+      },
+      {
+        "value": 2,
+        "text": "Elaborar el Plan estratégico del Ente Público."
+      },
+      {
+        "value": 3,
+        "text": "Supervisar, controlar y evaluar las políticas de personal del Ente."
+      },
+      {
+        "value": 4,
+        "text": "Gestionar los procesos de selección y de provisión."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Elaborar el Plan estratégico del Ente Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 12.5 (materia de gestión de RRHH) enumera: c) Supervisar, controlar y evaluar políticas de personal [→ opción c: pertenece]; d) Dirigir el registro de personal [→ opción a: pertenece]; d) Gestionar procesos de selección y provisión [→ opción d: pertenece]. 'Elaborar el Plan Estratégico' está en Art. 12.2 (función general corporativa), NO en el apartado específico de RRHH (Art. 12.5). Respuesta B.",
+    "originalId": 18
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_13",
+    "questionNum": 13,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cual de estas afirmaciones es correcta en referencia a las facultades de las organizaciones de servicios:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Corresponde a cada organización de servicios del Ente Público Osakidetza-Servicio vasco de salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios que tengan encomendada, quedando excluidas únicamente aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente."
+      },
+      {
+        "value": 2,
+        "text": "NO es responsabilidad de cada organización de servicios del Ente Público Osakidetza-Servicio vasco de salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios que tengan encomendada, quedando excluidas únicamente aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente."
+      },
+      {
+        "value": 3,
+        "text": "SÓLO es responsabilidad de algunas organizaciones de servicios con características específicas del Ente Público Osakidetza-Servicio vasco de salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios que tengan encomendada, quedando excluidas únicamente aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente."
+      },
+      {
+        "value": 4,
+        "text": "Corresponde a cada organización de servicios del Ente Público Osakidetza-Servicio vasco de salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios que tengan encomendada, quedando incluidas aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Corresponde a cada organización de servicios del Ente Público Osakidetza-Servicio vasco de salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios que tengan encomendada, quedando excluidas únicamente aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 14.1: 'Corresponde a cada organización de servicios del Ente Público... el ejercicio de TODAS las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tengan encomendada, quedando EXCLUIDAS ÚNICAMENTE aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente.' La opción D dice 'quedando incluidas' (inversión del texto). Respuesta A.",
+    "originalId": 19
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_14",
+    "questionNum": 14,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, al frente de cada organización de servicios sanitarios del Ente Público se encontrará:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Presidente."
+      },
+      {
+        "value": 2,
+        "text": "Un Director-Gerente."
+      },
+      {
+        "value": 3,
+        "text": "El Consejo de Administración."
+      },
+      {
+        "value": 4,
+        "text": "El Responsable de Recursos Humanos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Un Director-Gerente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 15.1: 'Al frente de cada organización de servicios sanitarios del Ente Público se encontrará un DIRECTOR-GERENTE, considerado como cargo directivo sujeto al régimen del artículo 27 de la Ley de Ordenación sanitaria.' Respuesta B.",
+    "originalId": 20
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_15",
+    "questionNum": 15,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cuál de estas afirmaciones es FALSA. Al Director-Gerente le corresponderá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ostentar la representación oficial de la organización y ejercer la autoridad directa dentro de la misma."
+      },
+      {
+        "value": 2,
+        "text": "Dirigir e impulsar la investigación, docencia y formación en el seno de su organización."
+      },
+      {
+        "value": 3,
+        "text": "Suscribir el contrato-programa en representación de la organización respectiva."
+      },
+      {
+        "value": 4,
+        "text": "Dirigir e impulsar la investigación, docencia y formación en el seno de las Universidades y Centros de Formación Profesional privados."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Dirigir e impulsar la investigación, docencia y formación en el seno de las Universidades y Centros de Formación Profesional privados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta D.",
+    "originalId": 21
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_16",
+    "questionNum": 16,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, con carácter ordinario, a la Dirección Médica le corresponderán las siguientes atribuciones:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dirigir, coordinar y evaluar las actividades de gestión administrativa."
+      },
+      {
+        "value": 2,
+        "text": "Dirigir, coordinar y evaluar las actividades de la Dirección General."
+      },
+      {
+        "value": 3,
+        "text": "Presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento."
+      },
+      {
+        "value": 4,
+        "text": "Dirigir, coordinar y evaluar la gestión de recursos humanos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "D.255/1997 Art. 15 (Dirección Médica — atribuciones ordinarias): a) 'Presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento' [→ opción c: VERDAD]; b) 'Dirigir, coordinar y evaluar las actividades clínico-asistenciales' (no 'gestión administrativa' de opción a); c) 'Promover y supervisar las actividades de docencia e investigación del personal Facultativo.' Las opciones a/b/d describen funciones de otras Direcciones. Respuesta C.",
+    "originalId": 22
+  },
+  {
+    "id": "adm-d255-osakidetza-especifico_17",
+    "questionNum": 17,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, señala cuál de estas afirmaciones es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las organizaciones que componen el Ente Público de Osakidetza-Servicio vasco de la salud no llevarán la información económico-financiera, elaborada de acuerdo a los criterios del Plan General de Contabilidad adaptado a las empresas de asistencia sanitaria."
+      },
+      {
+        "value": 2,
+        "text": "Tanto el Ente Público Osakidetza-Servicio vasco de salud como cada una de las organizaciones que lo componen llevará su propia información económicofinanciera, no siendo elaborada de acuerdo a los criterios del Plan General de Contabilidad adaptado a las empresas de asistencia sanitaria."
+      },
+      {
+        "value": 3,
+        "text": "Tanto el Ente Público Osakidetza-Servicio vasco de salud como cada una de las organizaciones que lo componen llevará su propia información económicofinanciera, elaborada de acuerdo a los criterios del Plan General de Contabilidad adaptado a las empresas de asistencia sanitaria. Esta información económicofinanciera se ajustará asimismo a lo que la normativa en materia de control y contabilidad establezca para los Entes Públicos de Derecho Privado."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son incorrectas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-d255-osakidetza-especifico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 23
+  }
+]

@@ -1,0 +1,483 @@
+[
+  {
+    "id": "adm-lrjsp-sector-publico_1",
+    "questionNum": 1,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, corresponde al Presidente del Ente Público:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Convocar, presidir, suspender y levantar las sesiones del Consejo de Administración."
+      },
+      {
+        "value": 2,
+        "text": "Arbitrar las deliberaciones del Consejo de Administración."
+      },
+      {
+        "value": 3,
+        "text": "Decidir los empates con su voto de calidad en las sesiones del Consejo de Administración."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "originalId": 14
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_2",
+    "questionNum": 2,
+    "question": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, son requisitos para la creación de cualquier órgano administrativo exigirá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Acreditar que no existe duplicación de otros órganos administrativos ya existentes."
+      },
+      {
+        "value": 2,
+        "text": "Emitir un informe el que se garantiza el funcionamiento autónomo del nuevo órgano administrativo."
+      },
+      {
+        "value": 3,
+        "text": "Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica."
+      },
+      {
+        "value": 4,
+        "text": "Elaboración de un presupuesto detallado de los gastos que supondrá su puesta en marcha y funcionamiento."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 5.4 Ley 40/2015: 'La creación de cualquier órgano administrativo exigirá: a) Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica; b) Delimitación de sus funciones y competencias; c) Dotación de los créditos necesarios para su puesta en marcha y funcionamiento; d) No duplicación con otros ya existentes.' La opción C reproduce literalmente el requisito a) del artículo. Respuesta C.",
+    "originalId": 122
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_3",
+    "questionNum": 3,
+    "question": "La Ley 40/2015 establece que la delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén."
+      },
+      {
+        "value": 2,
+        "text": "Suponen alteración de la titularidad de la competencia, y por tanto también de los elementos determinantes de su ejercicio que en cada caso se prevén."
+      },
+      {
+        "value": 3,
+        "text": "No supone alteración de la titularidad de la competencia ni de los elementos determinantes de su ejercicio."
+      },
+      {
+        "value": 4,
+        "text": "La delegación de la firma es la que supone alteración de la titularidad de la competencia."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "No suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 8.1 Ley 40/2015: 'La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia NO suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén.' La titularidad permanece en el órgano delegante; solo cambian los elementos de ejercicio. Respuesta A.",
+    "originalId": 123
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_4",
+    "questionNum": 4,
+    "question": "Las competencias relativas a la adopción de disposiciones de carácter general:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Pueden ser objeto de delegación."
+      },
+      {
+        "value": 2,
+        "text": "Serán objeto de delegación cuando se tenga la aprobación del órgano delegante."
+      },
+      {
+        "value": 3,
+        "text": "En ningún caso podrán ser objeto de delegación."
+      },
+      {
+        "value": 4,
+        "text": "a) y b) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En ningún caso podrán ser objeto de delegación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 8.5 Ley 40/2015: 'No podrán ser objeto de delegación las competencias relativas a: a) La adopción de disposiciones de carácter general.' Prohibición absoluta: las disposiciones generales (reglamentos, circulares, instrucciones de alcance general) NO se pueden delegar en ningún caso. Respuesta C.",
+    "originalId": 124
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_5",
+    "questionNum": 5,
+    "question": "Una encomienda de gestión implica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de Entidades de Derecho Público."
+      },
+      {
+        "value": 2,
+        "text": "La cesión de la titularidad de la competencia de los órganos administrativos o de Entidades de Derecho Público."
+      },
+      {
+        "value": 3,
+        "text": "Hacerse cargo de prestaciones propias de los contratos regulados en la legislación de contratos del sector público."
+      },
+      {
+        "value": 4,
+        "text": "Dictar acto o resoluciones de carácter jurídico que den soporte a la actividad objeto de la encomienda."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de Entidades de Derecho Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 11.1 Ley 40/2015: 'La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser encomendada a otros órganos o Entidades...' La encomienda NO supone cesión de titularidad (opción B incorrecta) ni adjudicación contractual (opción C incorrecta). Es solo gestión material/técnica. Respuesta A.",
+    "originalId": 125
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_6",
+    "questionNum": 6,
+    "question": "En la encomienda de gestión, tendrá la condición de encargado del tratamiento de los datos de carácter personal:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El órgano que delega la competencia."
+      },
+      {
+        "value": 2,
+        "text": "El órgano encomendado."
+      },
+      {
+        "value": 3,
+        "text": "Tanto el órgano encomendado como el órgano que delega la competencia."
+      },
+      {
+        "value": 4,
+        "text": "La Agencia Española de Protección de Datos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El órgano encomendado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 11.3 Ley 40/2015: 'En los supuestos de encomienda de gestión que impliquen el tratamiento de datos de carácter personal, tendrá la consideración de ENCARGADO DEL TRATAMIENTO el órgano o entidad encomendada.' El órgano encomendante mantiene la condición de responsable del tratamiento. Respuesta B: el órgano encomendado.",
+    "originalId": 126
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_7",
+    "questionNum": 7,
+    "question": "En los supuestos de enfermedad, los titulares de los órganos administrativos pueden ser suplidos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Definitivamente."
+      },
+      {
+        "value": 2,
+        "text": "Indefinidamente."
+      },
+      {
+        "value": 3,
+        "text": "Temporalmente."
+      },
+      {
+        "value": 4,
+        "text": "Parcialmente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Temporalmente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 13.1 Ley 40/2015: 'En los casos de vacante, ausencia o enfermedad, así como en los supuestos en que haya sido declarada su abstención o recusación, los titulares de los órganos administrativos serán suplidos TEMPORALMENTE por quien designe el órgano competente para efectuar el nombramiento.' Suplencia = siempre temporal, cubre situaciones concretas y limitadas en el tiempo. Respuesta C.",
+    "originalId": 127
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_8",
+    "questionNum": 8,
+    "question": "Según la Ley 40/2015, los conflictos de atribuciones SÓLO podrán suscitarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Entre órganos de diferentes Administraciones relacionados jerárquicamente."
+      },
+      {
+        "value": 2,
+        "text": "Entre órganos de diferentes Administraciones no relacionados jerárquicamente."
+      },
+      {
+        "value": 3,
+        "text": "Entre órganos de una misma Administración relacionados jerárquicamente."
+      },
+      {
+        "value": 4,
+        "text": "Entre órganos de una misma Administración no relacionados jerárquicamente."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Entre órganos de una misma Administración no relacionados jerárquicamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 14.1 Ley 40/2015: 'Los conflictos de atribuciones SÓLO podrán suscitarse entre órganos de una MISMA ADMINISTRACIÓN NO RELACIONADOS JERÁRQUICAMENTE.' Dos requisitos acumulativos: misma Administración + sin relación jerárquica. Si hay jerarquía, la resuelve el superior. Si son de distintas AAPP, hay otros mecanismos. Respuesta D.",
+    "originalId": 128
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_9",
+    "questionNum": 9,
+    "question": "Para la válida constitución de los órganos colegiados de las distintas Administraciones Públicas, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos se requerirá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La asistencia, presencial o a distancia, del Presidente y el Secretario, o en su caso, de quienes les suplan."
+      },
+      {
+        "value": 2,
+        "text": "La asistencia presencial del Secretario o en su caso de quién le supla, y la mitad de sus miembros."
+      },
+      {
+        "value": 3,
+        "text": "La asistencia, presencial del Presidente y Secretario, o en su caso de quienes les suplan, y al menos un tercio de sus miembros."
+      },
+      {
+        "value": 4,
+        "text": "La asistencia, presencial o a distancia, del Presidente, el Secretario, o en su caso de quienes les suplan y al menos la mitad de sus miembros."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La asistencia, presencial o a distancia, del Presidente, el Secretario, o en su caso de quienes les suplan y al menos la mitad de sus miembros."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 17.2 Ley 40/2015: 'Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y el Secretario o en su caso, de quienes les suplan, y la de LA MITAD AL MENOS de sus miembros.' Tres requisitos: Presidente + Secretario (o suplentes) + mitad de miembros. Respuesta D.",
+    "originalId": 129
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_10",
+    "questionNum": 10,
+    "question": "Corresponderá al Presidente de los órganos colegiados de la Administración General del Estado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Visar las actas y certificaciones de los acuerdos del órgano."
+      },
+      {
+        "value": 2,
+        "text": "Formular ruegos y preguntas."
+      },
+      {
+        "value": 3,
+        "text": "Obtener la información precisa para cumplir las funciones asignadas."
+      },
+      {
+        "value": 4,
+        "text": "Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Visar las actas y certificaciones de los acuerdos del órgano."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 19.1 Ley 40/2015 — Funciones del Presidente: 'f) Visar las actas y certificaciones de los acuerdos del órgano.' Las opciones b) y c) (formular ruegos/obtener información) son derechos de los MIEMBROS. La opción d) (expedir certificaciones) es función del SECRETARIO. Respuesta A.",
+    "originalId": 130
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_11",
+    "questionNum": 11,
+    "question": "Corresponderá al Secretario de los órganos colegiados de la Administración General del Estado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Participar en los debates de las sesiones."
+      },
+      {
+        "value": 2,
+        "text": "Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones."
+      },
+      {
+        "value": 3,
+        "text": "Moderar el desarrollo de los debates y suspenderlos por causas justificadas."
+      },
+      {
+        "value": 4,
+        "text": "Acordar la convocatoria de las sesiones ordinarias y la fijación del orden del día."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 19.3 Ley 40/2015 — Funciones del Secretario: 'd) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.' Las opciones a) (participar en debates) y c) (moderar debates) y d) (acordar convocatoria) son funciones del PRESIDENTE. Respuesta B.",
+    "originalId": 131
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_12",
+    "questionNum": 12,
+    "question": "Es motivo de abstención de las autoridades y el personal al servicio de las Administraciones a la hora de intervenir en un procedimiento:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tener enemistad manifiesta con cualquiera de los interesados."
+      },
+      {
+        "value": 2,
+        "text": "Tener interés personal en el asunto de que se trate."
+      },
+      {
+        "value": 3,
+        "text": "Tener relación de servicio con persona natural o jurídica interesada directamente en el asunto."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Tener enemistad manifiesta con cualquiera de los interesados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 23.2 Ley 40/2015 enumera causas de abstención: a) Interés personal en el asunto [→ opción b]; f) Relación de servicio con persona natural o jurídica interesada directamente [→ opción c]; h) Enemistad manifiesta con alguna de las personas [→ opción a]. LAS TRES son motivos de abstención reconocidos expresamente. Respuesta A: a), b) y c) correctas.",
+    "originalId": 132
+  },
+  {
+    "id": "adm-lrjsp-sector-publico_13",
+    "questionNum": 13,
+    "question": "Se define como el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite el acceso a través de internet a la información publicada.",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Página Web."
+      },
+      {
+        "value": 2,
+        "text": "Portal de internet."
+      },
+      {
+        "value": 3,
+        "text": "Sede electrónica."
+      },
+      {
+        "value": 4,
+        "text": "Certificado digital o Cl@ve."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Portal de internet."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lrjsp-sector-publico",
+    "explanation": "Art. 3.2 Ley 40/2015: 'Se entiende por portal de internet el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública... que permite el acceso a través de internet A LA INFORMACIÓN PUBLICADA.' Diferencia clave: la SEDE ELECTRÓNICA (art. 3.1) permite acceso a SERVICIOS; el PORTAL DE INTERNET permite acceso a INFORMACIÓN PUBLICADA. Respuesta B.",
+    "originalId": 133
+  }
+]

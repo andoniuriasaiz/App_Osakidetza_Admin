@@ -1,0 +1,1802 @@
+[
+  {
+    "ID": 57,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "C",
+    "K": "D",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 58,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "A",
+    "K": "D",
+    "O": "A",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 59,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "B",
+    "K": "D",
+    "O": "B",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 59,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "C",
+    "K": "D",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 59,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "A",
+    "K": "D",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 59,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 63,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "C",
+    "K": "D",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 64,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "A",
+    "K": "D",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 59,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "B",
+    "K": "D",
+    "O": "B",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 66,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 67,
+    "Txt": "Según el Decreto 235/2007, de 18 de diciembre, por el que se",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 6,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 7,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 8,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 9,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "D",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 10,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 11,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "D",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 12,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "D",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 13,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 15,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 16,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 17,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 18,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "B",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 19,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "A",
+    "K": "C",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 20,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "B",
+    "K": "C",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 21,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "D",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 22,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 23,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 68,
+    "Txt": "Tienen derecho a formar parte de la Comunidad Autónoma del P",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 69,
+    "Txt": "La bandera del País Vasco es:",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 70,
+    "Txt": "Es la institución consultiva oficial en lo referente al eusk",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 71,
+    "Txt": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatut",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 72,
+    "Txt": "Los poderes públicos vascos, en el ámbito de su competencia,",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 73,
+    "Txt": "El Parlamento Vasco es elegido por un periodo de:",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 74,
+    "Txt": "Los miembros del Parlamento Vasco durante su mandato, por lo",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 75,
+    "Txt": "El Parlamento Vasco fijará su Reglamento Interno, que deberá",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 76,
+    "Txt": "En relación al Parlamento Vasco, los períodos ordinarios de ",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 77,
+    "Txt": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatut",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 78,
+    "Txt": "El Presidente del Gobierno Vasco ordenará la publicación de ",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 79,
+    "Txt": "En relación a las Leyes del Parlamento Vasco publicadas en e",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 80,
+    "Txt": "Es motivo de cese del Gobierno Vasco:",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 145,
+    "Txt": "¿En qué supuesto puede obtenerse la segunda opinión médica e",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 1,
+    "Txt": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, ",
+    "App": "C",
+    "K": "A",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 2,
+    "Txt": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, ",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 3,
+    "Txt": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, ",
+    "App": "D",
+    "K": "A",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 4,
+    "Txt": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, ",
+    "App": "B",
+    "K": "A",
+    "O": "B",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 5,
+    "Txt": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, ",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 81,
+    "Txt": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administr",
+    "App": "A",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 82,
+    "Txt": "En relación a la capacidad para obrar ante las Administracio",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 83,
+    "Txt": "En el procedimiento administrativo, la falta o insuficiente ",
+    "App": "A",
+    "K": "A",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 84,
+    "Txt": "En relación a los registros electrónicos de apoderamientos, ",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 85,
+    "Txt": "Los poderes inscritos en el registro electrónico de apoderam",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 86,
+    "Txt": "Respecto al uso de medios de identificación y la firma en el",
+    "App": "C",
+    "K": "A",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 87,
+    "Txt": "Según la Ley 39/2015, para realizar cualquier trámite de un ",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 89,
+    "Txt": "Para que un documento electrónico administrativo sea conside",
+    "App": "B",
+    "K": "A",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 90,
+    "Txt": "El proceso tecnológico que permite convertir un documento en",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 91,
+    "Txt": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Adm",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 92,
+    "Txt": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administr",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 93,
+    "Txt": "El registro electrónico permitirá la presentación de documen",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 94,
+    "Txt": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Adm",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 95,
+    "Txt": "Las notificaciones por medios electrónicos se entenderán pra",
+    "App": "A",
+    "K": "A",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 96,
+    "Txt": "Es un derecho del interesado en un procedimiento administrat",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 100,
+    "Txt": "De acuerdo a la Ley 39/2015, de 1 de octubre, del Procedimie",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 101,
+    "Txt": "Según la Ley 39/2015, el documento suscrito por un interesad",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 102,
+    "Txt": "Según la Ley 39/2015 el expediente administrativo se define ",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 104,
+    "Txt": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administr",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 106,
+    "Txt": "La Ley 39/2015 establece que, en la terminación de los proce",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 107,
+    "Txt": "Cuando finalizado el procedimiento administrativo exista la ",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 109,
+    "Txt": "La Ley 39/2015, en relación a la revisión de los actos en ví",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 117,
+    "Txt": "Según la Ley 39/2015 la interposición de cualquier recurso:",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 118,
+    "Txt": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 134,
+    "Txt": "La ubicación de los sistemas de información y comunicaciones",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 180,
+    "Txt": "Según la Carpeta Roja de Prevención, el parte interno de not",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 181,
+    "Txt": "Según la Carpeta Roja de Prevención, NO deberán declararse m",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 88,
+    "Txt": "La estimación por silencio administrativo:",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 97,
+    "Txt": "Es una de las medidas provisionales que, iniciado el procedi",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 98,
+    "Txt": "Se entiende por__________, la actuación derivada del conocim",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 99,
+    "Txt": "En el inicio del procedimiento por denuncia, cuando el denun",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 103,
+    "Txt": "Cuando en virtud de una norma sea preciso remitir el expedie",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 105,
+    "Txt": "Podrán fin al procedimiento administrativo:",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 108,
+    "Txt": "¿Cuál de las siguientes afirmaciones sobre la tramitación si",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 110,
+    "Txt": "La declaración de lesividad no podrá adoptarse una vez trans",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 111,
+    "Txt": "La declaración de lesividad:",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 112,
+    "Txt": "En la Administración General del Estado, indica quién NO es ",
+    "App": "B",
+    "K": "A",
+    "O": "B",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 113,
+    "Txt": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Adm",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 114,
+    "Txt": "En relación al procedimiento administrativo, las resolucione",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 115,
+    "Txt": "Según la Ley 39/2015, en la interposición de un recurso NO d",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 116,
+    "Txt": "Según la Ley 39/2015 es causa de inadmisión de un recurso ad",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 119,
+    "Txt": "El recurso que se presenta ante el órgano superior jerárquic",
+    "App": "A",
+    "K": "A",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 120,
+    "Txt": "El recurso extraordinario de revisión se puede interponer co",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 121,
+    "Txt": "El plazo máximo para dictar y notificar la resolución de un ",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 14,
+    "Txt": "Según el Decreto 255/1997, de 11 de noviembre, por el que se",
+    "App": "D",
+    "K": "C",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 122,
+    "Txt": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico d",
+    "App": "C",
+    "K": "A",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 123,
+    "Txt": "La Ley 40/2015 establece que la delegación de competencias, ",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 124,
+    "Txt": "Las competencias relativas a la adopción de disposiciones de",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 125,
+    "Txt": "Una encomienda de gestión implica:",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 126,
+    "Txt": "En la encomienda de gestión, tendrá la condición de encargad",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 127,
+    "Txt": "En los supuestos de enfermedad, los titulares de los órganos",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 128,
+    "Txt": "Según la Ley 40/2015, los conflictos de atribuciones SÓLO po",
+    "App": "D",
+    "K": "D",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 129,
+    "Txt": "Para la válida constitución de los órganos colegiados de las",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 130,
+    "Txt": "Corresponderá al Presidente de los órganos colegiados de la ",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 131,
+    "Txt": "Corresponderá al Secretario de los órganos colegiados de la ",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 132,
+    "Txt": "Es motivo de abstención de las autoridades y el personal al ",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 133,
+    "Txt": "Se define como el punto de acceso electrónico cuya titularid",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 162,
+    "Txt": "Según el Manual Informativo sobre riesgos generales para los",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 163,
+    "Txt": "Según el Manual Informativo sobre riesgos generales para los",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 164,
+    "Txt": "Según el Manual Informativo sobre riesgos generales para los",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 165,
+    "Txt": "Según el Manual Informativo sobre riesgos generales para los",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 166,
+    "Txt": "Según el Manual Informativo sobre riesgos generales para los",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 167,
+    "Txt": "Según el Manual Informativo sobre riesgos generales para los",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 168,
+    "Txt": "Según el Manual Informativo sobre riesgos laborales de los p",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 169,
+    "Txt": "Según el Manual Informativo sobre riesgos laborales de los p",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 170,
+    "Txt": "Según el Manual Informativo sobre riesgos laborales de los p",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 171,
+    "Txt": "Según el Manual Informativo sobre riesgos laborales de los p",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 172,
+    "Txt": "Según el Manual Informativo sobre riesgos laborales de los p",
+    "App": "B",
+    "K": "A",
+    "O": "B",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 173,
+    "Txt": "Según el Manual Informativo sobre riesgos laborales de los p",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 179,
+    "Txt": "Según la Carpeta Roja de Prevención, un accidente se conside",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 182,
+    "Txt": "Según la Carpeta Roja de Prevención, en caso de pinchazo por",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 183,
+    "Txt": "Según la Carpeta Roja de Prevención, en caso de contacto acc",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 184,
+    "Txt": "Según la Carpeta Roja de Prevención, en caso de contacto acc",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 193,
+    "Txt": "Según la Carpeta Roja de Prevención, un incidente se caracte",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 197,
+    "Txt": "Según el Manual Informativo sobre riesgos generales para los",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 198,
+    "Txt": "Según la Carpeta Roja de Prevención, en caso de accidente si",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 200,
+    "Txt": "Según la Carpeta Roja de Prevención, tras una exposición acc",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 155,
+    "Txt": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 156,
+    "Txt": "Según la Ley de Prevención de Riesgos Laborales, el coste de",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 157,
+    "Txt": "Según la Ley 31/1995, los principios de la acción preventiva",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 158,
+    "Txt": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, so",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 159,
+    "Txt": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 160,
+    "Txt": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, lo",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 161,
+    "Txt": "Según el artículo 2 de la Ley 31/1995, de Prevención de Ries",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 174,
+    "Txt": "Según el Manual Informativo de Prevención de Riesgos Laboral",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 175,
+    "Txt": "Según el Manual Informativo de Prevención de Riesgos Laboral",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 176,
+    "Txt": "Según el Manual Informativo de Prevención de Riesgos Laboral",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 177,
+    "Txt": "Según el Manual Informativo de Prevención de Riesgos Laboral",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 178,
+    "Txt": "Según el Manual Informativo de Prevención de Riesgos Laboral",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 190,
+    "Txt": "Según la Ley 31/1995, la vigilancia de la salud de los traba",
+    "App": "C",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 191,
+    "Txt": "Según la Ley 31/1995, los delegados de prevención son:",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 192,
+    "Txt": "Según la Ley 31/1995, la planificación de la actividad preve",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 195,
+    "Txt": "Según la Ley 31/1995, el empresario deberá adoptar medidas p",
+    "App": "C",
+    "K": "C",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 199,
+    "Txt": "Según el Manual Informativo de Prevención de Riesgos Laboral",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 147,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "C",
+    "K": "D",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 148,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "A",
+    "K": "C",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 149,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 150,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 151,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 152,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 153,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 154,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 186,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "C",
+    "K": "C",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 187,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 188,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "A",
+    "K": "?",
+    "O": "B",
+    "Con": "A",
+    "Status": "REVISAR"
+  },
+  {
+    "ID": 189,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 196,
+    "Txt": "Según el Protocolo frente al acoso sexual y por razón de sex",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 24,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 25,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 26,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 27,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "A",
+    "K": "A",
+    "O": "B",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 28,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 29,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 30,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 31,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "A",
+    "K": "A",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 30,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "D",
+    "K": "B",
+    "O": "A",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 30,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "A",
+    "K": "B",
+    "O": "A",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 30,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "A",
+    "K": "B",
+    "O": "A",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 30,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "C",
+    "K": "B",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 30,
+    "Txt": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcio",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 135,
+    "Txt": "Según el Decreto 149/2007, la solicitud de segunda opinión m",
+    "App": "C",
+    "K": "B",
+    "O": "A",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 136,
+    "Txt": "Según el Decreto 149/2007, la concesión del derecho a la seg",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 137,
+    "Txt": "Según el Decreto 149/2007, cuando la segunda opinión médica ",
+    "App": "B",
+    "K": "A",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 138,
+    "Txt": "¿Quiénes pueden solicitar una segunda opinión médica conform",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 139,
+    "Txt": "El derecho a la segunda opinión médica se garantiza, entre o",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 140,
+    "Txt": "¿Cuál es la finalidad principal del derecho a la segunda opi",
+    "App": "B",
+    "K": "B",
+    "O": "A",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 141,
+    "Txt": "La segunda opinión médica deberá ser emitida por profesional",
+    "App": "B",
+    "K": "B",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 142,
+    "Txt": "¿En qué plazo debe concertarse la cita para la segunda opini",
+    "App": "C",
+    "K": "B",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 143,
+    "Txt": "Si la segunda opinión médica NO confirma el primer diagnósti",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 144,
+    "Txt": "Cuando NO se considera adecuada la concesión de una segunda ",
+    "App": "C",
+    "K": "C",
+    "O": "C",
+    "Con": "C",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 146,
+    "Txt": "¿Qué unidades son las encargadas de tramitar las solicitudes",
+    "App": "C",
+    "K": "D",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 185,
+    "Txt": "Según el Decreto 149/2007, el procedimiento de segunda opini",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 194,
+    "Txt": "Según el Decreto 149/2007, la solicitud de segunda opinión m",
+    "App": "C",
+    "K": "C",
+    "O": "B",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 37,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "D",
+    "K": "D",
+    "O": "B",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 38,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "A",
+    "K": "D",
+    "O": "C",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 38,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "C",
+    "K": "D",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 38,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "C",
+    "K": "D",
+    "O": "C",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 38,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "B",
+    "K": "D",
+    "O": "C",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 38,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 38,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "D",
+    "K": "D",
+    "O": "C",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 44,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "D",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 44,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "A",
+    "K": "A",
+    "O": "A",
+    "Con": "A",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 46,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 46,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "C",
+    "K": "B",
+    "O": "D",
+    "Con": "C",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 46,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "D",
+    "K": "B",
+    "O": "D",
+    "Con": "D",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 46,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "A",
+    "K": "B",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 50,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 51,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "B",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "ACUERDO"
+  },
+  {
+    "ID": 51,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "C",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 51,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "A",
+    "K": "B",
+    "O": "B",
+    "Con": "B",
+    "Status": "FALLO APP"
+  },
+  {
+    "ID": 46,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "A",
+    "K": "B",
+    "O": "D",
+    "Con": "A",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 46,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "B",
+    "K": "B",
+    "O": "D",
+    "Con": "B",
+    "Status": "DISPUTA K/O"
+  },
+  {
+    "ID": 56,
+    "Txt": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, a",
+    "App": "D",
+    "K": "D",
+    "O": "D",
+    "Con": "D",
+    "Status": "ACUERDO"
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "id": "adm-prl-atencion-cliente-osaki_1",
+    "questionNum": 1,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, se considera riesgo laboral:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La probabilidad de que se produzca un accidente durante la jornada laboral."
+      },
+      {
+        "value": 2,
+        "text": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier daño producido exclusivamente por un accidente laboral."
+      },
+      {
+        "value": 4,
+        "text": "Toda situación peligrosa detectada en el entorno de trabajo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Art. 4.2 Ley 31/1995 + Manual Informativo Osakidetza: 'Riesgo laboral': LA POSIBILIDAD DE QUE UN TRABAJADOR SUFRA UN DETERMINADO DAÑO DERIVADO DEL TRABAJO. No es solo la probabilidad de accidente durante la jornada (a), ni exclusivamente daños por accidente (c), ni toda situación peligrosa detectada (d). Respuesta B.",
+    "originalId": 162
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_2",
+    "questionNum": 2,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, un accidente de trabajo se define como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cualquier lesión producida durante la jornada laboral."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier daño corporal sufrido por el trabajador fuera del entorno laboral."
+      },
+      {
+        "value": 3,
+        "text": "Todo suceso no deseado ni esperado que puede dar lugar a pérdidas de la salud o lesiones en las personas."
+      },
+      {
+        "value": 4,
+        "text": "Todo suceso inesperado que ocurra en el centro de trabajo."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Todo suceso no deseado ni esperado que puede dar lugar a pérdidas de la salud o lesiones en las personas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo Osakidetza: Un accidente se define como 'todo SUCESO NO DESEADO NI ESPERADO que puede dar lugar a PÉRDIDAS DE LA SALUD O LESIONES en las personas.' Esta definición es más amplia que la legal (que requiere lesión corporal). No requiere que sea durante la jornada (a), ni fuera del entorno laboral (b), ni solo en el centro de trabajo (d). Respuesta C.",
+    "originalId": 163
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_3",
+    "questionNum": 3,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en caso de accidente de trabajo durante la jornada laboral, el trabajador deberá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Notificarlo a la mayor brevedad posible a su responsable inmediato y a la Unidad Básica de Prevención."
+      },
+      {
+        "value": 2,
+        "text": "Notificarlo únicamente a la Unidad Básica de Prevención."
+      },
+      {
+        "value": 3,
+        "text": "Acudir directamente a un centro sanitario sin comunicarlo."
+      },
+      {
+        "value": 4,
+        "text": "Acudir al dia siguiente a la Unidad Básica de Prevención"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Notificarlo a la mayor brevedad posible a su responsable inmediato y a la Unidad Básica de Prevención."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo Osakidetza: En caso de accidente de trabajo, el trabajador deberá notificarlo A LA MAYOR BREVEDAD POSIBLE tanto A SU RESPONSABLE INMEDIATO como A LA UNIDAD BÁSICA DE PREVENCIÓN (UBP). No se notifica solo a la UBP (b), ni se va al sanitario sin comunicar (c), ni se espera al día siguiente (d). Respuesta A.",
+    "originalId": 164
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_4",
+    "questionNum": 4,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en la manipulación manual de cargas se recomienda:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mantener la espalda alineada y realizar el esfuerzo principalmente con la musculatura dorsal."
+      },
+      {
+        "value": 2,
+        "text": "Mantener la espalda recta y flexionar las rodillas durante la elevación de la carga."
+      },
+      {
+        "value": 3,
+        "text": "Mantener la espalda recta y realizar el esfuerzo con el tronco, evitando flexionar las piernas."
+      },
+      {
+        "value": 4,
+        "text": "Mantener la espalda recta y repartir el esfuerzo entre espalda y brazos, reduciendo los desplazamientos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Mantener la espalda recta y flexionar las rodillas durante la elevación de la carga."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo Osakidetza (manipulación manual de cargas): Técnica correcta: MANTENER LA ESPALDA RECTA y FLEXIONAR LAS RODILLAS durante la elevación de la carga. Así se aprovecha la musculatura de piernas (más potente) y se protege la columna. El esfuerzo con musculatura dorsal (a) o con el tronco sin flexionar piernas (c) son técnicas incorrectas. Respuesta B.",
+    "originalId": 165
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_5",
+    "questionNum": 5,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, el personal más expuesto a los riesgos biológicos es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todo el personal del centro sanitario sin distinción."
+      },
+      {
+        "value": 2,
+        "text": "El personal administrativo que trabaja en centros sanitarios."
+      },
+      {
+        "value": 3,
+        "text": "El personal que realiza tareas de limpieza exclusivamente."
+      },
+      {
+        "value": 4,
+        "text": "El personal que presta asistencia directa a enfermos, el personal de laboratorio y el personal que trabaja con animales."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El personal que presta asistencia directa a enfermos, el personal de laboratorio y el personal que trabaja con animales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo Osakidetza (riesgos biológicos): El personal con mayor exposición es: EL PERSONAL QUE PRESTA ASISTENCIA DIRECTA A ENFERMOS, EL PERSONAL DE LABORATORIO y EL PERSONAL QUE TRABAJA CON ANIMALES. No todo el personal por igual (a), ni específicamente el administrativo (b), ni solo el de limpieza (c). Respuesta D.",
+    "originalId": 166
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_6",
+    "questionNum": 6,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en relación con la manipulación de productos químicos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No se recomienda oler directamente los productos químicos, salvo que sea necesario para su correcta identificación."
+      },
+      {
+        "value": 2,
+        "text": "El trasvase de productos químicos podrá realizarse siempre que el nuevo recipiente esté correctamente cerrado."
+      },
+      {
+        "value": 3,
+        "text": "Nunca se debe oler ni probar un producto químico, con independencia de su etiquetado o uso habitual."
+      },
+      {
+        "value": 4,
+        "text": "Es suficiente con conservar los productos químicos en recipientes cerrados para evitar riesgos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Nunca se debe oler ni probar un producto químico, con independencia de su etiquetado o uso habitual."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo Osakidetza (productos químicos): Regla absoluta: 'NUNCA SE DEBE OLER NI PROBAR UN PRODUCTO QUÍMICO, CON INDEPENDENCIA DE SU ETIQUETADO O USO HABITUAL.' La opción a) admite oler para identificar (FALSO — nunca está justificado). La d) dice que basta conservarlos cerrados (FALSO — hay más medidas). Respuesta C.",
+    "originalId": 167
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_7",
+    "questionNum": 7,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, se considera “usuario de PVD”:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El trabajador que supere 4 horas diarias o 20 horas semanales de trabajo efectivo con pantalla"
+      },
+      {
+        "value": 2,
+        "text": "El trabajador que supere 5 horas diarias o 25 horas semanales de trabajo efectivo con pantalla"
+      },
+      {
+        "value": 3,
+        "text": "El trabajador que supere 6 horas diarias o 30 horas semanales de trabajo efectivo con pantalla"
+      },
+      {
+        "value": 4,
+        "text": "El trabajador que supere 7 horas diarias o 35 horas semanales de trabajo efectivo con pantalla"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El trabajador que supere 4 horas diarias o 20 horas semanales de trabajo efectivo con pantalla"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "RD 488/1997 + Manual PVD Osakidetza: Se considera 'usuario de PVD' el trabajador que supere MÁS DE 4 HORAS DIARIAS o MÁS DE 20 HORAS SEMANALES de trabajo efectivo con la pantalla de visualización de datos. Umbrales exactos: 4 horas/día / 20 horas/semana. Respuesta A.",
+    "originalId": 168
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_8",
+    "questionNum": 8,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, uno de los riesgos asociados al uso de pantallas de visualización de datos es la fatiga visual, debida a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La adopción prolongada de posturas forzadas durante el trabajo con pantalla."
+      },
+      {
+        "value": 2,
+        "text": "La ausencia de pausas periódicas en el trabajo continuado con ordenador."
+      },
+      {
+        "value": 3,
+        "text": "La iluminación inadecuada del puesto y la presencia de brillos, reflejos y deslumbramientos en la pantalla."
+      },
+      {
+        "value": 4,
+        "text": "El uso continuado de dispositivos de entrada como el teclado y el ratón."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La iluminación inadecuada del puesto y la presencia de brillos, reflejos y deslumbramientos en la pantalla."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo PVD Osakidetza (fatiga visual): La FATIGA VISUAL se debe específicamente a: LA ILUMINACIÓN INADECUADA DEL PUESTO y LA PRESENCIA DE BRILLOS, REFLEJOS Y DESLUMBRAMIENTOS en la pantalla. Las posturas forzadas (a) causan fatiga musculoesquelética, las pausas (b) son preventivas pero no la causa, y el teclado/ratón (d) causan otra tipología de fatiga. Respuesta C.",
+    "originalId": 169
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_9",
+    "questionNum": 9,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, en relación con las condiciones ambientales del puesto con ordenador, se recomienda:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Colocar la pantalla paralela a las ventanas."
+      },
+      {
+        "value": 2,
+        "text": "Reducir la iluminación general del puesto."
+      },
+      {
+        "value": 3,
+        "text": "Orientar la pantalla perpendicularmente a las ventanas para evitar deslumbramientos."
+      },
+      {
+        "value": 4,
+        "text": "Utilizar exclusivamente iluminación artificial."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Orientar la pantalla perpendicularmente a las ventanas para evitar deslumbramientos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo PVD Osakidetza (condiciones ambientales): Se recomienda ORIENTAR LA PANTALLA PERPENDICULARMENTE A LAS VENTANAS PARA EVITAR DESLUMBRAMIENTOS, de forma que las ventanas queden a los laterales del puesto. La opción a) 'paralela a las ventanas' situaría la ventana directamente frente o detrás del usuario (FALSO). Reducir la iluminación (b) no es correcto. Iluminación exclusivamente artificial (d) tampoco. Respuesta C.",
+    "originalId": 170
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_10",
+    "questionNum": 10,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, en relación con la silla de trabajo, se recomienda que la altura se regule hasta que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los pies queden completamente apoyados en el suelo."
+      },
+      {
+        "value": 2,
+        "text": "La espalda quede completamente apoyada en el respaldo."
+      },
+      {
+        "value": 3,
+        "text": "Las rodillas queden por encima del nivel de la cadera."
+      },
+      {
+        "value": 4,
+        "text": "Apoyando el antebrazo en la mesa se forme un ángulo de 90º."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Apoyando el antebrazo en la mesa se forme un ángulo de 90º."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo PVD Osakidetza (regulación de la silla): La altura de la silla se regula hasta que, APOYANDO EL ANTEBRAZO EN LA MESA, SE FORME UN ÁNGULO DE APROXIMADAMENTE 90°. Esto garantiza que los brazos trabajen en una posición neutra. Los pies deben quedar apoyados (usualmente con reposapiés si es necesario), pero el criterio principal de regulación es el ángulo del codo. Respuesta D.",
+    "originalId": 171
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_11",
+    "questionNum": 11,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, cuando sea necesario atender a personas en un puesto con ordenador, la pantalla deberá colocarse girada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Hasta un máximo de 35º."
+      },
+      {
+        "value": 2,
+        "text": "Hasta un máximo de 45º."
+      },
+      {
+        "value": 3,
+        "text": "Hasta un máximo de 55º."
+      },
+      {
+        "value": 4,
+        "text": "Hasta un máximo de 65º."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Hasta un máximo de 45º."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo PVD Osakidetza (atención a personas): Cuando sea necesario atender a personas en un puesto con ordenador, la pantalla podrá colocarse girada HASTA UN MÁXIMO DE 45°. Este giro permite la interacción sin abandonar el puesto y manteniendo visibilidad de la pantalla. Respuesta B.",
+    "originalId": 172
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_12",
+    "questionNum": 12,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, para prevenir molestias musculoesqueléticas en puestos con ordenador, se recomienda que el teclado y el ratón se coloquen de manera que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Permitan apoyar únicamente las manos sobre la mesa."
+      },
+      {
+        "value": 2,
+        "text": "Permitan el apoyo adecuado de muñecas y/o antebrazos sobre la mesa."
+      },
+      {
+        "value": 3,
+        "text": "Obligan a mantener los brazos en suspensión."
+      },
+      {
+        "value": 4,
+        "text": "Se sitúen lo más alejados posible del borde de la mesa. perpendicularmente a las ventanas para evitar"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Permitan el apoyo adecuado de muñecas y/o antebrazos sobre la mesa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo PVD Osakidetza (teclado y ratón): Para prevenir molestias musculoesqueléticas, el teclado y el ratón se colocarán de manera que PERMITAN EL APOYO ADECUADO DE MUÑECAS Y/O ANTEBRAZOS SOBRE LA MESA. Mantener los brazos en suspensión (c) aumenta la carga muscular estática. Solo apoyar las manos (a) es insuficiente. Respuesta B.",
+    "originalId": 173
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_13",
+    "questionNum": 13,
+    "question": "Según la Carpeta Roja de Prevención, un accidente se considera in itinere cuando, además de producirse en el trayecto domicilio-trabajo o viceversa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El trayecto sea el más corto posible y se realice en horario laboral."
+      },
+      {
+        "value": 2,
+        "text": "El medio de locomoción sea el habitual y el itinerario se considere normal."
+      },
+      {
+        "value": 3,
+        "text": "El accidente ocurra dentro del término municipal del centro de trabajo."
+      },
+      {
+        "value": 4,
+        "text": "El trabajador no haya interrumpido el trayecto por causas justificadas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El medio de locomoción sea el habitual y el itinerario se considere normal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Carpeta Roja de Prevención (accidente in itinere): Para que se considere in itinere, además de producirse en el trayecto domicilio-trabajo o viceversa, el MEDIO DE LOCOMOCIÓN SEA EL HABITUAL y EL ITINERARIO SE CONSIDERE NORMAL (el trayecto habitual, sin desvíos no justificados). Respuesta B.",
+    "originalId": 179
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_14",
+    "questionNum": 14,
+    "question": "Según la Carpeta Roja de Prevención, en caso de pinchazo por aguja u objeto afilado, una de las actuaciones inmediatas del trabajador accidentado es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Limpiar la herida con agua y jabón y cubrirla inmediatamente."
+      },
+      {
+        "value": 2,
+        "text": "Limpiar la herida sin restregar, dejar fluir la sangre durante 2-3 minutos y aplicar antiséptico."
+      },
+      {
+        "value": 3,
+        "text": "Tapar la herida de forma inmediata para evitar sangrado."
+      },
+      {
+        "value": 4,
+        "text": "Acudir directamente a urgencias sin manipular la zona afectada."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Limpiar la herida sin restregar, dejar fluir la sangre durante 2-3 minutos y aplicar antiséptico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Carpeta Roja de Prevención (pinchazo/corte): Actuación inmediata: 1) LIMPIAR LA HERIDA SIN RESTREGAR; 2) DEJAR FLUIR LA SANGRE DURANTE 2-3 MINUTOS (no exprimir); 3) APLICAR ANTISÉPTICO. No se tapa inmediatamente (c) ni se acude a urgencias sin manipular (d). Respuesta B.",
+    "originalId": 182
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_15",
+    "questionNum": 15,
+    "question": "Según la Carpeta Roja de Prevención, en caso de contacto accidental de sangre u otros fluidos biológicos con mucosas, una de las actuaciones inmediatas del trabajador será:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Secar la zona con material estéril y acudir directamente a urgencias."
+      },
+      {
+        "value": 2,
+        "text": "Aplicar jabón antiséptico y evitar el aclarado posterior."
+      },
+      {
+        "value": 3,
+        "text": "Limpiar la zona con antiséptico concentrado y cubrirla inmediatamente."
+      },
+      {
+        "value": 4,
+        "text": "Lavar la zona afectada con agua abundante o suero fisiológico durante varios minutos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Lavar la zona afectada con agua abundante o suero fisiológico durante varios minutos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Carpeta Roja de Prevención (contacto fluidos biológicos con mucosas): Actuación: LAVAR LA ZONA AFECTADA CON AGUA ABUNDANTE O SUERO FISIOLÓGICO DURANTE VARIOS MINUTOS. El arrastre mecánico por irrigación es la medida más efectiva. No se seca sin aclarar (a), ni se aplica jabón sin aclarado (b), ni se usa antiséptico concentrado (c). Respuesta D.",
+    "originalId": 183
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_16",
+    "questionNum": 16,
+    "question": "Según la Carpeta Roja de Prevención, en caso de contacto accidental de sangre u otros fluidos biológicos con piel no intacta, la actuación inmediata del trabajador será:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Limpiar la zona con antiséptico sin aclarado posterior."
+      },
+      {
+        "value": 2,
+        "text": "Lavar la zona afectada con agua y jabón, sin frotar de forma agresiva."
+      },
+      {
+        "value": 3,
+        "text": "Cubrir inmediatamente la zona con un apósito impermeable."
+      },
+      {
+        "value": 4,
+        "text": "Aplicar desinfectante alcohólico y acudir directamente a la Mutua."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Lavar la zona afectada con agua y jabón, sin frotar de forma agresiva."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Carpeta Roja de Prevención (contacto fluidos biológicos con piel no intacta): Actuación: LAVAR LA ZONA AFECTADA CON AGUA Y JABÓN, SIN FROTAR DE FORMA AGRESIVA (para no ampliar la lesión). No se aplica antiséptico sin aclarado (a), ni se cubre inmediatamente sin lavar (c), ni solo desinfectante alcohólico (d). Respuesta B.",
+    "originalId": 184
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_17",
+    "questionNum": 17,
+    "question": "Según la Carpeta Roja de Prevención, un incidente se caracteriza por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Producir siempre lesiones con baja."
+      },
+      {
+        "value": 2,
+        "text": "Producir daños exclusivamente materiales."
+      },
+      {
+        "value": 3,
+        "text": "No producir lesiones ni ocasionar daños materiales o ambientales."
+      },
+      {
+        "value": 4,
+        "text": "No producir lesiones, pero poder ocasionar daños materiales o ambientales."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No producir lesiones, pero poder ocasionar daños materiales o ambientales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Carpeta Roja de Prevención (definición de incidente): Un INCIDENTE es un suceso que NO PRODUCE LESIONES, pero SÍ PUEDE OCASIONAR DAÑOS MATERIALES O AMBIENTALES. Se diferencia del accidente (que produce lesión) y del suceso sin consecuencias. No siempre produce baja (a), no son exclusivamente materiales (b), y sí puede haber daños materiales (c incorrecta). Respuesta D.",
+    "originalId": 193
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_18",
+    "questionNum": 18,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, una medida básica para prevenir caídas al mismo nivel es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mantener limpias y despejadas las zonas de paso."
+      },
+      {
+        "value": 2,
+        "text": "Retirar obstáculos y objetos innecesarios de las zonas de tránsito."
+      },
+      {
+        "value": 3,
+        "text": "Limpiar de forma inmediata los derrames en el suelo."
+      },
+      {
+        "value": 4,
+        "text": "Las respuestas a) b) y c) son correctas"
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las respuestas a) b) y c) son correctas"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Manual Informativo Osakidetza (prevención caídas al mismo nivel): Las medidas básicas son: a) MANTENER LIMPIAS Y DESPEJADAS LAS ZONAS DE PASO; b) RETIRAR OBSTÁCULOS Y OBJETOS INNECESARIOS de las zonas de tránsito; c) LIMPIAR INMEDIATAMENTE LOS DERRAMES EN EL SUELO. Las tres son medidas básicas y complementarias. Respuesta D: a), b) y c) correctas.",
+    "originalId": 197
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_19",
+    "questionNum": 19,
+    "question": "Según la Carpeta Roja de Prevención, en caso de accidente sin lesiones aparentes, el trabajador deberá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Comunicarlo únicamente si se produce baja laboral."
+      },
+      {
+        "value": 2,
+        "text": "Comunicarlo y cumplimentar el parte interno de notificación."
+      },
+      {
+        "value": 3,
+        "text": "Comunicarlo si el responsable valora la necesidad."
+      },
+      {
+        "value": 4,
+        "text": "Comunicarlo y registrar el hecho solo si se trata de una agresión."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Comunicarlo y cumplimentar el parte interno de notificación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Carpeta Roja de Prevención: En caso de accidente SIN LESIONES APARENTES, el trabajador igualmente DEBERÁ COMUNICARLO Y CUMPLIMENTAR EL PARTE INTERNO DE NOTIFICACIÓN. Todo accidente, aunque no produzca lesión visible, debe registrarse para el análisis de las causas y la prevención futura. Respuesta B.",
+    "originalId": 198
+  },
+  {
+    "id": "adm-prl-atencion-cliente-osaki_20",
+    "questionNum": 20,
+    "question": "Según la Carpeta Roja de Prevención, tras una exposición accidental a riesgo biológico, el trabajador deberá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Esperar instrucciones del responsable sin realizar ninguna actuación."
+      },
+      {
+        "value": 2,
+        "text": "Aplicar medidas inmediatas y comunicar el accidente."
+      },
+      {
+        "value": 3,
+        "text": "Cumplimentar únicamente el parte interno."
+      },
+      {
+        "value": 4,
+        "text": "Acudir directamente a urgencias sin comunicarlo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Aplicar medidas inmediatas y comunicar el accidente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-prl-atencion-cliente-osaki",
+    "explanation": "Carpeta Roja de Prevención (protocolo accidente biológico): Ante exposición accidental a riesgo biológico el trabajador debe: 1) APLICAR LAS MEDIDAS INMEDIATAS (lavado, antiséptico según el tipo de exposición) y 2) COMUNICAR EL ACCIDENTE al responsable y cumplimentar el parte interno. No se espera pasivamente (a), ni se cumplimenta solo el parte sin medidas previas (c), ni se acude a urgencias sin comunicar (d). Respuesta B.",
+    "originalId": 200
+  }
+]

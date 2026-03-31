@@ -1,0 +1,298 @@
+[
+  {
+    "id": "comun-t17_1",
+    "questionNum": 1,
+    "question": "¿Cuál es la vigencia temporal del Plan Oncológico Integral de Euskadi (POIE) al que se refiere el documento?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "2024-2028"
+      },
+      {
+        "value": 2,
+        "text": "2025-2030"
+      },
+      {
+        "value": 3,
+        "text": "2023-2027"
+      },
+      {
+        "value": 4,
+        "text": "2020-2025"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "2025-2030"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t17",
+    "explanation": "POIE 2025-2030: La vigencia temporal del Plan Oncológico Integral de Euskadi (POIE) es 2025-2030. Respuesta B.",
+    "originalId": 271
+  },
+  {
+    "id": "comun-t17_2",
+    "questionNum": 2,
+    "question": "Según el Resumen Ejecutivo del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿de qué porcentaje de los fallecimientos en Euskadi fue responsable el cáncer en el año 2023?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "22,3%"
+      },
+      {
+        "value": 2,
+        "text": "Menos del 15%"
+      },
+      {
+        "value": 3,
+        "text": "33,8%"
+      },
+      {
+        "value": 4,
+        "text": "28%"
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "33,8%"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t17",
+    "explanation": "POIE 2025-2030 (Resumen Ejecutivo): El cáncer es responsable del 28% de las muertes en Euskadi, siendo la segunda causa de mortalidad. La C recoge correctamente este porcentaje. Respuesta C.",
+    "originalId": 272
+  },
+  {
+    "id": "comun-t17_3",
+    "questionNum": 3,
+    "question": "Según el Resumen Ejecutivo del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿cuáles fueron las dos localizaciones de cáncer más frecuentes en Euskadi en el periodo 2015-2019, consideradas separadamente por sexo?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cáncer colorrectal y cáncer de pulmón."
+      },
+      {
+        "value": 2,
+        "text": "Cáncer de mama en mujeres y cáncer de próstata en hombres."
+      },
+      {
+        "value": 3,
+        "text": "Cáncer de páncreas y cáncer de pulmón."
+      },
+      {
+        "value": 4,
+        "text": "Leucemia y Linfoma de Hodgkin."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Cáncer de mama en mujeres y cáncer de próstata en hombres."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t17",
+    "explanation": "POIE 2025-2030 Resumen Ejecutivo: Las dos localizaciones más frecuentes en el período 2015-2019 fueron: cáncer de mama en mujeres y cáncer de próstata en hombres. Respuesta B.",
+    "originalId": 273
+  },
+  {
+    "id": "comun-t17_4",
+    "questionNum": 4,
+    "question": "¿Cuál de las siguientes es una de las aspiraciones definidas en la VISIÓN del Plan Oncológico Integral de Euskadi (POIE) 2025-2030?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mejorar la calidad de vida de las personas: de pacientes, supervivientes y de sus familiares y personas cuidadoras."
+      },
+      {
+        "value": 2,
+        "text": "Aumentar la cuota de mercado de Osakidetza en el sector oncológico privado."
+      },
+      {
+        "value": 3,
+        "text": "Garantizar la presencia equilibrada de ambos sexos en los órganos de gestión sanitaria."
+      },
+      {
+        "value": 4,
+        "text": "Establecer la telemedicina como la única forma de seguimiento oncológico."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Mejorar la calidad de vida de las personas: de pacientes, supervivientes y de sus familiares y personas cuidadoras."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t17",
+    "explanation": "POIE 2025-2030: Los cinco ejes o áreas prioritarias del Plan Oncológico son: Prevención y detección precoz, Diagnóstico y tratamiento, Cuidados y calidad de vida, Investigación e innovación, e Información y vigilancia epidemiológica. Respuesta C.",
+    "originalId": 274
+  },
+  {
+    "id": "comun-t17_5",
+    "questionNum": 5,
+    "question": "La Misión del Plan Oncológico Integral de Euskadi (POIE) 2025-2030 busca generar valor a la ciudadanía vasca en términos de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mayor financiación externa para I+D."
+      },
+      {
+        "value": 2,
+        "text": "Menores listas de espera y más personal asistencial."
+      },
+      {
+        "value": 3,
+        "text": "Mejores resultados en salud."
+      },
+      {
+        "value": 4,
+        "text": "Una mayor supervivencia a los 10 años en todos los tumores."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Mejores resultados en salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t17",
+    "explanation": "POIE 2025-2030: El Plan incorpora el enfoque de equidad para garantizar que todos los pacientes oncológicos tengan acceso equitativo a los tratamientos y cuidados, independientemente de su lugar de residencia o situación socioeconómica. Respuesta A.",
+    "originalId": 275
+  },
+  {
+    "id": "comun-t17_6",
+    "questionNum": 6,
+    "question": "Teniendo en cuenta la introducción y el contexto del Plan Oncológico Integral de Euskadi 2025-2030. ¿Cuál fue una de las principales áreas de mejora identificadas en la evaluación del Plan Oncológico de Euskadi (POE) 20182023?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La excesiva visibilidad del plan entre profesionales sin implicación."
+      },
+      {
+        "value": 2,
+        "text": "La necesidad de aumentar el número de Comités de Tumores."
+      },
+      {
+        "value": 3,
+        "text": "La necesidad de reforzar la atención a colectivos específicos (infancia, mayores, personas largas supervivientes)."
+      },
+      {
+        "value": 4,
+        "text": "La ausencia total de un modelo asistencial común."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La necesidad de reforzar la atención a colectivos específicos (infancia, mayores, personas largas supervivientes)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t17",
+    "explanation": "POIE 2025-2030: El Plan contempla la participación de los pacientes oncológicos y sus familias como agentes activos en el diseño y evaluación de los servicios oncológicos. Respuesta B.",
+    "originalId": 277
+  },
+  {
+    "id": "comun-t17_7",
+    "questionNum": 7,
+    "question": "¿Cuántas Áreas Prioritarias de actuación componen el nuevo Plan Oncológico Integral de Euskadi (POIE) 2025-2030, después de la actualización de la estructura?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cinco (5) Áreas Prioritarias."
+      },
+      {
+        "value": 2,
+        "text": "Seis (6) Áreas Prioritarias."
+      },
+      {
+        "value": 3,
+        "text": "Siete (7) Áreas Prioritarias."
+      },
+      {
+        "value": 4,
+        "text": "Ocho (8) Áreas Prioritarias."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Siete (7) Áreas Prioritarias."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t17",
+    "explanation": "POIE 2025-2030: Los programas de cribado (detección precoz) contemplados en el Plan incluyen: cribado de cáncer colorrectal, de cáncer de mama y de cáncer de cérvix. Respuesta C.",
+    "originalId": 278
+  },
+  {
+    "id": "comun-t17_8",
+    "questionNum": 8,
+    "question": "Según el listado de acrónimos del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿a qué hacen referencia las siglas PROMs?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Plan de Resultados Oncológicos y Metodología de Seguimiento."
+      },
+      {
+        "value": 2,
+        "text": "Plan de Riesgos Ocupacionales en Medicina Sanitaria."
+      },
+      {
+        "value": 3,
+        "text": "Programa de Rehabilitación Oncológica y Mejora de la Supervivencia."
+      },
+      {
+        "value": 4,
+        "text": "Medidas de Resultados Reportadas por los y las Pacientes."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Medidas de Resultados Reportadas por los y las Pacientes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t17",
+    "explanation": "POIE 2025-2030 (Listado de acrónimos): 'PROMs' corresponde a 'Patient-Reported Outcome Measures', traducido como 'Medidas de Resultados Reportadas por los y las Pacientes'. Son instrumentos que recogen la perspectiva del paciente sobre los resultados de su tratamiento. Respuesta D.",
+    "originalId": 279
+  }
+]

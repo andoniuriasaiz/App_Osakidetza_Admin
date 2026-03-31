@@ -1,6 +1,6 @@
 [
   {
-    "id": "aux_1",
+    "id": "aux-e01_1",
     "questionNum": 1,
     "question": "Tienen derecho a formar parte de la Comunidad Autónoma del País Vasco:",
     "type": "C",
@@ -37,7 +37,7 @@
     "originalId": 1
   },
   {
-    "id": "aux_2",
+    "id": "aux-e01_2",
     "questionNum": 2,
     "question": "La bandera del País Vasco es:",
     "type": "C",
@@ -74,7 +74,7 @@
     "originalId": 2
   },
   {
-    "id": "aux_3",
+    "id": "aux-e01_3",
     "questionNum": 3,
     "question": "El euskera:",
     "type": "C",
@@ -111,7 +111,7 @@
     "originalId": 3
   },
   {
-    "id": "aux_4",
+    "id": "aux-e01_4",
     "questionNum": 4,
     "question": "Las instituciones comunes de la Comunidad Autónoma, teniendo en cuenta la diversidad socio-lingüística del País Vasco:",
     "type": "C",
@@ -148,7 +148,7 @@
     "originalId": 4
   },
   {
-    "id": "aux_5",
+    "id": "aux-e01_5",
     "questionNum": 5,
     "question": "Por razón de lengua:",
     "type": "C",
@@ -185,7 +185,7 @@
     "originalId": 5
   },
   {
-    "id": "aux_6",
+    "id": "aux-e01_6",
     "questionNum": 6,
     "question": "Tendrán la condición política de vascos:",
     "type": "C",
@@ -222,7 +222,7 @@
     "originalId": 6
   },
   {
-    "id": "aux_7",
+    "id": "aux-e01_7",
     "questionNum": 7,
     "question": "Los residentes en el extranjero, así como sus descendientes, si así lo solicitaren:",
     "type": "C",
@@ -259,7 +259,7 @@
     "originalId": 7
   },
   {
-    "id": "aux_8",
+    "id": "aux-e01_8",
     "questionNum": 8,
     "question": "Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los establecidos en:",
     "type": "C",
@@ -296,7 +296,7 @@
     "originalId": 8
   },
   {
-    "id": "aux_9",
+    "id": "aux-e01_9",
     "questionNum": 9,
     "question": "Los poderes públicos vascos, en el ámbito de su competencia:",
     "type": "C",
@@ -333,7 +333,7 @@
     "originalId": 9
   },
   {
-    "id": "aux_10",
+    "id": "aux-e01_10",
     "questionNum": 10,
     "question": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco, sin perjuicio de las competencias de las Instituciones a que se refiero el artículo 37 del presente Estatuto, el Parlamento Vasco:",
     "type": "C",
@@ -370,7 +370,7 @@
     "originalId": 10
   },
   {
-    "id": "aux_11",
+    "id": "aux-e01_11",
     "questionNum": 11,
     "question": "El Parlamento Vasco estará integrado por:",
     "type": "C",
@@ -407,7 +407,7 @@
     "originalId": 11
   },
   {
-    "id": "aux_12",
+    "id": "aux-e01_12",
     "questionNum": 12,
     "question": "El Parlamento Vasco será elegido por un periodo de:",
     "type": "C",
@@ -444,7 +444,7 @@
     "originalId": 12
   },
   {
-    "id": "aux_13",
+    "id": "aux-e01_13",
     "questionNum": 13,
     "question": "El Parlamento elegirá de entre sus miembros:",
     "type": "C",
@@ -481,7 +481,7 @@
     "originalId": 13
   },
   {
-    "id": "aux_14",
+    "id": "aux-e01_14",
     "questionNum": 14,
     "question": "El Gobierno Vasco es el órgano colegiado que ostenta las funciones:",
     "type": "C",
@@ -518,7 +518,7 @@
     "originalId": 14
   },
   {
-    "id": "aux_15",
+    "id": "aux-e01_15",
     "questionNum": 15,
     "question": "Las atribuciones del Gobierno y su organización, basada en un Presidente y Consejeros, así como el Estatuto de sus miembros, serán regulados por:",
     "type": "C",
@@ -555,7 +555,7 @@
     "originalId": 15
   },
   {
-    "id": "aux_16",
+    "id": "aux-e01_16",
     "questionNum": 16,
     "question": "El Presidente del Gobierno será designado de entre sus miembros:",
     "type": "C",
@@ -592,8 +592,8 @@
     "originalId": 16
   },
   {
-    "id": "aux_17",
-    "questionNum": 17,
+    "id": "aux-e02_1",
+    "questionNum": 1,
     "question": "Según el Decreto 149/2007, de 18 de septiembre, transcurrido el plazo establecido sin recibir comunicación de la petición de una segunda opinión médica, el paciente o quien actúe en su representación o interés lo pondrá en conocimiento del órgano competente del Departamento de Sanidad, quien lo resolverá desde que tuviere entrada esta comunicación en un plazo no superior a:",
     "type": "C",
     "options": [
@@ -629,8 +629,8 @@
     "originalId": 32
   },
   {
-    "id": "aux_18",
-    "questionNum": 18,
+    "id": "aux-e02_2",
+    "questionNum": 2,
     "question": "El parte interno de notificación de accidente/incidente:",
     "type": "C",
     "options": [
@@ -666,8 +666,8 @@
     "originalId": 66
   },
   {
-    "id": "aux_19",
-    "questionNum": 19,
+    "id": "aux-e02_3",
+    "questionNum": 3,
     "question": "La resolución de las reclamaciones de responsabilidad patrimonial que se formulen ante cualquiera de las organizaciones del Ente Público OsakidetzaServicio Vasco de Salud por el funcionamiento de sus servicios, incluidas las resoluciones a reclamaciones de responsabilidad que los interesados dirijan posteriormente a las vías jurisdiccionales civil o laboral, corresponderán a:",
     "type": "C",
     "options": [
@@ -703,8 +703,8 @@
     "originalId": 121
   },
   {
-    "id": "aux_20",
-    "questionNum": 20,
+    "id": "aux-e02_4",
+    "questionNum": 4,
     "question": "Cuando no se encuentre determinada expresamente la forma de publicidad de los actos administrativos que se dicten en el Ente Público Osakidetza-Servicio vasco de salud, de carácter general serán objeto de notificación a través:",
     "type": "C",
     "options": [
@@ -740,8 +740,8 @@
     "originalId": 122
   },
   {
-    "id": "aux_21",
-    "questionNum": 21,
+    "id": "aux-e02_5",
+    "questionNum": 5,
     "question": "Según la Ley 39/2015, la Ley tiene por objeto:",
     "type": "C",
     "options": [
@@ -777,8 +777,8 @@
     "originalId": 135
   },
   {
-    "id": "aux_22",
-    "questionNum": 22,
+    "id": "aux-e02_6",
+    "questionNum": 6,
     "question": "Según la Ley 39/2015, el ámbito subjetivo de aplicación comprende:",
     "type": "C",
     "options": [
@@ -814,8 +814,8 @@
     "originalId": 136
   },
   {
-    "id": "aux_23",
-    "questionNum": 23,
+    "id": "aux-e02_7",
+    "questionNum": 7,
     "question": "Según la Ley 39/2015, tienen capacidad de obrar ante las Administraciones Públicas:",
     "type": "C",
     "options": [
@@ -851,8 +851,8 @@
     "originalId": 137
   },
   {
-    "id": "aux_24",
-    "questionNum": 24,
+    "id": "aux-e02_8",
+    "questionNum": 8,
     "question": "Según la Ley 39/2015, se consideran interesados en un procedimiento administrativo:",
     "type": "C",
     "options": [
@@ -888,8 +888,8 @@
     "originalId": 138
   },
   {
-    "id": "aux_25",
-    "questionNum": 25,
+    "id": "aux-e02_9",
+    "questionNum": 9,
     "question": "Según la Ley 39/2015, en relación con la identificación y firma de los interesados:",
     "type": "C",
     "options": [
@@ -925,8 +925,8 @@
     "originalId": 139
   },
   {
-    "id": "aux_26",
-    "questionNum": 26,
+    "id": "aux-e02_10",
+    "questionNum": 10,
     "question": "Según la Ley 39/2015, cuando varias personas comparezcan en un procedimiento con intereses coincidentes:",
     "type": "C",
     "options": [
@@ -962,8 +962,8 @@
     "originalId": 140
   },
   {
-    "id": "aux_27",
-    "questionNum": 27,
+    "id": "aux-e02_11",
+    "questionNum": 11,
     "question": "Según la Ley 39/2015, la representación podrá acreditarse:",
     "type": "C",
     "options": [
@@ -999,8 +999,8 @@
     "originalId": 141
   },
   {
-    "id": "aux_28",
-    "questionNum": 28,
+    "id": "aux-e02_12",
+    "questionNum": 12,
     "question": "Según la Ley 39/2015, se considerarán interesados en el procedimiento:",
     "type": "C",
     "options": [
@@ -1036,8 +1036,8 @@
     "originalId": 142
   },
   {
-    "id": "aux_29",
-    "questionNum": 29,
+    "id": "aux-e02_13",
+    "questionNum": 13,
     "question": "Según la Ley 39/2015, los menores de edad:",
     "type": "C",
     "options": [
@@ -1073,8 +1073,8 @@
     "originalId": 143
   },
   {
-    "id": "aux_30",
-    "questionNum": 30,
+    "id": "aux-e02_14",
+    "questionNum": 14,
     "question": "Según la Ley 39/2015, en relación con los sistemas de identificación de los interesados:",
     "type": "C",
     "options": [
@@ -1110,8 +1110,8 @@
     "originalId": 144
   },
   {
-    "id": "aux_31",
-    "questionNum": 31,
+    "id": "aux-e02_15",
+    "questionNum": 15,
     "question": "Según la Ley 39/2015, las entidades sin personalidad jurídica:",
     "type": "C",
     "options": [
@@ -1147,8 +1147,8 @@
     "originalId": 145
   },
   {
-    "id": "aux_32",
-    "questionNum": 32,
+    "id": "aux-e02_16",
+    "questionNum": 16,
     "question": "Según la Ley 39/2015, cuando la representación no quede acreditada inicialmente:",
     "type": "C",
     "options": [
@@ -1184,8 +1184,8 @@
     "originalId": 146
   },
   {
-    "id": "aux_33",
-    "questionNum": 33,
+    "id": "aux-e02_17",
+    "questionNum": 17,
     "question": "Según la Ley 39/2015, la firma de los interesados será exigible:",
     "type": "C",
     "options": [
@@ -1221,8 +1221,8 @@
     "originalId": 147
   },
   {
-    "id": "aux_34",
-    "questionNum": 34,
+    "id": "aux-e02_18",
+    "questionNum": 18,
     "question": "Según la Ley 39/2015, en los procedimientos iniciados de oficio, tendrán la condición de interesados:",
     "type": "C",
     "options": [
@@ -1258,8 +1258,8 @@
     "originalId": 148
   },
   {
-    "id": "aux_35",
-    "questionNum": 35,
+    "id": "aux-e02_19",
+    "questionNum": 19,
     "question": "Según la Ley 39/2015, la identificación electrónica del interesado:",
     "type": "C",
     "options": [
@@ -1295,8 +1295,8 @@
     "originalId": 149
   },
   {
-    "id": "aux_36",
-    "questionNum": 36,
+    "id": "aux-e02_20",
+    "questionNum": 20,
     "question": "Según la Ley 39/2015, las personas tienen derecho a relacionarse con las Administraciones Públicas:",
     "type": "C",
     "options": [
@@ -1332,8 +1332,8 @@
     "originalId": 150
   },
   {
-    "id": "aux_37",
-    "questionNum": 37,
+    "id": "aux-e02_21",
+    "questionNum": 21,
     "question": "Según la Ley 39/2015, están obligados a relacionarse electrónicamente con las Administraciones Públicas:",
     "type": "C",
     "options": [
@@ -1369,8 +1369,8 @@
     "originalId": 151
   },
   {
-    "id": "aux_38",
-    "questionNum": 38,
+    "id": "aux-e02_22",
+    "questionNum": 22,
     "question": "Según la Ley 39/2015, el derecho a conocer el estado de tramitación de los procedimientos:",
     "type": "C",
     "options": [
@@ -1406,8 +1406,8 @@
     "originalId": 152
   },
   {
-    "id": "aux_39",
-    "questionNum": 39,
+    "id": "aux-e02_23",
+    "questionNum": 23,
     "question": "Según la Ley 39/2015, la lengua de los procedimientos tramitados por la Administración General del Estado será:",
     "type": "C",
     "options": [
@@ -1443,8 +1443,8 @@
     "originalId": 153
   },
   {
-    "id": "aux_40",
-    "questionNum": 40,
+    "id": "aux-e02_24",
+    "questionNum": 24,
     "question": "Según la Ley 39/2015, los registros electrónicos permitirán:",
     "type": "C",
     "options": [
@@ -1480,8 +1480,8 @@
     "originalId": 154
   },
   {
-    "id": "aux_41",
-    "questionNum": 41,
+    "id": "aux-e02_25",
+    "questionNum": 25,
     "question": "Según la Ley 39/2015, el derecho a ser asistido en el uso de medios electrónicos corresponde:",
     "type": "C",
     "options": [
@@ -1517,8 +1517,8 @@
     "originalId": 155
   },
   {
-    "id": "aux_42",
-    "questionNum": 42,
+    "id": "aux-e02_26",
+    "questionNum": 26,
     "question": "Según la Ley 39/2015, la comparecencia de las personas ante las Administraciones Públicas:",
     "type": "C",
     "options": [
@@ -1554,8 +1554,8 @@
     "originalId": 156
   },
   {
-    "id": "aux_43",
-    "questionNum": 43,
+    "id": "aux-e02_27",
+    "questionNum": 27,
     "question": "Según la Ley 39/2015, las personas en sus relaciones con las Administraciones Públicas deberán:",
     "type": "C",
     "options": [
@@ -1591,8 +1591,8 @@
     "originalId": 157
   },
   {
-    "id": "aux_44",
-    "questionNum": 44,
+    "id": "aux-e02_28",
+    "questionNum": 28,
     "question": "Según la Ley 39/2015, la responsabilidad de la tramitación de los procedimientos corresponde:",
     "type": "C",
     "options": [
@@ -1628,8 +1628,8 @@
     "originalId": 158
   },
   {
-    "id": "aux_45",
-    "questionNum": 45,
+    "id": "aux-e02_29",
+    "questionNum": 29,
     "question": "Según la Ley 39/2015, las Administraciones Públicas están obligadas a dictar resolución expresa:",
     "type": "C",
     "options": [
@@ -1665,8 +1665,8 @@
     "originalId": 159
   },
   {
-    "id": "aux_46",
-    "questionNum": 46,
+    "id": "aux-e02_30",
+    "questionNum": 30,
     "question": "Según la Ley 39/2015, los plazos expresados en días se contarán:",
     "type": "C",
     "options": [
@@ -1702,8 +1702,8 @@
     "originalId": 162
   },
   {
-    "id": "aux_47",
-    "questionNum": 47,
+    "id": "aux-e02_31",
+    "questionNum": 31,
     "question": "Según la Ley 39/2015, cuando un plazo se exprese en días hábiles:",
     "type": "C",
     "options": [
@@ -1739,8 +1739,8 @@
     "originalId": 163
   },
   {
-    "id": "aux_48",
-    "questionNum": 48,
+    "id": "aux-e02_32",
+    "questionNum": 32,
     "question": "Según la Ley 39/2015, cuando el último día de un plazo sea inhábil:",
     "type": "C",
     "options": [
@@ -1776,8 +1776,8 @@
     "originalId": 164
   },
   {
-    "id": "aux_49",
-    "questionNum": 49,
+    "id": "aux-e02_33",
+    "questionNum": 33,
     "question": "Según la Ley 39/2015, los actos administrativos deberán dictarse:",
     "type": "C",
     "options": [
@@ -1813,8 +1813,8 @@
     "originalId": 165
   },
   {
-    "id": "aux_50",
-    "questionNum": 50,
+    "id": "aux-e02_34",
+    "questionNum": 34,
     "question": "Según la Ley 39/2015, los actos administrativos producirán efectos:",
     "type": "C",
     "options": [
@@ -1850,8 +1850,8 @@
     "originalId": 166
   },
   {
-    "id": "aux_51",
-    "questionNum": 51,
+    "id": "aux-e02_35",
+    "questionNum": 35,
     "question": "Según la Ley 39/2015, serán nulos de pleno derecho los actos administrativos que:",
     "type": "C",
     "options": [
@@ -1887,8 +1887,8 @@
     "originalId": 167
   },
   {
-    "id": "aux_52",
-    "questionNum": 52,
+    "id": "aux-e02_36",
+    "questionNum": 36,
     "question": "Según la Ley 39/2015, serán anulables los actos administrativos que:",
     "type": "C",
     "options": [
@@ -1924,8 +1924,8 @@
     "originalId": 168
   },
   {
-    "id": "aux_53",
-    "questionNum": 53,
+    "id": "aux-e02_37",
+    "questionNum": 37,
     "question": "Según la Ley 39/2015, los actos administrativos deberán ser motivados:",
     "type": "C",
     "options": [
@@ -1961,8 +1961,8 @@
     "originalId": 169
   },
   {
-    "id": "aux_54",
-    "questionNum": 54,
+    "id": "aux-e02_38",
+    "questionNum": 38,
     "question": "Según la Ley 39/2015, cuando el acto administrativo carezca de los requisitos formales indispensables:",
     "type": "C",
     "options": [
@@ -1998,8 +1998,8 @@
     "originalId": 170
   },
   {
-    "id": "aux_55",
-    "questionNum": 55,
+    "id": "aux-e02_39",
+    "questionNum": 39,
     "question": "Según la Ley 39/2015, los recursos administrativos se fundamentan en el principio de:",
     "type": "C",
     "options": [
@@ -2035,8 +2035,8 @@
     "originalId": 171
   },
   {
-    "id": "aux_56",
-    "questionNum": 56,
+    "id": "aux-e02_40",
+    "questionNum": 40,
     "question": "Según la Ley 39/2015, contra los actos que no pongan fin a la vía administrativa podrá interponerse:",
     "type": "C",
     "options": [
@@ -2072,8 +2072,8 @@
     "originalId": 172
   },
   {
-    "id": "aux_57",
-    "questionNum": 57,
+    "id": "aux-e02_41",
+    "questionNum": 41,
     "question": "Según la Ley 39/2015, los actos administrativos que incurran en defectos formales:",
     "type": "C",
     "options": [
@@ -2109,8 +2109,8 @@
     "originalId": 189
   },
   {
-    "id": "aux_58",
-    "questionNum": 58,
+    "id": "aux-e02_42",
+    "questionNum": 42,
     "question": "Según la Ley 39/2015, los actos nulos de pleno derecho:",
     "type": "C",
     "options": [
@@ -2146,8 +2146,8 @@
     "originalId": 190
   },
   {
-    "id": "aux_59",
-    "questionNum": 59,
+    "id": "aux-e02_43",
+    "questionNum": 43,
     "question": "Según la Ley 39/2015, los actos administrativos podrán tener efectos retroactivos:",
     "type": "C",
     "options": [
@@ -2183,8 +2183,8 @@
     "originalId": 191
   },
   {
-    "id": "aux_60",
-    "questionNum": 60,
+    "id": "aux-e02_44",
+    "questionNum": 44,
     "question": "Según la Ley 39/2015, los actos anulables podrán ser convalidados:",
     "type": "C",
     "options": [
@@ -2220,8 +2220,8 @@
     "originalId": 192
   },
   {
-    "id": "aux_61",
-    "questionNum": 61,
+    "id": "aux-e02_45",
+    "questionNum": 45,
     "question": "Según la Ley 39/2015, la ampliación de plazos:",
     "type": "C",
     "options": [
@@ -2257,8 +2257,8 @@
     "originalId": 193
   },
   {
-    "id": "aux_62",
-    "questionNum": 62,
+    "id": "aux-e02_46",
+    "questionNum": 46,
     "question": "Según la Ley 39/2015, cuando se acumulen procedimientos:",
     "type": "C",
     "options": [
@@ -2294,8 +2294,8 @@
     "originalId": 194
   },
   {
-    "id": "aux_63",
-    "questionNum": 63,
+    "id": "aux-e02_47",
+    "questionNum": 47,
     "question": "Según la Ley 39/2015, los términos y plazos establecidos en la Ley:",
     "type": "C",
     "options": [
@@ -2331,8 +2331,8 @@
     "originalId": 195
   },
   {
-    "id": "aux_64",
-    "questionNum": 64,
+    "id": "aux-e02_48",
+    "questionNum": 48,
     "question": "Según la Ley 39/2015, cuando una notificación sea rechazada por el interesado:",
     "type": "C",
     "options": [
@@ -2368,8 +2368,8 @@
     "originalId": 196
   },
   {
-    "id": "aux_65",
-    "questionNum": 65,
+    "id": "aux-e02_49",
+    "questionNum": 49,
     "question": "Según la Ley 39/2015, cuando la notificación se practique por medios electrónicos y no sea posible acceder a su contenido:",
     "type": "C",
     "options": [
@@ -2405,8 +2405,8 @@
     "originalId": 197
   },
   {
-    "id": "aux_66",
-    "questionNum": 66,
+    "id": "aux-e02_50",
+    "questionNum": 50,
     "question": "Según la Ley 39/2015, los actos administrativos se presumen:",
     "type": "C",
     "options": [
@@ -2442,8 +2442,8 @@
     "originalId": 199
   },
   {
-    "id": "aux_67",
-    "questionNum": 67,
+    "id": "aux-e03_1",
+    "questionNum": 1,
     "question": "Según la Ley 39/2015, el plazo máximo para resolver y notificar un procedimiento podrá suspenderse cuando:",
     "type": "C",
     "options": [
@@ -2465,10 +2465,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "El interesado solicite la suspensión de forma expresa."
+      "Deban realizarse pruebas técnicas o análisis contradictorios."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2479,8 +2479,8 @@
     "originalId": 160
   },
   {
-    "id": "aux_68",
-    "questionNum": 68,
+    "id": "aux-e03_2",
+    "questionNum": 2,
     "question": "Según la Ley 39/2015, la suspensión del plazo máximo para resolver deberá:",
     "type": "C",
     "options": [
@@ -2516,8 +2516,8 @@
     "originalId": 161
   },
   {
-    "id": "aux_69",
-    "questionNum": 69,
+    "id": "aux-e03_3",
+    "questionNum": 3,
     "question": "Según la Ley 39/2015, el silencio administrativo en procedimientos iniciados a solicitud del interesado tendrá carácter:",
     "type": "C",
     "options": [
@@ -2553,8 +2553,8 @@
     "originalId": 200
   },
   {
-    "id": "aux_70",
-    "questionNum": 70,
+    "id": "aux-e04_1",
+    "questionNum": 1,
     "question": "Las revisiones de oficio de los actos administrativos nulos o anulables, los recursos administrativos extraordinarios y las reclamaciones previas a las vías jurisdiccionales civil y laboral que no comprendan la exigencia de responsabilidad, serán conocidas por:",
     "type": "C",
     "options": [
@@ -2576,22 +2576,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "El Director General o por los Directores-Gerentes de las organizaciones de Osakidetza-Servicio Vasco de Salud."
+      "La Presidencia o por el Director General de Osakidetza-Servicio Vasco de Salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Normativa específica Osakidetza-SVS: Las revisiones de oficio de actos nulos o anulables, los recursos extraordinarios y las reclamaciones previas a vías jurisdiccionales (excepto responsabilidad patrimonial) son conocidas POR EL DIRECTOR GENERAL O POR LOS DIRECTORES-GERENTES de las organizaciones de Osakidetza. Respuesta D.",
+    "explanation": "Normativa específica Osakidetza-SVS: Las revisiones de oficio de actos nulos o anulables, los recursos extraordinarios y las reclamaciones previas a vías jurisdiccionales (excepto responsabilidad patrimonial) corresponden al órgano de mayor rango (Presidencia o DG), no a los Directores-Gerentes. Respuesta A.",
     "originalId": 120
   },
   {
-    "id": "aux_71",
-    "questionNum": 71,
+    "id": "aux-e04_2",
+    "questionNum": 2,
     "question": "Según la Ley 39/2015, el plazo para interponer recurso de alzada será de:",
     "type": "C",
     "options": [
@@ -2627,8 +2627,8 @@
     "originalId": 173
   },
   {
-    "id": "aux_72",
-    "questionNum": 72,
+    "id": "aux-e04_3",
+    "questionNum": 3,
     "question": "Según la Ley 39/2015, el recurso potestativo de reposición se interpone:",
     "type": "C",
     "options": [
@@ -2650,22 +2650,22 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Contra actos que no pongan fin a la vía administrativa."
+      "Contra actos que pongan fin a la vía administrativa."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "explanation": "Art. 123 Ley 39/2015: Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado. Respuesta C.",
     "originalId": 174
   },
   {
-    "id": "aux_73",
-    "questionNum": 73,
+    "id": "aux-e04_4",
+    "questionNum": 4,
     "question": "Según la Ley 39/2015, la interposición del recurso potestativo de reposición:",
     "type": "C",
     "options": [
@@ -2687,10 +2687,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Sustituye al recurso de alzada."
+      "Impide acudir a la vía contencioso-administrativa hasta su resolución."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2701,8 +2701,8 @@
     "originalId": 175
   },
   {
-    "id": "aux_74",
-    "questionNum": 74,
+    "id": "aux-e04_5",
+    "questionNum": 5,
     "question": "Según la Ley 39/2015, el plazo máximo para dictar y notificar resolución en el recurso de alzada será de:",
     "type": "C",
     "options": [
@@ -2738,8 +2738,8 @@
     "originalId": 176
   },
   {
-    "id": "aux_75",
-    "questionNum": 75,
+    "id": "aux-e04_6",
+    "questionNum": 6,
     "question": "Según la Ley 39/2015, transcurrido el plazo para resolver el recurso de alzada sin que recaiga resolución expresa:",
     "type": "C",
     "options": [
@@ -2761,10 +2761,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Se producirá la caducidad del procedimiento."
+      "Se entenderá desestimado por silencio administrativo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2775,8 +2775,8 @@
     "originalId": 177
   },
   {
-    "id": "aux_76",
-    "questionNum": 76,
+    "id": "aux-e04_7",
+    "questionNum": 7,
     "question": "Según la Ley 39/2015, el plazo para interponer recurso potestativo de reposición será de:",
     "type": "C",
     "options": [
@@ -2812,8 +2812,8 @@
     "originalId": 178
   },
   {
-    "id": "aux_77",
-    "questionNum": 77,
+    "id": "aux-e04_8",
+    "questionNum": 8,
     "question": "Según la Ley 39/2015, el plazo máximo para resolver el recurso potestativo de reposición será de:",
     "type": "C",
     "options": [
@@ -2849,8 +2849,8 @@
     "originalId": 179
   },
   {
-    "id": "aux_78",
-    "questionNum": 78,
+    "id": "aux-e04_9",
+    "questionNum": 9,
     "question": "Según la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
     "type": "C",
     "options": [
@@ -2872,22 +2872,22 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Existan errores materiales evidentes."
+      "Aparezcan documentos de valor esencial ignorados al dictarse el acto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión procede cuando aparezcan documentos de valor esencial para la resolución del asunto. Los errores materiales se corrigen de oficio por el cauce de la corrección de errores (Art. 109). Respuesta C.",
     "originalId": 180
   },
   {
-    "id": "aux_79",
-    "questionNum": 79,
+    "id": "aux-e04_10",
+    "questionNum": 10,
     "question": "Según la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
     "type": "C",
     "options": [
@@ -2923,8 +2923,8 @@
     "originalId": 180
   },
   {
-    "id": "aux_80",
-    "questionNum": 80,
+    "id": "aux-e04_11",
+    "questionNum": 11,
     "question": "Según la Ley 39/2015, el plazo para interponer recurso extraordinario de revisión por error de hecho será de:",
     "type": "C",
     "options": [
@@ -2960,8 +2960,8 @@
     "originalId": 182
   },
   {
-    "id": "aux_81",
-    "questionNum": 81,
+    "id": "aux-e04_12",
+    "questionNum": 12,
     "question": "Según la Ley 39/2015, el recurso extraordinario de revisión por aparición de documentos de valor esencial deberá interponerse en el plazo de:",
     "type": "C",
     "options": [
@@ -2997,8 +2997,8 @@
     "originalId": 183
   },
   {
-    "id": "aux_82",
-    "questionNum": 82,
+    "id": "aux-e04_13",
+    "questionNum": 13,
     "question": "Según la Ley 39/2015, contra la resolución del recurso extraordinario de revisión:",
     "type": "C",
     "options": [
@@ -3034,8 +3034,8 @@
     "originalId": 184
   },
   {
-    "id": "aux_83",
-    "questionNum": 83,
+    "id": "aux-e04_14",
+    "questionNum": 14,
     "question": "Según la Ley 39/2015, el recurso extraordinario de revisión se interpondrá ante:",
     "type": "C",
     "options": [
@@ -3071,8 +3071,8 @@
     "originalId": 185
   },
   {
-    "id": "aux_84",
-    "questionNum": 84,
+    "id": "aux-e04_15",
+    "questionNum": 15,
     "question": "Según la Ley 39/2015, será causa de inadmisión de un recurso administrativo:",
     "type": "C",
     "options": [
@@ -3108,8 +3108,8 @@
     "originalId": 186
   },
   {
-    "id": "aux_85",
-    "questionNum": 85,
+    "id": "aux-e04_16",
+    "questionNum": 16,
     "question": "Según la Ley 39/2015, la interposición de un recurso administrativo:",
     "type": "C",
     "options": [
@@ -3145,8 +3145,8 @@
     "originalId": 187
   },
   {
-    "id": "aux_86",
-    "questionNum": 86,
+    "id": "aux-e04_17",
+    "questionNum": 17,
     "question": "Según la Ley 39/2015, la competencia para resolver un recurso de alzada corresponde:",
     "type": "C",
     "options": [
@@ -3182,8 +3182,8 @@
     "originalId": 188
   },
   {
-    "id": "aux_87",
-    "questionNum": 87,
+    "id": "aux-e04_18",
+    "questionNum": 18,
     "question": "Según la Ley 39/2015, la nulidad de pleno derecho podrá declararse:",
     "type": "C",
     "options": [
@@ -3219,8 +3219,8 @@
     "originalId": 198
   },
   {
-    "id": "aux_88",
-    "questionNum": 88,
+    "id": "aux-e05_1",
+    "questionNum": 1,
     "question": "Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que:",
     "type": "C",
     "options": [
@@ -3256,8 +3256,8 @@
     "originalId": 68
   },
   {
-    "id": "aux_89",
-    "questionNum": 89,
+    "id": "aux-e05_2",
+    "questionNum": 2,
     "question": "La Ley 40/2015, en relación a los órganos de las Administraciones Públicas, establece que la competencia es:",
     "type": "C",
     "options": [
@@ -3293,8 +3293,8 @@
     "originalId": 69
   },
   {
-    "id": "aux_90",
-    "questionNum": 90,
+    "id": "aux-e05_3",
+    "questionNum": 3,
     "question": "Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a:",
     "type": "C",
     "options": [
@@ -3330,8 +3330,8 @@
     "originalId": 70
   },
   {
-    "id": "aux_91",
-    "questionNum": 91,
+    "id": "aux-e05_4",
+    "questionNum": 4,
     "question": "Contra un acuerdo de avocación:",
     "type": "C",
     "options": [
@@ -3367,8 +3367,8 @@
     "originalId": 71
   },
   {
-    "id": "aux_92",
-    "questionNum": 92,
+    "id": "aux-e05_5",
+    "questionNum": 5,
     "question": "La encomienda de gestión supone:",
     "type": "C",
     "options": [
@@ -3404,8 +3404,8 @@
     "originalId": 72
   },
   {
-    "id": "aux_93",
-    "questionNum": 93,
+    "id": "aux-e05_6",
+    "questionNum": 6,
     "question": "En cuanto a la delegación de firma:",
     "type": "C",
     "options": [
@@ -3441,8 +3441,8 @@
     "originalId": 73
   },
   {
-    "id": "aux_94",
-    "questionNum": 94,
+    "id": "aux-e05_7",
+    "questionNum": 7,
     "question": "En las resoluciones y actos que se dicten mediante suplencia:",
     "type": "C",
     "options": [
@@ -3478,8 +3478,8 @@
     "originalId": 74
   },
   {
-    "id": "aux_95",
-    "questionNum": 95,
+    "id": "aux-e05_8",
+    "questionNum": 8,
     "question": "Los órganos colegiados tendrán:",
     "type": "C",
     "options": [
@@ -3515,8 +3515,8 @@
     "originalId": 75
   },
   {
-    "id": "aux_96",
-    "questionNum": 96,
+    "id": "aux-e05_9",
+    "questionNum": 9,
     "question": "En las sesiones que celebren los órganos colegiados a distancia, se consideran medios electrónicos:",
     "type": "C",
     "options": [
@@ -3552,8 +3552,8 @@
     "originalId": 76
   },
   {
-    "id": "aux_97",
-    "questionNum": 97,
+    "id": "aux-e05_10",
+    "questionNum": 10,
     "question": "Respecto a las sesiones que celebre el órgano colegiado:",
     "type": "C",
     "options": [
@@ -3589,8 +3589,8 @@
     "originalId": 77
   },
   {
-    "id": "aux_98",
-    "questionNum": 98,
+    "id": "aux-e05_11",
+    "questionNum": 11,
     "question": "Corresponde al Presidente de los órganos colegiados de la Administración General del Estado:",
     "type": "C",
     "options": [
@@ -3626,8 +3626,8 @@
     "originalId": 78
   },
   {
-    "id": "aux_99",
-    "questionNum": 99,
+    "id": "aux-e05_12",
+    "questionNum": 12,
     "question": "Corresponde a los miembros de los órganos colegiados de la Administración General del Estado:",
     "type": "C",
     "options": [
@@ -3663,8 +3663,8 @@
     "originalId": 79
   },
   {
-    "id": "aux_100",
-    "questionNum": 100,
+    "id": "aux-e05_13",
+    "questionNum": 13,
     "question": "A la dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias, se le denomina:",
     "type": "C",
     "options": [
@@ -3700,8 +3700,8 @@
     "originalId": 80
   },
   {
-    "id": "aux_101",
-    "questionNum": 101,
+    "id": "aux-e05_14",
+    "questionNum": 14,
     "question": "Cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de:,responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad einteroperabilidad",
     "type": "C",
     "options": [
@@ -3737,8 +3737,8 @@
     "originalId": 81
   },
   {
-    "id": "aux_102",
-    "questionNum": 102,
+    "id": "aux-e05_15",
+    "questionNum": 15,
     "question": "Las Administraciones Públicas podrán identificarse mediante el uso de:",
     "type": "C",
     "options": [
@@ -3774,8 +3774,8 @@
     "originalId": 82
   },
   {
-    "id": "aux_103",
-    "questionNum": 103,
+    "id": "aux-e06_1",
+    "questionNum": 1,
     "question": "Cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público, se denomina:",
     "type": "C",
     "options": [
@@ -3811,8 +3811,8 @@
     "originalId": 83
   },
   {
-    "id": "aux_104",
-    "questionNum": 104,
+    "id": "aux-e06_2",
+    "questionNum": 2,
     "question": "Tiene por objeto determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas:",
     "type": "C",
     "options": [
@@ -3848,8 +3848,8 @@
     "originalId": 84
   },
   {
-    "id": "aux_105",
-    "questionNum": 105,
+    "id": "aux-e06_3",
+    "questionNum": 3,
     "question": "Entre los fundamentos de acción del Estatuto Básico del Empleado Público se encuentra:",
     "type": "C",
     "options": [
@@ -3885,8 +3885,8 @@
     "originalId": 85
   },
   {
-    "id": "aux_106",
-    "questionNum": 106,
+    "id": "aux-e06_4",
+    "questionNum": 4,
     "question": "Indica el personal que se rige por la legislación estatal que resulte de aplicación, de la que forma parte el Estatuto Básico del Empleado Público, y por la legislación de las comunidades autónomas, con respecto a la autonomía local:",
     "type": "C",
     "options": [
@@ -3922,8 +3922,8 @@
     "originalId": 86
   },
   {
-    "id": "aux_107",
-    "questionNum": 107,
+    "id": "aux-e06_5",
+    "questionNum": 5,
     "question": "Personal al que se aplicarán directamente las disposiciones del Estatuto Básico del Empleado Público cuando así lo disponga su legislación específica:",
     "type": "C",
     "options": [
@@ -3959,8 +3959,8 @@
     "originalId": 87
   },
   {
-    "id": "aux_108",
-    "questionNum": 108,
+    "id": "aux-e06_6",
+    "questionNum": 6,
     "question": "En la aplicación del Estatuto Básico del Empleado Público al personal de investigación:",
     "type": "C",
     "options": [
@@ -3996,8 +3996,8 @@
     "originalId": 88
   },
   {
-    "id": "aux_109",
-    "questionNum": 109,
+    "id": "aux-e06_7",
+    "questionNum": 7,
     "question": "En el desarrollo del Estatuto Básico del Empleado Público, las leyes reguladoras de la Función Pública de la Administración General del Estado serán aprobadas por:",
     "type": "C",
     "options": [
@@ -4033,8 +4033,8 @@
     "originalId": 89
   },
   {
-    "id": "aux_110",
-    "questionNum": 110,
+    "id": "aux-e06_8",
+    "questionNum": 8,
     "question": "El personal laboral al servicio de las Administraciones Públicas, en materia de nacimiento, adopción, del progenitor diferente de la madre biológica, de lactancia y parental, se regirá por:",
     "type": "C",
     "options": [
@@ -4056,22 +4056,22 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "La legislación laboral."
+      "Lo previsto en el Estatuto Básico del Empleado Público."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e06",
-    "explanation": "Art. 51 RDL 5/2015 EBEP: El personal laboral al servicio de las AAPP, en materia de nacimiento, adopción, lactancia y parental, se regirá POR LO PREVISTO EN LA LEGISLACIÓN LABORAL (Estatuto de los Trabajadores). Respuesta B.",
+    "explanation": "Art. 51 RDL 5/2015 EBEP (tras reformas): El personal laboral al servicio de las AAPP se rige, en materia de NACIMIENTO, ADOPCIÓN, PROGENITOR DIFERENTE DE LA MADRE BIOLÓGICA, LACTANCIA Y PARENTAL, por lo previsto en el EBEP para el personal funcionario, garantizando la igualdad en estos derechos. Respuesta A.",
     "originalId": 90
   },
   {
-    "id": "aux_111",
-    "questionNum": 111,
+    "id": "aux-e06_9",
+    "questionNum": 9,
     "question": "El Estatuto Básico del Empleado Público clasifica los empleados públicos del siguiente modo:",
     "type": "C",
     "options": [
@@ -4107,8 +4107,8 @@
     "originalId": 91
   },
   {
-    "id": "aux_112",
-    "questionNum": 112,
+    "id": "aux-e06_10",
+    "questionNum": 10,
     "question": "Al empleado público que, en virtud de nombramiento legal, está vinculado a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente, se le denomina:",
     "type": "C",
     "options": [
@@ -4144,8 +4144,8 @@
     "originalId": 92
   },
   {
-    "id": "aux_113",
-    "questionNum": 113,
+    "id": "aux-e06_11",
+    "questionNum": 11,
     "question": "Entre los principios por los que se rigen los procedimientos de selección del personal funcionario interino está el principio de:",
     "type": "C",
     "options": [
@@ -4181,8 +4181,8 @@
     "originalId": 93
   },
   {
-    "id": "aux_114",
-    "questionNum": 114,
+    "id": "aux-e06_12",
+    "questionNum": 12,
     "question": "Causa por la que la Administración formaliza de oficio la finalización de la relación de la interinidad:",
     "type": "C",
     "options": [
@@ -4218,8 +4218,8 @@
     "originalId": 94
   },
   {
-    "id": "aux_115",
-    "questionNum": 115,
+    "id": "aux-e06_13",
+    "questionNum": 13,
     "question": "El funcionario interino es nombrado como tal con carácter temporal para el desempeño de funciones propias de funcionarios de carrera cuando se da esta circunstancia:",
     "type": "C",
     "options": [
@@ -4255,8 +4255,8 @@
     "originalId": 95
   },
   {
-    "id": "aux_116",
-    "questionNum": 116,
+    "id": "aux-e06_14",
+    "questionNum": 14,
     "question": "Al empleado público que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas, se le denomina:",
     "type": "C",
     "options": [
@@ -4292,8 +4292,8 @@
     "originalId": 96
   },
   {
-    "id": "aux_117",
-    "questionNum": 117,
+    "id": "aux-e06_15",
+    "questionNum": 15,
     "question": "Al empleado público que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin, se le denomina:",
     "type": "C",
     "options": [
@@ -4329,8 +4329,8 @@
     "originalId": 97
   },
   {
-    "id": "aux_118",
-    "questionNum": 118,
+    "id": "aux-e06_16",
+    "questionNum": 16,
     "question": "En relación al personal eventual:",
     "type": "C",
     "options": [
@@ -4366,8 +4366,8 @@
     "originalId": 98
   },
   {
-    "id": "aux_119",
-    "questionNum": 119,
+    "id": "aux-e06_17",
+    "questionNum": 17,
     "question": "Al empleado público que desarrolla funciones directivas profesionales en las Administraciones Públicas, definidas como tales en las normas específicas de cada Administración., se le denomina:",
     "type": "C",
     "options": [
@@ -4403,8 +4403,8 @@
     "originalId": 99
   },
   {
-    "id": "aux_120",
-    "questionNum": 120,
+    "id": "aux-e06_18",
+    "questionNum": 18,
     "question": "La designación del personal directivo atenderá a principios de:",
     "type": "C",
     "options": [
@@ -4440,8 +4440,8 @@
     "originalId": 100
   },
   {
-    "id": "aux_121",
-    "questionNum": 121,
+    "id": "aux-e07_1",
+    "questionNum": 1,
     "question": "Osakidetza-Servicio Vasco de Salud, tiene por finalidad:",
     "type": "C",
     "options": [
@@ -4477,8 +4477,8 @@
     "originalId": 118
   },
   {
-    "id": "aux_122",
-    "questionNum": 122,
+    "id": "aux-e07_2",
+    "questionNum": 2,
     "question": "“Proporcionar a las personas que accedan sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes de carácter instrumental o complementario, promoviendo especialmente la mejora continua de los niveles de información, la personalización en la atención y la calidad de la misma” hace referencia a:",
     "type": "C",
     "options": [
@@ -4514,8 +4514,8 @@
     "originalId": 119
   },
   {
-    "id": "aux_123",
-    "questionNum": 123,
+    "id": "aux-e07_3",
+    "questionNum": 3,
     "question": "Es el órgano rector colegiado del Ente Público Osakidetza-Servicio Vasco de Salud encargado principalmente de dirigir y controlar sus actuaciones.",
     "type": "C",
     "options": [
@@ -4551,8 +4551,8 @@
     "originalId": 123
   },
   {
-    "id": "aux_124",
-    "questionNum": 124,
+    "id": "aux-e07_4",
+    "questionNum": 4,
     "question": "Es una función de la Presidencia del Ente Público Osakidetza-Servicio Vasco de Salud:",
     "type": "C",
     "options": [
@@ -4588,8 +4588,8 @@
     "originalId": 124
   },
   {
-    "id": "aux_125",
-    "questionNum": 125,
+    "id": "aux-e07_5",
+    "questionNum": 5,
     "question": "El Consejo de Administración del Ente Público Osakidetza-Servicio Vasco de Salud, estará compuesto por:",
     "type": "C",
     "options": [
@@ -4625,8 +4625,8 @@
     "originalId": 125
   },
   {
-    "id": "aux_126",
-    "questionNum": 126,
+    "id": "aux-e07_6",
+    "questionNum": 6,
     "question": "El Consejo de Administración del Ente Público Osakidetza-Servicio Vasco de Salud, nombrará entre sus miembros a un Secretario que:",
     "type": "C",
     "options": [
@@ -4662,8 +4662,8 @@
     "originalId": 126
   },
   {
-    "id": "aux_127",
-    "questionNum": 127,
+    "id": "aux-e07_7",
+    "questionNum": 7,
     "question": "La Dirección General del Ente Público Osakidetza-Servicio Vasco de Salud contará con el apoyo de un equipo directivo formado por:",
     "type": "C",
     "options": [
@@ -4699,8 +4699,8 @@
     "originalId": 127
   },
   {
-    "id": "aux_128",
-    "questionNum": 128,
+    "id": "aux-e07_8",
+    "questionNum": 8,
     "question": "El Plan Estratégico del Ente Público Osakidetza-Servicio Vasco de Salud comprenderá, tanto para el conjunto institucional como para cada organización de servicios sanitarios en particular:",
     "type": "C",
     "options": [
@@ -4736,8 +4736,8 @@
     "originalId": 128
   },
   {
-    "id": "aux_129",
-    "questionNum": 129,
+    "id": "aux-e07_9",
+    "questionNum": 9,
     "question": "Según el Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público «Osakidetza-Servicio Vasco de Salud», es materia específica de gestión de recursos humanos:",
     "type": "C",
     "options": [
@@ -4773,8 +4773,8 @@
     "originalId": 129
   },
   {
-    "id": "aux_130",
-    "questionNum": 130,
+    "id": "aux-e07_10",
+    "questionNum": 10,
     "question": "Según el Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público «Osakidetza-Servicio Vasco de Salud», es materia específica de inversiones:",
     "type": "C",
     "options": [
@@ -4810,8 +4810,8 @@
     "originalId": 130
   },
   {
-    "id": "aux_131",
-    "questionNum": 131,
+    "id": "aux-e07_11",
+    "questionNum": 11,
     "question": "Al frente de cada organización de servicios sanitarios del Ente Público Osakidetza-Servicio Vasco de Salud se encontrará un:",
     "type": "C",
     "options": [
@@ -4847,8 +4847,8 @@
     "originalId": 131
   },
   {
-    "id": "aux_132",
-    "questionNum": 132,
+    "id": "aux-e07_12",
+    "questionNum": 12,
     "question": "Con carácter ordinario, a la Dirección Médica le corresponde la siguiente atribución:",
     "type": "C",
     "options": [
@@ -4884,8 +4884,8 @@
     "originalId": 132
   },
   {
-    "id": "aux_133",
-    "questionNum": 133,
+    "id": "aux-e07_13",
+    "questionNum": 13,
     "question": "Los Consejos Técnicos de las organizaciones de servicios del Ente Público Osakidetza-Servicio Vasco de Salud son órganos de:",
     "type": "C",
     "options": [
@@ -4921,8 +4921,8 @@
     "originalId": 133
   },
   {
-    "id": "aux_134",
-    "questionNum": 134,
+    "id": "aux-e07_14",
+    "questionNum": 14,
     "question": "En base al Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público «Osakidetza-Servicio vasco de salud», indica qué organización de servicios NO se corresponde con el ámbito territorial de la Comunidad Autónoma:",
     "type": "C",
     "options": [
@@ -4958,8 +4958,8 @@
     "originalId": 134
   },
   {
-    "id": "aux_135",
-    "questionNum": 135,
+    "id": "aux-e08_1",
+    "questionNum": 1,
     "question": "La Comisión Corporativa de Traslados por Motivos de Salud de Osakidetza tiene como función:",
     "type": "C",
     "options": [
@@ -4995,8 +4995,8 @@
     "originalId": 101
   },
   {
-    "id": "aux_136",
-    "questionNum": 136,
+    "id": "aux-e08_2",
+    "questionNum": 2,
     "question": "Según el Decreto 106/2008 es uno de los requisitos que el personal sin relación de empleo fijo en la administración debe reunir, además de los requisitos generales que establezcan las convocatorias:",
     "type": "C",
     "options": [
@@ -5032,8 +5032,8 @@
     "originalId": 102
   },
   {
-    "id": "aux_137",
-    "questionNum": 137,
+    "id": "aux-e08_3",
+    "questionNum": 3,
     "question": "En relación a la consideración de servicios prestados a efectos de desarrollo profesional:",
     "type": "C",
     "options": [
@@ -5069,8 +5069,8 @@
     "originalId": 103
   },
   {
-    "id": "aux_138",
-    "questionNum": 138,
+    "id": "aux-e08_4",
+    "questionNum": 4,
     "question": "La Comisión paritaria de seguimiento del desarrollo profesional tiene como función:",
     "type": "C",
     "options": [
@@ -5106,8 +5106,8 @@
     "originalId": 104
   },
   {
-    "id": "aux_139",
-    "questionNum": 139,
+    "id": "aux-e08_5",
+    "questionNum": 5,
     "question": "El Decreto 106/2008, de 3 de junio, por el que se aprueba el Acuerdo alcanzado en la Mesa Sectorial de Sanidad, en su reunión del día 14 de marzo de 2008, en materia de conciliación de la vida laboral y familiar, y más concretamente en relación a la licencia por gestación recoge que todo el personal femenino (no sólo el sanitario):",
     "type": "C",
     "options": [
@@ -5143,8 +5143,8 @@
     "originalId": 105
   },
   {
-    "id": "aux_140",
-    "questionNum": 140,
+    "id": "aux-e08_6",
+    "questionNum": 6,
     "question": "En el compromiso de crecimiento de plantilla estructural para el período 20072009 contemplado en el Decreto 106/2008, el mayor incremento de plazas correspondía al grupo profesional de:",
     "type": "C",
     "options": [
@@ -5180,8 +5180,8 @@
     "originalId": 106
   },
   {
-    "id": "aux_141",
-    "questionNum": 141,
+    "id": "aux-e08_7",
+    "questionNum": 7,
     "question": "En relación a la Euskaldunización, el Decreto 106/2008 establece la realización de:",
     "type": "C",
     "options": [
@@ -5217,8 +5217,8 @@
     "originalId": 107
   },
   {
-    "id": "aux_142",
-    "questionNum": 142,
+    "id": "aux-e08_8",
+    "questionNum": 8,
     "question": "El Decreto 106/2008, en relación a las externalizaciones de servicios determina que:",
     "type": "C",
     "options": [
@@ -5254,8 +5254,8 @@
     "originalId": 108
   },
   {
-    "id": "aux_143",
-    "questionNum": 143,
+    "id": "aux-e08_9",
+    "questionNum": 9,
     "question": "Entre los aspectos adicionales al Acuerdo 2007-2009 recogidos en el Decreto 106/2008 se incluye la aprobación en el plazo de seis meses de:",
     "type": "C",
     "options": [
@@ -5291,8 +5291,8 @@
     "originalId": 109
   },
   {
-    "id": "aux_144",
-    "questionNum": 144,
+    "id": "aux-e08_10",
+    "questionNum": 10,
     "question": "En el Decreto 235/2007 quedan expresamente excluidos del ámbito personal de aplicación del Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009:",
     "type": "C",
     "options": [
@@ -5328,8 +5328,8 @@
     "originalId": 110
   },
   {
-    "id": "aux_145",
-    "questionNum": 145,
+    "id": "aux-e08_11",
+    "questionNum": 11,
     "question": "El abono de cantidades a cargo de retribuciones correspondientes a un trabajo no efectuado se considera:",
     "type": "C",
     "options": [
@@ -5365,8 +5365,8 @@
     "originalId": 111
   },
   {
-    "id": "aux_146",
-    "questionNum": 146,
+    "id": "aux-e08_12",
+    "questionNum": 12,
     "question": "Conforme a la jornada anual aprobada mediante Acuerdo de la Mesa General de negociación de la Administración de la Comunidad Autónoma de Euskadi, en el ámbito de Osakidetza para todos los tipos de jornada, excepto la nocturna, las horas de trabajo efectivo anuales a realizar en concepto de jornada ordinaria serán:",
     "type": "C",
     "options": [
@@ -5402,8 +5402,8 @@
     "originalId": 112
   },
   {
-    "id": "aux_147",
-    "questionNum": 147,
+    "id": "aux-e08_13",
+    "questionNum": 13,
     "question": "El personal incluido en el ámbito del Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009, deberá solicitar las licencias mediante escrito dirigido a:",
     "type": "C",
     "options": [
@@ -5439,8 +5439,8 @@
     "originalId": 113
   },
   {
-    "id": "aux_148",
-    "questionNum": 148,
+    "id": "aux-e08_14",
+    "questionNum": 14,
     "question": "Según el Decreto 235/2007 es un motivo para la concesión de permisos:",
     "type": "C",
     "options": [
@@ -5476,8 +5476,8 @@
     "originalId": 114
   },
   {
-    "id": "aux_149",
-    "questionNum": 149,
+    "id": "aux-e08_15",
+    "questionNum": 15,
     "question": "En relación a las licencias para el personal contempladas en el Decreto 235/2007:",
     "type": "C",
     "options": [
@@ -5513,8 +5513,8 @@
     "originalId": 115
   },
   {
-    "id": "aux_150",
-    "questionNum": 150,
+    "id": "aux-e08_16",
+    "questionNum": 16,
     "question": "La licencia por enfermedad grave, hospitalización o fallecimiento de parientes, en el caso de tratarse del cónyuge, compañero/a o hijo/a contiene el siguiente periodo de duración.",
     "type": "C",
     "options": [
@@ -5550,8 +5550,8 @@
     "originalId": 116
   },
   {
-    "id": "aux_151",
-    "questionNum": 151,
+    "id": "aux-e08_17",
+    "questionNum": 17,
     "question": "Es una situación administrativa en la que puede hallarse el personal sujeto al Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
     "type": "C",
     "options": [
@@ -5573,22 +5573,22 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Excedencia por servicios en el sector público."
+      "a) b) y c) son correctas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e08",
-    "explanation": "D.235/2007 (situaciones administrativas): El personal sujeto al Acuerdo puede hallarse en situación de EXCEDENCIA POR SERVICIOS EN EL SECTOR PÚBLICO (c), que es una situación administrativa reconocida. La 'libre designación' (a) es un sistema de provisión, no una situación. Respuesta C.",
+    "explanation": "Acuerdo Osakidetza 2007-2009: El personal sujeto al Acuerdo puede hallarse en diversas situaciones administrativas, incluyendo libre designación, expectativa de destino y excedencia por servicios en el sector público. Todas las opciones mencionadas son situaciones contempladas. Respuesta D.",
     "originalId": 117
   },
   {
-    "id": "aux_152",
-    "questionNum": 152,
+    "id": "aux-e11_1",
+    "questionNum": 1,
     "question": "Según el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opinión médica en el ámbito del Sistema Sanitario de Euskadi:",
     "type": "C",
     "options": [
@@ -5624,8 +5624,8 @@
     "originalId": 17
   },
   {
-    "id": "aux_153",
-    "questionNum": 153,
+    "id": "aux-e11_2",
+    "questionNum": 2,
     "question": "El derecho a la segunda opinión médica tiene como finalidad contrastar:",
     "type": "C",
     "options": [
@@ -5661,8 +5661,8 @@
     "originalId": 18
   },
   {
-    "id": "aux_154",
-    "questionNum": 154,
+    "id": "aux-e11_3",
+    "questionNum": 3,
     "question": "Según el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opinión médica en los siguientes procesos:",
     "type": "C",
     "options": [
@@ -5698,8 +5698,8 @@
     "originalId": 19
   },
   {
-    "id": "aux_155",
-    "questionNum": 155,
+    "id": "aux-e11_4",
+    "questionNum": 4,
     "question": "Según el Decreto 149/2007, de 18 de septiembre, podrán solicitar la segunda opinión médica:",
     "type": "C",
     "options": [
@@ -5735,8 +5735,8 @@
     "originalId": 20
   },
   {
-    "id": "aux_156",
-    "questionNum": 156,
+    "id": "aux-e11_5",
+    "questionNum": 5,
     "question": "La segunda opinión médica será realizada por:",
     "type": "C",
     "options": [
@@ -5772,8 +5772,8 @@
     "originalId": 21
   },
   {
-    "id": "aux_157",
-    "questionNum": 157,
+    "id": "aux-e11_6",
+    "questionNum": 6,
     "question": "Preferentemente, el centro en el que se realizará la evaluación que requiera el ejercicio del derecho a la segunda opinión médica será aquel:",
     "type": "C",
     "options": [
@@ -5809,8 +5809,8 @@
     "originalId": 22
   },
   {
-    "id": "aux_158",
-    "questionNum": 158,
+    "id": "aux-e11_7",
+    "questionNum": 7,
     "question": "Cuando así sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, se podrá obtener una segunda opinión médica en centros concertados o centros sanitarios integrados en el sistema sanitario público de otra Comunidad Autónoma:",
     "type": "C",
     "options": [
@@ -5846,8 +5846,8 @@
     "originalId": 23
   },
   {
-    "id": "aux_159",
-    "questionNum": 159,
+    "id": "aux-e11_8",
+    "questionNum": 8,
     "question": "Según el Decreto 149/2007, de 18 de septiembre la segunda opinión médica se fundamentará:",
     "type": "C",
     "options": [
@@ -5883,8 +5883,8 @@
     "originalId": 24
   },
   {
-    "id": "aux_160",
-    "questionNum": 160,
+    "id": "aux-e11_9",
+    "questionNum": 9,
     "question": "Según el Decreto 149/2007, de 18 de septiembre, por Osakidetza-Servicio vasco de salud se adoptarán las medidas necesarias:",
     "type": "C",
     "options": [
@@ -5920,8 +5920,8 @@
     "originalId": 25
   },
   {
-    "id": "aux_161",
-    "questionNum": 161,
+    "id": "aux-e11_10",
+    "questionNum": 10,
     "question": "La solicitud de una segunda opinión médica podrá presentarse:",
     "type": "C",
     "options": [
@@ -5957,8 +5957,8 @@
     "originalId": 27
   },
   {
-    "id": "aux_162",
-    "questionNum": 162,
+    "id": "aux-e11_11",
+    "questionNum": 11,
     "question": "La solicitud, que contendrá una exposición de las circunstancias que dan lugar a la petición de una segunda opinión médica, será tramitada:",
     "type": "C",
     "options": [
@@ -5994,8 +5994,8 @@
     "originalId": 28
   },
   {
-    "id": "aux_163",
-    "questionNum": 163,
+    "id": "aux-e11_12",
+    "questionNum": 12,
     "question": "En el centro sanitario de origen, el Servicio de Atención al Paciente-Usuario informará de la solicitud de una segunda opinión médica:",
     "type": "C",
     "options": [
@@ -6031,8 +6031,8 @@
     "originalId": 29
   },
   {
-    "id": "aux_164",
-    "questionNum": 164,
+    "id": "aux-e11_13",
+    "questionNum": 13,
     "question": "El Servicio de Atención al Paciente-Usuario, si hubiere derecho a ello, concertará la fecha, hora y servicio médico que atenderá la petición de segunda opinión desde que tuviere entrada la solicitud en el registro correspondiente, en el plazo de:",
     "type": "C",
     "options": [
@@ -6054,22 +6054,22 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "15 días hábiles."
+      "10 días hábiles."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "D.149/2007 Art. 7: El Servicio de Atención al Paciente-Usuario concertará la cita desde la entrada de la solicitud en el plazo de QUINCE DÍAS HÁBILES. Respuesta C.",
+    "explanation": "Decreto de segunda opinión médica en Euskadi: El Servicio de Atención al Paciente-Usuario, si hubiere derecho a ello, concertará la cita en el plazo de DIEZ DÍAS HÁBILES desde la entrada de la solicitud. Respuesta B.",
     "originalId": 30
   },
   {
-    "id": "aux_165",
-    "questionNum": 165,
+    "id": "aux-e11_14",
+    "questionNum": 14,
     "question": "Según el Decreto 149/2007, de 18 de septiembre, en el caso de que no se considere adecuada una segunda opinión médica, conforme los criterios que establece el presente Decreto:",
     "type": "C",
     "options": [
@@ -6105,8 +6105,8 @@
     "originalId": 31
   },
   {
-    "id": "aux_166",
-    "questionNum": 166,
+    "id": "aux-e11_15",
+    "questionNum": 15,
     "question": "Una vez obtenida la segunda opinión médica si el segundo diagnóstico es confirmatorio del primero, la atención sanitaria se llevará a cabo:",
     "type": "C",
     "options": [
@@ -6128,22 +6128,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Todas las anteriores respuestas son correctas."
+      "En el centro sanitario de origen."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "Art. 10 Decreto 149/2007: Si el segundo diagnóstico no confirma el primero (discrepancia), corresponde igualmente al paciente tomar la decisión sobre el tratamiento a seguir, ejerciendo su autonomía. Respuesta D.",
+    "explanation": "Decreto 149/2007: Si el segundo diagnóstico es confirmatorio del primero, la atención sanitaria continúa realizándose en el centro sanitario de origen, ya que se ratifica la decisión clínica inicial. Respuesta C.",
     "originalId": 33
   },
   {
-    "id": "aux_167",
-    "questionNum": 167,
+    "id": "aux-e11_16",
+    "questionNum": 16,
     "question": "Una vez obtenida la segunda opinión médica si el segundo diagnóstico no es confirmatorio del primero, la atención sanitaria se llevará a cabo:",
     "type": "C",
     "options": [
@@ -6165,22 +6165,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Todas las anteriores respuestas son correctas."
+      "En cualquier centro sanitario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "Art. 10 Decreto 149/2007: Si el segundo diagnóstico no confirma el primero (discrepancia), corresponde igualmente al paciente tomar la decisión sobre el tratamiento a seguir, ejerciendo su autonomía. Respuesta D.",
+    "explanation": "Decreto 149/2007: Si el segundo diagnóstico NO es confirmatorio del primero, el paciente no queda vinculado a ninguno de los dos centros, teniendo libertad de elección para continuar su atención en cualquier centro sanitario conforme a su autonomía. Respuesta B.",
     "originalId": 34
   },
   {
-    "id": "aux_168",
-    "questionNum": 168,
+    "id": "aux-e11_17",
+    "questionNum": 17,
     "question": "La obtención de una segunda opinión médica:",
     "type": "C",
     "options": [
@@ -6216,8 +6216,8 @@
     "originalId": 35
   },
   {
-    "id": "aux_169",
-    "questionNum": 169,
+    "id": "aux-e12_1",
+    "questionNum": 1,
     "question": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales tiene por objeto:",
     "type": "C",
     "options": [
@@ -6253,8 +6253,8 @@
     "originalId": 36
   },
   {
-    "id": "aux_170",
-    "questionNum": 170,
+    "id": "aux-e12_2",
+    "questionNum": 2,
     "question": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales, NO será de aplicación por sus particularidades en el ámbito de las funciones públicas las actividades:",
     "type": "C",
     "options": [
@@ -6290,8 +6290,8 @@
     "originalId": 37
   },
   {
-    "id": "aux_171",
-    "questionNum": 171,
+    "id": "aux-e12_3",
+    "questionNum": 3,
     "question": "Se entenderá por “prevención”:",
     "type": "C",
     "options": [
@@ -6327,8 +6327,8 @@
     "originalId": 38
   },
   {
-    "id": "aux_172",
-    "questionNum": 172,
+    "id": "aux-e12_4",
+    "questionNum": 4,
     "question": "Se entenderá como “riesgo laboral”:",
     "type": "C",
     "options": [
@@ -6364,8 +6364,8 @@
     "originalId": 39
   },
   {
-    "id": "aux_173",
-    "questionNum": 173,
+    "id": "aux-e12_5",
+    "questionNum": 5,
     "question": "Se considerarán como “daños derivados del trabajo”:",
     "type": "C",
     "options": [
@@ -6401,8 +6401,8 @@
     "originalId": 40
   },
   {
-    "id": "aux_174",
-    "questionNum": 174,
+    "id": "aux-e12_6",
+    "questionNum": 6,
     "question": "Se entenderá como “riesgo laboral grave e inminente”:",
     "type": "C",
     "options": [
@@ -6424,10 +6424,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato."
+      "a) y b) son correctas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -6438,8 +6438,8 @@
     "originalId": 41
   },
   {
-    "id": "aux_175",
-    "questionNum": 175,
+    "id": "aux-e12_7",
+    "questionNum": 7,
     "question": "Se considerarán como procesos, actividades, operaciones, equipos o productos “potencialmente peligrosos”:",
     "type": "C",
     "options": [
@@ -6475,8 +6475,8 @@
     "originalId": 42
   },
   {
-    "id": "aux_176",
-    "questionNum": 176,
+    "id": "aux-e12_8",
+    "questionNum": 8,
     "question": "Se entenderá como “condición de trabajo”:",
     "type": "C",
     "options": [
@@ -6512,8 +6512,8 @@
     "originalId": 44
   },
   {
-    "id": "aux_177",
-    "questionNum": 177,
+    "id": "aux-e12_9",
+    "questionNum": 9,
     "question": "La política en materia de prevención tendrá por objeto:",
     "type": "C",
     "options": [
@@ -6549,8 +6549,8 @@
     "originalId": 46
   },
   {
-    "id": "aux_178",
-    "questionNum": 178,
+    "id": "aux-e12_10",
+    "questionNum": 10,
     "question": "La elaboración de la política preventiva se llevará a cabo con la participación de:",
     "type": "C",
     "options": [
@@ -6586,8 +6586,8 @@
     "originalId": 47
   },
   {
-    "id": "aux_179",
-    "questionNum": 179,
+    "id": "aux-e12_11",
+    "questionNum": 11,
     "question": "Las Administraciones públicas en materia preventiva promoverán:",
     "type": "C",
     "options": [
@@ -6623,8 +6623,8 @@
     "originalId": 48
   },
   {
-    "id": "aux_180",
-    "questionNum": 180,
+    "id": "aux-e12_12",
+    "questionNum": 12,
     "question": "La política en materia de prevención de riesgos laborales deberá promover:",
     "type": "C",
     "options": [
@@ -6660,8 +6660,8 @@
     "originalId": 49
   },
   {
-    "id": "aux_181",
-    "questionNum": 181,
+    "id": "aux-e12_13",
+    "questionNum": 13,
     "question": "El Gobierno, a través de las correspondientes normas reglamentarias y previa consulta a las organizaciones sindicales y empresariales más representativas, regulará:",
     "type": "C",
     "options": [
@@ -6697,8 +6697,8 @@
     "originalId": 50
   },
   {
-    "id": "aux_182",
-    "questionNum": 182,
+    "id": "aux-e12_14",
+    "questionNum": 14,
     "question": "Las Administraciones públicas competentes en materia laboral:",
     "type": "C",
     "options": [
@@ -6734,8 +6734,8 @@
     "originalId": 51
   },
   {
-    "id": "aux_183",
-    "questionNum": 183,
+    "id": "aux-e12_15",
+    "questionNum": 15,
     "question": "El Instituto Nacional de Seguridad e Higiene en el Trabajo tiene como misión:",
     "type": "C",
     "options": [
@@ -6771,8 +6771,8 @@
     "originalId": 52
   },
   {
-    "id": "aux_184",
-    "questionNum": 184,
+    "id": "aux-e12_16",
+    "questionNum": 16,
     "question": "El Instituto Nacional de Seguridad e Higiene en el Trabajo cumpliendo su misión, tendrá las siguientes funciones:",
     "type": "C",
     "options": [
@@ -6808,8 +6808,8 @@
     "originalId": 53
   },
   {
-    "id": "aux_185",
-    "questionNum": 185,
+    "id": "aux-e12_17",
+    "questionNum": 17,
     "question": "El Instituto Nacional de Seguridad e Higiene en el Trabajo, en el marco de sus funciones:",
     "type": "C",
     "options": [
@@ -6845,8 +6845,8 @@
     "originalId": 54
   },
   {
-    "id": "aux_186",
-    "questionNum": 186,
+    "id": "aux-e12_18",
+    "questionNum": 18,
     "question": "En relación con las Instituciones de la Unión Europea, el Instituto Nacional de Seguridad e Higiene en el Trabajo:",
     "type": "C",
     "options": [
@@ -6882,8 +6882,8 @@
     "originalId": 55
   },
   {
-    "id": "aux_187",
-    "questionNum": 187,
+    "id": "aux-e12_19",
+    "questionNum": 19,
     "question": "Corresponde a la Inspección de Trabajo y Seguridad Social:",
     "type": "C",
     "options": [
@@ -6919,8 +6919,8 @@
     "originalId": 56
   },
   {
-    "id": "aux_188",
-    "questionNum": 188,
+    "id": "aux-e12_20",
+    "questionNum": 20,
     "question": "La Inspección de Trabajo y Seguridad Social NO tendrá entre sus funciones:",
     "type": "C",
     "options": [
@@ -6956,8 +6956,8 @@
     "originalId": 57
   },
   {
-    "id": "aux_189",
-    "questionNum": 189,
+    "id": "aux-e12_21",
+    "questionNum": 21,
     "question": "Corresponderá a las Administraciones públicas competentes en materia sanitaria referente a la salud laboral:",
     "type": "C",
     "options": [
@@ -6993,8 +6993,8 @@
     "originalId": 58
   },
   {
-    "id": "aux_190",
-    "questionNum": 190,
+    "id": "aux-e12_22",
+    "questionNum": 22,
     "question": "La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por:",
     "type": "C",
     "options": [
@@ -7016,22 +7016,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Cinco representantes de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas."
+      "Un representante de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e12",
-    "explanation": "Art. 13 Ley 31/1995: La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por representantes de la Administración General del Estado (un representante por cada uno de los Ministerios con competencias en la materia), un representante de cada una de las CCAA, y representantes de las organizaciones empresariales y sindicales más representativas. Respuesta D.",
+    "explanation": "Art. 13 Ley 31/1995: La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por UN REPRESENTANTE DE CADA UNA DE LAS CCAA, por igual número de miembros de la AGE, y paritariamente por representantes de las organizaciones empresariales y sindicales más representativas. Respuesta C.",
     "originalId": 59
   },
   {
-    "id": "aux_191",
-    "questionNum": 191,
+    "id": "aux-e12_23",
+    "questionNum": 23,
     "question": "La Comisión Nacional de Seguridad y Salud en el Trabajo adoptará sus acuerdos:",
     "type": "C",
     "options": [
@@ -7067,8 +7067,8 @@
     "originalId": 60
   },
   {
-    "id": "aux_192",
-    "questionNum": 192,
+    "id": "aux-e13_1",
+    "questionNum": 1,
     "question": "Se entenderá como “equipo de trabajo”:",
     "type": "C",
     "options": [
@@ -7104,8 +7104,8 @@
     "originalId": 43
   },
   {
-    "id": "aux_193",
-    "questionNum": 193,
+    "id": "aux-e13_2",
+    "questionNum": 2,
     "question": "Se entenderá por “equipo de protección individual”:",
     "type": "C",
     "options": [
@@ -7141,8 +7141,8 @@
     "originalId": 45
   },
   {
-    "id": "aux_194",
-    "questionNum": 194,
+    "id": "aux-e13_3",
+    "questionNum": 3,
     "question": "Desde el punto de vista legal accidente de trabajo es:",
     "type": "C",
     "options": [
@@ -7178,8 +7178,8 @@
     "originalId": 61
   },
   {
-    "id": "aux_195",
-    "questionNum": 195,
+    "id": "aux-e13_4",
+    "questionNum": 4,
     "question": "Los accidentes de trabajo en función de las lesiones producidas al trabajador se clasifican en:",
     "type": "C",
     "options": [
@@ -7215,8 +7215,8 @@
     "originalId": 62
   },
   {
-    "id": "aux_196",
-    "questionNum": 196,
+    "id": "aux-e13_5",
+    "questionNum": 5,
     "question": "Indica cuál de las definiciones NO es correcta:",
     "type": "C",
     "options": [
@@ -7252,8 +7252,8 @@
     "originalId": 63
   },
   {
-    "id": "aux_197",
-    "questionNum": 197,
+    "id": "aux-e13_6",
+    "questionNum": 6,
     "question": "Indica cuando NO se considera accidente in-itinere:",
     "type": "C",
     "options": [
@@ -7289,8 +7289,8 @@
     "originalId": 64
   },
   {
-    "id": "aux_198",
-    "questionNum": 198,
+    "id": "aux-e13_7",
+    "questionNum": 7,
     "question": "Si a un trabajador le ha ocurrido un accidente, un incidente o una agresión o es testigo de alguno de ellos:",
     "type": "C",
     "options": [
@@ -7326,8 +7326,8 @@
     "originalId": 65
   },
   {
-    "id": "aux_199",
-    "questionNum": 199,
+    "id": "aux-e13_8",
+    "questionNum": 8,
     "question": "Ante una agresión, la actuación inmediata del trabajador será:",
     "type": "C",
     "options": [

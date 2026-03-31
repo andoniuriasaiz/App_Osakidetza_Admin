@@ -1,0 +1,742 @@
+[
+  {
+    "id": "comun-t13_1",
+    "questionNum": 1,
+    "question": "Según el análisis del contexto social del documento de Diagnóstico del Pacto Vasco de Salud de Euskadi, ¿qué factor se identifica como un motor clave para que la ciudadanía del siglo XXI demande un papel más activo en su salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El incremento exclusivo de la esperanza de vida al nacer."
+      },
+      {
+        "value": 2,
+        "text": "El acceso generalizado a la información y un mayor nivel educativo en la CAPV."
+      },
+      {
+        "value": 3,
+        "text": "La reducción drástica de las listas de espera en consultas externas."
+      },
+      {
+        "value": 4,
+        "text": "La implementación de la receta electrónica en todas las farmacias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El acceso generalizado a la información y un mayor nivel educativo en la CAPV."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: El acceso generalizado a la información y un mayor nivel educativo en la CAPV se identifican como factores que llevan a la ciudadanía a demandar un papel más activo en su salud y en las decisiones que les afectan. Respuesta B.",
+    "originalId": 211
+  },
+  {
+    "id": "comun-t13_2",
+    "questionNum": 2,
+    "question": "El documento de Diagnóstico del Pacto Vasco de Salud de Euskadi señala que los flujos migratorios actuales en Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No tienen impacto relevante en el perfil epidemiológico de la comunidad."
+      },
+      {
+        "value": 2,
+        "text": "Revelan patologías anteriormente poco conocidas en nuestro entorno, pero prevalentes en otras latitudes."
+      },
+      {
+        "value": 3,
+        "text": "Se limitan exclusivamente a personas en edad laboral con excelente estado de salud inicial."
+      },
+      {
+        "value": 4,
+        "text": "Han provocado la saturación irreversible de los servicios de urgencias hospitalarias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Revelan patologías anteriormente poco conocidas en nuestro entorno, pero prevalentes en otras latitudes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: Los flujos migratorios 'revelan patologías anteriormente poco conocidas en nuestro entorno, pero prevalentes en otras latitudes', lo que supone un reto para el sistema sanitario. Respuesta B.",
+    "originalId": 212
+  },
+  {
+    "id": "comun-t13_3",
+    "questionNum": 3,
+    "question": "¿Cuál es uno de los principales desafíos identificados en el documento de Diagnóstico del Pacto Vasco de Salud de Euskadi respecto a la formación y relevo del personal sanitario?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La excesiva oferta de plazas MIR en todas las especialidades médicas."
+      },
+      {
+        "value": 2,
+        "text": "La falta de interés de las nuevas generaciones por las profesiones biosanitarias."
+      },
+      {
+        "value": 3,
+        "text": "La necesidad de planificar el relevo ante la jubilación de cohortes numerosas de profesionales."
+      },
+      {
+        "value": 4,
+        "text": "La prohibición de la formación continua dentro del horario laboral."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La necesidad de planificar el relevo ante la jubilación de cohortes numerosas de profesionales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: Uno de los principales desafíos es 'la necesidad de planificar el relevo ante la jubilación de cohortes numerosas de profesionales', especialmente en especialidades con mayor demanda. Respuesta C.",
+    "originalId": 213
+  },
+  {
+    "id": "comun-t13_4",
+    "questionNum": 4,
+    "question": "Sobre el impacto del cambio global y climático, el documento de Diagnóstico del Pacto Vasco de Salud de Euskadi advierte de la aparición de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Patologías ligadas exclusivamente al consumo de alimentos ultraprocesados."
+      },
+      {
+        "value": 2,
+        "text": "Nuevos vectores y virus anteriormente inexistentes en nuestro entorno, como el virus del Nilo."
+      },
+      {
+        "value": 3,
+        "text": "Una disminución natural de las enfermedades respiratorias debido al aumento de temperaturas."
+      },
+      {
+        "value": 4,
+        "text": "La erradicación total de las enfermedades infecciosas estacionales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Nuevos vectores y virus anteriormente inexistentes en nuestro entorno, como el virus del Nilo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: El Pacto Vasco de Salud es un acuerdo de consenso político y social que establece las bases para el desarrollo del sistema sanitario vasco con una visión compartida a largo plazo. Respuesta A.",
+    "originalId": 214
+  },
+  {
+    "id": "comun-t13_5",
+    "questionNum": 5,
+    "question": "El documento de Diagnóstico del Pacto Vasco de Salud de Euskadi propone que los indicadores sanitarios para evaluar el sistema deben:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Basarse exclusivamente en mediciones de actividad (número de consultas y cirugías)."
+      },
+      {
+        "value": 2,
+        "text": "Ser confidenciales y accesibles únicamente para la alta dirección del Departamento de Salud."
+      },
+      {
+        "value": 3,
+        "text": "Ignorar la perspectiva de género para simplificar la toma de datos estadísticos."
+      },
+      {
+        "value": 4,
+        "text": "Reflejar resultados en salud y sostenibilidad, y no solo volumen de actividad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Reflejar resultados en salud y sostenibilidad, y no solo volumen de actividad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: Los tres pilares o ámbitos principales del Pacto son: la ciudadanía y su salud, el sistema sanitario y los determinantes de la salud. La financiación es un elemento instrumental, no un pilar por sí solo. Respuesta D.",
+    "originalId": 215
+  },
+  {
+    "id": "comun-t13_6",
+    "questionNum": 6,
+    "question": "¿Cuál es la finalidad principal de los Valores Fundamentales del Pacto Vasco de Salud, según el Libro de Valores y principios?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ser la base para la elaboración del futuro Plan Estratégico de Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "Establecer la estructura financiera y la autonomía de gestión del sistema de salud."
+      },
+      {
+        "value": 3,
+        "text": "Ser el fundamento ético y social que soporta la actividad del Sistema Público de Salud de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "Garantizar la cobertura universal únicamente a la ciudadanía vasca empadronada."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ser el fundamento ético y social que soporta la actividad del Sistema Público de Salud de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: La Atención Primaria es el primer nivel de contacto de la ciudadanía con el sistema de salud y el eje vertebrador del sistema. El Pacto refuerza su papel central y la necesidad de fortalecerla. Respuesta B.",
+    "originalId": 216
+  },
+  {
+    "id": "comun-t13_7",
+    "questionNum": 7,
+    "question": "¿Cuál de los siguientes es un Valor Fundamental explícito del Pacto Vasco de Salud, además de la Universalidad y la Equidad?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Sostenibilidad del sistema."
+      },
+      {
+        "value": 2,
+        "text": "La Eficiencia en el gasto."
+      },
+      {
+        "value": 3,
+        "text": "La Corresponsabilidad."
+      },
+      {
+        "value": 4,
+        "text": "El Plurilingüismo como eje central de la atención."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Corresponsabilidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: La cronicidad y el envejecimiento de la población son los principales retos identificados en el diagnóstico, junto con la necesidad de sostenibilidad del sistema y la coordinación sociosanitaria. Respuesta C.",
+    "originalId": 217
+  },
+  {
+    "id": "comun-t13_8",
+    "questionNum": 8,
+    "question": "El principio rector de la Salud en Todas las Políticas (STP) en el Pacto Vasco de Salud tiene como alcance la necesidad de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Incorporar la perspectiva de salud en todas las decisiones y políticas públicas, fuera del ámbito sanitario."
+      },
+      {
+        "value": 2,
+        "text": "Priorizar el presupuesto del Departamento de Salud sobre el resto de las carteras del Gobierno Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Centralizar toda la toma de decisiones en el Consejo Asesor del Departamento de Salud."
+      },
+      {
+        "value": 4,
+        "text": "Desarrollar un plan de choque específico para la Atención Primaria, desvinculado de la hospitalaria."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Incorporar la perspectiva de salud en todas las decisiones y políticas públicas, fuera del ámbito sanitario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: El Pacto contempla la coordinación sociosanitaria como un elemento fundamental para dar respuesta a las necesidades de las personas con dependencia, cronicidad y fragilidad. Respuesta A.",
+    "originalId": 218
+  },
+  {
+    "id": "comun-t13_9",
+    "questionNum": 9,
+    "question": "El principio de Innovación en el Pacto Vasco de Salud se aplica a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exclusivamente a la aplicación de nuevas tecnologías de imagen médica."
+      },
+      {
+        "value": 2,
+        "text": "La I+D+i en todas las fases y dimensiones de la salud, incluyendo la organizativa y la asistencial."
+      },
+      {
+        "value": 3,
+        "text": "La importación de modelos de éxito de otros sistemas sanitarios europeos."
+      },
+      {
+        "value": 4,
+        "text": "La digitalización de la historia clínica en Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La I+D+i en todas las fases y dimensiones de la salud, incluyendo la organizativa y la asistencial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: La innovación y la digitalización se contemplan como herramientas al servicio de la mejora de la salud y del sistema sanitario, no como fines en sí mismos. Respuesta D.",
+    "originalId": 219
+  },
+  {
+    "id": "comun-t13_10",
+    "questionNum": 10,
+    "question": "En el marco del Pacto Vasco de Salud, el principio rector de la Transparencia y Rendición de Cuentas tiene como objetivo principal:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Garantizar la confidencialidad absoluta de los datos de salud de las personas pacientes."
+      },
+      {
+        "value": 2,
+        "text": "Asegurar que las personas gestoras tengan acceso a todos los cuadros de mando de la OSI."
+      },
+      {
+        "value": 3,
+        "text": "Comunicar regularmente los resultados y progresos del sistema a todas las partes involucradas, fortaleciendo la confianza."
+      },
+      {
+        "value": 4,
+        "text": "Permitir auditorías externas del gasto sanitario cada cinco años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Comunicar regularmente los resultados y progresos del sistema a todas las partes involucradas, fortaleciendo la confianza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: La salud mental y los problemas de salud mental son identificados como uno de los grandes retos sanitarios, con una mayor prevalencia de trastornos de ansiedad y depresión, agravados por la pandemia. Respuesta B.",
+    "originalId": 220
+  },
+  {
+    "id": "comun-t13_11",
+    "questionNum": 11,
+    "question": "En el marco del Pacto Vasco de Salud, dentro de los principios rectores, la \"Orientación al Valor\" significa que el sistema debe priorizar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las intervenciones que generen los mejores resultados relevantes para la persona al menor coste posible."
+      },
+      {
+        "value": 2,
+        "text": "El valor de mercado de las acciones de las empresas proveedoras de tecnología."
+      },
+      {
+        "value": 3,
+        "text": "El incremento constante de las infraestructuras físicas sobre la inversión en personal."
+      },
+      {
+        "value": 4,
+        "text": "La compra masiva de medicamentos de marca sobre los genéricos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las intervenciones que generen los mejores resultados relevantes para la persona al menor coste posible."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: El Pacto propone potenciar la participación ciudadana en el diseño, evaluación y mejora del sistema sanitario, considerando a la ciudadanía como agente activo de su salud. Respuesta C.",
+    "originalId": 221
+  },
+  {
+    "id": "comun-t13_12",
+    "questionNum": 12,
+    "question": "¿En qué grandes ámbitos se estructuran las Líneas Estratégicas del Pacto Vasco de Salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cinco Líneas Estratégicas. prevención y promoción de la salud; atención a la enfermedad; calidad, innovación y sostenibilidad; desarrollo de las y los profesionales; y Gobernanza."
+      },
+      {
+        "value": 2,
+        "text": "Seis Líneas Estratégicas: prevención y promoción de la salud; atención a la enfermedad; áreas prioritarias de salud; calidad, innovación y sostenibilidad; desarrollo de las y los profesionales; y transparencia y participación ciudadana."
+      },
+      {
+        "value": 3,
+        "text": "Seis Líneas Estratégicas: prevención y promoción de la salud; atención a la enfermedad; áreas prioritarias de salud; calidad, innovación y sostenibilidad; desarrollo de las y los profesionales; y gobernanza."
+      },
+      {
+        "value": 4,
+        "text": "Seis Líneas Estratégicas: prevención y promoción de la salud; atención sociosanitaria; áreas prioritarias de salud; calidad, innovación y sostenibilidad; desarrollo de las y los profesionales; y gobernanza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Seis Líneas Estratégicas: prevención y promoción de la salud; atención a la enfermedad; áreas prioritarias de salud; calidad, innovación y sostenibilidad; desarrollo de las y los profesionales; y gobernanza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: Las desigualdades en salud por nivel socioeconómico son reconocidas como uno de los principales desafíos, siendo los grupos más vulnerables los más afectados. Respuesta A.",
+    "originalId": 222
+  },
+  {
+    "id": "comun-t13_13",
+    "questionNum": 13,
+    "question": "La Línea Estratégica I del Pacto Vasco de Salud, centrada en el enfoque \"One Health\" (Una Sola Salud), propone:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Centralizar todos los hospitales en una única gerencia provincial."
+      },
+      {
+        "value": 2,
+        "text": "Crear un seguro de salud único para todas las mascotas de la CAPV."
+      },
+      {
+        "value": 3,
+        "text": "Centrarse exclusivamente en la salud humana, delegando la ambiental a otros departamentos."
+      },
+      {
+        "value": 4,
+        "text": "Integrar la salud humana, animal y ambiental en la planificación y vigilancia sanitaria."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Integrar la salud humana, animal y ambiental en la planificación y vigilancia sanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: El envejecimiento de la población vasca es identificado como uno de los principales factores que incrementa la demanda de servicios sanitarios y sociosanitarios. Respuesta D.",
+    "originalId": 223
+  },
+  {
+    "id": "comun-t13_14",
+    "questionNum": 14,
+    "question": "¿Cuál es el papel de la Atención Primaria y Comunitaria dentro de las Líneas Estratégicas del Pacto Vasco de Salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Actuar como un servicio de triaje rápido para derivar todos los casos al hospital."
+      },
+      {
+        "value": 2,
+        "text": "Ser un servicio opcional para quienes no dispongan de seguro privado."
+      },
+      {
+        "value": 3,
+        "text": "Limitarse a la atención administrativa y la gestión de bajas laborales."
+      },
+      {
+        "value": 4,
+        "text": "Ser la base estratégica que cohesione y sustente todo el sistema de salud vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Ser la base estratégica que cohesione y sustente todo el sistema de salud vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: La sostenibilidad del sistema sanitario es un objetivo transversal que requiere la optimización de recursos, la eficiencia y la innovación en los modelos de atención. Respuesta B.",
+    "originalId": 224
+  },
+  {
+    "id": "comun-t13_15",
+    "questionNum": 15,
+    "question": "En relación con la Línea Estratégica 06 sobre \"Cronicidad\" del Pacto Vasco de Salud, ¿qué objetivo se persigue primordialmente?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Institucionalizar a todas las personas con enfermedades crónicas en centros especializados."
+      },
+      {
+        "value": 2,
+        "text": "Reforzar la autonomía y corresponsabilidad de las personas con enfermedades crónicas."
+      },
+      {
+        "value": 3,
+        "text": "Sustituir las consultas médicas presenciales por seguimiento telefónico automático."
+      },
+      {
+        "value": 4,
+        "text": "Reducir la cobertura de medicamentos para patologías de larga duración."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Reforzar la autonomía y corresponsabilidad de las personas con enfermedades crónicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: Las listas de espera y los tiempos de acceso son identificados como uno de los principales problemas de satisfacción ciudadana con el sistema sanitario vasco. Respuesta C.",
+    "originalId": 225
+  },
+  {
+    "id": "comun-t13_16",
+    "questionNum": 16,
+    "question": "La Línea Estratégica 07 sobre \"Atención Sociosanitaria\" del Pacto Vasco de Salud subraya la necesidad de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Separar definitivamente las competencias de Salud de las de Servicios Sociales."
+      },
+      {
+        "value": 2,
+        "text": "Mejorar la coordinación y el tránsito de las personas entre el sistema sanitario y el social."
+      },
+      {
+        "value": 3,
+        "text": "Eliminar las ayudas a la dependencia para fomentar el ahorro público."
+      },
+      {
+        "value": 4,
+        "text": "Obligar a las personas pacientes a elegir entre atención médica o apoyo social."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Mejorar la coordinación y el tránsito de las personas entre el sistema sanitario y el social."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: La investigación, innovación y conocimiento son ejes estratégicos del Pacto para mejorar la calidad y eficiencia del sistema sanitario vasco. Respuesta A.",
+    "originalId": 226
+  },
+  {
+    "id": "comun-t13_17",
+    "questionNum": 17,
+    "question": "Respecto a la \"Salud Mental\" (Línea 11), el Pacto Vasco de Salud pone el foco en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La promoción del bienestar emocional y la detección precoz, especialmente en jóvenes."
+      },
+      {
+        "value": 2,
+        "text": "El aislamiento preventivo de las personas con trastornos mentales graves."
+      },
+      {
+        "value": 3,
+        "text": "La medicalización sistemática de cualquier malestar emocional de la ciudadanía."
+      },
+      {
+        "value": 4,
+        "text": "La reducción de la plantilla de psicología en los centros de salud primaria."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La promoción del bienestar emocional y la detección precoz, especialmente en jóvenes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: Los determinantes sociales de la salud (empleo, educación, vivienda, medioambiente) son reconocidos como factores clave que influyen en la salud de la población y que requieren intervención intersectorial. Respuesta D.",
+    "originalId": 227
+  },
+  {
+    "id": "comun-t13_18",
+    "questionNum": 18,
+    "question": "La Línea Estratégica 18 sobre \"Digitalización en Salud\" del Pacto Vasco de Salud busca la transformación digital para:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reemplazar al personal sanitario por sistemas de inteligencia artificial autónomos."
+      },
+      {
+        "value": 2,
+        "text": "Eliminar el papel de todos los archivos históricos sin digitalizar previamente."
+      },
+      {
+        "value": 3,
+        "text": "Facilitar la accesibilidad, la personalización de la atención y la eficiencia organizativa."
+      },
+      {
+        "value": 4,
+        "text": "Crear una base de datos pública con el historial clínico de toda la ciudadanía."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Facilitar la accesibilidad, la personalización de la atención y la eficiencia organizativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: La coordinación entre el sistema sanitario y el sistema de servicios sociales es uno de los ámbitos de actuación prioritarios del Pacto para dar respuesta integral a las personas con necesidades complejas. Respuesta B.",
+    "originalId": 228
+  },
+  {
+    "id": "comun-t13_19",
+    "questionNum": 19,
+    "question": "En la \"Política de Personas\" (Línea 21) del Pacto Vasco de Salud, se establece como prioridad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Facilitar la jubilación forzosa a los 60 años para reducir costes laborales."
+      },
+      {
+        "value": 2,
+        "text": "Fortalecer la atracción, fidelización, desarrollo y liderazgo de las y los profesionales."
+      },
+      {
+        "value": 3,
+        "text": "Sustituir al personal fijo por contratos temporales para ganar flexibilidad."
+      },
+      {
+        "value": 4,
+        "text": "Prohibir la participación de los sindicatos en la toma de decisiones estratégicas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Fortalecer la atracción, fidelización, desarrollo y liderazgo de las y los profesionales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Diagnóstico Pacto Vasco de Salud: Las diferencias en salud entre mujeres y hombres (mayor esperanza de vida femenina pero mayor morbilidad), así como el impacto de los roles de género en la salud, son aspectos identificados en el diagnóstico del Pacto. Respuesta C.",
+    "originalId": 229
+  },
+  {
+    "id": "comun-t13_20",
+    "questionNum": 20,
+    "question": "La Línea Estratégica 24 sobre \"Derechos Lingüísticos\" del Pacto Vasco de Salud tiene como fin:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Garantizar que las personas pacientes puedan ser atendidas en la lengua oficial de su elección."
+      },
+      {
+        "value": 2,
+        "text": "Obligar a toda la ciudadanía a realizar sus consultas médicas exclusivamente en euskera."
+      },
+      {
+        "value": 3,
+        "text": "Eliminar el uso de lenguas extranjeras en la formación médica especializada."
+      },
+      {
+        "value": 4,
+        "text": "Centralizar los servicios de traducción en una única sede en Vitoria-Gasteiz."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Garantizar que las personas pacientes puedan ser atendidas en la lengua oficial de su elección."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t13",
+    "explanation": "Pacto Vasco de Salud: La prevención y la promoción de la salud son reconocidas como inversión prioritaria, con el objetivo de reducir la morbimortalidad evitable y mejorar la calidad de vida de la población. Respuesta A.",
+    "originalId": 230
+  }
+]

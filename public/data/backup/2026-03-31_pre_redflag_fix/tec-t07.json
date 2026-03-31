@@ -1,0 +1,974 @@
+[
+  {
+    "id": "tec-t07_1",
+    "questionNum": 1,
+    "question": "En relación con las retribuciones de los puestos funcionales de Osakidetza, diga cuál de estas afirmaciones es FALSA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La estructura retributiva de los puestos funcionales está compuesta por retribuciones básicas y retribuciones complementarias."
+      },
+      {
+        "value": 2,
+        "text": "Los importes de las retribuciones de los puestos funcionales se establecen por el Consejo de Administración de Osakidetza, previa negociación con la representación del personal."
+      },
+      {
+        "value": 3,
+        "text": "El acceso a cada puesto funcional lleva aparejada la percepción de las retribuciones asignadas al mismo."
+      },
+      {
+        "value": 4,
+        "text": "Los puestos funcionales vendrán identificados, entre otros aspectos, por los efectos retributivos asignados."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los importes de las retribuciones de los puestos funcionales se establecen por el Consejo de Administración de Osakidetza, previa negociación con la representación del personal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Decreto 186/2005/2025: los importes retributivos de los puestos funcionales se determinan mediante negociación colectiva en la Mesa Sectorial, no unilateralmente por el Consejo de Administración. La opción B es falsa."
+  },
+  {
+    "id": "tec-t07_2",
+    "questionNum": 2,
+    "question": "Conforme al Decreto 186/2005 de Puestos Funcionales de Osakidetza, el instrumento de clasificación de personal que se orienta específicamente a la organización, promoción y desarrollo integral del personal es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Grupo profesional."
+      },
+      {
+        "value": 2,
+        "text": "La Categoría."
+      },
+      {
+        "value": 3,
+        "text": "El Puesto funcional."
+      },
+      {
+        "value": 4,
+        "text": "El Grupo de titulación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El Puesto funcional."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Decreto 186/2005: el puesto funcional es el instrumento de clasificación que combina aspectos organizativos, retributivos y de desarrollo profesional, orientándose específicamente a la organización, promoción y desarrollo integral del personal."
+  },
+  {
+    "id": "tec-t07_3",
+    "questionNum": 3,
+    "question": "De acuerdo con el artículo 4 del Decreto 186/2005, ¿qué elemento NO forma parte de los criterios de diferenciación de la 'responsabilidad funcional'?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Responsabilidad jerárquica de organización de equipos."
+      },
+      {
+        "value": 2,
+        "text": "Conocimientos especializados técnicos o prácticos."
+      },
+      {
+        "value": 3,
+        "text": "Responsabilidad de gestión de recursos materiales."
+      },
+      {
+        "value": 4,
+        "text": "Nivel de euskera asignado al puesto."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Nivel de euskera asignado al puesto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 4 Decreto 186/2005: la responsabilidad funcional se diferencia por la responsabilidad jerárquica, los conocimientos especializados y la responsabilidad de gestión de recursos materiales. El nivel de euskera es un criterio lingüístico, no de responsabilidad funcional."
+  },
+  {
+    "id": "tec-t07_4",
+    "questionNum": 4,
+    "question": "En base al Decreto 186/2025 de Puestos Funcionales de Osakidetza, el órgano competente para aprobar la plantilla funcional de cada organización de servicios es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Dirección Gerencia de la propia Organización de Servicios."
+      },
+      {
+        "value": 2,
+        "text": "La Consejería de Sanidad."
+      },
+      {
+        "value": 3,
+        "text": "El Consejo de Administración de Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "El Consejo de Gobierno."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El Consejo de Administración de Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Decreto 186/2025: la aprobación de la plantilla funcional de cada organización de servicios de Osakidetza corresponde al Consejo de Administración del Ente Público."
+  },
+  {
+    "id": "tec-t07_5",
+    "questionNum": 5,
+    "question": "En base al Decreto 186/2025, si una modificación de la plantilla funcional implica una variación en la plantilla estructural de la organización:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es necesaria la aprobación directa del Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Puede ser aprobada únicamente por la Dirección Gerencia."
+      },
+      {
+        "value": 3,
+        "text": "Requiere la aprobación del Consejo de Administración de Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "Se aplica automáticamente tras la negociación colectiva."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Requiere la aprobación del Consejo de Administración de Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Decreto 186/2025: cuando la modificación de la plantilla funcional conlleva variación en la plantilla estructural, requiere la aprobación del Consejo de Administración de Osakidetza, que es el órgano rector del Ente Público."
+  },
+  {
+    "id": "tec-t07_6",
+    "questionNum": 6,
+    "question": "En base al Decreto 186/2025, la normativa que rige los criterios para la determinación inicial del perfil lingüístico en los puestos funcionales es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Decreto 67/2003."
+      },
+      {
+        "value": 2,
+        "text": "El Decreto 255/1997."
+      },
+      {
+        "value": 3,
+        "text": "La Ley de la Función Pública Vasca."
+      },
+      {
+        "value": 4,
+        "text": "La Ley 8/1997 de Ordenación Sanitaria."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El Decreto 67/2003."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Decreto 186/2025: los criterios para la determinación del perfil lingüístico en los puestos funcionales de Osakidetza se rigen por el Decreto 67/2003, de normalización del uso del euskera en Osakidetza."
+  },
+  {
+    "id": "tec-t07_7",
+    "questionNum": 7,
+    "question": "En base al Decreto 186/2025, ¿cuál es la consecuencia retributiva para una persona titular cuyo puesto es adecuado de oficio y sufre una minoración en sus retribuciones fijas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un pago único compensatorio equivalente a una anualidad."
+      },
+      {
+        "value": 2,
+        "text": "La asignación de un complemento personal y transitorio."
+      },
+      {
+        "value": 3,
+        "text": "La pérdida definitiva de la diferencia retributiva."
+      },
+      {
+        "value": 4,
+        "text": "La obligación de concursar en la siguiente convocatoria."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La asignación de un complemento personal y transitorio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Decreto 186/2025: cuando la adecuación de oficio implica una minoración retributiva para el titular, se le asigna un complemento personal y transitorio que compensa la diferencia hasta que sea absorbido por futuras mejoras retributivas."
+  },
+  {
+    "id": "tec-t07_8",
+    "questionNum": 8,
+    "question": "De acuerdo con la disposición adicional sexta del Decreto 186/2025, ¿quién puede incluir nuevas titulaciones habilitantes para un puesto funcional sin crear una nueva categoría?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Parlamento Vasco por vía legislativa."
+      },
+      {
+        "value": 2,
+        "text": "El Ministerio de Educación."
+      },
+      {
+        "value": 3,
+        "text": "El Consejo de Administración de Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "La Dirección de Recursos Humanos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El Consejo de Administración de Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "DA 6ª Decreto 186/2025: el Consejo de Administración de Osakidetza puede ampliar las titulaciones habilitantes para acceder a un puesto funcional sin necesidad de crear una nueva categoría profesional."
+  },
+  {
+    "id": "tec-t07_9",
+    "questionNum": 9,
+    "question": "Conforme al Decreto 186/2005, el 'grupo profesional' se define como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Clasificación basada exclusivamente en el nivel de estudios."
+      },
+      {
+        "value": 2,
+        "text": "División basada en los años de experiencia en el sector."
+      },
+      {
+        "value": 3,
+        "text": "Conjunto de personal trabajador con el mismo destino geográfico."
+      },
+      {
+        "value": 4,
+        "text": "Agrupamiento unitario de aptitudes profesionales y contenido específico de las tareas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Agrupamiento unitario de aptitudes profesionales y contenido específico de las tareas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 3 Decreto 186/2005: el grupo profesional constituye un agrupamiento unitario de aptitudes profesionales, titulaciones y contenido general de las prestaciones laborales que engloba diversas tareas, funciones, especialidades profesionales o responsabilidades."
+  },
+  {
+    "id": "tec-t07_10",
+    "questionNum": 10,
+    "question": "Conforme a la Ley reguladora de la Autoridad Vasca de Protección de Datos, no será de aplicación a los tratamientos de datos personales de los que sean responsables:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El grupo parlamentario de una formación vasca en el Congreso de los Diputados."
+      },
+      {
+        "value": 2,
+        "text": "El Ararteko."
+      },
+      {
+        "value": 3,
+        "text": "Un ayuntamiento vizcaíno."
+      },
+      {
+        "value": 4,
+        "text": "La Autoridad Vasca de la Competencia."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El grupo parlamentario de una formación vasca en el Congreso de los Diputados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Ley reguladora de la AVPD: el ámbito de aplicación se extiende a las instituciones y administraciones del País Vasco. Los grupos parlamentarios en el Congreso de los Diputados pertenecen a la esfera estatal, no autonómica vasca, por lo que quedan fuera del ámbito de la AVPD."
+  },
+  {
+    "id": "tec-t07_11",
+    "questionNum": 11,
+    "question": "Conforme a la Ley reguladora de la Autoridad Vasca de Protección de Datos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Autoridad Vasca de Protección de Datos es una autoridad administrativa dependiente del Gobierno Vasco."
+      },
+      {
+        "value": 2,
+        "text": "La Autoridad Vasca de Protección de Datos es una autoridad administrativa dependiente del Parlamento Vasco."
+      },
+      {
+        "value": 3,
+        "text": "La Autoridad Vasca de Protección de Datos es una autoridad independiente."
+      },
+      {
+        "value": 4,
+        "text": "La Autoridad Vasca de Protección de Datos es una autoridad independiente sometida a lo que determine la Lehendakaritza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Autoridad Vasca de Protección de Datos es una autoridad independiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Ley reguladora de la AVPD: la Autoridad Vasca de Protección de Datos es una autoridad independiente, con plena autonomía orgánica y funcional, no subordinada ni al Gobierno ni al Parlamento Vasco."
+  },
+  {
+    "id": "tec-t07_12",
+    "questionNum": 12,
+    "question": "La Autoridad Vasca de Protección de Datos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Elaborará su propio presupuesto final."
+      },
+      {
+        "value": 2,
+        "text": "Elaborará su propio presupuesto y lo aprobará."
+      },
+      {
+        "value": 3,
+        "text": "Elaborará el anteproyecto de su propio presupuesto, quedando la aprobación final en manos del Gobierno Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores opciones es correcta conforme a la legislación vigente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Elaborará el anteproyecto de su propio presupuesto, quedando la aprobación final en manos del Gobierno Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Ley reguladora de la AVPD: la AVPD elabora el anteproyecto de su presupuesto, que se integra en los Presupuestos Generales de la CAE y es aprobado finalmente por el Parlamento Vasco, no por la propia AVPD ni por el Gobierno."
+  },
+  {
+    "id": "tec-t07_13",
+    "questionNum": 13,
+    "question": "No es necesaria la ratificación de la separación de la persona que ocupe la presidencia de la Autoridad Vasca de Protección de Datos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En caso de incompatibilidad."
+      },
+      {
+        "value": 2,
+        "text": "Si es a petición propia."
+      },
+      {
+        "value": 3,
+        "text": "En el supuesto de incapacidad sobrevenida para el ejercicio de las funciones propias del cargo."
+      },
+      {
+        "value": 4,
+        "text": "En caso de incumplimiento muy grave de sus obligaciones."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Si es a petición propia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Ley reguladora de la AVPD: la renuncia o separación a petición propia de la presidencia de la AVPD no requiere ratificación externa, a diferencia de otros supuestos de cese (incapacidad, incompatibilidad, incumplimiento grave) que sí requieren procedimiento específico."
+  },
+  {
+    "id": "tec-t07_14",
+    "questionNum": 14,
+    "question": "La presidencia de la Autoridad Vasca de la Protección de Datos será nombrada por un período:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "De 7 años."
+      },
+      {
+        "value": 2,
+        "text": "De 6 años."
+      },
+      {
+        "value": 3,
+        "text": "De 5 años."
+      },
+      {
+        "value": 4,
+        "text": "De 4 años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "De 5 años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Ley reguladora de la AVPD: la presidencia de la Autoridad Vasca de Protección de Datos es nombrada por un período de cinco años, sin posibilidad de reelección inmediata, para garantizar su independencia."
+  },
+  {
+    "id": "tec-t07_15",
+    "questionNum": 15,
+    "question": "La presidencia de la Autoridad Vasca de Protección de Datos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Elaborará un informe bianual de sus actividades que ha de ser comunicado inmediatamente al Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Elaborará un informe anual de sus actividades que ha de ser comunicado inmediatamente al Gobierno Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Elaborará un informe anual de sus actividades que ha de ser comunicado tanto al Parlamento Vasco como al Gobierno Vasco en exclusiva."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores opciones es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Ninguna de las anteriores opciones es correcta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Ley reguladora de la AVPD: la presidencia elabora una memoria anual de actividades que se remite al Parlamento Vasco (no al Gobierno en exclusiva ni de forma bianual). La opción D es correcta porque ninguna de las otras describe exactamente el procedimiento legal."
+  },
+  {
+    "id": "tec-t07_16",
+    "questionNum": 16,
+    "question": "Las infracciones tipificadas en la Ley Orgánica 7/2021 calificadas como graves por parte de la Autoridad Vasca de Protección de Datos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Prescriben a los 5 años."
+      },
+      {
+        "value": 2,
+        "text": "Prescriben a los 4 años."
+      },
+      {
+        "value": 3,
+        "text": "Prescriben a los 3 años."
+      },
+      {
+        "value": 4,
+        "text": "Prescriben a los 2 años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Prescriben a los 3 años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "LO 7/2021 y normativa de protección de datos: las infracciones graves en materia de protección de datos prescriben a los tres años desde que se cometieron o desde que el responsable pudo ser conocido."
+  },
+  {
+    "id": "tec-t07_17",
+    "questionNum": 17,
+    "question": "Las sanciones económicas en aplicación del reglamento europeo en materia de protección de datos que la Autoridad Vasca de Protección de Datos imponga por un importe igual a 50.000 euros:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Prescriben a los 5 años."
+      },
+      {
+        "value": 2,
+        "text": "Prescriben a los 4 años."
+      },
+      {
+        "value": 3,
+        "text": "Prescriben a los 3 años."
+      },
+      {
+        "value": 4,
+        "text": "Prescriben a los 2 años."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Prescriben a los 3 años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Normativa de protección de datos (LOPDGDD y RGPD): las sanciones impuestas en aplicación del RGPD prescriben en función de su cuantía. Las sanciones de importe medio (como 50.000 euros) prescriben a los tres años."
+  },
+  {
+    "id": "tec-t07_18",
+    "questionNum": 18,
+    "question": "En relación con la cotización a la Seguridad Social, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los sacerdotes, religiosos y religiosas de la Iglesia Católica están exentos de la obligación de cotizar a la Seguridad Social."
+      },
+      {
+        "value": 2,
+        "text": "La obligación de cotizar nace al primer día del mes siguiente al del inicio de la actividad correspondiente."
+      },
+      {
+        "value": 3,
+        "text": "Las bases de cotización tendrán como tope máximo las cuantías fijadas para cada quinquenio mediante ley aprobada por las Cortes Generales."
+      },
+      {
+        "value": 4,
+        "text": "Las bases de cotización tendrán como tope mínimo las cuantías del salario mínimo interprofesional vigente en cada momento incrementado en un sexto, salvo disposición en contrario."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las bases de cotización tendrán como tope mínimo las cuantías del salario mínimo interprofesional vigente en cada momento incrementado en un sexto, salvo disposición en contrario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 19.2 LGSS (RDL 8/2015): las bases de cotización tendrán como tope mínimo las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un sexto, salvo disposición expresa en contrario."
+  },
+  {
+    "id": "tec-t07_19",
+    "questionNum": 19,
+    "question": "Conforme al Real Decreto Legislativo 8/2015, a los efectos del derecho a percibir prestaciones contributivas, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No tendrán la consideración de trabajadora/or por cuenta ajena las hijas e hijos de la persona empresaria, aunque no convivan en su hogar ni estén a su cargo."
+      },
+      {
+        "value": 2,
+        "text": "Si la persona empresaria es trabajadora autónoma, podrá contratar como trabajadora/or por cuenta ajena a su cónyuge y a las hijas e hijos que convivan con ella."
+      },
+      {
+        "value": 3,
+        "text": "Si la persona empresaria es trabajadora autónoma, podrá contratar como trabajadora/or por cuenta ajena a las hijas e hijos menores de 30 años aunque convivan con ella."
+      },
+      {
+        "value": 4,
+        "text": "Las tres afirmaciones anteriores son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las tres afirmaciones anteriores son falsas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 12 LGSS: no tienen la consideración de trabajadores por cuenta ajena el cónyuge, los descendientes y demás parientes hasta segundo grado que convivan y trabajen con el empresario autónomo, salvo que se pruebe la condición de asalariados. Las tres opciones anteriores contienen inexactitudes."
+  },
+  {
+    "id": "tec-t07_20",
+    "questionNum": 20,
+    "question": "Conforme al Real Decreto Legislativo 8/2015, los siguientes grupos se encuentran integrados en regímenes especiales que se regirán por leyes específicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Personas trabajadoras por cuenta propia o autónomas, y personal funcionario público, civil y militar."
+      },
+      {
+        "value": 2,
+        "text": "Personas trabajadoras del mar y personal funcionario público, civil y militar."
+      },
+      {
+        "value": 3,
+        "text": "Personal funcionario público, civil y militar, y estudiantado."
+      },
+      {
+        "value": 4,
+        "text": "Personas trabajadoras por cuenta propia o autónomas, y personas trabajadoras del mar."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Personas trabajadoras por cuenta propia o autónomas, y personas trabajadoras del mar."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 10.2 LGSS: los regímenes especiales que se rigen por leyes específicas con tendencia a la homogeneidad con el Régimen General son el de trabajadores autónomos y el de trabajadores del mar."
+  },
+  {
+    "id": "tec-t07_21",
+    "questionNum": 21,
+    "question": "Conforme al Real Decreto Legislativo 8/2015, las bases de cotización en cada régimen tendrán como tope mínimo, salvo disposición expresa en contrario:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un tercio."
+      },
+      {
+        "value": 2,
+        "text": "Las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un cuarto."
+      },
+      {
+        "value": 3,
+        "text": "Las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un quinto."
+      },
+      {
+        "value": 4,
+        "text": "Las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un sexto."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un sexto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 19.2 LGSS: el tope mínimo de las bases de cotización es el SMI vigente incrementado en un sexto, lo que equivale a 1/6 más sobre el SMI base."
+  },
+  {
+    "id": "tec-t07_22",
+    "questionNum": 22,
+    "question": "Conforme al Real Decreto Legislativo 8/2015, señale cuál de los siguientes grupos se encuentran integrados en regímenes especiales con tendencia a la homogeneidad con el Régimen General:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Personas trabajadoras del mar y personal funcionario público, civil y militar."
+      },
+      {
+        "value": 2,
+        "text": "Personas trabajadoras por cuenta propia o autónomas y estudiantado."
+      },
+      {
+        "value": 3,
+        "text": "Personas trabajadoras por cuenta propia o autónomas y personas trabajadoras del mar."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores respuestas es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Personas trabajadoras por cuenta propia o autónomas y personas trabajadoras del mar."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 10.2 LGSS: los regímenes especiales que deben tender a la homogeneidad con el Régimen General son el RETA (autónomos) y el Régimen Especial del Mar. El personal funcionario tiene régimen propio diferente."
+  },
+  {
+    "id": "tec-t07_23",
+    "questionNum": 23,
+    "question": "De conformidad con el Real Decreto Legislativo 8/2015, si la persona empresaria no solicita el alta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Pierde el derecho la persona trabajadora."
+      },
+      {
+        "value": 2,
+        "text": "Debe esperar a la Inspección."
+      },
+      {
+        "value": 3,
+        "text": "La persona trabajadora puede instar directamente su alta."
+      },
+      {
+        "value": 4,
+        "text": "La persona trabajadora debería ceñirse a reclamar judicialmente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La persona trabajadora puede instar directamente su alta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 139 LGSS: si el empresario no solicita el alta, la persona trabajadora puede instar directamente su alta ante la Tesorería General de la Seguridad Social, sin necesidad de esperar a la actuación inspectora ni acudir a la vía judicial."
+  },
+  {
+    "id": "tec-t07_24",
+    "questionNum": 24,
+    "question": "De conformidad con el Real Decreto Legislativo 8/2015, la Administración puede realizar altas y bajas de oficio cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Lo solicite la persona trabajadora."
+      },
+      {
+        "value": 2,
+        "text": "Haya acuerdo entre persona empresaria y trabajadora."
+      },
+      {
+        "value": 3,
+        "text": "Se compruebe incumplimiento mediante datos o actuaciones inspectoras."
+      },
+      {
+        "value": 4,
+        "text": "La persona trabajadora lleve más de un año sin cotizar."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Se compruebe incumplimiento mediante datos o actuaciones inspectoras."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 139 LGSS: la Tesorería General de la Seguridad Social puede practicar de oficio las altas, bajas y variaciones de datos cuando, a través de actuaciones de comprobación o inspectoras, se constate el incumplimiento de las obligaciones."
+  },
+  {
+    "id": "tec-t07_25",
+    "questionNum": 25,
+    "question": "De conformidad con el Real Decreto Legislativo 8/2015, las altas y bajas se refieren a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Inclusión o exclusión en un régimen concreto."
+      },
+      {
+        "value": 2,
+        "text": "Entrada y salida definitiva del sistema."
+      },
+      {
+        "value": 3,
+        "text": "Afiliación inicial."
+      },
+      {
+        "value": 4,
+        "text": "Pérdida de la condición de afiliado."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Inclusión o exclusión en un régimen concreto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "LGSS: las altas suponen la incorporación al campo de aplicación de un régimen concreto de Seguridad Social y las bajas suponen la salida de ese régimen, sin perjuicio de que la afiliación al sistema sea única y vitalicia."
+  },
+  {
+    "id": "tec-t07_26",
+    "questionNum": 26,
+    "question": "De conformidad con el Real Decreto Legislativo 8/2015, para que exista incapacidad permanente, las reducciones anatómicas o funcionales deben ser:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Temporales."
+      },
+      {
+        "value": 2,
+        "text": "Graves y calificadas como definitivas e indefinidas."
+      },
+      {
+        "value": 3,
+        "text": "Graves, susceptibles de determinación objetiva y previsiblemente definitivas."
+      },
+      {
+        "value": 4,
+        "text": "Absolutas para toda profesión."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Graves, susceptibles de determinación objetiva y previsiblemente definitivas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Art. 193 LGSS: se entiende por incapacidad permanente la situación del trabajador que, después de haber estado sometido al tratamiento prescrito, presenta reducciones anatómicas o funcionales graves, susceptibles de determinación objetiva y previsiblemente definitivas."
+  },
+  {
+    "id": "tec-t07_27",
+    "questionNum": 27,
+    "question": "La participación ciudadana en el Sistema Sanitario de Euskadi se articula, entre otros instrumentos, a través de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los Consejos de Salud."
+      },
+      {
+        "value": 2,
+        "text": "El Consejo de Administración de Osakidetza."
+      },
+      {
+        "value": 3,
+        "text": "Las Mesas de Contratación."
+      },
+      {
+        "value": 4,
+        "text": "Las Direcciones de las organizaciones de servicios."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Los Consejos de Salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t07",
+    "explanation": "Ley 8/1997: los Consejos de Salud son los órganos de participación ciudadana en el Sistema Sanitario de Euskadi, tanto a nivel territorial como de organización de servicios."
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tec-comun-t05_1",
+    "questionNum": 1,
+    "question": "Según el Artículo 1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza, ¿qué dos niveles asistenciales se integran en las Organizaciones Sanitarias Integradas (OSI) de Osakidetza?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Atención especializada y Atención de Urgencias."
+      },
+      {
+        "value": 2,
+        "text": "Salud Pública y Servicios Sociosanitarios."
+      },
+      {
+        "value": 3,
+        "text": "Atención hospitalaria y Atención de Emergencias."
+      },
+      {
+        "value": 4,
+        "text": "Atención primaria y Atención hospitalaria."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Atención primaria y Atención hospitalaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 1 Decreto 100/2018: las OSI integran los niveles de atención primaria y atención hospitalaria en una única organización de gestión."
+  },
+  {
+    "id": "tec-comun-t05_2",
+    "questionNum": 2,
+    "question": "Según el Artículo 2.1 del Decreto 100/2018 de las OSI de Osakidetza, ¿qué objetivo último persigue la configuración de las OSI?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reducir el gasto farmacéutico mediante la unificación de compras."
+      },
+      {
+        "value": 2,
+        "text": "Favorecer la integración clínica de manera que la atención se articule en torno a la persona."
+      },
+      {
+        "value": 3,
+        "text": "Centralizar los servicios de atención primaria en las sedes hospitalarias."
+      },
+      {
+        "value": 4,
+        "text": "Eliminar las categorías profesionales de atención primaria para unificarlas con las hospitalarias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Favorecer la integración clínica de manera que la atención se articule en torno a la persona."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 2.1 Decreto 100/2018: el objetivo último de las OSI es favorecer la integración clínica de forma que la atención se articule en torno a la persona."
+  },
+  {
+    "id": "tec-comun-t05_3",
+    "questionNum": 3,
+    "question": "Según el Artículo 1 del Decreto 100/2018 de las OSI del ente público Osakidetza, ¿bajo qué principio fundamental actuarán las OSI?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Principio de coordinación territorial y sectorial."
+      },
+      {
+        "value": 2,
+        "text": "Principio de jerarquía funcional única."
+      },
+      {
+        "value": 3,
+        "text": "Principio de autonomía económico-financiera y de gestión."
+      },
+      {
+        "value": 4,
+        "text": "Principio de centralización de todos los recursos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Principio de autonomía económico-financiera y de gestión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 1 Decreto 100/2018: las OSI actúan bajo el principio de autonomía económico-financiera y de gestión."
+  },
+  {
+    "id": "tec-comun-t05_4",
+    "questionNum": 4,
+    "question": "De acuerdo con el Artículo 3 del Decreto 100/2018 de las OSI de Osakidetza, ¿cómo se define una OSI de clase \"monográfica\"?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es aquella donde solo se integran servicios de atención hospitalaria especializada."
+      },
+      {
+        "value": 2,
+        "text": "Es aquella cuya actividad asistencial gira en torno a un ámbito específico, integrando sus servicios y dispositivos."
+      },
+      {
+        "value": 3,
+        "text": "Es una organización que solo atiende a una patología crónica específica."
+      },
+      {
+        "value": 4,
+        "text": "Es la organización que carece de servicios de atención primaria."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Es aquella cuya actividad asistencial gira en torno a un ámbito específico, integrando sus servicios y dispositivos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 3 Decreto 100/2018: las OSI monográficas son aquellas cuya actividad asistencial gira en torno a un ámbito específico, integrando sus servicios y dispositivos correspondientes."
+  },
+  {
+    "id": "tec-comun-t05_5",
+    "questionNum": 5,
+    "question": "Según el Decreto 100/2018 de las OSI de Osakidetza, las OSI de Tipo I se caracterizan, entre otros aspectos, por tener hospitales de carácter universitario y, además, por disponer de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Una base poblacional adscrita inferior a 300.000 habitantes."
+      },
+      {
+        "value": 2,
+        "text": "Una Dirección de Gestión que asume todas las funciones asistenciales."
+      },
+      {
+        "value": 3,
+        "text": "Unidades o servicios calificados de referencia para el conjunto del sistema sanitario vasco."
+      },
+      {
+        "value": 4,
+        "text": "Ser organizaciones de servicios de carácter monográfico y de pequeño tamaño."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Unidades o servicios calificados de referencia para el conjunto del sistema sanitario vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 4 Decreto 100/2018: las OSI Tipo I tienen hospitales universitarios y disponen de unidades o servicios calificados de referencia para el conjunto del sistema sanitario vasco."
+  },
+  {
+    "id": "tec-comun-t05_6",
+    "questionNum": 6,
+    "question": "Según el Decreto 100/2018 de las OSI de Osakidetza, para que una OSI sea clasificada como de Tipo III debe integrar, junto con servicios de atención primaria, un hospital de carácter general y tener una base poblacional atendida inferior a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "500.000 habitantes."
+      },
+      {
+        "value": 2,
+        "text": "200.000 habitantes."
+      },
+      {
+        "value": 3,
+        "text": "300.000 habitantes."
+      },
+      {
+        "value": 4,
+        "text": "100.000 habitantes."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "200.000 habitantes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 4 Decreto 100/2018: las OSI Tipo III integran primaria + hospital de carácter general y tienen base poblacional inferior a 200.000 habitantes."
+  },
+  {
+    "id": "tec-comun-t05_7",
+    "questionNum": 7,
+    "question": "Según el Artículo 5 del Decreto 100/2018 de las OSI de Osakidetza, ¿cuáles son los tres órganos de participación que conforman la estructura organizativa de las OSI?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Consejo de Dirección, el Comité Ejecutivo y el Comité de Ética Asistencial."
+      },
+      {
+        "value": 2,
+        "text": "El Consejo Clínico Asistencial, el Consejo Social y la Comisión Sociosanitaria."
+      },
+      {
+        "value": 3,
+        "text": "La Comisión de Seguridad, la Comisión de Docencia y la Comisión de Investigación."
+      },
+      {
+        "value": 4,
+        "text": "El Consejo de Dirección, el Consejo Social y el Comité de Evaluación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El Consejo Clínico Asistencial, el Consejo Social y la Comisión Sociosanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 5 Decreto 100/2018: los tres órganos de participación de las OSI son el Consejo Clínico Asistencial, el Consejo Social y la Comisión Sociosanitaria."
+  },
+  {
+    "id": "tec-comun-t05_8",
+    "questionNum": 8,
+    "question": "De acuerdo con el Decreto 100/2018 de las OSI de Osakidetza, ¿qué órganos componen el equipo directivo de una OSI, según la estructura general del artículo 5.2?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo la Dirección Gerencia y la Dirección Médica."
+      },
+      {
+        "value": 2,
+        "text": "Las Direcciones Médica, de Atención Integrada, de Enfermería, de Personas, Económico-Financiera y de Gestión."
+      },
+      {
+        "value": 3,
+        "text": "El Consejo de Dirección y el Consejo Social exclusivamente."
+      },
+      {
+        "value": 4,
+        "text": "La Dirección Gerencia y las Jefaturas de Servicio de cada centro de salud."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las Direcciones Médica, de Atención Integrada, de Enfermería, de Personas, Económico-Financiera y de Gestión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 5.2 Decreto 100/2018: el equipo directivo de una OSI (Tipos I y II) se compone de las Direcciones Médica, de Atención Integrada, de Enfermería, de Personas, Económico-Financiera y de Gestión."
+  },
+  {
+    "id": "tec-comun-t05_9",
+    "questionNum": 9,
+    "question": "De acuerdo con el Decreto 100/2018 de las OSI de Osakidetza, en las OSI de Tipo IV, la Dirección Gerencia asume, con el apoyo de puestos funcionales asistenciales, las funciones que corresponden a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Dirección de Personas y la Dirección Económico-Financiera."
+      },
+      {
+        "value": 2,
+        "text": "La Dirección de Personas y la Dirección de Atención Integrada."
+      },
+      {
+        "value": 3,
+        "text": "La Dirección Médica y la Dirección de Enfermería."
+      },
+      {
+        "value": 4,
+        "text": "La Dirección de Gestión y el Consejo de Dirección."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Dirección Médica y la Dirección de Enfermería."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 5.4 Decreto 100/2018: en las OSI Tipo IV, la Dirección Gerencia asume con apoyo de puestos funcionales asistenciales las funciones de la Dirección Médica y de la Dirección de Enfermería."
+  },
+  {
+    "id": "tec-comun-t05_10",
+    "questionNum": 10,
+    "question": "De acuerdo con el Decreto 100/2018 de las OSI de Osakidetza, ¿cuál de los siguientes NO es un órgano de dirección encargado del gobierno y gestión de las OSI de Tipo I y II?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Dirección de Personas."
+      },
+      {
+        "value": 2,
+        "text": "El Consejo Clínico Asistencial."
+      },
+      {
+        "value": 3,
+        "text": "La Dirección de Atención Integrada."
+      },
+      {
+        "value": 4,
+        "text": "La Dirección Económico-Financiera."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El Consejo Clínico Asistencial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "El Consejo Clínico Asistencial es un órgano de participación, no de dirección. Los órganos de dirección de las OSI Tipo I y II son las Direcciones (Médica, Atención Integrada, Enfermería, Personas, Económico-Financiera, Gestión)."
+  },
+  {
+    "id": "tec-comun-t05_11",
+    "questionNum": 11,
+    "question": "Según el Artículo 7.3 del Decreto 100/2018 de las OSI de Osakidetza, ¿quién tiene la competencia para el nombramiento y cese de la persona titular de la Dirección Gerencia?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Consejero o la Consejera de Salud."
+      },
+      {
+        "value": 2,
+        "text": "La Dirección General del Ente Público Osakidetza."
+      },
+      {
+        "value": 3,
+        "text": "El Consejo de Administración a propuesta de Lehendakaritza."
+      },
+      {
+        "value": 4,
+        "text": "La Dirección de Personas de la propia OSI."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La Dirección General del Ente Público Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 7.3 Decreto 100/2018: el nombramiento y cese de la Dirección Gerencia de las OSI corresponde a la Dirección General del Ente Público Osakidetza."
+  },
+  {
+    "id": "tec-comun-t05_12",
+    "questionNum": 12,
+    "question": "Según los Artículos 7 y 9 del Decreto 100/2018 de las OSI de Osakidetza, ¿cuál es un requisito obligatorio para el nombramiento de los cargos de dirección de una OSI?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Haber pertenecido al Consejo Clínico Asistencial durante al menos dos años."
+      },
+      {
+        "value": 2,
+        "text": "Superar un examen de oposición específico para gerencia sanitaria."
+      },
+      {
+        "value": 3,
+        "text": "Previa convocatoria pública donde se acredite titulación, capacidad y experiencia profesional."
+      },
+      {
+        "value": 4,
+        "text": "Tener la condición de personal estatutario fijo en la categoría de técnico/a superior."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Previa convocatoria pública donde se acredite titulación, capacidad y experiencia profesional."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Arts. 7 y 9 Decreto 100/2018: los cargos de dirección de las OSI requieren previa convocatoria pública donde se acrediten titulación, capacidad y experiencia profesional."
+  },
+  {
+    "id": "tec-comun-t05_13",
+    "questionNum": 13,
+    "question": "Según el Artículo 8.m del Decreto 100/2018 de las OSI de Osakidetza, ¿a qué dirección corresponde \"orientar la gestión desde una visión integradora empoderando la atención primaria\"?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dirección de Atención Integrada."
+      },
+      {
+        "value": 2,
+        "text": "Dirección Gerencia."
+      },
+      {
+        "value": 3,
+        "text": "Dirección de Enfermería."
+      },
+      {
+        "value": 4,
+        "text": "Dirección Económico-Financiera."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Dirección de Atención Integrada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 8.m Decreto 100/2018: la función de orientar la gestión desde una visión integradora empoderando la atención primaria corresponde a la Dirección de Atención Integrada."
+  },
+  {
+    "id": "tec-comun-t05_14",
+    "questionNum": 14,
+    "question": "De acuerdo con el Decreto 100/2018 de las OSI de Osakidetza, ¿con qué ámbito(s) adicional(es) debe coordinar su actividad la Dirección de Atención Integrada?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Con el ámbito de Recursos Humanos y con la Universidad."
+      },
+      {
+        "value": 2,
+        "text": "Con el ámbito comunitario y socio-sanitario."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente con el sociosanitario."
+      },
+      {
+        "value": 4,
+        "text": "Con las entidades locales y las empresas privadas de gestión."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Con el ámbito comunitario y socio-sanitario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Decreto 100/2018: la Dirección de Atención Integrada coordina, además de primaria y hospitalaria, con el ámbito comunitario y socio-sanitario."
+  },
+  {
+    "id": "tec-comun-t05_15",
+    "questionNum": 15,
+    "question": "Según el Artículo 19.1 del Decreto 100/2018 de las OSI de Osakidetza, ¿quién ejerce la presidencia del Consejo Clínico Asistencial?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona titular de la Dirección Gerencia."
+      },
+      {
+        "value": 2,
+        "text": "La persona titular de la Dirección Médica."
+      },
+      {
+        "value": 3,
+        "text": "La persona titular de la Dirección de Enfermería."
+      },
+      {
+        "value": 4,
+        "text": "La persona de mayor antigüedad en la vocalía de Atención Primaria."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La persona titular de la Dirección Gerencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t05",
+    "explanation": "Art. 19.1 Decreto 100/2018: la presidencia del Consejo Clínico Asistencial corresponde a la persona titular de la Dirección Gerencia de la OSI."
+  }
+]

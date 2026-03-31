@@ -1,0 +1,1258 @@
+{
+  "total_questions": 200,
+  "questions_with_official_id": 200,
+  "discrepancies": 125,
+  "red_flags": 27,
+  "raw_data": [
+    {
+      "id": "tec-comun-t01_1",
+      "officialId": 1,
+      "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria será requisito imprescindible:",
+      "app": "D",
+      "kaixo": "AD",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t01.json"
+    },
+    {
+      "id": "tec-comun-t01_2",
+      "officialId": 2,
+      "question": "Según lo establecido en la normativa vigente sobre ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria:",
+      "app": "C",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t01.json"
+    },
+    {
+      "id": "tec-comun-t01_3",
+      "officialId": 3,
+      "question": "Según la normativa vigente, el órgano encargado del Registro Estatal de Profesionales Sanitarios podrá (indíquese la que sea correcta):",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t01.json"
+    },
+    {
+      "id": "tec-comun-t01_4",
+      "officialId": 4,
+      "question": "En el marco de la ordenación de las profesiones sanitarias, las personas pacientes:",
+      "app": "D",
+      "kaixo": "A",
+      "osasun": "A",
+      "isRedFlag": true,
+      "file": "tec-comun-t01.json"
+    },
+    {
+      "id": "tec-comun-t01_5",
+      "officialId": 5,
+      "question": "Según la normativa de ordenación de las profesiones sanitarias, el personal profesional y las personas responsables de los centros sanitarios facilitarán a sus pacientes el ejercicio del derecho a conocer:",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t01.json"
+    },
+    {
+      "id": "tec-comun-t01_7",
+      "officialId": 7,
+      "question": "Los centros sanitarios revisarán que el personal sanitario de su plantilla cumple los requisitos necesarios para ejercer la profesión conforme a lo previsto en la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias y en las demás normas aplicables:",
+      "app": "A",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t01.json"
+    },
+    {
+      "id": "tec-comun-t01_8",
+      "officialId": 8,
+      "question": "Según dispone la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, cuando una actuación sanitaria se realice por un equipo de profesionales (señálese la respuesta incorrecta):",
+      "app": "C",
+      "kaixo": "A",
+      "osasun": "A",
+      "isRedFlag": true,
+      "file": "tec-comun-t01.json"
+    },
+    {
+      "id": "tec-comun-t01_10",
+      "officialId": 10,
+      "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, los centros sanitarios acreditados para desarrollar programas de formación continuada:",
+      "app": "D",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t01.json"
+    },
+    {
+      "id": "tec-comun-t02_1",
+      "officialId": 11,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, sus disposiciones se aplicarán a:",
+      "app": "A",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t02_2",
+      "officialId": 12,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la ciudadanía tendrá los siguientes derechos en el conjunto del Sistema Nacional de Salud:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t02_3",
+      "officialId": 13,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común de servicios del SNS se articula en torno a las siguientes modalidades:",
+      "app": "C",
+      "kaixo": "A",
+      "osasun": "A",
+      "isRedFlag": true,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t02_4",
+      "officialId": 11,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del SNS, la cartera común básica de servicios asistenciales comprende:",
+      "app": "C",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t02_5",
+      "officialId": 11,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del SNS, la cartera común suplementaria incluirá las siguientes prestaciones:",
+      "app": "D",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t02_6",
+      "officialId": 16,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del SNS, la prestación de atención primaria no comprenderá:",
+      "app": "A",
+      "kaixo": "D",
+      "osasun": "D",
+      "isRedFlag": true,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t02_7",
+      "officialId": 11,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del SNS, para la elaboración del contenido de la cartera común de servicios:",
+      "app": "C",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t02_8",
+      "officialId": 11,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del SNS, la exclusión de una técnica o procedimiento de la cartera de servicios se llevará a cabo cuando:",
+      "app": "A",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t02_10",
+      "officialId": 11,
+      "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del SNS, la declaración de actuaciones coordinadas en salud pública y seguridad alimentaria deberán encuadrarse en alguno de los supuestos siguientes:",
+      "app": "D",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t02.json"
+    },
+    {
+      "id": "tec-comun-t03_1",
+      "officialId": 21,
+      "question": "Según dispone la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la ordenación del régimen personal estatutario de los servicios de salud se rige por una serie de principios y criterios. Señale cuales no están entre los mencionados por esta ley.",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_4",
+      "officialId": 24,
+      "question": "La pérdida de la condición de personal estatutario regulada en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, se produce:",
+      "app": "D",
+      "kaixo": "CB",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_8",
+      "officialId": 28,
+      "question": "De acuerdo con la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, señale la respuesta correcta respecto a las retribuciones del personal estatutario:",
+      "app": "C",
+      "kaixo": "A",
+      "osasun": "A",
+      "isRedFlag": true,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_9",
+      "officialId": 29,
+      "question": "La pérdida de la condición de personal estatutario de los servicios de salud se produce cuando la incapacidad permanente sea declarada:",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_10",
+      "officialId": 30,
+      "question": "En el supuesto del personal estatutario de los servicios de salud:",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_11",
+      "officialId": 31,
+      "question": "Para el personal estatutario de los servicios de salud, el período nocturno tendrá la siguiente duración:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_12",
+      "officialId": 32,
+      "question": "Según establece la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+      "app": "B",
+      "kaixo": "BC",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_13",
+      "officialId": 33,
+      "question": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud regula el descanso semanal. Señale la respuesta que no es correcta:",
+      "app": "C",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_14",
+      "officialId": 34,
+      "question": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t03_15",
+      "officialId": 35,
+      "question": "La excedencia voluntaria solicitada por el personal estatutario de los servicios de salud por interés particular exige haber prestado servicios efectivos en cualquiera de las Administraciones públicas durante:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t03.json"
+    },
+    {
+      "id": "tec-comun-t04_7",
+      "officialId": 42,
+      "question": "El contrato-programa, tal y como establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_9",
+      "officialId": 44,
+      "question": "Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_10",
+      "officialId": 45,
+      "question": "A los efectos de la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las plantillas de personal del ente público Osakidetza-Servicio Vasco de Salud:",
+      "app": "C",
+      "kaixo": "B",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_11",
+      "officialId": 46,
+      "question": "En el ámbito territorial de la CAPV, las inspecciones necesarias para asegurar el cumplimiento de lo previsto en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi y en el resto de la legislación sanitaria corresponde:",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_12",
+      "officialId": 47,
+      "question": "Señale cuál de los siguientes criterios no está contemplado en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi para la clasificación de las infracciones en leves, graves o muy graves:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_13",
+      "officialId": 48,
+      "question": "Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, en materia de sanciones señale la respuesta correcta:",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_14",
+      "officialId": 49,
+      "question": "Según la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las organizaciones a través de las que se procede a la provisión de servicios sanitarios con medios adscritos al ente público Osakidetza:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_15",
+      "officialId": 50,
+      "question": "Respecto al personal sujeto al régimen estatutario que establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale la respuesta correcta:",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_16",
+      "officialId": 51,
+      "question": "Corresponderá la presidencia del ente público Osakidetza-Servicio Vasco de Salud a:",
+      "app": "B",
+      "kaixo": "D",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_17",
+      "officialId": 52,
+      "question": "La función de nombrar y separar a quienes ocupen las Direcciones de División de la organización central del ente público corresponde a:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_24",
+      "officialId": 59,
+      "question": "Corresponde a cada organización de servicios sanitarios del ente público Osakidetza el ejercicio de todas las facultades de gestión y administración que se requieran, quedando excluidas únicamente:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_25",
+      "officialId": 60,
+      "question": "El número de integrantes del equipo directivo de las organizaciones de servicios sanitarios del ente público Osakidetza:",
+      "app": "A",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t04_26",
+      "officialId": 61,
+      "question": "La función de representar al ente público Osakidetza en la negociación colectiva del Acuerdo Marco de Condiciones de Trabajo del Personal corresponde a:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t04.json"
+    },
+    {
+      "id": "tec-comun-t05_3",
+      "officialId": 66,
+      "question": "Según el Artículo 1 del Decreto 100/2018 de las OSI del ente público Osakidetza, ¿bajo qué principio fundamental actuarán las OSI?",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "D",
+      "isRedFlag": true,
+      "file": "tec-comun-t05.json"
+    },
+    {
+      "id": "tec-comun-t05_6",
+      "officialId": 70,
+      "question": "Según el Decreto 100/2018 de las OSI de Osakidetza, para que una OSI sea clasificada como de Tipo III debe integrar, junto con servicios de atención primaria, un hospital de carácter general y tener una base poblacional atendida inferior a:",
+      "app": "B",
+      "kaixo": "C",
+      "osasun": "C",
+      "isRedFlag": true,
+      "file": "tec-comun-t05.json"
+    },
+    {
+      "id": "tec-comun-t05_7",
+      "officialId": 72,
+      "question": "Según el Artículo 5 del Decreto 100/2018 de las OSI de Osakidetza, ¿cuáles son los tres órganos de participación que conforman la estructura organizativa de las OSI?",
+      "app": "B",
+      "kaixo": "A",
+      "osasun": "A",
+      "isRedFlag": true,
+      "file": "tec-comun-t05.json"
+    },
+    {
+      "id": "tec-comun-t05_9",
+      "officialId": 73,
+      "question": "De acuerdo con el Decreto 100/2018 de las OSI de Osakidetza, en las OSI de Tipo IV, la Dirección Gerencia asume, con el apoyo de puestos funcionales asistenciales, las funciones que corresponden a:",
+      "app": "C",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t05.json"
+    },
+    {
+      "id": "tec-comun-t05_15",
+      "officialId": 80,
+      "question": "Según el Artículo 19.1 del Decreto 100/2018 de las OSI de Osakidetza, ¿quién ejerce la presidencia del Consejo Clínico Asistencial?",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t05.json"
+    },
+    {
+      "id": "tec-comun-t06_1",
+      "officialId": 81,
+      "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son titulares de los derechos y deberes recogidos en esta Declaración:",
+      "app": "B",
+      "kaixo": "A",
+      "osasun": "A",
+      "isRedFlag": true,
+      "file": "tec-comun-t06.json"
+    },
+    {
+      "id": "tec-comun-t06_2",
+      "officialId": 82,
+      "question": "Según el Decreto 147/2015, de 21 de julio, todos los derechos y obligaciones establecidos son exigibles:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t06.json"
+    },
+    {
+      "id": "tec-comun-t06_3",
+      "officialId": 83,
+      "question": "Según el Decreto 147/2015, de 21 de julio, los principios que informan e inspiran el conjunto de acciones de carácter sanitario del sistema sanitario de Euskadi son:",
+      "app": "A",
+      "kaixo": "D",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t06.json"
+    },
+    {
+      "id": "tec-comun-t06_4",
+      "officialId": 84,
+      "question": "A los efectos de la Declaración sobre Derechos y Deberes recogida en el Decreto 147/2015, de 21 de julio, se configuran las siguientes fases de la vida en las que se concretan necesidades específicas:",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t06.json"
+    },
+    {
+      "id": "tec-comun-t06_5",
+      "officialId": 85,
+      "question": "Según el Decreto 147/2015, de 21 de julio, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asistencia sanitaria específica referida al final de la vida, tienen derecho a:",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t06.json"
+    },
+    {
+      "id": "tec-comun-t06_6",
+      "officialId": 86,
+      "question": "Según el Decreto 147/2015, de 21 de julio, la persona paciente o usuaria:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t06.json"
+    },
+    {
+      "id": "tec-comun-t06_7",
+      "officialId": 87,
+      "question": "Según el Decreto 147/2015, de 21 de julio, los Servicios de Atención a Pacientes y personas Usuarias:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t06.json"
+    },
+    {
+      "id": "tec-comun-t06_8",
+      "officialId": 88,
+      "question": "Según el Decreto 147/2015, de 21 de julio, las reclamaciones contra actuaciones del personal:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t06.json"
+    },
+    {
+      "id": "tec-comun-t08_1",
+      "officialId": 89,
+      "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, la documentación clínica es:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t08.json"
+    },
+    {
+      "id": "tec-comun-t08_2",
+      "officialId": 89,
+      "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, la información asistencial:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t08.json"
+    },
+    {
+      "id": "tec-comun-t08_3",
+      "officialId": 89,
+      "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, la información asistencial contiene, como mínimo:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t08.json"
+    },
+    {
+      "id": "tec-comun-t08_4",
+      "officialId": 89,
+      "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, garantiza el cumplimiento del derecho a la información asistencial:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t08.json"
+    },
+    {
+      "id": "tec-comun-t08_5",
+      "officialId": 89,
+      "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, la persona titular del derecho a la información asistencial es:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t08.json"
+    },
+    {
+      "id": "tec-comun-t08_6",
+      "officialId": 89,
+      "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, cuando existe riesgo inmediato grave para la integridad física o psíquica de la persona enferma y no es posible conseguir su autorización:",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t08.json"
+    },
+    {
+      "id": "tec-comun-t08_7",
+      "officialId": 89,
+      "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, el personal facultativo proporcionará a la persona paciente, antes de recabar su consentimiento escrito, la información básica siguiente:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t08.json"
+    },
+    {
+      "id": "tec-comun-t08_8",
+      "officialId": 89,
+      "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, en caso de que la persona paciente no acepte el alta:",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t08.json"
+    },
+    {
+      "id": "tec-comun-t09_1",
+      "officialId": 97,
+      "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la expresión de los objetivos vitales y valores personales tiene como fin:",
+      "app": "D",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t09.json"
+    },
+    {
+      "id": "tec-comun-t09_2",
+      "officialId": 97,
+      "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, en el documento de voluntades anticipadas:",
+      "app": "D",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t09.json"
+    },
+    {
+      "id": "tec-comun-t09_3",
+      "officialId": 99,
+      "question": "Según la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, si el nombramiento de representante en el documento de instrucciones previas ha recaído en favor de la persona cónyuge o pareja de hecho de la persona otorgante:",
+      "app": "A",
+      "kaixo": "D",
+      "osasun": "D",
+      "isRedFlag": true,
+      "file": "tec-comun-t09.json"
+    },
+    {
+      "id": "tec-comun-t09_4",
+      "officialId": 100,
+      "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, las instrucciones sobre el tratamiento pueden referirse:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t09.json"
+    },
+    {
+      "id": "tec-comun-t09_5",
+      "officialId": 98,
+      "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, el documento de voluntades anticipadas:",
+      "app": "D",
+      "kaixo": "A",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t09.json"
+    },
+    {
+      "id": "tec-comun-t09_6",
+      "officialId": 102,
+      "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, el documento de voluntades anticipadas puede ser modificado, sustituido por otro o revocado en cualquier momento por la persona otorgante:",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t09.json"
+    },
+    {
+      "id": "tec-comun-t09_7",
+      "officialId": 103,
+      "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, la voluntad de la persona prevalece sobre las instrucciones contenidas en el documento de voluntades anticipadas ante cualquier intervención clínica siempre que:",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t09.json"
+    },
+    {
+      "id": "tec-comun-t09_8",
+      "officialId": 97,
+      "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, en el documento de voluntades anticipadas se tendrán por no puestas:",
+      "app": "D",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t09.json"
+    },
+    {
+      "id": "tec-comun-t10_1",
+      "officialId": 105,
+      "question": "Según dispone la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, podrán tener acceso a los datos personales de las personas fallecidas:",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t10.json"
+    },
+    {
+      "id": "tec-comun-t10_2",
+      "officialId": 106,
+      "question": "Señale la respuesta que no es correcta. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, a efectos del tratamiento de los datos, el consentimiento de la persona afectada tiene que ser una manifestación de voluntad que cumpla las siguientes características:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t10.json"
+    },
+    {
+      "id": "tec-comun-t10_3",
+      "officialId": 107,
+      "question": "Con relación al tratamiento de los datos personales de una persona menor de edad, señale la respuesta correcta:",
+      "app": "A",
+      "kaixo": "C",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t10.json"
+    },
+    {
+      "id": "tec-comun-t10_4",
+      "officialId": 108,
+      "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, en su artículo 9 considera categorías especiales de datos aquellos que permitan, respecto a la persona afectada, identificar:",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t10.json"
+    },
+    {
+      "id": "tec-comun-t10_6",
+      "officialId": 110,
+      "question": "Respecto al derecho de rectificación que regula la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, señale la respuesta correcta:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t10.json"
+    },
+    {
+      "id": "tec-comun-t10_7",
+      "officialId": 111,
+      "question": "Con relación al tratamiento de datos con fines de videovigilancia, señale la respuesta correcta:",
+      "app": "A",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t10.json"
+    },
+    {
+      "id": "tec-comun-t10_8",
+      "officialId": 112,
+      "question": "Respecto a los sistemas de información de denuncias internas que contempla la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales, es correcta la siguiente afirmación:",
+      "app": "B",
+      "kaixo": "A",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t10.json"
+    },
+    {
+      "id": "tec-comun-t11_1",
+      "officialId": 113,
+      "question": "El artículo 1 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, añade un concepto específico al objeto de la ley que refuerza el fin último de la norma, ¿cuál es?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t11.json"
+    },
+    {
+      "id": "tec-comun-t11_2",
+      "officialId": 114,
+      "question": "Según el artículo 2 del Decreto Legislativo 1/2023, de 16 de marzo, ¿a qué entidades privadas les es exigible el cumplimiento de los principios generales de esta ley durante su relación con la administración?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t11.json"
+    },
+    {
+      "id": "tec-comun-t11_3",
+      "officialId": 115,
+      "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, ¿cuál de estos es un principio general de actuación de los poderes públicos vascos incorporado en la nueva redacción del artículo 3?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t11.json"
+    },
+    {
+      "id": "tec-comun-t12_1",
+      "officialId": 121,
+      "question": "¿Cuántos Objetivos Generales, clasificados como finalistas e instrumentales, se definen en la estructura del Plan de Salud Euskadi 2030?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t12.json"
+    },
+    {
+      "id": "tec-comun-t12_2",
+      "officialId": 122,
+      "question": "Según el Plan de Salud Euskadi 2030, la VISIÓN que se aspira a lograr como país es:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t12.json"
+    },
+    {
+      "id": "tec-comun-t12_4",
+      "officialId": 124,
+      "question": "El Objetivo General 1 (OG1) del Plan de Salud Euskadi 2030 se enfoca en:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t12.json"
+    },
+    {
+      "id": "tec-comun-t12_6",
+      "officialId": 126,
+      "question": "¿A qué hace referencia el acrónimo AVAD en el Plan de Salud Euskadi 2030?",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t12.json"
+    },
+    {
+      "id": "tec-comun-t12_9",
+      "officialId": 129,
+      "question": "Según el modelo de evaluación del Plan de Salud Euskadi 2030, ¿cuáles son los cuatro criterios fundamentales para determinar el éxito de las intervenciones?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t12.json"
+    },
+    {
+      "id": "tec-comun-t12_10",
+      "officialId": 130,
+      "question": "En la lucha contra las desigualdades, ¿qué tipo de soluciones habitacionales promueve el Plan de Salud Euskadi 2030 para las diferentes etapas de la vida?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t12.json"
+    },
+    {
+      "id": "tec-comun-t12_11",
+      "officialId": 131,
+      "question": "Según la comparativa de la Memoria Económica del Plan de Salud Euskadi 2030, ¿cuál es el programa presupuestario (fuera del gasto general de Osakidetza) con mayor dotación?",
+      "app": "B",
+      "kaixo": "A",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t12.json"
+    },
+    {
+      "id": "tec-comun-t13_4",
+      "officialId": 139,
+      "question": "Sobre el impacto del cambio global y climatico, el Diagnostico del Pacto Vasco de Salud de Euskadi advierte de la aparicion de:",
+      "app": "B",
+      "kaixo": "D",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t13.json"
+    },
+    {
+      "id": "tec-comun-t13_5",
+      "officialId": 140,
+      "question": "El Diagnostico del Pacto Vasco de Salud de Euskadi propone que los indicadores sanitarios para evaluar el sistema deben:",
+      "app": "D",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t13.json"
+    },
+    {
+      "id": "tec-comun-t13_6",
+      "officialId": 141,
+      "question": "Cual es la finalidad principal de los Valores Fundamentales del Pacto Vasco de Salud, segun el Libro de Valores y principios?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t13.json"
+    },
+    {
+      "id": "tec-comun-t13_8",
+      "officialId": 143,
+      "question": "El principio de Innovacion en el Pacto Vasco de Salud se aplica a:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t13.json"
+    },
+    {
+      "id": "tec-comun-t13_9",
+      "officialId": 144,
+      "question": "En el marco del Pacto Vasco de Salud, la Orientacion al Valor significa que el sistema debe priorizar:",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t13.json"
+    },
+    {
+      "id": "tec-comun-t13_10",
+      "officialId": 145,
+      "question": "En que grandes ambitos se estructuran las Lineas Estrategicas del Pacto Vasco de Salud?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t13.json"
+    },
+    {
+      "id": "tec-comun-t13_11",
+      "officialId": 146,
+      "question": "Cual es el papel de la Atencion Primaria y Comunitaria dentro de las Lineas Estrategicas del Pacto Vasco de Salud?",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t13.json"
+    },
+    {
+      "id": "tec-comun-t14_1",
+      "officialId": 151,
+      "question": "Cual es el Objetivo General establecido para la Estrategia de Seguridad del Paciente 20-30?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t14.json"
+    },
+    {
+      "id": "tec-comun-t14_3",
+      "officialId": 153,
+      "question": "Cuales son las dos nuevas Lineas de Accion incorporadas en la Estrategia de Seguridad del Paciente 20-30 que responden a una necesidad percibida por las personas expertas?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t14.json"
+    },
+    {
+      "id": "tec-comun-t14_4",
+      "officialId": 154,
+      "question": "De acuerdo con la Estrategia de Seguridad del Paciente 20-30, como se denomina al incidente de seguridad que, a diferencia del incidente sin daño, si ocasiona algun tipo de daño a las personas atendidas?",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t14.json"
+    },
+    {
+      "id": "tec-comun-t14_5",
+      "officialId": 155,
+      "question": "Cual es el enfoque principal de la Linea de Accion Corporativa L2 de la Estrategia de Seguridad del Paciente 20-30?",
+      "app": "D",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t14.json"
+    },
+    {
+      "id": "tec-comun-t14_6",
+      "officialId": 156,
+      "question": "Cual de los siguientes es el Objetivo Especifico numero 1 de la Estrategia de Seguridad del Paciente 20-30, enfocado en el cambio interno?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t14.json"
+    },
+    {
+      "id": "tec-comun-t14_7",
+      "officialId": 157,
+      "question": "La Linea de Accion Corporativa L8 de la Estrategia de Seguridad del Paciente 20-30 esta dedicada a:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t14.json"
+    },
+    {
+      "id": "tec-comun-t15_1",
+      "officialId": 161,
+      "question": "Segun el diagnostico del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza, que porcentaje de mujeres y hombres, respectivamente, componia la plantilla total de Osakidetza en enero de 2025?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_3",
+      "officialId": 163,
+      "question": "Que institucion aprueba el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
+      "app": "D",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_4",
+      "officialId": 164,
+      "question": "De acuerdo con el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028), que concepto define la dificultad invisible que encuentran las mujeres para acceder a puestos de mayor responsabilidad y toma de decisiones?",
+      "app": "D",
+      "kaixo": "D",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_5",
+      "officialId": 162,
+      "question": "Una de las Metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) es CORRESPONSABILIDAD. Cual es el objetivo especifico asociado a esta meta?",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "D",
+      "isRedFlag": true,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_6",
+      "officialId": 166,
+      "question": "Cual fue el objetivo del I Plan de Igualdad, teniendo en cuenta su condicion de primer plan estrategico de Osakidetza en esta materia?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_9",
+      "officialId": 169,
+      "question": "El III Plan de Normalizacion del Uso del Euskera en Osakidetza 2022-2028 establece respecto a los mensajes audiovisuales que:",
+      "app": "A",
+      "kaixo": "C",
+      "osasun": "C",
+      "isRedFlag": true,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_12",
+      "officialId": 169,
+      "question": "El III Plan de Normalizacion del Uso del Euskera en Osakidetza 2022-2028 contempla que en todos los servicios de recepcion, admision, unidades asistenciales y administrativas a toda la ciudadania vascohablante debe garantizarse:",
+      "app": "A",
+      "kaixo": "C",
+      "osasun": "C",
+      "isRedFlag": true,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_13",
+      "officialId": 169,
+      "question": "El III Plan de Normalizacion del Uso del Euskera en Osakidetza 2022-2028 establece que, en los escritos individualizados de respuesta a solicitudes y reclamaciones de pacientes o personas usuarias se utilizara:",
+      "app": "A",
+      "kaixo": "C",
+      "osasun": "C",
+      "isRedFlag": true,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_14",
+      "officialId": 174,
+      "question": "Siguiendo lo previsto en el III Plan de Normalizacion del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta que NO es correcta:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_15",
+      "officialId": 175,
+      "question": "En atencion a lo previsto en el III Plan de Normalizacion del Uso del Euskera en Osakidetza 2022-2028, en todos los centros de atencion primaria ha de ponerse en marcha un procedimiento para proponer servicios en euskera. ¿A que servicios se refiere?",
+      "app": "C",
+      "kaixo": "D",
+      "osasun": "D",
+      "isRedFlag": true,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_16",
+      "officialId": 176,
+      "question": "Conforme al III Plan de Normalizacion del Uso del Euskera en Osakidetza 2022-2028:",
+      "app": "B",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_17",
+      "officialId": 177,
+      "question": "Segun el Resumen Ejecutivo del Plan Oncologico Integral de Euskadi (POIE) 2025-2030, de que porcentaje de los fallecimientos en Euskadi fue responsable el cancer en el año 2023?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_18",
+      "officialId": 177,
+      "question": "Segun el Resumen Ejecutivo del POIE 2025-2030, cuales fueron las dos localizaciones de cancer mas frecuentes en Euskadi en el periodo 2015-2019, consideradas separadamente por sexo?",
+      "app": "B",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_19",
+      "officialId": 179,
+      "question": "Cual de las siguientes es una de las aspiraciones definidas en la VISION del Plan Oncologico Integral de Euskadi (POIE) 2025-2030?",
+      "app": "A",
+      "kaixo": "A",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t15_21",
+      "officialId": 181,
+      "question": "En el POIE 2025-2030, la Centralidad de la persona y humanizacion como Principio Rector incluye la incorporacion de la perspectiva de genero y la atencion a:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t15.json"
+    },
+    {
+      "id": "tec-comun-t16_1",
+      "officialId": 185,
+      "question": "Cual es el objeto fundamental de la Ley Organica 3/2021, de 24 de marzo, de regulacion de la eutanasia, segun su Articulo 1?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_2",
+      "officialId": 186,
+      "question": "Conforme al Articulo 5 de la LO 3/2021, de regulacion de la eutanasia, que requisito de nacionalidad se exige para poder recibir la prestacion de ayuda para morir?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_4",
+      "officialId": 188,
+      "question": "Segun el Articulo 5 de la LO 3/2021, de regulacion de la eutanasia, cual es la condicion que debe padecer la persona paciente para solicitar la prestacion de ayuda para morir?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "B",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_5",
+      "officialId": 189,
+      "question": "Segun la LO 3/2021, de regulacion de la eutanasia, cual debe ser la periodicidad minima con la que el personal facultativo responsable debe consultar a la persona paciente, una vez presentada la solicitud, para confirmar si mantiene su deseo?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_7",
+      "officialId": 191,
+      "question": "Segun la LO 3/2021, de regulacion de la eutanasia, que define como padecimiento grave, cronico e imposibilitante?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_8",
+      "officialId": 192,
+      "question": "Segun la LO 3/2021, de regulacion de la eutanasia, cual es el plazo que tiene la persona facultativa responsable para comunicar la resolucion favorable a la Comision de Garantia y Evaluacion para su posterior verificacion?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "D",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_9",
+      "officialId": 193,
+      "question": "Cual es el principio general que establece la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Publicas?",
+      "app": "A",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_10",
+      "officialId": 194,
+      "question": "Con caracter general, el personal comprendido en la Ley 53/1984, de Incompatibilidades, podra desempeñar:",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_11",
+      "officialId": 195,
+      "question": "Segun la Ley 53/1984, de Incompatibilidades, que requisito es imprescindible para autorizar la compatibilidad con una actividad privada?",
+      "app": "C",
+      "kaixo": "C",
+      "osasun": "A",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_12",
+      "officialId": 196,
+      "question": "Segun la Ley 53/1984, de Incompatibilidades, puede percibirse mas de una remuneracion con cargo a los presupuestos publicos?",
+      "app": "B",
+      "kaixo": "B",
+      "osasun": "C",
+      "isRedFlag": false,
+      "file": "tec-comun-t16.json"
+    },
+    {
+      "id": "tec-comun-t16_16",
+      "officialId": 200,
+      "question": "La finalidad principal de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Publicas, es:",
+      "app": "A",
+      "kaixo": "B",
+      "osasun": "B",
+      "isRedFlag": true,
+      "file": "tec-comun-t16.json"
+    }
+  ]
+}

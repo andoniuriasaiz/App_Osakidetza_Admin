@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Auditoría Osakidetza 2026</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Outfit', sans-serif; background-color: #0f172a; color: #f1f5f9; }
+        .glass { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1); }
+        .card-hover:hover { transform: translateY(-5px); transition: all 0.3s ease; box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
+        .status-fail { color: #f87171; background: rgba(248, 113, 113, 0.1); }
+        .status-match { color: #4ade80; background: rgba(74, 222, 128, 0.1); }
+        .status-dispute { color: #fbbf24; background: rgba(251, 191, 36, 0.1); }
+    </style>
+</head>
+<body class="p-6">
+    <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <header class="mb-10 flex justify-between items-end">
+            <div>
+                <h1 class="text-4xl font-bold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">Auditoría de Consenso Osakidetza</h1>
+                <p class="text-slate-400 text-lg mt-2">Versión 5.0 - Análisis de Contenido (Fuzzy Match)</p>
+            </div>
+            <div class="text-right">
+                <span class="text-xs uppercase tracking-widest text-slate-500">Última actualización</span>
+                <p class="text-blue-400 font-mono">2026-03-31 15:30</p>
+            </div>
+        </header>
+
+        <!-- Stats Overview -->
+        <div id="statsGrid" class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-10">
+            <!-- Dynamic Stats injected here -->
+        </div>
+
+        <!-- Charts Row -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-10">
+            <div class="glass p-6 rounded-2xl">
+                <h3 class="text-xl font-semibold mb-6">Salud de la Base de Datos</h3>
+                <canvas id="mainChart" height="200"></canvas>
+            </div>
+            <div class="glass p-6 rounded-2xl">
+                <h3 class="text-xl font-semibold mb-6">Distribución por Categoría</h3>
+                <canvas id="radarChart" height="200"></canvas>
+            </div>
+        </div>
+
+        <!-- Failure Explorer -->
+        <div class="glass rounded-2xl overflow-hidden mb-10">
+            <div class="p-6 border-b border-slate-700 flex justify-between items-center">
+                <h3 class="text-xl font-semibold">Explorador de Conflictos (App vs Webs)</h3>
+                <div class="flex gap-4">
+                    <select id="catFilter" class="bg-slate-800 border border-slate-600 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        <option value="ALL">Todas las Categorías</option>
+                        <option value="C2">C2 Común</option>
+                        <option value="A2">A2 Común</option>
+                        <option value="ADM">Administrativo</option>
+                        <option value="AUX">Auxiliar</option>
+                    </select>
+                </div>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="w-full text-left">
+                    <thead class="bg-slate-800/50 text-slate-400 text-sm">
+                        <tr>
+                            <th class="px-6 py-4">ID</th>
+                            <th class="px-6 py-4">Pregunta</th>
+                            <th class="px-6 py-4">App</th>
+                            <th class="px-6 py-4">Kaixo</th>
+                            <th class="px-6 py-4">Osasun</th>
+                            <th class="px-6 py-4">Consensus</th>
+                            <th class="px-6 py-4">Estado</th>
+                        </tr>
+                    </thead>
+                    <tbody id="conflictTable" class="divide-y divide-slate-700">
+                        <!-- Content injected here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <footer class="text-center text-slate-500 text-sm mt-20">
+            <p>© 2026 Auditoría Osakidetza. Análisis basado en 3 fuentes independientes.</p>
+        </footer>
+    </div>
+
+    <script>
+        let auditData = {};
+
+        
+        function init() {
+            try {
+                auditData = ' + data + ';
+                renderAll();
+            } catch (e) {
+                console.error("Error loading data:", e);
+                document.body.innerHTML += "<div class='p-10 text-red-400'>Error al deserializar los datos internos.</div>";
+            }
+        }
+     catch (e) {
+                console.error("Error loading data:", e);
+                document.body.innerHTML += '<div class="p-10 text-red-400">Error: No se pudo cargar CLEAN_CONSENSUS.json. Asegúrate de que el archivo existe en la carpeta.</div>';
+            }
+        }
+
+        function renderAll() {
+            renderStats();
+            renderCharts();
+            renderTable();
+        }
+
+        function renderStats() {
+            let total = 0, matches = 0, fails = 0, disputes = 0;
+            Object.values(auditData).forEach(cat => {
+                cat.forEach(q => {
+                    total++;
+                    if (q.status === 'MATCH') matches++;
+                    else if (q.status === 'FAIL_APP') fails++;
+                    else disputes++;
+                });
+            });
+
+            const grid = document.getElementById('statsGrid');
+            grid.innerHTML = `
+                <div class="glass p-6 rounded-2xl card-hover">
+                    <p class="text-slate-400 text-sm font-semibold mb-2">Total Analizadas</p>
+                    <p class="text-4xl font-bold">${total}</p>
+                </div>
+                <div class="glass p-6 rounded-2xl card-hover border-l-4 border-emerald-500">
+                    <p class="text-emerald-400 text-sm font-semibold mb-2">Acuerdo Total</p>
+                    <p class="text-4xl font-bold">${matches}</p>
+                </div>
+                <div class="glass p-6 rounded-2xl card-hover border-l-4 border-red-500">
+                    <p class="text-red-400 text-sm font-semibold mb-2">Fallos Confirmados</p>
+                    <p class="text-4xl font-bold">${fails}</p>
+                </div>
+                <div class="glass p-6 rounded-2xl card-hover border-l-4 border-amber-500">
+                    <p class="text-amber-400 text-sm font-semibold mb-2">Disputas/Dudas</p>
+                    <p class="text-4xl font-bold">${disputes}</p>
+                </div>
+            `;
+        }
+
+        function renderCharts() {
+            let matches = 0, fails = 0, disputes = 0;
+            Object.values(auditData).forEach(cat => {
+                cat.forEach(q => {
+                    if (q.status === 'MATCH') matches++;
+                    else if (q.status === 'FAIL_APP') fails++;
+                    else disputes++;
+                });
+            });
+
+            new Chart(document.getElementById('mainChart'), {
+                type: 'doughnut',
+                data: {
+                    labels: ['Acuerdo', 'Fallo App', 'Disputa/Incompleto'],
+                    datasets: [{
+                        data: [matches, fails, disputes],
+                        backgroundColor: ['#10b981', '#ef4444', '#f59e0b'],
+                        borderColor: 'transparent'
+                    }]
+                },
+                options: { plugins: { legend: { position: 'right', labels: { color: '#94a3b8' } } } }
+            });
+        }
+
+        function renderTable() {
+            const tbody = document.getElementById('conflictTable');
+            const cat = document.getElementById('catFilter').value;
+            tbody.innerHTML = '';
+
+            let pool = cat === 'ALL' ? Object.values(auditData).flat() : auditData[cat];
+            
+            // Priority: Show FAIL_APP first
+            pool.sort((a,b) => (a.status === 'FAIL_APP' ? -1 : 1));
+
+            pool.forEach(q => {
+                const tr = document.createElement('tr');
+                tr.className = 'hover:bg-slate-800/30 transition-colors';
+                const statusClass = q.status === 'MATCH' ? 'status-match' : q.status === 'FAIL_APP' ? 'status-fail' : 'status-dispute';
+                
+                tr.innerHTML = `
+                    <td class="px-6 py-4 font-mono text-xs text-slate-500">${q.id}</td>
+                    <td class="px-6 py-4 text-sm max-w-md truncate" title="${q.text}">${q.text}</td>
+                    <td class="px-6 py-4 font-bold text-center">${q.app}</td>
+                    <td class="px-6 py-4 font-bold text-center text-slate-400">${q.k}</td>
+                    <td class="px-6 py-4 font-bold text-center text-slate-400">${q.o}</td>
+                    <td class="px-6 py-4 font-bold text-center text-emerald-400">${q.consensus}</td>
+                    <td class="px-6 py-4">
+                        <span class="px-3 py-1 rounded-full text-xs font-bold ${statusClass}">${q.status}</span>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        document.getElementById('catFilter').addEventListener('change', renderTable);
+        init();
+    </script>
+</body>
+</html>

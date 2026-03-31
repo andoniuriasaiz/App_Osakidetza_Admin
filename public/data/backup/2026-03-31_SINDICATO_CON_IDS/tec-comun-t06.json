@@ -1,0 +1,290 @@
+[
+  {
+    "id": "tec-comun-t06_1",
+    "questionNum": 1,
+    "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son titulares de los derechos y deberes recogidos en esta Declaración:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todas las personas que accedan o utilicen las prestaciones y servicios sanitarios que se proporcionan por el sistema sanitario de Euskadi."
+      },
+      {
+        "value": 2,
+        "text": "Todas las personas nacidas en Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "Todas las personas empadronadas en Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Todas las personas nacidas en Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t06",
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
+  },
+  {
+    "id": "tec-comun-t06_2",
+    "questionNum": 2,
+    "question": "Según el Decreto 147/2015, de 21 de julio, todos los derechos y obligaciones establecidos son exigibles:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En relación a todas las acciones de carácter sanitario, incluyendo docencia, en centros de titularidad pública o privada o concertados de Euskadi. Las acciones relativas a la investigación biomédica quedan fuera de esta Declaración."
+      },
+      {
+        "value": 2,
+        "text": "En relación a todas las acciones de carácter sanitario, incluyendo docencia, en centros de titularidad pública o concertados del sistema sanitario de Euskadi. Las acciones relativas a la investigación biomédica quedan fuera de esta Declaración."
+      },
+      {
+        "value": 3,
+        "text": "En relación a todas las acciones de carácter sanitario, incluyendo investigación y docencia, en centros de titularidad pública o privada o concertados de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "En relación a todas las acciones de carácter sanitario, incluyendo investigación y docencia, en centros de titularidad pública o concertados del sistema sanitario de Euskadi."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "En relación a todas las acciones de carácter sanitario, incluyendo docencia, en centros de titularidad pública o privada o concertados de Euskadi. Las acciones relativas a la investigación biomédica quedan fuera de esta Declaración."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t06",
+    "explanation": "Art. 3 Decreto 147/2015: los derechos son exigibles en centros de titularidad pública, privada o concertados de Euskadi, incluyendo docencia. La investigación biomédica se rige por su normativa específica."
+  },
+  {
+    "id": "tec-comun-t06_3",
+    "questionNum": 3,
+    "question": "Según el Decreto 147/2015, de 21 de julio, los principios que informan e inspiran el conjunto de acciones de carácter sanitario del sistema sanitario de Euskadi son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El respeto a la libertad de la persona, a su dignidad y a la autonomía en las decisiones que afecten a su salud."
+      },
+      {
+        "value": 2,
+        "text": "El respeto a todo el personal profesional que integra el sistema sanitario de Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "La promoción de la investigación científica en el marco del sistema sanitario de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El respeto a la libertad de la persona, a su dignidad y a la autonomía en las decisiones que afecten a su salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t06",
+    "explanation": "Art. 4 Decreto 147/2015: el principio fundamental es el respeto a la libertad, dignidad y autonomía de la persona en las decisiones sobre su salud. Las opciones b y c no son principios informadores de la Declaración."
+  },
+  {
+    "id": "tec-comun-t06_4",
+    "questionNum": 4,
+    "question": "A los efectos de la Declaración sobre Derechos y Deberes recogida en el Decreto 147/2015, de 21 de julio, se configuran las siguientes fases de la vida en las que se concretan necesidades específicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "1. Neonatología, infancia y adolescencia. 2. Salud sexual y reproductiva, embarazo y parto. 3. Salud laboral. 4. Personas mayores y final de la vida."
+      },
+      {
+        "value": 2,
+        "text": "1. Infancia y adolescencia. 2. Salud sexual y reproductiva. 3. Salud laboral. 4. Personas mayores."
+      },
+      {
+        "value": 3,
+        "text": "1. Infancia. 2. Adolescencia, salud sexual y reproductiva. 3. Personas mayores. 4. Final de la vida."
+      },
+      {
+        "value": 4,
+        "text": "1. Infancia y adolescencia. 2. Salud sexual y reproductiva. 3. Personas mayores. 4. Final de la vida."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "1. Infancia y adolescencia. 2. Salud sexual y reproductiva. 3. Personas mayores. 4. Final de la vida."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t06",
+    "explanation": "Decreto 147/2015: las fases específicas reconocidas son: infancia y adolescencia; salud sexual y reproductiva; personas mayores; y final de la vida."
+  },
+  {
+    "id": "tec-comun-t06_5",
+    "questionNum": 5,
+    "question": "Según el Decreto 147/2015, de 21 de julio, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asistencia sanitaria específica referida al final de la vida, tienen derecho a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al acompañamiento de familiares y personas allegadas en los procesos con hospitalización."
+      },
+      {
+        "value": 2,
+        "text": "Al uso, con carácter general, de habitación individual."
+      },
+      {
+        "value": 3,
+        "text": "Al acompañamiento espiritual."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t06",
+    "explanation": "Decreto 147/2015: en el ámbito del final de la vida, los derechos incluyen acompañamiento de familiares y allegados, habitación individual con carácter general y acompañamiento espiritual. Todas correctas."
+  },
+  {
+    "id": "tec-comun-t06_6",
+    "questionNum": 6,
+    "question": "Según el Decreto 147/2015, de 21 de julio, la persona paciente o usuaria:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Debe dejar por escrito las decisiones cuando sea legalmente exigible o recomendable."
+      },
+      {
+        "value": 2,
+        "text": "Debe dejar por escrito las decisiones cuando se lo solicite el personal profesional que le atienda."
+      },
+      {
+        "value": 3,
+        "text": "Debe dejar por escrito las decisiones cuando la política del centro sanitario así lo establezca."
+      },
+      {
+        "value": 4,
+        "text": "Debe dejar por escrito las decisiones cuando puedan tener relevancia a efectos de responsabilidad legal."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Debe dejar por escrito las decisiones cuando sea legalmente exigible o recomendable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t06",
+    "explanation": "Decreto 147/2015: la persona paciente tiene la obligación de dejar constancia escrita de sus decisiones cuando así lo exija la ley o sea recomendable por las circunstancias del caso."
+  },
+  {
+    "id": "tec-comun-t06_7",
+    "questionNum": 7,
+    "question": "Según el Decreto 147/2015, de 21 de julio, los Servicios de Atención a Pacientes y personas Usuarias:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Estarán disponibles en las Organizaciones de Servicios Sanitarios de Osakidetza, los centros sanitarios concertados, los centros privados y el departamento competente en materia de sanidad."
+      },
+      {
+        "value": 2,
+        "text": "Estarán disponibles en las Organizaciones de Servicios Sanitarios de Osakidetza, los centros sanitarios concertados y el departamento competente en materia de sanidad, pero no existe previsión en relación con los centros privados."
+      },
+      {
+        "value": 3,
+        "text": "Estarán disponibles en las Organizaciones de Servicios Sanitarios de Osakidetza, pero no existe previsión en relación con los centros concertados, ni con los privados ni con el departamento competente."
+      },
+      {
+        "value": 4,
+        "text": "Estarán disponibles en las Organizaciones de Servicios Sanitarios de Osakidetza y en los centros sanitarios concertados y privados, pero no existe previsión en relación con el departamento competente."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Estarán disponibles en las Organizaciones de Servicios Sanitarios de Osakidetza, los centros sanitarios concertados, los centros privados y el departamento competente en materia de sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t06",
+    "explanation": "Decreto 147/2015: los Servicios de Atención a Pacientes estarán en Osakidetza, centros concertados, privados y el departamento competente en sanidad."
+  },
+  {
+    "id": "tec-comun-t06_8",
+    "questionNum": 8,
+    "question": "Según el Decreto 147/2015, de 21 de julio, las reclamaciones contra actuaciones del personal:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se resolverán atendiendo a las normas disciplinarias específicas previa apertura, en su caso, del expediente informativo correspondiente, sin perjuicio de las responsabilidades que de los hechos pudieran derivarse."
+      },
+      {
+        "value": 2,
+        "text": "Se resolverán atendiendo a las normas disciplinarias generales previa apertura, en su caso, del expediente informativo correspondiente, sin perjuicio de las responsabilidades que de los hechos pudieran derivarse."
+      },
+      {
+        "value": 3,
+        "text": "Se resolverán atendiendo a las normas disciplinarias específicas previa apertura, en su caso, del expediente informativo y de expediente de mediación, sin perjuicio de las responsabilidades que de los hechos pudieran derivarse."
+      },
+      {
+        "value": 4,
+        "text": "Se resolverán atendiendo a las normas disciplinarias generales previa apertura, en su caso, del expediente informativo y de expediente de mediación, sin perjuicio de las responsabilidades que de los hechos pudieran derivarse."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se resolverán atendiendo a las normas disciplinarias específicas previa apertura, en su caso, del expediente informativo correspondiente, sin perjuicio de las responsabilidades que de los hechos pudieran derivarse."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t06",
+    "explanation": "Decreto 147/2015: las reclamaciones contra el personal se resuelven conforme a las normas disciplinarias específicas (no generales), con expediente informativo previo cuando corresponda."
+  }
+]

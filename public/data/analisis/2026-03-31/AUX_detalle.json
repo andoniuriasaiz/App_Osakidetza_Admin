@@ -1,0 +1,1793 @@
+[
+  {
+    "ID": 1,
+    "Txt": "Tienen derecho a formar parte de la Comunidad Autó",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 2,
+    "Txt": "La bandera del País Vasco es:",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 3,
+    "Txt": "El euskera:",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 4,
+    "Txt": "Las instituciones comunes de la Comunidad Autónoma",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 5,
+    "Txt": "Por razón de lengua:",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 6,
+    "Txt": "Tendrán la condición política de vascos:",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 7,
+    "Txt": "Los residentes en el extranjero, así como sus desc",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 8,
+    "Txt": "Los derechos y deberes fundamentales de los ciudad",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 9,
+    "Txt": "Los poderes públicos vascos, en el ámbito de su co",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 10,
+    "Txt": "Según la Ley Orgánica 3/1979, de 18 de diciembre, ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 11,
+    "Txt": "El Parlamento Vasco estará integrado por:",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 12,
+    "Txt": "El Parlamento Vasco será elegido por un periodo de",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 13,
+    "Txt": "El Parlamento elegirá de entre sus miembros:",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 14,
+    "Txt": "El Gobierno Vasco es el órgano colegiado que osten",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 15,
+    "Txt": "Las atribuciones del Gobierno y su organización, b",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 16,
+    "Txt": "El Presidente del Gobierno será designado de entre",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 32,
+    "Txt": "Según el Decreto 149/2007, de 18 de septiembre, tr",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 66,
+    "Txt": "El parte interno de notificación de accidente/inci",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 121,
+    "Txt": "La resolución de las reclamaciones de responsabili",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 122,
+    "Txt": "Cuando no se encuentre determinada expresamente la",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 135,
+    "Txt": "Según la Ley 39/2015, la Ley tiene por objeto:",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 136,
+    "Txt": "Según la Ley 39/2015, el ámbito subjetivo de aplic",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 137,
+    "Txt": "Según la Ley 39/2015, tienen capacidad de obrar an",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 138,
+    "Txt": "Según la Ley 39/2015, se consideran interesados en",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 139,
+    "Txt": "Según la Ley 39/2015, en relación con la identific",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 140,
+    "Txt": "Según la Ley 39/2015, cuando varias personas compa",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 141,
+    "Txt": "Según la Ley 39/2015, la representación podrá acre",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 142,
+    "Txt": "Según la Ley 39/2015, se considerarán interesados ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 143,
+    "Txt": "Según la Ley 39/2015, los menores de edad:",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 144,
+    "Txt": "Según la Ley 39/2015, en relación con los sistemas",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 145,
+    "Txt": "Según la Ley 39/2015, las entidades sin personalid",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 146,
+    "Txt": "Según la Ley 39/2015, cuando la representación no ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 147,
+    "Txt": "Según la Ley 39/2015, la firma de los interesados ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 148,
+    "Txt": "Según la Ley 39/2015, en los procedimientos inicia",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 149,
+    "Txt": "Según la Ley 39/2015, la identificación electrónic",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 150,
+    "Txt": "Según la Ley 39/2015, las personas tienen derecho ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 151,
+    "Txt": "Según la Ley 39/2015, están obligados a relacionar",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 152,
+    "Txt": "Según la Ley 39/2015, el derecho a conocer el esta",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 153,
+    "Txt": "Según la Ley 39/2015, la lengua de los procedimien",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 154,
+    "Txt": "Según la Ley 39/2015, los registros electrónicos p",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 155,
+    "Txt": "Según la Ley 39/2015, el derecho a ser asistido en",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 156,
+    "Txt": "Según la Ley 39/2015, la comparecencia de las pers",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 157,
+    "Txt": "Según la Ley 39/2015, las personas en sus relacion",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 158,
+    "Txt": "Según la Ley 39/2015, la responsabilidad de la tra",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 159,
+    "Txt": "Según la Ley 39/2015, las Administraciones Pública",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 162,
+    "Txt": "Según la Ley 39/2015, los plazos expresados en día",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 163,
+    "Txt": "Según la Ley 39/2015, cuando un plazo se exprese e",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 164,
+    "Txt": "Según la Ley 39/2015, cuando el último día de un p",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 165,
+    "Txt": "Según la Ley 39/2015, los actos administrativos de",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 166,
+    "Txt": "Según la Ley 39/2015, los actos administrativos pr",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 167,
+    "Txt": "Según la Ley 39/2015, serán nulos de pleno derecho",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 168,
+    "Txt": "Según la Ley 39/2015, serán anulables los actos ad",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 169,
+    "Txt": "Según la Ley 39/2015, los actos administrativos de",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 170,
+    "Txt": "Según la Ley 39/2015, cuando el acto administrativ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 171,
+    "Txt": "Según la Ley 39/2015, los recursos administrativos",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 172,
+    "Txt": "Según la Ley 39/2015, contra los actos que no pong",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 189,
+    "Txt": "Según la Ley 39/2015, los actos administrativos qu",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 190,
+    "Txt": "Según la Ley 39/2015, los actos nulos de pleno der",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 191,
+    "Txt": "Según la Ley 39/2015, los actos administrativos po",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 192,
+    "Txt": "Según la Ley 39/2015, los actos anulables podrán s",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 193,
+    "Txt": "Según la Ley 39/2015, la ampliación de plazos:",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 194,
+    "Txt": "Según la Ley 39/2015, cuando se acumulen procedimi",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 195,
+    "Txt": "Según la Ley 39/2015, los términos y plazos establ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 196,
+    "Txt": "Según la Ley 39/2015, cuando una notificación sea ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 197,
+    "Txt": "Según la Ley 39/2015, cuando la notificación se pr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 199,
+    "Txt": "Según la Ley 39/2015, los actos administrativos se",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 160,
+    "Txt": "Según la Ley 39/2015, el plazo máximo para resolve",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 161,
+    "Txt": "Según la Ley 39/2015, la suspensión del plazo máxi",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 200,
+    "Txt": "Según la Ley 39/2015, el silencio administrativo e",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 120,
+    "Txt": "Las revisiones de oficio de los actos administrati",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 173,
+    "Txt": "Según la Ley 39/2015, el plazo para interponer rec",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 174,
+    "Txt": "Según la Ley 39/2015, el recurso potestativo de re",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 175,
+    "Txt": "Según la Ley 39/2015, la interposición del recurso",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 176,
+    "Txt": "Según la Ley 39/2015, el plazo máximo para dictar ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 177,
+    "Txt": "Según la Ley 39/2015, transcurrido el plazo para r",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 178,
+    "Txt": "Según la Ley 39/2015, el plazo para interponer rec",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 179,
+    "Txt": "Según la Ley 39/2015, el plazo máximo para resolve",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 180,
+    "Txt": "Según la Ley 39/2015, el recurso extraordinario de",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 180,
+    "Txt": "Según la Ley 39/2015, el recurso extraordinario de",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 182,
+    "Txt": "Según la Ley 39/2015, el plazo para interponer rec",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 183,
+    "Txt": "Según la Ley 39/2015, el recurso extraordinario de",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 184,
+    "Txt": "Según la Ley 39/2015, contra la resolución del rec",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 185,
+    "Txt": "Según la Ley 39/2015, el recurso extraordinario de",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 186,
+    "Txt": "Según la Ley 39/2015, será causa de inadmisión de ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 187,
+    "Txt": "Según la Ley 39/2015, la interposición de un recur",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 188,
+    "Txt": "Según la Ley 39/2015, la competencia para resolver",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 198,
+    "Txt": "Según la Ley 39/2015, la nulidad de pleno derecho ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 68,
+    "Txt": "Tendrán la consideración de órganos administrativo",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 69,
+    "Txt": "La Ley 40/2015, en relación a los órganos de las A",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 70,
+    "Txt": "Si alguna disposición atribuye la competencia a un",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 71,
+    "Txt": "Contra un acuerdo de avocación:",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 72,
+    "Txt": "La encomienda de gestión supone:",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 73,
+    "Txt": "En cuanto a la delegación de firma:",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 74,
+    "Txt": "En las resoluciones y actos que se dicten mediante",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 75,
+    "Txt": "Los órganos colegiados tendrán:",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 76,
+    "Txt": "En las sesiones que celebren los órganos colegiado",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 77,
+    "Txt": "Respecto a las sesiones que celebre el órgano cole",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 78,
+    "Txt": "Corresponde al Presidente de los órganos colegiado",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 79,
+    "Txt": "Corresponde a los miembros de los órganos colegiad",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 80,
+    "Txt": "A la dirección electrónica, disponible para los ci",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 81,
+    "Txt": "Cada Administración Pública determinará las condic",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 82,
+    "Txt": "Las Administraciones Públicas podrán identificarse",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 83,
+    "Txt": "Cualquier acto o actuación realizada íntegramente ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 84,
+    "Txt": "Tiene por objeto determinar las normas aplicables ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 85,
+    "Txt": "Entre los fundamentos de acción del Estatuto Básic",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 86,
+    "Txt": "Indica el personal que se rige por la legislación ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 87,
+    "Txt": "Personal al que se aplicarán directamente las disp",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 88,
+    "Txt": "En la aplicación del Estatuto Básico del Empleado ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 89,
+    "Txt": "En el desarrollo del Estatuto Básico del Empleado ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 90,
+    "Txt": "El personal laboral al servicio de las Administrac",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 91,
+    "Txt": "El Estatuto Básico del Empleado Público clasifica ",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 92,
+    "Txt": "Al empleado público que, en virtud de nombramiento",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 93,
+    "Txt": "Entre los principios por los que se rigen los proc",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 94,
+    "Txt": "Causa por la que la Administración formaliza de of",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 95,
+    "Txt": "El funcionario interino es nombrado como tal con c",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 96,
+    "Txt": "Al empleado público que, en virtud de contrato de ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 97,
+    "Txt": "Al empleado público que, en virtud de nombramiento",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 98,
+    "Txt": "En relación al personal eventual:",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 99,
+    "Txt": "Al empleado público que desarrolla funciones direc",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 100,
+    "Txt": "La designación del personal directivo atenderá a p",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 118,
+    "Txt": "Osakidetza-Servicio Vasco de Salud, tiene por fina",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 119,
+    "Txt": "“Proporcionar a las personas que accedan sus servi",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 123,
+    "Txt": "Es el órgano rector colegiado del Ente Público Osa",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 124,
+    "Txt": "Es una función de la Presidencia del Ente Público ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 125,
+    "Txt": "El Consejo de Administración del Ente Público Osak",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 126,
+    "Txt": "El Consejo de Administración del Ente Público Osak",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 127,
+    "Txt": "La Dirección General del Ente Público Osakidetza-S",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 128,
+    "Txt": "El Plan Estratégico del Ente Público Osakidetza-Se",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 129,
+    "Txt": "Según el Decreto 255/1997 de 11 de noviembre, por ",
+    "App": "D",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 130,
+    "Txt": "Según el Decreto 255/1997 de 11 de noviembre, por ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 131,
+    "Txt": "Al frente de cada organización de servicios sanita",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 132,
+    "Txt": "Con carácter ordinario, a la Dirección Médica le c",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 133,
+    "Txt": "Los Consejos Técnicos de las organizaciones de ser",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 134,
+    "Txt": "En base al Decreto 255/1997 de 11 de noviembre, po",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 101,
+    "Txt": "La Comisión Corporativa de Traslados por Motivos d",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 102,
+    "Txt": "Según el Decreto 106/2008 es uno de los requisitos",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 103,
+    "Txt": "En relación a la consideración de servicios presta",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 104,
+    "Txt": "La Comisión paritaria de seguimiento del desarroll",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 105,
+    "Txt": "El Decreto 106/2008, de 3 de junio, por el que se ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 106,
+    "Txt": "En el compromiso de crecimiento de plantilla estru",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 107,
+    "Txt": "En relación a la Euskaldunización, el Decreto 106/",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 108,
+    "Txt": "El Decreto 106/2008, en relación a las externaliza",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 109,
+    "Txt": "Entre los aspectos adicionales al Acuerdo 2007-200",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 110,
+    "Txt": "En el Decreto 235/2007 quedan expresamente excluid",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 111,
+    "Txt": "El abono de cantidades a cargo de retribuciones co",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 112,
+    "Txt": "Conforme a la jornada anual aprobada mediante Acue",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 113,
+    "Txt": "El personal incluido en el ámbito del Acuerdo regu",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 114,
+    "Txt": "Según el Decreto 235/2007 es un motivo para la con",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 115,
+    "Txt": "En relación a las licencias para el personal conte",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 116,
+    "Txt": "La licencia por enfermedad grave, hospitalización ",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 117,
+    "Txt": "Es una situación administrativa en la que puede ha",
+    "App": "C",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 17,
+    "Txt": "Según el Decreto 149/2007, de 18 de septiembre, se",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 18,
+    "Txt": "El derecho a la segunda opinión médica tiene como ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 19,
+    "Txt": "Según el Decreto 149/2007, de 18 de septiembre, se",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 20,
+    "Txt": "Según el Decreto 149/2007, de 18 de septiembre, po",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 21,
+    "Txt": "La segunda opinión médica será realizada por:",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 22,
+    "Txt": "Preferentemente, el centro en el que se realizará ",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 23,
+    "Txt": "Cuando así sea necesario por las especiales circun",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 24,
+    "Txt": "Según el Decreto 149/2007, de 18 de septiembre la ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 25,
+    "Txt": "Según el Decreto 149/2007, de 18 de septiembre, po",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 27,
+    "Txt": "La solicitud de una segunda opinión médica podrá p",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 28,
+    "Txt": "La solicitud, que contendrá una exposición de las ",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 29,
+    "Txt": "En el centro sanitario de origen, el Servicio de A",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 30,
+    "Txt": "El Servicio de Atención al Paciente-Usuario, si hu",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 31,
+    "Txt": "Según el Decreto 149/2007, de 18 de septiembre, en",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 33,
+    "Txt": "Una vez obtenida la segunda opinión médica si el s",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 34,
+    "Txt": "Una vez obtenida la segunda opinión médica si el s",
+    "App": "D",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": false
+  },
+  {
+    "ID": 35,
+    "Txt": "La obtención de una segunda opinión médica:",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 36,
+    "Txt": "Según la Ley 31/1995, de 8 de noviembre, de Preven",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 37,
+    "Txt": "Según la Ley 31/1995, de 8 de noviembre, de Preven",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 38,
+    "Txt": "Se entenderá por “prevención”:",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 39,
+    "Txt": "Se entenderá como “riesgo laboral”:",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 40,
+    "Txt": "Se considerarán como “daños derivados del trabajo”",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 41,
+    "Txt": "Se entenderá como “riesgo laboral grave e inminent",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 42,
+    "Txt": "Se considerarán como procesos, actividades, operac",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 44,
+    "Txt": "Se entenderá como “condición de trabajo”:",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 46,
+    "Txt": "La política en materia de prevención tendrá por ob",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 47,
+    "Txt": "La elaboración de la política preventiva se llevar",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 48,
+    "Txt": "Las Administraciones públicas en materia preventiv",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 49,
+    "Txt": "La política en materia de prevención de riesgos la",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 50,
+    "Txt": "El Gobierno, a través de las correspondientes norm",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 51,
+    "Txt": "Las Administraciones públicas competentes en mater",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 52,
+    "Txt": "El Instituto Nacional de Seguridad e Higiene en el",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 53,
+    "Txt": "El Instituto Nacional de Seguridad e Higiene en el",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 54,
+    "Txt": "El Instituto Nacional de Seguridad e Higiene en el",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 55,
+    "Txt": "En relación con las Instituciones de la Unión Euro",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 56,
+    "Txt": "Corresponde a la Inspección de Trabajo y Seguridad",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 57,
+    "Txt": "La Inspección de Trabajo y Seguridad Social NO ten",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 58,
+    "Txt": "Corresponderá a las Administraciones públicas comp",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 59,
+    "Txt": "La Comisión Nacional de Seguridad y Salud en el Tr",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 60,
+    "Txt": "La Comisión Nacional de Seguridad y Salud en el Tr",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 43,
+    "Txt": "Se entenderá como “equipo de trabajo”:",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 45,
+    "Txt": "Se entenderá por “equipo de protección individual”",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 61,
+    "Txt": "Desde el punto de vista legal accidente de trabajo",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Cons": "B",
+    "Match": true
+  },
+  {
+    "ID": 62,
+    "Txt": "Los accidentes de trabajo en función de las lesion",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Cons": "C",
+    "Match": false
+  },
+  {
+    "ID": 63,
+    "Txt": "Indica cuál de las definiciones NO es correcta:",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 64,
+    "Txt": "Indica cuando NO se considera accidente in-itinere",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  },
+  {
+    "ID": 65,
+    "Txt": "Si a un trabajador le ha ocurrido un accidente, un",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Cons": "A",
+    "Match": false
+  },
+  {
+    "ID": 67,
+    "Txt": "Ante una agresión, la actuación inmediata del trab",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Cons": "D",
+    "Match": false
+  }
+]

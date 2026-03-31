@@ -33,7 +33,7 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Normativa específica Osakidetza-SVS: Las revisiones de oficio de actos nulos o anulables, los recursos extraordinarios y las reclamaciones previas a vías jurisdiccionales (excepto responsabilidad patrimonial) corresponden al órgano de mayor rango (Presidencia o DG), no a los Directores-Gerentes. Respuesta A.",
+    "explanation": "Decreto 255/1997: las revisiones de oficio y recursos extraordinarios corresponden a la Presidencia o Director General.",
     "originalId": 120
   },
   {
@@ -107,7 +107,7 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 123 Ley 39/2015: Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado. Respuesta C.",
+    "explanation": "Art. 123 Ley 39/2015: reposición contra actos que ponen fin vía administrativa.",
     "originalId": 174
   },
   {
@@ -144,7 +144,7 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 123.2 Ley 39/2015: No se podrá interponer recurso contencioso-administrativo HASTA QUE SEA RESUELTO EXPRESAMENTE O SE HAYA PRODUCIDO LA DESESTIMACIÓN PRESUNTA del recurso de reposición interpuesto. La reposición potestativa IMPIDE acudir a la vía CA mientras está pendiente. Respuesta D.",
+    "explanation": "Art. 123.2 Ley 39/2015: el recurso potestativo de reposición impide acudir a lo contencioso hasta resolución.",
     "originalId": 175
   },
   {
@@ -218,7 +218,7 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 122.2 Ley 39/2015: Transcurrido el plazo máximo para resolver el recurso de alzada sin resolución expresa, SE ENTENDERÁ DESESTIMADO POR SILENCIO ADMINISTRATIVO. El silencio en recursos es siempre negativo. Respuesta C.",
+    "explanation": "Art. 122.2 Ley 39/2015: silencio en recurso de alzada = desestimación, no caducidad.",
     "originalId": 177
   },
   {
@@ -329,7 +329,7 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión procede cuando aparezcan documentos de valor esencial para la resolución del asunto. Los errores materiales se corrigen de oficio por el cauce de la corrección de errores (Art. 109). Respuesta C.",
+    "explanation": "Art. 125 Ley 39/2015: revisión por documentos esenciales ignorados.",
     "originalId": 180
   },
   {
@@ -356,17 +356,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Al dictarlos se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente."
+      "El acto no haya sido motivado."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "explanation": "Art. 125 Ley 39/2015: revisión por documentos esenciales ignorados.",
     "originalId": 180
   },
   {

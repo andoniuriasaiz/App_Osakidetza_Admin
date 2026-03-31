@@ -1,0 +1,290 @@
+[
+  {
+    "id": "tec-t01_1",
+    "questionNum": 1,
+    "question": "En relación con el nombramiento del Gobierno, diga cuál de estas afirmaciones es cierta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Presidencia del Gobierno es nombrada por el Congreso de los Diputados."
+      },
+      {
+        "value": 2,
+        "text": "Las demás personas integrantes del Gobierno son nombradas por la persona que ostenta la Presidencia."
+      },
+      {
+        "value": 3,
+        "text": "El Rey nombrará a la persona que ostente la Presidencia y a las demás personas que integren el Gobierno."
+      },
+      {
+        "value": 4,
+        "text": "La Presidencia es nombrada por el Rey, y las demás personas integrantes del Gobierno son nombradas por quien ostenta la Presidencia del Gobierno."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La Presidencia es nombrada por el Rey, y las demás personas integrantes del Gobierno son nombradas por quien ostenta la Presidencia del Gobierno."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t01",
+    "explanation": "Art. 100 CE: los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente."
+  },
+  {
+    "id": "tec-t01_2",
+    "questionNum": 2,
+    "question": "Conforme a la Constitución de 1978, son valores superiores del ordenamiento jurídico:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La libertad, la justicia, la igualdad y el pluralismo político."
+      },
+      {
+        "value": 2,
+        "text": "La libertad, la seguridad jurídica, la igualdad y el pluralismo político."
+      },
+      {
+        "value": 3,
+        "text": "La libertad, la justicia, la igualdad y la jerarquía normativa."
+      },
+      {
+        "value": 4,
+        "text": "La justicia, la igualdad, el pluralismo político y la legalidad."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La libertad, la justicia, la igualdad y el pluralismo político."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t01",
+    "explanation": "Art. 1.1 CE: España se constituye en un Estado social y democrático de Derecho que propugna como valores superiores la libertad, la justicia, la igualdad y el pluralismo político."
+  },
+  {
+    "id": "tec-t01_3",
+    "questionNum": 3,
+    "question": "Conforme determina la Constitución de 1978, señale cuál de las siguientes afirmaciones NO es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Gobierno ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes."
+      },
+      {
+        "value": 2,
+        "text": "El Gobierno se compone de la Presidencia, de las Vicepresidencias, de los Ministerios y de las demás personas integrantes que establezca la ley."
+      },
+      {
+        "value": 3,
+        "text": "La persona candidata a la Presidencia del Gobierno será nombrada Presidente/a si obtuviere en primera votación el voto de la mayoría absoluta de los y las Diputadas."
+      },
+      {
+        "value": 4,
+        "text": "El Consejo de Estado es el supremo órgano consultivo del Gobierno."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El Consejo de Estado es el supremo órgano consultivo del Gobierno."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t01",
+    "explanation": "El Consejo de Estado es el supremo órgano consultivo del Gobierno (art. 107 CE), pero esta afirmación es correcta. La incorrecta es D porque el art. 97 CE atribuye al Gobierno la dirección de la política interior y exterior, la Administración civil y militar y la defensa del Estado. En realidad la opción incorrecta es D: el Consejo de Estado es consultivo pero no forma parte del Gobierno (arts. 98 y 107 CE)."
+  },
+  {
+    "id": "tec-t01_4",
+    "questionNum": 4,
+    "question": "Conforme a la Constitución Española de 1978:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo se reconoce la igualdad formal de todos los españoles y todas las españolas en su artículo 14."
+      },
+      {
+        "value": 2,
+        "text": "Se exige la intervención de los poderes públicos para que la igualdad sea real y efectiva."
+      },
+      {
+        "value": 3,
+        "text": "En el artículo 14 se reconoce la igualdad formal y la igualdad material de todos y todas las españolas."
+      },
+      {
+        "value": 4,
+        "text": "Se reconoce junto a la igualdad formal prevista en el artículo 14, la igualdad ante la ley de todos y todas las españolas en el artículo 9.2."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se exige la intervención de los poderes públicos para que la igualdad sea real y efectiva."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t01",
+    "explanation": "Art. 9.2 CE: corresponde a los poderes públicos promover las condiciones para que la libertad e igualdad del individuo sean reales y efectivas."
+  },
+  {
+    "id": "tec-t01_5",
+    "questionNum": 5,
+    "question": "Conforme determina la Constitución Española de 1978:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todas las lenguas españolas serán, junto con el castellano, oficiales del Estado proclamándose el deber de toda la ciudadanía española de conocerlas y el derecho a usarlas."
+      },
+      {
+        "value": 2,
+        "text": "Los Estatutos de Autonomía reconocerán banderas y enseñas propias de las Comunidades Autónomas que se utilizarán en sus edificios públicos y en sus actos oficiales."
+      },
+      {
+        "value": 3,
+        "text": "La forma política del Estado Español es la Monarquía parlamentaria."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna persona española podrá ser privada de su nacionalidad."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La forma política del Estado Español es la Monarquía parlamentaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t01",
+    "explanation": "Art. 1.3 CE: la forma política del Estado español es la Monarquía parlamentaria."
+  },
+  {
+    "id": "tec-t01_6",
+    "questionNum": 6,
+    "question": "Conforme establece la Constitución Española de 1978, el plazo máximo que puede durar la detención preventiva es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "De setenta y dos horas."
+      },
+      {
+        "value": 2,
+        "text": "De cuarenta y ocho horas."
+      },
+      {
+        "value": 3,
+        "text": "El que determine la autoridad judicial."
+      },
+      {
+        "value": 4,
+        "text": "El que determine la Ley."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "De setenta y dos horas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t01",
+    "explanation": "Art. 17.2 CE: la detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas."
+  },
+  {
+    "id": "tec-t01_7",
+    "questionNum": 7,
+    "question": "Conforme establece la Constitución Española de 1978, señale la respuesta que NO es correcta con relación al procedimiento de investidura de la persona que ostente la Presidencia del Gobierno:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Rey a través de la Presidencia del Congreso, propondrá una persona candidata a la Presidencia del Gobierno."
+      },
+      {
+        "value": 2,
+        "text": "El Rey, previa consulta con la representación designada por los partidos políticos, y a través de la Presidencia del Congreso, propondrá una persona candidata a la Presidencia del Gobierno."
+      },
+      {
+        "value": 3,
+        "text": "El Rey nombrará Presidente/a a la persona candidata que obtuviere el voto de la mayoría absoluta de las personas integrantes del Congreso de los Diputados."
+      },
+      {
+        "value": 4,
+        "text": "El Rey disolverá ambas Cámaras y convocará nuevas elecciones si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ninguna persona candidata hubiere obtenido la confianza del Congreso."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El Rey a través de la Presidencia del Congreso, propondrá una persona candidata a la Presidencia del Gobierno."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t01",
+    "explanation": "Art. 99.1 CE: el Rey, previa consulta con los representantes designados por los grupos políticos, y a través del Presidente del Congreso, propondrá un candidato. La opción A omite la consulta previa, por lo que es incorrecta."
+  },
+  {
+    "id": "tec-t01_8",
+    "questionNum": 8,
+    "question": "Conforme determina la Constitución Española de 1978, si transcurrido el plazo de dos meses a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo de la Presidencia del Congreso."
+      },
+      {
+        "value": 2,
+        "text": "El Rey disolverá el Congreso y convocará nuevas elecciones con el refrendo de la Presidencia del Gobierno saliente."
+      },
+      {
+        "value": 3,
+        "text": "El Rey disolverá el Congreso y convocará nuevas elecciones con el refrendo de la Presidencia del Congreso."
+      },
+      {
+        "value": 4,
+        "text": "El Rey disolverá ambas Cámaras y convocará elecciones con el refrendo de la Presidencia del Gobierno saliente."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo de la Presidencia del Congreso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t01",
+    "explanation": "Art. 99.5 CE: si transcurridos dos meses ningún candidato obtuviere la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso."
+  }
+]

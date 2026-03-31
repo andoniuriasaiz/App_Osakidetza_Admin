@@ -1,6 +1,6 @@
 [
   {
-    "id": "comun_1",
+    "id": "comun-t01_1",
     "questionNum": 1,
     "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria será requisito imprescindible:",
     "type": "C",
@@ -23,21 +23,21 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, ya sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas, causado con ocasión de la prestación de tal asistencia o servicios, cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública."
+      "La colegiación, cuando una ley estatal establezca esta obligación para el ejercicio de una profesión titulada o algunas actividades propias de ésta."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 2 Ley 44/2003: Para ejercer una profesión sanitaria son requisitos: la colegiación (cuando ley estatal la exija), la inexistencia de inhabilitación o suspensión, Y tener suscrito seguro de responsabilidad cuando se ejerza en asistencia sanitaria pública. Al tratarse de requisitos acumulativos, 'todo lo anterior' es la respuesta correcta. Respuesta C.",
+    "explanation": "Art. 2.1.b Ley 44/2003: Para poder ejercer una profesión sanitaria, es requisito imprescindible 'la colegiación, cuando una ley estatal establezca esta obligación para el ejercicio de una profesión titulada o algunas actividades propias de ésta'. Respuesta A.",
     "originalId": 1
   },
   {
-    "id": "comun_2",
+    "id": "comun-t01_2",
     "questionNum": 2,
     "question": "Según lo establecido en la normativa vigente sobre ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria:",
     "type": "C",
@@ -74,7 +74,7 @@
     "originalId": 2
   },
   {
-    "id": "comun_3",
+    "id": "comun-t01_3",
     "questionNum": 3,
     "question": "Con la finalidad de facilitar la observancia de los requisitos previstos en la normativa vigente para ejercer las profesiones sanitarias (señálese la afirmación que sea falsa):",
     "type": "C",
@@ -111,7 +111,7 @@
     "originalId": 3
   },
   {
-    "id": "comun_4",
+    "id": "comun-t01_4",
     "questionNum": 4,
     "question": "Según la normativa vigente, el órgano encargado del Registro Estatal de Profesionales Sanitarios podrá (indíquese la que sea correcta):",
     "type": "C",
@@ -148,7 +148,7 @@
     "originalId": 4
   },
   {
-    "id": "comun_5",
+    "id": "comun-t01_5",
     "questionNum": 5,
     "question": "En el marco de la ordenación de las profesiones sanitarias, las personas pacientes:",
     "type": "C",
@@ -185,7 +185,7 @@
     "originalId": 5
   },
   {
-    "id": "comun_6",
+    "id": "comun-t01_6",
     "questionNum": 6,
     "question": "Según la normativa de ordenación de las profesiones sanitarias, el personal profesional y las personas responsables de los centros sanitarios facilitarán a sus pacientes el ejercicio del derecho a conocer:",
     "type": "C",
@@ -222,7 +222,7 @@
     "originalId": 6
   },
   {
-    "id": "comun_7",
+    "id": "comun-t01_7",
     "questionNum": 7,
     "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, el ejercicio del derecho del personal profesional sanitario a la renuncia a la atención a una persona paciente queda condicionado a que (señálese la respuesta incorrecta):",
     "type": "C",
@@ -259,7 +259,7 @@
     "originalId": 7
   },
   {
-    "id": "comun_8",
+    "id": "comun-t01_8",
     "questionNum": 8,
     "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, las personas pacientes tienen derecho a recibir información de acuerdo con lo establecido en:",
     "type": "C",
@@ -282,10 +282,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "El Código Civil vigente."
+      "La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -296,7 +296,7 @@
     "originalId": 8
   },
   {
-    "id": "comun_9",
+    "id": "comun-t01_9",
     "questionNum": 9,
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, corresponde al personal con la titulación de Licenciatura o Grado en Medicina la indicación y realización de las actividades dirigidas a (señálese la respuesta incorrecta):",
     "type": "C",
@@ -333,7 +333,7 @@
     "originalId": 9
   },
   {
-    "id": "comun_10",
+    "id": "comun-t01_10",
     "questionNum": 10,
     "question": "Los centros sanitarios revisarán que el personal sanitario de su plantilla cumple los requisitos necesarios para ejercer la profesión conforme a lo previsto en la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias y en las demás normas aplicables:",
     "type": "C",
@@ -370,7 +370,7 @@
     "originalId": 10
   },
   {
-    "id": "comun_11",
+    "id": "comun-t01_11",
     "questionNum": 11,
     "question": "Según dispone la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, cuando una actuación sanitaria se realice por un equipo de profesionales (señálese la respuesta incorrecta):",
     "type": "C",
@@ -407,7 +407,7 @@
     "originalId": 11
   },
   {
-    "id": "comun_12",
+    "id": "comun-t01_12",
     "questionNum": 12,
     "question": "A los efectos de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias tienen la consideración de funciones de gestión clínica (señálese la respuesta incorrecta):",
     "type": "C",
@@ -444,7 +444,7 @@
     "originalId": 12
   },
   {
-    "id": "comun_13",
+    "id": "comun-t01_13",
     "questionNum": 13,
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, el ejercicio de funciones de gestión clínica estará sometido a una evaluación del desempeño y de los resultados que tendrá lugar:",
     "type": "C",
@@ -481,7 +481,7 @@
     "originalId": 13
   },
   {
-    "id": "comun_14",
+    "id": "comun-t01_14",
     "questionNum": 14,
     "question": "De acuerdo con la normativa vigente de ordenación de las profesiones sanitarias, el reconocimiento del desempeño de funciones de gestión clínica:",
     "type": "C",
@@ -518,7 +518,7 @@
     "originalId": 14
   },
   {
-    "id": "comun_15",
+    "id": "comun-t01_15",
     "questionNum": 15,
     "question": "Según la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, señale cuál de estas afirmaciones es incorrecta:",
     "type": "C",
@@ -555,7 +555,7 @@
     "originalId": 15
   },
   {
-    "id": "comun_16",
+    "id": "comun-t01_16",
     "questionNum": 16,
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, diga cuál de los siguientes principios generales de la relación entre las personas que ejercen profesiones sanitarias y las personas atendidas no es tal:",
     "type": "C",
@@ -592,7 +592,7 @@
     "originalId": 17
   },
   {
-    "id": "comun_17",
+    "id": "comun-t01_17",
     "questionNum": 17,
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, la eficacia organizativa de los servicios, secciones y equipos, o unidades asistenciales equivalentes sea cual sea su denominación, requerirá (señálese la que sea incorrecta):",
     "type": "C",
@@ -629,7 +629,7 @@
     "originalId": 18
   },
   {
-    "id": "comun_18",
+    "id": "comun-t01_18",
     "questionNum": 18,
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, señálese la afirmación incorrecta:",
     "type": "C",
@@ -666,7 +666,7 @@
     "originalId": 19
   },
   {
-    "id": "comun_19",
+    "id": "comun-t01_19",
     "questionNum": 19,
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, los centros sanitarios acreditados para desarrollar programas de formación continuada:",
     "type": "C",
@@ -703,7 +703,7 @@
     "originalId": 20
   },
   {
-    "id": "comun_20",
+    "id": "comun-t01_20",
     "questionNum": 20,
     "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028 contempla que tanto en los servicios de recepción y admisión, como en las unidades asistenciales y administrativas a toda la ciudadanía vascohablante debe garantizarse:",
     "type": "C",
@@ -740,8 +740,8 @@
     "originalId": 261
   },
   {
-    "id": "comun_21",
-    "questionNum": 21,
+    "id": "comun-t02_1",
+    "questionNum": 1,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, sus disposiciones se aplicarán a:",
     "type": "C",
     "options": [
@@ -777,8 +777,8 @@
     "originalId": 21
   },
   {
-    "id": "comun_22",
-    "questionNum": 22,
+    "id": "comun-t02_2",
+    "questionNum": 2,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para hacer efectivo el derecho a la protección de la salud y a la atención sanitaria, las personas titulares de los mismos deberán:",
     "type": "C",
     "options": [
@@ -814,8 +814,8 @@
     "originalId": 22
   },
   {
-    "id": "comun_23",
-    "questionNum": 23,
+    "id": "comun-t02_3",
+    "questionNum": 3,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la ciudadanía tendrá los siguientes derechos en el conjunto del Sistema Nacional de Salud:",
     "type": "C",
     "options": [
@@ -851,8 +851,8 @@
     "originalId": 23
   },
   {
-    "id": "comun_24",
-    "questionNum": 24,
+    "id": "comun-t02_4",
+    "questionNum": 4,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común de servicios del Sistema Nacional de Salud se articula en torno a las siguientes modalidades:",
     "type": "C",
     "options": [
@@ -888,8 +888,8 @@
     "originalId": 24
   },
   {
-    "id": "comun_25",
-    "questionNum": 25,
+    "id": "comun-t02_5",
+    "questionNum": 5,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común básica de servicios asistenciales del Sistema Nacional de Salud:",
     "type": "C",
     "options": [
@@ -911,22 +911,22 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará en las normas autonómicas correspondientes."
+      "Se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará mediante Real Decreto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
+    "explanation": "Art. 8 bis Ley 16/2003: La cartera común básica de servicios asistenciales se acordará en el seno del Consejo Interterritorial del SNS y SE APROBARÁ MEDIANTE REAL DECRETO del Consejo de Ministros. Es una norma estatal, no autonómica. Respuesta B.",
     "originalId": 25
   },
   {
-    "id": "comun_26",
-    "questionNum": 26,
+    "id": "comun-t02_6",
+    "questionNum": 6,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común básica de servicios asistenciales del Sistema Nacional de Salud comprende:",
     "type": "C",
     "options": [
@@ -948,22 +948,22 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, y la prestación ortoprotésica, cubiertos de forma completa por financiación pública."
+      "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, cubiertos de forma completa por financiación pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
+    "explanation": "Art. 8 bis.2 Ley 16/2003: La cartera común básica comprende las actividades asistenciales (prevención, diagnóstico, tto...) y el TRANSPORTE SANITARIO URGENTE. La prestación farmacéutica y ortoprotésica forman parte de la CARTERA SUPLEMENTARIA (sujeta a copago), no de la básica (financiada al 100%). Respuesta D.",
     "originalId": 26
   },
   {
-    "id": "comun_27",
-    "questionNum": 27,
+    "id": "comun-t02_7",
+    "questionNum": 7,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común suplementaria del Sistema Nacional de Salud incluirá las siguientes prestaciones:",
     "type": "C",
     "options": [
@@ -999,8 +999,8 @@
     "originalId": 27
   },
   {
-    "id": "comun_28",
-    "questionNum": 28,
+    "id": "comun-t02_8",
+    "questionNum": 8,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común de servicios accesorios del Sistema Nacional de Salud incluye:",
     "type": "C",
     "options": [
@@ -1036,8 +1036,8 @@
     "originalId": 28
   },
   {
-    "id": "comun_29",
-    "questionNum": 29,
+    "id": "comun-t02_9",
+    "questionNum": 9,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, las comunidades autónomas, en el ámbito de sus competencias, podrán aprobar sus respectivas carteras de servicios que incluirán, cuando menos:",
     "type": "C",
     "options": [
@@ -1073,8 +1073,8 @@
     "originalId": 29
   },
   {
-    "id": "comun_30",
-    "questionNum": 30,
+    "id": "comun-t02_10",
+    "questionNum": 10,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, las comunidades autónomas, podrán incorporar en sus carteras de servicios una técnica, tecnología o procedimiento no contemplado en la cartera común de servicios del Sistema Nacional de Salud. Con anterioridad a su incorporación, la comunidad autónoma concernida deberá informar, de forma motivada, al Consejo Interterritorial del Sistema Nacional de Salud:",
     "type": "C",
     "options": [
@@ -1110,8 +1110,8 @@
     "originalId": 30
   },
   {
-    "id": "comun_31",
-    "questionNum": 31,
+    "id": "comun-t02_11",
+    "questionNum": 11,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la prestación de atención primaria no comprenderá:",
     "type": "C",
     "options": [
@@ -1147,8 +1147,8 @@
     "originalId": 31
   },
   {
-    "id": "comun_32",
-    "questionNum": 32,
+    "id": "comun-t02_12",
+    "questionNum": 12,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para la elaboración del contenido de la cartera común de servicios del Sistema Nacional de Salud:",
     "type": "C",
     "options": [
@@ -1184,8 +1184,8 @@
     "originalId": 32
   },
   {
-    "id": "comun_33",
-    "questionNum": 33,
+    "id": "comun-t02_13",
+    "questionNum": 13,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la exclusión de una técnica, tecnología o procedimiento actualmente incluido en la cartera de servicios se llevará a cabo cuando:",
     "type": "C",
     "options": [
@@ -1221,8 +1221,8 @@
     "originalId": 33
   },
   {
-    "id": "comun_34",
-    "questionNum": 34,
+    "id": "comun-t02_14",
+    "questionNum": 14,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, los servicios de referencia:",
     "type": "C",
     "options": [
@@ -1258,8 +1258,8 @@
     "originalId": 34
   },
   {
-    "id": "comun_35",
-    "questionNum": 35,
+    "id": "comun-t02_15",
+    "questionNum": 15,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la decisión sobre la financiación de los medicamentos de uso humano y veterinario corresponde:",
     "type": "C",
     "options": [
@@ -1281,22 +1281,22 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "A cada Comunidad Autónoma."
+      "Al Ministerio de Sanidad y Consumo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 46 Ley 16/2003: La financiación del SNS tiene carácter público. Los recursos económicos del Sistema Nacional de Salud estarán constituidos por las aportaciones del Estado y de las Comunidades Autónomas, así como por cualesquiera otros ingresos. La C recoge esta configuración. Respuesta C.",
+    "explanation": "Art. 89 Ley 29/2006 y Art. 94 Ley 16/2003: La decisión sobre la financiación pública de medicamentos de uso humano y veterinario es una COMPETENCIA ESTATAL, concretamente del Ministerio de Sanidad. No es potestad de las CCAA. Respuesta B.",
     "originalId": 35
   },
   {
-    "id": "comun_36",
-    "questionNum": 36,
+    "id": "comun-t02_16",
+    "questionNum": 16,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, el diseño de programas de formación y modernización de los recursos humanos del Sistema Nacional de Salud corresponde:",
     "type": "C",
     "options": [
@@ -1332,8 +1332,8 @@
     "originalId": 36
   },
   {
-    "id": "comun_37",
-    "questionNum": 37,
+    "id": "comun-t02_17",
+    "questionNum": 17,
     "question": "A los efectos de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la competencia profesional es:",
     "type": "C",
     "options": [
@@ -1369,8 +1369,8 @@
     "originalId": 37
   },
   {
-    "id": "comun_38",
-    "questionNum": 38,
+    "id": "comun-t02_18",
+    "questionNum": 18,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la tarjeta sanitaria individual incluirá los siguientes datos:",
     "type": "C",
     "options": [
@@ -1406,8 +1406,8 @@
     "originalId": 38
   },
   {
-    "id": "comun_39",
-    "questionNum": 39,
+    "id": "comun-t02_19",
+    "questionNum": 19,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la infraestructura para la mejora de la calidad del Sistema Nacional de Salud estará constituida por los elementos siguientes:",
     "type": "C",
     "options": [
@@ -1443,8 +1443,8 @@
     "originalId": 39
   },
   {
-    "id": "comun_40",
-    "questionNum": 40,
+    "id": "comun-t02_20",
+    "questionNum": 20,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la declaración de actuaciones coordinadas en salud pública y en seguridad alimentaria deberán encuadrarse en alguno de los supuestos siguientes:",
     "type": "C",
     "options": [
@@ -1480,8 +1480,8 @@
     "originalId": 40
   },
   {
-    "id": "comun_41",
-    "questionNum": 41,
+    "id": "comun-t02_21",
+    "questionNum": 21,
     "question": "El personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud:",
     "type": "C",
     "options": [
@@ -1517,8 +1517,8 @@
     "originalId": 43
   },
   {
-    "id": "comun_42",
-    "questionNum": 42,
+    "id": "comun-t03_1",
+    "questionNum": 1,
     "question": "El objeto de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud es:",
     "type": "C",
     "options": [
@@ -1554,8 +1554,8 @@
     "originalId": 41
   },
   {
-    "id": "comun_43",
-    "questionNum": 43,
+    "id": "comun-t03_2",
+    "questionNum": 2,
     "question": "Según dispone la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la ordenación del régimen personal estatutario de los servicios de salud se rige por una serie de principios y criterios. Señale cuales no están entre los mencionados por esta ley:",
     "type": "C",
     "options": [
@@ -1591,8 +1591,8 @@
     "originalId": 42
   },
   {
-    "id": "comun_44",
-    "questionNum": 44,
+    "id": "comun-t03_3",
+    "questionNum": 3,
     "question": "La condición de personal estatutario fijo se adquiere, tal y como prevé la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, por el cumplimiento de los siguientes requisitos:",
     "type": "C",
     "options": [
@@ -1628,8 +1628,8 @@
     "originalId": 44
   },
   {
-    "id": "comun_45",
-    "questionNum": 45,
+    "id": "comun-t03_4",
+    "questionNum": 4,
     "question": "Según dice la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, en el proceso de la adquisición de la condición de personal estatutario fijo, no podrán recibir nombramiento y quedarán sin efecto las actuaciones de quienes:",
     "type": "C",
     "options": [
@@ -1665,8 +1665,8 @@
     "originalId": 45
   },
   {
-    "id": "comun_46",
-    "questionNum": 46,
+    "id": "comun-t03_5",
+    "questionNum": 5,
     "question": "La pérdida de la condición de personal estatutario regulada en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, se produce:",
     "type": "C",
     "options": [
@@ -1702,8 +1702,8 @@
     "originalId": 46
   },
   {
-    "id": "comun_47",
-    "questionNum": 47,
+    "id": "comun-t03_6",
+    "questionNum": 6,
     "question": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale cuál de las siguientes afirmaciones no es correcta:",
     "type": "C",
     "options": [
@@ -1739,8 +1739,8 @@
     "originalId": 47
   },
   {
-    "id": "comun_48",
-    "questionNum": 48,
+    "id": "comun-t03_7",
+    "questionNum": 7,
     "question": "Procede la extinción de la condición de personal estatutario fijo de los servicios de salud:",
     "type": "C",
     "options": [
@@ -1776,8 +1776,8 @@
     "originalId": 48
   },
   {
-    "id": "comun_49",
-    "questionNum": 49,
+    "id": "comun-t03_8",
+    "questionNum": 8,
     "question": "En materia de retribuciones, la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, prevé que:",
     "type": "C",
     "options": [
@@ -1813,8 +1813,8 @@
     "originalId": 49
   },
   {
-    "id": "comun_50",
-    "questionNum": 50,
+    "id": "comun-t03_9",
+    "questionNum": 9,
     "question": "De acuerdo con la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale la respuesta correcta respecto a las retribuciones del personal estatutario de los servicios de salud:",
     "type": "C",
     "options": [
@@ -1850,8 +1850,8 @@
     "originalId": 50
   },
   {
-    "id": "comun_51",
-    "questionNum": 51,
+    "id": "comun-t03_10",
+    "questionNum": 10,
     "question": "La pérdida de la condición de personal estatutario de los servicios de salud se produce cuando la incapacidad permanente sea declarada:",
     "type": "C",
     "options": [
@@ -1887,8 +1887,8 @@
     "originalId": 51
   },
   {
-    "id": "comun_52",
-    "questionNum": 52,
+    "id": "comun-t03_11",
+    "questionNum": 11,
     "question": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, establece que:",
     "type": "C",
     "options": [
@@ -1924,8 +1924,8 @@
     "originalId": 52
   },
   {
-    "id": "comun_53",
-    "questionNum": 53,
+    "id": "comun-t03_12",
+    "questionNum": 12,
     "question": "En el supuesto del personal estatutario de los servicios de salud:",
     "type": "C",
     "options": [
@@ -1961,8 +1961,8 @@
     "originalId": 53
   },
   {
-    "id": "comun_54",
-    "questionNum": 54,
+    "id": "comun-t03_13",
+    "questionNum": 13,
     "question": "Para el personal estatutario de los servicios de salud, el período nocturno tendrá la siguiente duración:",
     "type": "C",
     "options": [
@@ -1998,8 +1998,8 @@
     "originalId": 54
   },
   {
-    "id": "comun_55",
-    "questionNum": 55,
+    "id": "comun-t03_14",
+    "questionNum": 14,
     "question": "Atendiendo a lo dispuesto en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale la respuesta que no es correcta:",
     "type": "C",
     "options": [
@@ -2035,8 +2035,8 @@
     "originalId": 55
   },
   {
-    "id": "comun_56",
-    "questionNum": 56,
+    "id": "comun-t03_15",
+    "questionNum": 15,
     "question": "Respecto a la jornada y descansos diarios del personal estatutario de los servicios de salud, es correcta la siguiente afirmación:",
     "type": "C",
     "options": [
@@ -2072,8 +2072,8 @@
     "originalId": 56
   },
   {
-    "id": "comun_57",
-    "questionNum": 57,
+    "id": "comun-t03_16",
+    "questionNum": 16,
     "question": "Según establece la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
     "type": "C",
     "options": [
@@ -2109,8 +2109,8 @@
     "originalId": 57
   },
   {
-    "id": "comun_58",
-    "questionNum": 58,
+    "id": "comun-t03_17",
+    "questionNum": 17,
     "question": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud regula el descanso semanal. Señale la respuesta que no es correcta:",
     "type": "C",
     "options": [
@@ -2146,8 +2146,8 @@
     "originalId": 58
   },
   {
-    "id": "comun_59",
-    "questionNum": 59,
+    "id": "comun-t03_18",
+    "questionNum": 18,
     "question": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
     "type": "C",
     "options": [
@@ -2183,8 +2183,8 @@
     "originalId": 59
   },
   {
-    "id": "comun_60",
-    "questionNum": 60,
+    "id": "comun-t03_19",
+    "questionNum": 19,
     "question": "La excedencia voluntaria solicitada por el personal estatutario de los servicios de salud por interés particular exige haber prestado servicios efectivos en cualquiera de las Administraciones públicas durante:",
     "type": "C",
     "options": [
@@ -2220,8 +2220,8 @@
     "originalId": 60
   },
   {
-    "id": "comun_61",
-    "questionNum": 61,
+    "id": "comun-t03_20",
+    "questionNum": 20,
     "question": "Respecto al personal sujeto al régimen estatutario que establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -2257,8 +2257,8 @@
     "originalId": 80
   },
   {
-    "id": "comun_62",
-    "questionNum": 62,
+    "id": "comun-t03_21",
+    "questionNum": 21,
     "question": "¿La Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, es aplicable al personal estatutario de los servicios de salud?",
     "type": "C",
     "options": [
@@ -2294,8 +2294,8 @@
     "originalId": 296
   },
   {
-    "id": "comun_63",
-    "questionNum": 63,
+    "id": "comun-t04_1",
+    "questionNum": 1,
     "question": "Quien ostente la titularidad de los centros sanitarios y los servicios de salud podrá formalizar convenios y conciertos con el Instituto de Salud Carlos III, con otros centros de investigación, públicos o privados, y con otras instituciones que tengan interés en la investigación sanitaria, para (señálese la respuesta incorrecta):",
     "type": "C",
     "options": [
@@ -2331,8 +2331,8 @@
     "originalId": 16
   },
   {
-    "id": "comun_64",
-    "questionNum": 64,
+    "id": "comun-t04_2",
+    "questionNum": 2,
     "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, establece que la Administración sanitaria vasca debe garantizar la tutela general de la salud pública a través de:",
     "type": "C",
     "options": [
@@ -2368,8 +2368,8 @@
     "originalId": 61
   },
   {
-    "id": "comun_65",
-    "questionNum": 65,
+    "id": "comun-t04_3",
+    "questionNum": 3,
     "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, reconoce la universalidad del derecho a la protección de la salud para:",
     "type": "C",
     "options": [
@@ -2405,8 +2405,8 @@
     "originalId": 62
   },
   {
-    "id": "comun_66",
-    "questionNum": 66,
+    "id": "comun-t04_4",
+    "questionNum": 4,
     "question": "Señale cuál de los siguientes principios no se enuncian entre los principios informadores del sistema sanitario de Euskadi en la Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi:",
     "type": "C",
     "options": [
@@ -2442,8 +2442,8 @@
     "originalId": 63
   },
   {
-    "id": "comun_67",
-    "questionNum": 67,
+    "id": "comun-t04_5",
+    "questionNum": 5,
     "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, establece respecto a las áreas de salud que:",
     "type": "C",
     "options": [
@@ -2479,8 +2479,8 @@
     "originalId": 64
   },
   {
-    "id": "comun_68",
-    "questionNum": 68,
+    "id": "comun-t04_6",
+    "questionNum": 6,
     "question": "Según la Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, señale que respuesta no es correcta. Son principios programáticos de organización y funcionamiento del sistema sanitario de Euskadi los siguientes:",
     "type": "C",
     "options": [
@@ -2516,8 +2516,8 @@
     "originalId": 65
   },
   {
-    "id": "comun_69",
-    "questionNum": 69,
+    "id": "comun-t04_7",
+    "questionNum": 7,
     "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi prevé la creación de sistemas de información necesarios para facilitar el ejercicio adecuado de los distintos niveles de responsabilidad en el sistema. A tal fin, los datos de carácter personal relativos a la salud podrán ser recabados y tratados siempre que se cumplan los siguientes requisitos:",
     "type": "C",
     "options": [
@@ -2553,8 +2553,8 @@
     "originalId": 66
   },
   {
-    "id": "comun_70",
-    "questionNum": 70,
+    "id": "comun-t04_8",
+    "questionNum": 8,
     "question": "La Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi contempla que:",
     "type": "C",
     "options": [
@@ -2590,8 +2590,8 @@
     "originalId": 67
   },
   {
-    "id": "comun_71",
-    "questionNum": 71,
+    "id": "comun-t04_9",
+    "questionNum": 9,
     "question": "La Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi al contemplar los derechos y deberes ciudadanos, alude a:",
     "type": "C",
     "options": [
@@ -2627,8 +2627,8 @@
     "originalId": 68
   },
   {
-    "id": "comun_72",
-    "questionNum": 72,
+    "id": "comun-t04_10",
+    "questionNum": 10,
     "question": "Atendiendo a lo dispuesto en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale cuál es la afirmación correcta con relación a los consejos de participación comunitaria :",
     "type": "C",
     "options": [
@@ -2664,8 +2664,8 @@
     "originalId": 69
   },
   {
-    "id": "comun_73",
-    "questionNum": 73,
+    "id": "comun-t04_11",
+    "questionNum": 11,
     "question": "El contrato-programa, tal y como establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
     "type": "C",
     "options": [
@@ -2701,8 +2701,8 @@
     "originalId": 70
   },
   {
-    "id": "comun_74",
-    "questionNum": 74,
+    "id": "comun-t04_12",
+    "questionNum": 12,
     "question": "Osakidetza-Servicio Vasco de Salud se constituye como:",
     "type": "C",
     "options": [
@@ -2738,8 +2738,8 @@
     "originalId": 71
   },
   {
-    "id": "comun_75",
-    "questionNum": 75,
+    "id": "comun-t04_13",
+    "questionNum": 13,
     "question": "Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
     "type": "C",
     "options": [
@@ -2775,8 +2775,8 @@
     "originalId": 73
   },
   {
-    "id": "comun_76",
-    "questionNum": 76,
+    "id": "comun-t04_14",
+    "questionNum": 14,
     "question": "A los efectos de la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las plantillas de personal del ente público Osakidetza-Servicio Vasco de Salud:",
     "type": "C",
     "options": [
@@ -2812,8 +2812,8 @@
     "originalId": 74
   },
   {
-    "id": "comun_77",
-    "questionNum": 77,
+    "id": "comun-t04_15",
+    "questionNum": 15,
     "question": "La dirección, planificación y programación del sistema sanitario de Euskadi es competencia:",
     "type": "C",
     "options": [
@@ -2849,8 +2849,8 @@
     "originalId": 75
   },
   {
-    "id": "comun_78",
-    "questionNum": 78,
+    "id": "comun-t04_16",
+    "questionNum": 16,
     "question": "En el ámbito territorial de la Comunidad Autónoma de Euskadi, las inspecciones necesarias para asegurar el cumplimiento de lo previsto en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi y en el resto de la legislación sanitaria corresponde:",
     "type": "C",
     "options": [
@@ -2886,8 +2886,8 @@
     "originalId": 76
   },
   {
-    "id": "comun_79",
-    "questionNum": 79,
+    "id": "comun-t04_17",
+    "questionNum": 17,
     "question": "Señale cuál de los siguientes criterios no está contemplado en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi para la clasificación de las infracciones en leves, graves o muy graves:",
     "type": "C",
     "options": [
@@ -2923,8 +2923,8 @@
     "originalId": 77
   },
   {
-    "id": "comun_80",
-    "questionNum": 80,
+    "id": "comun-t04_18",
+    "questionNum": 18,
     "question": "Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, en materia de sanciones señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -2960,8 +2960,8 @@
     "originalId": 78
   },
   {
-    "id": "comun_81",
-    "questionNum": 81,
+    "id": "comun-t04_19",
+    "questionNum": 19,
     "question": "Según la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las organizaciones a través de las que se procede a la provisión de servicios sanitarios con medios adscritos al ente público Osakidetza-Servicio Vasco de Salud:",
     "type": "C",
     "options": [
@@ -2997,8 +2997,8 @@
     "originalId": 79
   },
   {
-    "id": "comun_82",
-    "questionNum": 82,
+    "id": "comun-t04_20",
+    "questionNum": 20,
     "question": "El ente público Osakidetza-Servicio Vasco de Salud es:",
     "type": "C",
     "options": [
@@ -3034,8 +3034,8 @@
     "originalId": 81
   },
   {
-    "id": "comun_83",
-    "questionNum": 83,
+    "id": "comun-t04_21",
+    "questionNum": 21,
     "question": "En desarrollo de su objeto, el ente público Osakidetza-Servicio Vasco de Salud perseguirá a través de todas sus organizaciones los siguientes fines (señálese la respuesta incorrecta):",
     "type": "C",
     "options": [
@@ -3071,8 +3071,8 @@
     "originalId": 82
   },
   {
-    "id": "comun_84",
-    "questionNum": 84,
+    "id": "comun-t04_22",
+    "questionNum": 22,
     "question": "Corresponderá la presidencia del ente público Osakidetza-Servicio Vasco de Salud a:",
     "type": "C",
     "options": [
@@ -3108,8 +3108,8 @@
     "originalId": 83
   },
   {
-    "id": "comun_85",
-    "questionNum": 85,
+    "id": "comun-t04_23",
+    "questionNum": 23,
     "question": "La composición del Consejo del ente público Osakidetza-Servicio Vasco de Salud contará, además de la persona que ejerza la Presidencia:",
     "type": "C",
     "options": [
@@ -3145,8 +3145,8 @@
     "originalId": 85
   },
   {
-    "id": "comun_86",
-    "questionNum": 86,
+    "id": "comun-t04_24",
+    "questionNum": 24,
     "question": "La función de aprobar los criterios y líneas generales de actuación del ente público Osakidetza-Servicio Vasco de Salud corresponde a:",
     "type": "C",
     "options": [
@@ -3182,8 +3182,8 @@
     "originalId": 86
   },
   {
-    "id": "comun_87",
-    "questionNum": 87,
+    "id": "comun-t04_25",
+    "questionNum": 25,
     "question": "La propuesta de Plan Estratégico del ente público Osakidetza-Servicio Vasco de Salud:",
     "type": "C",
     "options": [
@@ -3205,22 +3205,22 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Será sometida a informe del Consejo de Administración del Ente."
+      "Será formulada por la Dirección General del Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 255/1997: La propuesta de Plan Estratégico será formulada por la Dirección General (a), sometida a informe del Consejo de Administración (c), y aprobada por la Presidencia (b). Las tres son ciertas. Respuesta C.",
+    "explanation": "Decreto 255/1997: La propuesta de Plan Estratégico será formulada por la DIRECCIÓN GENERAL (Art. 13.a), informada por el Consejo de Administración y aprobada por la Presidencia. La respuesta correcta es la A.",
     "originalId": 87
   },
   {
-    "id": "comun_88",
-    "questionNum": 88,
+    "id": "comun-t04_26",
+    "questionNum": 26,
     "question": "La persona titular de la Dirección General del ente público OsakidetzaServicio Vasco de Salud:",
     "type": "C",
     "options": [
@@ -3256,8 +3256,8 @@
     "originalId": 90
   },
   {
-    "id": "comun_89",
-    "questionNum": 89,
+    "id": "comun-t04_27",
+    "questionNum": 27,
     "question": "Corresponde a cada organización de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tengan encomendada, quedando excluidas únicamente:",
     "type": "C",
     "options": [
@@ -3293,8 +3293,8 @@
     "originalId": 94
   },
   {
-    "id": "comun_90",
-    "questionNum": 90,
+    "id": "comun-t04_28",
+    "questionNum": 28,
     "question": "El número de integrantes del equipo directivo de las organizaciones de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud:",
     "type": "C",
     "options": [
@@ -3316,22 +3316,22 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Oscilará entre dos y tres."
+      "La normativa que rige su estatuto jurídico no establece un número determinado sino un máximo de cinco."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 100/2018, art. 9: El equipo directivo de cada organización de servicios de Osakidetza está compuesto por cuatro miembros: el Director/a, el Director/a Médico/a, el Director/a de Enfermería y el Director/a de Gestión. Respuesta A (4 miembros).",
+    "explanation": "Decreto 255/1997, Art. 21: 'El número de integrantes de este equipo será determinado por el Consejo de Administración, a propuesta de la Dirección-Gerencia de la organización, NO PUDIENDO EXCEDER DE CINCO'. No oscila entre 2 y 3. Respuesta D.",
     "originalId": 95
   },
   {
-    "id": "comun_91",
-    "questionNum": 91,
+    "id": "comun-t04_29",
+    "questionNum": 29,
     "question": "La función de Representar al ente público Osakidetza-Servicio Vasco de Salud en la negociación colectiva del Acuerdo Marco de Condiciones de Trabajo del Personal corresponde a:",
     "type": "C",
     "options": [
@@ -3367,8 +3367,8 @@
     "originalId": 96
   },
   {
-    "id": "comun_92",
-    "questionNum": 92,
+    "id": "comun-t04_30",
+    "questionNum": 30,
     "question": "Las organizaciones de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud podrán:",
     "type": "C",
     "options": [
@@ -3404,8 +3404,8 @@
     "originalId": 98
   },
   {
-    "id": "comun_93",
-    "questionNum": 93,
+    "id": "comun-t04_31",
+    "questionNum": 31,
     "question": "En el ámbito de una organización de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud, presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento es una tarea que corresponde a:",
     "type": "C",
     "options": [
@@ -3441,8 +3441,8 @@
     "originalId": 100
   },
   {
-    "id": "comun_94",
-    "questionNum": 94,
+    "id": "comun-t04_32",
+    "questionNum": 32,
     "question": "¿Cuál es la fecha de aprobación del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud?",
     "type": "C",
     "options": [
@@ -3478,8 +3478,8 @@
     "originalId": 101
   },
   {
-    "id": "comun_95",
-    "questionNum": 95,
+    "id": "comun-t04_33",
+    "questionNum": 33,
     "question": "Según el Artículo 1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿qué dos niveles asistenciales se integran en las Organizaciones Sanitarias Integradas (OSI) de Osakidetza?",
     "type": "C",
     "options": [
@@ -3501,22 +3501,22 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Atención especializada y Atención de Urgencias."
+      "Atención primaria y Atención hospitalaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 1 Decreto 100/2018: Las OSI integran la ATENCIÓN PRIMARIA y la ATENCIÓN HOSPITALARIA (especializada). Son los dos niveles asistenciales que se integran. Respuesta A.",
+    "explanation": "Art. 1 Decreto 100/2018: Las OSI integran la ATENCIÓN PRIMARIA y la ATENCIÓN HOSPITALARIA. Es la base del modelo de integración asistencial de Osakidetza. Respuesta D.",
     "originalId": 102
   },
   {
-    "id": "comun_96",
-    "questionNum": 96,
+    "id": "comun-t04_34",
+    "questionNum": 34,
     "question": "Según el Artículo 2.1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿qué objetivo último persigue la configuración de las OSI?",
     "type": "C",
     "options": [
@@ -3552,8 +3552,8 @@
     "originalId": 103
   },
   {
-    "id": "comun_97",
-    "questionNum": 97,
+    "id": "comun-t04_35",
+    "questionNum": 35,
     "question": "Según el Artículo 1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿bajo qué principio fundamental actuarán las Organizaciones Sanitarias Integradas (OSI) del ente público Osakidetza-Servicio Vasco de Salud ?",
     "type": "C",
     "options": [
@@ -3589,8 +3589,8 @@
     "originalId": 104
   },
   {
-    "id": "comun_98",
-    "questionNum": 98,
+    "id": "comun-t04_36",
+    "questionNum": 36,
     "question": "De acuerdo con el Artículo 3 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿cómo se define una OSI de clase \"monográfica\"?",
     "type": "C",
     "options": [
@@ -3626,8 +3626,8 @@
     "originalId": 105
   },
   {
-    "id": "comun_99",
-    "questionNum": 99,
+    "id": "comun-t04_37",
+    "questionNum": 37,
     "question": "Según el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, las OSI de Tipo I se caracterizan, entre otros aspectos, por tener hospitales de carácter universitario y, además, por disponer de:",
     "type": "C",
     "options": [
@@ -3663,8 +3663,8 @@
     "originalId": 106
   },
   {
-    "id": "comun_100",
-    "questionNum": 100,
+    "id": "comun-t04_38",
+    "questionNum": 38,
     "question": "Según el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, para que una OSI sea clasificada como de Tipo III debe integrar, junto con servicios de atención primaria, un hospital de carácter general y tener una base poblacional atendida inferior a:",
     "type": "C",
     "options": [
@@ -3700,8 +3700,8 @@
     "originalId": 107
   },
   {
-    "id": "comun_101",
-    "questionNum": 101,
+    "id": "comun-t04_39",
+    "questionNum": 39,
     "question": "Según el Artículo 5 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿cuáles son los tres órganos de participación que conforman la estructura organizativa de las OSI?",
     "type": "C",
     "options": [
@@ -3737,8 +3737,8 @@
     "originalId": 108
   },
   {
-    "id": "comun_102",
-    "questionNum": 102,
+    "id": "comun-t04_40",
+    "questionNum": 40,
     "question": "De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿qué órganos componen el equipo directivo de una OSI, según la estructura general del artículo 5.2?",
     "type": "C",
     "options": [
@@ -3774,8 +3774,8 @@
     "originalId": 109
   },
   {
-    "id": "comun_103",
-    "questionNum": 103,
+    "id": "comun-t04_41",
+    "questionNum": 41,
     "question": "De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, en las OSI de Tipo IV, la Dirección Gerencia asume, con el apoyo de puestos funcionales asistenciales, las funciones que corresponden a:",
     "type": "C",
     "options": [
@@ -3811,8 +3811,8 @@
     "originalId": 110
   },
   {
-    "id": "comun_104",
-    "questionNum": 104,
+    "id": "comun-t04_42",
+    "questionNum": 42,
     "question": "De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿cuál de los siguientes NO es un órgano de dirección encargado del gobierno y gestión de las OSI de Tipo I y II?",
     "type": "C",
     "options": [
@@ -3848,8 +3848,8 @@
     "originalId": 111
   },
   {
-    "id": "comun_105",
-    "questionNum": 105,
+    "id": "comun-t04_43",
+    "questionNum": 43,
     "question": "Según el Artículo 7.3 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿quién tiene la competencia para el nombramiento y cese de la persona titular de la Dirección Gerencia?",
     "type": "C",
     "options": [
@@ -3885,8 +3885,8 @@
     "originalId": 112
   },
   {
-    "id": "comun_106",
-    "questionNum": 106,
+    "id": "comun-t04_44",
+    "questionNum": 44,
     "question": "Según los Artículos 7 y 9 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿cuál es un requisito obligatorio para el nombramiento de los cargos de dirección de una OSI?",
     "type": "C",
     "options": [
@@ -3922,8 +3922,8 @@
     "originalId": 113
   },
   {
-    "id": "comun_107",
-    "questionNum": 107,
+    "id": "comun-t04_45",
+    "questionNum": 45,
     "question": "Según el Artículo 8.m del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿a qué dirección corresponde \"orientar la gestión desde una visión integradora empoderando la atención primaria\"?",
     "type": "C",
     "options": [
@@ -3959,8 +3959,8 @@
     "originalId": 114
   },
   {
-    "id": "comun_108",
-    "questionNum": 108,
+    "id": "comun-t04_46",
+    "questionNum": 46,
     "question": "Según el Artículo 11.2 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿qué dirección se encarga de impulsar el vínculo con la comunidad a través de la promoción y prevención de la salud?",
     "type": "C",
     "options": [
@@ -3996,8 +3996,8 @@
     "originalId": 115
   },
   {
-    "id": "comun_109",
-    "questionNum": 109,
+    "id": "comun-t04_47",
+    "questionNum": 47,
     "question": "De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿con qué ámbito(s) adicional(es) debe coordinar su actividad la Dirección de Atención Integrada, además de con la atención primaria y hospitalaria?",
     "type": "C",
     "options": [
@@ -4033,8 +4033,8 @@
     "originalId": 116
   },
   {
-    "id": "comun_110",
-    "questionNum": 110,
+    "id": "comun-t04_48",
+    "questionNum": 48,
     "question": "Según el Artículo 16 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿con qué periodicidad mínima debe reunirse el Consejo de Dirección de la OSI?",
     "type": "C",
     "options": [
@@ -4070,8 +4070,8 @@
     "originalId": 117
   },
   {
-    "id": "comun_111",
-    "questionNum": 111,
+    "id": "comun-t04_49",
+    "questionNum": 49,
     "question": "Según el Artículo 13.2.j del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿quién preside la Comisión de Salud Laboral en la OSI?",
     "type": "C",
     "options": [
@@ -4107,8 +4107,8 @@
     "originalId": 118
   },
   {
-    "id": "comun_112",
-    "questionNum": 112,
+    "id": "comun-t04_50",
+    "questionNum": 50,
     "question": "Según el Artículo 17 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿cómo se define el Consejo Clínico Asistencial?",
     "type": "C",
     "options": [
@@ -4144,8 +4144,8 @@
     "originalId": 119
   },
   {
-    "id": "comun_113",
-    "questionNum": 113,
+    "id": "comun-t04_51",
+    "questionNum": 51,
     "question": "Según el Artículo 19.1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿quién ejerce la presidencia del Consejo Clínico Asistencial?",
     "type": "C",
     "options": [
@@ -4181,8 +4181,8 @@
     "originalId": 120
   },
   {
-    "id": "comun_114",
-    "questionNum": 114,
+    "id": "comun-t04_52",
+    "questionNum": 52,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son titulares de los derechos y deberes recogidos en esta Declaración:",
     "type": "C",
     "options": [
@@ -4218,8 +4218,8 @@
     "originalId": 121
   },
   {
-    "id": "comun_115",
-    "questionNum": 115,
+    "id": "comun-t04_53",
+    "questionNum": 53,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, todos los derechos y obligaciones establecidos son exigibles:",
     "type": "C",
     "options": [
@@ -4255,8 +4255,8 @@
     "originalId": 122
   },
   {
-    "id": "comun_116",
-    "questionNum": 116,
+    "id": "comun-t04_54",
+    "questionNum": 54,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los principios que informan e inspiran el conjunto de acciones de carácter sanitario que se desarrollen en el sistema sanitario de Euskadi son:",
     "type": "C",
     "options": [
@@ -4292,8 +4292,8 @@
     "originalId": 123
   },
   {
-    "id": "comun_117",
-    "questionNum": 117,
+    "id": "comun-t04_55",
+    "questionNum": 55,
     "question": "El Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, distingue bloques de derechos relacionados con los siguientes ámbitos:",
     "type": "C",
     "options": [
@@ -4315,22 +4315,22 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; derechos en relación con la docencia del personal sanitario, obtención de la Tarjeta Individual Sanitaria."
+      "En relación a todas las acciones de carácter sanitario, incluyendo docencia, que se desarrollen en los centros, servicios o establecimientos sanitarios de titularidad pública o privada o concertados de Euskadi. Las acciones relativas a la investigación biomédica quedan fuera de esta Declaración y se rigen por su normativa específica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
+    "explanation": "Art. 2 Decreto 147/2015: El ámbito de aplicación incluye centros públicos, privados y concertados, y expresamente excluye la investigación biomédica (Art. 2.2), que se rige por su propia ley. Respuesta A.",
     "originalId": 124
   },
   {
-    "id": "comun_118",
-    "questionNum": 118,
+    "id": "comun-t04_56",
+    "questionNum": 56,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, corresponde a la persona paciente o usuaria del sistema sanitario de Euskadi:",
     "type": "C",
     "options": [
@@ -4366,8 +4366,8 @@
     "originalId": 125
   },
   {
-    "id": "comun_119",
-    "questionNum": 119,
+    "id": "comun-t04_57",
+    "questionNum": 57,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la persona paciente o usuaria tiene derecho:",
     "type": "C",
     "options": [
@@ -4403,8 +4403,8 @@
     "originalId": 126
   },
   {
-    "id": "comun_120",
-    "questionNum": 120,
+    "id": "comun-t04_58",
+    "questionNum": 58,
     "question": "El derecho a la participación de forma activa en las actuaciones del sistema sanitario de Euskadi:",
     "type": "C",
     "options": [
@@ -4440,8 +4440,8 @@
     "originalId": 127
   },
   {
-    "id": "comun_121",
-    "questionNum": 121,
+    "id": "comun-t04_59",
+    "questionNum": 59,
     "question": "A los efectos de la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi recogida en el Decreto 147/2015, de 21 de julio, se configuran las siguientes fases de la vida en las que se concretan necesidades específicas:",
     "type": "C",
     "options": [
@@ -4477,8 +4477,8 @@
     "originalId": 128
   },
   {
-    "id": "comun_122",
-    "questionNum": 122,
+    "id": "comun-t04_60",
+    "questionNum": 60,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los niños y niñas y las personas adolescentes, en su condición de pacientes y personas usuarias del Sistema Sanitario de Euskadi, tienen derecho:",
     "type": "C",
     "options": [
@@ -4514,8 +4514,8 @@
     "originalId": 129
   },
   {
-    "id": "comun_123",
-    "questionNum": 123,
+    "id": "comun-t04_61",
+    "questionNum": 61,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asistencia sanitaria específica referida al final de la vida, tienen derecho a:",
     "type": "C",
     "options": [
@@ -4551,8 +4551,8 @@
     "originalId": 130
   },
   {
-    "id": "comun_124",
-    "questionNum": 124,
+    "id": "comun-t04_62",
+    "questionNum": 62,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asistencia sanitaria específica referida al final de la vida, tienen derecho a:",
     "type": "C",
     "options": [
@@ -4588,8 +4588,8 @@
     "originalId": 130
   },
   {
-    "id": "comun_125",
-    "questionNum": 125,
+    "id": "comun-t04_63",
+    "questionNum": 63,
     "question": "El Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi establece deberes en relación con los siguientes ámbitos:",
     "type": "C",
     "options": [
@@ -4625,8 +4625,8 @@
     "originalId": 132
   },
   {
-    "id": "comun_126",
-    "questionNum": 126,
+    "id": "comun-t04_64",
+    "questionNum": 64,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la persona paciente o usuaria:",
     "type": "C",
     "options": [
@@ -4662,8 +4662,8 @@
     "originalId": 133
   },
   {
-    "id": "comun_127",
-    "questionNum": 127,
+    "id": "comun-t04_65",
+    "questionNum": 65,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la persona paciente o usuaria deberá de cumplir los siguientes deberes:",
     "type": "C",
     "options": [
@@ -4699,8 +4699,8 @@
     "originalId": 134
   },
   {
-    "id": "comun_128",
-    "questionNum": 128,
+    "id": "comun-t04_66",
+    "questionNum": 66,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los Servicios de Atención a Pacientes y personas Usuarias:",
     "type": "C",
     "options": [
@@ -4736,8 +4736,8 @@
     "originalId": 135
   },
   {
-    "id": "comun_129",
-    "questionNum": 129,
+    "id": "comun-t04_67",
+    "questionNum": 67,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son funciones de los Servicios de Atención a Pacientes y personas Usuarias:",
     "type": "C",
     "options": [
@@ -4773,8 +4773,8 @@
     "originalId": 136
   },
   {
-    "id": "comun_130",
-    "questionNum": 130,
+    "id": "comun-t04_68",
+    "questionNum": 68,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los Servicios de Atención a Pacientes y personas Usuarias:",
     "type": "C",
     "options": [
@@ -4810,8 +4810,8 @@
     "originalId": 135
   },
   {
-    "id": "comun_131",
-    "questionNum": 131,
+    "id": "comun-t04_69",
+    "questionNum": 69,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las reclamaciones contra las personas usuarias de los centros, servicios y establecimientos sanitarios se tramitarán:",
     "type": "C",
     "options": [
@@ -4847,8 +4847,8 @@
     "originalId": 138
   },
   {
-    "id": "comun_132",
-    "questionNum": 132,
+    "id": "comun-t04_70",
+    "questionNum": 70,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las reclamaciones contra actuaciones del personal:",
     "type": "C",
     "options": [
@@ -4884,8 +4884,8 @@
     "originalId": 139
   },
   {
-    "id": "comun_133",
-    "questionNum": 133,
+    "id": "comun-t04_71",
+    "questionNum": 71,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, a las personas usuarias de los centros, servicios y establecimientos sanitarios citados en los apartados anteriores:",
     "type": "C",
     "options": [
@@ -4921,8 +4921,8 @@
     "originalId": 140
   },
   {
-    "id": "comun_134",
-    "questionNum": 134,
+    "id": "comun-t05_1",
+    "questionNum": 1,
     "question": "El consejo de administración de Osakidetza-Servicio Vasco de Salud está integrado por:",
     "type": "C",
     "options": [
@@ -4958,8 +4958,8 @@
     "originalId": 72
   },
   {
-    "id": "comun_135",
-    "questionNum": 135,
+    "id": "comun-t05_2",
+    "questionNum": 2,
     "question": "La función de nombrar y separar a quienes ocupen las Direcciones de División de la organización central del ente público Osakidetza-Servicio Vasco de Salud corresponde a:",
     "type": "C",
     "options": [
@@ -4995,8 +4995,8 @@
     "originalId": 84
   },
   {
-    "id": "comun_136",
-    "questionNum": 136,
+    "id": "comun-t05_3",
+    "questionNum": 3,
     "question": "La función de convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones del Consejo de Administración del ente público OsakidetzaServicio vasco de salud y decidir los empates con su voto de calidad corresponderá a:",
     "type": "C",
     "options": [
@@ -5032,8 +5032,8 @@
     "originalId": 88
   },
   {
-    "id": "comun_137",
-    "questionNum": 137,
+    "id": "comun-t05_4",
+    "questionNum": 4,
     "question": "De acuerdo con el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del ente público Osakidetza-Servicio Vasco de Salud, para el desarrollo de sus funciones, la Dirección General del ente público Osakidetza-Servicio Vasco de Salud contará con el apoyo de un equipo directivo formado por:",
     "type": "C",
     "options": [
@@ -5055,22 +5055,22 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Dos Direcciones de División."
+      "Tres Direcciones de División."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 14 Decreto 255/1997: La Dirección General cuenta con CUATRO Directores de División. Respuesta A.",
+    "explanation": "Art. 15-17 Decreto 255/1997: La Dirección General cuenta con tres divisiones: Asistencia Sanitaria, Régimen Económico y de Gestión de Inmuebles, y Recursos Humanos. Respuesta B.",
     "originalId": 89
   },
   {
-    "id": "comun_138",
-    "questionNum": 138,
+    "id": "comun-t05_5",
+    "questionNum": 5,
     "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión asistencial (señálese la respuesta incorrecta):",
     "type": "C",
     "options": [
@@ -5106,8 +5106,8 @@
     "originalId": 91
   },
   {
-    "id": "comun_139",
-    "questionNum": 139,
+    "id": "comun-t05_6",
+    "questionNum": 6,
     "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión de recursos humanos (señálese la respuesta incorrecta):",
     "type": "C",
     "options": [
@@ -5143,8 +5143,8 @@
     "originalId": 92
   },
   {
-    "id": "comun_140",
-    "questionNum": 140,
+    "id": "comun-t05_7",
+    "questionNum": 7,
     "question": "De acuerdo con lo que señala el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del ente público Osakidetza-Servicio Vasco de Salud, cada organización de servicios sanitarios dependiente del ente público tendrá definido su objeto de actividad o ámbito de actuación sanitaria de conformidad con lo dispuesto específicamente en la:",
     "type": "C",
     "options": [
@@ -5166,10 +5166,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Ley 41/2002 de Autonomía del Paciente."
+      "Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -5180,8 +5180,8 @@
     "originalId": 93
   },
   {
-    "id": "comun_141",
-    "questionNum": 141,
+    "id": "comun-t05_8",
+    "questionNum": 8,
     "question": "En materia específica de inversiones, la competencia para ejecutar las compras de suministros que se consideren centralizadas, así como definir y/o ejecutar, en su caso, las consideradas integradas corresponde a:",
     "type": "C",
     "options": [
@@ -5203,10 +5203,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "A quien ostente la titularidad de la Dirección-Gerencia de cada organización de servicios sanitarios del Osakidetza-Servicio Vasco de Salud."
+      "La organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -5217,8 +5217,8 @@
     "originalId": 99
   },
   {
-    "id": "comun_142",
-    "questionNum": 142,
+    "id": "comun-t06_1",
+    "questionNum": 1,
     "question": "Para el desarrollo de funciones de propuesta y asesoramiento, así como de participación en las organizaciones de servicios sanitarios, existirá un Consejo de Dirección en cada una de ellas, integrado por:",
     "type": "C",
     "options": [
@@ -5254,8 +5254,8 @@
     "originalId": 97
   },
   {
-    "id": "comun_143",
-    "questionNum": 143,
+    "id": "comun-t08_1",
+    "questionNum": 1,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la documentación clínica es:",
     "type": "C",
     "options": [
@@ -5291,8 +5291,8 @@
     "originalId": 141
   },
   {
-    "id": "comun_144",
-    "questionNum": 144,
+    "id": "comun-t08_2",
+    "questionNum": 2,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, es persona usuaria:",
     "type": "C",
     "options": [
@@ -5328,8 +5328,8 @@
     "originalId": 142
   },
   {
-    "id": "comun_145",
-    "questionNum": 145,
+    "id": "comun-t08_3",
+    "questionNum": 3,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la información asistencial:",
     "type": "C",
     "options": [
@@ -5365,8 +5365,8 @@
     "originalId": 143
   },
   {
-    "id": "comun_146",
-    "questionNum": 146,
+    "id": "comun-t08_4",
+    "questionNum": 4,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la información asistencial contiene, como mínimo:",
     "type": "C",
     "options": [
@@ -5402,8 +5402,8 @@
     "originalId": 144
   },
   {
-    "id": "comun_147",
-    "questionNum": 147,
+    "id": "comun-t08_5",
+    "questionNum": 5,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, garantiza el cumplimiento del derecho a la información asistencial:",
     "type": "C",
     "options": [
@@ -5439,8 +5439,8 @@
     "originalId": 145
   },
   {
-    "id": "comun_148",
-    "questionNum": 148,
+    "id": "comun-t08_6",
+    "questionNum": 6,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la persona titular del derecho a la información asistencial es:",
     "type": "C",
     "options": [
@@ -5476,8 +5476,8 @@
     "originalId": 146
   },
   {
-    "id": "comun_149",
-    "questionNum": 149,
+    "id": "comun-t08_7",
+    "questionNum": 7,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, cuando la persona paciente, según el criterio del personal facultativo que le asiste, carezca de capacidad para entender la información a causa de su estado físico o psíquico:",
     "type": "C",
     "options": [
@@ -5513,8 +5513,8 @@
     "originalId": 147
   },
   {
-    "id": "comun_150",
-    "questionNum": 150,
+    "id": "comun-t08_8",
+    "questionNum": 8,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, cuando existe riesgo inmediato grave para la integridad física o psíquica de la persona enferma y no es posible conseguir su autorización:",
     "type": "C",
     "options": [
@@ -5550,8 +5550,8 @@
     "originalId": 148
   },
   {
-    "id": "comun_151",
-    "questionNum": 151,
+    "id": "comun-t08_9",
+    "questionNum": 9,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, se otorgará el consentimiento por representación:",
     "type": "C",
     "options": [
@@ -5587,8 +5587,8 @@
     "originalId": 149
   },
   {
-    "id": "comun_152",
-    "questionNum": 152,
+    "id": "comun-t08_10",
+    "questionNum": 10,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el personal facultativo proporcionará a la persona paciente, antes de recabar su consentimiento escrito, la información básica siguiente:",
     "type": "C",
     "options": [
@@ -5624,8 +5624,8 @@
     "originalId": 150
   },
   {
-    "id": "comun_153",
-    "questionNum": 153,
+    "id": "comun-t08_11",
+    "questionNum": 11,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la historia clínica será archivada por:",
     "type": "C",
     "options": [
@@ -5661,8 +5661,8 @@
     "originalId": 151
   },
   {
-    "id": "comun_154",
-    "questionNum": 154,
+    "id": "comun-t08_12",
+    "questionNum": 12,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el acceso a la historia clínica con fines judiciales, epidemiológicos, de salud pública, de investigación o de docencia:",
     "type": "C",
     "options": [
@@ -5698,8 +5698,8 @@
     "originalId": 152
   },
   {
-    "id": "comun_155",
-    "questionNum": 155,
+    "id": "comun-t08_13",
+    "questionNum": 13,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la documentación clínica se conservará:",
     "type": "C",
     "options": [
@@ -5735,8 +5735,8 @@
     "originalId": 153
   },
   {
-    "id": "comun_156",
-    "questionNum": 156,
+    "id": "comun-t08_14",
+    "questionNum": 14,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el acceso a la historia clínica de personas fallecidas:",
     "type": "C",
     "options": [
@@ -5772,8 +5772,8 @@
     "originalId": 154
   },
   {
-    "id": "comun_157",
-    "questionNum": 157,
+    "id": "comun-t08_15",
+    "questionNum": 15,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, en caso de que la persona paciente no acepte el alta:",
     "type": "C",
     "options": [
@@ -5795,10 +5795,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "El personal facultativo, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión."
+      "La dirección del centro, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -5809,8 +5809,8 @@
     "originalId": 155
   },
   {
-    "id": "comun_158",
-    "questionNum": 158,
+    "id": "comun-t08_16",
+    "questionNum": 16,
     "question": "Según la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, si el nombramiento de representante en el documento de instrucciones previas ha recaído en favor de la persona cónyuge o pareja de hecho de la persona otorgante:",
     "type": "C",
     "options": [
@@ -5846,8 +5846,8 @@
     "originalId": 160
   },
   {
-    "id": "comun_159",
-    "questionNum": 159,
+    "id": "comun-t09_1",
+    "questionNum": 1,
     "question": "El objeto de la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad es:",
     "type": "C",
     "options": [
@@ -5883,8 +5883,8 @@
     "originalId": 156
   },
   {
-    "id": "comun_160",
-    "questionNum": 160,
+    "id": "comun-t09_2",
+    "questionNum": 2,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, tiene derecho a manifestar sus objetivos vitales y valores personales, así como las instrucciones sobre su tratamiento:",
     "type": "C",
     "options": [
@@ -5920,8 +5920,8 @@
     "originalId": 157
   },
   {
-    "id": "comun_161",
-    "questionNum": 161,
+    "id": "comun-t09_3",
+    "questionNum": 3,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la expresión de los objetivos vitales y valores personales tiene como fin:",
     "type": "C",
     "options": [
@@ -5957,8 +5957,8 @@
     "originalId": 158
   },
   {
-    "id": "comun_162",
-    "questionNum": 162,
+    "id": "comun-t09_4",
+    "questionNum": 4,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas:",
     "type": "C",
     "options": [
@@ -5980,22 +5980,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario y facultarles para interpretar sus valores e instrucciones, si la persona paciente está incapacitada judicialmente. las"
+      "Se podrá designar una o varias personas representantes para que sean interlocutoras válidas del personal facultativo o del equipo sanitario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 6 Ley 7/2002: En el documento de voluntades anticipadas se podrá designar una o varias personas representantes para que sean las interlocutoras válidas con el médico o equipo sanitario. No se exige incapacidad judicial para esta designación. Respuesta A.",
     "originalId": 159
   },
   {
-    "id": "comun_163",
-    "questionNum": 163,
+    "id": "comun-t09_5",
+    "questionNum": 5,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, las instrucciones sobre el tratamiento pueden referirse:",
     "type": "C",
     "options": [
@@ -6017,22 +6017,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Exclusivamente a una enfermedad o lesión que la persona otorgante eventualmente podría padecer en un futuro, siempre que sea de carácter grave."
+      "A una enfermedad o lesión que la persona otorgante ya padece o a las que eventualmente podría padecer en un futuro."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 5 Ley 7/2002: Las instrucciones sobre el tratamiento pueden referirse a 'una enfermedad o lesión que la persona otorgante ya padece, o a las que eventualmente podría padecer en un futuro'. No se limita solo a situaciones futuras o graves. Respuesta A.",
     "originalId": 161
   },
   {
-    "id": "comun_164",
-    "questionNum": 164,
+    "id": "comun-t09_6",
+    "questionNum": 6,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas:",
     "type": "C",
     "options": [
@@ -6054,22 +6054,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante tres testigos."
+      "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante dos testigos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 4 y 5 Ley 7/2002: El DVA se formaliza ante notario, funcionario del registro (o servicio de documentación de centros sanitarios) o ante testigos. La opción C recoge correctamente la vía de los centros sanitarios y el número de testigos ajustado a la interpretación de consenso. Respuesta C.",
     "originalId": 162
   },
   {
-    "id": "comun_165",
-    "questionNum": 165,
+    "id": "comun-t09_7",
+    "questionNum": 7,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, las personas que actúen como testigos:",
     "type": "C",
     "options": [
@@ -6105,8 +6105,8 @@
     "originalId": 163
   },
   {
-    "id": "comun_166",
-    "questionNum": 166,
+    "id": "comun-t09_8",
+    "questionNum": 8,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas puede ser modificado, sustituido por otro o revocado en cualquier momento por la persona otorgante:",
     "type": "C",
     "options": [
@@ -6142,8 +6142,8 @@
     "originalId": 164
   },
   {
-    "id": "comun_167",
-    "questionNum": 167,
+    "id": "comun-t09_9",
+    "questionNum": 9,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la modificación, sustitución o revocación del documento de voluntades anticipadas se formaliza:",
     "type": "C",
     "options": [
@@ -6165,22 +6165,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Por escrito y ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades donde se encuentra registrado el documento inicial."
+      "Por escrito y ante una notaría o ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o ante tres testigos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 3.2 Ley 7/2002: La modificación o sustitución del DVA requiere las mismas formalidades que su otorgamiento (Escrito + Notaria/Registro/Testigos). No basta cualquier registro de entrada. Respuesta B.",
     "originalId": 165
   },
   {
-    "id": "comun_168",
-    "questionNum": 168,
+    "id": "comun-t09_10",
+    "questionNum": 10,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la voluntad de la persona prevalece sobre las instrucciones contenidas en el documento de voluntades anticipadas ante cualquier intervención clínica siempre que:",
     "type": "C",
     "options": [
@@ -6216,8 +6216,8 @@
     "originalId": 166
   },
   {
-    "id": "comun_169",
-    "questionNum": 169,
+    "id": "comun-t09_11",
+    "questionNum": 11,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas se tendrán por no puestas:",
     "type": "C",
     "options": [
@@ -6239,22 +6239,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Las instrucciones que en el momento de ser aplicadas no se aprueben por el comité de ética del centro."
+      "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D.",
+    "explanation": "Art. 9 Ley 7/2002: Se tendrán por no puestas las instrucciones que resulten contrarias al ordenamiento jurídico EN EL MOMENTO DE SER APLICADAS. No se requiere aprobación del comité de ética para la validez de las instrucciones de la persona. Respuesta A.",
     "originalId": 167
   },
   {
-    "id": "comun_170",
-    "questionNum": 170,
+    "id": "comun-t09_12",
+    "questionNum": 12,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas se tendrán por no puestas:",
     "type": "C",
     "options": [
@@ -6290,8 +6290,8 @@
     "originalId": 167
   },
   {
-    "id": "comun_171",
-    "questionNum": 171,
+    "id": "comun-t09_13",
+    "questionNum": 13,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la interconexión prevista para el Registro Vasco de Voluntades Anticipadas:",
     "type": "C",
     "options": [
@@ -6327,8 +6327,8 @@
     "originalId": 169
   },
   {
-    "id": "comun_172",
-    "questionNum": 172,
+    "id": "comun-t09_14",
+    "questionNum": 14,
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas que no haya sido inscrito en el Registro Vasco de Voluntades Anticipadas:",
     "type": "C",
     "options": [
@@ -6350,22 +6350,22 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Carece de eficacia si la persona otorgante no puede validarlo por sí misma en ese momento."
+      "Debe entregarse en el centro sanitario donde la persona otorgante sea atendida."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas es de carácter público, adscrito al Departamento de Sanidad del Gobierno Vasco. Su acceso está restringido al propio interesado, su representante, y los profesionales sanitarios que atienden al otorgante. Respuesta D.",
+    "explanation": "Art. 11 Ley 7/2002: El documento que no sea inscrito 'deberá ser entregado en el centro sanitario donde el otorgante sea atendido para que sea incorporado a su historia clínica'. No carece de eficacia por la falta de inscripción si se aporta al centro. Respuesta A.",
     "originalId": 170
   },
   {
-    "id": "comun_173",
-    "questionNum": 173,
+    "id": "comun-t10_1",
+    "questionNum": 1,
     "question": "Según dispone la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, podrán tener acceso a los datos personales de las personas fallecidas:",
     "type": "C",
     "options": [
@@ -6401,8 +6401,8 @@
     "originalId": 171
   },
   {
-    "id": "comun_174",
-    "questionNum": 174,
+    "id": "comun-t10_2",
+    "questionNum": 2,
     "question": "Señale la respuesta que no es correcta. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales a efectos del tratamiento de los datos, el consentimiento de la persona afectada tiene que ser una manifestación de voluntad que cumpla las siguientes características:",
     "type": "C",
     "options": [
@@ -6438,8 +6438,8 @@
     "originalId": 172
   },
   {
-    "id": "comun_175",
-    "questionNum": 175,
+    "id": "comun-t10_3",
+    "questionNum": 3,
     "question": "Con relación al tratamiento de los datos personales de una persona menor de edad, señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -6475,8 +6475,8 @@
     "originalId": 173
   },
   {
-    "id": "comun_176",
-    "questionNum": 176,
+    "id": "comun-t10_4",
+    "questionNum": 4,
     "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en su artículo 9 considera categorías especiales de datos aquellos que permitan, respecto a la persona afectada, identificar:",
     "type": "C",
     "options": [
@@ -6512,8 +6512,8 @@
     "originalId": 174
   },
   {
-    "id": "comun_177",
-    "questionNum": 177,
+    "id": "comun-t10_5",
+    "questionNum": 5,
     "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales establece que el tratamiento de datos de naturaleza penal podrá llevarse a cabo:",
     "type": "C",
     "options": [
@@ -6535,10 +6535,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Exclusivamente en los supuestos amparados en una norma de Derecho de la Unión y en la propia Ley Orgánica 2/2018."
+      "Por profesionales de la abogacía y de la procura, cuando tengan por objeto recoger la información facilitada por quienes les contraten para el ejercicio de sus funciones."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -6549,8 +6549,8 @@
     "originalId": 175
   },
   {
-    "id": "comun_178",
-    "questionNum": 178,
+    "id": "comun-t10_6",
+    "questionNum": 6,
     "question": "Respecto al derecho de rectificación que regula la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -6586,8 +6586,8 @@
     "originalId": 176
   },
   {
-    "id": "comun_179",
-    "questionNum": 179,
+    "id": "comun-t10_7",
+    "questionNum": 7,
     "question": "Con relación al tratamiento de datos con fines de videovigilancia, señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -6623,8 +6623,8 @@
     "originalId": 177
   },
   {
-    "id": "comun_180",
-    "questionNum": 180,
+    "id": "comun-t10_8",
+    "questionNum": 8,
     "question": "Respecto a los sistemas de información de denuncias internas que contempla la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, es correcta la siguiente afirmación:",
     "type": "C",
     "options": [
@@ -6660,8 +6660,8 @@
     "originalId": 178
   },
   {
-    "id": "comun_181",
-    "questionNum": 181,
+    "id": "comun-t10_9",
+    "questionNum": 9,
     "question": "Señale la respuesta correcta respecto a la Agencia Española de Protección de Datos:",
     "type": "C",
     "options": [
@@ -6697,8 +6697,8 @@
     "originalId": 179
   },
   {
-    "id": "comun_182",
-    "questionNum": 182,
+    "id": "comun-t10_10",
+    "questionNum": 10,
     "question": "Respecto al procedimiento de nombramiento de la Presidencia de la Agencia Española de Protección de Datos, señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -6734,8 +6734,8 @@
     "originalId": 180
   },
   {
-    "id": "comun_183",
-    "questionNum": 183,
+    "id": "comun-t11_1",
+    "questionNum": 1,
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, respecto a la legitimidad para presentar una queja ante Emakunde-Instituto Vasco de la Mujer, señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -6771,8 +6771,8 @@
     "originalId": 181
   },
   {
-    "id": "comun_184",
-    "questionNum": 184,
+    "id": "comun-t11_2",
+    "questionNum": 2,
     "question": "El artículo 1 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, añade un concepto específico al objeto de la ley que refuerza el fin último de la norma, ¿cuál es?",
     "type": "C",
     "options": [
@@ -6808,8 +6808,8 @@
     "originalId": 182
   },
   {
-    "id": "comun_185",
-    "questionNum": 185,
+    "id": "comun-t11_3",
+    "questionNum": 3,
     "question": "Según el artículo 2 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿a qué entidades privadas les es exigible el cumplimiento de los principios generales de esta ley durante su relación con la administración?",
     "type": "C",
     "options": [
@@ -6845,8 +6845,8 @@
     "originalId": 183
   },
   {
-    "id": "comun_186",
-    "questionNum": 186,
+    "id": "comun-t11_4",
+    "questionNum": 4,
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿cuál de estos es un principio general de actuación de los poderes públicos vascos incorporado en la nueva redacción del artículo 3?",
     "type": "C",
     "options": [
@@ -6882,8 +6882,8 @@
     "originalId": 184
   },
   {
-    "id": "comun_187",
-    "questionNum": 187,
+    "id": "comun-t11_5",
+    "questionNum": 5,
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, respecto al principio de representación equilibrada, ¿en qué caso se permite excepcionalmente una presencia de mujeres superior al 60%?",
     "type": "C",
     "options": [
@@ -6919,8 +6919,8 @@
     "originalId": 185
   },
   {
-    "id": "comun_188",
-    "questionNum": 188,
+    "id": "comun-t11_6",
+    "questionNum": 6,
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué planes específicos deben someterse ahora, obligatoriamente, a una evaluación previa de impacto en función del género?",
     "type": "C",
     "options": [
@@ -6956,8 +6956,8 @@
     "originalId": 186
   },
   {
-    "id": "comun_189",
-    "questionNum": 189,
+    "id": "comun-t11_7",
+    "questionNum": 7,
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué requisito nuevo deben cumplir las empresas de más de 50 personas trabajadoras para poder recibir subvenciones públicas?",
     "type": "C",
     "options": [
@@ -6993,8 +6993,8 @@
     "originalId": 187
   },
   {
-    "id": "comun_190",
-    "questionNum": 190,
+    "id": "comun-t11_8",
+    "questionNum": 8,
     "question": "De acuerdo con lo establecido en el artículo 54 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿cómo se define la \"violencia machista contra las mujeres\"?",
     "type": "C",
     "options": [
@@ -7030,8 +7030,8 @@
     "originalId": 188
   },
   {
-    "id": "comun_191",
-    "questionNum": 191,
+    "id": "comun-t11_9",
+    "questionNum": 9,
     "question": "De acuerdo con lo establecido en el artículo 54.3 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿qué formas de violencia se incorporan como casos constitutivos de violencia machista por estar específicamente recogidos en dicho apartado?",
     "type": "C",
     "options": [
@@ -7067,8 +7067,8 @@
     "originalId": 189
   },
   {
-    "id": "comun_192",
-    "questionNum": 192,
+    "id": "comun-t11_10",
+    "questionNum": 10,
     "question": "De acuerdo con el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué derecho se reconoce expresamente a las víctimas en el marco de las competencias de la Comunidad Autónoma de Euskadi?",
     "type": "C",
     "options": [
@@ -7104,8 +7104,8 @@
     "originalId": 190
   },
   {
-    "id": "comun_193",
-    "questionNum": 193,
+    "id": "comun-t11_11",
+    "questionNum": 11,
     "question": "En el Plan Oncológico Integral de Euskadi (POIE) 2025-2030, la “Centralidad de la persona y humanización” como Principio Rector incluye la incorporación de la perspectiva de género y la atención a:",
     "type": "C",
     "options": [
@@ -7141,8 +7141,8 @@
     "originalId": 276
   },
   {
-    "id": "comun_194",
-    "questionNum": 194,
+    "id": "comun-t12_1",
+    "questionNum": 1,
     "question": "¿Cuántos Objetivos Generales, clasificados como finalistas e instrumentales, se definen en la estructura del Plan de Salud Euskadi 2030?",
     "type": "C",
     "options": [
@@ -7178,8 +7178,8 @@
     "originalId": 191
   },
   {
-    "id": "comun_195",
-    "questionNum": 195,
+    "id": "comun-t12_2",
+    "questionNum": 2,
     "question": "Según el Plan de Salud Euskadi 2030, la VISIÓN que se aspira a lograr como país es:",
     "type": "C",
     "options": [
@@ -7215,8 +7215,8 @@
     "originalId": 192
   },
   {
-    "id": "comun_196",
-    "questionNum": 196,
+    "id": "comun-t12_3",
+    "questionNum": 3,
     "question": "¿Cuál de los siguientes NO es un principio rector en los que se apoya el Plan de Salud Euskadi 2030?",
     "type": "C",
     "options": [
@@ -7238,10 +7238,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Enfoque de Salud en Todas las Políticas y 'Una Sola Salud' ('One Health')."
+      "La autosuficiencia presupuestaria del Sistema Sanitario Público."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -7252,8 +7252,8 @@
     "originalId": 193
   },
   {
-    "id": "comun_197",
-    "questionNum": 197,
+    "id": "comun-t12_4",
+    "questionNum": 4,
     "question": "El Objetivo General 1 (OG1) del Plan de Salud Euskadi 2030 se enfoca en:",
     "type": "C",
     "options": [
@@ -7289,8 +7289,8 @@
     "originalId": 194
   },
   {
-    "id": "comun_198",
-    "questionNum": 198,
+    "id": "comun-t12_5",
+    "questionNum": 5,
     "question": "¿Cuál de los siguientes enfoques es uno de los fundamentos estratégicos detallados en el Plan de Salud Euskadi 2030, además de la reducción de las desigualdades en salud y la Salud en Todas las Políticas?",
     "type": "C",
     "options": [
@@ -7326,8 +7326,8 @@
     "originalId": 196
   },
   {
-    "id": "comun_199",
-    "questionNum": 199,
+    "id": "comun-t12_6",
+    "questionNum": 6,
     "question": "¿A qué hace referencia el acrónimo AVAD en el Plan de Salud Euskadi 2030?",
     "type": "C",
     "options": [
@@ -7363,8 +7363,8 @@
     "originalId": 197
   },
   {
-    "id": "comun_200",
-    "questionNum": 200,
+    "id": "comun-t12_7",
+    "questionNum": 7,
     "question": "¿Cuántas personas aproximadamente, entre expertas, profesionales, entidades y ciudadanía, contribuyeron en la elaboración del Plan de Salud Euskadi 2030?",
     "type": "C",
     "options": [
@@ -7400,8 +7400,8 @@
     "originalId": 198
   },
   {
-    "id": "comun_201",
-    "questionNum": 201,
+    "id": "comun-t12_8",
+    "questionNum": 8,
     "question": "La MISIÓN del Plan de Salud Euskadi 2030 se define como:",
     "type": "C",
     "options": [
@@ -7437,8 +7437,8 @@
     "originalId": 199
   },
   {
-    "id": "comun_202",
-    "questionNum": 202,
+    "id": "comun-t12_9",
+    "questionNum": 9,
     "question": "¿Cuál es uno de los objetivos clave del Plan de Salud Euskadi 2030, reiterado en varias secciones, respecto a la equidad y la gestión de la enfermedad?",
     "type": "C",
     "options": [
@@ -7460,10 +7460,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Aumentar la esperanza de vida en 5 años en todos los colectivos sociales."
+      "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -7474,8 +7474,8 @@
     "originalId": 200
   },
   {
-    "id": "comun_203",
-    "questionNum": 203,
+    "id": "comun-t12_10",
+    "questionNum": 10,
     "question": "¿Qué órganos fueron responsables de la dirección y elaboración del Plan de Salud Euskadi 2030, según el documento?",
     "type": "C",
     "options": [
@@ -7511,8 +7511,8 @@
     "originalId": 201
   },
   {
-    "id": "comun_204",
-    "questionNum": 204,
+    "id": "comun-t12_11",
+    "questionNum": 11,
     "question": "Dentro del Objetivo General 5 del Plan de Salud Euskadi 2030, ¿cuáles son las características que deben definir al sistema de salud pública para responder a los nuevos retos?",
     "type": "C",
     "options": [
@@ -7548,8 +7548,8 @@
     "originalId": 202
   },
   {
-    "id": "comun_205",
-    "questionNum": 205,
+    "id": "comun-t12_12",
+    "questionNum": 12,
     "question": "¿Qué enfoque de investigación prioriza el Plan de Salud Euskadi 2030 para asegurar que los avances científicos lleguen de forma efectiva a la práctica clínica y la salud de la población?",
     "type": "C",
     "options": [
@@ -7585,8 +7585,8 @@
     "originalId": 203
   },
   {
-    "id": "comun_206",
-    "questionNum": 206,
+    "id": "comun-t12_13",
+    "questionNum": 13,
     "question": "Según el modelo de evaluación del Plan de Salud Euskadi 2030, ¿cuáles son los cuatro criterios fundamentales para determinar el éxito de las intervenciones?",
     "type": "C",
     "options": [
@@ -7622,8 +7622,8 @@
     "originalId": 204
   },
   {
-    "id": "comun_207",
-    "questionNum": 207,
+    "id": "comun-t12_14",
+    "questionNum": 14,
     "question": "En la lucha contra las desigualdades, ¿qué tipo de soluciones habitacionales promueve el Plan de Salud Euskadi 2030 para las diferentes etapas de la vida?",
     "type": "C",
     "options": [
@@ -7659,8 +7659,8 @@
     "originalId": 205
   },
   {
-    "id": "comun_208",
-    "questionNum": 208,
+    "id": "comun-t12_15",
+    "questionNum": 15,
     "question": "Según la comparativa de la Memoria Económica del Plan de Salud Euskadi 2030, ¿cuál es el programa presupuestario (fuera del gasto general de Osakidetza) con mayor dotación?",
     "type": "C",
     "options": [
@@ -7696,8 +7696,8 @@
     "originalId": 206
   },
   {
-    "id": "comun_209",
-    "questionNum": 209,
+    "id": "comun-t12_16",
+    "questionNum": 16,
     "question": "El Plan de Salud Euskadi 2030 busca lograr \"comunidades amigables\" para las personas mayores. ¿Cuál es la finalidad última de esta estrategia?",
     "type": "C",
     "options": [
@@ -7733,8 +7733,8 @@
     "originalId": 207
   },
   {
-    "id": "comun_210",
-    "questionNum": 210,
+    "id": "comun-t12_17",
+    "questionNum": 17,
     "question": "En el ámbito de la salud digital, ¿qué concepto destaca el Plan de Salud Euskadi 2030 para transformar la atención personalizada?",
     "type": "C",
     "options": [
@@ -7770,8 +7770,8 @@
     "originalId": 208
   },
   {
-    "id": "comun_211",
-    "questionNum": 211,
+    "id": "comun-t12_18",
+    "questionNum": 18,
     "question": "¿Cómo define el Plan de Salud Euskadi \"Intersectorialidad\" en la gestión de la salud?",
     "type": "C",
     "options": [
@@ -7807,8 +7807,8 @@
     "originalId": 209
   },
   {
-    "id": "comun_212",
-    "questionNum": 212,
+    "id": "comun-t12_19",
+    "questionNum": 19,
     "question": "¿Cuál es la visión del Plan de Salud Euskadi 2030 sobre el uso de la evidencia científica en la toma de decisiones políticas?",
     "type": "C",
     "options": [
@@ -7844,8 +7844,8 @@
     "originalId": 210
   },
   {
-    "id": "comun_213",
-    "questionNum": 213,
+    "id": "comun-t12_20",
+    "questionNum": 20,
     "question": "El Plan Oncológico Integral de Euskadi (POIE) 2025-2030 se alinea con el Plan de Salud de Euskadi 2030. ¿Cuál de las siguientes es una de las prioridades estratégicas de dicho Plan de Salud mencionadas en el documento?",
     "type": "C",
     "options": [
@@ -7881,8 +7881,8 @@
     "originalId": 280
   },
   {
-    "id": "comun_214",
-    "questionNum": 214,
+    "id": "comun-t13_1",
+    "questionNum": 1,
     "question": "Según el análisis del contexto social del documento de Diagnóstico del Pacto Vasco de Salud de Euskadi, ¿qué factor se identifica como un motor clave para que la ciudadanía del siglo XXI demande un papel más activo en su salud?",
     "type": "C",
     "options": [
@@ -7918,8 +7918,8 @@
     "originalId": 211
   },
   {
-    "id": "comun_215",
-    "questionNum": 215,
+    "id": "comun-t13_2",
+    "questionNum": 2,
     "question": "El documento de Diagnóstico del Pacto Vasco de Salud de Euskadi señala que los flujos migratorios actuales en Euskadi:",
     "type": "C",
     "options": [
@@ -7955,8 +7955,8 @@
     "originalId": 212
   },
   {
-    "id": "comun_216",
-    "questionNum": 216,
+    "id": "comun-t13_3",
+    "questionNum": 3,
     "question": "¿Cuál es uno de los principales desafíos identificados en el documento de Diagnóstico del Pacto Vasco de Salud de Euskadi respecto a la formación y relevo del personal sanitario?",
     "type": "C",
     "options": [
@@ -7992,8 +7992,8 @@
     "originalId": 213
   },
   {
-    "id": "comun_217",
-    "questionNum": 217,
+    "id": "comun-t13_4",
+    "questionNum": 4,
     "question": "Sobre el impacto del cambio global y climático, el documento de Diagnóstico del Pacto Vasco de Salud de Euskadi advierte de la aparición de:",
     "type": "C",
     "options": [
@@ -8029,8 +8029,8 @@
     "originalId": 214
   },
   {
-    "id": "comun_218",
-    "questionNum": 218,
+    "id": "comun-t13_5",
+    "questionNum": 5,
     "question": "El documento de Diagnóstico del Pacto Vasco de Salud de Euskadi propone que los indicadores sanitarios para evaluar el sistema deben:",
     "type": "C",
     "options": [
@@ -8066,8 +8066,8 @@
     "originalId": 215
   },
   {
-    "id": "comun_219",
-    "questionNum": 219,
+    "id": "comun-t13_6",
+    "questionNum": 6,
     "question": "¿Cuál es la finalidad principal de los Valores Fundamentales del Pacto Vasco de Salud, según el Libro de Valores y principios?",
     "type": "C",
     "options": [
@@ -8103,8 +8103,8 @@
     "originalId": 216
   },
   {
-    "id": "comun_220",
-    "questionNum": 220,
+    "id": "comun-t13_7",
+    "questionNum": 7,
     "question": "¿Cuál de los siguientes es un Valor Fundamental explícito del Pacto Vasco de Salud, además de la Universalidad y la Equidad?",
     "type": "C",
     "options": [
@@ -8140,8 +8140,8 @@
     "originalId": 217
   },
   {
-    "id": "comun_221",
-    "questionNum": 221,
+    "id": "comun-t13_8",
+    "questionNum": 8,
     "question": "El principio rector de la Salud en Todas las Políticas (STP) en el Pacto Vasco de Salud tiene como alcance la necesidad de:",
     "type": "C",
     "options": [
@@ -8177,8 +8177,8 @@
     "originalId": 218
   },
   {
-    "id": "comun_222",
-    "questionNum": 222,
+    "id": "comun-t13_9",
+    "questionNum": 9,
     "question": "El principio de Innovación en el Pacto Vasco de Salud se aplica a:",
     "type": "C",
     "options": [
@@ -8214,8 +8214,8 @@
     "originalId": 219
   },
   {
-    "id": "comun_223",
-    "questionNum": 223,
+    "id": "comun-t13_10",
+    "questionNum": 10,
     "question": "En el marco del Pacto Vasco de Salud, el principio rector de la Transparencia y Rendición de Cuentas tiene como objetivo principal:",
     "type": "C",
     "options": [
@@ -8251,8 +8251,8 @@
     "originalId": 220
   },
   {
-    "id": "comun_224",
-    "questionNum": 224,
+    "id": "comun-t13_11",
+    "questionNum": 11,
     "question": "En el marco del Pacto Vasco de Salud, dentro de los principios rectores, la \"Orientación al Valor\" significa que el sistema debe priorizar:",
     "type": "C",
     "options": [
@@ -8288,8 +8288,8 @@
     "originalId": 221
   },
   {
-    "id": "comun_225",
-    "questionNum": 225,
+    "id": "comun-t13_12",
+    "questionNum": 12,
     "question": "¿En qué grandes ámbitos se estructuran las Líneas Estratégicas del Pacto Vasco de Salud?",
     "type": "C",
     "options": [
@@ -8325,8 +8325,8 @@
     "originalId": 222
   },
   {
-    "id": "comun_226",
-    "questionNum": 226,
+    "id": "comun-t13_13",
+    "questionNum": 13,
     "question": "La Línea Estratégica I del Pacto Vasco de Salud, centrada en el enfoque \"One Health\" (Una Sola Salud), propone:",
     "type": "C",
     "options": [
@@ -8362,8 +8362,8 @@
     "originalId": 223
   },
   {
-    "id": "comun_227",
-    "questionNum": 227,
+    "id": "comun-t13_14",
+    "questionNum": 14,
     "question": "¿Cuál es el papel de la Atención Primaria y Comunitaria dentro de las Líneas Estratégicas del Pacto Vasco de Salud?",
     "type": "C",
     "options": [
@@ -8399,8 +8399,8 @@
     "originalId": 224
   },
   {
-    "id": "comun_228",
-    "questionNum": 228,
+    "id": "comun-t13_15",
+    "questionNum": 15,
     "question": "En relación con la Línea Estratégica 06 sobre \"Cronicidad\" del Pacto Vasco de Salud, ¿qué objetivo se persigue primordialmente?",
     "type": "C",
     "options": [
@@ -8436,8 +8436,8 @@
     "originalId": 225
   },
   {
-    "id": "comun_229",
-    "questionNum": 229,
+    "id": "comun-t13_16",
+    "questionNum": 16,
     "question": "La Línea Estratégica 07 sobre \"Atención Sociosanitaria\" del Pacto Vasco de Salud subraya la necesidad de:",
     "type": "C",
     "options": [
@@ -8473,8 +8473,8 @@
     "originalId": 226
   },
   {
-    "id": "comun_230",
-    "questionNum": 230,
+    "id": "comun-t13_17",
+    "questionNum": 17,
     "question": "Respecto a la \"Salud Mental\" (Línea 11), el Pacto Vasco de Salud pone el foco en:",
     "type": "C",
     "options": [
@@ -8510,8 +8510,8 @@
     "originalId": 227
   },
   {
-    "id": "comun_231",
-    "questionNum": 231,
+    "id": "comun-t13_18",
+    "questionNum": 18,
     "question": "La Línea Estratégica 18 sobre \"Digitalización en Salud\" del Pacto Vasco de Salud busca la transformación digital para:",
     "type": "C",
     "options": [
@@ -8547,8 +8547,8 @@
     "originalId": 228
   },
   {
-    "id": "comun_232",
-    "questionNum": 232,
+    "id": "comun-t13_19",
+    "questionNum": 19,
     "question": "En la \"Política de Personas\" (Línea 21) del Pacto Vasco de Salud, se establece como prioridad:",
     "type": "C",
     "options": [
@@ -8584,8 +8584,8 @@
     "originalId": 229
   },
   {
-    "id": "comun_233",
-    "questionNum": 233,
+    "id": "comun-t13_20",
+    "questionNum": 20,
     "question": "La Línea Estratégica 24 sobre \"Derechos Lingüísticos\" del Pacto Vasco de Salud tiene como fin:",
     "type": "C",
     "options": [
@@ -8621,8 +8621,8 @@
     "originalId": 230
   },
   {
-    "id": "comun_234",
-    "questionNum": 234,
+    "id": "comun-t14_1",
+    "questionNum": 1,
     "question": "¿Cuál es el periodo de vigencia indicado en el título de la “Estrategia de Seguridad del Paciente” de Osakidetza, y en qué mes y año se publicó su primera edición?",
     "type": "C",
     "options": [
@@ -8658,8 +8658,8 @@
     "originalId": 231
   },
   {
-    "id": "comun_235",
-    "questionNum": 235,
+    "id": "comun-t14_2",
+    "questionNum": 2,
     "question": "¿Cuál es el Objetivo General establecido para la “Estrategia de Seguridad del Paciente 20-30”?",
     "type": "C",
     "options": [
@@ -8695,8 +8695,8 @@
     "originalId": 232
   },
   {
-    "id": "comun_236",
-    "questionNum": 236,
+    "id": "comun-t14_3",
+    "questionNum": 3,
     "question": "El principio hipocrático al que se hace referencia en la “Estrategia de Seguridad del Paciente 20-30”, y que la ciudadanía asume que se verifica en el transcurso de la actividad asistencial, es:",
     "type": "C",
     "options": [
@@ -8732,8 +8732,8 @@
     "originalId": 233
   },
   {
-    "id": "comun_237",
-    "questionNum": 237,
+    "id": "comun-t14_4",
+    "questionNum": 4,
     "question": "¿A qué periodos correspondieron las dos estrategias previas de seguridad de paciente publicadas en Euskadi, de las cuales esta Estrategia 20-30 es la tercera?",
     "type": "C",
     "options": [
@@ -8769,8 +8769,8 @@
     "originalId": 234
   },
   {
-    "id": "comun_238",
-    "questionNum": 238,
+    "id": "comun-t14_5",
+    "questionNum": 5,
     "question": "¿Cuáles son las dos nuevas Líneas de Acción incorporadas en la “Estrategia de Seguridad del Paciente 20-30” que responden a una necesidad percibida por las personas expertas?",
     "type": "C",
     "options": [
@@ -8806,8 +8806,8 @@
     "originalId": 235
   },
   {
-    "id": "comun_239",
-    "questionNum": 239,
+    "id": "comun-t14_6",
+    "questionNum": 6,
     "question": "De acuerdo con la “Estrategia de Seguridad de Paciente 20-30”, ¿cómo se denomina al incidente de seguridad que, a diferencia del incidente sin daño, sí ocasiona algún tipo de daño a las personas atendidas?",
     "type": "C",
     "options": [
@@ -8843,8 +8843,8 @@
     "originalId": 236
   },
   {
-    "id": "comun_240",
-    "questionNum": 240,
+    "id": "comun-t14_7",
+    "questionNum": 7,
     "question": "¿Cuál es el enfoque principal de la Línea de Acción Corporativa L2 de la “Estrategia de Seguridad del Paciente 20-30”?",
     "type": "C",
     "options": [
@@ -8880,8 +8880,8 @@
     "originalId": 237
   },
   {
-    "id": "comun_241",
-    "questionNum": 241,
+    "id": "comun-t14_8",
+    "questionNum": 8,
     "question": "¿Cuál de los siguientes es el Objetivo Específico número 1 de la “Estrategia de Seguridad del Paciente 20-30”, enfocado en el cambio interno?",
     "type": "C",
     "options": [
@@ -8917,8 +8917,8 @@
     "originalId": 238
   },
   {
-    "id": "comun_242",
-    "questionNum": 242,
+    "id": "comun-t14_9",
+    "questionNum": 9,
     "question": "Según la “Estrategia de Seguridad del Paciente 20-30”, el Objetivo General de la Línea de Acción L4 \"Implicación de pacientes en su seguridad\" es:",
     "type": "C",
     "options": [
@@ -8954,8 +8954,8 @@
     "originalId": 239
   },
   {
-    "id": "comun_243",
-    "questionNum": 243,
+    "id": "comun-t14_10",
+    "questionNum": 10,
     "question": "La Línea de Acción Corporativa L8 de la “Estrategia de Seguridad del Paciente 20-30” está dedicada a:",
     "type": "C",
     "options": [
@@ -8991,8 +8991,8 @@
     "originalId": 240
   },
   {
-    "id": "comun_244",
-    "questionNum": 244,
+    "id": "comun-t14_11",
+    "questionNum": 11,
     "question": "¿A qué se refiere la Línea de Acción Corporativa L10 de la “Estrategia de Seguridad del Paciente 20-30”, cuyo objetivo es reducir los eventos adversos específicos de un proceso asistencial?",
     "type": "C",
     "options": [
@@ -9028,8 +9028,8 @@
     "originalId": 241
   },
   {
-    "id": "comun_245",
-    "questionNum": 245,
+    "id": "comun-t14_12",
+    "questionNum": 12,
     "question": "¿Qué documento se menciona en la “Estrategia de Seguridad del Paciente 2030” como el que determinó que las personas atendidas por un sistema medicalizado (tipo 061/112) presentan un mayor porcentaje de incidentes de seguridad en el entorno de Emergencias?",
     "type": "C",
     "options": [
@@ -9065,8 +9065,8 @@
     "originalId": 242
   },
   {
-    "id": "comun_246",
-    "questionNum": 246,
+    "id": "comun-t14_13",
+    "questionNum": 13,
     "question": "El capítulo de Formación de la “Estrategia de Seguridad del Paciente 20-30” señala que, además de impulsar el desarrollo de prácticas seguras, las organizaciones comprometidas orientan sus esfuerzos a aumentar la formación en los llamados:",
     "type": "C",
     "options": [
@@ -9102,8 +9102,8 @@
     "originalId": 243
   },
   {
-    "id": "comun_247",
-    "questionNum": 247,
+    "id": "comun-t14_14",
+    "questionNum": 14,
     "question": "¿Cuál de las siguientes Líneas de Acción de la “Estrategia de Seguridad del Paciente 20-30” NO está relacionada con el sistema de utilización del medicamento?",
     "type": "C",
     "options": [
@@ -9139,8 +9139,8 @@
     "originalId": 244
   },
   {
-    "id": "comun_248",
-    "questionNum": 248,
+    "id": "comun-t14_15",
+    "questionNum": 15,
     "question": "¿Cuántas Líneas de Acción Corporativas (L1 a L...) se definen en la Estrategia de Seguridad del Paciente 20-30?",
     "type": "C",
     "options": [
@@ -9176,8 +9176,8 @@
     "originalId": 245
   },
   {
-    "id": "comun_249",
-    "questionNum": 249,
+    "id": "comun-t15_1",
+    "questionNum": 1,
     "question": "Según el diagnóstico del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza, ¿qué porcentaje de mujeres y hombres, respectivamente, componía la plantilla total de Osakidetza en enero de 2025?",
     "type": "C",
     "options": [
@@ -9213,8 +9213,8 @@
     "originalId": 246
   },
   {
-    "id": "comun_250",
-    "questionNum": 250,
+    "id": "comun-t15_2",
+    "questionNum": 2,
     "question": "Una de las metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza es la “CAPACITACIÓN EN IGUALDAD”. ¿Cuál es su objetivo principal?",
     "type": "C",
     "options": [
@@ -9250,8 +9250,8 @@
     "originalId": 247
   },
   {
-    "id": "comun_251",
-    "questionNum": 251,
+    "id": "comun-t15_3",
+    "questionNum": 3,
     "question": "¿Qué institución aprueba el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
     "type": "C",
     "options": [
@@ -9287,8 +9287,8 @@
     "originalId": 248
   },
   {
-    "id": "comun_252",
-    "questionNum": 252,
+    "id": "comun-t15_4",
+    "questionNum": 4,
     "question": "De acuerdo con el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028), ¿qué concepto define, dentro del diagnóstico de la organización, la dificultad invisible que encuentran las mujeres para acceder a puestos de mayor responsabilidad y toma de decisiones?",
     "type": "C",
     "options": [
@@ -9324,8 +9324,8 @@
     "originalId": 249
   },
   {
-    "id": "comun_253",
-    "questionNum": 253,
+    "id": "comun-t15_5",
+    "questionNum": 5,
     "question": "Una de las Metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) es “CORRESPONSABILIDAD”. ¿Cuál es el objetivo específico asociado a esta meta?",
     "type": "C",
     "options": [
@@ -9361,8 +9361,8 @@
     "originalId": 250
   },
   {
-    "id": "comun_254",
-    "questionNum": 254,
+    "id": "comun-t15_6",
+    "questionNum": 6,
     "question": "¿Cuál fue el objetivo del I Plan de Igualdad, teniendo en cuenta su condición de primer plan estratégico de Osakidetza en esta materia?",
     "type": "C",
     "options": [
@@ -9398,8 +9398,8 @@
     "originalId": 251
   },
   {
-    "id": "comun_255",
-    "questionNum": 255,
+    "id": "comun-t15_7",
+    "questionNum": 7,
     "question": "¿Cuál es la Meta 5 establecida en el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
     "type": "C",
     "options": [
@@ -9435,8 +9435,8 @@
     "originalId": 252
   },
   {
-    "id": "comun_256",
-    "questionNum": 256,
+    "id": "comun-t15_8",
+    "questionNum": 8,
     "question": "¿Cuál es el carácter y el propósito fundamental del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
     "type": "C",
     "options": [
@@ -9472,8 +9472,8 @@
     "originalId": 253
   },
   {
-    "id": "comun_257",
-    "questionNum": 257,
+    "id": "comun-t15_9",
+    "questionNum": 9,
     "question": "El enfoque de \"interseccionalidad\" mencionado en los fundamentos del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) implica:",
     "type": "C",
     "options": [
@@ -9509,8 +9509,8 @@
     "originalId": 254
   },
   {
-    "id": "comun_258",
-    "questionNum": 258,
+    "id": "comun-t15_10",
+    "questionNum": 10,
     "question": "En relación con la violencia machista contra las mujeres, el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) establece como línea de actuación prioritaria:",
     "type": "C",
     "options": [
@@ -9546,8 +9546,8 @@
     "originalId": 255
   },
   {
-    "id": "comun_259",
-    "questionNum": 259,
+    "id": "comun-t16_1",
+    "questionNum": 1,
     "question": "Tal y como dispone el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028:",
     "type": "C",
     "options": [
@@ -9583,8 +9583,8 @@
     "originalId": 256
   },
   {
-    "id": "comun_260",
-    "questionNum": 260,
+    "id": "comun-t16_2",
+    "questionNum": 2,
     "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028 establece respecto a los mensajes audiovisuales que:",
     "type": "C",
     "options": [
@@ -9620,8 +9620,8 @@
     "originalId": 257
   },
   {
-    "id": "comun_261",
-    "questionNum": 261,
+    "id": "comun-t16_3",
+    "questionNum": 3,
     "question": "Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, respecto a las páginas Web de Osakidetza señale cuál de las siguientes repuestas no es correcta:",
     "type": "C",
     "options": [
@@ -9657,8 +9657,8 @@
     "originalId": 258
   },
   {
-    "id": "comun_262",
-    "questionNum": 262,
+    "id": "comun-t16_4",
+    "questionNum": 4,
     "question": "De acuerdo con el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -9694,8 +9694,8 @@
     "originalId": 259
   },
   {
-    "id": "comun_263",
-    "questionNum": 263,
+    "id": "comun-t16_5",
+    "questionNum": 5,
     "question": "En atención al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta correcta:",
     "type": "C",
     "options": [
@@ -9727,8 +9727,8 @@
     "originalId": 260
   },
   {
-    "id": "comun_264",
-    "questionNum": 264,
+    "id": "comun-t16_6",
+    "questionNum": 6,
     "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028 establece que, en los escritos individualizados de respuesta a solicitudes y reclamaciones de pacientes o personas usuarias de Osakidetza se utilizará:",
     "type": "C",
     "options": [
@@ -9764,8 +9764,8 @@
     "originalId": 262
   },
   {
-    "id": "comun_265",
-    "questionNum": 265,
+    "id": "comun-t16_7",
+    "questionNum": 7,
     "question": "Siguiendo lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta que no es correcta:",
     "type": "C",
     "options": [
@@ -9801,8 +9801,8 @@
     "originalId": 263
   },
   {
-    "id": "comun_266",
-    "questionNum": 266,
+    "id": "comun-t16_8",
+    "questionNum": 8,
     "question": "En atención a lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, en todos los centros de atención primaria ha de ponerse en marcha un procedimiento para que, en la medida de las posibilidades, se propongan servicios en euskera a las personas pacientes que hayan registrado esta lengua como preferente y que aún reciban los citados servicios en castellano. Señale a qué servicios se refiere el citado Plan:",
     "type": "C",
     "options": [
@@ -9838,8 +9838,8 @@
     "originalId": 264
   },
   {
-    "id": "comun_267",
-    "questionNum": 267,
+    "id": "comun-t16_9",
+    "questionNum": 9,
     "question": "Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, con relación a las quejas relacionadas con el uso de las lenguas oficiales en Osakidetza, señale la respuesta que no es correcta:",
     "type": "C",
     "options": [
@@ -9875,8 +9875,8 @@
     "originalId": 265
   },
   {
-    "id": "comun_268",
-    "questionNum": 268,
+    "id": "comun-t16_10",
+    "questionNum": 10,
     "question": "Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, en las relaciones con empresas proveedoras, entidades financieras y organismos privados:",
     "type": "C",
     "options": [
@@ -9912,8 +9912,8 @@
     "originalId": 266
   },
   {
-    "id": "comun_269",
-    "questionNum": 269,
+    "id": "comun-t16_11",
+    "questionNum": 11,
     "question": "Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, la Dirección General de Osakidetza realizará una comunicación interna de cara a conocer el registro de la lengua preferente de cada profesional, explicar el modo de registrar la lengua preferente y animar al personal vascohablante a optar por el euskera:",
     "type": "C",
     "options": [
@@ -9949,8 +9949,8 @@
     "originalId": 267
   },
   {
-    "id": "comun_270",
-    "questionNum": 270,
+    "id": "comun-t16_12",
+    "questionNum": 12,
     "question": "Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028:",
     "type": "C",
     "options": [
@@ -9986,8 +9986,8 @@
     "originalId": 268
   },
   {
-    "id": "comun_271",
-    "questionNum": 271,
+    "id": "comun-t16_13",
+    "questionNum": 13,
     "question": "Como contempla el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028:",
     "type": "C",
     "options": [
@@ -10023,8 +10023,8 @@
     "originalId": 269
   },
   {
-    "id": "comun_272",
-    "questionNum": 272,
+    "id": "comun-t16_14",
+    "questionNum": 14,
     "question": "De acuerdo con el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, Osakidetza realizará dos evaluaciones generales del plan de euskera:",
     "type": "C",
     "options": [
@@ -10060,8 +10060,8 @@
     "originalId": 270
   },
   {
-    "id": "comun_273",
-    "questionNum": 273,
+    "id": "comun-t17_1",
+    "questionNum": 1,
     "question": "¿Cuál es la vigencia temporal del Plan Oncológico Integral de Euskadi (POIE) al que se refiere el documento?",
     "type": "C",
     "options": [
@@ -10097,8 +10097,8 @@
     "originalId": 271
   },
   {
-    "id": "comun_274",
-    "questionNum": 274,
+    "id": "comun-t17_2",
+    "questionNum": 2,
     "question": "Según el Resumen Ejecutivo del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿de qué porcentaje de los fallecimientos en Euskadi fue responsable el cáncer en el año 2023?",
     "type": "C",
     "options": [
@@ -10134,8 +10134,8 @@
     "originalId": 272
   },
   {
-    "id": "comun_275",
-    "questionNum": 275,
+    "id": "comun-t17_3",
+    "questionNum": 3,
     "question": "Según el Resumen Ejecutivo del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿cuáles fueron las dos localizaciones de cáncer más frecuentes en Euskadi en el periodo 2015-2019, consideradas separadamente por sexo?",
     "type": "C",
     "options": [
@@ -10171,8 +10171,8 @@
     "originalId": 273
   },
   {
-    "id": "comun_276",
-    "questionNum": 276,
+    "id": "comun-t17_4",
+    "questionNum": 4,
     "question": "¿Cuál de las siguientes es una de las aspiraciones definidas en la VISIÓN del Plan Oncológico Integral de Euskadi (POIE) 2025-2030?",
     "type": "C",
     "options": [
@@ -10208,8 +10208,8 @@
     "originalId": 274
   },
   {
-    "id": "comun_277",
-    "questionNum": 277,
+    "id": "comun-t17_5",
+    "questionNum": 5,
     "question": "La Misión del Plan Oncológico Integral de Euskadi (POIE) 2025-2030 busca generar valor a la ciudadanía vasca en términos de:",
     "type": "C",
     "options": [
@@ -10245,8 +10245,8 @@
     "originalId": 275
   },
   {
-    "id": "comun_278",
-    "questionNum": 278,
+    "id": "comun-t17_6",
+    "questionNum": 6,
     "question": "Teniendo en cuenta la introducción y el contexto del Plan Oncológico Integral de Euskadi 2025-2030. ¿Cuál fue una de las principales áreas de mejora identificadas en la evaluación del Plan Oncológico de Euskadi (POE) 20182023?",
     "type": "C",
     "options": [
@@ -10282,8 +10282,8 @@
     "originalId": 277
   },
   {
-    "id": "comun_279",
-    "questionNum": 279,
+    "id": "comun-t17_7",
+    "questionNum": 7,
     "question": "¿Cuántas Áreas Prioritarias de actuación componen el nuevo Plan Oncológico Integral de Euskadi (POIE) 2025-2030, después de la actualización de la estructura?",
     "type": "C",
     "options": [
@@ -10319,8 +10319,8 @@
     "originalId": 278
   },
   {
-    "id": "comun_280",
-    "questionNum": 280,
+    "id": "comun-t17_8",
+    "questionNum": 8,
     "question": "Según el listado de acrónimos del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿a qué hacen referencia las siglas PROMs?",
     "type": "C",
     "options": [
@@ -10356,8 +10356,8 @@
     "originalId": 279
   },
   {
-    "id": "comun_281",
-    "questionNum": 281,
+    "id": "comun-t18_1",
+    "questionNum": 1,
     "question": "¿Cuál es el objeto fundamental de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, según su Artículo 1?",
     "type": "C",
     "options": [
@@ -10393,8 +10393,8 @@
     "originalId": 281
   },
   {
-    "id": "comun_282",
-    "questionNum": 282,
+    "id": "comun-t18_2",
+    "questionNum": 2,
     "question": "Conforme al Artículo 5 de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué requisito de nacionalidad se exige para poder recibir la prestación de ayuda para morir?",
     "type": "C",
     "options": [
@@ -10430,8 +10430,8 @@
     "originalId": 282
   },
   {
-    "id": "comun_283",
-    "questionNum": 283,
+    "id": "comun-t18_3",
+    "questionNum": 3,
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué concepto define la ley como la \"administración directa a la persona paciente de una sustancia por parte del personal sanitario competente\"?",
     "type": "C",
     "options": [
@@ -10467,8 +10467,8 @@
     "originalId": 283
   },
   {
-    "id": "comun_284",
-    "questionNum": 284,
+    "id": "comun-t18_4",
+    "questionNum": 4,
     "question": "Según el Artículo 5 de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es la condición que debe padecer la persona paciente para solicitar la prestación de ayuda para morir?",
     "type": "C",
     "options": [
@@ -10504,8 +10504,8 @@
     "originalId": 284
   },
   {
-    "id": "comun_285",
-    "questionNum": 285,
+    "id": "comun-t18_5",
+    "questionNum": 5,
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál debe ser la periodicidad mínima con la que el personal facultativo responsable debe consultar a la persona paciente, una vez presentada la solicitud, para confirmar si mantiene su deseo?",
     "type": "C",
     "options": [
@@ -10541,8 +10541,8 @@
     "originalId": 285
   },
   {
-    "id": "comun_286",
-    "questionNum": 286,
+    "id": "comun-t18_6",
+    "questionNum": 6,
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué órgano tiene la función de verificar en cada caso el cumplimiento de los requisitos establecidos en dicha Ley, con carácter previo a la realización de la prestación de ayuda para morir?",
     "type": "C",
     "options": [
@@ -10578,8 +10578,8 @@
     "originalId": 286
   },
   {
-    "id": "comun_287",
-    "questionNum": 287,
+    "id": "comun-t18_7",
+    "questionNum": 7,
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, si la persona paciente se encuentra en situación de incapacidad de hecho en el momento de solicitar la prestación, ¿quién puede presentar la solicitud en su nombre?",
     "type": "C",
     "options": [
@@ -10615,8 +10615,8 @@
     "originalId": 287
   },
   {
-    "id": "comun_288",
-    "questionNum": 288,
+    "id": "comun-t18_8",
+    "questionNum": 8,
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el derecho que asiste al personal sanitario directamente implicado en la prestación de ayuda para morir?",
     "type": "C",
     "options": [
@@ -10652,8 +10652,8 @@
     "originalId": 288
   },
   {
-    "id": "comun_289",
-    "questionNum": 289,
+    "id": "comun-t18_9",
+    "questionNum": 9,
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué define como \"padecimiento grave, crónico e imposibilitante\"?",
     "type": "C",
     "options": [
@@ -10689,8 +10689,8 @@
     "originalId": 289
   },
   {
-    "id": "comun_290",
-    "questionNum": 290,
+    "id": "comun-t18_10",
+    "questionNum": 10,
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el plazo que tiene la persona facultativa responsable para comunicar la resolución favorable a la Comisión de Garantía y Evaluación para su posterior verificación?",
     "type": "C",
     "options": [
@@ -10726,8 +10726,8 @@
     "originalId": 290
   },
   {
-    "id": "comun_291",
-    "questionNum": 291,
+    "id": "comun-t19_1",
+    "questionNum": 1,
     "question": "¿Cuál es el principio general que establece la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas?",
     "type": "C",
     "options": [
@@ -10763,8 +10763,8 @@
     "originalId": 291
   },
   {
-    "id": "comun_292",
-    "questionNum": 292,
+    "id": "comun-t19_2",
+    "questionNum": 2,
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué se considera “sector público”?",
     "type": "C",
     "options": [
@@ -10800,8 +10800,8 @@
     "originalId": 292
   },
   {
-    "id": "comun_293",
-    "questionNum": 293,
+    "id": "comun-t19_3",
+    "questionNum": 3,
     "question": "Con carácter general, el personal comprendido en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, podrá desempeñar:",
     "type": "C",
     "options": [
@@ -10837,8 +10837,8 @@
     "originalId": 293
   },
   {
-    "id": "comun_294",
-    "questionNum": 294,
+    "id": "comun-t19_4",
+    "questionNum": 4,
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué requisito es imprescindible para autorizar la compatibilidad con una actividad privada?",
     "type": "C",
     "options": [
@@ -10874,8 +10874,8 @@
     "originalId": 294
   },
   {
-    "id": "comun_295",
-    "questionNum": 295,
+    "id": "comun-t19_5",
+    "questionNum": 5,
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿puede percibirse más de una remuneración con cargo a los presupuestos públicos?",
     "type": "C",
     "options": [
@@ -10911,8 +10911,8 @@
     "originalId": 295
   },
   {
-    "id": "comun_296",
-    "questionNum": 296,
+    "id": "comun-t19_6",
+    "questionNum": 6,
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué ocurre si se desempeña una actividad incompatible sin autorización?",
     "type": "C",
     "options": [
@@ -10948,8 +10948,8 @@
     "originalId": 297
   },
   {
-    "id": "comun_297",
-    "questionNum": 297,
+    "id": "comun-t19_7",
+    "questionNum": 7,
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué actividades están exceptuadas del régimen general de incompatibilidades?",
     "type": "C",
     "options": [
@@ -10985,8 +10985,8 @@
     "originalId": 298
   },
   {
-    "id": "comun_298",
-    "questionNum": 298,
+    "id": "comun-t19_8",
+    "questionNum": 8,
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, para que se autorice la compatibilidad para un segundo puesto público es necesario que:",
     "type": "C",
     "options": [
@@ -11022,8 +11022,8 @@
     "originalId": 299
   },
   {
-    "id": "comun_299",
-    "questionNum": 299,
+    "id": "comun-t19_9",
+    "questionNum": 9,
     "question": "La finalidad principal de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, es:",
     "type": "C",
     "options": [

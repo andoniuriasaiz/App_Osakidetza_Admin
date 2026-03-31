@@ -1,0 +1,2693 @@
+[
+  {
+    "id": 1,
+    "text": "De acuerdo con las normas generales de ordenaci\u00f3n de las pro",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 2,
+    "text": "Seg\u00fan lo establecido en la normativa vigente sobre ordenaci\u00f3",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 3,
+    "text": "Con la finalidad de facilitar la observancia de los requisit",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 4,
+    "text": "Seg\u00fan la normativa vigente, el \u00f3rgano encargado del Registro",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 5,
+    "text": "En el marco de la ordenaci\u00f3n de las profesiones sanitarias, ",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 6,
+    "text": "Seg\u00fan la normativa de ordenaci\u00f3n de las profesiones sanitari",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 7,
+    "text": "De acuerdo con las normas generales de ordenaci\u00f3n de las pro",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 8,
+    "text": "De acuerdo con las normas generales de ordenaci\u00f3n de las pro",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 9,
+    "text": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordena",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 10,
+    "text": "Los centros sanitarios revisar\u00e1n que el personal sanitario d",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 11,
+    "text": "Seg\u00fan dispone la Ley 44/2003, de 21 de noviembre, de ordenac",
+    "App": "A",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 12,
+    "text": "A los efectos de la Ley 44/2003, de 21 de noviembre, de orde",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 13,
+    "text": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordena",
+    "App": "C",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 14,
+    "text": "De acuerdo con la normativa vigente de ordenaci\u00f3n de las pro",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 15,
+    "text": "Seg\u00fan la Ley 44/2003, de 21 de noviembre, de ordenaci\u00f3n de l",
+    "App": "D",
+    "Kaixo": "DB",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 17,
+    "text": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordena",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 18,
+    "text": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordena",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 19,
+    "text": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordena",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 20,
+    "text": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordena",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 261,
+    "text": "El III Plan de Normalizaci\u00f3n del Uso del Euskera en Osakidet",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 21,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "A",
+    "Kaixo": "AB",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 22,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 23,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "C",
+    "Kaixo": "DA",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 24,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "A",
+    "Kaixo": "AB",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 25,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 26,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "C",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 27,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 28,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 29,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 30,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 31,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "A",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 32,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 33,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 34,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "B",
+    "Kaixo": "AB",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 35,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 36,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 37,
+    "text": "A los efectos de la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n ",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 38,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 39,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "D",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 40,
+    "text": "Seg\u00fan dispone la Ley 16/2003, de 28 de mayo, de cohesi\u00f3n y c",
+    "App": "D",
+    "Kaixo": "AD",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 43,
+    "text": "El personal estatutario de los servicios de salud que confor",
+    "App": "B",
+    "Kaixo": "BD",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 41,
+    "text": "El objeto de la Ley 55/2003, de 16 de diciembre, del Estatut",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 42,
+    "text": "Seg\u00fan dispone la Ley 55/2003, de 16 de diciembre, del Estatu",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 44,
+    "text": "La condici\u00f3n de personal estatutario fijo se adquiere, tal y",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 45,
+    "text": "Seg\u00fan dice la Ley 55/2003, de 16 de diciembre, del Estatuto ",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 46,
+    "text": "La p\u00e9rdida de la condici\u00f3n de personal estatutario regulada ",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 47,
+    "text": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto ",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 48,
+    "text": "Procede la extinci\u00f3n de la condici\u00f3n de personal estatutario",
+    "App": "D",
+    "Kaixo": "DB",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 49,
+    "text": "En materia de retribuciones, la Ley 55/2003, de 16 de diciem",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 50,
+    "text": "De acuerdo con la Ley 55/2003, de 16 de diciembre, del Estat",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 51,
+    "text": "La p\u00e9rdida de la condici\u00f3n de personal estatutario de los se",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 52,
+    "text": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del p",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 53,
+    "text": "En el supuesto del personal estatutario de los servicios de ",
+    "App": "D",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 54,
+    "text": "Para el personal estatutario de los servicios de salud, el p",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 55,
+    "text": "Atendiendo a lo dispuesto en la Ley 55/2003, de 16 de diciem",
+    "App": "C",
+    "Kaixo": "DA",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 56,
+    "text": "Respecto a la jornada y descansos diarios del personal estat",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 57,
+    "text": "Seg\u00fan establece la Ley 55/2003, de 16 de diciembre, del Esta",
+    "App": "B",
+    "Kaixo": "BC",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 58,
+    "text": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del p",
+    "App": "C",
+    "Kaixo": "BD",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 59,
+    "text": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto ",
+    "App": "C",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 60,
+    "text": "La excedencia voluntaria solicitada por el personal estatuta",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 80,
+    "text": "Respecto al personal sujeto al r\u00e9gimen estatutario que estab",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 296,
+    "text": "\u00bfLa Ley 53/1984, de 26 de diciembre, de Incompatibilidades d",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 16,
+    "text": "Quien ostente la titularidad de los centros sanitarios y los",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 61,
+    "text": "La Ley 8/1997, de 26 de junio, de ordenaci\u00f3n Sanitaria de Eu",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 62,
+    "text": "La Ley 8/1997, de 26 de junio, de ordenaci\u00f3n Sanitaria de Eu",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 63,
+    "text": "Se\u00f1ale cu\u00e1l de los siguientes principios no se enuncian entr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 64,
+    "text": "La Ley 8/1997, de 26 de junio, de ordenaci\u00f3n Sanitaria de Eu",
+    "App": "C",
+    "Kaixo": "CD",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 65,
+    "text": "Seg\u00fan la Ley 8/1997, de 26 de junio, de ordenaci\u00f3n Sanitaria",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 66,
+    "text": "La Ley 8/1997, de 26 de junio, de ordenaci\u00f3n Sanitaria de Eu",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 67,
+    "text": "La Ley 8/1997, de 26 de junio, de Ordenaci\u00f3n Sanitaria de Eu",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 68,
+    "text": "La Ley 8/1997, de 26 de junio, de Ordenaci\u00f3n Sanitaria de Eu",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 69,
+    "text": "Atendiendo a lo dispuesto en la Ley 8/1997, de 26 de junio, ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 70,
+    "text": "El contrato-programa, tal y como establece la Ley 8/1997, de",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 71,
+    "text": "Osakidetza-Servicio Vasco de Salud se constituye como:",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 73,
+    "text": "Seg\u00fan establece la Ley 8/1997, de 26 de junio, de Ordenaci\u00f3n",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 74,
+    "text": "A los efectos de la Ley 8/1997, de 26 de junio, de Ordenaci\u00f3",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 75,
+    "text": "La direcci\u00f3n, planificaci\u00f3n y programaci\u00f3n del sistema sanit",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 76,
+    "text": "En el \u00e1mbito territorial de la Comunidad Aut\u00f3noma de Euskadi",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 77,
+    "text": "Se\u00f1ale cu\u00e1l de los siguientes criterios no est\u00e1 contemplado ",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 78,
+    "text": "Seg\u00fan establece la Ley 8/1997, de 26 de junio, de Ordenaci\u00f3n",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 79,
+    "text": "Seg\u00fan la Ley 8/1997, de 26 de junio, de Ordenaci\u00f3n Sanitaria",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 81,
+    "text": "El ente p\u00fablico Osakidetza-Servicio Vasco de Salud es:",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 82,
+    "text": "En desarrollo de su objeto, el ente p\u00fablico Osakidetza-Servi",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 83,
+    "text": "Corresponder\u00e1 la presidencia del ente p\u00fablico Osakidetza-Ser",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 85,
+    "text": "La composici\u00f3n del Consejo del ente p\u00fablico Osakidetza-Servi",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 86,
+    "text": "La funci\u00f3n de aprobar los criterios y l\u00edneas generales de ac",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 87,
+    "text": "La propuesta de Plan Estrat\u00e9gico del ente p\u00fablico Osakidetza",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 90,
+    "text": "La persona titular de la Direcci\u00f3n General del ente p\u00fablico ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 94,
+    "text": "Corresponde a cada organizaci\u00f3n de servicios sanitarios del ",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 95,
+    "text": "El n\u00famero de integrantes del equipo directivo de las organiz",
+    "App": "A",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 96,
+    "text": "La funci\u00f3n de Representar al ente p\u00fablico Osakidetza-Servici",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 98,
+    "text": "Las organizaciones de servicios sanitarios del ente p\u00fablico ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 100,
+    "text": "En el \u00e1mbito de una organizaci\u00f3n de servicios sanitarios del",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 101,
+    "text": "\u00bfCu\u00e1l es la fecha de aprobaci\u00f3n del Decreto 100/2018 de las ",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 102,
+    "text": "Seg\u00fan el Art\u00edculo 1 del Decreto 100/2018 de las organizacion",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 103,
+    "text": "Seg\u00fan el Art\u00edculo 2.1 del Decreto 100/2018 de las organizaci",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 104,
+    "text": "Seg\u00fan el Art\u00edculo 1 del Decreto 100/2018 de las organizacion",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 105,
+    "text": "De acuerdo con el Art\u00edculo 3 del Decreto 100/2018 de las org",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 106,
+    "text": "Seg\u00fan el Decreto 100/2018 de las organizaciones sanitarias i",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 107,
+    "text": "Seg\u00fan el Decreto 100/2018 de las organizaciones sanitarias i",
+    "App": "B",
+    "Kaixo": "CD",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 108,
+    "text": "Seg\u00fan el Art\u00edculo 5 del Decreto 100/2018 de las organizacion",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 109,
+    "text": "De acuerdo con el Decreto 100/2018 de las organizaciones san",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 110,
+    "text": "De acuerdo con el Decreto 100/2018 de las organizaciones san",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 111,
+    "text": "De acuerdo con el Decreto 100/2018 de las organizaciones san",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 112,
+    "text": "Seg\u00fan el Art\u00edculo 7.3 del Decreto 100/2018 de las organizaci",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 113,
+    "text": "Seg\u00fan los Art\u00edculos 7 y 9 del Decreto 100/2018 de las organi",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 114,
+    "text": "Seg\u00fan el Art\u00edculo 8.m del Decreto 100/2018 de las organizaci",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 115,
+    "text": "Seg\u00fan el Art\u00edculo 11.2 del Decreto 100/2018 de las organizac",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 116,
+    "text": "De acuerdo con el Decreto 100/2018 de las organizaciones san",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 117,
+    "text": "Seg\u00fan el Art\u00edculo 16 del Decreto 100/2018 de las organizacio",
+    "App": "B",
+    "Kaixo": "DB",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 118,
+    "text": "Seg\u00fan el Art\u00edculo 13.2.j del Decreto 100/2018 de las organiz",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 119,
+    "text": "Seg\u00fan el Art\u00edculo 17 del Decreto 100/2018 de las organizacio",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 120,
+    "text": "Seg\u00fan el Art\u00edculo 19.1 del Decreto 100/2018 de las organizac",
+    "App": "B",
+    "Kaixo": "BA",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 121,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 122,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "DB",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 123,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 124,
+    "text": "El Decreto 147/2015, de 21 de julio, por el que se aprueba l",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 125,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 126,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "AB",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 127,
+    "text": "El derecho a la participaci\u00f3n de forma activa en las actuaci",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 128,
+    "text": "A los efectos de la Declaraci\u00f3n sobre Derechos y Deberes de ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 129,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 130,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 130,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 132,
+    "text": "El Decreto 147/2015, de 21 de julio, por el que se aprueba l",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 133,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 134,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 135,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 136,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 135,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 138,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 139,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 140,
+    "text": "Seg\u00fan el Decreto 147/2015, de 21 de julio, por el que se apr",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 72,
+    "text": "El consejo de administraci\u00f3n de Osakidetza-Servicio Vasco de",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 84,
+    "text": "La funci\u00f3n de nombrar y separar a quienes ocupen las Direcci",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 88,
+    "text": "La funci\u00f3n de convocar, presidir, suspender y levantar las s",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 89,
+    "text": "De acuerdo con el Decreto 255/1997, de 11 de noviembre, por ",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 91,
+    "text": "Corresponde a la organizaci\u00f3n central de administraci\u00f3n y ge",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 92,
+    "text": "Corresponde a la organizaci\u00f3n central de administraci\u00f3n y ge",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 93,
+    "text": "De acuerdo con lo que se\u00f1ala el Decreto 255/1997, de 11 de n",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 99,
+    "text": "En materia espec\u00edfica de inversiones, la competencia para ej",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 97,
+    "text": "Para el desarrollo de funciones de propuesta y asesoramiento",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 141,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 142,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 143,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 144,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 145,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 146,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 147,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 148,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 149,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 150,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 151,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 152,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "A",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 153,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 154,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 155,
+    "text": "Seg\u00fan dispone la Ley 41/2002, de 14 de noviembre, b\u00e1sica reg",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 160,
+    "text": "Seg\u00fan la Ley 7/2002, de 12 de diciembre, de las voluntades a",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 156,
+    "text": "El objeto de la Ley 7/2002, de 12 de diciembre, de las volun",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 157,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 158,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 159,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 161,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 162,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 163,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 164,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 165,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 166,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 167,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 167,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 169,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 170,
+    "text": "Seg\u00fan dispone la Ley 7/2002, de 12 de diciembre, de las volu",
+    "App": "D",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 171,
+    "text": "Seg\u00fan dispone la Ley Org\u00e1nica 3/2018, de 5 de diciembre, de ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 172,
+    "text": "Se\u00f1ale la respuesta que no es correcta. Seg\u00fan la Ley Org\u00e1nic",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 173,
+    "text": "Con relaci\u00f3n al tratamiento de los datos personales de una p",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 174,
+    "text": "La Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 175,
+    "text": "La Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 176,
+    "text": "Respecto al derecho de rectificaci\u00f3n que regula la Ley Org\u00e1n",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 177,
+    "text": "Con relaci\u00f3n al tratamiento de datos con fines de videovigil",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 178,
+    "text": "Respecto a los sistemas de informaci\u00f3n de denuncias internas",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 179,
+    "text": "Se\u00f1ale la respuesta correcta respecto a la Agencia Espa\u00f1ola ",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 180,
+    "text": "Respecto al procedimiento de nombramiento de la Presidencia ",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 181,
+    "text": "Seg\u00fan el Decreto Legislativo 1/2023, de 16 de marzo, por el ",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 182,
+    "text": "El art\u00edculo 1 del Decreto Legislativo 1/2023, de 16 de marzo",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 183,
+    "text": "Seg\u00fan el art\u00edculo 2 del Decreto Legislativo 1/2023, de 16 de",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 184,
+    "text": "Seg\u00fan el Decreto Legislativo 1/2023, de 16 de marzo, por el ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 185,
+    "text": "Seg\u00fan el Decreto Legislativo 1/2023, de 16 de marzo, por el ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 186,
+    "text": "Seg\u00fan el Decreto Legislativo 1/2023, de 16 de marzo, por el ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 187,
+    "text": "Seg\u00fan el Decreto Legislativo 1/2023, de 16 de marzo, por el ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 188,
+    "text": "De acuerdo con lo establecido en el art\u00edculo 54 del texto re",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 189,
+    "text": "De acuerdo con lo establecido en el art\u00edculo 54.3 del texto ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 190,
+    "text": "De acuerdo con el Decreto Legislativo 1/2023, de 16 de marzo",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 276,
+    "text": "En el Plan Oncol\u00f3gico Integral de Euskadi (POIE) 2025-2030, ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 191,
+    "text": "\u00bfCu\u00e1ntos Objetivos Generales, clasificados como finalistas e",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 192,
+    "text": "Seg\u00fan el Plan de Salud Euskadi 2030, la VISI\u00d3N que se aspira",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 193,
+    "text": "\u00bfCu\u00e1l de los siguientes NO es un principio rector en los que",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 194,
+    "text": "El Objetivo General 1 (OG1) del Plan de Salud Euskadi 2030 s",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 196,
+    "text": "\u00bfCu\u00e1l de los siguientes enfoques es uno de los fundamentos e",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 197,
+    "text": "\u00bfA qu\u00e9 hace referencia el acr\u00f3nimo AVAD en el Plan de Salud ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 198,
+    "text": "\u00bfCu\u00e1ntas personas aproximadamente, entre expertas, profesion",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 199,
+    "text": "La MISI\u00d3N del Plan de Salud Euskadi 2030 se define como:",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 200,
+    "text": "\u00bfCu\u00e1l es uno de los objetivos clave del Plan de Salud Euskad",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 201,
+    "text": "\u00bfQu\u00e9 \u00f3rganos fueron responsables de la direcci\u00f3n y elaboraci",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 202,
+    "text": "Dentro del Objetivo General 5 del Plan de Salud Euskadi 2030",
+    "App": "D",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 203,
+    "text": "\u00bfQu\u00e9 enfoque de investigaci\u00f3n prioriza el Plan de Salud Eusk",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 204,
+    "text": "Seg\u00fan el modelo de evaluaci\u00f3n del Plan de Salud Euskadi 2030",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 205,
+    "text": "En la lucha contra las desigualdades, \u00bfqu\u00e9 tipo de solucione",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 206,
+    "text": "Seg\u00fan la comparativa de la Memoria Econ\u00f3mica del Plan de Sal",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 207,
+    "text": "El Plan de Salud Euskadi 2030 busca lograr \"comunidades amig",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 208,
+    "text": "En el \u00e1mbito de la salud digital, \u00bfqu\u00e9 concepto destaca el P",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 209,
+    "text": "\u00bfC\u00f3mo define el Plan de Salud Euskadi \"Intersectorialidad\" e",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 210,
+    "text": "\u00bfCu\u00e1l es la visi\u00f3n del Plan de Salud Euskadi 2030 sobre el u",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 280,
+    "text": "El Plan Oncol\u00f3gico Integral de Euskadi (POIE) 2025-2030 se a",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 211,
+    "text": "Seg\u00fan el an\u00e1lisis del contexto social del documento de Diagn",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 212,
+    "text": "El documento de Diagn\u00f3stico del Pacto Vasco de Salud de Eusk",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 213,
+    "text": "\u00bfCu\u00e1l es uno de los principales desaf\u00edos identificados en el",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 214,
+    "text": "Sobre el impacto del cambio global y clim\u00e1tico, el documento",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 215,
+    "text": "El documento de Diagn\u00f3stico del Pacto Vasco de Salud de Eusk",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 216,
+    "text": "\u00bfCu\u00e1l es la finalidad principal de los Valores Fundamentales",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 217,
+    "text": "\u00bfCu\u00e1l de los siguientes es un Valor Fundamental expl\u00edcito de",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 218,
+    "text": "El principio rector de la Salud en Todas las Pol\u00edticas (STP)",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 219,
+    "text": "El principio de Innovaci\u00f3n en el Pacto Vasco de Salud se apl",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 220,
+    "text": "En el marco del Pacto Vasco de Salud, el principio rector de",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 221,
+    "text": "En el marco del Pacto Vasco de Salud, dentro de los principi",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 222,
+    "text": "\u00bfEn qu\u00e9 grandes \u00e1mbitos se estructuran las L\u00edneas Estrat\u00e9gic",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 223,
+    "text": "La L\u00ednea Estrat\u00e9gica I del Pacto Vasco de Salud, centrada en",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 224,
+    "text": "\u00bfCu\u00e1l es el papel de la Atenci\u00f3n Primaria y Comunitaria dent",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 225,
+    "text": "En relaci\u00f3n con la L\u00ednea Estrat\u00e9gica 06 sobre \"Cronicidad\" d",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 226,
+    "text": "La L\u00ednea Estrat\u00e9gica 07 sobre \"Atenci\u00f3n Sociosanitaria\" del ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 227,
+    "text": "Respecto a la \"Salud Mental\" (L\u00ednea 11), el Pacto Vasco de S",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 228,
+    "text": "La L\u00ednea Estrat\u00e9gica 18 sobre \"Digitalizaci\u00f3n en Salud\" del ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 229,
+    "text": "En la \"Pol\u00edtica de Personas\" (L\u00ednea 21) del Pacto Vasco de S",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 230,
+    "text": "La L\u00ednea Estrat\u00e9gica 24 sobre \"Derechos Ling\u00fc\u00edsticos\" del Pa",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 231,
+    "text": "\u00bfCu\u00e1l es el periodo de vigencia indicado en el t\u00edtulo de la ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 232,
+    "text": "\u00bfCu\u00e1l es el Objetivo General establecido para la \u201cEstrategia",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 233,
+    "text": "El principio hipocr\u00e1tico al que se hace referencia en la \u201cEs",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 234,
+    "text": "\u00bfA qu\u00e9 periodos correspondieron las dos estrategias previas ",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 235,
+    "text": "\u00bfCu\u00e1les son las dos nuevas L\u00edneas de Acci\u00f3n incorporadas en ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 236,
+    "text": "De acuerdo con la \u201cEstrategia de Seguridad de Paciente 20-30",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 237,
+    "text": "\u00bfCu\u00e1l es el enfoque principal de la L\u00ednea de Acci\u00f3n Corporat",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 238,
+    "text": "\u00bfCu\u00e1l de los siguientes es el Objetivo Espec\u00edfico n\u00famero 1 d",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 239,
+    "text": "Seg\u00fan la \u201cEstrategia de Seguridad del Paciente 20-30\u201d, el Ob",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 240,
+    "text": "La L\u00ednea de Acci\u00f3n Corporativa L8 de la \u201cEstrategia de Segur",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 241,
+    "text": "\u00bfA qu\u00e9 se refiere la L\u00ednea de Acci\u00f3n Corporativa L10 de la \u201c",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 242,
+    "text": "\u00bfQu\u00e9 documento se menciona en la \u201cEstrategia de Seguridad de",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 243,
+    "text": "El cap\u00edtulo de Formaci\u00f3n de la \u201cEstrategia de Seguridad del ",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 244,
+    "text": "\u00bfCu\u00e1l de las siguientes L\u00edneas de Acci\u00f3n de la \u201cEstrategia d",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 245,
+    "text": "\u00bfCu\u00e1ntas L\u00edneas de Acci\u00f3n Corporativas (L1 a L...) se define",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 246,
+    "text": "Seg\u00fan el diagn\u00f3stico del II Plan para la Igualdad de Mujeres",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 247,
+    "text": "Una de las metas del II Plan para la Igualdad de Mujeres y H",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 248,
+    "text": "\u00bfQu\u00e9 instituci\u00f3n aprueba el II Plan para la Igualdad de Muje",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 249,
+    "text": "De acuerdo con el II Plan para la Igualdad de Mujeres y Homb",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 250,
+    "text": "Una de las Metas del II Plan para la Igualdad de Mujeres y H",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 251,
+    "text": "\u00bfCu\u00e1l fue el objetivo del I Plan de Igualdad, teniendo en cu",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 252,
+    "text": "\u00bfCu\u00e1l es la Meta 5 establecida en el II Plan para la Igualda",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 253,
+    "text": "\u00bfCu\u00e1l es el car\u00e1cter y el prop\u00f3sito fundamental del II Plan ",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 254,
+    "text": "El enfoque de \"interseccionalidad\" mencionado en los fundame",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 255,
+    "text": "En relaci\u00f3n con la violencia machista contra las mujeres, el",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 256,
+    "text": "Tal y como dispone el III Plan de Normalizaci\u00f3n del Uso del ",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 257,
+    "text": "El III Plan de Normalizaci\u00f3n del Uso del Euskera en Osakidet",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 258,
+    "text": "Conforme al III Plan de Normalizaci\u00f3n del Uso del Euskera en",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 259,
+    "text": "De acuerdo con el III Plan de Normalizaci\u00f3n del Uso del Eusk",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 260,
+    "text": "En atenci\u00f3n al III Plan de Normalizaci\u00f3n del Uso del Euskera",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 262,
+    "text": "El III Plan de Normalizaci\u00f3n del Uso del Euskera en Osakidet",
+    "App": "C",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 263,
+    "text": "Siguiendo lo previsto en el III Plan de Normalizaci\u00f3n del Us",
+    "App": "C",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 264,
+    "text": "En atenci\u00f3n a lo previsto en el III Plan de Normalizaci\u00f3n de",
+    "App": "D",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 265,
+    "text": "Conforme al III Plan de Normalizaci\u00f3n del Uso del Euskera en",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 266,
+    "text": "Conforme al III Plan de Normalizaci\u00f3n del Uso del Euskera en",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 267,
+    "text": "Conforme al III Plan de Normalizaci\u00f3n del Uso del Euskera en",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 268,
+    "text": "Conforme al III Plan de Normalizaci\u00f3n del Uso del Euskera en",
+    "App": "B",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 269,
+    "text": "Como contempla el III Plan de Normalizaci\u00f3n del Uso del Eusk",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 270,
+    "text": "De acuerdo con el III Plan de Normalizaci\u00f3n del Uso del Eusk",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 271,
+    "text": "\u00bfCu\u00e1l es la vigencia temporal del Plan Oncol\u00f3gico Integral d",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 272,
+    "text": "Seg\u00fan el Resumen Ejecutivo del Plan Oncol\u00f3gico Integral de E",
+    "App": "C",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 273,
+    "text": "Seg\u00fan el Resumen Ejecutivo del Plan Oncol\u00f3gico Integral de E",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 274,
+    "text": "\u00bfCu\u00e1l de las siguientes es una de las aspiraciones definidas",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 275,
+    "text": "La Misi\u00f3n del Plan Oncol\u00f3gico Integral de Euskadi (POIE) 202",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 277,
+    "text": "Teniendo en cuenta la introducci\u00f3n y el contexto del Plan On",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 278,
+    "text": "\u00bfCu\u00e1ntas \u00c1reas Prioritarias de actuaci\u00f3n componen el nuevo P",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 279,
+    "text": "Seg\u00fan el listado de acr\u00f3nimos del Plan Oncol\u00f3gico Integral d",
+    "App": "D",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "D",
+    "MatchAll": false
+  },
+  {
+    "id": 281,
+    "text": "\u00bfCu\u00e1l es el objeto fundamental de la Ley Org\u00e1nica 3/2021, de",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 282,
+    "text": "Conforme al Art\u00edculo 5 de la Ley Org\u00e1nica 3/2021, de 24 de m",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 283,
+    "text": "Seg\u00fan la Ley Org\u00e1nica 3/2021, de 24 de marzo, de regulaci\u00f3n ",
+    "App": "C",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 284,
+    "text": "Seg\u00fan el Art\u00edculo 5 de la Ley Org\u00e1nica 3/2021, de 24 de marz",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 285,
+    "text": "Seg\u00fan la Ley Org\u00e1nica 3/2021, de 24 de marzo, de regulaci\u00f3n ",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 286,
+    "text": "Seg\u00fan la Ley Org\u00e1nica 3/2021, de 24 de marzo, de regulaci\u00f3n ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 287,
+    "text": "Seg\u00fan la Ley Org\u00e1nica 3/2021, de 24 de marzo, de regulaci\u00f3n ",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 288,
+    "text": "Seg\u00fan la Ley Org\u00e1nica 3/2021, de 24 de marzo, de regulaci\u00f3n ",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 289,
+    "text": "Seg\u00fan la Ley Org\u00e1nica 3/2021, de 24 de marzo, de regulaci\u00f3n ",
+    "App": "B",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 290,
+    "text": "Seg\u00fan la Ley Org\u00e1nica 3/2021, de 24 de marzo, de regulaci\u00f3n ",
+    "App": "B",
+    "Kaixo": "D",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 291,
+    "text": "\u00bfCu\u00e1l es el principio general que establece la Ley 53/1984, ",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 292,
+    "text": "Seg\u00fan la Ley 53/1984, de 26 de diciembre, de Incompatibilida",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 293,
+    "text": "Con car\u00e1cter general, el personal comprendido en la Ley 53/1",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  },
+  {
+    "id": 294,
+    "text": "Seg\u00fan la Ley 53/1984, de 26 de diciembre, de Incompatibilida",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 295,
+    "text": "Seg\u00fan la Ley 53/1984, de 26 de diciembre, de Incompatibilida",
+    "App": "B",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": true
+  },
+  {
+    "id": 297,
+    "text": "Seg\u00fan la Ley 53/1984, de 26 de diciembre, de Incompatibilida",
+    "App": "A",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 298,
+    "text": "Seg\u00fan la Ley 53/1984, de 26 de diciembre, de Incompatibilida",
+    "App": "A",
+    "Kaixo": "A",
+    "Osasun": "B",
+    "Consensus": "A",
+    "MatchAll": false
+  },
+  {
+    "id": 299,
+    "text": "Seg\u00fan la Ley 53/1984, de 26 de diciembre, de Incompatibilida",
+    "App": "C",
+    "Kaixo": "C",
+    "Osasun": "B",
+    "Consensus": "C",
+    "MatchAll": false
+  },
+  {
+    "id": 300,
+    "text": "La finalidad principal de la Ley 53/1984, de 26 de diciembre",
+    "App": "A",
+    "Kaixo": "B",
+    "Osasun": "B",
+    "Consensus": "B",
+    "MatchAll": false
+  }
+]

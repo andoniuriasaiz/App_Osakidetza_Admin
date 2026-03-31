@@ -33,7 +33,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El Art. 1 de la LO 3/2021 establece como objeto regular el derecho de toda persona a solicitar y recibir la prestacion de ayuda para morir, y la correlativa obligacion de las Administraciones de garantizarla."
+    "explanation": "El Art. 1 de la LO 3/2021 establece como objeto regular el derecho de toda persona a solicitar y recibir la prestacion de ayuda para morir, y la correlativa obligacion de las Administraciones de garantizarla.",
+    "officialId": 185
   },
   {
     "id": "tec-comun-t16_2",
@@ -69,7 +70,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El Art. 5.1.a) LO 3/2021 exige ser mayor de edad y tener nacionalidad española, residencia legal o certificado de empadronamiento que acredite mas de 12 meses de permanencia en España."
+    "explanation": "El Art. 5.1.a) LO 3/2021 exige ser mayor de edad y tener nacionalidad española, residencia legal o certificado de empadronamiento que acredite mas de 12 meses de permanencia en España.",
+    "officialId": 186
   },
   {
     "id": "tec-comun-t16_3",
@@ -105,7 +107,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El Art. 3.b) LO 3/2021 define la eutanasia como la administracion directa al paciente de una sustancia por parte del personal sanitario competente que provoca su muerte de forma directa e intencionada."
+    "explanation": "El Art. 3.b) LO 3/2021 define la eutanasia como la administracion directa al paciente de una sustancia por parte del personal sanitario competente que provoca su muerte de forma directa e intencionada.",
+    "officialId": 187
   },
   {
     "id": "tec-comun-t16_4",
@@ -141,7 +144,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El Art. 5.1.b) LO 3/2021 exige padecer una enfermedad grave e incurable, o un padecimiento grave, cronico e imposibilitante, causantes de un sufrimiento fisico o psiquico intolerable."
+    "explanation": "El Art. 5.1.b) LO 3/2021 exige padecer una enfermedad grave e incurable, o un padecimiento grave, cronico e imposibilitante, causantes de un sufrimiento fisico o psiquico intolerable.",
+    "officialId": 188
   },
   {
     "id": "tec-comun-t16_5",
@@ -177,7 +181,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El Art. 8.2 LO 3/2021 establece que el medico responsable debe consultar al paciente al menos cada 15 dias para confirmar que mantiene su deseo, dejando constancia en la historia clinica."
+    "explanation": "El Art. 8.2 LO 3/2021 establece que el medico responsable debe consultar al paciente al menos cada 15 dias para confirmar que mantiene su deseo, dejando constancia en la historia clinica.",
+    "officialId": 189
   },
   {
     "id": "tec-comun-t16_6",
@@ -213,7 +218,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El Art. 16 LO 3/2021 reconoce el derecho a la objecion de conciencia del personal sanitario directamente implicado en la prestacion de ayuda para morir, debiendo manifestarlo con antelacion y por escrito."
+    "explanation": "El Art. 16 LO 3/2021 reconoce el derecho a la objecion de conciencia del personal sanitario directamente implicado en la prestacion de ayuda para morir, debiendo manifestarlo con antelacion y por escrito.",
+    "officialId": 190
   },
   {
     "id": "tec-comun-t16_7",
@@ -249,7 +255,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El Art. 3.c) LO 3/2021 define el padecimiento grave, cronico e imposibilitante como aquel que genera una limitacion que incide directamente sobre la autonomia fisica y la capacidad de expresar la voluntad de la persona."
+    "explanation": "El Art. 3.c) LO 3/2021 define el padecimiento grave, cronico e imposibilitante como aquel que genera una limitacion que incide directamente sobre la autonomia fisica y la capacidad de expresar la voluntad de la persona.",
+    "officialId": 191
   },
   {
     "id": "tec-comun-t16_8",
@@ -285,7 +292,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El Art. 10.3 LO 3/2021 establece que el medico responsable debe comunicar la resolucion favorable a la Comision de Garantia y Evaluacion dentro del dia siguiente natural a dicha resolucion."
+    "explanation": "El Art. 10.3 LO 3/2021 establece que el medico responsable debe comunicar la resolucion favorable a la Comision de Garantia y Evaluacion dentro del dia siguiente natural a dicha resolucion.",
+    "officialId": 192
   },
   {
     "id": "tec-comun-t16_9",
@@ -311,17 +319,18 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "La libre acumulacion de empleos publicos."
+      "La incompatibilidad para desempeñar mas de un puesto en el sector publico, salvo excepciones."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A."
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 193
   },
   {
     "id": "tec-comun-t16_10",
@@ -357,7 +366,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "La Ley 53/1984 establece que solo se puede desempeñar un segundo puesto publico con autorizacion previa y unicamente en los supuestos tasados que la propia Ley prevé, no de forma general."
+    "explanation": "La Ley 53/1984 establece que solo se puede desempeñar un segundo puesto publico con autorizacion previa y unicamente en los supuestos tasados que la propia Ley prevé, no de forma general.",
+    "officialId": 194
   },
   {
     "id": "tec-comun-t16_11",
@@ -393,7 +403,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "La Ley 53/1984 exige que la actividad privada compatible no comprometa la imparcialidad o independencia del funcionario, ni interfiera con sus obligaciones publicas."
+    "explanation": "La Ley 53/1984 exige que la actividad privada compatible no comprometa la imparcialidad o independencia del funcionario, ni interfiera con sus obligaciones publicas.",
+    "officialId": 195
   },
   {
     "id": "tec-comun-t16_12",
@@ -429,7 +440,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "La Ley 53/1984 establece como regla general la prohibicion de percibir mas de una remuneracion con cargo a fondos publicos, salvo en los supuestos especificamente previstos y autorizados por la propia Ley."
+    "explanation": "La Ley 53/1984 establece como regla general la prohibicion de percibir mas de una remuneracion con cargo a fondos publicos, salvo en los supuestos especificamente previstos y autorizados por la propia Ley.",
+    "officialId": 196
   },
   {
     "id": "tec-comun-t16_13",
@@ -465,7 +477,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "El desempeño de actividades incompatibles sin la preceptiva autorizacion puede dar lugar a responsabilidad disciplinaria, siendo considerada falta muy grave que puede llevar a la separacion del servicio."
+    "explanation": "El desempeño de actividades incompatibles sin la preceptiva autorizacion puede dar lugar a responsabilidad disciplinaria, siendo considerada falta muy grave que puede llevar a la separacion del servicio.",
+    "officialId": 197
   },
   {
     "id": "tec-comun-t16_14",
@@ -501,7 +514,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "La Ley 53/1984 exceptua del regimen general las actividades docentes o de investigacion en determinados supuestos, asi como otras actividades de colaboracion ocasional."
+    "explanation": "La Ley 53/1984 exceptua del regimen general las actividades docentes o de investigacion en determinados supuestos, asi como otras actividades de colaboracion ocasional.",
+    "officialId": 198
   },
   {
     "id": "tec-comun-t16_15",
@@ -537,7 +551,8 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "La Ley 53/1984 exige que la compatibilidad para un segundo puesto publico se encuadre en los supuestos legalmente previstos y que no suponga modificacion de la jornada y horario del puesto principal."
+    "explanation": "La Ley 53/1984 exige que la compatibilidad para un segundo puesto publico se encuadre en los supuestos legalmente previstos y que no suponga modificacion de la jornada y horario del puesto principal.",
+    "officialId": 199
   },
   {
     "id": "tec-comun-t16_16",
@@ -563,16 +578,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Incrementar los ingresos del personal publico."
+      "Garantizar la dedicacion y la imparcialidad en el servicio publico."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t16",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A."
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
+    "officialId": 200
   }
 ]

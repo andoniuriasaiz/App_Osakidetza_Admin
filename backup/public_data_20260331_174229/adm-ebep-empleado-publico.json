@@ -1,0 +1,187 @@
+[
+  {
+    "id": "adm-ebep-empleado-publico_1",
+    "questionNum": 1,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, son empleados públicos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Quienes desempeñan funciones no retribuidas en las Administraciones Públicas al servicio de los intereses generales."
+      },
+      {
+        "value": 2,
+        "text": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses particulares."
+      },
+      {
+        "value": 3,
+        "text": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales."
+      },
+      {
+        "value": 4,
+        "text": "Quienes desempeñan funciones no retribuidas en las Administraciones Públicas al servicio de los intereses particulares."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-ebep-empleado-publico",
+    "explanation": "Art. 8.1 RDL 5/2015 EBEP: 'Son empleados públicos quienes desempeñan funciones RETRIBUIDAS en las Administraciones Públicas al servicio de los INTERESES GENERALES.' Dos condiciones definitorias: retribución + servicio al interés general (no particular). Respuesta C.",
+    "originalId": 1
+  },
+  {
+    "id": "adm-ebep-empleado-publico_2",
+    "questionNum": 2,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, son funcionarios interinos, cuando se dé alguna de las siguientes circunstancias:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario."
+      },
+      {
+        "value": 2,
+        "text": "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a un año, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto."
+      },
+      {
+        "value": 3,
+        "text": "El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de 3 años."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a un año, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-ebep-empleado-publico",
+    "explanation": "Art. 10.1 RDL 5/2015 EBEP establece las circunstancias para ser funcionario interino: b) 'La sustitución transitoria de los titulares' [→ opción A]; c) Programas temporales: 'no podrán tener duración superior a TRES AÑOS, ampliable hasta 12 meses' (la opción B dice 'un año' → FALSO); d) Exceso de tareas: plazo máximo de SEIS MESES dentro de doce (la opción C dice '9 meses en 3 años' → FALSO). Solo la opción A es correcta. Respuesta B.",
+    "originalId": 2
+  },
+  {
+    "id": "adm-ebep-empleado-publico_3",
+    "questionNum": 3,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la Administración formalizará de oficio la finalización de la relación de interinidad por cualquiera de las siguientes causas, además de por las previstas en el artículo 63, sin derecho a compensación alguna:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Por la cobertura reglada del puesto por personal funcionario de carrera a través de cualquiera de los procedimientos legalmente establecidos."
+      },
+      {
+        "value": 2,
+        "text": "Por razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados."
+      },
+      {
+        "value": 3,
+        "text": "Por la finalización de la causa que dio lugar a su nombramiento."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-ebep-empleado-publico",
+    "explanation": "Art. 10.3 RDL 5/2015 EBEP (tras Ley 20/2021): La Administración formalizará de oficio la finalización de la interinidad por: a) Cobertura reglada del puesto por funcionario de carrera; b) Razones organizativas que supriman o amorticen el puesto; c) Finalización de la causa que originó el nombramiento. Las tres son causas expresas de extinción. Respuesta D: a), b) y c) correctas.",
+    "originalId": 3
+  },
+  {
+    "id": "adm-ebep-empleado-publico_4",
+    "questionNum": 4,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, es personal laboral:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios no retribuidos por las Administraciones Públicas."
+      },
+      {
+        "value": 2,
+        "text": "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas."
+      },
+      {
+        "value": 3,
+        "text": "El que, en virtud de contrato de trabajo formalizado verbalmente, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas."
+      },
+      {
+        "value": 4,
+        "text": "El que, en virtud de contrato de trabajo formalizado por escrito o verbalmente, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios no retribuidos por las Administraciones Públicas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios no retribuidos por las Administraciones Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-ebep-empleado-publico",
+    "explanation": "Art. 11.1 RDL 5/2015 EBEP: 'Es personal laboral el que, en virtud de contrato de trabajo formalizado POR ESCRITO, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios RETRIBUIDOS por las Administraciones Públicas.' Dos condiciones: contrato escrito (no verbal) + servicios retribuidos. Respuesta A.",
+    "originalId": 4
+  },
+  {
+    "id": "adm-ebep-empleado-publico_5",
+    "questionNum": 5,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, es personal eventual:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin."
+      },
+      {
+        "value": 2,
+        "text": "El que, en virtud de nombramiento y con carácter permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin."
+      },
+      {
+        "value": 3,
+        "text": "El que, en virtud de nombramiento y con carácter permanente, realiza algunas funciones no calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-ebep-empleado-publico",
+    "explanation": "Art. 12.1 RDL 5/2015 EBEP: 'Es personal eventual el que, en virtud de nombramiento y con carácter NO PERMANENTE, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.' Clave: NO PERMANENTE + confianza/asesoramiento especial. Respuesta A.",
+    "originalId": 5
+  }
+]

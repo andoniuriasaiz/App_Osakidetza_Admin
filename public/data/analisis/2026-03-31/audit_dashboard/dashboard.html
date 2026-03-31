@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consensus Audit Dashboard - Osakidetza</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0b1424;
+            --card-bg: rgba(22, 28, 45, 0.75);
+            --accent-blue: #3b82f6;
+            --accent-green: #10b981;
+            --accent-red: #f43f5e;
+            --accent-orange: #f59e0b;
+            --accent-purple: #8b5cf6;
+            --accent-cyan: #06b6d4;
+            --accent-pink: #d946ef;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --border: rgba(255, 255, 255, 0.08);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Outfit', sans-serif; background-color: var(--bg); color: var(--text-primary); min-height: 100vh; padding: 1.5rem; background-image: radial-gradient(circle at 0px 0px, rgba(59, 130, 246, 0.05), transparent); background-attachment: fixed; }
+        .container { max-width: 1600px; margin: 0 auto; }
+        
+        header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 1rem; }
+        .credibility-panel { display: flex; gap: 1rem; }
+        .cred-card { background: rgba(255,255,255,0.05); padding: 0.75rem 1.25rem; border-radius: 0.75rem; border: 1px solid var(--border); text-align: center; }
+        .cred-val { font-size: 1.25rem; font-weight: 700; color: var(--accent-blue); }
+        .cred-label { font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; margin-top: 2px; }
+
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 0.75rem; margin-bottom: 1.5rem; }
+        .stat-card { background: var(--card-bg); padding: 1rem; border-radius: 0.75rem; border: 1px solid var(--border); border-left-width: 4px; }
+        .stat-label { color: var(--text-secondary); font-size: 0.6rem; font-weight: 700; text-transform: uppercase; margin-bottom: 0.4rem; }
+        .stat-value { font-size: 1.3rem; font-weight: 700; }
+        
+        .level-extrema { border-left-color: var(--accent-green); }
+        .level-alta { border-left-color: var(--accent-blue); }
+        .level-media { border-left-color: var(--accent-orange); }
+        .level-baja { border-left-color: var(--accent-red); }
+        .level-critica { border-left-color: #475569; }
+
+        .controls { background: var(--card-bg); padding: 1.25rem; border-radius: 1rem; border: 1px solid var(--border); margin-bottom: 1.5rem; }
+        .row-controls { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 1rem; }
+        .search { flex: 1; min-width: 300px; background: #1a1e2e; border: 1px solid var(--border); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; font-family: inherit; }
+        
+        .tab-row { display: flex; gap: 2rem; margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid rgba(255,255,255,0.03); }
+        .tab-group { flex: 1; }
+        .tab-label { font-size: 0.6rem; color: var(--text-secondary); font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem; display: block; }
+        .tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+        
+        .tab { background: transparent; border: 1px solid var(--border); color: var(--text-secondary); padding: 0.4rem 0.8rem; border-radius: 0.5rem; cursor: pointer; transition: all 0.15s; font-size: 0.68rem; font-weight: 600; text-transform: uppercase; }
+        .tab:hover { background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.2); }
+        .tab.active { background: var(--accent-blue); color: white; border-color: var(--accent-blue); box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3); }
+        
+        .tab-success.active { background: var(--accent-green); border-color: var(--accent-green); box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3); }
+        .tab-risk.active { background: var(--accent-red); border-color: var(--accent-red); box-shadow: 0 4px 12px rgba(244, 63, 94, 0.3); }
+        .tab-triple.active { background: var(--accent-pink); border-color: var(--accent-pink); box-shadow: 0 4px 12px rgba(217, 70, 239, 0.3); }
+        .tab-solo.active { background: var(--accent-cyan); border-color: var(--accent-cyan); box-shadow: 0 4px 12px rgba(6, 182, 212, 0.3); }
+
+        .table-area { background: var(--card-bg); border-radius: 1rem; border: 1px solid var(--border); overflow: auto; max-height: 60vh; position: relative; }
+        table { width: 100%; border-collapse: collapse; text-align: left; }
+        th { padding: 0.75rem 1rem; color: var(--text-secondary); font-size: 0.7rem; text-transform: uppercase; background: rgba(0,0,0,0.6); position: sticky; top: 0; z-index: 10; backdrop-filter: blur(10px); }
+        td { padding: 0.75rem 1rem; border-top: 1px solid var(--border); font-size: 0.8rem; }
+        
+        tr:hover { background: rgba(255,255,255,0.02); }
+        .row-red { background: rgba(244, 63, 94, 0.08) !important; }
+        .row-pink { background: rgba(217, 70, 239, 0.08) !important; }
+
+        .veracity-badge { display: inline-flex; align-items: center; gap: 0.4rem; padding: 2px 8px; border-radius: 12px; font-size: 9px; font-weight: 800; text-transform: uppercase; color: white; }
+        .v-extrema { background: var(--accent-green); }
+        .v-alta { background: var(--accent-blue); }
+        .v-media { background: var(--accent-orange); }
+        .v-baja { background: var(--accent-red); }
+        .v-critica { background: #475569; }
+
+        .ans-circle { display: inline-flex; width: 22px; height: 22px; align-items: center; justify-content: center; border-radius: 50% !important; font-weight: 700; font-family: monospace; font-size: 11px; background: rgba(255,255,255,0.05); position: relative; }
+        .correct { background: var(--accent-green); color: black; }
+        .wrong { background: var(--accent-red); color: white; }
+        .source-match { border: 2px solid white; box-shadow: 0 0 8px rgba(255,255,255,0.3); z-index: 2; }
+
+        .ans-container { position: relative; display: inline-block; }
+        .ans-label { font-size: 8px; font-weight: 800; position: absolute; top: -10px; width: 100%; text-align: center; display: none; }
+        .is-solo .ans-label { display: block; color: var(--accent-cyan); }
+        .triple-label .ans-label { display: block; color: var(--accent-pink); font-size: 7px; top: -11px; }
+        
+        .status-tag { padding: 2px 6px; border-radius: 4px; font-size: 9px; font-weight: 800; text-transform: uppercase; border: 1px solid transparent; }
+        .tag-PERFECT { color: var(--accent-green); border-color: var(--accent-green); }
+        .tag-FAIL_APP { color: var(--accent-red); border-color: var(--accent-red); }
+        .tag-RED_FLAG { background: var(--accent-red); color: white; }
+        .tag-TRIPLE_DISPUTE { background: var(--accent-pink); color: white; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1>Consensus Audit v6</h1>
+                <p style="color: var(--text-secondary); font-size: 0.8rem;" id="lastUpdate">Consolidación Multidimensional de Auditoría de Datos</p>
+            </div>
+            <div class="credibility-panel" id="credibilityPanel"></div>
+        </header>
+
+        <div class="stats-grid" id="veracityGrid"></div>
+
+        <div class="controls">
+            <div class="row-controls">
+                <input type="text" id="search" class="search" placeholder="🔍 Filtrar por texto de pregunta o ID...">
+            </div>
+
+            <div class="tab-row">
+                <!-- Categoría -->
+                <div class="tab-group">
+                    <span class="tab-label">Categoría</span>
+                    <div id="catTabs" class="tabs">
+                        <button class="tab active" data-filter="cat" data-value="all">Todos</button>
+                        <button class="tab" data-filter="cat" data-value="C2">C2</button>
+                        <button class="tab" data-filter="cat" data-value="A2">A2</button>
+                        <button class="tab" data-filter="cat" data-value="ADM">ADM</button>
+                        <button class="tab" data-filter="cat" data-value="AUX">AUX</button>
+                    </div>
+                </div>
+
+                <!-- Veracidad -->
+                <div class="tab-group">
+                    <span class="tab-label">Nivel de Veracidad</span>
+                    <div id="veracityTabs" class="tabs">
+                        <button class="tab active" data-filter="veracity" data-value="all">Todos</button>
+                        <button class="tab" data-filter="veracity" data-value="extrema">100% Extrema</button>
+                        <button class="tab" data-filter="veracity" data-value="alta">75% Alta</button>
+                        <button class="tab" data-filter="veracity" data-value="media">50% Media</button>
+                        <button class="tab" data-filter="veracity" data-value="baja">25% Riesgo</button>
+                        <button class="tab" data-filter="veracity" data-value="critica">0% Crítica</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-row" style="border:none; margin:0; padding:0;">
+                <!-- Estado de Éxito -->
+                <div class="tab-group">
+                    <span class="tab-label">Estado de Éxito</span>
+                    <div id="statusTabs" class="tabs">
+                        <button class="tab tab-success active" data-filter="status" data-value="all">Todos</button>
+                        <button class="tab tab-success" data-filter="status" data-value="PERFECT">Perfecto</button>
+                        <button class="tab tab-success" data-filter="status" data-value="MATCH_KAIXO">M-Kaixo</button>
+                        <button class="tab tab-success" data-filter="status" data-value="MATCH_OSA">M-Osa.T</button>
+                        <button class="tab tab-success" data-filter="status" data-value="MATCH">Solo App Match</button>
+                        <button class="tab tab-success" data-filter="status" data-value="FAIL_APP">Fallo App</button>
+                    </div>
+                </div>
+
+                <!-- Riesgo y Unicidad -->
+                <div class="tab-group">
+                    <span class="tab-label">Riesgo y Unicidad</span>
+                    <div id="riskTabs" class="tabs">
+                        <button class="tab active" data-filter="risk" data-value="all">Todos</button>
+                        <button class="tab tab-risk" data-filter="risk" data-value="isRedFlag">Red Flags</button>
+                        <button class="tab tab-triple" data-filter="risk" data-value="isTripleDispute">Triple Disputa</button>
+                        <button class="tab tab-solo" data-filter="risk" data-value="isSoloKaixo">Solo Kaixo</button>
+                        <button class="tab tab-solo" data-filter="risk" data-value="isSoloOsa">Solo Osa.T</button>
+                        <button class="tab tab-solo" data-filter="risk" data-value="isSoloApp">Solo App</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="table-area">
+            <div id="loadingOverlay" style="display:none; position:absolute; inset:0; background:rgba(0,0,0,0.5); z-index:100; align-items:center; justify-content:center; backdrop-filter:blur(5px);">Cargando...</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 50px">ID</th>
+                        <th style="width: 140px">Veracidad</th>
+                        <th style="width: 60px">CAT</th>
+                        <th>Pregunta</th>
+                        <th style="width: 50px; text-align: center;">APP</th>
+                        <th style="width: 50px; text-align: center;">KX</th>
+                        <th style="width: 50px; text-align: center;">OT</th>
+                        <th style="width: 50px; text-align: center;">Cns</th>
+                        <th style="width: 100px">Auditoría</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="data.js?t=1711909700"></script>
+    <script>
+        document.getElementById('lastUpdate').innerText = "Última Actualización: 31/03/2026 18:28 (Caché Busted)";
+        const { summary, questions } = CONSENSUS_DATA;
+
+        // Stats & Headers
+        document.getElementById('credibilityPanel').innerHTML = `
+            <div class="cred-card"><div class="cred-val">${summary.sourceAccuracy.app}%</div><div class="cred-label">App</div></div>
+            <div class="cred-card"><div class="cred-val">${summary.sourceAccuracy.kaixo}%</div><div class="cred-label">Kaixo</div></div>
+            <div class="cred-card"><div class="cred-val">${summary.sourceAccuracy.osasuntest}%</div><div class="cred-label">Osa.test</div></div>
+        `;
+
+        const vStats = summary.veracityStats;
+        document.getElementById('veracityGrid').innerHTML = `
+            <div class="stat-card level-extrema"><div class="stat-label">100% Extrema</div><div class="stat-value">${vStats.extrema}</div></div>
+            <div class="stat-card level-alta"><div class="stat-label">75% Alta</div><div class="stat-value">${vStats.alta}</div></div>
+            <div class="stat-card level-media"><div class="stat-label">50% Media</div><div class="stat-value">${vStats.media}</div></div>
+            <div class="stat-card level-baja"><div class="stat-label">25% Riesgo</div><div class="stat-value">${vStats.baja}</div></div>
+            <div class="stat-card level-critica"><div class="stat-label">0% Crítica</div><div class="stat-value">${vStats.critica}</div></div>
+            <div class="stat-card" style="border-left-color: var(--accent-pink)"><div class="stat-label">Triple/Flags</div><div class="stat-value">${summary.RED_FLAG + summary.TRIPLE_DISPUTE}</div></div>
+        `;
+
+        const state = {
+            search: '',
+            cat: 'all',
+            veracity: 'all',
+            status: 'all',
+            risk: 'all'
+        };
+
+        const tBody = document.getElementById('tableBody');
+        const searchInput = document.getElementById('search');
+
+        function render() {
+            const filtered = questions.filter(q => {
+                const mSearch = !state.search || q.text.toLowerCase().includes(state.search) || q.id.toString().includes(state.search);
+                const mCat = state.cat === 'all' || q.category === state.cat;
+                const mVeracity = state.veracity === 'all' || q.veracityLevel === state.veracity;
+                const mStatus = state.status === 'all' || q.status === state.status;
+                
+                let mRisk = true;
+                if(state.risk !== 'all') {
+                    mRisk = q[state.risk];
+                }
+
+                return mSearch && mCat && mVeracity && mStatus && mRisk;
+            });
+
+            tBody.innerHTML = filtered.slice(0, 200).map(q => {
+                const vClass = `v-${q.veracityLevel}`;
+                const rowClass = q.isRedFlag ? 'row-red' : (q.isTripleDispute ? 'row-pink' : '');
+                
+                return `
+                    <tr class="${rowClass}">
+                        <td style="color: var(--text-secondary); font-family: monospace; font-size: 11px;">#${q.id}</td>
+                        <td><span class="veracity-badge ${vClass}">${q.veracityScore}% - ${q.veracityLevel.toUpperCase()}</span></td>
+                        <td style="font-weight: 700; color: var(--accent-cyan); font-size: 10px;">${q.category}</td>
+                        <td style="font-size: 11px; line-height: 1.3;">${q.text}</td>
+                        <td style="text-align:center">
+                            <div class="ans-container ${q.isSoloApp ? 'is-solo' : ''} ${q.isTripleDispute ? 'triple-label' : ''}">
+                                <span class="ans-label">${q.isTripleDispute ? 'TRIPLE' : 'SOLO'}</span>
+                                <span class="ans-circle ${q.app === q.consensus ? 'correct' : 'wrong'}">${q.app || '?'}</span>
+                            </div>
+                        </td>
+                        <td style="text-align:center">
+                            <div class="ans-container ${q.isSoloKaixo ? 'is-solo' : ''} ${q.isTripleDispute ? 'triple-label' : ''}">
+                                <span class="ans-label">${q.isTripleDispute ? 'TRIPLE' : 'SOLO'}</span>
+                                <span class="ans-circle ${q.k === q.consensus ? 'correct' : ''} ${q.k === q.app ? 'source-match' : ''}">${q.k || '?'}</span>
+                            </div>
+                        </td>
+                        <td style="text-align:center">
+                            <div class="ans-container ${q.isSoloOsa ? 'is-solo' : ''} ${q.isTripleDispute ? 'triple-label' : ''}">
+                                <span class="ans-label">${q.isTripleDispute ? 'TRIPLE' : 'SOLO'}</span>
+                                <span class="ans-circle ${q.o === q.consensus ? 'correct' : ''} ${q.o === q.app ? 'source-match' : ''}">${q.o || '?'}</span>
+                            </div>
+                        </td>
+                        <td style="text-align:center"><span class="ans-circle" style="background: var(--accent-blue); color: black;">${q.consensus || '?'}</span></td>
+                        <td><span class="status-tag tag-${q.status}">${q.status.replace('MATCH_', 'M-')}</span></td>
+                    </tr>
+                `;
+            }).join('');
+            
+            if(filtered.length === 0) {
+                tBody.innerHTML = '<tr><td colspan="9" style="text-align:center; padding:3rem; color:var(--text-secondary)">No hay preguntas que coincidan con estos filtros combinados.</td></tr>';
+            }
+        }
+
+        // Listeners
+        searchInput.addEventListener('input', (e) => {
+            state.search = e.target.value.toLowerCase();
+            render();
+        });
+
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                const group = tab.parentElement;
+                group.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                
+                state[tab.dataset.filter] = tab.dataset.value;
+                render();
+            });
+        });
+
+        render();
+    </script>
+</body>
+</html>

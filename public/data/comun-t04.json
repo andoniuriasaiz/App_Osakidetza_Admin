@@ -921,7 +921,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 255/1997: La propuesta de Plan Estratégico será formulada por la DIRECCIÓN GENERAL (Art. 13.a), informada por el Consejo de Administración y aprobada por la Presidencia. La respuesta correcta es la A.",
+    "explanation": "La Dirección General formula la propuesta del Plan Estratégico.",
     "originalId": 87
   },
   {
@@ -1032,7 +1032,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 255/1997, Art. 21: 'El número de integrantes de este equipo será determinado por el Consejo de Administración, a propuesta de la Dirección-Gerencia de la organización, NO PUDIENDO EXCEDER DE CINCO'. No oscila entre 2 y 3. Respuesta D.",
+    "explanation": "Equipo directivo: máximo de cinco personas.",
     "originalId": 95
   },
   {
@@ -1217,7 +1217,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 1 Decreto 100/2018: Las OSI integran la ATENCIÓN PRIMARIA y la ATENCIÓN HOSPITALARIA. Es la base del modelo de integración asistencial de Osakidetza. Respuesta D.",
+    "explanation": "OSI = Atención Primaria + Atención Hospitalaria.",
     "originalId": 102
   },
   {
@@ -2024,14 +2024,14 @@
       1
     ],
     "correctAnswers": [
-      "En relación a todas las acciones de carácter sanitario, incluyendo docencia, que se desarrollen en los centros, servicios o establecimientos sanitarios de titularidad pública o privada o concertados de Euskadi. Las acciones relativas a la investigación biomédica quedan fuera de esta Declaración y se rigen por su normativa específica."
+      "Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; participación en la investigación biomédica; obtención de la Tarjeta Individual Sanitaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 2 Decreto 147/2015: El ámbito de aplicación incluye centros públicos, privados y concertados, y expresamente excluye la investigación biomédica (Art. 2.2), que se rige por su propia ley. Respuesta A.",
+    "explanation": "Ámbitos D.147/2015 incluyen investigación biomédica.",
     "originalId": 124
   },
   {

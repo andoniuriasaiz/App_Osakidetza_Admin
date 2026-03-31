@@ -1,0 +1,742 @@
+[
+  {
+    "id": "comun-t01_1",
+    "questionNum": 1,
+    "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria será requisito imprescindible:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La colegiación, cuando una ley estatal establezca esta obligación para el ejercicio de una profesión titulada o algunas actividades propias de ésta."
+      },
+      {
+        "value": 2,
+        "text": "La inexistencia de inhabilitación o suspensión para el ejercicio profesional por sentencia judicial, aunque no sea firme, durante el periodo de tiempo que fije ésta; por resolución sancionadora impuesta por un colegio profesional sanitario, cuando una ley estatal establezca para este ejercicio la obligación de pertenecer al colegio profesional respectivo durante el periodo de tiempo que fije ésta; o por resolución administrativa sancionadora firme, durante el periodo de tiempo que fije ésta, cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública."
+      },
+      {
+        "value": 3,
+        "text": "Tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, ya sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas, causado con ocasión de la prestación de tal asistencia o servicios, cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública."
+      },
+      {
+        "value": 4,
+        "text": "Todo lo anterior."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todo lo anterior."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 2 Ley 44/2003: Para ejercer una profesión sanitaria son requisitos: la colegiación (cuando ley estatal la exija), la inexistencia de inhabilitación o suspensión, Y tener suscrito seguro de responsabilidad cuando se ejerza en asistencia sanitaria pública. Al tratarse de requisitos acumulativos, 'todo lo anterior' es la respuesta correcta. Respuesta D.",
+    "originalId": 1
+  },
+  {
+    "id": "comun-t01_2",
+    "questionNum": 2,
+    "question": "Según lo establecido en la normativa vigente sobre ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se ha de tener suscrito y vigente un seguro de responsabilidad que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas causado con ocasión de la prestación de tal asistencia o servicios cuando se ejerza la profesión en el ámbito de la asistencia sanitaria privada, no siendo suficiente un aval u otra garantía financiera de protección colectiva."
+      },
+      {
+        "value": 2,
+        "text": "Se ha de tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas causado con ocasión de la prestación de tal asistencia o servicios cuando se ejerza la profesión en el ámbito de la asistencia sanitaria privada."
+      },
+      {
+        "value": 3,
+        "text": "Se ha de tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas causado con ocasión de la prestación de tal asistencia o servicios cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública."
+      },
+      {
+        "value": 4,
+        "text": "Todas las opciones son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Se ha de tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas causado con ocasión de la prestación de tal asistencia o servicios cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 2 Ley 44/2003: El seguro de responsabilidad se exige 'cuando se ejerza la profesión en el ámbito de la asistencia sanitaria PÚBLICA', no privada. La opción C es la única que recoge correctamente el ámbito público y acepta tanto seguro individual como aval u otra garantía financiera de protección colectiva. Respuesta C.",
+    "originalId": 2
+  },
+  {
+    "id": "comun-t01_3",
+    "questionNum": 3,
+    "question": "Con la finalidad de facilitar la observancia de los requisitos previstos en la normativa vigente para ejercer las profesiones sanitarias (señálese la afirmación que sea falsa):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los juzgados y tribunales deberán remitir aquellos datos necesarios referentes a las sentencias firmes de inhabilitación o suspensión para el ejercicio profesional al Ministerio de Sanidad, Servicios Sociales e Igualdad en la forma que reglamentariamente se establezca."
+      },
+      {
+        "value": 2,
+        "text": "Las administraciones públicas con competencias sancionadoras sobre el personal sanitario a su servicio deberán remitir las resoluciones sancionadoras que afecten a la situación de suspensión o habilitación de dicho personal."
+      },
+      {
+        "value": 3,
+        "text": "Las corporaciones colegiales deberán remitir al Ministerio de Sanidad, Servicios Sociales e Igualdad copia de las resoluciones sancionadoras que suspendan o inhabiliten para el ejercicio profesional impuestas por ellos, cuando una ley estatal establezca para este ejercicio la obligación de colegiación siempre que la persona colegiada no se oponga explícitamente."
+      },
+      {
+        "value": 4,
+        "text": "El Ministerio de Sanidad, Servicios Sociales e Igualdad comunicará a las entidades mencionadas en las opciones b) y c) anteriores, las resoluciones sancionadoras que reciba."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las corporaciones colegiales deberán remitir al Ministerio de Sanidad, Servicios Sociales e Igualdad copia de las resoluciones sancionadoras que suspendan o inhabiliten para el ejercicio profesional impuestas por ellos, cuando una ley estatal establezca para este ejercicio la obligación de colegiación siempre que la persona colegiada no se oponga explícitamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 2.3 Ley 44/2003: Las corporaciones colegiales remitirán las resoluciones sancionadoras 'cuando una ley estatal establezca para este ejercicio la obligación de colegiación'. La opción C añade la condición 'siempre que la persona colegiada no se oponga explícitamente', lo cual NO está en la ley — es la afirmación FALSA. La ley no contempla ese derecho de oposición. Respuesta C.",
+    "originalId": 3
+  },
+  {
+    "id": "comun-t01_4",
+    "questionNum": 4,
+    "question": "Según la normativa vigente, el órgano encargado del Registro Estatal de Profesionales Sanitarios podrá (indíquese la que sea correcta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Consultar los datos de carácter personal de la población profesional sanitaria contenidos en los archivos y ficheros del Documento Nacional de Identidad (DNI) y del Número de Identidad de Extranjero (NIE) competencia del Ministerio del Interior, para contrastar la veracidad de la información que consta en el registro."
+      },
+      {
+        "value": 2,
+        "text": "Consultar los datos de carácter personal de la población profesional sanitaria contenidos en los archivos y ficheros del Documento Nacional de Identidad (DNI) y del Número de Identidad de Extranjero (NIE) competencia del Ministerio del Interior, para contrastar la veracidad de la información que consta en el registro, pero solo si la persona titular no se ha opuesto explícitamente."
+      },
+      {
+        "value": 3,
+        "text": "Consultar los datos de carácter personal de los profesionales sanitarios contenidos en los archivos y ficheros del Documento Nacional de Identidad (DNI) y del Número de Identidad de Extranjero (NIE) competencia del Ministerio del Interior, para contrastar la veracidad de la información que consta en el registro, pero solo si la persona titular de los datos da su consentimiento expreso."
+      },
+      {
+        "value": 4,
+        "text": "Solo podrá consultar los datos de carácter personal de la población profesional sanitaria contenidos en los archivos y ficheros del Documento Nacional de Identidad (DNI) y del Número de Identidad de Extranjero (NIE) en el curso de una investigación sobre una infracción administrativa."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Consultar los datos de carácter personal de la población profesional sanitaria contenidos en los archivos y ficheros del Documento Nacional de Identidad (DNI) y del Número de Identidad de Extranjero (NIE) competencia del Ministerio del Interior, para contrastar la veracidad de la información que consta en el registro."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 3 bis Ley 44/2003 (añadido por Ley 6/2023): El órgano del Registro Estatal de Profesionales Sanitarios podrá consultar los datos del DNI/NIE del personal sanitario ante el organismo competente en identificación de personas para verificar la autenticidad de los documentos aportados. Respuesta A.",
+    "originalId": 4
+  },
+  {
+    "id": "comun-t01_5",
+    "questionNum": 5,
+    "question": "En el marco de la ordenación de las profesiones sanitarias, las personas pacientes:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tienen derecho a la libre elección del personal facultativo que debe atenderles, tanto si su ejercicio profesional se desarrolla en el sistema público como en el ámbito privado."
+      },
+      {
+        "value": 2,
+        "text": "Tienen derecho a la libre elección del personal facultativo que debe atenderles, pero solo si su ejercicio profesional se desarrolla en el sistema público."
+      },
+      {
+        "value": 3,
+        "text": "Tienen derecho a la libre elección del personal facultativo que debe atenderles, pero solo si su ejercicio profesional se desarrolla en el ámbito privado."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Ninguna de las anteriores es correcta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta D.",
+    "originalId": 5
+  },
+  {
+    "id": "comun-t01_6",
+    "questionNum": 6,
+    "question": "Según la normativa de ordenación de las profesiones sanitarias, el personal profesional y las personas responsables de los centros sanitarios facilitarán a sus pacientes el ejercicio del derecho a conocer:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El nombre, la titulación, la especialidad y la hoja de servicios del personal sanitario que les atiende, así como la categoría y función de dicho personal, si así estuvieran definidas en su centro o institución."
+      },
+      {
+        "value": 2,
+        "text": "El nombre, la titulación y la especialidad del personal sanitario que les atiende y su categoría, pero no su función en su centro o institución."
+      },
+      {
+        "value": 3,
+        "text": "El nombre, la titulación y la especialidad del personal sanitario que les atiende, así como la categoría y función de dicho personal, si así estuvieran definidas en su centro o institución."
+      },
+      {
+        "value": 4,
+        "text": "El nombre, la titulación y la especialidad del personal sanitario que les atiende, pero no su categoría y función en su centro o institución."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El nombre, la titulación y la especialidad del personal sanitario que les atiende, así como la categoría y función de dicho personal, si así estuvieran definidas en su centro o institución."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 5.1.b Ley 44/2003: El personal facilitará a las personas pacientes el ejercicio del derecho a conocer 'el nombre, la titulación y la especialidad del personal sanitario que les atiende, así como la categoría y función de dicho personal, si así estuvieran definidas en su centro o institución'. NO incluye 'hoja de servicios'. La opción C es la correcta. Respuesta C.",
+    "originalId": 6
+  },
+  {
+    "id": "comun-t01_7",
+    "questionNum": 7,
+    "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, el ejercicio del derecho del personal profesional sanitario a la renuncia a la atención a una persona paciente queda condicionado a que (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su renuncia no conlleve desatención de la persona paciente."
+      },
+      {
+        "value": 2,
+        "text": "La renuncia se ejerza de acuerdo con procedimientos regulares."
+      },
+      {
+        "value": 3,
+        "text": "Quede constancia, aunque no sea formal, de la renuncia."
+      },
+      {
+        "value": 4,
+        "text": "La renuncia se ejerza de acuerdo con procedimientos establecidos y explícitos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Quede constancia, aunque no sea formal, de la renuncia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 5.1.c Ley 44/2003: El derecho a la renuncia requiere que NO conlleve desatención y que quede CONSTANCIA FORMAL. La opción C ('aunque no sea formal') es INCORRECTA. Respuesta A.",
+    "originalId": 7
+  },
+  {
+    "id": "comun-t01_8",
+    "questionNum": 8,
+    "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, las personas pacientes tienen derecho a recibir información de acuerdo con lo establecido en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica."
+      },
+      {
+        "value": 2,
+        "text": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
+      },
+      {
+        "value": 3,
+        "text": "El Código Civil vigente."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 5.1.a Ley 44/2003: Las personas pacientes 'tienen derecho a recibir información sobre su proceso en los términos previstos en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente'. La remisión expresa es a la Ley 41/2002. Respuesta A.",
+    "originalId": 8
+  },
+  {
+    "id": "comun-t01_9",
+    "questionNum": 9,
+    "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, corresponde al personal con la titulación de Licenciatura o Grado en Medicina la indicación y realización de las actividades dirigidas a (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La promoción y mantenimiento de la salud de las personas pacientes."
+      },
+      {
+        "value": 2,
+        "text": "La dispensación de los medicamentos a las personas pacientes."
+      },
+      {
+        "value": 3,
+        "text": "La prevención de las enfermedades y al diagnóstico, tratamiento, terapéutica y rehabilitación de las personas pacientes."
+      },
+      {
+        "value": 4,
+        "text": "El enjuiciamiento y pronóstico de los procesos objeto de atención."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La dispensación de los medicamentos a las personas pacientes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 6.2 Ley 44/2003: Corresponde al licenciado/graduado en Medicina las actividades de: promoción y mantenimiento de la salud, prevención de enfermedades, diagnóstico, tratamiento, terapéutica, rehabilitación y enjuiciamiento/pronóstico. La DISPENSACIÓN de medicamentos es competencia del farmacéutico (art. 6.3.e Ley 44/2003), NO del médico. Respuesta B.",
+    "originalId": 9
+  },
+  {
+    "id": "comun-t01_10",
+    "questionNum": 10,
+    "question": "Los centros sanitarios revisarán que el personal sanitario de su plantilla cumple los requisitos necesarios para ejercer la profesión conforme a lo previsto en la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias y en las demás normas aplicables:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cada cinco años como mínimo."
+      },
+      {
+        "value": 2,
+        "text": "Cada tres años como mínimo."
+      },
+      {
+        "value": 3,
+        "text": "Cada dos años como mínimo."
+      },
+      {
+        "value": 4,
+        "text": "Cada cuatro años como mínimo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Cada tres años como mínimo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 3 ter Ley 44/2003: 'Los centros sanitarios revisarán que el personal sanitario de su plantilla cumple los requisitos necesarios para ejercer la profesión (…) cada TRES años como mínimo.' Respuesta B.",
+    "originalId": 10
+  },
+  {
+    "id": "comun-t01_11",
+    "questionNum": 11,
+    "question": "Según dispone la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, cuando una actuación sanitaria se realice por un equipo de profesionales (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se articulará, preferentemente, de forma jerarquizada atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
+      },
+      {
+        "value": 2,
+        "text": "Se articulará de forma jerarquizada o colegiada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
+      },
+      {
+        "value": 3,
+        "text": "Se articulará de forma preferentemente colegiada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se articulará, preferentemente, de forma jerarquizada atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 9.1 Ley 44/2003: 'Cuando una actuación sanitaria se realice por un equipo de profesionales, se articulará de forma COLEGIADA o JERARQUIZADA, atendiendo a los criterios de conocimientos y competencia...'. La opción A dice 'preferentemente de forma jerarquizada', lo que es INCORRECTO — la ley no establece preferencia por la forma jerarquizada; son dos formas alternativas. Respuesta A.",
+    "originalId": 11
+  },
+  {
+    "id": "comun-t01_12",
+    "questionNum": 12,
+    "question": "A los efectos de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias tienen la consideración de funciones de gestión clínica (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las relativas a la jefatura o coordinación de unidades y equipos sanitarios y asistenciales."
+      },
+      {
+        "value": 2,
+        "text": "Las de tutorías y organización de formación especializada, continuada y de investigación."
+      },
+      {
+        "value": 3,
+        "text": "Las de creación y difusión de contenidos a través de las redes sociales gestionadas por la unidad correspondiente."
+      },
+      {
+        "value": 4,
+        "text": "Las de participación en comités internos o proyectos institucionales de los centros sanitarios dirigidos, entre otros, a asegurar la calidad, seguridad, eficacia, eficiencia y ética asistencial, la continuidad y coordinación entre niveles o el acogimiento, cuidados y bienestar de las personas pacientes."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las de creación y difusión de contenidos a través de las redes sociales gestionadas por la unidad correspondiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 10.2 Ley 44/2003: Las funciones de gestión clínica comprenden: jefatura/coordinación de unidades y equipos sanitarios, tutorías y organización de formación especializada, continuada e investigación, participación en comités internos. La 'creación y difusión de contenidos en redes sociales' NO está contemplada como función de gestión clínica. Respuesta C.",
+    "originalId": 12
+  },
+  {
+    "id": "comun-t01_13",
+    "questionNum": 13,
+    "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, el ejercicio de funciones de gestión clínica estará sometido a una evaluación del desempeño y de los resultados que tendrá lugar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Anualmente."
+      },
+      {
+        "value": 2,
+        "text": "Cada dos años."
+      },
+      {
+        "value": 3,
+        "text": "Cada cuatro años."
+      },
+      {
+        "value": 4,
+        "text": "La Ley no lo determina explícitamente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cada cuatro años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 10.3 Ley 44/2003: 'El ejercicio de funciones de gestión clínica estará sometido a una evaluación del desempeño y de los resultados que tendrá lugar CADA CUATRO AÑOS.' Respuesta C.",
+    "originalId": 13
+  },
+  {
+    "id": "comun-t01_14",
+    "questionNum": 14,
+    "question": "De acuerdo con la normativa vigente de ordenación de las profesiones sanitarias, el reconocimiento del desempeño de funciones de gestión clínica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se evaluará cuidadosamente cada dos años, de acuerdo con lo dispuesto en la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias."
+      },
+      {
+        "value": 2,
+        "text": "Será objeto del oportuno reconocimiento por parte del centro, del servicio de salud y del conjunto del sistema sanitario, en la forma en que en cada comunidad autónoma se determine."
+      },
+      {
+        "value": 3,
+        "text": "Se realizará siempre por parte del Ministerio de Sanidad."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Será objeto del oportuno reconocimiento por parte del centro, del servicio de salud y del conjunto del sistema sanitario, en la forma en que en cada comunidad autónoma se determine."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 10.4 Ley 44/2003: 'El reconocimiento del desempeño de funciones de gestión clínica será objeto del oportuno reconocimiento por parte del centro, del servicio de salud y del conjunto del sistema sanitario, en la forma en que en cada comunidad autónoma se determine.' Respuesta B.",
+    "originalId": 14
+  },
+  {
+    "id": "comun-t01_15",
+    "questionNum": 15,
+    "question": "Según la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, señale cuál de estas afirmaciones es incorrecta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los equipos de profesionales, una vez constituidos y aprobados en el seno de organizaciones o instituciones sanitarias, serán reconocidos y apoyados, y sus actuaciones facilitadas, por los órganos directivos y gestores de las mismas."
+      },
+      {
+        "value": 2,
+        "text": "La responsabilidad de la capacidad del personal profesional para realizar una correcta actuación, en las tareas y funciones que les sean encomendadas en el proceso de distribución del trabajo en equipo, recaerá sobre los centros e instituciones en los que desempeñen su actividad."
+      },
+      {
+        "value": 3,
+        "text": "Dentro de un equipo de profesionales, será posible la delegación de actuaciones si las condiciones bajo las que se producirá tal delegación están previamente establecidas dentro del equipo."
+      },
+      {
+        "value": 4,
+        "text": "La responsabilidad de un equipo de profesionales recaerá en aquellas personas integrantes que hayan adquirido las tareas y funciones que hayan causado la responsabilidad, siempre que las condiciones de la delegación se adecúen a lo establecido."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La responsabilidad de un equipo de profesionales recaerá en aquellas personas integrantes que hayan adquirido las tareas y funciones que hayan causado la responsabilidad, siempre que las condiciones de la delegación se adecúen a lo establecido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta D.",
+    "originalId": 15
+  },
+  {
+    "id": "comun-t01_16",
+    "questionNum": 16,
+    "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, diga cuál de los siguientes principios generales de la relación entre las personas que ejercen profesiones sanitarias y las personas atendidas no es tal:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal profesional tiene el deber de hacer un uso racional de los recursos diagnósticos y terapéuticos a su cargo, tomando en consideración, entre otros, los costes de sus decisiones y evitando la sobreutilización, la infrautilización y la inadecuada utilización de los mismos."
+      },
+      {
+        "value": 2,
+        "text": "El personal profesional tiene el deber de prestar una atención sanitaria técnica y profesional adecuada a las necesidades de salud de las personas que atiende, de acuerdo con el estado de desarrollo de los conocimientos científicos de cada momento y con los niveles de calidad y seguridad que se establecen en esta ley y el resto de normas legales y deontológicas aplicables."
+      },
+      {
+        "value": 3,
+        "text": "El personal profesional tiene el deber de proporcionar a las personas pacientes información precisa sobre su formación profesional, la forma en que han actualizado sus conocimientos y las demandas de responsabilidad que hayan podido derivar en responsabilidades administrativas."
+      },
+      {
+        "value": 4,
+        "text": "El personal profesional tiene el deber de respetar la personalidad, dignidad e intimidad de las personas a su cuidado y debe respetar su participación en las tomas de decisiones que les afecten. En todo caso, deben ofrecer una información suficiente y adecuada para que puedan ejercer su derecho al consentimiento sobre dichas decisiones."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El personal profesional tiene el deber de proporcionar a las personas pacientes información precisa sobre su formación profesional, la forma en que han actualizado sus conocimientos y las demandas de responsabilidad que hayan podido derivar en responsabilidades administrativas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 5.1 Ley 44/2003: Entre los deberes del personal sanitario está informar sobre su titulación, especialidad, categoría y función, pero NO se exige informar sobre 'la forma en que han actualizado sus conocimientos' ni sobre 'demandas de responsabilidad que hayan derivado en responsabilidades administrativas'. La opción C describe un deber inexistente en la ley. Respuesta C.",
+    "originalId": 17
+  },
+  {
+    "id": "comun-t01_17",
+    "questionNum": 17,
+    "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, la eficacia organizativa de los servicios, secciones y equipos, o unidades asistenciales equivalentes sea cual sea su denominación, requerirá (señálese la que sea incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La existencia escrita de normas de funcionamiento interno."
+      },
+      {
+        "value": 2,
+        "text": "La definición de objetivos y funciones tanto generales como específicas para cada persona perteneciente al mismo."
+      },
+      {
+        "value": 3,
+        "text": "La cumplimentación por parte del personal profesional de la documentación asistencial, informativa o estadística que determine el centro."
+      },
+      {
+        "value": 4,
+        "text": "La realización de controles periódicos sobre la eficiencia del personal profesional sanitario."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La realización de controles periódicos sobre la eficiencia del personal profesional sanitario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 8 Ley 44/2003: La eficacia organizativa requiere: normas de funcionamiento interno escritas, definición de objetivos y funciones generales y específicas, cumplimentación de documentación asistencial. Los 'controles periódicos sobre la eficiencia del personal profesional sanitario' como requisito de eficacia organizativa NO aparecen en este artículo. Respuesta D.",
+    "originalId": 18
+  },
+  {
+    "id": "comun-t01_18",
+    "questionNum": 18,
+    "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, señálese la afirmación incorrecta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los centros sanitarios acreditados para la formación especializada deberán contar con una comisión de docencia."
+      },
+      {
+        "value": 2,
+        "text": "Los centros sanitarios acreditados para la formación especializada deberán contar con jefaturas de estudios y con la coordinación docente que resulten adecuados en función de su capacidad docente."
+      },
+      {
+        "value": 3,
+        "text": "Los centros sanitarios acreditados para la formación especializada deberán contar con el personal tutor de la formación que resulte adecuado en función de su capacidad docente."
+      },
+      {
+        "value": 4,
+        "text": "Los centros sanitarios acreditados para la formación especializada deberán contar con jefaturas de estudios, coordinación docente y personal tutor de la formación que resulten adecuados en función de su capacidad docente, pero no con una comisión de docencia."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Los centros sanitarios acreditados para la formación especializada deberán contar con jefaturas de estudios, coordinación docente y personal tutor de la formación que resulten adecuados en función de su capacidad docente, pero no con una comisión de docencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta D.",
+    "originalId": 19
+  },
+  {
+    "id": "comun-t01_19",
+    "questionNum": 19,
+    "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, los centros sanitarios acreditados para desarrollar programas de formación continuada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Deberán contar con jefaturas de estudios, con la coordinación docente y con el personal tutor de la formación que resulten adecuados en función de las actividades a desarrollar, así como con una figura de defensoría del alumnado."
+      },
+      {
+        "value": 2,
+        "text": "Deberán contar una comisión de docencia, así como con jefaturas de estudios, coordinación docente y personal tutor de la formación que resulten adecuados en función de las actividades a desarrollar."
+      },
+      {
+        "value": 3,
+        "text": "Deberán contar una comisión de docencia y con una figura de defensoría del alumnado, así como con jefaturas de estudios, coordinación docente y personal tutor de la formación que resulten adecuados en función de las actividades a desarrollar."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las anteriores son incorrectas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "Art. 16.4 Ley 44/2003: Los centros acreditados para formación continuada no están obligados por ley a tener comisión de docencia ni jefaturas de estudios — eso es solo para formación especializada (art. 16.3). Tampoco se exige figura de defensoría del alumnado. La opción D ('todas las anteriores son incorrectas') es la correcta, ya que la ley no impone esas estructuras para formación continuada. Respuesta D.",
+    "originalId": 20
+  },
+  {
+    "id": "comun-t01_20",
+    "questionNum": 20,
+    "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028 contempla que tanto en los servicios de recepción y admisión, como en las unidades asistenciales y administrativas a toda la ciudadanía vascohablante debe garantizarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La recepción en euskera."
+      },
+      {
+        "value": 2,
+        "text": "La recepción en euskera solo cuando la comunicación oral con pacientes y personas usuarias sea de modo presencial."
+      },
+      {
+        "value": 3,
+        "text": "La recepción en euskera solo cuando la comunicación con pacientes y personas usuarias sea telefónicamente."
+      },
+      {
+        "value": 4,
+        "text": "La recepción en euskera solo por las y los empleados que sepan en euskera."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La recepción en euskera."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: En los servicios de recepción y admisión, y en las unidades asistenciales y administrativas, a toda la ciudadanía vascohablante debe garantizarse 'la recepción en euskera', independientemente del canal (presencial o telefónico). Respuesta A.",
+    "originalId": 261
+  }
+]

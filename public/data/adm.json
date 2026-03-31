@@ -1,6 +1,6 @@
 [
   {
-    "id": "adm_1",
+    "id": "adm-condiciones-trabajo-osakidetza_1",
     "questionNum": 1,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009 Indica de esta relación a qué personal de Osakidetza NO le será de aplicación:",
     "type": "C",
@@ -37,7 +37,7 @@
     "originalId": 57
   },
   {
-    "id": "adm_2",
+    "id": "adm-condiciones-trabajo-osakidetza_2",
     "questionNum": 2,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, con relación a la ropa de trabajo:",
     "type": "C",
@@ -74,7 +74,7 @@
     "originalId": 58
   },
   {
-    "id": "adm_3",
+    "id": "adm-condiciones-trabajo-osakidetza_3",
     "questionNum": 3,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
     "type": "C",
@@ -111,7 +111,7 @@
     "originalId": 59
   },
   {
-    "id": "adm_4",
+    "id": "adm-condiciones-trabajo-osakidetza_4",
     "questionNum": 4,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
     "type": "C",
@@ -148,7 +148,7 @@
     "originalId": 59
   },
   {
-    "id": "adm_5",
+    "id": "adm-condiciones-trabajo-osakidetza_5",
     "questionNum": 5,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
     "type": "C",
@@ -185,7 +185,7 @@
     "originalId": 59
   },
   {
-    "id": "adm_6",
+    "id": "adm-condiciones-trabajo-osakidetza_6",
     "questionNum": 6,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
     "type": "C",
@@ -222,7 +222,7 @@
     "originalId": 59
   },
   {
-    "id": "adm_7",
+    "id": "adm-condiciones-trabajo-osakidetza_7",
     "questionNum": 7,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, se denominan Licencias:",
     "type": "C",
@@ -259,7 +259,7 @@
     "originalId": 63
   },
   {
-    "id": "adm_8",
+    "id": "adm-condiciones-trabajo-osakidetza_8",
     "questionNum": 8,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, la licencia por enfermedad grave, hospitalización o fallecimiento de parientes es:",
     "type": "C",
@@ -296,7 +296,7 @@
     "originalId": 64
   },
   {
-    "id": "adm_9",
+    "id": "adm-condiciones-trabajo-osakidetza_9",
     "questionNum": 9,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
     "type": "C",
@@ -333,7 +333,7 @@
     "originalId": 59
   },
   {
-    "id": "adm_10",
+    "id": "adm-condiciones-trabajo-osakidetza_10",
     "questionNum": 10,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, la Licencia por cumplimiento de deberes inexcusables de carácter público o personal NO se considerará:",
     "type": "C",
@@ -370,7 +370,7 @@
     "originalId": 66
   },
   {
-    "id": "adm_11",
+    "id": "adm-condiciones-trabajo-osakidetza_11",
     "questionNum": 11,
     "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009, el personal fijo podrá solicitar la concesión de un permiso de reducción de su jornada laboral en determinadas condiciones. Indica cuál de estas afirmaciones es FALSA:",
     "type": "C",
@@ -407,8 +407,8 @@
     "originalId": 67
   },
   {
-    "id": "adm_12",
-    "questionNum": 12,
+    "id": "adm-d255-osakidetza-especifico_1",
+    "questionNum": 1,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud se define como:",
     "type": "C",
     "options": [
@@ -444,8 +444,8 @@
     "originalId": 6
   },
   {
-    "id": "adm_13",
-    "questionNum": 13,
+    "id": "adm-d255-osakidetza-especifico_2",
+    "questionNum": 2,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud tiene como fines:",
     "type": "C",
     "options": [
@@ -481,8 +481,8 @@
     "originalId": 7
   },
   {
-    "id": "adm_14",
-    "questionNum": 14,
+    "id": "adm-d255-osakidetza-especifico_3",
+    "questionNum": 3,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud NO tiene como fin:",
     "type": "C",
     "options": [
@@ -518,8 +518,8 @@
     "originalId": 8
   },
   {
-    "id": "adm_15",
-    "questionNum": 15,
+    "id": "adm-d255-osakidetza-especifico_4",
+    "questionNum": 4,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, la organización rectora comprende a:",
     "type": "C",
     "options": [
@@ -555,8 +555,8 @@
     "originalId": 9
   },
   {
-    "id": "adm_16",
-    "questionNum": 16,
+    "id": "adm-d255-osakidetza-especifico_5",
+    "questionNum": 5,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, la Presidencia corresponde a:",
     "type": "C",
     "options": [
@@ -592,8 +592,8 @@
     "originalId": 10
   },
   {
-    "id": "adm_17",
-    "questionNum": 17,
+    "id": "adm-d255-osakidetza-especifico_6",
+    "questionNum": 6,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cuál de estas funciones de la Presidencia es FALSA:",
     "type": "C",
     "options": [
@@ -629,8 +629,8 @@
     "originalId": 11
   },
   {
-    "id": "adm_18",
-    "questionNum": 18,
+    "id": "adm-d255-osakidetza-especifico_7",
+    "questionNum": 7,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración se encarga principalmente de:",
     "type": "C",
     "options": [
@@ -666,8 +666,8 @@
     "originalId": 12
   },
   {
-    "id": "adm_19",
-    "questionNum": 19,
+    "id": "adm-d255-osakidetza-especifico_8",
+    "questionNum": 8,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración está compuesto por:",
     "type": "C",
     "options": [
@@ -703,8 +703,8 @@
     "originalId": 13
   },
   {
-    "id": "adm_20",
-    "questionNum": 20,
+    "id": "adm-d255-osakidetza-especifico_9",
+    "questionNum": 9,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración tiene las siguientes funciones:",
     "type": "C",
     "options": [
@@ -740,8 +740,8 @@
     "originalId": 15
   },
   {
-    "id": "adm_21",
-    "questionNum": 21,
+    "id": "adm-d255-osakidetza-especifico_10",
+    "questionNum": 10,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, al Director General NO le corresponde en sus funciones:",
     "type": "C",
     "options": [
@@ -777,8 +777,8 @@
     "originalId": 16
   },
   {
-    "id": "adm_22",
-    "questionNum": 22,
+    "id": "adm-d255-osakidetza-especifico_11",
+    "questionNum": 11,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, corresponde a la organización central de administración y gestión corporativa:",
     "type": "C",
     "options": [
@@ -814,8 +814,8 @@
     "originalId": 17
   },
   {
-    "id": "adm_23",
-    "questionNum": 23,
+    "id": "adm-d255-osakidetza-especifico_12",
+    "questionNum": 12,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, NO corresponde a la organización central en materia específica de gestión de recursos humanos la siguiente facultad:",
     "type": "C",
     "options": [
@@ -851,8 +851,8 @@
     "originalId": 18
   },
   {
-    "id": "adm_24",
-    "questionNum": 24,
+    "id": "adm-d255-osakidetza-especifico_13",
+    "questionNum": 13,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cual de estas afirmaciones es correcta en referencia a las facultades de las organizaciones de servicios:",
     "type": "C",
     "options": [
@@ -888,8 +888,8 @@
     "originalId": 19
   },
   {
-    "id": "adm_25",
-    "questionNum": 25,
+    "id": "adm-d255-osakidetza-especifico_14",
+    "questionNum": 14,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, al frente de cada organización de servicios sanitarios del Ente Público se encontrará:",
     "type": "C",
     "options": [
@@ -925,8 +925,8 @@
     "originalId": 20
   },
   {
-    "id": "adm_26",
-    "questionNum": 26,
+    "id": "adm-d255-osakidetza-especifico_15",
+    "questionNum": 15,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cuál de estas afirmaciones es FALSA. Al Director-Gerente le corresponderá:",
     "type": "C",
     "options": [
@@ -962,8 +962,8 @@
     "originalId": 21
   },
   {
-    "id": "adm_27",
-    "questionNum": 27,
+    "id": "adm-d255-osakidetza-especifico_16",
+    "questionNum": 16,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, con carácter ordinario, a la Dirección Médica le corresponderán las siguientes atribuciones:",
     "type": "C",
     "options": [
@@ -999,8 +999,8 @@
     "originalId": 22
   },
   {
-    "id": "adm_28",
-    "questionNum": 28,
+    "id": "adm-d255-osakidetza-especifico_17",
+    "questionNum": 17,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, señala cuál de estas afirmaciones es correcta:",
     "type": "C",
     "options": [
@@ -1036,8 +1036,8 @@
     "originalId": 23
   },
   {
-    "id": "adm_29",
-    "questionNum": 29,
+    "id": "adm-eapv-estatuto-autonomia_1",
+    "questionNum": 1,
     "question": "Tienen derecho a formar parte de la Comunidad Autónoma del País Vasco:",
     "type": "C",
     "options": [
@@ -1073,8 +1073,8 @@
     "originalId": 68
   },
   {
-    "id": "adm_30",
-    "questionNum": 30,
+    "id": "adm-eapv-estatuto-autonomia_2",
+    "questionNum": 2,
     "question": "La bandera del País Vasco es:",
     "type": "C",
     "options": [
@@ -1110,8 +1110,8 @@
     "originalId": 69
   },
   {
-    "id": "adm_31",
-    "questionNum": 31,
+    "id": "adm-eapv-estatuto-autonomia_3",
+    "questionNum": 3,
     "question": "Es la institución consultiva oficial en lo referente al euskera:",
     "type": "C",
     "options": [
@@ -1147,8 +1147,8 @@
     "originalId": 70
   },
   {
-    "id": "adm_32",
-    "questionNum": 32,
+    "id": "adm-eapv-estatuto-autonomia_4",
+    "questionNum": 4,
     "question": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía del País Vasco:",
     "type": "C",
     "options": [
@@ -1184,8 +1184,8 @@
     "originalId": 71
   },
   {
-    "id": "adm_33",
-    "questionNum": 33,
+    "id": "adm-eapv-estatuto-autonomia_5",
+    "questionNum": 5,
     "question": "Los poderes públicos vascos, en el ámbito de su competencia, adoptarán medidas que tienden a:",
     "type": "C",
     "options": [
@@ -1221,8 +1221,8 @@
     "originalId": 72
   },
   {
-    "id": "adm_34",
-    "questionNum": 34,
+    "id": "adm-eapv-estatuto-autonomia_6",
+    "questionNum": 6,
     "question": "El Parlamento Vasco es elegido por un periodo de:",
     "type": "C",
     "options": [
@@ -1258,8 +1258,8 @@
     "originalId": 73
   },
   {
-    "id": "adm_35",
-    "questionNum": 35,
+    "id": "adm-eapv-estatuto-autonomia_7",
+    "questionNum": 7,
     "question": "Los miembros del Parlamento Vasco durante su mandato, por los actos delictivos cometidos en el ámbito territorial de la Comunidad Autónoma:",
     "type": "C",
     "options": [
@@ -1295,8 +1295,8 @@
     "originalId": 74
   },
   {
-    "id": "adm_36",
-    "questionNum": 36,
+    "id": "adm-eapv-estatuto-autonomia_8",
+    "questionNum": 8,
     "question": "El Parlamento Vasco fijará su Reglamento Interno, que deberá ser aprobado por:",
     "type": "C",
     "options": [
@@ -1332,8 +1332,8 @@
     "originalId": 75
   },
   {
-    "id": "adm_37",
-    "questionNum": 37,
+    "id": "adm-eapv-estatuto-autonomia_9",
+    "questionNum": 9,
     "question": "En relación al Parlamento Vasco, los períodos ordinarios de sesiones durarán como mínimo:",
     "type": "C",
     "options": [
@@ -1369,8 +1369,8 @@
     "originalId": 76
   },
   {
-    "id": "adm_38",
-    "questionNum": 38,
+    "id": "adm-eapv-estatuto-autonomia_10",
+    "questionNum": 10,
     "question": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco, la Cámara podrá reunirse en sesión extraordinaria a petición de:",
     "type": "C",
     "options": [
@@ -1406,8 +1406,8 @@
     "originalId": 77
   },
   {
-    "id": "adm_39",
-    "questionNum": 39,
+    "id": "adm-eapv-estatuto-autonomia_11",
+    "questionNum": 11,
     "question": "El Presidente del Gobierno Vasco ordenará la publicación de las Leyes del Parlamento Vasco en el “Boletín Oficial del País Vasco” en el plazo de:",
     "type": "C",
     "options": [
@@ -1443,8 +1443,8 @@
     "originalId": 78
   },
   {
-    "id": "adm_40",
-    "questionNum": 40,
+    "id": "adm-eapv-estatuto-autonomia_12",
+    "questionNum": 12,
     "question": "En relación a las Leyes del Parlamento Vasco publicadas en el “Boletín Oficial del País Vasco”, a efectos de su vigencia regirá:",
     "type": "C",
     "options": [
@@ -1480,8 +1480,8 @@
     "originalId": 79
   },
   {
-    "id": "adm_41",
-    "questionNum": 41,
+    "id": "adm-eapv-estatuto-autonomia_13",
+    "questionNum": 13,
     "question": "Es motivo de cese del Gobierno Vasco:",
     "type": "C",
     "options": [
@@ -1517,8 +1517,8 @@
     "originalId": 80
   },
   {
-    "id": "adm_42",
-    "questionNum": 42,
+    "id": "adm-eapv-estatuto-autonomia_14",
+    "questionNum": 14,
     "question": "¿En qué supuesto puede obtenerse la segunda opinión médica en centros sanitarios fuera de la Comunidad Autónoma del País Vasco?",
     "type": "C",
     "options": [
@@ -1554,8 +1554,8 @@
     "originalId": 145
   },
   {
-    "id": "adm_43",
-    "questionNum": 43,
+    "id": "adm-ebep-empleado-publico_1",
+    "questionNum": 1,
     "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, son empleados públicos:",
     "type": "C",
     "options": [
@@ -1591,8 +1591,8 @@
     "originalId": 1
   },
   {
-    "id": "adm_44",
-    "questionNum": 44,
+    "id": "adm-ebep-empleado-publico_2",
+    "questionNum": 2,
     "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, son funcionarios interinos, cuando se dé alguna de las siguientes circunstancias:",
     "type": "C",
     "options": [
@@ -1628,8 +1628,8 @@
     "originalId": 2
   },
   {
-    "id": "adm_45",
-    "questionNum": 45,
+    "id": "adm-ebep-empleado-publico_3",
+    "questionNum": 3,
     "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la Administración formalizará de oficio la finalización de la relación de interinidad por cualquiera de las siguientes causas, además de por las previstas en el artículo 63, sin derecho a compensación alguna:",
     "type": "C",
     "options": [
@@ -1665,8 +1665,8 @@
     "originalId": 3
   },
   {
-    "id": "adm_46",
-    "questionNum": 46,
+    "id": "adm-ebep-empleado-publico_4",
+    "questionNum": 4,
     "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, es personal laboral:",
     "type": "C",
     "options": [
@@ -1702,8 +1702,8 @@
     "originalId": 4
   },
   {
-    "id": "adm_47",
-    "questionNum": 47,
+    "id": "adm-ebep-empleado-publico_5",
+    "questionNum": 5,
     "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, es personal eventual:",
     "type": "C",
     "options": [
@@ -1739,8 +1739,8 @@
     "originalId": 5
   },
   {
-    "id": "adm_48",
-    "questionNum": 48,
+    "id": "adm-lpac-interesados-y-actos_1",
+    "questionNum": 1,
     "question": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas tiene por objeto:",
     "type": "C",
     "options": [
@@ -1776,8 +1776,8 @@
     "originalId": 81
   },
   {
-    "id": "adm_49",
-    "questionNum": 49,
+    "id": "adm-lpac-interesados-y-actos_2",
+    "questionNum": 2,
     "question": "En relación a la capacidad para obrar ante las Administraciones Públicas de las personas menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico se establece que:",
     "type": "C",
     "options": [
@@ -1813,8 +1813,8 @@
     "originalId": 82
   },
   {
-    "id": "adm_50",
-    "questionNum": 50,
+    "id": "adm-lpac-interesados-y-actos_3",
+    "questionNum": 3,
     "question": "En el procedimiento administrativo, la falta o insuficiente acreditación de la representación:",
     "type": "C",
     "options": [
@@ -1850,8 +1850,8 @@
     "originalId": 83
   },
   {
-    "id": "adm_51",
-    "questionNum": 51,
+    "id": "adm-lpac-interesados-y-actos_4",
+    "questionNum": 4,
     "question": "En relación a los registros electrónicos de apoderamientos, indica la información que NO debe contener los asientos que se realicen en los registros generales y particulares:",
     "type": "C",
     "options": [
@@ -1887,8 +1887,8 @@
     "originalId": 84
   },
   {
-    "id": "adm_52",
-    "questionNum": 52,
+    "id": "adm-lpac-interesados-y-actos_5",
+    "questionNum": 5,
     "question": "Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez máxima de:",
     "type": "C",
     "options": [
@@ -1924,8 +1924,8 @@
     "originalId": 85
   },
   {
-    "id": "adm_53",
-    "questionNum": 53,
+    "id": "adm-lpac-interesados-y-actos_6",
+    "questionNum": 6,
     "question": "Respecto al uso de medios de identificación y la firma en el procedimiento administrativo, y más concretamente para la formulación de solicitudes:",
     "type": "C",
     "options": [
@@ -1961,8 +1961,8 @@
     "originalId": 86
   },
   {
-    "id": "adm_54",
-    "questionNum": 54,
+    "id": "adm-lpac-interesados-y-actos_7",
+    "questionNum": 7,
     "question": "Según la Ley 39/2015, para realizar cualquier trámite de un procedimiento administrativo, los notarios y registradores de la propiedad y mercantiles:",
     "type": "C",
     "options": [
@@ -1998,8 +1998,8 @@
     "originalId": 87
   },
   {
-    "id": "adm_55",
-    "questionNum": 55,
+    "id": "adm-lpac-interesados-y-actos_8",
+    "questionNum": 8,
     "question": "Para que un documento electrónico administrativo sea considerado válido:",
     "type": "C",
     "options": [
@@ -2035,8 +2035,8 @@
     "originalId": 89
   },
   {
-    "id": "adm_56",
-    "questionNum": 56,
+    "id": "adm-lpac-interesados-y-actos_9",
+    "questionNum": 9,
     "question": "El proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e integra de un documento, se denomina:",
     "type": "C",
     "options": [
@@ -2072,8 +2072,8 @@
     "originalId": 90
   },
   {
-    "id": "adm_57",
-    "questionNum": 57,
+    "id": "adm-lpac-interesados-y-actos_10",
+    "questionNum": 10,
     "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para poder contrastar la autenticidad de una copia en soporte papel se requiere que en la misma figure:",
     "type": "C",
     "options": [
@@ -2109,8 +2109,8 @@
     "originalId": 91
   },
   {
-    "id": "adm_58",
-    "questionNum": 58,
+    "id": "adm-lpac-interesados-y-actos_11",
+    "questionNum": 11,
     "question": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas establece que cuando los documentos ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra administración, los interesados:",
     "type": "C",
     "options": [
@@ -2146,8 +2146,8 @@
     "originalId": 92
   },
   {
-    "id": "adm_59",
-    "questionNum": 59,
+    "id": "adm-lpac-interesados-y-actos_12",
+    "questionNum": 12,
     "question": "El registro electrónico permitirá la presentación de documentos:",
     "type": "C",
     "options": [
@@ -2183,8 +2183,8 @@
     "originalId": 93
   },
   {
-    "id": "adm_60",
-    "questionNum": 60,
+    "id": "adm-lpac-interesados-y-actos_13",
+    "questionNum": 13,
     "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de la entrega:",
     "type": "C",
     "options": [
@@ -2220,8 +2220,8 @@
     "originalId": 94
   },
   {
-    "id": "adm_61",
-    "questionNum": 61,
+    "id": "adm-lpac-interesados-y-actos_14",
+    "questionNum": 14,
     "question": "Las notificaciones por medios electrónicos se entenderán practicadas:",
     "type": "C",
     "options": [
@@ -2257,8 +2257,8 @@
     "originalId": 95
   },
   {
-    "id": "adm_62",
-    "questionNum": 62,
+    "id": "adm-lpac-interesados-y-actos_15",
+    "questionNum": 15,
     "question": "Es un derecho del interesado en un procedimiento administrativo.",
     "type": "C",
     "options": [
@@ -2294,8 +2294,8 @@
     "originalId": 96
   },
   {
-    "id": "adm_63",
-    "questionNum": 63,
+    "id": "adm-lpac-interesados-y-actos_16",
+    "questionNum": 16,
     "question": "De acuerdo a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el derecho a reclamar responsabilidad patrimonial:",
     "type": "C",
     "options": [
@@ -2331,8 +2331,8 @@
     "originalId": 100
   },
   {
-    "id": "adm_64",
-    "questionNum": 64,
+    "id": "adm-lpac-interesados-y-actos_17",
+    "questionNum": 17,
     "question": "Según la Ley 39/2015, el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que lo acredita, y que la pondrá a disposición de la Administración cuando le sea requerida, se denomina:",
     "type": "C",
     "options": [
@@ -2368,8 +2368,8 @@
     "originalId": 101
   },
   {
-    "id": "adm_65",
-    "questionNum": 65,
+    "id": "adm-lpac-interesados-y-actos_18",
+    "questionNum": 18,
     "question": "Según la Ley 39/2015 el expediente administrativo se define como:",
     "type": "C",
     "options": [
@@ -2405,8 +2405,8 @@
     "originalId": 102
   },
   {
-    "id": "adm_66",
-    "questionNum": 66,
+    "id": "adm-lpac-interesados-y-actos_19",
+    "questionNum": 19,
     "question": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece en relación a la emisión de informes, salvo disposición expresa en contrario, que los informes serán:",
     "type": "C",
     "options": [
@@ -2442,8 +2442,8 @@
     "originalId": 104
   },
   {
-    "id": "adm_67",
-    "questionNum": 67,
+    "id": "adm-lpac-interesados-y-actos_20",
+    "questionNum": 20,
     "question": "La Ley 39/2015 establece que, en la terminación de los procedimientos sancionadores, cuando la sanción tenga únicamente carácter pecunario, el órgano competente para resolver el procedimiento aplicará:",
     "type": "C",
     "options": [
@@ -2479,8 +2479,8 @@
     "originalId": 106
   },
   {
-    "id": "adm_68",
-    "questionNum": 68,
+    "id": "adm-lpac-interesados-y-actos_21",
+    "questionNum": 21,
     "question": "Cuando finalizado el procedimiento administrativo exista la obligación de pago derivada de una sanción pecunaria que haya que abonarse a la Hacienda Pública, ¿qué medio de pago NO está contemplado por la Ley 39/2015?:",
     "type": "C",
     "options": [
@@ -2516,8 +2516,8 @@
     "originalId": 107
   },
   {
-    "id": "adm_69",
-    "questionNum": 69,
+    "id": "adm-lpac-interesados-y-actos_22",
+    "questionNum": 22,
     "question": "La Ley 39/2015, en relación a la revisión de los actos en vía administrativa, establece que transcurridos seis meses desde el inicio del procedimiento sin dictarse resolución supondrá la caducidad del mismo:",
     "type": "C",
     "options": [
@@ -2553,8 +2553,8 @@
     "originalId": 109
   },
   {
-    "id": "adm_70",
-    "questionNum": 70,
+    "id": "adm-lpac-interesados-y-actos_23",
+    "questionNum": 23,
     "question": "Según la Ley 39/2015 la interposición de cualquier recurso:",
     "type": "C",
     "options": [
@@ -2590,8 +2590,8 @@
     "originalId": 117
   },
   {
-    "id": "adm_71",
-    "questionNum": 71,
+    "id": "adm-lpac-interesados-y-actos_24",
+    "questionNum": 24,
     "question": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, los interesados deberán formular alegaciones y presentar los documentos y justificantes que estimen procedentes en un plazo:",
     "type": "C",
     "options": [
@@ -2627,8 +2627,8 @@
     "originalId": 118
   },
   {
-    "id": "adm_72",
-    "questionNum": 72,
+    "id": "adm-lpac-interesados-y-actos_25",
+    "questionNum": 25,
     "question": "La ubicación de los sistemas de información y comunicaciones para el registro de los datos de los usuarios del sistema nacional de salud deberán:",
     "type": "C",
     "options": [
@@ -2664,8 +2664,8 @@
     "originalId": 134
   },
   {
-    "id": "adm_73",
-    "questionNum": 73,
+    "id": "adm-lpac-interesados-y-actos_26",
+    "questionNum": 26,
     "question": "Según la Carpeta Roja de Prevención, el parte interno de notificación de accidente, incidente o agresión:",
     "type": "C",
     "options": [
@@ -2701,8 +2701,8 @@
     "originalId": 180
   },
   {
-    "id": "adm_74",
-    "questionNum": 74,
+    "id": "adm-lpac-interesados-y-actos_27",
+    "questionNum": 27,
     "question": "Según la Carpeta Roja de Prevención, NO deberán declararse mediante el parte interno de notificación:",
     "type": "C",
     "options": [
@@ -2738,8 +2738,8 @@
     "originalId": 181
   },
   {
-    "id": "adm_75",
-    "questionNum": 75,
+    "id": "adm-lpac-procedimiento_1",
+    "questionNum": 1,
     "question": "La estimación por silencio administrativo:",
     "type": "C",
     "options": [
@@ -2775,8 +2775,8 @@
     "originalId": 88
   },
   {
-    "id": "adm_76",
-    "questionNum": 76,
+    "id": "adm-lpac-procedimiento_2",
+    "questionNum": 2,
     "question": "Es una de las medidas provisionales que, iniciado el procedimiento, podría adoptar el órgano administrativo competente para resolver:",
     "type": "C",
     "options": [
@@ -2812,8 +2812,8 @@
     "originalId": 97
   },
   {
-    "id": "adm_77",
-    "questionNum": 77,
+    "id": "adm-lpac-procedimiento_3",
+    "questionNum": 3,
     "question": "Se entiende por__________, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación:",
     "type": "C",
     "options": [
@@ -2849,8 +2849,8 @@
     "originalId": 98
   },
   {
-    "id": "adm_78",
-    "questionNum": 78,
+    "id": "adm-lpac-procedimiento_4",
+    "questionNum": 4,
     "question": "En el inicio del procedimiento por denuncia, cuando el denunciante haya participado en la comisión de una infracción y existan otros infractores, para resolver el procedimiento administrativo el órgano competente deberá:",
     "type": "C",
     "options": [
@@ -2886,8 +2886,8 @@
     "originalId": 99
   },
   {
-    "id": "adm_79",
-    "questionNum": 79,
+    "id": "adm-lpac-procedimiento_5",
+    "questionNum": 5,
     "question": "Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en:",
     "type": "C",
     "options": [
@@ -2923,8 +2923,8 @@
     "originalId": 103
   },
   {
-    "id": "adm_80",
-    "questionNum": 80,
+    "id": "adm-lpac-procedimiento_6",
+    "questionNum": 6,
     "question": "Podrán fin al procedimiento administrativo:",
     "type": "C",
     "options": [
@@ -2960,8 +2960,8 @@
     "originalId": 105
   },
   {
-    "id": "adm_81",
-    "questionNum": 81,
+    "id": "adm-lpac-procedimiento_7",
+    "questionNum": 7,
     "question": "¿Cuál de las siguientes afirmaciones sobre la tramitación simplificada del procedimiento administrativo común es FALSA?",
     "type": "C",
     "options": [
@@ -2997,8 +2997,8 @@
     "originalId": 108
   },
   {
-    "id": "adm_82",
-    "questionNum": 82,
+    "id": "adm-lpac-recursos_1",
+    "questionNum": 1,
     "question": "La declaración de lesividad no podrá adoptarse una vez transcurridos:",
     "type": "C",
     "options": [
@@ -3034,8 +3034,8 @@
     "originalId": 110
   },
   {
-    "id": "adm_83",
-    "questionNum": 83,
+    "id": "adm-lpac-recursos_2",
+    "questionNum": 2,
     "question": "La declaración de lesividad:",
     "type": "C",
     "options": [
@@ -3071,8 +3071,8 @@
     "originalId": 111
   },
   {
-    "id": "adm_84",
-    "questionNum": 84,
+    "id": "adm-lpac-recursos_3",
+    "questionNum": 3,
     "question": "En la Administración General del Estado, indica quién NO es competente para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables:",
     "type": "C",
     "options": [
@@ -3108,8 +3108,8 @@
     "originalId": 112
   },
   {
-    "id": "adm_85",
-    "questionNum": 85,
+    "id": "adm-lpac-recursos_4",
+    "questionNum": 4,
     "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las leyes podrían sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especialidad de la materia así lo justifique, por el siguiente procedimiento:",
     "type": "C",
     "options": [
@@ -3145,8 +3145,8 @@
     "originalId": 113
   },
   {
-    "id": "adm_86",
-    "questionNum": 86,
+    "id": "adm-lpac-recursos_5",
+    "questionNum": 5,
     "question": "En relación al procedimiento administrativo, las resoluciones de los recursos de alzada:",
     "type": "C",
     "options": [
@@ -3182,8 +3182,8 @@
     "originalId": 114
   },
   {
-    "id": "adm_87",
-    "questionNum": 87,
+    "id": "adm-lpac-recursos_6",
+    "questionNum": 6,
     "question": "Según la Ley 39/2015, en la interposición de un recurso NO debe expresarse:",
     "type": "C",
     "options": [
@@ -3219,8 +3219,8 @@
     "originalId": 115
   },
   {
-    "id": "adm_88",
-    "questionNum": 88,
+    "id": "adm-lpac-recursos_7",
+    "questionNum": 7,
     "question": "Según la Ley 39/2015 es causa de inadmisión de un recurso administrativo:",
     "type": "C",
     "options": [
@@ -3256,8 +3256,8 @@
     "originalId": 116
   },
   {
-    "id": "adm_89",
-    "questionNum": 89,
+    "id": "adm-lpac-recursos_8",
+    "questionNum": 8,
     "question": "El recurso que se presenta ante el órgano superior jerárquico que dictó el acto cuando no éste no pone fin a la vía administrativa, se denomina:",
     "type": "C",
     "options": [
@@ -3293,8 +3293,8 @@
     "originalId": 119
   },
   {
-    "id": "adm_90",
-    "questionNum": 90,
+    "id": "adm-lpac-recursos_9",
+    "questionNum": 9,
     "question": "El recurso extraordinario de revisión se puede interponer contra:",
     "type": "C",
     "options": [
@@ -3330,8 +3330,8 @@
     "originalId": 120
   },
   {
-    "id": "adm_91",
-    "questionNum": 91,
+    "id": "adm-lpac-recursos_10",
+    "questionNum": 10,
     "question": "El plazo máximo para dictar y notificar la resolución de un recurso extraordinario de revisión es de:",
     "type": "C",
     "options": [
@@ -3367,8 +3367,8 @@
     "originalId": 121
   },
   {
-    "id": "adm_92",
-    "questionNum": 92,
+    "id": "adm-lrjsp-sector-publico_1",
+    "questionNum": 1,
     "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, corresponde al Presidente del Ente Público:",
     "type": "C",
     "options": [
@@ -3404,8 +3404,8 @@
     "originalId": 14
   },
   {
-    "id": "adm_93",
-    "questionNum": 93,
+    "id": "adm-lrjsp-sector-publico_2",
+    "questionNum": 2,
     "question": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, son requisitos para la creación de cualquier órgano administrativo exigirá:",
     "type": "C",
     "options": [
@@ -3441,8 +3441,8 @@
     "originalId": 122
   },
   {
-    "id": "adm_94",
-    "questionNum": 94,
+    "id": "adm-lrjsp-sector-publico_3",
+    "questionNum": 3,
     "question": "La Ley 40/2015 establece que la delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia:",
     "type": "C",
     "options": [
@@ -3478,8 +3478,8 @@
     "originalId": 123
   },
   {
-    "id": "adm_95",
-    "questionNum": 95,
+    "id": "adm-lrjsp-sector-publico_4",
+    "questionNum": 4,
     "question": "Las competencias relativas a la adopción de disposiciones de carácter general:",
     "type": "C",
     "options": [
@@ -3515,8 +3515,8 @@
     "originalId": 124
   },
   {
-    "id": "adm_96",
-    "questionNum": 96,
+    "id": "adm-lrjsp-sector-publico_5",
+    "questionNum": 5,
     "question": "Una encomienda de gestión implica:",
     "type": "C",
     "options": [
@@ -3552,8 +3552,8 @@
     "originalId": 125
   },
   {
-    "id": "adm_97",
-    "questionNum": 97,
+    "id": "adm-lrjsp-sector-publico_6",
+    "questionNum": 6,
     "question": "En la encomienda de gestión, tendrá la condición de encargado del tratamiento de los datos de carácter personal:",
     "type": "C",
     "options": [
@@ -3589,8 +3589,8 @@
     "originalId": 126
   },
   {
-    "id": "adm_98",
-    "questionNum": 98,
+    "id": "adm-lrjsp-sector-publico_7",
+    "questionNum": 7,
     "question": "En los supuestos de enfermedad, los titulares de los órganos administrativos pueden ser suplidos:",
     "type": "C",
     "options": [
@@ -3626,8 +3626,8 @@
     "originalId": 127
   },
   {
-    "id": "adm_99",
-    "questionNum": 99,
+    "id": "adm-lrjsp-sector-publico_8",
+    "questionNum": 8,
     "question": "Según la Ley 40/2015, los conflictos de atribuciones SÓLO podrán suscitarse:",
     "type": "C",
     "options": [
@@ -3663,8 +3663,8 @@
     "originalId": 128
   },
   {
-    "id": "adm_100",
-    "questionNum": 100,
+    "id": "adm-lrjsp-sector-publico_9",
+    "questionNum": 9,
     "question": "Para la válida constitución de los órganos colegiados de las distintas Administraciones Públicas, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos se requerirá:",
     "type": "C",
     "options": [
@@ -3700,8 +3700,8 @@
     "originalId": 129
   },
   {
-    "id": "adm_101",
-    "questionNum": 101,
+    "id": "adm-lrjsp-sector-publico_10",
+    "questionNum": 10,
     "question": "Corresponderá al Presidente de los órganos colegiados de la Administración General del Estado:",
     "type": "C",
     "options": [
@@ -3737,8 +3737,8 @@
     "originalId": 130
   },
   {
-    "id": "adm_102",
-    "questionNum": 102,
+    "id": "adm-lrjsp-sector-publico_11",
+    "questionNum": 11,
     "question": "Corresponderá al Secretario de los órganos colegiados de la Administración General del Estado:",
     "type": "C",
     "options": [
@@ -3774,8 +3774,8 @@
     "originalId": 131
   },
   {
-    "id": "adm_103",
-    "questionNum": 103,
+    "id": "adm-lrjsp-sector-publico_12",
+    "questionNum": 12,
     "question": "Es motivo de abstención de las autoridades y el personal al servicio de las Administraciones a la hora de intervenir en un procedimiento:",
     "type": "C",
     "options": [
@@ -3811,8 +3811,8 @@
     "originalId": 132
   },
   {
-    "id": "adm_104",
-    "questionNum": 104,
+    "id": "adm-lrjsp-sector-publico_13",
+    "questionNum": 13,
     "question": "Se define como el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite el acceso a través de internet a la información publicada.",
     "type": "C",
     "options": [
@@ -3848,8 +3848,8 @@
     "originalId": 133
   },
   {
-    "id": "adm_105",
-    "questionNum": 105,
+    "id": "adm-prl-atencion-cliente-osaki_1",
+    "questionNum": 1,
     "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, se considera riesgo laboral:",
     "type": "C",
     "options": [
@@ -3885,8 +3885,8 @@
     "originalId": 162
   },
   {
-    "id": "adm_106",
-    "questionNum": 106,
+    "id": "adm-prl-atencion-cliente-osaki_2",
+    "questionNum": 2,
     "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, un accidente de trabajo se define como:",
     "type": "C",
     "options": [
@@ -3922,8 +3922,8 @@
     "originalId": 163
   },
   {
-    "id": "adm_107",
-    "questionNum": 107,
+    "id": "adm-prl-atencion-cliente-osaki_3",
+    "questionNum": 3,
     "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en caso de accidente de trabajo durante la jornada laboral, el trabajador deberá:",
     "type": "C",
     "options": [
@@ -3959,8 +3959,8 @@
     "originalId": 164
   },
   {
-    "id": "adm_108",
-    "questionNum": 108,
+    "id": "adm-prl-atencion-cliente-osaki_4",
+    "questionNum": 4,
     "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en la manipulación manual de cargas se recomienda:",
     "type": "C",
     "options": [
@@ -3996,8 +3996,8 @@
     "originalId": 165
   },
   {
-    "id": "adm_109",
-    "questionNum": 109,
+    "id": "adm-prl-atencion-cliente-osaki_5",
+    "questionNum": 5,
     "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, el personal más expuesto a los riesgos biológicos es:",
     "type": "C",
     "options": [
@@ -4033,8 +4033,8 @@
     "originalId": 166
   },
   {
-    "id": "adm_110",
-    "questionNum": 110,
+    "id": "adm-prl-atencion-cliente-osaki_6",
+    "questionNum": 6,
     "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en relación con la manipulación de productos químicos:",
     "type": "C",
     "options": [
@@ -4070,8 +4070,8 @@
     "originalId": 167
   },
   {
-    "id": "adm_111",
-    "questionNum": 111,
+    "id": "adm-prl-atencion-cliente-osaki_7",
+    "questionNum": 7,
     "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, se considera “usuario de PVD”:",
     "type": "C",
     "options": [
@@ -4107,8 +4107,8 @@
     "originalId": 168
   },
   {
-    "id": "adm_112",
-    "questionNum": 112,
+    "id": "adm-prl-atencion-cliente-osaki_8",
+    "questionNum": 8,
     "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, uno de los riesgos asociados al uso de pantallas de visualización de datos es la fatiga visual, debida a:",
     "type": "C",
     "options": [
@@ -4144,8 +4144,8 @@
     "originalId": 169
   },
   {
-    "id": "adm_113",
-    "questionNum": 113,
+    "id": "adm-prl-atencion-cliente-osaki_9",
+    "questionNum": 9,
     "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, en relación con las condiciones ambientales del puesto con ordenador, se recomienda:",
     "type": "C",
     "options": [
@@ -4181,8 +4181,8 @@
     "originalId": 170
   },
   {
-    "id": "adm_114",
-    "questionNum": 114,
+    "id": "adm-prl-atencion-cliente-osaki_10",
+    "questionNum": 10,
     "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, en relación con la silla de trabajo, se recomienda que la altura se regule hasta que:",
     "type": "C",
     "options": [
@@ -4218,8 +4218,8 @@
     "originalId": 171
   },
   {
-    "id": "adm_115",
-    "questionNum": 115,
+    "id": "adm-prl-atencion-cliente-osaki_11",
+    "questionNum": 11,
     "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, cuando sea necesario atender a personas en un puesto con ordenador, la pantalla deberá colocarse girada:",
     "type": "C",
     "options": [
@@ -4255,8 +4255,8 @@
     "originalId": 172
   },
   {
-    "id": "adm_116",
-    "questionNum": 116,
+    "id": "adm-prl-atencion-cliente-osaki_12",
+    "questionNum": 12,
     "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, para prevenir molestias musculoesqueléticas en puestos con ordenador, se recomienda que el teclado y el ratón se coloquen de manera que:",
     "type": "C",
     "options": [
@@ -4292,8 +4292,8 @@
     "originalId": 173
   },
   {
-    "id": "adm_117",
-    "questionNum": 117,
+    "id": "adm-prl-atencion-cliente-osaki_13",
+    "questionNum": 13,
     "question": "Según la Carpeta Roja de Prevención, un accidente se considera in itinere cuando, además de producirse en el trayecto domicilio-trabajo o viceversa:",
     "type": "C",
     "options": [
@@ -4329,8 +4329,8 @@
     "originalId": 179
   },
   {
-    "id": "adm_118",
-    "questionNum": 118,
+    "id": "adm-prl-atencion-cliente-osaki_14",
+    "questionNum": 14,
     "question": "Según la Carpeta Roja de Prevención, en caso de pinchazo por aguja u objeto afilado, una de las actuaciones inmediatas del trabajador accidentado es:",
     "type": "C",
     "options": [
@@ -4366,8 +4366,8 @@
     "originalId": 182
   },
   {
-    "id": "adm_119",
-    "questionNum": 119,
+    "id": "adm-prl-atencion-cliente-osaki_15",
+    "questionNum": 15,
     "question": "Según la Carpeta Roja de Prevención, en caso de contacto accidental de sangre u otros fluidos biológicos con mucosas, una de las actuaciones inmediatas del trabajador será:",
     "type": "C",
     "options": [
@@ -4403,8 +4403,8 @@
     "originalId": 183
   },
   {
-    "id": "adm_120",
-    "questionNum": 120,
+    "id": "adm-prl-atencion-cliente-osaki_16",
+    "questionNum": 16,
     "question": "Según la Carpeta Roja de Prevención, en caso de contacto accidental de sangre u otros fluidos biológicos con piel no intacta, la actuación inmediata del trabajador será:",
     "type": "C",
     "options": [
@@ -4440,8 +4440,8 @@
     "originalId": 184
   },
   {
-    "id": "adm_121",
-    "questionNum": 121,
+    "id": "adm-prl-atencion-cliente-osaki_17",
+    "questionNum": 17,
     "question": "Según la Carpeta Roja de Prevención, un incidente se caracteriza por:",
     "type": "C",
     "options": [
@@ -4477,8 +4477,8 @@
     "originalId": 193
   },
   {
-    "id": "adm_122",
-    "questionNum": 122,
+    "id": "adm-prl-atencion-cliente-osaki_18",
+    "questionNum": 18,
     "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, una medida básica para prevenir caídas al mismo nivel es:",
     "type": "C",
     "options": [
@@ -4514,8 +4514,8 @@
     "originalId": 197
   },
   {
-    "id": "adm_123",
-    "questionNum": 123,
+    "id": "adm-prl-atencion-cliente-osaki_19",
+    "questionNum": 19,
     "question": "Según la Carpeta Roja de Prevención, en caso de accidente sin lesiones aparentes, el trabajador deberá:",
     "type": "C",
     "options": [
@@ -4551,8 +4551,8 @@
     "originalId": 198
   },
   {
-    "id": "adm_124",
-    "questionNum": 124,
+    "id": "adm-prl-atencion-cliente-osaki_20",
+    "questionNum": 20,
     "question": "Según la Carpeta Roja de Prevención, tras una exposición accidental a riesgo biológico, el trabajador deberá:",
     "type": "C",
     "options": [
@@ -4588,8 +4588,8 @@
     "originalId": 200
   },
   {
-    "id": "adm_125",
-    "questionNum": 125,
+    "id": "adm-prl-prevencion-riesgos_1",
+    "questionNum": 1,
     "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la presente Ley tiene por objeto:",
     "type": "C",
     "options": [
@@ -4625,8 +4625,8 @@
     "originalId": 155
   },
   {
-    "id": "adm_126",
-    "questionNum": 126,
+    "id": "adm-prl-prevencion-riesgos_2",
+    "questionNum": 2,
     "question": "Según la Ley de Prevención de Riesgos Laborales, el coste de las medidas relativas a la seguridad y la salud en el trabajo:",
     "type": "C",
     "options": [
@@ -4662,8 +4662,8 @@
     "originalId": 156
   },
   {
-    "id": "adm_127",
-    "questionNum": 127,
+    "id": "adm-prl-prevencion-riesgos_3",
+    "questionNum": 3,
     "question": "Según la Ley 31/1995, los principios de la acción preventiva incluyen:",
     "type": "C",
     "options": [
@@ -4699,8 +4699,8 @@
     "originalId": 157
   },
   {
-    "id": "adm_128",
-    "questionNum": 128,
+    "id": "adm-prl-prevencion-riesgos_4",
+    "questionNum": 4,
     "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, son derechos de los trabajadores en materia de prevención:",
     "type": "C",
     "options": [
@@ -4736,8 +4736,8 @@
     "originalId": 158
   },
   {
-    "id": "adm_129",
-    "questionNum": 129,
+    "id": "adm-prl-prevencion-riesgos_5",
+    "questionNum": 5,
     "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la evaluación de los riesgos laborales deberá realizarse:",
     "type": "C",
     "options": [
@@ -4773,8 +4773,8 @@
     "originalId": 159
   },
   {
-    "id": "adm_130",
-    "questionNum": 130,
+    "id": "adm-prl-prevencion-riesgos_6",
+    "questionNum": 6,
     "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, los trabajadores tendrán derecho a interrumpir su actividad y abandonar el lugar de trabajo:",
     "type": "C",
     "options": [
@@ -4810,8 +4810,8 @@
     "originalId": 160
   },
   {
-    "id": "adm_131",
-    "questionNum": 131,
+    "id": "adm-prl-prevencion-riesgos_7",
+    "questionNum": 7,
     "question": "Según el artículo 2 de la Ley 31/1995, de Prevención de Riesgos Laborales, la presente Ley será de aplicación:",
     "type": "C",
     "options": [
@@ -4847,8 +4847,8 @@
     "originalId": 161
   },
   {
-    "id": "adm_132",
-    "questionNum": 132,
+    "id": "adm-prl-prevencion-riesgos_8",
+    "questionNum": 8,
     "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, este documento tiene como finalidad:",
     "type": "C",
     "options": [
@@ -4884,8 +4884,8 @@
     "originalId": 174
   },
   {
-    "id": "adm_133",
-    "questionNum": 133,
+    "id": "adm-prl-prevencion-riesgos_9",
+    "questionNum": 9,
     "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, entre las medidas de prevención ante accidentes se recomienda:",
     "type": "C",
     "options": [
@@ -4921,8 +4921,8 @@
     "originalId": 175
   },
   {
-    "id": "adm_134",
-    "questionNum": 134,
+    "id": "adm-prl-prevencion-riesgos_10",
+    "questionNum": 10,
     "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, en relación con el uso de enchufes y regletas:",
     "type": "C",
     "options": [
@@ -4958,8 +4958,8 @@
     "originalId": 176
   },
   {
-    "id": "adm_135",
-    "questionNum": 135,
+    "id": "adm-prl-prevencion-riesgos_11",
+    "questionNum": 11,
     "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, cuando se detecten anomalías o defectos en equipos, instalaciones o mobiliario, el trabajador deberá:",
     "type": "C",
     "options": [
@@ -4995,8 +4995,8 @@
     "originalId": 177
   },
   {
-    "id": "adm_136",
-    "questionNum": 136,
+    "id": "adm-prl-prevencion-riesgos_12",
+    "questionNum": 12,
     "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, entre las recomendaciones generales dirigidas al personal del Área de Atención al Cliente se encuentra:",
     "type": "C",
     "options": [
@@ -5032,8 +5032,8 @@
     "originalId": 178
   },
   {
-    "id": "adm_137",
-    "questionNum": 137,
+    "id": "adm-prl-prevencion-riesgos_13",
+    "questionNum": 13,
     "question": "Según la Ley 31/1995, la vigilancia de la salud de los trabajadores se realizará:",
     "type": "C",
     "options": [
@@ -5069,8 +5069,8 @@
     "originalId": 190
   },
   {
-    "id": "adm_138",
-    "questionNum": 138,
+    "id": "adm-prl-prevencion-riesgos_14",
+    "questionNum": 14,
     "question": "Según la Ley 31/1995, los delegados de prevención son:",
     "type": "C",
     "options": [
@@ -5106,8 +5106,8 @@
     "originalId": 191
   },
   {
-    "id": "adm_139",
-    "questionNum": 139,
+    "id": "adm-prl-prevencion-riesgos_15",
+    "questionNum": 15,
     "question": "Según la Ley 31/1995, la planificación de la actividad preventiva deberá realizarse:",
     "type": "C",
     "options": [
@@ -5143,8 +5143,8 @@
     "originalId": 192
   },
   {
-    "id": "adm_140",
-    "questionNum": 140,
+    "id": "adm-prl-prevencion-riesgos_16",
+    "questionNum": 16,
     "question": "Según la Ley 31/1995, el empresario deberá adoptar medidas para que los trabajadores reciban formación en materia preventiva:",
     "type": "C",
     "options": [
@@ -5180,8 +5180,8 @@
     "originalId": 195
   },
   {
-    "id": "adm_141",
-    "questionNum": 141,
+    "id": "adm-prl-prevencion-riesgos_17",
+    "questionNum": 17,
     "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, en relación con las posturas forzadas en el Área de Atención al Cliente, se recomienda:",
     "type": "C",
     "options": [
@@ -5217,8 +5217,8 @@
     "originalId": 199
   },
   {
-    "id": "adm_142",
-    "questionNum": 142,
+    "id": "adm-protocolo-acoso-sexual-osaki_1",
+    "questionNum": 1,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el protocolo será revisado:",
     "type": "C",
     "options": [
@@ -5254,8 +5254,8 @@
     "originalId": 147
   },
   {
-    "id": "adm_143",
-    "questionNum": 143,
+    "id": "adm-protocolo-acoso-sexual-osaki_2",
+    "questionNum": 2,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el procedimiento informal se utilizará cuando:",
     "type": "C",
     "options": [
@@ -5291,8 +5291,8 @@
     "originalId": 148
   },
   {
-    "id": "adm_144",
-    "questionNum": 144,
+    "id": "adm-protocolo-acoso-sexual-osaki_3",
+    "questionNum": 3,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la Asesoría Confidencial tiene entre sus funciones:",
     "type": "C",
     "options": [
@@ -5328,8 +5328,8 @@
     "originalId": 149
   },
   {
-    "id": "adm_145",
-    "questionNum": 145,
+    "id": "adm-protocolo-acoso-sexual-osaki_4",
+    "questionNum": 4,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, Osakidetza velará por el mantenimiento de un entorno laboral:",
     "type": "C",
     "options": [
@@ -5365,8 +5365,8 @@
     "originalId": 150
   },
   {
-    "id": "adm_146",
-    "questionNum": 146,
+    "id": "adm-protocolo-acoso-sexual-osaki_5",
+    "questionNum": 5,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, Osakidetza se compromete a salvaguardar los derechos:",
     "type": "C",
     "options": [
@@ -5402,8 +5402,8 @@
     "originalId": 151
   },
   {
-    "id": "adm_147",
-    "questionNum": 147,
+    "id": "adm-protocolo-acoso-sexual-osaki_6",
+    "questionNum": 6,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el protocolo se aplicará:",
     "type": "C",
     "options": [
@@ -5439,8 +5439,8 @@
     "originalId": 152
   },
   {
-    "id": "adm_148",
-    "questionNum": 148,
+    "id": "adm-protocolo-acoso-sexual-osaki_7",
+    "questionNum": 7,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, constituye acoso sexual:",
     "type": "C",
     "options": [
@@ -5476,8 +5476,8 @@
     "originalId": 153
   },
   {
-    "id": "adm_149",
-    "questionNum": 149,
+    "id": "adm-protocolo-acoso-sexual-osaki_8",
+    "questionNum": 8,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, cualquier persona que sufra o conozca una situación de acoso:",
     "type": "C",
     "options": [
@@ -5513,8 +5513,8 @@
     "originalId": 154
   },
   {
-    "id": "adm_150",
-    "questionNum": 150,
+    "id": "adm-protocolo-acoso-sexual-osaki_9",
+    "questionNum": 9,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el principio de confidencialidad implica que:",
     "type": "C",
     "options": [
@@ -5550,8 +5550,8 @@
     "originalId": 186
   },
   {
-    "id": "adm_151",
-    "questionNum": 151,
+    "id": "adm-protocolo-acoso-sexual-osaki_10",
+    "questionNum": 10,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la reiteración de conductas ofensivas tras utilizar los procedimientos establecidos constituye:",
     "type": "C",
     "options": [
@@ -5587,8 +5587,8 @@
     "originalId": 187
   },
   {
-    "id": "adm_152",
-    "questionNum": 152,
+    "id": "adm-protocolo-acoso-sexual-osaki_11",
+    "questionNum": 11,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el procedimiento formal se iniciará cuando:",
     "type": "C",
     "options": [
@@ -5624,8 +5624,8 @@
     "originalId": 188
   },
   {
-    "id": "adm_153",
-    "questionNum": 153,
+    "id": "adm-protocolo-acoso-sexual-osaki_12",
+    "questionNum": 12,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la formación en materia de acoso sexual y por razón de sexo tiene como finalidad principal:",
     "type": "C",
     "options": [
@@ -5661,8 +5661,8 @@
     "originalId": 189
   },
   {
-    "id": "adm_154",
-    "questionNum": 154,
+    "id": "adm-protocolo-acoso-sexual-osaki_13",
+    "questionNum": 13,
     "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la utilización del procedimiento informal tiene como objetivo principal:",
     "type": "C",
     "options": [
@@ -5698,8 +5698,8 @@
     "originalId": 196
   },
   {
-    "id": "adm_155",
-    "questionNum": 155,
+    "id": "adm-puestos-funcionales_1",
+    "questionNum": 1,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los Puestos Funcionales se constituyen:",
     "type": "C",
     "options": [
@@ -5735,8 +5735,8 @@
     "originalId": 24
   },
   {
-    "id": "adm_156",
-    "questionNum": 156,
+    "id": "adm-puestos-funcionales_2",
+    "questionNum": 2,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, se entiende por Puesto Funcional:",
     "type": "C",
     "options": [
@@ -5772,8 +5772,8 @@
     "originalId": 25
   },
   {
-    "id": "adm_157",
-    "questionNum": 157,
+    "id": "adm-puestos-funcionales_3",
+    "questionNum": 3,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los Puestos Funcionales vendrán identificados según:",
     "type": "C",
     "options": [
@@ -5809,8 +5809,8 @@
     "originalId": 26
   },
   {
-    "id": "adm_158",
-    "questionNum": 158,
+    "id": "adm-puestos-funcionales_4",
+    "questionNum": 4,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los efectos retributivos asignados:",
     "type": "C",
     "options": [
@@ -5846,8 +5846,8 @@
     "originalId": 27
   },
   {
-    "id": "adm_159",
-    "questionNum": 159,
+    "id": "adm-puestos-funcionales_5",
+    "questionNum": 5,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, la edad:",
     "type": "C",
     "options": [
@@ -5883,8 +5883,8 @@
     "originalId": 28
   },
   {
-    "id": "adm_160",
-    "questionNum": 160,
+    "id": "adm-puestos-funcionales_6",
+    "questionNum": 6,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, el Perfil Profesional requerido para su desempeño estará constituido por:",
     "type": "C",
     "options": [
@@ -5920,8 +5920,8 @@
     "originalId": 29
   },
   {
-    "id": "adm_161",
-    "questionNum": 161,
+    "id": "adm-puestos-funcionales_7",
+    "questionNum": 7,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
     "type": "C",
     "options": [
@@ -5957,8 +5957,8 @@
     "originalId": 30
   },
   {
-    "id": "adm_162",
-    "questionNum": 162,
+    "id": "adm-puestos-funcionales_8",
+    "questionNum": 8,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, el número de efectivos de las Plantillas Funcionales vendrá limitada por:",
     "type": "C",
     "options": [
@@ -5994,8 +5994,8 @@
     "originalId": 31
   },
   {
-    "id": "adm_163",
-    "questionNum": 163,
+    "id": "adm-puestos-funcionales_9",
+    "questionNum": 9,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
     "type": "C",
     "options": [
@@ -6031,8 +6031,8 @@
     "originalId": 30
   },
   {
-    "id": "adm_164",
-    "questionNum": 164,
+    "id": "adm-puestos-funcionales_10",
+    "questionNum": 10,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
     "type": "C",
     "options": [
@@ -6068,8 +6068,8 @@
     "originalId": 30
   },
   {
-    "id": "adm_165",
-    "questionNum": 165,
+    "id": "adm-puestos-funcionales_11",
+    "questionNum": 11,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
     "type": "C",
     "options": [
@@ -6105,8 +6105,8 @@
     "originalId": 30
   },
   {
-    "id": "adm_166",
-    "questionNum": 166,
+    "id": "adm-puestos-funcionales_12",
+    "questionNum": 12,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
     "type": "C",
     "options": [
@@ -6142,8 +6142,8 @@
     "originalId": 30
   },
   {
-    "id": "adm_167",
-    "questionNum": 167,
+    "id": "adm-puestos-funcionales_13",
+    "questionNum": 13,
     "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
     "type": "C",
     "options": [
@@ -6179,8 +6179,8 @@
     "originalId": 30
   },
   {
-    "id": "adm_168",
-    "questionNum": 168,
+    "id": "adm-segunda-opinion-medica_1",
+    "questionNum": 1,
     "question": "Según el Decreto 149/2007, la solicitud de segunda opinión médica deberá presentarse:",
     "type": "C",
     "options": [
@@ -6216,8 +6216,8 @@
     "originalId": 135
   },
   {
-    "id": "adm_169",
-    "questionNum": 169,
+    "id": "adm-segunda-opinion-medica_2",
+    "questionNum": 2,
     "question": "Según el Decreto 149/2007, la concesión del derecho a la segunda opinión médica será incompatible con:",
     "type": "C",
     "options": [
@@ -6253,8 +6253,8 @@
     "originalId": 136
   },
   {
-    "id": "adm_170",
-    "questionNum": 170,
+    "id": "adm-segunda-opinion-medica_3",
+    "questionNum": 3,
     "question": "Según el Decreto 149/2007, cuando la segunda opinión médica confirme el primer diagnóstico, el paciente:",
     "type": "C",
     "options": [
@@ -6290,8 +6290,8 @@
     "originalId": 137
   },
   {
-    "id": "adm_171",
-    "questionNum": 171,
+    "id": "adm-segunda-opinion-medica_4",
+    "questionNum": 4,
     "question": "¿Quiénes pueden solicitar una segunda opinión médica conforme al Decreto 149/2007?",
     "type": "C",
     "options": [
@@ -6327,8 +6327,8 @@
     "originalId": 138
   },
   {
-    "id": "adm_172",
-    "questionNum": 172,
+    "id": "adm-segunda-opinion-medica_5",
+    "questionNum": 5,
     "question": "El derecho a la segunda opinión médica se garantiza, entre otros supuestos, en procesos relacionados con:",
     "type": "C",
     "options": [
@@ -6364,8 +6364,8 @@
     "originalId": 139
   },
   {
-    "id": "adm_173",
-    "questionNum": 173,
+    "id": "adm-segunda-opinion-medica_6",
+    "questionNum": 6,
     "question": "¿Cuál es la finalidad principal del derecho a la segunda opinión médica según el Decreto 149/2007?",
     "type": "C",
     "options": [
@@ -6401,8 +6401,8 @@
     "originalId": 140
   },
   {
-    "id": "adm_174",
-    "questionNum": 174,
+    "id": "adm-segunda-opinion-medica_7",
+    "questionNum": 7,
     "question": "La segunda opinión médica deberá ser emitida por profesionales sanitarios que:",
     "type": "C",
     "options": [
@@ -6438,8 +6438,8 @@
     "originalId": 141
   },
   {
-    "id": "adm_175",
-    "questionNum": 175,
+    "id": "adm-segunda-opinion-medica_8",
+    "questionNum": 8,
     "question": "¿En qué plazo debe concertarse la cita para la segunda opinión médica desde la entrada de la solicitud en el registro?",
     "type": "C",
     "options": [
@@ -6475,8 +6475,8 @@
     "originalId": 142
   },
   {
-    "id": "adm_176",
-    "questionNum": 176,
+    "id": "adm-segunda-opinion-medica_9",
+    "questionNum": 9,
     "question": "Si la segunda opinión médica NO confirma el primer diagnóstico, el paciente:",
     "type": "C",
     "options": [
@@ -6512,8 +6512,8 @@
     "originalId": 143
   },
   {
-    "id": "adm_177",
-    "questionNum": 177,
+    "id": "adm-segunda-opinion-medica_10",
+    "questionNum": 10,
     "question": "Cuando NO se considera adecuada la concesión de una segunda opinión médica, la decisión debe:",
     "type": "C",
     "options": [
@@ -6549,8 +6549,8 @@
     "originalId": 144
   },
   {
-    "id": "adm_178",
-    "questionNum": 178,
+    "id": "adm-segunda-opinion-medica_11",
+    "questionNum": 11,
     "question": "¿Qué unidades son las encargadas de tramitar las solicitudes de segunda opinión médica según el Decreto 149/2007?",
     "type": "C",
     "options": [
@@ -6586,8 +6586,8 @@
     "originalId": 146
   },
   {
-    "id": "adm_179",
-    "questionNum": 179,
+    "id": "adm-segunda-opinion-medica_12",
+    "questionNum": 12,
     "question": "Según el Decreto 149/2007, el procedimiento de segunda opinión médica se iniciará:",
     "type": "C",
     "options": [
@@ -6623,8 +6623,8 @@
     "originalId": 185
   },
   {
-    "id": "adm_180",
-    "questionNum": 180,
+    "id": "adm-segunda-opinion-medica_13",
+    "questionNum": 13,
     "question": "Según el Decreto 149/2007, la solicitud de segunda opinión médica deberá resolverse teniendo en cuenta que:",
     "type": "C",
     "options": [
@@ -6660,8 +6660,8 @@
     "originalId": 194
   },
   {
-    "id": "adm_181",
-    "questionNum": 181,
+    "id": "adm-transparencia-y-buen-gobierno_1",
+    "questionNum": 1,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, tiene como objeto:",
     "type": "C",
     "options": [
@@ -6697,8 +6697,8 @@
     "originalId": 37
   },
   {
-    "id": "adm_182",
-    "questionNum": 182,
+    "id": "adm-transparencia-y-buen-gobierno_2",
+    "questionNum": 2,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la transparencia de la actividad pública se aplicará a:",
     "type": "C",
     "options": [
@@ -6734,8 +6734,8 @@
     "originalId": 38
   },
   {
-    "id": "adm_183",
-    "questionNum": 183,
+    "id": "adm-transparencia-y-buen-gobierno_3",
+    "questionNum": 3,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la transparencia de la actividad pública se aplicará a:",
     "type": "C",
     "options": [
@@ -6771,8 +6771,8 @@
     "originalId": 38
   },
   {
-    "id": "adm_184",
-    "questionNum": 184,
+    "id": "adm-transparencia-y-buen-gobierno_4",
+    "questionNum": 4,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la transparencia de la actividad pública se aplicará a:",
     "type": "C",
     "options": [
@@ -6808,8 +6808,8 @@
     "originalId": 38
   },
   {
-    "id": "adm_185",
-    "questionNum": 185,
+    "id": "adm-transparencia-y-buen-gobierno_5",
+    "questionNum": 5,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la transparencia de la actividad pública se aplicará a:",
     "type": "C",
     "options": [
@@ -6845,8 +6845,8 @@
     "originalId": 38
   },
   {
-    "id": "adm_186",
-    "questionNum": 186,
+    "id": "adm-transparencia-y-buen-gobierno_6",
+    "questionNum": 6,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la transparencia de la actividad pública se aplicará a:",
     "type": "C",
     "options": [
@@ -6882,8 +6882,8 @@
     "originalId": 38
   },
   {
-    "id": "adm_187",
-    "questionNum": 187,
+    "id": "adm-transparencia-y-buen-gobierno_7",
+    "questionNum": 7,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la transparencia de la actividad pública se aplicará a:",
     "type": "C",
     "options": [
@@ -6919,8 +6919,8 @@
     "originalId": 38
   },
   {
-    "id": "adm_188",
-    "questionNum": 188,
+    "id": "adm-transparencia-y-buen-gobierno_8",
+    "questionNum": 8,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, también estarán obligados:",
     "type": "C",
     "options": [
@@ -6956,8 +6956,8 @@
     "originalId": 44
   },
   {
-    "id": "adm_189",
-    "questionNum": 189,
+    "id": "adm-transparencia-y-buen-gobierno_9",
+    "questionNum": 9,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, también estarán obligados:",
     "type": "C",
     "options": [
@@ -6993,8 +6993,8 @@
     "originalId": 44
   },
   {
-    "id": "adm_190",
-    "questionNum": 190,
+    "id": "adm-transparencia-y-buen-gobierno_10",
+    "questionNum": 10,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
     "type": "C",
     "options": [
@@ -7030,8 +7030,8 @@
     "originalId": 46
   },
   {
-    "id": "adm_191",
-    "questionNum": 191,
+    "id": "adm-transparencia-y-buen-gobierno_11",
+    "questionNum": 11,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
     "type": "C",
     "options": [
@@ -7067,8 +7067,8 @@
     "originalId": 46
   },
   {
-    "id": "adm_192",
-    "questionNum": 192,
+    "id": "adm-transparencia-y-buen-gobierno_12",
+    "questionNum": 12,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
     "type": "C",
     "options": [
@@ -7104,8 +7104,8 @@
     "originalId": 46
   },
   {
-    "id": "adm_193",
-    "questionNum": 193,
+    "id": "adm-transparencia-y-buen-gobierno_13",
+    "questionNum": 13,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
     "type": "C",
     "options": [
@@ -7141,8 +7141,8 @@
     "originalId": 46
   },
   {
-    "id": "adm_194",
-    "questionNum": 194,
+    "id": "adm-transparencia-y-buen-gobierno_14",
+    "questionNum": 14,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las Administraciones Públicas, en el ámbito de sus competencias, publicarán:",
     "type": "C",
     "options": [
@@ -7178,8 +7178,8 @@
     "originalId": 50
   },
   {
-    "id": "adm_195",
-    "questionNum": 195,
+    "id": "adm-transparencia-y-buen-gobierno_15",
+    "questionNum": 15,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, teniendo en cuenta las competencias legislativas de las Comunidades Autónomas, los sujetos incluidos en el ámbito de aplicación deberán hacer pública:",
     "type": "C",
     "options": [
@@ -7215,8 +7215,8 @@
     "originalId": 51
   },
   {
-    "id": "adm_196",
-    "questionNum": 196,
+    "id": "adm-transparencia-y-buen-gobierno_16",
+    "questionNum": 16,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, teniendo en cuenta las competencias legislativas de las Comunidades Autónomas, los sujetos incluidos en el ámbito de aplicación deberán hacer pública:",
     "type": "C",
     "options": [
@@ -7252,8 +7252,8 @@
     "originalId": 51
   },
   {
-    "id": "adm_197",
-    "questionNum": 197,
+    "id": "adm-transparencia-y-buen-gobierno_17",
+    "questionNum": 17,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, teniendo en cuenta las competencias legislativas de las Comunidades Autónomas, los sujetos incluidos en el ámbito de aplicación deberán hacer pública:",
     "type": "C",
     "options": [
@@ -7289,8 +7289,8 @@
     "originalId": 51
   },
   {
-    "id": "adm_198",
-    "questionNum": 198,
+    "id": "adm-transparencia-y-buen-gobierno_18",
+    "questionNum": 18,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
     "type": "C",
     "options": [
@@ -7326,8 +7326,8 @@
     "originalId": 46
   },
   {
-    "id": "adm_199",
-    "questionNum": 199,
+    "id": "adm-transparencia-y-buen-gobierno_19",
+    "questionNum": 19,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
     "type": "C",
     "options": [
@@ -7363,8 +7363,8 @@
     "originalId": 46
   },
   {
-    "id": "adm_200",
-    "questionNum": 200,
+    "id": "adm-transparencia-y-buen-gobierno_20",
+    "questionNum": 20,
     "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el Portal de Transparencia contendrá información publicada de acuerdo con las prescripciones técnicas que se establezcan reglamentariamente que deberán adecuarse a los siguientes principios:",
     "type": "C",
     "options": [
