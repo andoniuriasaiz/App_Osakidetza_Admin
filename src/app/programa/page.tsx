@@ -67,7 +67,7 @@ function DayCard({ day, todayStr, router, onComplete, getTypeColor, getTypeLabel
               })}
             </div>
           )}
-          {isToday && !day.completed && day.type !== 'rest' && (
+          {isToday && day.type !== 'rest' && (
             <div className="mt-4 flex gap-2">
               <button
                 onClick={() => router.push(
@@ -75,16 +75,22 @@ function DayCard({ day, todayStr, router, onComplete, getTypeColor, getTypeLabel
                   : day.type === 'weaks' ? '/errores'
                   : '/dashboard'
                 )}
-                className="flex-1 bg-amber-400 hover:bg-amber-500 text-amber-900 font-bold py-2 rounded-lg text-xs transition"
+                className={`flex-1 font-bold py-2 rounded-lg text-xs transition ${
+                  day.completed
+                    ? 'bg-slate-200 hover:bg-slate-300 text-slate-600'
+                    : 'bg-amber-400 hover:bg-amber-500 text-amber-900'
+                }`}
               >
-                Ir a estudiar
+                {day.completed ? '↩ Repetir' : 'Ir a estudiar'}
               </button>
-              <button
-                onClick={onComplete}
-                className="bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold px-3 py-2 rounded-lg text-xs transition"
-              >
-                ✓ Marcar hecho
-              </button>
+              {!day.completed && (
+                <button
+                  onClick={onComplete}
+                  className="bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold px-3 py-2 rounded-lg text-xs transition"
+                >
+                  ✓ Marcar hecho
+                </button>
+              )}
             </div>
           )}
         </div>

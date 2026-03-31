@@ -84,6 +84,7 @@ export default function StudyPage() {
   const startTimeRef = useRef<number>(Date.now());
   const sessionLoggedRef = useRef(false);
   const [solStep, setSolStep] = useState(0);
+  const [orderedMode, setOrderedMode] = useState(false); // false = aleatorio, true = en orden
   // ── Simulation interactive state ──────────────────────────
   const [simStep, setSimStep] = useState(0);   // current image index (0 = initial state)
   const [simClickAnim, setSimClickAnim] = useState<{x: number; y: number} | null>(null);
@@ -112,7 +113,7 @@ export default function StudyPage() {
   }, []);
 
   // ─── Start study session ─────────────────────
-  function startStudy(type: 'due' | 'new' | 'all' | 'errors' | 'bookmarks', survival = false) {
+  function startStudy(type: 'due' | 'new' | 'all' | 'errors' | 'bookmarks', survival = false, ordered = false) {
     setStudyType(type as 'due' | 'new' | 'all' | 'errors');
     setSurvivalMode(survival);
     setLives(3);
@@ -134,7 +135,7 @@ export default function StudyPage() {
       const bmIds = new Set(getBookmarkedIds());
       qs = shuffleArray(allQuestions.filter(q => bmIds.has(q.id)));
     } else {
-      qs = shuffleArray([...base]);
+      qs = ordered ? [...base] : shuffleArray([...base]);
     }
 
     if (qs.length === 0) { alert('No hay preguntas disponibles.'); return; }
@@ -621,13 +622,9 @@ export default function StudyPage() {
                 </div>
               </button>
 
-              {/* All */}
-              <button
-                onClick={() => startStudy('all')}
-                className="w-full rounded-xl border border-slate-200 bg-white hover:border-slate-300 hover:shadow-sm text-left transition-all cursor-pointer"
-                style={{ padding: '14px 16px' }}
-              >
-                <div className="flex items-center gap-3">
+              {/* All — con selector de orden */}
+              <div className="w-full rounded-xl border border-slate-200 bg-white" style={{ padding: '14px 16px' }}>
+                <div className="flex items-center gap-3 mb-3">
                   <div className="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0 bg-slate-100 text-slate-500">
                     <IconShuffle size={18} />
                   </div>
@@ -638,10 +635,24 @@ export default function StudyPage() {
                         {filteredQs.length}
                       </span>
                     </div>
-                    <div className="text-xs text-gray-400 mt-0.5">Todas las preguntas en aleatorio</div>
+                    <div className="text-xs text-gray-400 mt-0.5">Elige el orden y empieza</div>
                   </div>
                 </div>
-              </button>
+                <div className="flex gap-2">
+                  <button
+                    onClick={() => { setOrderedMode(false); startStudy('all', false, false); }}
+                    className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-lg border-2 border-slate-200 bg-slate-50 hover:border-[#282182] hover:bg-[#e8e7f7] text-slate-700 hover:text-[#282182] font-semibold text-xs transition-all"
+                  >
+                    <IconShuffle size={13} /> Aleatorio
+                  </button>
+                  <button
+                    onClick={() => { setOrderedMode(true); startStudy('all', false, true); }}
+                    className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-lg border-2 border-slate-200 bg-slate-50 hover:border-emerald-500 hover:bg-emerald-50 text-slate-700 hover:text-emerald-700 font-semibold text-xs transition-all"
+                  >
+                    <IconArrowRight size={13} /> En orden
+                  </button>
+                </div>
+              </div>
 
               {/* Mis errores */}
               <button
@@ -717,7 +728,7 @@ export default function StudyPage() {
           <div>
             <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2.5">Modo especial</p>
             <button
-              onClick={() => startStudy('all', true)}
+              onClick={() => startStudy('all', true, false)}
               disabled={filteredQs.length === 0}
               className="w-full rounded-xl border border-red-200 bg-red-50 hover:bg-red-100 hover:border-red-300 text-left transition-all cursor-pointer disabled:opacity-40 disabled:cursor-not-allowed"
               style={{ padding: '14px 16px' }}
