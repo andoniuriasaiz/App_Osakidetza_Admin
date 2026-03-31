@@ -578,17 +578,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Las subvenciones y ayudas públicas concedidas con indicación de su importe, objetivo o finalidad y beneficiarios."
+      "Las subvenciones y ayudas públicas concedidas con indicación de su importe, objetivo o finalidad, pero sin indicar quiénes son los beneficiarios."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-transparencia-y-buen-gobierno",
-    "explanation": "Art. 8.1.c Ley 19/2013: 'Las subvenciones y ayudas públicas concedidas con indicación de su IMPORTE, OBJETIVO O FINALIDAD y BENEFICIARIOS.' La opción a) excluye importe, objetivo y finalidad (FALSO). La opción b) excluye beneficiarios (FALSO). Respuesta C.",
+    "explanation": "Art. 8.1.c Ley 19/2013: 'Las subvenciones y ayudas públicas concedidas con indicación de su IMPORTE, OBJETIVO O FINALIDAD y BENEFICIARIOS.' La opción a) excluye importe, objetivo y finalidad (FALSO). La opción b) excluye beneficiarios (FALSO). Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 51
   },
   {
@@ -615,17 +615,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Los presupuestos, con descripción de las principales partidas presupuestarias e información actualizada y comprensible sobre su estado de ejecución y sobre el cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas."
+      "Los presupuestos sin la descripción de las principales partidas presupuestarias e información actualizada y comprensible sobre su estado de ejecución y sobre el cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-transparencia-y-buen-gobierno",
-    "explanation": "Art. 8.1.d Ley 19/2013: 'Los PRESUPUESTOS, con descripción de las principales partidas presupuestarias e INFORMACIÓN ACTUALIZADA Y COMPRENSIBLE sobre su estado de ejecución y sobre el cumplimiento de los OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA de las Administraciones Públicas.' La opción a) reproduce literalmente el artículo. Respuesta A.",
+    "explanation": "Art. 8.1.d Ley 19/2013: 'Los PRESUPUESTOS, con descripción de las principales partidas presupuestarias e INFORMACIÓN ACTUALIZADA Y COMPRENSIBLE sobre su estado de ejecución y sobre el cumplimiento de los OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA de las Administraciones Públicas.' La opción a) reproduce literalmente el artículo. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 51
   },
   {

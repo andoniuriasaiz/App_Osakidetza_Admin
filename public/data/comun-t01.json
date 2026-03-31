@@ -248,14 +248,14 @@
       3
     ],
     "correctAnswers": [
-      "La renuncia se ejerza de acuerdo con procedimientos regulares."
+      "Quede constancia, aunque no sea formal, de la renuncia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5.1.c Ley 44/2003: El derecho a la renuncia requiere que NO conlleve desatención y que quede CONSTANCIA FORMAL. La opción C ('aunque no sea formal') es INCORRECTA. Respuesta B.",
+    "explanation": "Art. 5.1.c Ley 44/2003: El derecho a la renuncia requiere que NO conlleve desatención y que quede CONSTANCIA FORMAL. La opción C ('aunque no sea formal') es INCORRECTA. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to C based on Kaixo/Osasun consensus.",
     "originalId": 7
   },
   {
@@ -615,17 +615,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "La cumplimentación por parte del personal profesional de la documentación asistencial, informativa o estadística que determine el centro."
+      "La realización de controles periódicos sobre la eficiencia del personal profesional sanitario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 8 Ley 44/2003: La eficacia organizativa requiere: normas de funcionamiento interno escritas, definición de objetivos y funciones generales y específicas, cumplimentación de documentación asistencial. Los 'controles periódicos sobre la eficiencia del personal profesional sanitario' como requisito de eficacia organizativa NO aparecen en este artículo. Respuesta C.",
+    "explanation": "Art. 8 Ley 44/2003: La eficacia organizativa requiere: normas de funcionamiento interno escritas, definición de objetivos y funciones generales y específicas, cumplimentación de documentación asistencial. Los 'controles periódicos sobre la eficiencia del personal profesional sanitario' como requisito de eficacia organizativa NO aparecen en este artículo. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 18
   },
   {
@@ -655,14 +655,14 @@
       4
     ],
     "correctAnswers": [
-      "Los centros sanitarios acreditados para la formación especializada deberán contar con jefaturas de estudios y con la coordinación docente que resulten adecuados en función de su capacidad docente."
+      "Los centros sanitarios acreditados para la formación especializada deberán contar con jefaturas de estudios, coordinación docente y personal tutor de la formación que resulten adecuados en función de su capacidad docente, pero no con una comisión de docencia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta B.",
+    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 19
   },
   {

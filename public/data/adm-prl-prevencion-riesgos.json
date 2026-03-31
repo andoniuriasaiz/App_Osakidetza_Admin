@@ -319,17 +319,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Mantener y organizar los materiales de trabajo atendiendo principalmente a criterios de rapidez y funcionalidad."
+      "Colocar los objetos de forma estable sobre armarios, baldas o vitrinas y retirar aquellos que no sean necesarios"
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-prevencion-riesgos",
-    "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta D.",
+    "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 175
   },
   {

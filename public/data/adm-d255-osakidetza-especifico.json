@@ -208,17 +208,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Supervisar las operaciones del Ente Público y presentar al Consejo de Administración los informes que considere oportunos."
+      "No tiene potestad para supervisar las operaciones del Ente Público."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 11
   },
   {
@@ -541,17 +541,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Dirigir e impulsar la investigación, docencia y formación en el seno de su organización."
+      "Dirigir e impulsar la investigación, docencia y formación en el seno de las Universidades y Centros de Formación Profesional privados."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta B.",
+    "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 21
   },
   {

@@ -171,17 +171,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Es un aspecto que identifica los Puestos Funcionales."
+      "a) b) y c) son incorrectas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-puestos-funcionales",
-    "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta A.",
+    "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 28
   },
   {

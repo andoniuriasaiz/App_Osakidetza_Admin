@@ -393,17 +393,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Las partes no alcancen acuerdo en el procedimiento informal."
+      "El trabajador lo solicite verbalmente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-protocolo-acoso-sexual-osaki",
-    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento formal): El procedimiento formal se iniciará cuando LAS PARTES NO ALCANCEN ACUERDO EN EL PROCEDIMIENTO INFORMAL, o cuando la gravedad de los hechos aconseje ir directamente a la vía formal. No requiere solo solicitud verbal (b), ni indicios penales (c), ni decisión unilateral del responsable (d). Respuesta A.",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento formal): El procedimiento formal se iniciará cuando LAS PARTES NO ALCANCEN ACUERDO EN EL PROCEDIMIENTO INFORMAL, o cuando la gravedad de los hechos aconseje ir directamente a la vía formal. No requiere solo solicitud verbal (b), ni indicios penales (c), ni decisión unilateral del responsable (d). Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 188
   },
   {

@@ -97,17 +97,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "La jubilación del personal estatutario y funcionario a los que les es de aplicación el presente Acuerdo se declarará de oficio a los sesenta años de edad, pudiendo prolongar voluntariamente su permanencia en dicha situación hasta, como máximo, los sesenta y cinco años, en los términos establecidos en la normativa vigente."
+      "La jubilación del personal estatutario y funcionario a los que les es de aplicación el presente Acuerdo se declarará de oficio a los sesenta y cinco años de edad, pudiendo prolongar voluntariamente su permanencia en dicha situación hasta, como máximo, los setenta años, en los términos establecidos en la normativa vigente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-condiciones-trabajo-osakidetza",
-    "explanation": "D.235/2007 Art. 20 (jubilación): 'La edad de jubilación forzosa será la de 65 años. No obstante, el personal podrá solicitar la prórroga de su permanencia en el servicio activo hasta un MÁXIMO DE 70 AÑOS de edad.' La edad ordinaria es 65 años y el límite máximo de prórroga es 70 años. Respuesta D.",
+    "explanation": "D.235/2007 Art. 20 (jubilación): 'La edad de jubilación forzosa será la de 65 años. No obstante, el personal podrá solicitar la prórroga de su permanencia en el servicio activo hasta un MÁXIMO DE 70 AÑOS de edad.' La edad ordinaria es 65 años y el límite máximo de prórroga es 70 años. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59
   },
   {
@@ -134,17 +134,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Con carácter general, salvo para el personal en sistema de turnos rotatorios y a excepción de lo que proceda en el ámbito de Atención Primaria acerca de la prestación de servicios los sábados, la jornada normalizada diaria será de 7,5 horas."
+      "Con carácter general, salvo para el personal en sistema de turnos rotatorios y a excepción de lo que proceda en el ámbito de Atención Primaria acerca de la prestación de servicios los sábados, la jornada normalizada diaria será de 6 horas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-condiciones-trabajo-osakidetza",
-    "explanation": "D.235/2007 Art. 27.3: 'Con carácter general, LA JORNADA NORMALIZADA DIARIA SERÁ DE 7 HORAS.' Este artículo fija expresamente la jornada diaria normalizada en 7 horas (no 8). Respuesta D.",
+    "explanation": "D.235/2007 Art. 27.3: 'Con carácter general, LA JORNADA NORMALIZADA DIARIA SERÁ DE 7 HORAS.' Este artículo fija expresamente la jornada diaria normalizada en 7 horas (no 8). Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59
   },
   {
@@ -171,17 +171,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "a) b) y c) son incorrectas."
+      "La jornada complementaria tendrá la condición y el tratamiento establecido para las horas extraordinarias."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-condiciones-trabajo-osakidetza",
-    "explanation": "D.235/2007 Art. 28.4: 'La jornada complementaria NO TENDRÁ, en ningún caso, la condición ni los efectos de las HORAS EXTRAORDINARIAS.' La jornada complementaria es una categoría específica del ámbito sanitario, distinta y separada del régimen de horas extraordinarias. Respuesta D.",
+    "explanation": "D.235/2007 Art. 28.4: 'La jornada complementaria NO TENDRÁ, en ningún caso, la condición ni los efectos de las HORAS EXTRAORDINARIAS.' La jornada complementaria es una categoría específica del ámbito sanitario, distinta y separada del régimen de horas extraordinarias. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59
   },
   {
@@ -208,17 +208,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "a) b) y c) son correctas."
+      "Para los que no alcancen el año de servicio la duración vacacional será proporcional al tiempo de servicio transcurrido desde la fecha de su ingreso o reingreso hasta el 31 de Diciembre del mismo año."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-condiciones-trabajo-osakidetza",
-    "explanation": "D.235/2007 regulación de vacaciones: a) Las vacaciones anuales son de 28 DÍAS LABORABLES [→ opción a: VERDAD]; b) Cuando no se haya completado el año, las vacaciones son PROPORCIONALES al tiempo trabajado [→ opción b: VERDAD]; c) Las vacaciones NO pueden ser COMPENSADAS ECONÓMICAMENTE (salvo extinción de la relación de servicio) [→ opción c: VERDAD]. Las tres afirmaciones son correctas. Respuesta D: a), b) y c) correctas.",
+    "explanation": "D.235/2007 regulación de vacaciones: a) Las vacaciones anuales son de 28 DÍAS LABORABLES [→ opción a: VERDAD]; b) Cuando no se haya completado el año, las vacaciones son PROPORCIONALES al tiempo trabajado [→ opción b: VERDAD]; c) Las vacaciones NO pueden ser COMPENSADAS ECONÓMICAMENTE (salvo extinción de la relación de servicio) [→ opción c: VERDAD]. Las tres afirmaciones son correctas. Respuesta D: a), b) y c) correctas.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59
   },
   {
@@ -319,17 +319,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "En los casos de operaciones quirúrgicas que no precisen hospitalización, tanto de cónyuge, compañero, hijo como de familiares hasta 2.º grado de consanguinidad o afinidad o de grado aún más lejano si mediara convivencia estable debidamente acreditada, el trabajador dispondrá de una licencia de dos semanas."
+      "En los casos de operaciones quirúrgicas que no precisen hospitalización, tanto de cónyuge, compañero, hijo como de familiares hasta 2.º grado de consanguinidad o afinidad o de grado aún más lejano si mediara convivencia estable debidamente acreditada, el trabajador dispondrá de una licencia de un día."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-condiciones-trabajo-osakidetza",
-    "explanation": "D.235/2007 Art. 47.2: Por intervención quirúrgica SIN HOSPITALIZACIÓN que precise reposo domiciliario, de familiar hasta primer grado de consanguinidad o afinidad: 1 DÍA. La clave es 'sin hospitalización' — si hubiera hospitalización se aplicaría el plazo del Art. 47.1. Respuesta D.",
+    "explanation": "D.235/2007 Art. 47.2: Por intervención quirúrgica SIN HOSPITALIZACIÓN que precise reposo domiciliario, de familiar hasta primer grado de consanguinidad o afinidad: 1 DÍA. La clave es 'sin hospitalización' — si hubiera hospitalización se aplicaría el plazo del Art. 47.1. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59
   },
   {
@@ -615,17 +615,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Supervisar las operaciones del Ente Público y presentar al Consejo de Administración los informes que considere oportunos."
+      "No tiene potestad para supervisar las operaciones del Ente Público."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 11
   },
   {
@@ -948,17 +948,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Dirigir e impulsar la investigación, docencia y formación en el seno de su organización."
+      "Dirigir e impulsar la investigación, docencia y formación en el seno de las Universidades y Centros de Formación Profesional privados."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta B.",
+    "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 21
   },
   {
@@ -1688,17 +1688,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios no retribuidos por las Administraciones Públicas."
+      "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-ebep-empleado-publico",
-    "explanation": "Art. 11.1 RDL 5/2015 EBEP: 'Es personal laboral el que, en virtud de contrato de trabajo formalizado POR ESCRITO, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios RETRIBUIDOS por las Administraciones Públicas.' Dos condiciones: contrato escrito (no verbal) + servicios retribuidos. Respuesta A.",
+    "explanation": "Art. 11.1 RDL 5/2015 EBEP: 'Es personal laboral el que, en virtud de contrato de trabajo formalizado POR ESCRITO, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios RETRIBUIDOS por las Administraciones Públicas.' Dos condiciones: contrato escrito (no verbal) + servicios retribuidos. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 4
   },
   {
@@ -1762,17 +1762,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Regular los procedimientos administrativos en las Administraciones Públicas."
+      "Regular los requisitos de validez y eficacia de los actos administrativos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-interesados-y-actos",
-    "explanation": "Art. 1.1 Ley 39/2015: 'Esta Ley tiene por objeto regular el procedimiento administrativo común de las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las AAPP, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.' El objeto principal es el PROCEDIMIENTO administrativo común. Respuesta A.",
+    "explanation": "Art. 1.1 Ley 39/2015: 'Esta Ley tiene por objeto regular el procedimiento administrativo común de las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las AAPP, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.' El objeto principal es el PROCEDIMIENTO administrativo común. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 81
   },
   {
@@ -1984,17 +1984,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Están obligados a relacionarse por correo postal certificado."
+      "Están obligados a relacionarse a través de medios electrónicos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-interesados-y-actos",
-    "explanation": "Art. 14.2(c) Ley 39/2015: 'En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: ... c) Los Notarios y Registradores de la Propiedad y Mercantiles.' Obligación expresa y sin excepciones. Respuesta C.",
+    "explanation": "Art. 14.2(c) Ley 39/2015: 'En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: ... c) Los Notarios y Registradores de la Propiedad y Mercantiles.' Obligación expresa y sin excepciones. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 87
   },
   {
@@ -4907,17 +4907,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Mantener y organizar los materiales de trabajo atendiendo principalmente a criterios de rapidez y funcionalidad."
+      "Colocar los objetos de forma estable sobre armarios, baldas o vitrinas y retirar aquellos que no sean necesarios"
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-prevencion-riesgos",
-    "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta D.",
+    "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 175
   },
   {
@@ -5610,17 +5610,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Las partes no alcancen acuerdo en el procedimiento informal."
+      "El trabajador lo solicite verbalmente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-protocolo-acoso-sexual-osaki",
-    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento formal): El procedimiento formal se iniciará cuando LAS PARTES NO ALCANCEN ACUERDO EN EL PROCEDIMIENTO INFORMAL, o cuando la gravedad de los hechos aconseje ir directamente a la vía formal. No requiere solo solicitud verbal (b), ni indicios penales (c), ni decisión unilateral del responsable (d). Respuesta A.",
+    "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento formal): El procedimiento formal se iniciará cuando LAS PARTES NO ALCANCEN ACUERDO EN EL PROCEDIMIENTO INFORMAL, o cuando la gravedad de los hechos aconseje ir directamente a la vía formal. No requiere solo solicitud verbal (b), ni indicios penales (c), ni decisión unilateral del responsable (d). Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 188
   },
   {
@@ -5869,17 +5869,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Es un aspecto que identifica los Puestos Funcionales."
+      "a) b) y c) son incorrectas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-puestos-funcionales",
-    "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta A.",
+    "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 28
   },
   {
@@ -7238,17 +7238,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Las subvenciones y ayudas públicas concedidas con indicación de su importe, objetivo o finalidad y beneficiarios."
+      "Las subvenciones y ayudas públicas concedidas con indicación de su importe, objetivo o finalidad, pero sin indicar quiénes son los beneficiarios."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-transparencia-y-buen-gobierno",
-    "explanation": "Art. 8.1.c Ley 19/2013: 'Las subvenciones y ayudas públicas concedidas con indicación de su IMPORTE, OBJETIVO O FINALIDAD y BENEFICIARIOS.' La opción a) excluye importe, objetivo y finalidad (FALSO). La opción b) excluye beneficiarios (FALSO). Respuesta C.",
+    "explanation": "Art. 8.1.c Ley 19/2013: 'Las subvenciones y ayudas públicas concedidas con indicación de su IMPORTE, OBJETIVO O FINALIDAD y BENEFICIARIOS.' La opción a) excluye importe, objetivo y finalidad (FALSO). La opción b) excluye beneficiarios (FALSO). Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 51
   },
   {
@@ -7275,17 +7275,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Los presupuestos, con descripción de las principales partidas presupuestarias e información actualizada y comprensible sobre su estado de ejecución y sobre el cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas."
+      "Los presupuestos sin la descripción de las principales partidas presupuestarias e información actualizada y comprensible sobre su estado de ejecución y sobre el cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-transparencia-y-buen-gobierno",
-    "explanation": "Art. 8.1.d Ley 19/2013: 'Los PRESUPUESTOS, con descripción de las principales partidas presupuestarias e INFORMACIÓN ACTUALIZADA Y COMPRENSIBLE sobre su estado de ejecución y sobre el cumplimiento de los OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA de las Administraciones Públicas.' La opción a) reproduce literalmente el artículo. Respuesta A.",
+    "explanation": "Art. 8.1.d Ley 19/2013: 'Los PRESUPUESTOS, con descripción de las principales partidas presupuestarias e INFORMACIÓN ACTUALIZADA Y COMPRENSIBLE sobre su estado de ejecución y sobre el cumplimiento de los OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA de las Administraciones Públicas.' La opción a) reproduce literalmente el artículo. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 51
   },
   {

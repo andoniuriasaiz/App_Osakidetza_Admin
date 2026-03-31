@@ -23,17 +23,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Regular los procedimientos administrativos en las Administraciones Públicas."
+      "Regular los requisitos de validez y eficacia de los actos administrativos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-interesados-y-actos",
-    "explanation": "Art. 1.1 Ley 39/2015: 'Esta Ley tiene por objeto regular el procedimiento administrativo común de las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las AAPP, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.' El objeto principal es el PROCEDIMIENTO administrativo común. Respuesta A.",
+    "explanation": "Art. 1.1 Ley 39/2015: 'Esta Ley tiene por objeto regular el procedimiento administrativo común de las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las AAPP, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.' El objeto principal es el PROCEDIMIENTO administrativo común. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 81
   },
   {
@@ -245,17 +245,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Están obligados a relacionarse por correo postal certificado."
+      "Están obligados a relacionarse a través de medios electrónicos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-interesados-y-actos",
-    "explanation": "Art. 14.2(c) Ley 39/2015: 'En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: ... c) Los Notarios y Registradores de la Propiedad y Mercantiles.' Obligación expresa y sin excepciones. Respuesta C.",
+    "explanation": "Art. 14.2(c) Ley 39/2015: 'En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: ... c) Los Notarios y Registradores de la Propiedad y Mercantiles.' Obligación expresa y sin excepciones. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 87
   },
   {

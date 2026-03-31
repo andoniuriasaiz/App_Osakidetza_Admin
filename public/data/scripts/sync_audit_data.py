@@ -7,7 +7,7 @@ BASE_DIR = "/Users/andoniuria/Library/CloudStorage/GoogleDrive-uriasaiz@gmail.co
 CLEAN_JSON = os.path.join(BASE_DIR, "public/data/analisis/2026-03-31/CLEAN_CONSENSUS.json")
 KAIXO_FILE = os.path.join(BASE_DIR, "public/data/analisis/2026-03-31/raw/kaixo_common_a2.json")
 OSASUN_FILE = os.path.join(BASE_DIR, "public/data/analisis/2026-03-31/raw/osasun_nurse.json")
-MODULES_PATTERN = os.path.join(BASE_DIR, "public/data/tec-comun-t*.json")
+DATA_DIR = os.path.join(BASE_DIR, "public/data")
 
 def cleanup_answer(ans):
     if ans is None or ans == "?": return "?"
@@ -52,71 +52,54 @@ def update_audit_data():
     with open(CLEAN_JSON, 'r', encoding='utf-8') as f:
         clean_data = json.load(f)
     
-    print("Loading consensus sources for A2...")
-    with open(KAIXO_FILE, 'r', encoding='utf-8') as f:
-        kaixo = json.load(f)
-    with open(OSASUN_FILE, 'r', encoding='utf-8') as f:
-        osasun = json.load(f)
+    print("Building MASTER App Dictionary from study modules...")
+    master_app = {} # id -> answer_letter
+    json_files = glob.glob(os.path.join(DATA_DIR, "*.json"))
+    for fpath in json_files:
+        try:
+            with open(fpath, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+        except: continue
+        if not isinstance(data, list): continue
         
-    # 1. SPECIAL CASE: Regenerate A2 from modules (preserves our 100% mapping)
-    print("Regenerating A2 category from modules...")
-    app_qs = []
-    module_files = sorted(glob.glob(MODULES_PATTERN))
-    for fpath in module_files:
-        with open(fpath, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            for q in data:
-                app_qs.append(q)
+        for q in data:
+            q_id = q.get('id')
+            if not q_id: continue
+            
+            # Answer extraction
+            app_raw_nums = q.get('correctAnswerNums', [])
+            app_ans = "?"
+            if app_raw_nums and len(app_raw_nums) > 0:
+                app_ans = cleanup_answer(app_raw_nums[0])
+            if app_ans == "?" and q.get('answer'):
+                app_ans = cleanup_answer(q.get('answer'))
+            
+            master_app[q_id] = app_ans
     
-    new_a2 = []
-    for q in app_qs:
-        off_id = q.get('officialId')
-        if off_id is None: continue
-        str_id = str(off_id)
-        
-        k_ans = cleanup_answer(kaixo.get(str_id))
-        o_ans = cleanup_answer(osasun.get(str_id))
-        
-        app_raw_nums = q.get('correctAnswerNums', [])
-        app_ans = "?"
-        if app_raw_nums and len(app_raw_nums) > 0:
-            app_ans = cleanup_answer(app_raw_nums[0])
-        if app_ans == "?" and q.get('answer'):
-            app_ans = cleanup_answer(q.get('answer'))
-            
-        consensus = get_consensus(app_ans, k_ans, o_ans)
-            
-        new_a2.append({
-            "id": q.get('id'),
-            "officialId": off_id,
-            "text": q.get('question'),
-            "app": app_ans,
-            "k": k_ans,
-            "o": o_ans,
-            "consensus": consensus
-        })
-    clean_data["A2"] = new_a2
-    print(f"Updated A2 with {len(new_a2)} questions.")
-
-    # 2. GENERAL CASE: Update consensus for ALL other categories (C2, ADM, AUX, etc.)
-    print("Applying universal consensus logic to all other categories...")
-    for cat in clean_data:
-        if cat == "A2": continue
-        
-        print(f"Processing category: {cat}...")
+    print(f"Master Dictionary loaded with {len(master_app)} answers.")
+    
+    # Refresh all categories in CLEAN_CONSENSUS
+    print("Refreshing audit records for all categories...")
+    updated_count = 0
+    categories = list(clean_data.keys())
+    
+    for cat in categories:
+        print(f"Updating category {cat}...")
         for q in clean_data[cat]:
-            # Use existing fields in the JSON
-            a_ans = cleanup_answer(q.get('app'))
-            k_ans = cleanup_answer(q.get('k'))
-            o_ans = cleanup_answer(q.get('o'))
+            q_id = q.get('id')
+            if q_id in master_app:
+                # Refresh APP answer from current module state
+                current_app_ans = master_app[q_id]
+                q['app'] = current_app_ans
+                
+                # Re-calculate consensus
+                q['consensus'] = get_consensus(current_app_ans, q.get('k', '?'), q.get('o', '?'))
+                updated_count += 1
             
-            # Re-calculate consensus
-            q['consensus'] = get_consensus(a_ans, k_ans, o_ans)
-            
-    # Save the unified result
+    # Save the updated result
     with open(CLEAN_JSON, 'w', encoding='utf-8') as f:
         json.dump(clean_data, f, ensure_ascii=False, indent=2)
-    print("Saved updated CLEAN_CONSENSUS.json globally.")
+    print(f"Saved updated CLEAN_CONSENSUS.json. Total records refreshed: {updated_count}")
 
 if __name__ == "__main__":
     update_audit_data()
