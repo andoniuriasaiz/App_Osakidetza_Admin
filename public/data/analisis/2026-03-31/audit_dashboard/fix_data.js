@@ -74,12 +74,26 @@ for (const cat in data) {
         
         summary[status]++;
         summary.categories[cat][status]++;
-        questions.push({ ...q, category: cat, status, isRedFlag, isSoloApp, isSoloKaixo, isSoloOsa, isTripleDispute, veracityScore, veracityLevel });
+        
+        // Review Logic (Priority: Kaixo)
+        const isReview = !!(a && k && a !== '?' && k !== '?' && a !== k);
+        if (isReview) {
+            summary.REVISAR = (summary.REVISAR || 0) + 1;
+            summary.categories[cat].REVISAR = (summary.categories[cat].REVISAR || 0) + 1;
+        }
+
+        questions.push({ ...q, category: cat, status, isRedFlag, isSoloApp, isSoloKaixo, isSoloOsa, isTripleDispute, isReview, veracityScore, veracityLevel });
     });
 }
 summary.sourceAccuracy.app = Math.round((summary.sourceAccuracy.app / summary.total) * 100);
 summary.sourceAccuracy.kaixo = Math.round((summary.sourceAccuracy.kaixo / summary.total) * 100);
 summary.sourceAccuracy.osasuntest = Math.round((summary.sourceAccuracy.osasuntest / summary.total) * 100);
 
+// Export Data.js
 fs.writeFileSync(outputPath, 'const CONSENSUS_DATA = ' + JSON.stringify({ summary, questions }) + ';');
-console.log('Generated data.js with Veracity Metrics');
+
+// Export Review stand-alone
+const reviewData = questions.filter(q => q.isReview || q.isTripleDispute);
+fs.writeFileSync('/Users/andoniuria/Library/CloudStorage/GoogleDrive-uriasaiz@gmail.com/Mi unidad/40-49_Trabajo/44_Oposiciones/04_OSAKIDETZA/60_HERRAMIENTAS/App_Osakidetza_Admin/public/data/analisis/2026-03-31/review_audit.json', JSON.stringify(reviewData, null, 2));
+
+console.log('Generated data.js and review_audit.json with Kaixo-Centric Review Logic');

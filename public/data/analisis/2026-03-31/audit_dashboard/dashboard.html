@@ -60,6 +60,7 @@
         .tab-risk.active { background: var(--accent-red); border-color: var(--accent-red); box-shadow: 0 4px 12px rgba(244, 63, 94, 0.3); }
         .tab-triple.active { background: var(--accent-pink); border-color: var(--accent-pink); box-shadow: 0 4px 12px rgba(217, 70, 239, 0.3); }
         .tab-solo.active { background: var(--accent-cyan); border-color: var(--accent-cyan); box-shadow: 0 4px 12px rgba(6, 182, 212, 0.3); }
+        .tab-review.active { background: var(--accent-orange); border-color: var(--accent-orange); box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3); }
 
         .table-area { background: var(--card-bg); border-radius: 1rem; border: 1px solid var(--border); overflow: auto; max-height: 60vh; position: relative; }
         table { width: 100%; border-collapse: collapse; text-align: left; }
@@ -69,6 +70,7 @@
         tr:hover { background: rgba(255,255,255,0.02); }
         .row-red { background: rgba(244, 63, 94, 0.08) !important; }
         .row-pink { background: rgba(217, 70, 239, 0.08) !important; }
+        .row-review { border-left: 4px solid var(--accent-orange) !important; background: rgba(245, 158, 11, 0.04) !important; }
 
         .veracity-badge { display: inline-flex; align-items: center; gap: 0.4rem; padding: 2px 8px; border-radius: 12px; font-size: 9px; font-weight: 800; text-transform: uppercase; color: white; }
         .v-extrema { background: var(--accent-green); }
@@ -159,6 +161,7 @@
                         <button class="tab active" data-filter="risk" data-value="all">Todos</button>
                         <button class="tab tab-risk" data-filter="risk" data-value="isRedFlag">Red Flags</button>
                         <button class="tab tab-triple" data-filter="risk" data-value="isTripleDispute">Triple Disputa</button>
+                        <button class="tab tab-review" data-filter="risk" data-value="isReview">⚠️ A REVISAR</button>
                         <button class="tab tab-solo" data-filter="risk" data-value="isSoloKaixo">Solo Kaixo</button>
                         <button class="tab tab-solo" data-filter="risk" data-value="isSoloOsa">Solo Osa.T</button>
                         <button class="tab tab-solo" data-filter="risk" data-value="isSoloApp">Solo App</button>
@@ -208,6 +211,7 @@
             <div class="stat-card level-baja"><div class="stat-label">25% Riesgo</div><div class="stat-value">${vStats.baja}</div></div>
             <div class="stat-card level-critica"><div class="stat-label">0% Crítica</div><div class="stat-value">${vStats.critica}</div></div>
             <div class="stat-card" style="border-left-color: var(--accent-pink)"><div class="stat-label">Triple/Flags</div><div class="stat-value">${summary.RED_FLAG + summary.TRIPLE_DISPUTE}</div></div>
+            <div class="stat-card" style="border-left-color: var(--accent-orange)"><div class="stat-label">A REVISAR</div><div class="stat-value">${summary.REVISAR || 0}</div></div>
         `;
 
         const state = {
@@ -238,7 +242,7 @@
 
             tBody.innerHTML = filtered.slice(0, 200).map(q => {
                 const vClass = `v-${q.veracityLevel}`;
-                const rowClass = q.isRedFlag ? 'row-red' : (q.isTripleDispute ? 'row-pink' : '');
+                const rowClass = (q.isRedFlag ? 'row-red ' : '') + (q.isTripleDispute ? 'row-pink ' : '') + (q.isReview ? 'row-review ' : '');
                 
                 return `
                     <tr class="${rowClass}">
