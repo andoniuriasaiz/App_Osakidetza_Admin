@@ -60,17 +60,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Suspensión temporal de actividades."
+      "Embargo definitivo de rentas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-procedimiento",
-    "explanation": "Art. 56.1 Ley 39/2015: Las medidas provisionales que puede adoptar el órgano incluyen: 'c) Suspensión temporal de actividades.' El embargo definitivo no es provisional; la pérdida de condición de funcionario y las sanciones son medidas definitivas que no pueden anticiparse mediante cautelar. La suspensión temporal de actividades sí es una medida cautelar clásica. Respuesta B.",
+    "explanation": "Art. 56.1 Ley 39/2015: Las medidas provisionales que puede adoptar el órgano incluyen: 'c) Suspensión temporal de actividades.' El embargo definitivo no es provisional; la pérdida de condición de funcionario y las sanciones son medidas definitivas que no pueden anticiparse mediante cautelar. La suspensión temporal de actividades sí es una medida cautelar clásica. Respuesta A.",
     "originalId": 97
   },
   {
@@ -134,17 +134,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario."
+      "Imponer a los infractores una sanción no pecuniaria y exigir al denunciante la restitución del daño."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-procedimiento",
-    "explanation": "Art. 62.3 Ley 39/2015: 'El órgano competente para resolver, cuando el denunciante haya participado en la comisión de una infracción y existan otros infractores, PODRÁ EXIMIR al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario.' Posibilidad de exención para incentivar la denuncia. Respuesta C.",
+    "explanation": "Art. 62.3 Ley 39/2015: 'El órgano competente para resolver, cuando el denunciante haya participado en la comisión de una infracción y existan otros infractores, PODRÁ EXIMIR al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario.' Posibilidad de exención para incentivar la denuncia. Respuesta D.",
     "originalId": 99
   },
   {

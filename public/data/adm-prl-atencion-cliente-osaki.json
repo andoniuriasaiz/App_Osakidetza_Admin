@@ -615,17 +615,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "No producir lesiones, pero poder ocasionar daños materiales o ambientales."
+      "Producir daños exclusivamente materiales."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-atencion-cliente-osaki",
-    "explanation": "Carpeta Roja de Prevención (definición de incidente): Un INCIDENTE es un suceso que NO PRODUCE LESIONES, pero SÍ PUEDE OCASIONAR DAÑOS MATERIALES O AMBIENTALES. Se diferencia del accidente (que produce lesión) y del suceso sin consecuencias. No siempre produce baja (a), no son exclusivamente materiales (b), y sí puede haber daños materiales (c incorrecta). Respuesta D.",
+    "explanation": "Carpeta Roja de Prevención (definición de incidente): Un INCIDENTE es un suceso que NO PRODUCE LESIONES, pero SÍ PUEDE OCASIONAR DAÑOS MATERIALES O AMBIENTALES. Se diferencia del accidente (que produce lesión) y del suceso sin consecuencias. No siempre produce baja (a), no son exclusivamente materiales (b), y sí puede haber daños materiales (c incorrecta). Respuesta B.",
     "originalId": 193
   },
   {

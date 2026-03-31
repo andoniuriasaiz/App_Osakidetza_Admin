@@ -97,17 +97,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "No impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo establecido."
+      "Dará lugar a la nulidad del acto de que se trate, sin que exista la posibilidad de que se subsane el defecto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-interesados-y-actos",
-    "explanation": "Art. 5.4 Ley 39/2015: 'La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo de diez días hábiles.' Se aplica el principio de subsanación: el defecto no anula el acto si se corrige en plazo. Respuesta A.",
+    "explanation": "Art. 5.4 Ley 39/2015: 'La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo de diez días hábiles.' Se aplica el principio de subsanación: el defecto no anula el acto si se corrige en plazo. Respuesta D.",
     "originalId": 83
   },
   {
@@ -245,17 +245,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Están obligados a relacionarse a través de medios electrónicos."
+      "Están obligados a relacionarse por correo postal certificado."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-interesados-y-actos",
-    "explanation": "Art. 14.2(c) Ley 39/2015: 'En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: ... c) Los Notarios y Registradores de la Propiedad y Mercantiles.' Obligación expresa y sin excepciones. Respuesta D.",
+    "explanation": "Art. 14.2(c) Ley 39/2015: 'En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: ... c) Los Notarios y Registradores de la Propiedad y Mercantiles.' Obligación expresa y sin excepciones. Respuesta C.",
     "originalId": 87
   },
   {
@@ -282,17 +282,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Debe incorporar una referencia temporal del momento en el que ha sido emitido."
+      "Debe contener un código generado electrónicamente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-interesados-y-actos",
-    "explanation": "Art. 26.2 Ley 39/2015: 'Para ser considerados válidos, los documentos electrónicos administrativos deberán: ... c) Incorporar una referencia temporal del momento en que han sido emitidos.' De entre las opciones, la referencia temporal es el requisito de validez que recoge literalmente el artículo. Respuesta B.",
+    "explanation": "Art. 26.2 Ley 39/2015: 'Para ser considerados válidos, los documentos electrónicos administrativos deberán: ... c) Incorporar una referencia temporal del momento en que han sido emitidos.' De entre las opciones, la referencia temporal es el requisito de validez que recoge literalmente el artículo. Respuesta A.",
     "originalId": 89
   },
   {
@@ -430,17 +430,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Todos los días del año durante las veinticuatro horas."
+      "Todos los días hábiles durante ocho horas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-lpac-interesados-y-actos",
-    "explanation": "Art. 16.4 Ley 39/2015: 'Los registros electrónicos de todas y cada una de las Administraciones... permitirán la presentación de documentos TODOS LOS DÍAS DEL AÑO DURANTE LAS VEINTICUATRO HORAS.' Este es uno de los principios clave de la Administración electrónica: disponibilidad 24/7/365. Respuesta D.",
+    "explanation": "Art. 16.4 Ley 39/2015: 'Los registros electrónicos de todas y cada una de las Administraciones... permitirán la presentación de documentos TODOS LOS DÍAS DEL AÑO DURANTE LAS VEINTICUATRO HORAS.' Este es uno de los principios clave de la Administración electrónica: disponibilidad 24/7/365. Respuesta A.",
     "originalId": 93
   },
   {

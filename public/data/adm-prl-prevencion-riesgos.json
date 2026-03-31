@@ -134,17 +134,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Todas las respuestas anteriores son correctas."
+      "Recibir formación en materia preventiva."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-prevencion-riesgos",
-    "explanation": "Art. 14.1 + Art. 18 + Art. 19 Ley 31/1995: Los trabajadores tienen derecho a: a) una PROTECCIÓN EFICAZ en seguridad y salud (Art. 14.1); b) INFORMACIÓN sobre los riesgos para su seguridad y salud (Art. 18); c) FORMACIÓN en materia preventiva (Art. 19). Los tres derechos están reconocidos expresamente. Respuesta D.",
+    "explanation": "Art. 14.1 + Art. 18 + Art. 19 Ley 31/1995: Los trabajadores tienen derecho a: a) una PROTECCIÓN EFICAZ en seguridad y salud (Art. 14.1); b) INFORMACIÓN sobre los riesgos para su seguridad y salud (Art. 18); c) FORMACIÓN en materia preventiva (Art. 19). Los tres derechos están reconocidos expresamente. Respuesta C.",
     "originalId": 158
   },
   {
@@ -319,17 +319,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Colocar los objetos de forma estable sobre armarios, baldas o vitrinas y retirar aquellos que no sean necesarios"
+      "Mantener y organizar los materiales de trabajo atendiendo principalmente a criterios de rapidez y funcionalidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-prevencion-riesgos",
-    "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta B.",
+    "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta D.",
     "originalId": 175
   },
   {
@@ -467,17 +467,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "En función de los riesgos inherentes al trabajo."
+      "Únicamente a solicitud del trabajador."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-prl-prevencion-riesgos",
-    "explanation": "Art. 22.1 Ley 31/1995: 'El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud EN FUNCIÓN DE LOS RIESGOS INHERENTES AL TRABAJO.' Con carácter VOLUNTARIO para el trabajador (salvo excepciones). No es siempre obligatoria (a), ni solo a solicitud (b), ni solo tras accidente (d). Respuesta C.",
+    "explanation": "Art. 22.1 Ley 31/1995: 'El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud EN FUNCIÓN DE LOS RIESGOS INHERENTES AL TRABAJO.' Con carácter VOLUNTARIO para el trabajador (salvo excepciones). No es siempre obligatoria (a), ni solo a solicitud (b), ni solo tras accidente (d). Respuesta B.",
     "originalId": 190
   },
   {

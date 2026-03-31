@@ -60,17 +60,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes promoviendo la mejora continua de los niveles de información, la personalización en la atención y la calidad de la misma."
+      "Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes promoviendo la mejora continua de los niveles de información, siempre que dicha atención no sea personalizada."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "D.255/1997 Art. 3.b (Fines): 'Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes de carácter instrumental o complementario, promoviendo especialmente la mejora contínua de los niveles de información, la personalización en la atención y la calidad de la misma.' La opción A incluye 'sin tener en cuenta la calidad' (FALSO) y la B dice 'siempre que no sea personalizada' (FALSO). Solo la C reproduce correctamente el fin. Respuesta C.",
+    "explanation": "D.255/1997 Art. 3.b (Fines): 'Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes de carácter instrumental o complementario, promoviendo especialmente la mejora contínua de los niveles de información, la personalización en la atención y la calidad de la misma.' La opción A incluye 'sin tener en cuenta la calidad' (FALSO) y la B dice 'siempre que no sea personalizada' (FALSO). Solo la C reproduce correctamente el fin. Respuesta B.",
     "originalId": 7
   },
   {
@@ -97,17 +97,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Promover la creación de empresas privadas."
+      "Promover la formación y actualización de su personal no sanitario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "D.255/1997 Art. 3 enumera los fines de Osakidetza: c) 'Promover la docencia en ciencias de la salud' [→ opción a: TRUE]; d) 'Promover la formación y actualización de los conocimientos... de su personal sanitario y no sanitario' [→ opciones b y c: TRUE]. 'Promover la creación de empresas privadas' NO aparece en ningún fin del Art. 3; es totalmente ajeno al objeto sanitario público. Respuesta D: la opción incorrecta.",
+    "explanation": "D.255/1997 Art. 3 enumera los fines de Osakidetza: c) 'Promover la docencia en ciencias de la salud' [→ opción a: TRUE]; d) 'Promover la formación y actualización de los conocimientos... de su personal sanitario y no sanitario' [→ opciones b y c: TRUE]. 'Promover la creación de empresas privadas' NO aparece en ningún fin del Art. 3; es totalmente ajeno al objeto sanitario público. Respuesta C: la opción incorrecta.",
     "originalId": 8
   },
   {
@@ -171,17 +171,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Presidente del Gobierno."
+      "Consejero de Sanidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
     "originalId": 10
   },
   {
@@ -208,17 +208,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "No tiene potestad para supervisar las operaciones del Ente Público."
+      "Supervisar las operaciones del Ente Público y presentar al Consejo de Administración los informes que considere oportunos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
     "originalId": 11
   },
   {
@@ -282,17 +282,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Presidente del Ente Público y el Lehendakari."
+      "Presidente del Ente Público y cinco miembros en representación de la Administración de la Comunidad Autónoma."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta C.",
     "originalId": 13
   },
   {
@@ -319,17 +319,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "a) b) y c) son correctas."
+      "Aprobar la propuesta de Presupuestos, Estados Financieros Previsionales y Memoria anual de actividades del Ente Público."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
+    "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
     "originalId": 15
   },
   {
@@ -393,17 +393,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "a) b) y c) son correctas."
+      "Suministrar servicios comunes de asesoramiento y apoyo técnico."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "D.255/1997 Art. 12 (Facultades organización central): 1. 'Establecer las reglas generales sobre representación, comunicación e imagen oficial' [→ opción a]; 2. 'Elaborar el Plan Estratégico del Ente Público' [→ opción b]; 3. 'Suministrar servicios comunes de asesoramiento y apoyo técnico' [→ opción c]. Las tres son funciones expresas de la organización central. Respuesta D: a)+b)+c) correctas.",
+    "explanation": "D.255/1997 Art. 12 (Facultades organización central): 1. 'Establecer las reglas generales sobre representación, comunicación e imagen oficial' [→ opción a]; 2. 'Elaborar el Plan Estratégico del Ente Público' [→ opción b]; 3. 'Suministrar servicios comunes de asesoramiento y apoyo técnico' [→ opción c]. Las tres son funciones expresas de la organización central. Respuesta C: a)+b)+c) correctas.",
     "originalId": 17
   },
   {
@@ -430,17 +430,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Elaborar el Plan estratégico del Ente Público."
+      "Supervisar, controlar y evaluar las políticas de personal del Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "D.255/1997 Art. 12.5 (materia de gestión de RRHH) enumera: c) Supervisar, controlar y evaluar políticas de personal [→ opción c: pertenece]; d) Dirigir el registro de personal [→ opción a: pertenece]; d) Gestionar procesos de selección y provisión [→ opción d: pertenece]. 'Elaborar el Plan Estratégico' está en Art. 12.2 (función general corporativa), NO en el apartado específico de RRHH (Art. 12.5). Respuesta B.",
+    "explanation": "D.255/1997 Art. 12.5 (materia de gestión de RRHH) enumera: c) Supervisar, controlar y evaluar políticas de personal [→ opción c: pertenece]; d) Dirigir el registro de personal [→ opción a: pertenece]; d) Gestionar procesos de selección y provisión [→ opción d: pertenece]. 'Elaborar el Plan Estratégico' está en Art. 12.2 (función general corporativa), NO en el apartado específico de RRHH (Art. 12.5). Respuesta C.",
     "originalId": 18
   },
   {
@@ -467,17 +467,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Corresponde a cada organización de servicios del Ente Público Osakidetza-Servicio vasco de salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios que tengan encomendada, quedando excluidas únicamente aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente."
+      "NO es responsabilidad de cada organización de servicios del Ente Público Osakidetza-Servicio vasco de salud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios que tengan encomendada, quedando excluidas únicamente aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "D.255/1997 Art. 14.1: 'Corresponde a cada organización de servicios del Ente Público... el ejercicio de TODAS las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tengan encomendada, quedando EXCLUIDAS ÚNICAMENTE aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente.' La opción D dice 'quedando incluidas' (inversión del texto). Respuesta A.",
+    "explanation": "D.255/1997 Art. 14.1: 'Corresponde a cada organización de servicios del Ente Público... el ejercicio de TODAS las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tengan encomendada, quedando EXCLUIDAS ÚNICAMENTE aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente.' La opción D dice 'quedando incluidas' (inversión del texto). Respuesta B.",
     "originalId": 19
   },
   {
@@ -541,17 +541,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Dirigir e impulsar la investigación, docencia y formación en el seno de las Universidades y Centros de Formación Profesional privados."
+      "Dirigir e impulsar la investigación, docencia y formación en el seno de su organización."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
-    "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta D.",
+    "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta B.",
     "originalId": 21
   },
   {

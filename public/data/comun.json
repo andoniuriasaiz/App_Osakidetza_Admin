@@ -23,17 +23,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Todo lo anterior."
+      "Tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, ya sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas, causado con ocasión de la prestación de tal asistencia o servicios, cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 2 Ley 44/2003: Para ejercer una profesión sanitaria son requisitos: la colegiación (cuando ley estatal la exija), la inexistencia de inhabilitación o suspensión, Y tener suscrito seguro de responsabilidad cuando se ejerza en asistencia sanitaria pública. Al tratarse de requisitos acumulativos, 'todo lo anterior' es la respuesta correcta. Respuesta D.",
+    "explanation": "Art. 2 Ley 44/2003: Para ejercer una profesión sanitaria son requisitos: la colegiación (cuando ley estatal la exija), la inexistencia de inhabilitación o suspensión, Y tener suscrito seguro de responsabilidad cuando se ejerza en asistencia sanitaria pública. Al tratarse de requisitos acumulativos, 'todo lo anterior' es la respuesta correcta. Respuesta C.",
     "originalId": 1
   },
   {
@@ -60,17 +60,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Se ha de tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas causado con ocasión de la prestación de tal asistencia o servicios cuando se ejerza la profesión en el ámbito de la asistencia sanitaria pública."
+      "Se ha de tener suscrito y vigente un seguro de responsabilidad, un aval u otra garantía financiera, sean de protección personal o colectiva, que cubra las indemnizaciones que se puedan derivar de la responsabilidad profesional por un eventual daño a las personas causado con ocasión de la prestación de tal asistencia o servicios cuando se ejerza la profesión en el ámbito de la asistencia sanitaria privada."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 2 Ley 44/2003: El seguro de responsabilidad se exige 'cuando se ejerza la profesión en el ámbito de la asistencia sanitaria PÚBLICA', no privada. La opción C es la única que recoge correctamente el ámbito público y acepta tanto seguro individual como aval u otra garantía financiera de protección colectiva. Respuesta C.",
+    "explanation": "Art. 2 Ley 44/2003: El seguro de responsabilidad se exige 'cuando se ejerza la profesión en el ámbito de la asistencia sanitaria PÚBLICA', no privada. La opción C es la única que recoge correctamente el ámbito público y acepta tanto seguro individual como aval u otra garantía financiera de protección colectiva. Respuesta B.",
     "originalId": 2
   },
   {
@@ -171,17 +171,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Ninguna de las anteriores es correcta."
+      "Tienen derecho a la libre elección del personal facultativo que debe atenderles, tanto si su ejercicio profesional se desarrolla en el sistema público como en el ámbito privado."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta D.",
+    "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta A.",
     "originalId": 5
   },
   {
@@ -245,17 +245,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Quede constancia, aunque no sea formal, de la renuncia."
+      "La renuncia se ejerza de acuerdo con procedimientos regulares."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5.1.c Ley 44/2003: El derecho a la renuncia requiere que NO conlleve desatención y que quede CONSTANCIA FORMAL. La opción C ('aunque no sea formal') es INCORRECTA. Respuesta A.",
+    "explanation": "Art. 5.1.c Ley 44/2003: El derecho a la renuncia requiere que NO conlleve desatención y que quede CONSTANCIA FORMAL. La opción C ('aunque no sea formal') es INCORRECTA. Respuesta B.",
     "originalId": 7
   },
   {
@@ -282,17 +282,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica."
+      "El Código Civil vigente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5.1.a Ley 44/2003: Las personas pacientes 'tienen derecho a recibir información sobre su proceso en los términos previstos en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente'. La remisión expresa es a la Ley 41/2002. Respuesta A.",
+    "explanation": "Art. 5.1.a Ley 44/2003: Las personas pacientes 'tienen derecho a recibir información sobre su proceso en los términos previstos en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente'. La remisión expresa es a la Ley 41/2002. Respuesta C.",
     "originalId": 8
   },
   {
@@ -393,17 +393,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Se articulará, preferentemente, de forma jerarquizada atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
+      "Se articulará de forma jerarquizada o colegiada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 9.1 Ley 44/2003: 'Cuando una actuación sanitaria se realice por un equipo de profesionales, se articulará de forma COLEGIADA o JERARQUIZADA, atendiendo a los criterios de conocimientos y competencia...'. La opción A dice 'preferentemente de forma jerarquizada', lo que es INCORRECTO — la ley no establece preferencia por la forma jerarquizada; son dos formas alternativas. Respuesta A.",
+    "explanation": "Art. 9.1 Ley 44/2003: 'Cuando una actuación sanitaria se realice por un equipo de profesionales, se articulará de forma COLEGIADA o JERARQUIZADA, atendiendo a los criterios de conocimientos y competencia...'. La opción A dice 'preferentemente de forma jerarquizada', lo que es INCORRECTO — la ley no establece preferencia por la forma jerarquizada; son dos formas alternativas. Respuesta B.",
     "originalId": 11
   },
   {
@@ -541,17 +541,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "La responsabilidad de un equipo de profesionales recaerá en aquellas personas integrantes que hayan adquirido las tareas y funciones que hayan causado la responsabilidad, siempre que las condiciones de la delegación se adecúen a lo establecido."
+      "La responsabilidad de la capacidad del personal profesional para realizar una correcta actuación, en las tareas y funciones que les sean encomendadas en el proceso de distribución del trabajo en equipo, recaerá sobre los centros e instituciones en los que desempeñen su actividad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta D.",
+    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta B.",
     "originalId": 15
   },
   {
@@ -615,17 +615,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "La realización de controles periódicos sobre la eficiencia del personal profesional sanitario."
+      "La cumplimentación por parte del personal profesional de la documentación asistencial, informativa o estadística que determine el centro."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 8 Ley 44/2003: La eficacia organizativa requiere: normas de funcionamiento interno escritas, definición de objetivos y funciones generales y específicas, cumplimentación de documentación asistencial. Los 'controles periódicos sobre la eficiencia del personal profesional sanitario' como requisito de eficacia organizativa NO aparecen en este artículo. Respuesta D.",
+    "explanation": "Art. 8 Ley 44/2003: La eficacia organizativa requiere: normas de funcionamiento interno escritas, definición de objetivos y funciones generales y específicas, cumplimentación de documentación asistencial. Los 'controles periódicos sobre la eficiencia del personal profesional sanitario' como requisito de eficacia organizativa NO aparecen en este artículo. Respuesta C.",
     "originalId": 18
   },
   {
@@ -652,17 +652,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Los centros sanitarios acreditados para la formación especializada deberán contar con jefaturas de estudios, coordinación docente y personal tutor de la formación que resulten adecuados en función de su capacidad docente, pero no con una comisión de docencia."
+      "Los centros sanitarios acreditados para la formación especializada deberán contar con jefaturas de estudios y con la coordinación docente que resulten adecuados en función de su capacidad docente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta D.",
+    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta B.",
     "originalId": 19
   },
   {
@@ -763,17 +763,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "A los servicios sanitarios de financiación pública y a los privados, en los mismos términos."
+      "A los servicios sanitarios de financiación pública. También a los privados en lo que se refiere al control de las actividades de salud pública y en materia de garantías de información, seguridad y calidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 14 Ley 16/2003: La atención sociosanitaria comprende el conjunto de cuidados destinados a aquellos enfermos, generalmente crónicos, que por sus especiales características pueden beneficiarse de la actuación simultánea y sinergética de los servicios sanitarios y sociales. Respuesta A.",
+    "explanation": "Art. 14 Ley 16/2003: La atención sociosanitaria comprende el conjunto de cuidados destinados a aquellos enfermos, generalmente crónicos, que por sus especiales características pueden beneficiarse de la actuación simultánea y sinergética de los servicios sanitarios y sociales. Respuesta B.",
     "originalId": 21
   },
   {
@@ -1022,17 +1022,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, estando sujetas a siempre a reembolso por parte de la persona usuaria."
+      "Todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, estando sujetas a aportación y/o reembolso por parte de la persona usuaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta A.",
     "originalId": 28
   },
   {
@@ -1133,17 +1133,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "La atención a la salud bucodental."
+      "Ninguna de las respuestas anteriores es correcta."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta A.",
+    "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta D.",
     "originalId": 31
   },
   {
@@ -1170,17 +1170,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Es preceptivo el informe favorable de las sociedades científicas implicadas, en relación con la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo."
+      "Se contará con la participación de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud, en la evaluación de la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta B.",
     "originalId": 32
   },
   {
@@ -1355,17 +1355,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "La acreditación de formación continuada a lo largo del desempeño de su carrera profesional."
+      "La aptitud del personal profesional sanitario para integrar y aplicar los conocimientos, habilidades y actitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le plantean."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta A.",
+    "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta C.",
     "originalId": 37
   },
   {
@@ -1540,17 +1540,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Establecer las bases reguladoras de la relación funcionarial del personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud."
+      "Establecer las bases reguladoras de la relación funcionarial especial del personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t03",
-    "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
+    "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta A.",
     "originalId": 41
   },
   {
@@ -1577,17 +1577,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Sometimiento pleno a la ley y el derecho."
+      "Igualdad, mérito, capacidad y promoción en el acceso a la condición de personal estatutario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t03",
-    "explanation": "Art. 2 Ley 55/2003: Los principios y criterios son: igualdad, mérito, capacidad y publicidad (no solo 'sometimiento pleno a ley y derecho' como principio rector de la ordenación). Los demás principios mencionados (integración en el régimen organizativo, coordinación entre administraciones) SÍ están. El 'sometimiento pleno a la ley y el derecho' es un principio general pero no de los específicamente enumerados en la ordenación del régimen estatutario. Respuesta A.",
+    "explanation": "Art. 2 Ley 55/2003: Los principios y criterios son: igualdad, mérito, capacidad y publicidad (no solo 'sometimiento pleno a ley y derecho' como principio rector de la ordenación). Los demás principios mencionados (integración en el régimen organizativo, coordinación entre administraciones) SÍ están. El 'sometimiento pleno a la ley y el derecho' es un principio general pero no de los específicamente enumerados en la ordenación del régimen estatutario. Respuesta B.",
     "originalId": 42
   },
   {
@@ -1799,17 +1799,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "La evaluación del personal estatutario a efectos de determinación de una parte de la retribuciones complementarias se establecerá a través de procedimientos fundados en los principios igualdad, objetividad y transparencia."
+      "Todas las respuestas son correctas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t03",
-    "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta B.",
+    "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta D.",
     "originalId": 49
   },
   {
@@ -1984,17 +1984,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Mínima de ocho horas e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural."
+      "Mínima de siete horas e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t03",
-    "explanation": "Art. 57 Ley 55/2003: 'El período nocturno tendrá una duración MÍNIMA DE OCHO HORAS e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural.' Respuesta B.",
+    "explanation": "Art. 57 Ley 55/2003: 'El período nocturno tendrá una duración MÍNIMA DE OCHO HORAS e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural.' Respuesta A.",
     "originalId": 54
   },
   {
@@ -2021,17 +2021,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Podrá superarse la duración máxima conjunta de la jornada ordinaria y de la jornada complementaria siempre previa oferta expresa del centro sanitario."
+      "Para superarse la duración máxima conjunta de la jornada ordinaria y la jornada complementaria, será suficiente con justificar por parte del centro sanitario que existen razones organizativas o asistenciales que así lo justifiquen."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t03",
-    "explanation": "Art. 37 Ley 55/2003: Las comisiones de servicio pueden otorgarse, con carácter voluntario o forzoso, por un plazo de hasta un año, prorrogable por otro más. El personal en comisión de servicio percibe las retribuciones correspondientes a su plaza de origen más las indemnizaciones que correspondan. Respuesta C.",
+    "explanation": "Art. 37 Ley 55/2003: Las comisiones de servicio pueden otorgarse, con carácter voluntario o forzoso, por un plazo de hasta un año, prorrogable por otro más. El personal en comisión de servicio percibe las retribuciones correspondientes a su plaza de origen más las indemnizaciones que correspondan. Respuesta A.",
     "originalId": 55
   },
   {
@@ -2169,17 +2169,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Solo podrá ser sustituido por una compensación económica el período vacacional anual mediante la programación funcional de los centros, cuando así lo aconsejen razones organizativas."
+      "Anualmente, el personal tendrá derecho a una vacación retribuida cuya duración no será inferior a 30 días naturales, o al tiempo que proporcionalmente corresponda en función del tiempo de servicios."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t03",
-    "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
+    "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta D.",
     "originalId": 59
   },
   {
@@ -2280,17 +2280,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "No, porque se rige por normativa específica exclusivamente."
+      "Sí, como personal al servicio de las Administraciones Públicas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t03",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.",
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 296
   },
   {
@@ -2317,17 +2317,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "La designación de la tutoría de la investigación."
+      "El establecimiento de sistemas específicos de formación de personal investigador durante el período inmediatamente anterior a la obtención del título de especialista."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 85 Ley 8/1997: Los convenios con el Instituto de Salud Carlos III y otros centros de investigación se formalizarán para: desarrollo de programas de investigación, dotación de plazas vinculadas de investigación, y formación de personal investigador. La 'designación de la tutoría de la investigación' NO aparece como finalidad de estos convenios. Respuesta B.",
+    "explanation": "Art. 85 Ley 8/1997: Los convenios con el Instituto de Salud Carlos III y otros centros de investigación se formalizarán para: desarrollo de programas de investigación, dotación de plazas vinculadas de investigación, y formación de personal investigador. La 'designación de la tutoría de la investigación' NO aparece como finalidad de estos convenios. Respuesta D.",
     "originalId": 16
   },
   {
@@ -3020,17 +3020,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "El Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de ente público de derecho público"
+      "El Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de ente público de derecho privado o público."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta B.",
+    "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta A.",
     "originalId": 81
   },
   {
@@ -3094,17 +3094,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "La Diputación General del Territorio Histórico en que esté situado el Ente."
+      "Quien ostente la titularidad de del Departamento de Sanidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta B.",
+    "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta D.",
     "originalId": 83
   },
   {
@@ -3205,17 +3205,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Todas las anteriores son ciertas."
+      "Será sometida a informe del Consejo de Administración del Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 255/1997: La propuesta de Plan Estratégico será formulada por la Dirección General (a), sometida a informe del Consejo de Administración (c), y aprobada por la Presidencia (b). Las tres son ciertas. Respuesta D.",
+    "explanation": "Decreto 255/1997: La propuesta de Plan Estratégico será formulada por la Dirección General (a), sometida a informe del Consejo de Administración (c), y aprobada por la Presidencia (b). Las tres son ciertas. Respuesta C.",
     "originalId": 87
   },
   {
@@ -3464,17 +3464,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "11 de julio de 2018."
+      "3 de julio de 2018."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B.",
+    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta C.",
     "originalId": 101
   },
   {
@@ -3501,17 +3501,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Atención primaria y Atención hospitalaria."
+      "Atención especializada y Atención de Urgencias."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 1 Decreto 100/2018: Las OSI integran la ATENCIÓN PRIMARIA y la ATENCIÓN HOSPITALARIA (especializada). Son los dos niveles asistenciales que se integran. Respuesta D.",
+    "explanation": "Art. 1 Decreto 100/2018: Las OSI integran la ATENCIÓN PRIMARIA y la ATENCIÓN HOSPITALARIA (especializada). Son los dos niveles asistenciales que se integran. Respuesta A.",
     "originalId": 102
   },
   {
@@ -4611,17 +4611,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; participación responsable en la gestión de la propia salud; relaciones asistenciales en el sistema sanitario de Euskadi; y salud pública."
+      "Organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; participación responsable en la gestión de la propia salud; y relaciones asistenciales en el sistema sanitario de Euskadi."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta A.",
     "originalId": 132
   },
   {
@@ -5055,17 +5055,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Cuatro Direcciones de División."
+      "Dos Direcciones de División."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 14 Decreto 255/1997: La Dirección General cuenta con CUATRO Directores de División. Respuesta C.",
+    "explanation": "Art. 14 Decreto 255/1997: La Dirección General cuenta con CUATRO Directores de División. Respuesta A.",
     "originalId": 89
   },
   {
@@ -5166,17 +5166,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
+      "Ley 41/2002 de Autonomía del Paciente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 23 Decreto 255/1997: El objeto de actividad o ámbito de actuación sanitaria de cada organización de servicios se define 'de conformidad con lo dispuesto específicamente en la LEY 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi'. Respuesta B.",
+    "explanation": "Art. 23 Decreto 255/1997: El objeto de actividad o ámbito de actuación sanitaria de cada organización de servicios se define 'de conformidad con lo dispuesto específicamente en la LEY 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi'. Respuesta A.",
     "originalId": 93
   },
   {
@@ -5203,17 +5203,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "La organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud."
+      "A quien ostente la titularidad de la Dirección-Gerencia de cada organización de servicios sanitarios del Osakidetza-Servicio Vasco de Salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 22 Decreto 255/1997: La competencia para ejecutar compras de suministros centralizadas y las integradas corresponde 'a la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público Osakidetza'. Respuesta B.",
+    "explanation": "Art. 22 Decreto 255/1997: La competencia para ejecutar compras de suministros centralizadas y las integradas corresponde 'a la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público Osakidetza'. Respuesta D.",
     "originalId": 99
   },
   {
@@ -5610,17 +5610,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Todos los riesgos en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
+      "Todos los riesgos probables en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t08",
-    "explanation": "Art. 18.1 Ley 41/2002: El paciente tiene derecho de acceso a la documentación de su historia clínica. Los familiares solo acceden cuando el paciente esté fallecido y no lo haya prohibido expresamente, o cuando tengan interés legítimo. La norma general es el acceso del propio paciente. Respuesta A.",
+    "explanation": "Art. 18.1 Ley 41/2002: El paciente tiene derecho de acceso a la documentación de su historia clínica. Los familiares solo acceden cuando el paciente esté fallecido y no lo haya prohibido expresamente, o cuando tengan interés legítimo. La norma general es el acceso del propio paciente. Respuesta C.",
     "originalId": 150
   },
   {
@@ -5795,17 +5795,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "La dirección del centro, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión."
+      "El personal facultativo, previa comprobación del informe clínico correspondiente, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t08",
-    "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
+    "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta B.",
     "originalId": 155
   },
   {
@@ -5832,17 +5832,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Se extingue bien a partir de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
+      "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t08",
-    "explanation": "Art. 2 Ley 7/2002: La declaración puede incluir: instrucciones sobre los tratamientos y cuidados que la persona desea o no recibir, la designación de una persona representante y el destino del cuerpo o de sus órganos tras el fallecimiento. Todas son correctas. Respuesta D.",
+    "explanation": "Art. 2 Ley 7/2002: La declaración puede incluir: instrucciones sobre los tratamientos y cuidados que la persona desea o no recibir, la designación de una persona representante y el destino del cuerpo o de sus órganos tras el fallecimiento. Todas son correctas. Respuesta A.",
     "originalId": 160
   },
   {
@@ -5943,17 +5943,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal en situaciones donde la persona paciente no puede expresar su voluntad por sí misma."
+      "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta C.",
     "originalId": 158
   },
   {
@@ -6091,17 +6091,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Serán personas mayores de edad, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio o pareja de hecho, parentesco hasta el tercer grado de consanguinidad o relación patrimonial alguna."
+      "Serán personas mayores de edad, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio, unión libre o pareja de hecho, parentesco hasta el segundo grado de consanguinidad o afinidad o relación patrimonial alguna"
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta C.",
     "originalId": 163
   },
   {
@@ -6313,17 +6313,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "No precisará el consentimiento de la persona otorgante para la comunicación de los datos pero sí autorización de la Agencia Vasca de Protección de Datos."
+      "No precisará el consentimiento de la persona otorgante para la comunicación de los datos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas es de carácter público, adscrito al Departamento de Sanidad del Gobierno Vasco. Su acceso está restringido al propio interesado, su representante, y los profesionales sanitarios que atienden al otorgante. Respuesta D.",
+    "explanation": "Art. 5 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas es de carácter público, adscrito al Departamento de Sanidad del Gobierno Vasco. Su acceso está restringido al propio interesado, su representante, y los profesionales sanitarios que atienden al otorgante. Respuesta C.",
     "originalId": 169
   },
   {
@@ -6535,17 +6535,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Por profesionales de la abogacía y de la procura, cuando tengan por objeto recoger la información facilitada por quienes les contraten para el ejercicio de sus funciones."
+      "Exclusivamente en los supuestos amparados en una norma de Derecho de la Unión y en la propia Ley Orgánica 2/2018."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 83 RGPD: Las sanciones pueden alcanzar hasta 20 millones de euros o el 4% del volumen de negocio global anual. La Agencia Española de Protección de Datos (AEPD) es la autoridad de control en España. Respuesta A.",
+    "explanation": "Art. 83 RGPD: Las sanciones pueden alcanzar hasta 20 millones de euros o el 4% del volumen de negocio global anual. La Agencia Española de Protección de Datos (AEPD) es la autoridad de control en España. Respuesta D.",
     "originalId": 175
   },
   {
@@ -6609,17 +6609,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Solo las personas físicas podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes, así como sus instalaciones."
+      "Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A.",
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta C.",
     "originalId": 177
   },
   {
@@ -7100,7 +7100,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t11",
-    "explanation": "Art. 14 DL 1/2023: La Administración General de la Comunidad Autónoma de Euskadi establecerá medidas de acción positiva para promover la igualdad real de mujeres y hombres. El objetivo de las acciones positivas es compensar las desventajas de un colectivo históricamente discriminado para alcanzar la igualdad efectiva. Respuesta C.",
+    "explanation": "Art. 14 DL 1/2023: La Administración General de la Comunidad Autónoma de Euskadi establecerá medidas de acción positiva para promover la igualdad real de mujeres y hombres. El objetivo de las acciones positivas es compensar las desventajas de un colectivo históricamente discriminado para alcanzar la igualdad efectiva. Respuesta B.",
     "originalId": 190
   },
   {
@@ -7238,17 +7238,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "La autosuficiencia presupuestaria del Sistema Sanitario Público."
+      "Enfoque de Salud en Todas las Políticas y 'Una Sola Salud' ('One Health')."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t12",
-    "explanation": "Plan de Salud Euskadi 2030: Los principios rectores incluyen coordinación interinstitucional, enfoque 'One Health', contribución al Desarrollo Sostenible, equidad, enfoque de género, etc. La 'autosuficiencia presupuestaria del Sistema Sanitario Público' NO es un principio rector del Plan. Respuesta C.",
+    "explanation": "Plan de Salud Euskadi 2030: Los principios rectores incluyen coordinación interinstitucional, enfoque 'One Health', contribución al Desarrollo Sostenible, equidad, enfoque de género, etc. La 'autosuficiencia presupuestaria del Sistema Sanitario Público' NO es un principio rector del Plan. Respuesta B.",
     "originalId": 193
   },
   {
@@ -7460,17 +7460,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud."
+      "Aumentar la esperanza de vida en 5 años en todos los colectivos sociales."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t12",
-    "explanation": "Plan de Salud Euskadi 2030: Los determinantes de la salud incluyen factores socioeconómicos (empleo, educación, vivienda), estilos de vida, y factores ambientales. El Plan aboga por actuar sobre todos estos determinantes para reducir las desigualdades en salud. Respuesta D.",
+    "explanation": "Plan de Salud Euskadi 2030: Los determinantes de la salud incluyen factores socioeconómicos (empleo, educación, vivienda), estilos de vida, y factores ambientales. El Plan aboga por actuar sobre todos estos determinantes para reducir las desigualdades en salud. Respuesta B.",
     "originalId": 200
   },
   {
@@ -9051,17 +9051,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Estudio APEAS."
+      "Estudio EVADUR."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t14",
-    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: Las prácticas seguras (checklist quirúrgico, higiene de manos, conciliación de medicación) son intervenciones de probada eficacia para reducir los eventos adversos. Respuesta B.",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: Las prácticas seguras (checklist quirúrgico, higiene de manos, conciliación de medicación) son intervenciones de probada eficacia para reducir los eventos adversos. Respuesta C.",
     "originalId": 242
   },
   {
@@ -9273,17 +9273,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Dirección General de Osakidetza."
+      "Consejo de Administración de Osakidetza."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t15",
-    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
+    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta C.",
     "originalId": 248
   },
   {
@@ -9569,17 +9569,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Solo la rotulación fija externa en general ha de estar en las dos lenguas oficiales dando prioridad al euskera."
+      "La rotulación fija, tanto interna como externa, en general ha de estar en las dos lenguas oficiales dando prioridad al euskera."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta B.",
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta A.",
     "originalId": 256
   },
   {
@@ -9606,17 +9606,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Deben emitirse en la lengua que decidan las personas responsable de las unidades que utilizan estos sistemas audiovisuales."
+      "Deben emitirse en las dos lenguas oficiales, primero en euskera y luego en castellano."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: En los escritos y comunicaciones internas se potenciará el uso del euskera, y se fomentará que el personal que conoce el idioma lo utilice en sus comunicaciones internas. La A recoge correctamente este criterio. Respuesta A.",
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: En los escritos y comunicaciones internas se potenciará el uso del euskera, y se fomentará que el personal que conoce el idioma lo utilice en sus comunicaciones internas. La A recoge correctamente este criterio. Respuesta C.",
     "originalId": 257
   },
   {
@@ -9750,17 +9750,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Siempre las dos lenguas oficiales independientemente de la lengua utilizada por cada ciudadano o ciudadana."
+      "La lengua utilizada por cada ciudadano o ciudadana."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: El Plan contempla que la historia clínica puede redactarse en cualquiera de las dos lenguas oficiales, pero garantizando que la información esté disponible para todos los profesionales. Respuesta C.",
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: El Plan contempla que la historia clínica puede redactarse en cualquiera de las dos lenguas oficiales, pero garantizando que la información esté disponible para todos los profesionales. Respuesta A.",
     "originalId": 262
   },
   {
@@ -9787,17 +9787,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "En los centros de salud, consultorios y unidades hospitalarias, deberá estar colocado, de modo visible, el cartel que explica a las personas usuarias el significado del signo identificativo con la letra e."
+      "El signo azul y la letra e solo se utilizará para la identificación individual del personal bilingüe."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan establece un sistema de seguimiento anual de los indicadores de avance y una evaluación intermedia a mitad del periodo (2025). La C recoge correctamente este sistema de evaluación. Respuesta C.",
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan establece un sistema de seguimiento anual de los indicadores de avance y una evaluación intermedia a mitad del periodo (2025). La C recoge correctamente este sistema de evaluación. Respuesta B.",
     "originalId": 263
   },
   {
@@ -9824,17 +9824,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Todas las anteriores respuestas son correctas."
+      "Medicina familiar, pediatría, enfermería y matrona."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: La normalización del uso del euskera en Osakidetza se basa en la Ley 10/1982, básica de normalización del uso del Euskera, y la Ley 6/1989 de la función pública vasca. Respuesta D.",
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: La normalización del uso del euskera en Osakidetza se basa en la Ley 10/1982, básica de normalización del uso del Euskera, y la Ley 6/1989 de la función pública vasca. Respuesta C.",
     "originalId": 264
   },
   {
@@ -9972,17 +9972,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Los escritos individualizados de respuesta a solicitudes y reclamaciones de las personas trabajadoras deberán redactarse en las dos lenguas oficiales."
+      "Osakidetza ha de garantizar que la información y los servicios ofrecidos tanto al personal empleado como a personas candidatas a través de las tecnologías de la comunicación estén en las dos lenguas oficiales, con el fin de que cada persona haga uso de la lengua de su preferencia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta B.",
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta C.",
     "originalId": 268
   },
   {
@@ -10527,17 +10527,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Al menos cada 7 días."
+      "Al menos cada 15 días, debiendo dejarse constancia en la historia clínica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t18",
-    "explanation": "Art. 8 LO 3/2021: La solicitud de prestación de ayuda para morir deberá realizarse 'por escrito o por otro medio que permita dejar constancia, ante el médico o médica responsable, en DOS ocasiones como mínimo, con un intervalo de al menos quince días naturales entre ambas.' Respuesta A.",
+    "explanation": "Art. 8 LO 3/2021: La solicitud de prestación de ayuda para morir deberá realizarse 'por escrito o por otro medio que permita dejar constancia, ante el médico o médica responsable, en DOS ocasiones como mínimo, con un intervalo de al menos quince días naturales entre ambas.' Respuesta B.",
     "originalId": 285
   },
   {
@@ -10749,17 +10749,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "La libre acumulación de empleos públicos."
+      "La incompatibilidad para desempeñar más de un puesto en el sector público, salvo excepciones."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t19",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.",
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 291
   },
   {
@@ -10786,17 +10786,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Solo la Administración General del Estado."
+      "Las Administraciones Públicas y entidades vinculadas o dependientes de ellas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t19",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.",
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta C.",
     "originalId": 292
   },
   {
@@ -10823,17 +10823,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Dos puestos públicos si uno es a tiempo parcial."
+      "Un segundo puesto público únicamente con autorización previa y en los supuestos previstos por la Ley."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t19",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.",
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 293
   },
   {
@@ -10934,17 +10934,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "No ocurre nada si es fuera del horario laboral."
+      "Puede dar lugar a responsabilidad disciplinaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t19",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.",
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta C.",
     "originalId": 297
   },
   {
@@ -11045,17 +11045,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Incrementar los ingresos del personal público."
+      "Garantizar la dedicación y la imparcialidad en el servicio público."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t19",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.",
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 300
   }
 ]

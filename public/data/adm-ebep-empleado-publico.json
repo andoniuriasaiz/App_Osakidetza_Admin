@@ -60,17 +60,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario."
+      "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a un año, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-ebep-empleado-publico",
-    "explanation": "Art. 10.1 RDL 5/2015 EBEP establece las circunstancias para ser funcionario interino: b) 'La sustitución transitoria de los titulares' [→ opción A]; c) Programas temporales: 'no podrán tener duración superior a TRES AÑOS, ampliable hasta 12 meses' (la opción B dice 'un año' → FALSO); d) Exceso de tareas: plazo máximo de SEIS MESES dentro de doce (la opción C dice '9 meses en 3 años' → FALSO). Solo la opción A es correcta. Respuesta A.",
+    "explanation": "Art. 10.1 RDL 5/2015 EBEP establece las circunstancias para ser funcionario interino: b) 'La sustitución transitoria de los titulares' [→ opción A]; c) Programas temporales: 'no podrán tener duración superior a TRES AÑOS, ampliable hasta 12 meses' (la opción B dice 'un año' → FALSO); d) Exceso de tareas: plazo máximo de SEIS MESES dentro de doce (la opción C dice '9 meses en 3 años' → FALSO). Solo la opción A es correcta. Respuesta B.",
     "originalId": 2
   },
   {
@@ -134,17 +134,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas."
+      "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios no retribuidos por las Administraciones Públicas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-ebep-empleado-publico",
-    "explanation": "Art. 11.1 RDL 5/2015 EBEP: 'Es personal laboral el que, en virtud de contrato de trabajo formalizado POR ESCRITO, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios RETRIBUIDOS por las Administraciones Públicas.' Dos condiciones: contrato escrito (no verbal) + servicios retribuidos. Respuesta B.",
+    "explanation": "Art. 11.1 RDL 5/2015 EBEP: 'Es personal laboral el que, en virtud de contrato de trabajo formalizado POR ESCRITO, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios RETRIBUIDOS por las Administraciones Públicas.' Dos condiciones: contrato escrito (no verbal) + servicios retribuidos. Respuesta A.",
     "originalId": 4
   },
   {

@@ -181,7 +181,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 83 RGPD: Las sanciones pueden alcanzar hasta 20 millones de euros o el 4% del volumen de negocio global anual. La Agencia Española de Protección de Datos (AEPD) es la autoridad de control en España. Respuesta A.",
+    "explanation": "Art. 83 RGPD: Las sanciones pueden alcanzar hasta 20 millones de euros o el 4% del volumen de negocio global anual. La Agencia Española de Protección de Datos (AEPD) es la autoridad de control en España. Respuesta D.",
     "originalId": 175
   },
   {
@@ -245,17 +245,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Solo las personas físicas podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes, así como sus instalaciones."
+      "Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A.",
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta C.",
     "originalId": 177
   },
   {

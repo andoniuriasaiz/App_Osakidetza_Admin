@@ -134,17 +134,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Cuatro Direcciones de División."
+      "Dos Direcciones de División."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 14 Decreto 255/1997: La Dirección General cuenta con CUATRO Directores de División. Respuesta C.",
+    "explanation": "Art. 14 Decreto 255/1997: La Dirección General cuenta con CUATRO Directores de División. Respuesta A.",
     "originalId": 89
   },
   {
@@ -255,7 +255,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 23 Decreto 255/1997: El objeto de actividad o ámbito de actuación sanitaria de cada organización de servicios se define 'de conformidad con lo dispuesto específicamente en la LEY 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi'. Respuesta B.",
+    "explanation": "Art. 23 Decreto 255/1997: El objeto de actividad o ámbito de actuación sanitaria de cada organización de servicios se define 'de conformidad con lo dispuesto específicamente en la LEY 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi'. Respuesta A.",
     "originalId": 93
   },
   {
@@ -292,7 +292,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 22 Decreto 255/1997: La competencia para ejecutar compras de suministros centralizadas y las integradas corresponde 'a la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público Osakidetza'. Respuesta B.",
+    "explanation": "Art. 22 Decreto 255/1997: La competencia para ejecutar compras de suministros centralizadas y las integradas corresponde 'a la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público Osakidetza'. Respuesta D.",
     "originalId": 99
   }
 ]

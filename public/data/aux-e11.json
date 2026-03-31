@@ -23,17 +23,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Para aquellos procesos de enfermedad que conlleven riesgo para la vida o calidad de la misma, en los términos que se desarrollan en el presente Decreto."
+      "Para aquellos procesos de enfermedad que conlleven una baja de 3 días, en los términos que se desarrollan en el presente Decreto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "D.149/2007: El ejercicio del derecho a la segunda opinión médica se garantiza PARA AQUELLOS PROCESOS DE ENFERMEDAD QUE CONLLEVEN RIESGO PARA LA VIDA O CALIDAD DE LA MISMA. No para procesos sin riesgo (a) ni para bajas de 3 o 5 días (c, d). Respuesta B.",
+    "explanation": "D.149/2007: El ejercicio del derecho a la segunda opinión médica se garantiza PARA AQUELLOS PROCESOS DE ENFERMEDAD QUE CONLLEVEN RIESGO PARA LA VIDA O CALIDAD DE LA MISMA. No para procesos sin riesgo (a) ni para bajas de 3 o 5 días (c, d). Respuesta C.",
     "originalId": 17
   },
   {
@@ -60,17 +60,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "a) y b) son correctas."
+      "Los datos de la Seguridad Social."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "D.149/2007 Art. 1: La finalidad de la segunda opinión médica es CONTRASTAR UN PRIMER DIAGNÓSTICO (a) O UNA PROPUESTA TERAPÉUTICA (b). Ambas opciones son correctas. Respuesta D (a y b correctas).",
+    "explanation": "D.149/2007 Art. 1: La finalidad de la segunda opinión médica es CONTRASTAR UN PRIMER DIAGNÓSTICO (a) O UNA PROPUESTA TERAPÉUTICA (b). Ambas opciones son correctas. Respuesta C (a y b correctas).",
     "originalId": 18
   },
   {
@@ -97,17 +97,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Todas las respuestas anteriores son correctas."
+      "Enfermedades neurológicas degenerativas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "D.149/2007 Anexo: El derecho se garantiza para procesos que incluyen ENFERMEDAD NEOPLÁSICA MALIGNA (a), ENFERMEDADES NEUROLÓGICAS DEGENERATIVAS (b) y ENFERMEDADES CARDIOVASCULARES (c) de cierta gravedad. Las tres categorías están contempladas. Respuesta D (todas correctas).",
+    "explanation": "D.149/2007 Anexo: El derecho se garantiza para procesos que incluyen ENFERMEDAD NEOPLÁSICA MALIGNA (a), ENFERMEDADES NEUROLÓGICAS DEGENERATIVAS (b) y ENFERMEDADES CARDIOVASCULARES (c) de cierta gravedad. Las tres categorías están contempladas. Respuesta B (todas correctas).",
     "originalId": 19
   },
   {
@@ -504,17 +504,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios clínicos."
+      "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios según la edad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "D.149/2007 Art. 8: Cuando no se considere adecuada la segunda opinión, se emitirá por la Dirección Médica UN INFORME RAZONADO en el que se valore la solicitud CON ARREGLO A CRITERIOS CLÍNICOS. No subjetivos (b) ni administrativos (c) ni por edad (d). Respuesta A.",
+    "explanation": "D.149/2007 Art. 8: Cuando no se considere adecuada la segunda opinión, se emitirá por la Dirección Médica UN INFORME RAZONADO en el que se valore la solicitud CON ARREGLO A CRITERIOS CLÍNICOS. No subjetivos (b) ni administrativos (c) ni por edad (d). Respuesta D.",
     "originalId": 31
   },
   {

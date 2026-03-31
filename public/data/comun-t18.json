@@ -171,17 +171,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Al menos cada 7 días."
+      "Al menos cada 15 días, debiendo dejarse constancia en la historia clínica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t18",
-    "explanation": "Art. 8 LO 3/2021: La solicitud de prestación de ayuda para morir deberá realizarse 'por escrito o por otro medio que permita dejar constancia, ante el médico o médica responsable, en DOS ocasiones como mínimo, con un intervalo de al menos quince días naturales entre ambas.' Respuesta A.",
+    "explanation": "Art. 8 LO 3/2021: La solicitud de prestación de ayuda para morir deberá realizarse 'por escrito o por otro medio que permita dejar constancia, ante el médico o médica responsable, en DOS ocasiones como mínimo, con un intervalo de al menos quince días naturales entre ambas.' Respuesta B.",
     "originalId": 285
   },
   {

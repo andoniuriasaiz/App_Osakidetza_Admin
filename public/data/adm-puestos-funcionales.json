@@ -171,17 +171,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "a) b) y c) son incorrectas."
+      "Es un aspecto que identifica los Puestos Funcionales."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-puestos-funcionales",
-    "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta D.",
+    "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta A.",
     "originalId": 28
   },
   {
@@ -282,17 +282,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "La Plantilla Estructural aprobada por el Consejo de Administración para la Organización, constituida por el total de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios que integran el Ente Público Osakidetza-Servicio vasco de salud."
+      "La Plantilla Estructural aprobada por el Consejo de Administración para la Organización, constituida por un 50% de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios que integran el Ente Público Osakidetza-Servicio vasco de salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "adm-puestos-funcionales",
-    "explanation": "D.186/2005 Art. 10: El número de efectivos de las Plantillas Funcionales vendrá limitado por la Plantilla Estructural aprobada por el Consejo de Administración, constituida por el TOTAL de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios. Las opciones b) 'algunos', c) '25%' y d) '50%' son incorrectas. Respuesta A.",
+    "explanation": "D.186/2005 Art. 10: El número de efectivos de las Plantillas Funcionales vendrá limitado por la Plantilla Estructural aprobada por el Consejo de Administración, constituida por el TOTAL de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios. Las opciones b) 'algunos', c) '25%' y d) '50%' son incorrectas. Respuesta D.",
     "originalId": 31
   },
   {

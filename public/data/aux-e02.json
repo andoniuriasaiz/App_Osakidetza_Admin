@@ -23,17 +23,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "5 días."
+      "1 día."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e02",
-    "explanation": "D.149/2007 Art. 7 in fine: Si transcurre el plazo sin comunicación de la segunda opinión médica, el paciente lo pondrá en conocimiento del órgano competente del Departamento de Sanidad, que lo resolverá en un plazo NO SUPERIOR A 5 DÍAS desde la entrada de esa comunicación. Respuesta A.",
+    "explanation": "D.149/2007 Art. 7 in fine: Si transcurre el plazo sin comunicación de la segunda opinión médica, el paciente lo pondrá en conocimiento del órgano competente del Departamento de Sanidad, que lo resolverá en un plazo NO SUPERIOR A 5 DÍAS desde la entrada de esa comunicación. Respuesta B.",
     "originalId": 32
   },
   {
@@ -726,17 +726,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Por medios electrónicos o no electrónicos, según elijan."
+      "Solo por medios no electrónicos salvo obligación legal."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e02",
-    "explanation": "Art. 13 Ley 39/2015: Las personas tienen derecho a relacionarse con las AAPP POR MEDIOS ELECTRÓNICOS O NO ELECTRÓNICOS, SEGÚN ELIJAN, salvo que estén obligadas a usar medios electrónicos. No exclusivamente electrónicos (a). Respuesta B.",
+    "explanation": "Art. 13 Ley 39/2015: Las personas tienen derecho a relacionarse con las AAPP POR MEDIOS ELECTRÓNICOS O NO ELECTRÓNICOS, SEGÚN ELIJAN, salvo que estén obligadas a usar medios electrónicos. No exclusivamente electrónicos (a). Respuesta C.",
     "originalId": 150
   },
   {
@@ -911,17 +911,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "A todas las personas en sus relaciones con las Administraciones Públicas."
+      "Únicamente a las personas que no estén obligadas a relacionarse electrónicamente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e02",
-    "explanation": "Art. 13.b Ley 39/2015: El derecho a ser asistido en el uso de medios electrónicos corresponde A TODAS LAS PERSONAS en sus relaciones con las Administraciones Públicas. Respuesta A.",
+    "explanation": "Art. 13.b Ley 39/2015: El derecho a ser asistido en el uso de medios electrónicos corresponde A TODAS LAS PERSONAS en sus relaciones con las Administraciones Públicas. Respuesta B.",
     "originalId": 155
   },
   {
@@ -1133,17 +1133,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Se excluirán los sábados, domingos y festivos."
+      "Se excluirán únicamente los domingos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e02",
-    "explanation": "Art. 30.2 Ley 39/2015: Cuando el plazo se exprese en días HÁBILES, SE EXCLUIRÁN LOS SÁBADOS, LOS DOMINGOS Y LOS FESTIVOS en el cómputo. Respuesta B.",
+    "explanation": "Art. 30.2 Ley 39/2015: Cuando el plazo se exprese en días HÁBILES, SE EXCLUIRÁN LOS SÁBADOS, LOS DOMINGOS Y LOS FESTIVOS en el cómputo. Respuesta C.",
     "originalId": 163
   },
   {
@@ -1540,17 +1540,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "No serán susceptibles de convalidación."
+      "Podrán subsanarse por el transcurso del tiempo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e02",
-    "explanation": "Art. 52.1 Ley 39/2015: Los actos NULOS DE PLENO DERECHO NO SERÁN SUSCEPTIBLES DE CONVALIDACIÓN, a diferencia de los actos anulables que sí pueden convalidarse. Respuesta C.",
+    "explanation": "Art. 52.1 Ley 39/2015: Los actos NULOS DE PLENO DERECHO NO SERÁN SUSCEPTIBLES DE CONVALIDACIÓN, a diferencia de los actos anulables que sí pueden convalidarse. Respuesta B.",
     "originalId": 190
   },
   {
@@ -1651,17 +1651,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Podrá concederse de oficio o a petición de los interesados si las circunstancias lo aconsejan."
+      "Solo podrá concederse a instancia del interesado."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e02",
-    "explanation": "Art. 32.1 Ley 39/2015: La Administración podrá conceder una ampliación de los plazos DE OFICIO O A PETICIÓN DE LOS INTERESADOS si las circunstancias lo aconsejan, salvo que se opongan intereses de terceros. Respuesta A.",
+    "explanation": "Art. 32.1 Ley 39/2015: La Administración podrá conceder una ampliación de los plazos DE OFICIO O A PETICIÓN DE LOS INTERESADOS si las circunstancias lo aconsejan, salvo que se opongan intereses de terceros. Respuesta B.",
     "originalId": 193
   },
   {
