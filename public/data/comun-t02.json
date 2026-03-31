@@ -171,17 +171,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará en las normas autonómicas correspondientes."
+      "Se acordará en el seno del Consejo Interterritorial del Sistema Nacional de Salud y se aprobará mediante Real Decreto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
+    "explanation": "Art. 8 bis Ley 16/2003: La cartera común básica de servicios asistenciales se acordará en el seno del Consejo Interterritorial del SNS y SE APROBARÁ MEDIANTE REAL DECRETO del Consejo de Ministros. Es una norma estatal, no autonómica. Respuesta B.",
     "originalId": 25
   },
   {
@@ -208,17 +208,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, y la prestación ortoprotésica, cubiertos de forma completa por financiación pública."
+      "Todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, cubiertos de forma completa por financiación pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
+    "explanation": "Art. 8 bis.2 Ley 16/2003: La cartera común básica comprende las actividades asistenciales (prevención, diagnóstico, tto...) y el TRANSPORTE SANITARIO URGENTE. La prestación farmacéutica y ortoprotésica forman parte de la CARTERA SUPLEMENTARIA (sujeta a copago), no de la básica (financiada al 100%). Respuesta D.",
     "originalId": 26
   },
   {
@@ -541,17 +541,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "A cada Comunidad Autónoma."
+      "Al Ministerio de Sanidad y Consumo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 46 Ley 16/2003: La financiación del SNS tiene carácter público. Los recursos económicos del Sistema Nacional de Salud estarán constituidos por las aportaciones del Estado y de las Comunidades Autónomas, así como por cualesquiera otros ingresos. La C recoge esta configuración. Respuesta C.",
+    "explanation": "Art. 89 Ley 29/2006 y Art. 94 Ley 16/2003: La decisión sobre la financiación pública de medicamentos de uso humano y veterinario es una COMPETENCIA ESTATAL, concretamente del Ministerio de Sanidad. No es potestad de las CCAA. Respuesta B.",
     "originalId": 35
   },
   {

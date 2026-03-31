@@ -467,17 +467,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "15 días hábiles."
+      "10 días hábiles."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "D.149/2007 Art. 7: El Servicio de Atención al Paciente-Usuario concertará la cita desde la entrada de la solicitud en el plazo de QUINCE DÍAS HÁBILES. Respuesta C.",
+    "explanation": "Decreto de segunda opinión médica en Euskadi: El Servicio de Atención al Paciente-Usuario, si hubiere derecho a ello, concertará la cita en el plazo de DIEZ DÍAS HÁBILES desde la entrada de la solicitud. Respuesta B.",
     "originalId": 30
   },
   {
@@ -541,17 +541,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Todas las anteriores respuestas son correctas."
+      "En el centro sanitario de origen."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "Art. 10 Decreto 149/2007: Si el segundo diagnóstico no confirma el primero (discrepancia), corresponde igualmente al paciente tomar la decisión sobre el tratamiento a seguir, ejerciendo su autonomía. Respuesta D.",
+    "explanation": "Decreto 149/2007: Si el segundo diagnóstico es confirmatorio del primero, la atención sanitaria continúa realizándose en el centro sanitario de origen, ya que se ratifica la decisión clínica inicial. Respuesta C.",
     "originalId": 33
   },
   {
@@ -578,17 +578,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Todas las anteriores respuestas son correctas."
+      "En cualquier centro sanitario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e11",
-    "explanation": "Art. 10 Decreto 149/2007: Si el segundo diagnóstico no confirma el primero (discrepancia), corresponde igualmente al paciente tomar la decisión sobre el tratamiento a seguir, ejerciendo su autonomía. Respuesta D.",
+    "explanation": "Decreto 149/2007: Si el segundo diagnóstico NO es confirmatorio del primero, el paciente no queda vinculado a ninguno de los dos centros, teniendo libertad de elección para continuar su atención en cualquier centro sanitario conforme a su autonomía. Respuesta B.",
     "originalId": 34
   },
   {

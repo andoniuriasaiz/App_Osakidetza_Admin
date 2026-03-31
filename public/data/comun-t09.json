@@ -134,17 +134,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario y facultarles para interpretar sus valores e instrucciones, si la persona paciente está incapacitada judicialmente. las"
+      "Se podrá designar una o varias personas representantes para que sean interlocutoras válidas del personal facultativo o del equipo sanitario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 6 Ley 7/2002: En el documento de voluntades anticipadas se podrá designar una o varias personas representantes para que sean las interlocutoras válidas con el médico o equipo sanitario. No se exige incapacidad judicial para esta designación. Respuesta A.",
     "originalId": 159
   },
   {
@@ -171,17 +171,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Exclusivamente a una enfermedad o lesión que la persona otorgante eventualmente podría padecer en un futuro, siempre que sea de carácter grave."
+      "A una enfermedad o lesión que la persona otorgante ya padece o a las que eventualmente podría padecer en un futuro."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 5 Ley 7/2002: Las instrucciones sobre el tratamiento pueden referirse a 'una enfermedad o lesión que la persona otorgante ya padece, o a las que eventualmente podría padecer en un futuro'. No se limita solo a situaciones futuras o graves. Respuesta A.",
     "originalId": 161
   },
   {
@@ -208,17 +208,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante tres testigos."
+      "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante dos testigos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 4 y 5 Ley 7/2002: El DVA se formaliza ante notario, funcionario del registro (o servicio de documentación de centros sanitarios) o ante testigos. La opción C recoge correctamente la vía de los centros sanitarios y el número de testigos ajustado a la interpretación de consenso. Respuesta C.",
     "originalId": 162
   },
   {
@@ -319,17 +319,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Por escrito y ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades donde se encuentra registrado el documento inicial."
+      "Por escrito y ante una notaría o ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o ante tres testigos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
+    "explanation": "Art. 3.2 Ley 7/2002: La modificación o sustitución del DVA requiere las mismas formalidades que su otorgamiento (Escrito + Notaria/Registro/Testigos). No basta cualquier registro de entrada. Respuesta B.",
     "originalId": 165
   },
   {
@@ -393,17 +393,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Las instrucciones que en el momento de ser aplicadas no se aprueben por el comité de ética del centro."
+      "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D.",
+    "explanation": "Art. 9 Ley 7/2002: Se tendrán por no puestas las instrucciones que resulten contrarias al ordenamiento jurídico EN EL MOMENTO DE SER APLICADAS. No se requiere aprobación del comité de ética para la validez de las instrucciones de la persona. Respuesta A.",
     "originalId": 167
   },
   {
@@ -504,17 +504,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Carece de eficacia si la persona otorgante no puede validarlo por sí misma en ese momento."
+      "Debe entregarse en el centro sanitario donde la persona otorgante sea atendida."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas es de carácter público, adscrito al Departamento de Sanidad del Gobierno Vasco. Su acceso está restringido al propio interesado, su representante, y los profesionales sanitarios que atienden al otorgante. Respuesta D.",
+    "explanation": "Art. 11 Ley 7/2002: El documento que no sea inscrito 'deberá ser entregado en el centro sanitario donde el otorgante sea atendido para que sea incorporado a su historia clínica'. No carece de eficacia por la falta de inscripción si se aporta al centro. Respuesta A.",
     "originalId": 170
   }
 ]

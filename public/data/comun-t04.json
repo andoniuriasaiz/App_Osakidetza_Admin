@@ -911,17 +911,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Será sometida a informe del Consejo de Administración del Ente."
+      "Será formulada por la Dirección General del Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 255/1997: La propuesta de Plan Estratégico será formulada por la Dirección General (a), sometida a informe del Consejo de Administración (c), y aprobada por la Presidencia (b). Las tres son ciertas. Respuesta C.",
+    "explanation": "Decreto 255/1997: La propuesta de Plan Estratégico será formulada por la DIRECCIÓN GENERAL (Art. 13.a), informada por el Consejo de Administración y aprobada por la Presidencia. La respuesta correcta es la A.",
     "originalId": 87
   },
   {
@@ -1022,17 +1022,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Oscilará entre dos y tres."
+      "La normativa que rige su estatuto jurídico no establece un número determinado sino un máximo de cinco."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 100/2018, art. 9: El equipo directivo de cada organización de servicios de Osakidetza está compuesto por cuatro miembros: el Director/a, el Director/a Médico/a, el Director/a de Enfermería y el Director/a de Gestión. Respuesta A (4 miembros).",
+    "explanation": "Decreto 255/1997, Art. 21: 'El número de integrantes de este equipo será determinado por el Consejo de Administración, a propuesta de la Dirección-Gerencia de la organización, NO PUDIENDO EXCEDER DE CINCO'. No oscila entre 2 y 3. Respuesta D.",
     "originalId": 95
   },
   {
@@ -1207,17 +1207,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Atención especializada y Atención de Urgencias."
+      "Atención primaria y Atención hospitalaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 1 Decreto 100/2018: Las OSI integran la ATENCIÓN PRIMARIA y la ATENCIÓN HOSPITALARIA (especializada). Son los dos niveles asistenciales que se integran. Respuesta A.",
+    "explanation": "Art. 1 Decreto 100/2018: Las OSI integran la ATENCIÓN PRIMARIA y la ATENCIÓN HOSPITALARIA. Es la base del modelo de integración asistencial de Osakidetza. Respuesta D.",
     "originalId": 102
   },
   {
@@ -2021,17 +2021,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; derechos en relación con la docencia del personal sanitario, obtención de la Tarjeta Individual Sanitaria."
+      "En relación a todas las acciones de carácter sanitario, incluyendo docencia, que se desarrollen en los centros, servicios o establecimientos sanitarios de titularidad pública o privada o concertados de Euskadi. Las acciones relativas a la investigación biomédica quedan fuera de esta Declaración y se rigen por su normativa específica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
+    "explanation": "Art. 2 Decreto 147/2015: El ámbito de aplicación incluye centros públicos, privados y concertados, y expresamente excluye la investigación biomédica (Art. 2.2), que se rige por su propia ley. Respuesta A.",
     "originalId": 124
   },
   {

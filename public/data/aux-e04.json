@@ -23,17 +23,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "El Director General o por los Directores-Gerentes de las organizaciones de Osakidetza-Servicio Vasco de Salud."
+      "La Presidencia o por el Director General de Osakidetza-Servicio Vasco de Salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Normativa específica Osakidetza-SVS: Las revisiones de oficio de actos nulos o anulables, los recursos extraordinarios y las reclamaciones previas a vías jurisdiccionales (excepto responsabilidad patrimonial) son conocidas POR EL DIRECTOR GENERAL O POR LOS DIRECTORES-GERENTES de las organizaciones de Osakidetza. Respuesta D.",
+    "explanation": "Normativa específica Osakidetza-SVS: Las revisiones de oficio de actos nulos o anulables, los recursos extraordinarios y las reclamaciones previas a vías jurisdiccionales (excepto responsabilidad patrimonial) corresponden al órgano de mayor rango (Presidencia o DG), no a los Directores-Gerentes. Respuesta A.",
     "originalId": 120
   },
   {
@@ -97,17 +97,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Contra actos que no pongan fin a la vía administrativa."
+      "Contra actos que pongan fin a la vía administrativa."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "explanation": "Art. 123 Ley 39/2015: Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado. Respuesta C.",
     "originalId": 174
   },
   {
@@ -319,17 +319,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Existan errores materiales evidentes."
+      "Aparezcan documentos de valor esencial ignorados al dictarse el acto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e04",
-    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
+    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión procede cuando aparezcan documentos de valor esencial para la resolución del asunto. Los errores materiales se corrigen de oficio por el cauce de la corrección de errores (Art. 109). Respuesta C.",
     "originalId": 180
   },
   {
