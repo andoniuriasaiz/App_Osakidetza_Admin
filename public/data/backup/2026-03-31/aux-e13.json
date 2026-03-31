@@ -1,0 +1,290 @@
+[
+  {
+    "id": "aux-e13_1",
+    "questionNum": 1,
+    "question": "Se entenderá como “equipo de trabajo”:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cualquier máquina no utilizada en el trabajo."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier aparato no utilizado en el trabajo."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier instrumento utilizado en el trabajo."
+      },
+      {
+        "value": 4,
+        "text": "Cualquier instalación no utilizada en el trabajo."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cualquier instrumento utilizado en el trabajo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e13",
+    "explanation": "Art. 4.6 Ley 31/1995: 'Equipo de trabajo': CUALQUIER MÁQUINA, APARATO, INSTRUMENTO O INSTALACIÓN UTILIZADO EN EL TRABAJO. La clave es 'UTILIZADO EN EL TRABAJO'. La opción c) dice 'instrumento utilizado' que es la definición correcta. Respuesta C."
+  },
+  {
+    "id": "aux-e13_2",
+    "questionNum": 2,
+    "question": "Se entenderá por “equipo de protección individual”:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cualquier equipo destinado a tenerlo guardado en el armario para que no se estropee."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier equipo no destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo."
+      },
+      {
+        "value": 4,
+        "text": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para conjuntarlo con la ropa que lleva puesta."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e13",
+    "explanation": "Art. 4.8 Ley 31/1995: 'Equipo de protección individual': CUALQUIER EQUIPO DESTINADO A SER LLEVADO O SUJETADO POR EL TRABAJADOR para que le PROTEJA DE UNO O VARIOS RIESGOS que puedan amenazar su seguridad o salud, así como cualquier complemento o accesorio destinado a tal fin. Respuesta B."
+  },
+  {
+    "id": "aux-e13_3",
+    "questionNum": 3,
+    "question": "Desde el punto de vista legal accidente de trabajo es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cualquier suceso no esperado pero deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier suceso no esperado ni deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier suceso esperado y no deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores."
+      },
+      {
+        "value": 4,
+        "text": "Cualquier suceso esperado y deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Cualquier suceso no esperado ni deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e13",
+    "explanation": "Manual Informativo Osakidetza (definición de accidente): Accidente de trabajo es todo SUCESO NO ESPERADO NI DESEADO que da lugar a PÉRDIDAS DE LA SALUD O LESIONES en los trabajadores. No esperado (a implica deseado). Respuesta B."
+  },
+  {
+    "id": "aux-e13_4",
+    "questionNum": 4,
+    "question": "Los accidentes de trabajo en función de las lesiones producidas al trabajador se clasifican en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Accidente sin baja."
+      },
+      {
+        "value": 2,
+        "text": "Accidente con baja."
+      },
+      {
+        "value": 3,
+        "text": "a) y b) son correctas."
+      },
+      {
+        "value": 4,
+        "text": "a) y b) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "a) y b) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e13",
+    "explanation": "Carpeta Roja de Prevención Osakidetza: Los accidentes en función de las lesiones se clasifican en ACCIDENTE SIN BAJA (a) y ACCIDENTE CON BAJA (b). Ambas clasificaciones son correctas. Respuesta C."
+  },
+  {
+    "id": "aux-e13_5",
+    "questionNum": 5,
+    "question": "Indica cuál de las definiciones NO es correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Accidente de trabajo sin baja es cuando la lesión producida al trabajador no le imposibilita para el desempeño de su trabajo habitual."
+      },
+      {
+        "value": 2,
+        "text": "Accidente de trabajo con baja es cuando provoca la incapacidad laboral del trabajador."
+      },
+      {
+        "value": 3,
+        "text": "Los accidentes in-itinere pueden ser con baja o sin baja."
+      },
+      {
+        "value": 4,
+        "text": "Accidente de trabajo sin baja es cuando la lesión producida al trabajador le imposibilita para el desempeño de su trabajo habitual."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Accidente de trabajo sin baja es cuando la lesión producida al trabajador le imposibilita para el desempeño de su trabajo habitual."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e13",
+    "explanation": "Carpeta Roja Osakidetza: La definición INCORRECTA es la opción d): 'Accidente sin baja es cuando la lesión LE IMPOSIBILITA para el desempeño de su trabajo habitual.' Esto es FALSO — accidente SIN BAJA es cuando la lesión NO le imposibilita. La opción d) dice lo contrario de la definición correcta. Respuesta D."
+  },
+  {
+    "id": "aux-e13_6",
+    "questionNum": 6,
+    "question": "Indica cuando NO se considera accidente in-itinere:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el medio de locomoción es el habitual."
+      },
+      {
+        "value": 2,
+        "text": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el margen de tiempo está dentro de los límites normales."
+      },
+      {
+        "value": 3,
+        "text": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el itinerario se considera como normal."
+      },
+      {
+        "value": 4,
+        "text": "El accidente ocurre durante las vacaciones y el medio de locomoción es el habitual."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El accidente ocurre durante las vacaciones y el medio de locomoción es el habitual."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e13",
+    "explanation": "Carpeta Roja Osakidetza: NO se considera accidente in itinere el que ocurre DURANTE LAS VACACIONES (d), aunque el medio de locomoción sea el habitual. El accidente in itinere requiere que sea en el trayecto domicilio-trabajo o viceversa, no durante el periodo vacacional. Respuesta D."
+  },
+  {
+    "id": "aux-e13_7",
+    "questionNum": 7,
+    "question": "Si a un trabajador le ha ocurrido un accidente, un incidente o una agresión o es testigo de alguno de ellos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Informe inmediatamente a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención."
+      },
+      {
+        "value": 2,
+        "text": "Informe a los dos días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención."
+      },
+      {
+        "value": 3,
+        "text": "Informe a los siete días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención."
+      },
+      {
+        "value": 4,
+        "text": "Informe a los quince días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Informe inmediatamente a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e13",
+    "explanation": "Manual Informativo Osakidetza: Si a un trabajador le ocurre un accidente, incidente o agresión, deberá INFORMAR INMEDIATAMENTE a su RESPONSABLE INMEDIATO y, si no puede, a la UNIDAD BÁSICA DE PREVENCIÓN (UBP). No a los dos días (b) ni a los siete días (c). Respuesta A."
+  },
+  {
+    "id": "aux-e13_8",
+    "questionNum": 8,
+    "question": "Ante una agresión, la actuación inmediata del trabajador será:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Comunicar la agresión en el menor plazo de tiempo posible a su responsable inmediato."
+      },
+      {
+        "value": 2,
+        "text": "Si requiere asistencia médica, acudir a la Unidad Básica de Prevención correspondiente."
+      },
+      {
+        "value": 3,
+        "text": "Cumplimentar el Registro para la Notificación de Accidente / Incidente / Agresiones “Formato I” firmado por el responsable inmediato, la persona accidentada y los testigos, si los hubiera y enviarlo a la Unidad que le ha prestado la asistencia. Elaborar junto con el responsable inmediato, un informe lo más exhaustivo posible."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e13",
+    "explanation": "Manual Informativo Osakidetza (protocolo ante agresión): La actuación inmediata incluye: a) COMUNICAR la agresión al responsable inmediato; b) si requiere asistencia médica, ACUDIR a la UBP; c) CUMPLIMENTAR el Registro de Notificación (Formato I) firmado y enviarlo. Las tres actuaciones son correctas y complementarias. Respuesta D."
+  }
+]

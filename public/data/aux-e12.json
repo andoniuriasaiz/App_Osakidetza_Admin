@@ -779,17 +779,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Un representante de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas."
+      "Dos representantes de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "aux-e12",
-    "explanation": "Art. 13.1 Ley 31/1995: La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por UN REPRESENTANTE DE CADA CCAA y por IGUAL NÚMERO de miembros de la AGE y, PARITARIAMENTE con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas. Respuesta C."
+    "explanation": "Art. 13 Ley 31/1995: La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por representantes de la Administración General del Estado (un representante por cada uno de los Ministerios con competencias en la materia), un representante de cada una de las CCAA, y representantes de las organizaciones empresariales y sindicales más representativas. Respuesta A."
   },
   {
     "id": "aux-e12_23",
@@ -825,6 +825,6 @@
     "image": null,
     "imageUrl": null,
     "module": "aux-e12",
-    "explanation": "Art. 13.3 Ley 31/1995: La Comisión adoptará sus acuerdos POR MAYORÍA. A tal fin, los representantes de las AAPP tendrán cada uno UN VOTO y DOS los de las organizaciones empresariales y sindicales. Respuesta A."
+    "explanation": "Art. 13 Ley 31/1995: La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por representantes de la Administración General del Estado (un representante por cada uno de los Ministerios con competencias en la materia), un representante de cada una de las CCAA, y representantes de las organizaciones empresariales y sindicales más representativas. Respuesta A."
   }
 ]

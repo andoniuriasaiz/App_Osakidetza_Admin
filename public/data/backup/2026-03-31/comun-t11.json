@@ -1,0 +1,398 @@
+[
+  {
+    "id": "comun-t11_1",
+    "questionNum": 1,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, respecto a la legitimidad para presentar una queja ante Emakunde-Instituto Vasco de la Mujer, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La legitimidad se reconoce a cualquier persona o grupo de personas que se considere discriminada por razón de sexo, o quienes legítimamente les representen"
+      },
+      {
+        "value": 2,
+        "text": "La legitimidad se reconoce solo a quien ostente nacionalidad española."
+      },
+      {
+        "value": 3,
+        "text": "Las personas jurídicas no están legitimadas para iniciar y tomar parte en el procedimiento en nombre o en apoyo de la persona que se considere discriminada."
+      },
+      {
+        "value": 4,
+        "text": "Las asociaciones y organizaciones que tengan entre sus fines velar por el cumplimiento del principio de igualdad de trato de mujeres y hombres siempre están legitimadas para iniciar y tomar parte en el procedimiento en nombre o en apoyo de la persona que se considere discriminada."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La legitimidad se reconoce a cualquier persona o grupo de personas que se considere discriminada por razón de sexo, o quienes legítimamente les representen"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 1 DL 1/2023: El objeto del Decreto Legislativo 1/2023 es 'aprobar el Texto Refundido de la Ley para la Igualdad de Mujeres y Hombres, incorporando también las disposiciones en materia de violencia contra las mujeres.' Respuesta B."
+  },
+  {
+    "id": "comun-t11_2",
+    "questionNum": 2,
+    "question": "El artículo 1 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, añade un concepto específico al objeto de la ley que refuerza el fin último de la norma, ¿cuál es?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La igualdad de oportunidades."
+      },
+      {
+        "value": 2,
+        "text": "El empoderamiento de las mujeres."
+      },
+      {
+        "value": 3,
+        "text": "Lograr una sociedad libre de violencia machista."
+      },
+      {
+        "value": 4,
+        "text": "La eliminación de roles tradicionales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Lograr una sociedad libre de violencia machista."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 9 DL 1/2023: Se define discriminación directa cuando 'una persona sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación comparable por razón de sexo.' Respuesta C."
+  },
+  {
+    "id": "comun-t11_3",
+    "questionNum": 3,
+    "question": "Según el artículo 2 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿a qué entidades privadas les es exigible el cumplimiento de los principios generales de esta ley durante su relación con la administración?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo a las que tengan una plantilla superior a 250 personas."
+      },
+      {
+        "value": 2,
+        "text": "A todas las empresas con sede en Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "A las que suscriban contratos o convenios, estén participadas por poderes públicos o sean beneficiarias de ayudas."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna entidad privada está sujeta a los principios de la ley."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "A las que suscriban contratos o convenios, estén participadas por poderes públicos o sean beneficiarias de ayudas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 10 DL 1/2023: La discriminación indirecta ocurre cuando 'una disposición, criterio o práctica aparentemente neutros sitúa o puede situar a personas de un sexo en desventaja particular con respecto a personas del otro sexo, salvo que dicha disposición, criterio o práctica pueda justificarse objetivamente en atención a una finalidad legítima.' Respuesta A."
+  },
+  {
+    "id": "comun-t11_4",
+    "questionNum": 4,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿cuál de estos es un principio general de actuación de los poderes públicos vascos incorporado en la nueva redacción del artículo 3?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El principio de jerarquía administrativa."
+      },
+      {
+        "value": 2,
+        "text": "La integración de la perspectiva interseccional."
+      },
+      {
+        "value": 3,
+        "text": "El principio de celeridad procesal."
+      },
+      {
+        "value": 4,
+        "text": "La centralización de recursos de acogida."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La integración de la perspectiva interseccional."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 24 DL 1/2023: Los planes de igualdad de las Administraciones Públicas vascas deben incluir: diagnóstico de la situación, objetivos y medidas, indicadores de seguimiento, dotación presupuestaria y evaluación periódica. Respuesta D."
+  },
+  {
+    "id": "comun-t11_5",
+    "questionNum": 5,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, respecto al principio de representación equilibrada, ¿en qué caso se permite excepcionalmente una presencia de mujeres superior al 60%?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En ningún caso."
+      },
+      {
+        "value": 2,
+        "text": "Solo si no hay hombres capacitados en el sector."
+      },
+      {
+        "value": 3,
+        "text": "Cuando sea acorde al objetivo de corregir la histórica situación de infrarrepresentación de las mujeres."
+      },
+      {
+        "value": 4,
+        "text": "Si el órgano tiene menos de cuatro integrantes."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cuando sea acorde al objetivo de corregir la histórica situación de infrarrepresentación de las mujeres."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 18 DL 1/2023: La composición de los órganos colegiados de la Administración Vasca debe respetar el principio de presencia equilibrada de mujeres y hombres, de forma que ningún sexo supere el 60% ni sea inferior al 40%. Respuesta B."
+  },
+  {
+    "id": "comun-t11_6",
+    "questionNum": 6,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué planes específicos deben someterse ahora, obligatoriamente, a una evaluación previa de impacto en función del género?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo los planes de formación interna."
+      },
+      {
+        "value": 2,
+        "text": "Los planes territoriales y urbanísticos."
+      },
+      {
+        "value": 3,
+        "text": "Los planes de marketing de empresas públicas."
+      },
+      {
+        "value": 4,
+        "text": "Ningún plan, solo los proyectos de ley."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los planes territoriales y urbanísticos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 65 DL 1/2023: Emakunde-Instituto Vasco de la Mujer es el organismo de la Comunidad Autónoma de Euskadi responsable de la aplicación de las políticas de igualdad, con personalidad jurídica propia y plena capacidad de obrar. Respuesta C."
+  },
+  {
+    "id": "comun-t11_7",
+    "questionNum": 7,
+    "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué requisito nuevo deben cumplir las empresas de más de 50 personas trabajadoras para poder recibir subvenciones públicas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tener paridad total en su directiva."
+      },
+      {
+        "value": 2,
+        "text": "Acreditar haber establecido medidas para prevenir y combatir el acoso sexual y las violencias sexuales."
+      },
+      {
+        "value": 3,
+        "text": "Tener un departamento exclusivo de igualdad."
+      },
+      {
+        "value": 4,
+        "text": "Estar inscritas en un registro internacional de igualdad."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Acreditar haber establecido medidas para prevenir y combatir el acoso sexual y las violencias sexuales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 31 DL 1/2023: El lenguaje no sexista y la imagen no estereotipada de mujeres y hombres debe utilizarse en todas las actuaciones, comunicaciones y documentación oficial de las administraciones públicas vascas. Respuesta A."
+  },
+  {
+    "id": "comun-t11_8",
+    "questionNum": 8,
+    "question": "De acuerdo con lo establecido en el artículo 54 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿cómo se define la \"violencia machista contra las mujeres\"?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo la violencia física en el hogar."
+      },
+      {
+        "value": 2,
+        "text": "Una violación de los derechos humanos y un problema de salud pública de primer orden."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente los delitos contra la libertad sexual."
+      },
+      {
+        "value": 4,
+        "text": "Un conflicto de convivencia familiar."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Una violación de los derechos humanos y un problema de salud pública de primer orden."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 77 DL 1/2023: Se considera violencia contra las mujeres toda violencia ejercida sobre las mujeres por el hecho de serlo. Incluye violencia física, psicológica, sexual, económica y social, en el ámbito de la pareja, la familia, el trabajo, la comunidad o el Estado. Respuesta D."
+  },
+  {
+    "id": "comun-t11_9",
+    "questionNum": 9,
+    "question": "De acuerdo con lo establecido en el artículo 54.3 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿qué formas de violencia se incorporan como casos constitutivos de violencia machista por estar específicamente recogidos en dicho apartado?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo la violencia física y psicológica."
+      },
+      {
+        "value": 2,
+        "text": "La violencia obstétrica, la política de género y la violencia digital."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente el acoso laboral."
+      },
+      {
+        "value": 4,
+        "text": "No se detallan formas, se remite al Código Penal."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La violencia obstétrica, la política de género y la violencia digital."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 19 DL 1/2023: La evaluación de impacto en función del género debe realizarse en los procesos de elaboración de disposiciones normativas, planes y programas de las administraciones públicas vascas. Respuesta B."
+  },
+  {
+    "id": "comun-t11_10",
+    "questionNum": 10,
+    "question": "De acuerdo con el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué derecho se reconoce expresamente a las víctimas en el marco de las competencias de la Comunidad Autónoma de Euskadi?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Derecho a la inmunidad procesal."
+      },
+      {
+        "value": 2,
+        "text": "Derecho a la reparación conforme al Convenio de Estambul"
+      },
+      {
+        "value": 3,
+        "text": "Derecho a la jubilación anticipada."
+      },
+      {
+        "value": 4,
+        "text": "Derecho a la residencia gratuita permanente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Derecho a la reparación conforme al Convenio de Estambul"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "Art. 14 DL 1/2023: La Administración General de la Comunidad Autónoma de Euskadi establecerá medidas de acción positiva para promover la igualdad real de mujeres y hombres. El objetivo de las acciones positivas es compensar las desventajas de un colectivo históricamente discriminado para alcanzar la igualdad efectiva. Respuesta C."
+  },
+  {
+    "id": "comun-t11_11",
+    "questionNum": 11,
+    "question": "En el Plan Oncológico Integral de Euskadi (POIE) 2025-2030, la “Centralidad de la persona y humanización” como Principio Rector incluye la incorporación de la perspectiva de género y la atención a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La telemonitorización avanzada."
+      },
+      {
+        "value": 2,
+        "text": "La diversidad."
+      },
+      {
+        "value": 3,
+        "text": "El personal profesional no implicado directamente."
+      },
+      {
+        "value": 4,
+        "text": "Las redes sociales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La diversidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "POIE 2025-2030: La supervivencia al cáncer ha mejorado significativamente en las últimas décadas gracias a los avances en diagnóstico precoz y tratamientos. El Plan propone continuar esta tendencia mediante la innovación terapéutica. Respuesta D."
+  }
+]

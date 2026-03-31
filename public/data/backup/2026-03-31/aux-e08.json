@@ -1,0 +1,614 @@
+[
+  {
+    "id": "aux-e08_1",
+    "questionNum": 1,
+    "question": "La Comisión Corporativa de Traslados por Motivos de Salud de Osakidetza tiene como función:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Evaluar los riesgos de puestos de trabajo y las peticiones de traslado por motivos de salud."
+      },
+      {
+        "value": 2,
+        "text": "Investigación y mejora de las condiciones de trabajo como acción preventiva en materia de traslados por motivos de salud."
+      },
+      {
+        "value": 3,
+        "text": "Análisis de las solicitudes de adaptación de puestos de trabajo por motivos de salud que no puedan ser resueltas dentro de cada organización de servicios."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas"
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Análisis de las solicitudes de adaptación de puestos de trabajo por motivos de salud que no puedan ser resueltas dentro de cada organización de servicios."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 (Comisión Corporativa Traslados por Motivos de Salud): Su función es el ANÁLISIS DE LAS SOLICITUDES DE ADAPTACIÓN DE PUESTOS DE TRABAJO POR MOTIVOS DE SALUD QUE NO PUEDAN SER RESUELTAS DENTRO DE CADA ORGANIZACIÓN DE SERVICIOS. Actúa cuando la solución no puede darse internamente. Respuesta C."
+  },
+  {
+    "id": "aux-e08_2",
+    "questionNum": 2,
+    "question": "Según el Decreto 106/2008 es uno de los requisitos que el personal sin relación de empleo fijo en la administración debe reunir, además de los requisitos generales que establezcan las convocatorias:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Haber prestado dos años de servicios en Osakidetza en la misma categoría desde la que se solicita el desarrollo profesional."
+      },
+      {
+        "value": 2,
+        "text": "Haber tomado parte en el último proceso de Oferta Pública de Empleo convocado, con realización efectiva del examen de la categoría desde la que opte."
+      },
+      {
+        "value": 3,
+        "text": "Haber prestado servicios en cualquiera de las Administraciones Públicas o en instituciones sanitarias de titularidad privada."
+      },
+      {
+        "value": 4,
+        "text": "Haber formado parte de las listas de contratación temporal de Osakidetza por un periodo mínimo de seis meses."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Haber tomado parte en el último proceso de Oferta Pública de Empleo convocado, con realización efectiva del examen de la categoría desde la que opte."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.106/2008 (desarrollo profesional — personal sin relación fija): El personal sin relación de empleo fijo debe, además de los requisitos generales, HABER TOMADO PARTE EN EL ÚLTIMO PROCESO DE OFERTA PÚBLICA DE EMPLEO convocado, CON REALIZACIÓN EFECTIVA DEL EXAMEN de la categoría desde la que opte. Respuesta B."
+  },
+  {
+    "id": "aux-e08_3",
+    "questionNum": 3,
+    "question": "En relación a la consideración de servicios prestados a efectos de desarrollo profesional:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al personal sin relación de empleo fijo se le computarán los servicios prestados en otras administraciones a razón de un 30%."
+      },
+      {
+        "value": 2,
+        "text": "Al personal fijo se le computarán los servicios prestados en otras administraciones, en diferentes grupos profesionales, a razón de un 20%."
+      },
+      {
+        "value": 3,
+        "text": "Al personal fijo se le computarán los servicios prestados en otras administraciones, en el mismo grupo profesional, a razón de un 50%."
+      },
+      {
+        "value": 4,
+        "text": "Al personal que ha accedido a promoción interna se le computarán los servicios prestados en otras administraciones, a razón de un 40%."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Al personal fijo se le computarán los servicios prestados en otras administraciones, en el mismo grupo profesional, a razón de un 50%."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.106/2008 (cómputo servicios para desarrollo profesional): AL PERSONAL FIJO se le computarán los servicios prestados en otras administraciones, EN EL MISMO GRUPO PROFESIONAL, A RAZÓN DE UN 50%. Respuesta C."
+  },
+  {
+    "id": "aux-e08_4",
+    "questionNum": 4,
+    "question": "La Comisión paritaria de seguimiento del desarrollo profesional tiene como función:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Establecer y actualizar los criterios para la promoción interna del personal de Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "Determinar las fechas para las convocatorias correspondientes al periodo transitorio."
+      },
+      {
+        "value": 3,
+        "text": "Informar a las Centrales Sindicales de los criterios de baremación establecidos para las convocatorias."
+      },
+      {
+        "value": 4,
+        "text": "Recibir información sobre el desarrollo de los procedimientos de evaluación y de reconocimiento de grado."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Recibir información sobre el desarrollo de los procedimientos de evaluación y de reconocimiento de grado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.106/2008 (Comisión paritaria seguimiento desarrollo profesional): Su función es RECIBIR INFORMACIÓN SOBRE EL DESARROLLO DE LOS PROCEDIMIENTOS DE EVALUACIÓN Y DE RECONOCIMIENTO DE GRADO. Respuesta D."
+  },
+  {
+    "id": "aux-e08_5",
+    "questionNum": 5,
+    "question": "El Decreto 106/2008, de 3 de junio, por el que se aprueba el Acuerdo alcanzado en la Mesa Sectorial de Sanidad, en su reunión del día 14 de marzo de 2008, en materia de conciliación de la vida laboral y familiar, y más concretamente en relación a la licencia por gestación recoge que todo el personal femenino (no sólo el sanitario):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "NO podrá realizar guardias durante los cuatro meses anteriores y posteriores."
+      },
+      {
+        "value": 2,
+        "text": "Tendrá la opción de realizar guardias durante los dos meses anteriores y posteriores."
+      },
+      {
+        "value": 3,
+        "text": "NO podrá realizar noches, pero sí podrá realizar guardias en los tres meses anteriores y posteriores."
+      },
+      {
+        "value": 4,
+        "text": "Tendrá la opción de no realizar guardias y noches durante los tres meses anteriores y posteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Tendrá la opción de no realizar guardias y noches durante los tres meses anteriores y posteriores."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.106/2008 (licencia por gestación): Todo el personal femenino TENDRÁ LA OPCIÓN DE NO REALIZAR GUARDIAS Y NOCHES DURANTE LOS TRES MESES ANTERIORES Y POSTERIORES al parto. Es una opción, no una prohibición absoluta (a, c). Respuesta D."
+  },
+  {
+    "id": "aux-e08_6",
+    "questionNum": 6,
+    "question": "En el compromiso de crecimiento de plantilla estructural para el período 20072009 contemplado en el Decreto 106/2008, el mayor incremento de plazas correspondía al grupo profesional de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Médicos EAP y Pediatras."
+      },
+      {
+        "value": 2,
+        "text": "DUE´s Atención Primaria."
+      },
+      {
+        "value": 3,
+        "text": "Matronas."
+      },
+      {
+        "value": 4,
+        "text": "Auxiliares de Enfermería."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Auxiliares de Enfermería."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.106/2008 (compromiso crecimiento plantilla 2007-2009): El mayor incremento de plazas en el período 2007-2009 correspondía al grupo profesional de AUXILIARES DE ENFERMERÍA, por ser el colectivo más numeroso con mayor necesidad de cobertura. Respuesta D."
+  },
+  {
+    "id": "aux-e08_7",
+    "questionNum": 7,
+    "question": "En relación a la Euskaldunización, el Decreto 106/2008 establece la realización de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Una convocatoria anual de acreditación de perfiles lingüísticos."
+      },
+      {
+        "value": 2,
+        "text": "Dos convocatorias anuales de acreditación de perfiles lingüísticos."
+      },
+      {
+        "value": 3,
+        "text": "Tres convocatorias anuales de acreditación de perfiles lingüísticos."
+      },
+      {
+        "value": 4,
+        "text": "Cuatro convocatorias anuales de acreditación de perfiles lingüísticos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Dos convocatorias anuales de acreditación de perfiles lingüísticos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.106/2008 (Euskaldunización): El Decreto establece la realización de DOS CONVOCATORIAS ANUALES de acreditación de perfiles lingüísticos. Respuesta B."
+  },
+  {
+    "id": "aux-e08_8",
+    "questionNum": 8,
+    "question": "El Decreto 106/2008, en relación a las externalizaciones de servicios determina que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En sucesivas adjudicaciones de un mismo servicio las nuevas empresas adjudicatarias decidirán si subrogan a los/as trabajadores/as."
+      },
+      {
+        "value": 2,
+        "text": "Las subcontrataciones o externalizaciones de servicios deberán hacerse con empresas adjudicatarias de la Comunidad Autónoma."
+      },
+      {
+        "value": 3,
+        "text": "Las empresas adjudicatarias de los servicios subcontratados podrán subcontratar a su vez los servicios a terceros."
+      },
+      {
+        "value": 4,
+        "text": "Se primará a las empresas con mayor porcentaje de plantilla estable."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se primará a las empresas con mayor porcentaje de plantilla estable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.106/2008 (externalizaciones): En relación a las externalizaciones de servicios, SE PRIMARÁ A LAS EMPRESAS CON MAYOR PORCENTAJE DE PLANTILLA ESTABLE. No es libre subrogación (a), ni restricción geográfica (b), ni subcontratación en cadena (c). Respuesta D."
+  },
+  {
+    "id": "aux-e08_9",
+    "questionNum": 9,
+    "question": "Entre los aspectos adicionales al Acuerdo 2007-2009 recogidos en el Decreto 106/2008 se incluye la aprobación en el plazo de seis meses de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un protocolo ante riesgos biológicos."
+      },
+      {
+        "value": 2,
+        "text": "Un protocolo de seguridad del paciente y de buenas prácticas."
+      },
+      {
+        "value": 3,
+        "text": "Un protocolo de coordinación sociosanitaria."
+      },
+      {
+        "value": 4,
+        "text": "Un protocolo ante situaciones de discriminación por razón de sexo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Un protocolo de seguridad del paciente y de buenas prácticas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.106/2008 (aspectos adicionales): Entre los aspectos adicionales se incluye la aprobación en el plazo de seis meses de UN PROTOCOLO DE SEGURIDAD DEL PACIENTE Y DE BUENAS PRÁCTICAS. No biológicos (a) ni coordinación sociosanitaria (c). Respuesta B."
+  },
+  {
+    "id": "aux-e08_10",
+    "questionNum": 10,
+    "question": "En el Decreto 235/2007 quedan expresamente excluidos del ámbito personal de aplicación del Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal estatutario fijo."
+      },
+      {
+        "value": 2,
+        "text": "El personal sanitario local APD."
+      },
+      {
+        "value": 3,
+        "text": "El personal funcionario de carrera."
+      },
+      {
+        "value": 4,
+        "text": "El personal con relación de empleo funcionarial de carácter interino."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El personal sanitario local APD."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 Art. 3 (ámbito personal): Quedan expresamente excluidos del Acuerdo regulador EL PERSONAL SANITARIO LOCAL APD (personal de centros y servicios sanitarios locales de atención primaria dependiente de entidades locales). Respuesta B."
+  },
+  {
+    "id": "aux-e08_11",
+    "questionNum": 11,
+    "question": "El abono de cantidades a cargo de retribuciones correspondientes a un trabajo no efectuado se considera:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Adelanto de nómina."
+      },
+      {
+        "value": 2,
+        "text": "Anticipo."
+      },
+      {
+        "value": 3,
+        "text": "Préstamo."
+      },
+      {
+        "value": 4,
+        "text": "Retribución extrasalarial."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Anticipo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 (retribuciones): El abono de cantidades a cargo de retribuciones correspondientes a un trabajo NO EFECTUADO se denomina ANTICIPO. No préstamo (c) ni retribución extrasalarial (d). Respuesta B."
+  },
+  {
+    "id": "aux-e08_12",
+    "questionNum": 12,
+    "question": "Conforme a la jornada anual aprobada mediante Acuerdo de la Mesa General de negociación de la Administración de la Comunidad Autónoma de Euskadi, en el ámbito de Osakidetza para todos los tipos de jornada, excepto la nocturna, las horas de trabajo efectivo anuales a realizar en concepto de jornada ordinaria serán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Mil trescientas cuarenta y ocho."
+      },
+      {
+        "value": 2,
+        "text": "Mil cuatrocientas cincuenta y seis."
+      },
+      {
+        "value": 3,
+        "text": "Mil quinientas noventa y dos."
+      },
+      {
+        "value": 4,
+        "text": "Mil seiscientas veinticuatro."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Mil quinientas noventa y dos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 (jornada anual): Conforme al Acuerdo de la Mesa General de negociación, las horas de trabajo efectivo anuales en concepto de jornada ordinaria (excepto nocturna) serán MIL QUINIENTAS NOVENTA Y DOS (1.592). Respuesta C."
+  },
+  {
+    "id": "aux-e08_13",
+    "questionNum": 13,
+    "question": "El personal incluido en el ámbito del Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009, deberá solicitar las licencias mediante escrito dirigido a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Dirección de Recursos Humanos de la Organización de servicios correspondiente."
+      },
+      {
+        "value": 2,
+        "text": "La Dirección de la Organización de servicios correspondiente."
+      },
+      {
+        "value": 3,
+        "text": "A la persona responsable de la Unidad solicitante."
+      },
+      {
+        "value": 4,
+        "text": "La Dirección-Gerencia de la Organización de servicios."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La Dirección-Gerencia de la Organización de servicios."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 (solicitud de licencias): Las licencias se solicitarán mediante escrito dirigido a LA DIRECCIÓN-GERENCIA DE LA ORGANIZACIÓN DE SERVICIOS correspondiente. No a la Dirección de RRHH (a) ni al responsable de unidad (c). Respuesta D."
+  },
+  {
+    "id": "aux-e08_14",
+    "questionNum": 14,
+    "question": "Según el Decreto 235/2007 es un motivo para la concesión de permisos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Lactancia."
+      },
+      {
+        "value": 2,
+        "text": "Traslado o mudanza del domicilio habitual."
+      },
+      {
+        "value": 3,
+        "text": "Violencia de género."
+      },
+      {
+        "value": 4,
+        "text": "Ejercicio de funciones de representación sindical."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Traslado o mudanza del domicilio habitual."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 (permisos): Es un motivo para la concesión de PERMISOS (de carácter breve) el TRASLADO O MUDANZA DEL DOMICILIO HABITUAL (1 día laboral). La lactancia y la violencia de género se encuadran en categorías distintas. Respuesta B."
+  },
+  {
+    "id": "aux-e08_15",
+    "questionNum": 15,
+    "question": "En relación a las licencias para el personal contempladas en el Decreto 235/2007:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En los supuestos de adopción o acogimiento, la licencia tendrá una duración de veintidós semanas."
+      },
+      {
+        "value": 2,
+        "text": "Por razón de matrimonio propio, el personal tendrá derecho a una licencia de 20 días naturales de duración."
+      },
+      {
+        "value": 3,
+        "text": "Las trabajadoras embarazadas tendrán derecho a una licencia por el tiempo necesario para concurrir a exámenes prenatales sin derecho a remuneración."
+      },
+      {
+        "value": 4,
+        "text": "Durante el disfrute de la licencia por lactancia no se podrá participar en los cursos de formación que convoque Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Por razón de matrimonio propio, el personal tendrá derecho a una licencia de 20 días naturales de duración."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 (duración licencias): El Acuerdo Regulador de Osakidetza, como convenio colectivo sectorial, reconoce 20 DÍAS NATURALES por RAZÓN DE MATRIMONIO PROPIO, superando los 15 días del EBEP. Respuesta B."
+  },
+  {
+    "id": "aux-e08_16",
+    "questionNum": 16,
+    "question": "La licencia por enfermedad grave, hospitalización o fallecimiento de parientes, en el caso de tratarse del cónyuge, compañero/a o hijo/a contiene el siguiente periodo de duración.",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dos días hábiles. Dos días hábiles más si los hechos que lo motivan se producen a más de 110 kms. del lugar de residencia del solicitante."
+      },
+      {
+        "value": 2,
+        "text": "Cuatro días naturales. Dos días hábiles más si los hechos que lo motivan se producen a más de 130 kms. del lugar de residencia del solicitante."
+      },
+      {
+        "value": 3,
+        "text": "Tres días hábiles. Dos días hábiles más si los hechos que lo motivan se producen a más de 120 kms. del lugar de residencia del solicitante."
+      },
+      {
+        "value": 4,
+        "text": "Cinco días naturales. Dos días hábiles más si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Cinco días naturales. Dos días hábiles más si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 (licencia enfermedad/hospitalización/fallecimiento familiar): Para cónyuge, compañero/a o hijo/a: CINCO DÍAS NATURALES. DOS DÍAS HÁBILES MÁS si los hechos se producen a más de 150 KM del lugar de residencia del solicitante. Respuesta D."
+  },
+  {
+    "id": "aux-e08_17",
+    "questionNum": 17,
+    "question": "Es una situación administrativa en la que puede hallarse el personal sujeto al Acuerdo regulador de las condiciones de trabajo del personal de OsakidetzaServicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Libre designación en Osakidetza."
+      },
+      {
+        "value": 2,
+        "text": "Expectativa de destino."
+      },
+      {
+        "value": 3,
+        "text": "Excedencia por servicios en el sector público."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Excedencia por servicios en el sector público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e08",
+    "explanation": "D.235/2007 (situaciones administrativas): El personal sujeto al Acuerdo puede hallarse en situación de EXCEDENCIA POR SERVICIOS EN EL SECTOR PÚBLICO (c), que es una situación administrativa reconocida. La 'libre designación' (a) es un sistema de provisión, no una situación. Respuesta C."
+  }
+]

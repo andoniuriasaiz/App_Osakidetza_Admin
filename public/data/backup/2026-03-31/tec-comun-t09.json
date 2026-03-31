@@ -1,0 +1,290 @@
+[
+  {
+    "id": "tec-comun-t09_1",
+    "questionNum": 1,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la expresión de los objetivos vitales y valores personales tiene como fin:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Conocer la voluntad de la persona paciente en relación con la administración de sedación."
+      },
+      {
+        "value": 2,
+        "text": "Conocer la voluntad de la persona paciente en relación con la finalización de tratamientos de soporte vital."
+      },
+      {
+        "value": 3,
+        "text": "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+      },
+      {
+        "value": 4,
+        "text": "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t09",
+    "explanation": "Art. 2 Ley 7/2002: la expresión de los objetivos vitales y valores personales tiene como fin ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+  },
+  {
+    "id": "tec-comun-t09_2",
+    "questionNum": 2,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, en el documento de voluntades anticipadas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario."
+      },
+      {
+        "value": 2,
+        "text": "Se podrá designar exclusivamente una persona representante para que sea la interlocutora válida del personal facultativo o del equipo sanitario."
+      },
+      {
+        "value": 3,
+        "text": "Se podrá designar una o varias personas representantes si la persona paciente es menor de edad."
+      },
+      {
+        "value": 4,
+        "text": "Se podrá designar una o varias personas representantes si la persona paciente está incapacitada judicialmente."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t09",
+    "explanation": "Art. 3 Ley 7/2002: en el documento de VA se podrá designar una o varias personas representantes como interlocutoras válidas del equipo sanitario. No hay limitación a una sola ni restricción por edad o incapacidad."
+  },
+  {
+    "id": "tec-comun-t09_3",
+    "questionNum": 3,
+    "question": "Según la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, si el nombramiento de representante en el documento de instrucciones previas ha recaído en favor de la persona cónyuge o pareja de hecho de la persona otorgante:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
+      },
+      {
+        "value": 2,
+        "text": "Se extingue a partir bien de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento será necesario que conste en la resolución judicial."
+      },
+      {
+        "value": 3,
+        "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho. Para el mantenimiento será necesario que conste en el documento de instrucciones previas."
+      },
+      {
+        "value": 4,
+        "text": "Se extingue bien a partir de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho. Para el mantenimiento será necesario que conste en el documento de instrucciones previas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t09",
+    "explanation": "Art. 3 bis Ley 7/2002: el nombramiento de representante en favor de cónyuge o pareja de hecho se extingue desde la interposición de la demanda (no desde la sentencia) de nulidad/separación/divorcio, o desde la extinción formalizada de la pareja. Para mantenerlo hay que hacerlo constar en resolución judicial."
+  },
+  {
+    "id": "tec-comun-t09_4",
+    "questionNum": 4,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, las instrucciones sobre el tratamiento pueden referirse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A una enfermedad o lesión que la persona otorgante ya padece o a las que eventualmente podría padecer en un futuro."
+      },
+      {
+        "value": 2,
+        "text": "Exclusivamente a una enfermedad o lesión que la persona otorgante ya padece."
+      },
+      {
+        "value": 3,
+        "text": "Exclusivamente a una enfermedad o lesión que la persona otorgante eventualmente podría padecer en un futuro."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente a una enfermedad o lesión que la persona otorgante eventualmente podría padecer en un futuro, siempre que sea de carácter grave."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "A una enfermedad o lesión que la persona otorgante ya padece o a las que eventualmente podría padecer en un futuro."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t09",
+    "explanation": "Art. 2 Ley 7/2002: las instrucciones sobre el tratamiento pueden referirse tanto a enfermedades actuales como a futuras posibles. No hay restricción a una sola modalidad."
+  },
+  {
+    "id": "tec-comun-t09_5",
+    "questionNum": 5,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, el documento de voluntades anticipadas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de Voluntades Anticipadas; o ante dos testigos."
+      },
+      {
+        "value": 2,
+        "text": "Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de Voluntades Anticipadas; o ante tres testigos."
+      },
+      {
+        "value": 3,
+        "text": "Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la CAPV; o ante dos testigos."
+      },
+      {
+        "value": 4,
+        "text": "Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la CAPV; o ante tres testigos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la CAPV; o ante tres testigos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t09",
+    "explanation": "Art. 4 Ley 7/2002: el documento de VA se formaliza ante notaría, ante la/el funcionaria/o del Registro Vasco o del servicio de documentación de un centro sanitario de la CAPV, o ante tres testigos."
+  },
+  {
+    "id": "tec-comun-t09_6",
+    "questionNum": 6,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, el documento de voluntades anticipadas puede ser modificado, sustituido por otro o revocado en cualquier momento por la persona otorgante:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre que conserve la capacidad o actúe con la asistencia de su representante legal y actúe libremente."
+      },
+      {
+        "value": 2,
+        "text": "Siempre que conserve la capacidad o exista autorización judicial."
+      },
+      {
+        "value": 3,
+        "text": "Siempre que actúe libremente."
+      },
+      {
+        "value": 4,
+        "text": "Siempre que conserve la capacidad y actúe libremente."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Siempre que conserve la capacidad y actúe libremente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t09",
+    "explanation": "Art. 4.2 Ley 7/2002: el documento de VA puede modificarse, sustituirse o revocarse siempre que la persona conserve la capacidad Y actúe libremente. Ambas condiciones son necesarias simultáneamente."
+  },
+  {
+    "id": "tec-comun-t09_7",
+    "questionNum": 7,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, la voluntad de la persona prevalece sobre las instrucciones contenidas en el documento de voluntades anticipadas ante cualquier intervención clínica siempre que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona otorgante conserve su capacidad y su libertad de actuación."
+      },
+      {
+        "value": 2,
+        "text": "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse."
+      },
+      {
+        "value": 3,
+        "text": "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse de manera inequívoca."
+      },
+      {
+        "value": 4,
+        "text": "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse de manera inequívoca o a través de la persona interlocutora designada al efecto."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse de manera inequívoca."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t09",
+    "explanation": "Art. 5 Ley 7/2002: la voluntad actual del paciente prevalece sobre el documento cuando conserva su capacidad, libertad de actuación y puede expresarse de manera inequívoca."
+  },
+  {
+    "id": "tec-comun-t09_8",
+    "questionNum": 8,
+    "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas, en el documento de voluntades anticipadas se tendrán por no puestas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
+      },
+      {
+        "value": 2,
+        "text": "Las instrucciones que en el momento de ser otorgadas resulten contrarias al ordenamiento jurídico."
+      },
+      {
+        "value": 3,
+        "text": "Las respuestas a) y b) son correctas."
+      },
+      {
+        "value": 4,
+        "text": "Las instrucciones que en el momento de ser aplicadas no se aprueben por el comité de ética del centro."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t09",
+    "explanation": "Art. 5.3 Ley 7/2002: se tendrán por no puestas las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico vigente (no en el momento de otorgarse, sino de aplicarse)."
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "adm-lpac-procedimiento_1",
+    "questionNum": 1,
+    "question": "La estimación por silencio administrativo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Carece de efectos jurídicos."
+      },
+      {
+        "value": 2,
+        "text": "Tiene la consideración de acto administrativo paralizado a la espera de subsanación de errores."
+      },
+      {
+        "value": 3,
+        "text": "Tiene los solos efectos de permitir a los interesados interponer el recurso administrativo procedente."
+      },
+      {
+        "value": 4,
+        "text": "Tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-procedimiento",
+    "explanation": "Art. 24.1 Ley 39/2015: La estimación por silencio administrativo (silencio positivo) 'tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.' No es meramente informativo ni parcial; produce los mismos efectos que una resolución expresa favorable. Respuesta D."
+  },
+  {
+    "id": "adm-lpac-procedimiento_2",
+    "questionNum": 2,
+    "question": "Es una de las medidas provisionales que, iniciado el procedimiento, podría adoptar el órgano administrativo competente para resolver:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Embargo definitivo de rentas."
+      },
+      {
+        "value": 2,
+        "text": "Suspensión temporal de actividades."
+      },
+      {
+        "value": 3,
+        "text": "Pérdida de la condición de funcionario."
+      },
+      {
+        "value": 4,
+        "text": "Imposiciones de sanciones metálicas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Suspensión temporal de actividades."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-procedimiento",
+    "explanation": "Art. 56.1 Ley 39/2015: Las medidas provisionales que puede adoptar el órgano incluyen: 'c) Suspensión temporal de actividades.' El embargo definitivo no es provisional; la pérdida de condición de funcionario y las sanciones son medidas definitivas que no pueden anticiparse mediante cautelar. La suspensión temporal de actividades sí es una medida cautelar clásica. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-procedimiento_3",
+    "questionNum": 3,
+    "question": "Se entiende por__________, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Orden superior."
+      },
+      {
+        "value": 2,
+        "text": "Oficio."
+      },
+      {
+        "value": 3,
+        "text": "Propia iniciativa."
+      },
+      {
+        "value": 4,
+        "text": "Petición razonada."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Propia iniciativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-procedimiento",
+    "explanation": "Art. 58.1 Ley 39/2015: 'Se entiende por PROPIA INICIATIVA la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación.' Definición literal del artículo. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-procedimiento_4",
+    "questionNum": 4,
+    "question": "En el inicio del procedimiento por denuncia, cuando el denunciante haya participado en la comisión de una infracción y existan otros infractores, para resolver el procedimiento administrativo el órgano competente deberá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Imponer a todos los infractores sanciones de carácter pecunario."
+      },
+      {
+        "value": 2,
+        "text": "Despido disciplinario de los infractores y pago de multa para el denunciante."
+      },
+      {
+        "value": 3,
+        "text": "Eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario."
+      },
+      {
+        "value": 4,
+        "text": "Imponer a los infractores una sanción no pecuniaria y exigir al denunciante la restitución del daño."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-procedimiento",
+    "explanation": "Art. 62.3 Ley 39/2015: 'El órgano competente para resolver, cuando el denunciante haya participado en la comisión de una infracción y existan otros infractores, PODRÁ EXIMIR al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario.' Posibilidad de exención para incentivar la denuncia. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-procedimiento_5",
+    "questionNum": 5,
+    "question": "Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Esquema Autonómico de interconectividad y Normas Técnicas de interoperabilidad."
+      },
+      {
+        "value": 2,
+        "text": "El Esquema Autonómico de interoperabilidad y Normas Técnicas de interoperabilidad."
+      },
+      {
+        "value": 3,
+        "text": "El Esquema Nacional de interconectividad y Normas Técnicas de interoperabilidad."
+      },
+      {
+        "value": 4,
+        "text": "El Esquema Nacional de interoperabilidad y Normas Técnicas de interoperabilidad."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El Esquema Nacional de interoperabilidad y Normas Técnicas de interoperabilidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-procedimiento",
+    "explanation": "Art. 84 del Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad (ENI) en el ámbito de la Administración Electrónica, en relación con el Art. 26 Ley 39/2015: Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en el ESQUEMA NACIONAL DE INTEROPERABILIDAD (ENI) y en las NORMAS TÉCNICAS DE INTEROPERABILIDAD. El ENI (no 'autonómico') es el marco de referencia para garantizar la compatibilidad entre sistemas. Respuesta D."
+  },
+  {
+    "id": "adm-lpac-procedimiento_6",
+    "questionNum": 6,
+    "question": "Podrán fin al procedimiento administrativo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El desistimiento."
+      },
+      {
+        "value": 2,
+        "text": "La declaración de caducidad."
+      },
+      {
+        "value": 3,
+        "text": "La notificación infructuosa."
+      },
+      {
+        "value": 4,
+        "text": "a) y b) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) y b) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-procedimiento",
+    "explanation": "Art. 84 Ley 39/2015 LPAC: Las formas de terminación del procedimiento son: resolución, desistimiento, renuncia, declaración de caducidad, imposibilidad material sobrevenida y terminación convencional. 'Notificación infructuosa' NO es forma de terminación. Desistimiento (Art. 93) y declaración de caducidad (Art. 95) sí ponen fin → respuesta D (a y b son correctas)."
+  },
+  {
+    "id": "adm-lpac-procedimiento_7",
+    "questionNum": 7,
+    "question": "¿Cuál de las siguientes afirmaciones sobre la tramitación simplificada del procedimiento administrativo común es FALSA?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las Administraciones pueden acordar la tramitación simplificada cuando haya razones de interés público o la falta de complejidad del procedimiento así lo aconsejen."
+      },
+      {
+        "value": 2,
+        "text": "Si uno de los interesados manifiesta oposición expresa a haber sido notificada la tramitación simplificada, la Administración seguirá con la tramitación ordinaria."
+      },
+      {
+        "value": 3,
+        "text": "En el caso de procedimientos de naturaleza sancionadora se podrá adoptar la tramitación simplificada si existen elementos de juicio para calificar la infracción como grave."
+      },
+      {
+        "value": 4,
+        "text": "Los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el día siguiente al que se notifique al interesado el acuerdo de tramitación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En el caso de procedimientos de naturaleza sancionadora se podrá adoptar la tramitación simplificada si existen elementos de juicio para calificar la infracción como grave."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-procedimiento",
+    "explanation": "Art. 96.5 Ley 39/2015 LPAC: En la tramitación simplificada del procedimiento sancionador NO existe fase de alegaciones previa a la propuesta de resolución. La afirmación que indica que sí existe dicha fase es FALSA. Respuesta C."
+  }
+]

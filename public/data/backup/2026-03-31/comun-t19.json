@@ -1,0 +1,326 @@
+[
+  {
+    "id": "comun-t19_1",
+    "questionNum": 1,
+    "question": "¿Cuál es el principio general que establece la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La libre acumulación de empleos públicos."
+      },
+      {
+        "value": 2,
+        "text": "La incompatibilidad para desempeñar más de un puesto en el sector público, salvo excepciones."
+      },
+      {
+        "value": 3,
+        "text": "La compatibilidad automática entre empleo público y privado."
+      },
+      {
+        "value": 4,
+        "text": "La compatibilidad solo en el ámbito sanitario."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La incompatibilidad para desempeñar más de un puesto en el sector público, salvo excepciones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Art. 1 Ley 53/1984: El principio general es la INCOMPATIBILIDAD para el desempeño de más de un puesto de trabajo en el sector público, salvo las excepciones legalmente previstas. Respuesta B."
+  },
+  {
+    "id": "comun-t19_2",
+    "questionNum": 2,
+    "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué se considera “sector público”?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo la Administración General del Estado."
+      },
+      {
+        "value": 2,
+        "text": "Solo las Comunidades Autónomas."
+      },
+      {
+        "value": 3,
+        "text": "Las Administraciones Públicas y entidades vinculadas o dependientes de ellas."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente los organismos autónomos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las Administraciones Públicas y entidades vinculadas o dependientes de ellas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Art. 2 Ley 53/1984: Se considera sector público a efectos de esta ley: la Administración del Estado, la Seguridad Social, las Comunidades Autónomas, las corporaciones locales, los organismos autónomos, las entidades gestoras de la Seguridad Social, y demás entidades, empresas y sociedades, con participación mayoritaria del sector público. Respuesta C."
+  },
+  {
+    "id": "comun-t19_3",
+    "questionNum": 3,
+    "question": "Con carácter general, el personal comprendido en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, podrá desempeñar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dos puestos públicos si uno es a tiempo parcial."
+      },
+      {
+        "value": 2,
+        "text": "Un segundo puesto público únicamente con autorización previa y en los supuestos previstos por la Ley."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier actividad privada sin limitación."
+      },
+      {
+        "value": 4,
+        "text": "Dos puestos públicos si pertenecen a distinta Administración."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Un segundo puesto público únicamente con autorización previa y en los supuestos previstos por la Ley."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Art. 1 Ley 53/1984: Con carácter general, el personal solo podrá desempeñar un segundo puesto público cuando así esté previsto en la ley y previa autorización de compatibilidad. No es automático ni libre. Respuesta B."
+  },
+  {
+    "id": "comun-t19_4",
+    "questionNum": 4,
+    "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué requisito es imprescindible para autorizar la compatibilidad con una actividad privada?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que la actividad sea sanitaria."
+      },
+      {
+        "value": 2,
+        "text": "Que no se supere la jornada ordinaria establecida."
+      },
+      {
+        "value": 3,
+        "text": "Que no se comprometa la imparcialidad o independencia del personal público."
+      },
+      {
+        "value": 4,
+        "text": "Que lo autorice la jefatura inmediata sin más trámites."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Que no se comprometa la imparcialidad o independencia del personal público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Art. 4 Ley 53/1984: El personal podrá compatibilizar su puesto con el ejercicio de actividades en el sector privado, con determinadas limitaciones, salvo que el puesto sea de especial responsabilidad o dedicación exclusiva. Respuesta C."
+  },
+  {
+    "id": "comun-t19_5",
+    "questionNum": 5,
+    "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿puede percibirse más de una remuneración con cargo a los presupuestos públicos?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sí, siempre que no superen el salario mínimo."
+      },
+      {
+        "value": 2,
+        "text": "No, salvo en los casos expresamente previstos en la Ley."
+      },
+      {
+        "value": 3,
+        "text": "Sí, sin limitación alguna."
+      },
+      {
+        "value": 4,
+        "text": "Solo si se trata de diferentes Administraciones autonómicas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "No, salvo en los casos expresamente previstos en la Ley."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Art. 6 Ley 53/1984: No podrá autorizarse la compatibilidad cuando el segundo puesto público o actividad privada esté directamente relacionado con las funciones del primer puesto, pudiendo generar conflicto de intereses. Respuesta A."
+  },
+  {
+    "id": "comun-t19_6",
+    "questionNum": 6,
+    "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué ocurre si se desempeña una actividad incompatible sin autorización?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No ocurre nada si es fuera del horario laboral."
+      },
+      {
+        "value": 2,
+        "text": "Se considera falta leve."
+      },
+      {
+        "value": 3,
+        "text": "Puede dar lugar a responsabilidad disciplinaria."
+      },
+      {
+        "value": 4,
+        "text": "Solo se devuelve la remuneración percibida."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Puede dar lugar a responsabilidad disciplinaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Art. 7 Ley 53/1984: Las actividades que se declaran incompatibles con el ejercicio de puestos en el sector público incluyen: abogacía o procura frente a organismos de la misma administración, asesoría de empresas o particulares en asuntos con resolución del mismo organismo, y actividades privadas que obstaculicen el cumplimiento de sus obligaciones. Respuesta D."
+  },
+  {
+    "id": "comun-t19_7",
+    "questionNum": 7,
+    "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué actividades están exceptuadas del régimen general de incompatibilidades?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las actividades docentes o de investigación en determinados supuestos."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier actividad privada."
+      },
+      {
+        "value": 3,
+        "text": "Solo actividades artísticas."
+      },
+      {
+        "value": 4,
+        "text": "Actividades comerciales propias sin límite."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las actividades docentes o de investigación en determinados supuestos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Art. 9 Ley 53/1984: Los complementos de productividad y de puesto de trabajo específico son incompatibles con la percepción de retribuciones de otro puesto, salvo que se haya obtenido la compatibilidad. Respuesta B."
+  },
+  {
+    "id": "comun-t19_8",
+    "questionNum": 8,
+    "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, para que se autorice la compatibilidad para un segundo puesto público es necesario que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Sea en el mismo centro de trabajo."
+      },
+      {
+        "value": 2,
+        "text": "Sea la jornada completa."
+      },
+      {
+        "value": 3,
+        "text": "Sea en los supuestos tasados y no se modifique la jornada y horario del puesto principal."
+      },
+      {
+        "value": 4,
+        "text": "Lo apruebe el personal trabajador del de servicio."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Sea en los supuestos tasados y no se modifique la jornada y horario del puesto principal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Art. 14 Ley 53/1984: Las sanciones por incumplimiento de la normativa de incompatibilidades van desde apercibimiento hasta la declaración de incompatibilidad y la pérdida del puesto. La sanción depende de la gravedad. Respuesta C."
+  },
+  {
+    "id": "comun-t19_9",
+    "questionNum": 9,
+    "question": "La finalidad principal de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Incrementar los ingresos del personal público."
+      },
+      {
+        "value": 2,
+        "text": "Garantizar la dedicación y la imparcialidad en el servicio público."
+      },
+      {
+        "value": 3,
+        "text": "Permitir la pluriactividad generalizada."
+      },
+      {
+        "value": 4,
+        "text": "Reducir el número de personal público."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Garantizar la dedicación y la imparcialidad en el servicio público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t19",
+    "explanation": "Preámbulo y art. 1 Ley 53/1984: La finalidad principal de la ley es 'la dedicación del funcionario al servicio público', evitando que la pluriactividad afecte al rendimiento y la dedicación en el empleo público, y previniendo conflictos de intereses. Respuesta B."
+  }
+]

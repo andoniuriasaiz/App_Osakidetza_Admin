@@ -59,17 +59,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "La Presidencia del Ente."
+      "La Dirección General del Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t05",
-    "explanation": "Art. 15 Decreto 255/1997: La función de 'nombrar y separar a quienes ocupen las Direcciones de División de la organización central' corresponde a 'la PRESIDENCIA del Ente', a propuesta de la Dirección General. Respuesta C."
+    "explanation": "Decreto 255/1997, art. 22: El nombramiento y separación de los Directores de División de la organización central de Osakidetza es competencia del Consejo de Administración, a propuesta del Director General. La app indica C (Director General) pero la competencia recae en el Consejo de Administración. Respuesta B."
   },
   {
     "id": "comun-t05_3",

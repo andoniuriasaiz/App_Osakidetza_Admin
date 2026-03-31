@@ -1,0 +1,542 @@
+[
+  {
+    "id": "comun-t14_1",
+    "questionNum": 1,
+    "question": "¿Cuál es el periodo de vigencia indicado en el título de la “Estrategia de Seguridad del Paciente” de Osakidetza, y en qué mes y año se publicó su primera edición?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Vigencia 2021-2030, editada en enero de 2023."
+      },
+      {
+        "value": 2,
+        "text": "Vigencia 2020-2024, editada en diciembre de 2022."
+      },
+      {
+        "value": 3,
+        "text": "Vigencia 2020-2030, editada en abril de 2023."
+      },
+      {
+        "value": 4,
+        "text": "Vigencia 2023-2030, editada en julio de 2023."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Vigencia 2020-2030, editada en abril de 2023."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La Estrategia tiene vigencia 2020-2030 y su primera edición fue publicada en abril de 2023. Respuesta C."
+  },
+  {
+    "id": "comun-t14_2",
+    "questionNum": 2,
+    "question": "¿Cuál es el Objetivo General establecido para la “Estrategia de Seguridad del Paciente 20-30”?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reducir a cero los eventos adversos mediante la incorporación de tecnología robótica."
+      },
+      {
+        "value": 2,
+        "text": "Mejorar la calidad asistencial del sistema sanitario vasco."
+      },
+      {
+        "value": 3,
+        "text": "Promover el máximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad en el transcurso de la asistencia sanitaria."
+      },
+      {
+        "value": 4,
+        "text": "Centralizar la gestión de riesgos en un único organismo fuera de Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Promover el máximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad en el transcurso de la asistencia sanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: El Objetivo General es 'Promover el máximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad en el transcurso de la asistencia sanitaria.' Respuesta C."
+  },
+  {
+    "id": "comun-t14_3",
+    "questionNum": 3,
+    "question": "El principio hipocrático al que se hace referencia en la “Estrategia de Seguridad del Paciente 20-30”, y que la ciudadanía asume que se verifica en el transcurso de la actividad asistencial, es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Salus populi suprema lex esto (la salud del pueblo es la ley suprema)."
+      },
+      {
+        "value": 2,
+        "text": "Corpus sanum in mente sana (mente sana en cuerpo sano)."
+      },
+      {
+        "value": 3,
+        "text": "Lex artis ad hoc (ley del arte para el caso)."
+      },
+      {
+        "value": 4,
+        "text": "Primum non nocere (primero no hacer daño)."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Primum non nocere (primero no hacer daño)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: El principio hipocrático de referencia es 'PRIMUM NON NOCERE' (primero, no hacer daño), que la ciudadanía asume que se cumple en la actividad asistencial. Respuesta D."
+  },
+  {
+    "id": "comun-t14_4",
+    "questionNum": 4,
+    "question": "¿A qué periodos correspondieron las dos estrategias previas de seguridad de paciente publicadas en Euskadi, de las cuales esta Estrategia 20-30 es la tercera?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "2008-2012 y 2013-2017."
+      },
+      {
+        "value": 2,
+        "text": "2010-2015 y 2016-2020."
+      },
+      {
+        "value": 3,
+        "text": "2013-2016 y 2017-2020."
+      },
+      {
+        "value": 4,
+        "text": "2018-2021 y 2022-2025."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "2010-2015 y 2016-2020."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La Estrategia se estructura en torno a 5 líneas estratégicas. Respuesta B."
+  },
+  {
+    "id": "comun-t14_5",
+    "questionNum": 5,
+    "question": "¿Cuáles son las dos nuevas Líneas de Acción incorporadas en la “Estrategia de Seguridad del Paciente 20-30” que responden a una necesidad percibida por las personas expertas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Seguridad en Pediatría y Buenas Prácticas en el Uso de Biológicos."
+      },
+      {
+        "value": 2,
+        "text": "Atención en Cuidados Paliativos y Seguridad Domiciliaria."
+      },
+      {
+        "value": 3,
+        "text": "La Seguridad de Paciente en Emergencias y la Prevención del Suicidio."
+      },
+      {
+        "value": 4,
+        "text": "Seguridad en Salud Mental y Prevención de las Úlceras por Presión."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Seguridad en Pediatría y Buenas Prácticas en el Uso de Biológicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La cultura de seguridad es el fundamento de la Estrategia, considerando que la mejora de la seguridad requiere un cambio cultural en las organizaciones hacia la transparencia y el aprendizaje de los errores. Respuesta A."
+  },
+  {
+    "id": "comun-t14_6",
+    "questionNum": 6,
+    "question": "De acuerdo con la “Estrategia de Seguridad de Paciente 20-30”, ¿cómo se denomina al incidente de seguridad que, a diferencia del incidente sin daño, sí ocasiona algún tipo de daño a las personas atendidas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Error no evitable."
+      },
+      {
+        "value": 2,
+        "text": "Circunstancia notificable."
+      },
+      {
+        "value": 3,
+        "text": "Fallo latente."
+      },
+      {
+        "value": 4,
+        "text": "Evento Adverso."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Evento Adverso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: Los incidentes de seguridad incluyen: eventos adversos (que causan daño), incidentes sin daño (que no llegan a causar daño) y cuasi-incidentes (near misses). Respuesta D."
+  },
+  {
+    "id": "comun-t14_7",
+    "questionNum": 7,
+    "question": "¿Cuál es el enfoque principal de la Línea de Acción Corporativa L2 de la “Estrategia de Seguridad del Paciente 20-30”?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Implicación de pacientes en su seguridad."
+      },
+      {
+        "value": 2,
+        "text": "Conciliación de la medicación."
+      },
+      {
+        "value": 3,
+        "text": "Atención a las segundas y terceras víctimas."
+      },
+      {
+        "value": 4,
+        "text": "Gestión de los incidentes de seguridad."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Atención a las segundas y terceras víctimas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La Estrategia contempla la implicación de los pacientes y sus familias como socios activos en la seguridad, fomentando su participación en la identificación y prevención de riesgos. Respuesta C."
+  },
+  {
+    "id": "comun-t14_8",
+    "questionNum": 8,
+    "question": "¿Cuál de los siguientes es el Objetivo Específico número 1 de la “Estrategia de Seguridad del Paciente 20-30”, enfocado en el cambio interno?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Garantizar la continuidad de las líneas de acción y proyectos previamente implantados."
+      },
+      {
+        "value": 2,
+        "text": "Impulsar la cultura de seguridad de paciente en las organizaciones de servicios de Osakidetza, promoviendo la formación y sensibilización como aspectos clave."
+      },
+      {
+        "value": 3,
+        "text": "Optimizar la prescripción de pruebas diagnósticas que utilizan radiación ionizante."
+      },
+      {
+        "value": 4,
+        "text": "Implantar un sistema de identificación inequívoca de pacientes en todas las fases del proceso asistencial."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Impulsar la cultura de seguridad de paciente en las organizaciones de servicios de Osakidetza, promoviendo la formación y sensibilización como aspectos clave."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: El análisis de los incidentes de seguridad debe orientarse a la identificación de las causas raíz y los factores contribuyentes, con enfoque sistémico y no punitivo. Respuesta B."
+  },
+  {
+    "id": "comun-t14_9",
+    "questionNum": 9,
+    "question": "Según la “Estrategia de Seguridad del Paciente 20-30”, el Objetivo General de la Línea de Acción L4 \"Implicación de pacientes en su seguridad\" es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Garantizar que todas las personas pacientes reciban un plan de acogida con información de seguridad."
+      },
+      {
+        "value": 2,
+        "text": "Potenciar las capacidades de las personas pacientes para actuar como personal de apoyo en las unidades de enfermería."
+      },
+      {
+        "value": 3,
+        "text": "Promover la participación de pacientes, familiares y personas cuidadoras para mejorar la seguridad del sistema sanitario."
+      },
+      {
+        "value": 4,
+        "text": "Establecer un sistema de recompensas económicas para pacientes que notifiquen incidentes."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Promover la participación de pacientes, familiares y personas cuidadoras para mejorar la seguridad del sistema sanitario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La formación y capacitación del personal en seguridad del paciente es una de las líneas estratégicas de la Estrategia. Respuesta A."
+  },
+  {
+    "id": "comun-t14_10",
+    "questionNum": 10,
+    "question": "La Línea de Acción Corporativa L8 de la “Estrategia de Seguridad del Paciente 20-30” está dedicada a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Conciliación de la medicación."
+      },
+      {
+        "value": 2,
+        "text": "Prevención y control de las infecciones relacionadas con la asistencia sanitaria."
+      },
+      {
+        "value": 3,
+        "text": "Seguridad en el proceso asistencial gestación-parto-puerperio."
+      },
+      {
+        "value": 4,
+        "text": "Seguridad transfusional."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Seguridad transfusional."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La evaluación y medición de la seguridad requiere el uso de indicadores estandarizados que permitan el seguimiento de la evolución y la comparación con otros sistemas. Respuesta D."
+  },
+  {
+    "id": "comun-t14_11",
+    "questionNum": 11,
+    "question": "¿A qué se refiere la Línea de Acción Corporativa L10 de la “Estrategia de Seguridad del Paciente 20-30”, cuyo objetivo es reducir los eventos adversos específicos de un proceso asistencial?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cirugía Segura."
+      },
+      {
+        "value": 2,
+        "text": "Atención Primaria."
+      },
+      {
+        "value": 3,
+        "text": "Seguridad en el proceso asistencial gestación-parto-puerperio."
+      },
+      {
+        "value": 4,
+        "text": "Seguridad de las personas pacientes en los servicios de urgencias."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Seguridad en el proceso asistencial gestación-parto-puerperio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: El sistema de notificación de incidentes debe ser no punitivo, confidencial y orientado al aprendizaje organizacional. Respuesta C."
+  },
+  {
+    "id": "comun-t14_12",
+    "questionNum": 12,
+    "question": "¿Qué documento se menciona en la “Estrategia de Seguridad del Paciente 2030” como el que determinó que las personas atendidas por un sistema medicalizado (tipo 061/112) presentan un mayor porcentaje de incidentes de seguridad en el entorno de Emergencias?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Estudio Nacional de Efectos Adversos en centros hospitalarios (ENEAS)."
+      },
+      {
+        "value": 2,
+        "text": "Estudio APEAS."
+      },
+      {
+        "value": 3,
+        "text": "Estudio EVADUR."
+      },
+      {
+        "value": 4,
+        "text": "Informe del Instituto de Medicina de los Estados Unidos (IOM)."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Estudio APEAS."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: Las prácticas seguras (checklist quirúrgico, higiene de manos, conciliación de medicación) son intervenciones de probada eficacia para reducir los eventos adversos. Respuesta B."
+  },
+  {
+    "id": "comun-t14_13",
+    "questionNum": 13,
+    "question": "El capítulo de Formación de la “Estrategia de Seguridad del Paciente 20-30” señala que, además de impulsar el desarrollo de prácticas seguras, las organizaciones comprometidas orientan sus esfuerzos a aumentar la formación en los llamados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Factores humanos o factores no técnicos."
+      },
+      {
+        "value": 2,
+        "text": "Factores biomédicos y patofisiológicos."
+      },
+      {
+        "value": 3,
+        "text": "Factores económicos y de sostenibilidad."
+      },
+      {
+        "value": 4,
+        "text": "Factores organizativos de Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Factores humanos o factores no técnicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La digitalización y las tecnologías de la información son herramientas reconocidas para mejorar la seguridad del paciente (historia clínica electrónica, alertas automatizadas, etc.). Respuesta A."
+  },
+  {
+    "id": "comun-t14_14",
+    "questionNum": 14,
+    "question": "¿Cuál de las siguientes Líneas de Acción de la “Estrategia de Seguridad del Paciente 20-30” NO está relacionada con el sistema de utilización del medicamento?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "L5. Conciliación de la medicación."
+      },
+      {
+        "value": 2,
+        "text": "L14. Buenas prácticas asociadas a la utilización de medicación."
+      },
+      {
+        "value": 3,
+        "text": "L6. Optimización en la prescripción de pruebas diagnósticas que utilizan radiación ionizante."
+      },
+      {
+        "value": 4,
+        "text": "L7. Seguridad transfusional (Nota: la seguridad transfusional se considera una línea separada, aunque implica la administración de productos sanguíneos)."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "L7. Seguridad transfusional (Nota: la seguridad transfusional se considera una línea separada, aunque implica la administración de productos sanguíneos)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La Estrategia contempla la coordinación y continuidad asistencial segura como elemento clave para prevenir incidentes en las transiciones entre niveles y servicios. Respuesta D."
+  },
+  {
+    "id": "comun-t14_15",
+    "questionNum": 15,
+    "question": "¿Cuántas Líneas de Acción Corporativas (L1 a L...) se definen en la Estrategia de Seguridad del Paciente 20-30?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "14 líneas de acción."
+      },
+      {
+        "value": 2,
+        "text": "15 líneas de acción."
+      },
+      {
+        "value": 3,
+        "text": "16 líneas de acción."
+      },
+      {
+        "value": 4,
+        "text": "17 líneas de acción."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "16 líneas de acción."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t14",
+    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La seguridad del paciente es responsabilidad de todos los profesionales y de la organización en su conjunto, no solo de los responsables de calidad. Respuesta C."
+  }
+]

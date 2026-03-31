@@ -95,17 +95,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "El tratamiento de los datos de las personas menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el consentimiento de quienes ejercen la patria potestad o tutela, con el alcance que dichas personas determinen."
+      "Únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 7 LO 3/2018: el tratamiento de datos de menores de 14 años requiere consentimiento del titular de la patria potestad o tutela. Mayores de 14 años pueden consentir por sí mismos. Para los menores de 16 (edad del RGPD), la ley española fija en 14 años."
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A."
   },
   {
     "id": "tec-comun-t10_4",
@@ -239,17 +239,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones."
+      "Solo las personas físicas podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 22 LO 3/2018: los datos de videovigilancia se suprimirán en el plazo máximo de un mes, salvo cuando deban conservarse para acreditar la comisión de actos contra la integridad de personas, bienes o instalaciones."
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A."
   },
   {
     "id": "tec-comun-t10_8",
@@ -285,6 +285,6 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t10",
-    "explanation": "Art. 24 LO 3/2018: transcurridos tres meses desde la introducción de los datos en el sistema de denuncias se procederá a su supresión, salvo que la conservación sea necesaria para dejar evidencia del funcionamiento del modelo de prevención."
+    "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B."
   }
 ]

@@ -1,0 +1,470 @@
+[
+  {
+    "id": "adm-puestos-funcionales_1",
+    "questionNum": 1,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los Puestos Funcionales se constituyen:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como instrumento de clasificación del personal orientado a la organización, promoción y desarrollo integral del personal."
+      },
+      {
+        "value": 2,
+        "text": "Como instrumento de clasificación del personal orientado a la formación del personal."
+      },
+      {
+        "value": 3,
+        "text": "Como instrumento de clasificación del personal según sus conocimientos informáticos."
+      },
+      {
+        "value": 4,
+        "text": "Como instrumento de clasificación del personal orientado a la gestión de las jubilaciones y relevos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Como instrumento de clasificación del personal orientado a la organización, promoción y desarrollo integral del personal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 3: 'Los Puestos Funcionales se constituyen como el instrumento de clasificación del personal orientado a la ORGANIZACIÓN, PROMOCIÓN Y DESARROLLO INTEGRAL del personal.' Definición literal del artículo. Las opciones b) formación, c) conocimientos informáticos y d) gestión de jubilaciones son falsas. Respuesta A."
+  },
+  {
+    "id": "adm-puestos-funcionales_2",
+    "questionNum": 2,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, se entiende por Puesto Funcional:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Toda agrupación de efectivos por razón común respecto a cinco ámbitos funcionales, diferenciada de cualquier otra existente en el conjunto de la estructura del Ente Público en cuanto a las exigencias de requerimientos profesionales para su desempeño o a las responsabilidades jerárquicas y/o de gestión que asuman."
+      },
+      {
+        "value": 2,
+        "text": "Toda agrupación de efectivos por razón común respecto a uno o más ámbitos funcionales, diferenciada de cualquier otra existente en el conjunto de la estructura del Ente Público en cuanto a las exigencias de requerimientos profesionales para su desempeño o a las responsabilidades jerárquicas y/o de gestión que asuman."
+      },
+      {
+        "value": 3,
+        "text": "Toda agrupación de efectivos por razón común respecto a uno o más ámbitos funcionales, sin diferenciarse de cualquier otra existente en el conjunto de la estructura del Ente Público en cuanto a las exigencias de requerimientos profesionales para su desempeño o a las responsabilidades jerárquicas y/o de gestión que asuman."
+      },
+      {
+        "value": 4,
+        "text": "Toda agrupación de efectivos sin razón común respecto a ámbitos funcionales, sin diferenciarse de cualquier otra existente en el conjunto de la estructura del Ente Público en cuanto a las exigencias de requerimientos profesionales para su desempeño o a las responsabilidades jerárquicas y/o de gestión que asuman."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Toda agrupación de efectivos por razón común respecto a uno o más ámbitos funcionales, diferenciada de cualquier otra existente en el conjunto de la estructura del Ente Público en cuanto a las exigencias de requerimientos profesionales para su desempeño o a las responsabilidades jerárquicas y/o de gestión que asuman."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 3 (definición): Puesto Funcional = 'toda agrupación de efectivos por razón común respecto a UNO O MÁS ámbitos funcionales, DIFERENCIADA de cualquier otra existente en el conjunto de la estructura del Ente Público en cuanto a las exigencias de requerimientos profesionales para su desempeño o a las responsabilidades jerárquicas y/o de gestión que asuman.' Opción A dice 'cinco ámbitos' (FALSO). Opción C dice 'sin diferenciarse' (FALSO). Opción D dice 'sin razón común' (FALSO). Respuesta B."
+  },
+  {
+    "id": "adm-puestos-funcionales_3",
+    "questionNum": 3,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los Puestos Funcionales vendrán identificados según:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Procedencia."
+      },
+      {
+        "value": 2,
+        "text": "Edad."
+      },
+      {
+        "value": 3,
+        "text": "Perfil profesional requerido."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Perfil profesional requerido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 5 (Identificación): Los Puestos Funcionales se identifican mediante: a) Perfil profesional requerido; b) Modo de provisión; c) Efectos retributivos asignados. De las opciones procedencia (a), edad (b) y perfil profesional (c), ÚNICAMENTE el PERFIL PROFESIONAL REQUERIDO es un elemento identificador. Respuesta C."
+  },
+  {
+    "id": "adm-puestos-funcionales_4",
+    "questionNum": 4,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los efectos retributivos asignados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es un aspecto que identifica los Puestos Funcionales."
+      },
+      {
+        "value": 2,
+        "text": "Es un aspecto que identifica los Puestos Funcionales en determinadas ocasiones."
+      },
+      {
+        "value": 3,
+        "text": "Es un aspecto que no identifica los Puestos Funcionales."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Es un aspecto que identifica los Puestos Funcionales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 5: Los EFECTOS RETRIBUTIVOS ASIGNADOS figuran expresamente como uno de los aspectos que identifican los Puestos Funcionales, con carácter general (no solo en determinadas ocasiones). Opción B ('en determinadas ocasiones') y opción C ('no identifica') son incorrectas. Respuesta A."
+  },
+  {
+    "id": "adm-puestos-funcionales_5",
+    "questionNum": 5,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, la edad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es un aspecto que identifica los Puestos Funcionales."
+      },
+      {
+        "value": 2,
+        "text": "Es un aspecto que identifica los Puestos Funcionales en Guipúzcoa."
+      },
+      {
+        "value": 3,
+        "text": "Es un aspecto que identifica los Puestos Funcionales en Vizcaya."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "a) b) y c) son incorrectas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta D."
+  },
+  {
+    "id": "adm-puestos-funcionales_6",
+    "questionNum": 6,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, el Perfil Profesional requerido para su desempeño estará constituido por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La titulación o titulaciones, el carnet de conducir y el perfil lingüístico."
+      },
+      {
+        "value": 2,
+        "text": "La titulación o titulaciones, la experiencia y fecha de nacimiento."
+      },
+      {
+        "value": 3,
+        "text": "La titulación o titulaciones, la experiencia y el perfil lingüístico."
+      },
+      {
+        "value": 4,
+        "text": "La titulación o titulaciones, lugar de procedencia y el perfil lingüístico."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La titulación o titulaciones, la experiencia y el perfil lingüístico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 7 (Perfil Profesional requerido): estará constituido por 1) La titulación o titulaciones requeridas; 2) La EXPERIENCIA (años en la categoría de procedencia); 3) El PERFIL LINGÜÍSTICO (conforme al D.67/2003). El carnet de conducir (a), la fecha de nacimiento (b) y el lugar de procedencia (d) no forman parte del perfil profesional. Respuesta C."
+  },
+  {
+    "id": "adm-puestos-funcionales_7",
+    "questionNum": 7,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La provisión de los Puestos Funcionales los regulará el/la responsable del departamento de Recursos Humanos de Osakidetza-Servicio vasco de la salud con los principios generales fijados en la Ley de Ordenación sanitaria de Euskadi y demás normas aplicables."
+      },
+      {
+        "value": 2,
+        "text": "La provisión de los Puestos Funcionales los regulará el Consejo de Administración de Osakidetza-Servicio vasco de salud con los principios generales fijados en la Ley de Ordenación sanitaria de Euskadi y demás normas aplicables."
+      },
+      {
+        "value": 3,
+        "text": "La provisión de los Puestos Funcionales los regulará el Comité de Médicos de Osakidetza-Servicio vasco de la salud con los principios generales fijados en la Ley de Ordenación sanitaria de Euskadi y demás normas aplicables."
+      },
+      {
+        "value": 4,
+        "text": "La provisión de los Puestos Funcionales los regulará el Sindicato de OsakidetzaServicio vasco de la salud con los principios generales fijados en la Ley de Ordenación sanitaria de Euskadi y demás normas aplicables."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La provisión de los Puestos Funcionales los regulará el Consejo de Administración de Osakidetza-Servicio vasco de salud con los principios generales fijados en la Ley de Ordenación sanitaria de Euskadi y demás normas aplicables."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005: La provisión de los Puestos Funcionales será regulada por el CONSEJO DE ADMINISTRACIÓN de Osakidetza-Servicio vasco de salud, con los principios generales fijados en la Ley de Ordenación sanitaria de Euskadi y demás normas aplicables. El responsable de RRHH (a), el Comité de Médicos (c) y el Sindicato (d) no tienen esta competencia regulatoria. Respuesta B."
+  },
+  {
+    "id": "adm-puestos-funcionales_8",
+    "questionNum": 8,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, el número de efectivos de las Plantillas Funcionales vendrá limitada por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Plantilla Estructural aprobada por el Consejo de Administración para la Organización, constituida por el total de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios que integran el Ente Público Osakidetza-Servicio vasco de salud."
+      },
+      {
+        "value": 2,
+        "text": "La Plantilla Estructural aprobada por el Consejo de Administración para la Organización, constituida por algunos efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios que integran el Ente Público OsakidetzaServicio vasco de salud."
+      },
+      {
+        "value": 3,
+        "text": "La Plantilla Estructural aprobada por el Consejo de Administración para la Organización, constituida por un 25% de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios que integran el Ente Público Osakidetza-Servicio vasco de salud."
+      },
+      {
+        "value": 4,
+        "text": "La Plantilla Estructural aprobada por el Consejo de Administración para la Organización, constituida por un 50% de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios que integran el Ente Público Osakidetza-Servicio vasco de salud."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La Plantilla Estructural aprobada por el Consejo de Administración para la Organización, constituida por el total de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios que integran el Ente Público Osakidetza-Servicio vasco de salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 10: El número de efectivos de las Plantillas Funcionales vendrá limitado por la Plantilla Estructural aprobada por el Consejo de Administración, constituida por el TOTAL de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios. Las opciones b) 'algunos', c) '25%' y d) '50%' son incorrectas. Respuesta A."
+  },
+  {
+    "id": "adm-puestos-funcionales_9",
+    "questionNum": 9,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los efectivos incluidos en las Plantillas Funcionales de las distintas Organizaciones de Servicios, no podrán ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas Funcionales."
+      },
+      {
+        "value": 2,
+        "text": "El 25% de los efectivos incluidos en las Plantillas Funcionales de las distintas Organizaciones de Servicios, podrán ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas Funcionales."
+      },
+      {
+        "value": 3,
+        "text": "El 50% de los efectivos incluidos en las Plantillas Funcionales de las distintas Organizaciones de Servicios, podrán ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas Funcionales."
+      },
+      {
+        "value": 4,
+        "text": "Los efectivos incluidos en las Plantillas Funcionales de las distintas Organizaciones de Servicios, podrán ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas Funcionales."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Los efectivos incluidos en las Plantillas Funcionales de las distintas Organizaciones de Servicios, podrán ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas Funcionales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 10 (modificaciones de Plantilla): Los efectivos incluidos en las Plantillas Funcionales SÍ PODRÁN ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas. La opción a) dice que 'no podrán' (FALSO). Las opciones b) y c) introducen porcentajes (25%, 50%) inexistentes. Respuesta D."
+  },
+  {
+    "id": "adm-puestos-funcionales_10",
+    "questionNum": 10,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los efectivos pertenecientes a las distintas Organizaciones de Servicios podrán ser objeto de traslado entre las mismas mediante Resolución del Director General de Osakidetza-Servicio vasco de Salud."
+      },
+      {
+        "value": 2,
+        "text": "Los efectivos pertenecientes a las distintas Organizaciones de Servicios no pueden ser objeto de traslado entre las mismas mediante Resolución del Director General de Osakidetza-Servicio vasco de Salud."
+      },
+      {
+        "value": 3,
+        "text": "Los efectivos pertenecientes a las distintas Organizaciones de Servicios podrán ser objeto de traslado sólo dentro de la misma organización mediante Resolución del Director General de Osakidetza-Servicio vasco de Salud."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Los efectivos pertenecientes a las distintas Organizaciones de Servicios podrán ser objeto de traslado entre las mismas mediante Resolución del Director General de Osakidetza-Servicio vasco de Salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005: Los efectivos de las distintas Organizaciones de Servicios PODRÁN ser objeto de traslado entre las mismas mediante Resolución del DIRECTOR GENERAL de Osakidetza-Servicio vasco de Salud. La opción b) niega la posibilidad de traslado (FALSO) y la c) lo limita a la misma organización (FALSO). Respuesta A."
+  },
+  {
+    "id": "adm-puestos-funcionales_11",
+    "questionNum": 11,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las modificaciones de Plantilla Funcional que no conlleven alteración de la Plantilla Estructural de una Organización de Servicios serán aprobadas por Resolución del Director-Gerente de la misma."
+      },
+      {
+        "value": 2,
+        "text": "Las modificaciones de Plantilla Funcional que no conlleven alteración de la Plantilla Estructural de una Organización de Servicios serán aprobadas por Resolución del Consejo de Administración."
+      },
+      {
+        "value": 3,
+        "text": "Las modificaciones de Plantilla Funcional que no conlleven alteración de la Plantilla Estructural de una Organización de Servicios serán aprobadas por Resolución de la Dirección Médica."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Las modificaciones de Plantilla Funcional que no conlleven alteración de la Plantilla Estructural de una Organización de Servicios serán aprobadas por Resolución del Director-Gerente de la misma."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 11.1: Las modificaciones de Plantilla Funcional que NO conlleven alteración de la Plantilla Estructural de una Organización de Servicios serán aprobadas por Resolución del DIRECTOR-GERENTE de la misma. Para modificaciones menores (sin cambio estructural), la competencia reside en el Director-Gerente de la organización afectada, no en el CA (b) ni en la Dirección Médica (c). Respuesta A."
+  },
+  {
+    "id": "adm-puestos-funcionales_12",
+    "questionNum": 12,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las modificaciones de Plantilla Funcional que impliquen variación de la Plantilla Estructural de una Organización de Servicios estarán sujetas a la consideración y aprobación del Director-Gerente de Osakidetza-Servicio vasco de salud, debiendo ser aprobados por el Consejo de Gobierno si los mismos suponen alteración del número máximo de efectivos por Grupo Profesional establecido para el Ente Público."
+      },
+      {
+        "value": 2,
+        "text": "Las modificaciones de Plantilla Funcional que impliquen variación de la Plantilla Estructural de una Organización de Servicios estarán sujetas a la consideración y aprobación del Consejo de Administración de Osakidetza-Servicio vasco de salud, debiendo ser aprobados por el Consejo de Gobierno si los mismos no suponen alteración del número máximo de efectivos por Grupo Profesional establecido para el Ente Público."
+      },
+      {
+        "value": 3,
+        "text": "Las modificaciones de Plantilla Funcional que impliquen variación de la Plantilla Estructural de una Organización de Servicios estarán sujetas a la consideración y aprobación del Consejo de Administración de Osakidetza-Servicio vasco de salud, debiendo ser aprobados por el Consejo de Gobierno si los mismos suponen alteración del número máximo de efectivos por Grupo Profesional establecido para el Ente Público."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las modificaciones de Plantilla Funcional que impliquen variación de la Plantilla Estructural de una Organización de Servicios estarán sujetas a la consideración y aprobación del Consejo de Administración de Osakidetza-Servicio vasco de salud, debiendo ser aprobados por el Consejo de Gobierno si los mismos suponen alteración del número máximo de efectivos por Grupo Profesional establecido para el Ente Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 11.2: Las modificaciones que SÍ impliquen variación de la Plantilla Estructural estarán sujetas a la consideración y aprobación del CONSEJO DE ADMINISTRACIÓN de Osakidetza, debiendo ser aprobadas por el CONSEJO DE GOBIERNO si suponen alteración del número máximo de efectivos por Grupo Profesional. Opción a) atribuye esta función al Director-Gerente (FALSO). Opción b) invierte la condición ('no suponen' → FALSO). Respuesta C."
+  },
+  {
+    "id": "adm-puestos-funcionales_13",
+    "questionNum": 13,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las modificaciones de Plantilla no hay obligación de notificar a los trabajadores que viniesen desempeñando el puesto modificado."
+      },
+      {
+        "value": 2,
+        "text": "Las modificaciones de Plantilla se deberán notificar a los trabajadores que viniesen desempeñando el puesto modificado."
+      },
+      {
+        "value": 3,
+        "text": "Las modificaciones de Plantilla se deberán notificar en algunos casos a los trabajadores que viniesen desempeñando el puesto modificado."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las modificaciones de Plantilla se deberán notificar a los trabajadores que viniesen desempeñando el puesto modificado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-puestos-funcionales",
+    "explanation": "D.186/2005 Art. 11 (notificación): Las modificaciones de Plantilla SE DEBERÁN NOTIFICAR a los trabajadores que viniesen desempeñando el puesto modificado. La notificación individual es obligatoria en todo caso. Opción a) niega la obligación (FALSO) y la c) la condiciona a 'algunos casos' (FALSO). Respuesta B."
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "aux-e02_1",
+    "questionNum": 1,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, transcurrido el plazo establecido sin recibir comunicación de la petición de una segunda opinión médica, el paciente o quien actúe en su representación o interés lo pondrá en conocimiento del órgano competente del Departamento de Sanidad, quien lo resolverá desde que tuviere entrada esta comunicación en un plazo no superior a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "5 días."
+      },
+      {
+        "value": 2,
+        "text": "1 día."
+      },
+      {
+        "value": 3,
+        "text": "3 días."
+      },
+      {
+        "value": 4,
+        "text": "7 días."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "5 días."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "D.149/2007 Art. 7 in fine: Si transcurre el plazo sin comunicación de la segunda opinión médica, el paciente lo pondrá en conocimiento del órgano competente del Departamento de Sanidad, que lo resolverá en un plazo NO SUPERIOR A 5 DÍAS desde la entrada de esa comunicación. Respuesta A."
+  },
+  {
+    "id": "aux-e02_2",
+    "questionNum": 2,
+    "question": "El parte interno de notificación de accidente/incidente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es el registro no necesario para declarar un accidente de trabajo, un incidente o una agresión, y que sea reconocido legalmente."
+      },
+      {
+        "value": 2,
+        "text": "Es el registro necesario para declarar un accidente de trabajo, un incidente o una agresión, y que sea reconocido legalmente."
+      },
+      {
+        "value": 3,
+        "text": "Es el registro necesario para declarar un accidente de trabajo, un incidente o una agresión, y que no sea reconocido legalmente."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Es el registro necesario para declarar un accidente de trabajo, un incidente o una agresión, y que sea reconocido legalmente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Carpeta Roja Osakidetza (parte interno de notificación): El parte interno ES EL REGISTRO NECESARIO para declarar un accidente de trabajo, incidente o agresión, y que SEA RECONOCIDO LEGALMENTE. Sin él no tiene efectos legales. Respuesta B."
+  },
+  {
+    "id": "aux-e02_3",
+    "questionNum": 3,
+    "question": "La resolución de las reclamaciones de responsabilidad patrimonial que se formulen ante cualquiera de las organizaciones del Ente Público OsakidetzaServicio Vasco de Salud por el funcionamiento de sus servicios, incluidas las resoluciones a reclamaciones de responsabilidad que los interesados dirijan posteriormente a las vías jurisdiccionales civil o laboral, corresponderán a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Directores-Gerentes del Ente Público."
+      },
+      {
+        "value": 2,
+        "text": "Consejo de Administración del Ente Público."
+      },
+      {
+        "value": 3,
+        "text": "Director General del Ente Público."
+      },
+      {
+        "value": 4,
+        "text": "Presidencia del Ente Público."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Director General del Ente Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "D.255/1997 / Normativa específica Osakidetza: La resolución de las reclamaciones de responsabilidad patrimonial formuladas ante organizaciones de Osakidetza-SVS corresponde al DIRECTOR GENERAL DEL ENTE PÚBLICO. Respuesta C."
+  },
+  {
+    "id": "aux-e02_4",
+    "questionNum": 4,
+    "question": "Cuando no se encuentre determinada expresamente la forma de publicidad de los actos administrativos que se dicten en el Ente Público Osakidetza-Servicio vasco de salud, de carácter general serán objeto de notificación a través:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Del Boletín Oficial del País Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Del Boletín Oficial del Estado."
+      },
+      {
+        "value": 3,
+        "text": "De los Tablones de Anuncios de las organizaciones el Ente Público."
+      },
+      {
+        "value": 4,
+        "text": "Del Portal de Internet del Ente Público."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "De los Tablones de Anuncios de las organizaciones el Ente Público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Normativa específica Osakidetza: Cuando no se encuentre determinada la forma de publicidad de los actos de carácter general, estos serán objeto de notificación a través DE LOS TABLONES DE ANUNCIOS DE LAS ORGANIZACIONES DEL ENTE PÚBLICO. Respuesta C."
+  },
+  {
+    "id": "aux-e02_5",
+    "questionNum": 5,
+    "question": "Según la Ley 39/2015, la Ley tiene por objeto:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Regular exclusivamente el procedimiento administrativo electrónico."
+      },
+      {
+        "value": 2,
+        "text": "Regular los requisitos de validez y eficacia de los actos administrativos."
+      },
+      {
+        "value": 3,
+        "text": "Regular el procedimiento administrativo común de las Administraciones Públicas."
+      },
+      {
+        "value": 4,
+        "text": "Establecer el régimen jurídico del sector público."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Regular el procedimiento administrativo común de las Administraciones Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 1 Ley 39/2015: La Ley tiene por objeto REGULAR EL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS. No solo el procedimiento electrónico (a). La validez y eficacia de los actos se regula dentro de este procedimiento. Respuesta C."
+  },
+  {
+    "id": "aux-e02_6",
+    "questionNum": 6,
+    "question": "Según la Ley 39/2015, el ámbito subjetivo de aplicación comprende:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente a la Administración General del Estado."
+      },
+      {
+        "value": 2,
+        "text": "A las Administraciones Públicas definidas en el artículo 2 de la Ley 40/2015."
+      },
+      {
+        "value": 3,
+        "text": "A todas las entidades del sector público."
+      },
+      {
+        "value": 4,
+        "text": "A las Administraciones Públicas y a sus organismos autónomos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "A las Administraciones Públicas definidas en el artículo 2 de la Ley 40/2015."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 2.1 Ley 39/2015: El ámbito subjetivo comprende A LAS ADMINISTRACIONES PÚBLICAS DEFINIDAS EN EL ARTÍCULO 2 DE LA LEY 40/2015. No solo la AGE (a) ni todas las entidades del sector público (c). Respuesta B."
+  },
+  {
+    "id": "aux-e02_7",
+    "questionNum": 7,
+    "question": "Según la Ley 39/2015, tienen capacidad de obrar ante las Administraciones Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo las personas físicas mayores de edad."
+      },
+      {
+        "value": 2,
+        "text": "Las personas físicas o jurídicas cuando así lo disponga una norma con rango de ley."
+      },
+      {
+        "value": 3,
+        "text": "Las personas físicas, jurídicas y las entidades sin personalidad jurídica cuando la ley así lo declare."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente las personas jurídicas legalmente constituidas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las personas físicas, jurídicas y las entidades sin personalidad jurídica cuando la ley así lo declare."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 3 Ley 39/2015: Tienen capacidad de obrar ante las AAPP LAS PERSONAS FÍSICAS O JURÍDICAS que ostenten capacidad con arreglo a las normas civiles y también, CUANDO LA LEY ASÍ LO DECLARE, los menores de edad y LAS ENTIDADES SIN PERSONALIDAD JURÍDICA. Respuesta C."
+  },
+  {
+    "id": "aux-e02_8",
+    "questionNum": 8,
+    "question": "Según la Ley 39/2015, se consideran interesados en un procedimiento administrativo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Quienes promuevan el procedimiento como titulares de derechos o intereses legítimos individuales o colectivos."
+      },
+      {
+        "value": 2,
+        "text": "Cualquier persona que tenga conocimiento del procedimiento."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente quienes resulten afectados por la resolución final."
+      },
+      {
+        "value": 4,
+        "text": "Solo quienes actúen representados por medios electrónicos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Quienes promuevan el procedimiento como titulares de derechos o intereses legítimos individuales o colectivos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 4.1.a Ley 39/2015: Se consideran interesados QUIENES PROMUEVAN EL PROCEDIMIENTO COMO TITULARES DE DERECHOS O INTERESES LEGÍTIMOS INDIVIDUALES O COLECTIVOS. No cualquier persona con conocimiento (b). Respuesta A."
+  },
+  {
+    "id": "aux-e02_9",
+    "questionNum": 9,
+    "question": "Según la Ley 39/2015, en relación con la identificación y firma de los interesados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La firma será siempre obligatoria para formular solicitudes."
+      },
+      {
+        "value": 2,
+        "text": "La identificación podrá realizarse mediante sistemas de firma electrónica."
+      },
+      {
+        "value": 3,
+        "text": "Solo se exigirá firma cuando sea necesario acreditar la voluntad y consentimiento."
+      },
+      {
+        "value": 4,
+        "text": "La identificación y la firma son siempre requisitos inseparables."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Solo se exigirá firma cuando sea necesario acreditar la voluntad y consentimiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 9.2 Ley 39/2015: Solo se exigirá firma CUANDO SEA NECESARIO ACREDITAR LA VOLUNTAD Y CONSENTIMIENTO del interesado. La identificación y la firma son requisitos separables (d es FALSO). Respuesta C."
+  },
+  {
+    "id": "aux-e02_10",
+    "questionNum": 10,
+    "question": "Según la Ley 39/2015, cuando varias personas comparezcan en un procedimiento con intereses coincidentes:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Deberán actuar necesariamente mediante representante."
+      },
+      {
+        "value": 2,
+        "text": "La Administración designará de oficio un representante."
+      },
+      {
+        "value": 3,
+        "text": "Podrán designar un representante o señalar un domicilio común."
+      },
+      {
+        "value": 4,
+        "text": "Cada interesado deberá actuar de forma independiente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Podrán designar un representante o señalar un domicilio común."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 4.2 Ley 39/2015: Cuando varias personas comparezcan con intereses coincidentes PODRÁN DESIGNAR UN REPRESENTANTE O SEÑALAR UN DOMICILIO COMÚN. No están obligadas a actuar mediante representante (a). Respuesta C."
+  },
+  {
+    "id": "aux-e02_11",
+    "questionNum": 11,
+    "question": "Según la Ley 39/2015, la representación podrá acreditarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente mediante poder notarial."
+      },
+      {
+        "value": 2,
+        "text": "Mediante cualquier medio válido en Derecho que deje constancia fidedigna."
+      },
+      {
+        "value": 3,
+        "text": "Solo a través de inscripción en un registro electrónico."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente mediante comparecencia personal."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Mediante cualquier medio válido en Derecho que deje constancia fidedigna."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 5.4 Ley 39/2015: La representación podrá acreditarse MEDIANTE CUALQUIER MEDIO VÁLIDO EN DERECHO QUE DEJE CONSTANCIA FIDEDIGNA. No exclusivamente poder notarial (a) ni solo registro electrónico (c). Respuesta B."
+  },
+  {
+    "id": "aux-e02_12",
+    "questionNum": 12,
+    "question": "Según la Ley 39/2015, se considerarán interesados en el procedimiento:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Quienes tengan un interés legítimo aunque no se personen en el procedimiento."
+      },
+      {
+        "value": 2,
+        "text": "Las asociaciones representativas de intereses económicos en todo caso."
+      },
+      {
+        "value": 3,
+        "text": "Aquellos cuyos derechos o intereses legítimos puedan resultar afectados por la resolución."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente quienes inicien el procedimiento."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Aquellos cuyos derechos o intereses legítimos puedan resultar afectados por la resolución."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 4.1.b Ley 39/2015: También son interesados aquellos CUYOS DERECHOS O INTERESES LEGÍTIMOS PUEDAN RESULTAR AFECTADOS POR LA RESOLUCIÓN. No solo los que inicien el procedimiento (d). Respuesta C."
+  },
+  {
+    "id": "aux-e02_13",
+    "questionNum": 13,
+    "question": "Según la Ley 39/2015, los menores de edad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Podrán ejercer y defender sus derechos cuando el ordenamiento lo permita sin asistencia."
+      },
+      {
+        "value": 2,
+        "text": "Carecen de capacidad de obrar ante la Administración."
+      },
+      {
+        "value": 3,
+        "text": "Tienen capacidad de obrar solo con autorización judicial."
+      },
+      {
+        "value": 4,
+        "text": "Deberán actuar siempre a través de representante legal."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Podrán ejercer y defender sus derechos cuando el ordenamiento lo permita sin asistencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 3.4.a Ley 39/2015: Los menores de edad PODRÁN EJERCER Y DEFENDER SUS DERECHOS cuando el ordenamiento jurídico-administrativo lo permita sin necesidad de asistencia. No carecen de capacidad (b). Respuesta A."
+  },
+  {
+    "id": "aux-e02_14",
+    "questionNum": 14,
+    "question": "Según la Ley 39/2015, en relación con los sistemas de identificación de los interesados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo se admitirá el DNI electrónico."
+      },
+      {
+        "value": 2,
+        "text": "Se admitirán únicamente sistemas basados en certificados electrónicos."
+      },
+      {
+        "value": 3,
+        "text": "Se admitirán sistemas de identificación basados en certificados, claves concertadas u otros sistemas válidos."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Se admitirán sistemas de identificación basados en certificados, claves concertadas u otros sistemas válidos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 9.2 Ley 39/2015: Los interesados podrán identificarse mediante SISTEMAS DE IDENTIFICACIÓN BASADOS EN CERTIFICADOS ELECTRÓNICOS, CLAVES CONCERTADAS U OTROS SISTEMAS VÁLIDOS. No solo DNI electrónico (a). Respuesta C."
+  },
+  {
+    "id": "aux-e02_15",
+    "questionNum": 15,
+    "question": "Según la Ley 39/2015, las entidades sin personalidad jurídica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Carecen de capacidad de obrar ante las Administraciones Públicas."
+      },
+      {
+        "value": 2,
+        "text": "Solo podrán actuar mediante representante con poder notarial."
+      },
+      {
+        "value": 3,
+        "text": "Podrán tener capacidad de obrar cuando una ley así lo declare expresamente."
+      },
+      {
+        "value": 4,
+        "text": "Actuarán únicamente a través de sus miembros individualmente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Podrán tener capacidad de obrar cuando una ley así lo declare expresamente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 3.4.b Ley 39/2015: Las entidades sin personalidad jurídica PODRÁN TENER CAPACIDAD DE OBRAR CUANDO UNA LEY ASÍ LO DECLARE EXPRESAMENTE. No carecen siempre de capacidad (a). Respuesta C."
+  },
+  {
+    "id": "aux-e02_16",
+    "questionNum": 16,
+    "question": "Según la Ley 39/2015, cuando la representación no quede acreditada inicialmente:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se inadmitirá de plano la solicitud."
+      },
+      {
+        "value": 2,
+        "text": "Se concederá un plazo para subsanar la falta de acreditación."
+      },
+      {
+        "value": 3,
+        "text": "Se archivará el procedimiento sin más trámites."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se concederá un plazo para subsanar la falta de acreditación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 5.5 Ley 39/2015: Cuando la representación no quede acreditada inicialmente, SE CONCEDERÁ UN PLAZO PARA SUBSANAR LA FALTA DE ACREDITACIÓN. No se inadmite de plano (a). Respuesta B."
+  },
+  {
+    "id": "aux-e02_17",
+    "questionNum": 17,
+    "question": "Según la Ley 39/2015, la firma de los interesados será exigible:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En todos los trámites del procedimiento administrativo."
+      },
+      {
+        "value": 2,
+        "text": "Solo cuando sea necesario acreditar la autenticidad de la copia presentada."
+      },
+      {
+        "value": 3,
+        "text": "Cuando sea necesario acreditar la voluntad y consentimiento del interesado."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente en procedimientos iniciados a solicitud del interesado."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cuando sea necesario acreditar la voluntad y consentimiento del interesado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 9.2 Ley 39/2015: La firma de los interesados será exigible CUANDO SEA NECESARIO ACREDITAR LA VOLUNTAD Y CONSENTIMIENTO DEL INTERESADO. No en todos los trámites (a). Respuesta C."
+  },
+  {
+    "id": "aux-e02_18",
+    "questionNum": 18,
+    "question": "Según la Ley 39/2015, en los procedimientos iniciados de oficio, tendrán la condición de interesados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente los órganos administrativos competentes."
+      },
+      {
+        "value": 2,
+        "text": "Las personas que presenten alegaciones en cualquier momento."
+      },
+      {
+        "value": 3,
+        "text": "Aquellos cuyos derechos o intereses legítimos puedan resultar afectados."
+      },
+      {
+        "value": 4,
+        "text": "Solo quienes comparezcan mediante representante."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Aquellos cuyos derechos o intereses legítimos puedan resultar afectados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 4.1.b Ley 39/2015: En procedimientos iniciados de oficio, tendrán la condición de interesados AQUELLOS CUYOS DERECHOS O INTERESES LEGÍTIMOS PUEDAN RESULTAR AFECTADOS por la resolución. Respuesta C."
+  },
+  {
+    "id": "aux-e02_19",
+    "questionNum": 19,
+    "question": "Según la Ley 39/2015, la identificación electrónica del interesado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exige siempre el uso de firma electrónica."
+      },
+      {
+        "value": 2,
+        "text": "Puede realizarse mediante sistemas distintos de la firma electrónica."
+      },
+      {
+        "value": 3,
+        "text": "Solo es válida si se basa en certificado electrónico cualificado."
+      },
+      {
+        "value": 4,
+        "text": "Sustituye automáticamente a la representación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Puede realizarse mediante sistemas distintos de la firma electrónica."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 9.1 y 9.2 Ley 39/2015: La identificación electrónica PUEDE REALIZARSE MEDIANTE SISTEMAS DISTINTOS DE LA FIRMA ELECTRÓNICA (por ejemplo, claves concertadas). La identificación y la firma son conceptos diferenciados. Respuesta B."
+  },
+  {
+    "id": "aux-e02_20",
+    "questionNum": 20,
+    "question": "Según la Ley 39/2015, las personas tienen derecho a relacionarse con las Administraciones Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Únicamente por medios electrónicos."
+      },
+      {
+        "value": 2,
+        "text": "Por medios electrónicos o no electrónicos, según elijan."
+      },
+      {
+        "value": 3,
+        "text": "Solo por medios no electrónicos salvo obligación legal."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente mediante representante."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Por medios electrónicos o no electrónicos, según elijan."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 13 Ley 39/2015: Las personas tienen derecho a relacionarse con las AAPP POR MEDIOS ELECTRÓNICOS O NO ELECTRÓNICOS, SEGÚN ELIJAN, salvo que estén obligadas a usar medios electrónicos. No exclusivamente electrónicos (a). Respuesta B."
+  },
+  {
+    "id": "aux-e02_21",
+    "questionNum": 21,
+    "question": "Según la Ley 39/2015, están obligados a relacionarse electrónicamente con las Administraciones Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Todos los ciudadanos."
+      },
+      {
+        "value": 2,
+        "text": "Las personas físicas cuando lo solicite la Administración."
+      },
+      {
+        "value": 3,
+        "text": "Las personas jurídicas."
+      },
+      {
+        "value": 4,
+        "text": "a) y c) son correctas"
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las personas jurídicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 14.2 Ley 39/2015: Están obligados a relacionarse exclusivamente por medios electrónicos LAS PERSONAS JURÍDICAS. También las entidades sin personalidad, quienes ejercen actividad profesional colegiada, etc. No todos los ciudadanos (a). Respuesta C."
+  },
+  {
+    "id": "aux-e02_22",
+    "questionNum": 22,
+    "question": "Según la Ley 39/2015, el derecho a conocer el estado de tramitación de los procedimientos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se limita a los procedimientos iniciados a instancia de parte."
+      },
+      {
+        "value": 2,
+        "text": "Se ejerce únicamente de forma presencial."
+      },
+      {
+        "value": 3,
+        "text": "Requiere autorización expresa del órgano instructor."
+      },
+      {
+        "value": 4,
+        "text": "Incluye el acceso y obtención de copias de los documentos contenidos en ellos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Incluye el acceso y obtención de copias de los documentos contenidos en ellos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 53.1.a Ley 39/2015: El derecho a conocer el estado de tramitación INCLUYE EL ACCESO Y OBTENCIÓN DE COPIAS DE LOS DOCUMENTOS contenidos en los procedimientos. No se limita a procedimientos a instancia de parte (a). Respuesta D."
+  },
+  {
+    "id": "aux-e02_23",
+    "questionNum": 23,
+    "question": "Según la Ley 39/2015, la lengua de los procedimientos tramitados por la Administración General del Estado será:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La lengua cooficial del territorio."
+      },
+      {
+        "value": 2,
+        "text": "El castellano o la lengua cooficial elegida por el interesado."
+      },
+      {
+        "value": 3,
+        "text": "Exclusivamente el castellano."
+      },
+      {
+        "value": 4,
+        "text": "La que determine el órgano competente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El castellano o la lengua cooficial elegida por el interesado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 15.1 Ley 39/2015: La lengua de los procedimientos tramitados por la AGE será EL CASTELLANO O LA LENGUA COOFICIAL DE LA CCAA elegida por el interesado. No exclusivamente el castellano (c). Respuesta B."
+  },
+  {
+    "id": "aux-e02_24",
+    "questionNum": 24,
+    "question": "Según la Ley 39/2015, los registros electrónicos permitirán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Presentar documentos únicamente en días hábiles."
+      },
+      {
+        "value": 2,
+        "text": "Presentar documentos solo en horario de oficina."
+      },
+      {
+        "value": 3,
+        "text": "La presentación de documentos todos los días del año durante las 24 horas."
+      },
+      {
+        "value": 4,
+        "text": "Registrar documentos solo de la propia Administración."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La presentación de documentos todos los días del año durante las 24 horas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 16.4 Ley 39/2015: Los registros electrónicos permitirán LA PRESENTACIÓN DE DOCUMENTOS TODOS LOS DÍAS DEL AÑO DURANTE LAS VEINTICUATRO HORAS. No solo en días u horas hábiles (a, b). Respuesta C."
+  },
+  {
+    "id": "aux-e02_25",
+    "questionNum": 25,
+    "question": "Según la Ley 39/2015, el derecho a ser asistido en el uso de medios electrónicos corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A todas las personas en sus relaciones con las Administraciones Públicas."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente a las personas que no estén obligadas a relacionarse electrónicamente."
+      },
+      {
+        "value": 3,
+        "text": "Solo a quienes actúen mediante representante."
+      },
+      {
+        "value": 4,
+        "text": "Exclusivamente a las personas mayores de edad."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "A todas las personas en sus relaciones con las Administraciones Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 13.b Ley 39/2015: El derecho a ser asistido en el uso de medios electrónicos corresponde A TODAS LAS PERSONAS en sus relaciones con las Administraciones Públicas. Respuesta A."
+  },
+  {
+    "id": "aux-e02_26",
+    "questionNum": 26,
+    "question": "Según la Ley 39/2015, la comparecencia de las personas ante las Administraciones Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo podrá realizarse de forma presencial."
+      },
+      {
+        "value": 2,
+        "text": "Podrá realizarse de forma presencial o por medios electrónicos, cuando así se establezca."
+      },
+      {
+        "value": 3,
+        "text": "Requerirá siempre identificación mediante firma electrónica."
+      },
+      {
+        "value": 4,
+        "text": "a) b) y c) son incorrectas"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Podrá realizarse de forma presencial o por medios electrónicos, cuando así se establezca."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 13.d Ley 39/2015: La comparecencia de las personas ante las AAPP PODRÁ REALIZARSE DE FORMA PRESENCIAL O POR MEDIOS ELECTRÓNICOS, cuando así se establezca. No solo presencial (a). Respuesta B."
+  },
+  {
+    "id": "aux-e02_27",
+    "questionNum": 27,
+    "question": "Según la Ley 39/2015, las personas en sus relaciones con las Administraciones Públicas deberán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Comparecer personalmente en todos los procedimientos administrativos."
+      },
+      {
+        "value": 2,
+        "text": "Facilitar a la Administración los datos exigidos por la normativa aplicable."
+      },
+      {
+        "value": 3,
+        "text": "Colaborar únicamente cuando exista obligación legal expresa."
+      },
+      {
+        "value": 4,
+        "text": "Presentar documentos originales en todo caso."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Facilitar a la Administración los datos exigidos por la normativa aplicable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 66 y concordantes Ley 39/2015: Las personas en sus relaciones con las AAPP deberán FACILITAR A LA ADMINISTRACIÓN LOS DATOS EXIGIDOS POR LA NORMATIVA APLICABLE. No comparecer personalmente en todos los casos (a). Respuesta B."
+  },
+  {
+    "id": "aux-e02_28",
+    "questionNum": 28,
+    "question": "Según la Ley 39/2015, la responsabilidad de la tramitación de los procedimientos corresponde:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Al órgano que dicte la resolución final."
+      },
+      {
+        "value": 2,
+        "text": "Al órgano que tenga atribuida la competencia para su iniciación."
+      },
+      {
+        "value": 3,
+        "text": "Al órgano instructor del procedimiento."
+      },
+      {
+        "value": 4,
+        "text": "Al órgano superior jerárquico."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Al órgano instructor del procedimiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 72.2 Ley 39/2015: La responsabilidad de la tramitación del procedimiento corresponde AL ÓRGANO INSTRUCTOR, que controlará el cumplimiento de los plazos y adoptará las medidas necesarias. Respuesta C."
+  },
+  {
+    "id": "aux-e02_29",
+    "questionNum": 29,
+    "question": "Según la Ley 39/2015, las Administraciones Públicas están obligadas a dictar resolución expresa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo en los procedimientos iniciados a solicitud del interesado."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente cuando así lo establezca una norma con rango de ley."
+      },
+      {
+        "value": 3,
+        "text": "Exclusivamente en los procedimientos sancionadores."
+      },
+      {
+        "value": 4,
+        "text": "En todos los procedimientos, cualquiera que sea su forma de iniciación."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "En todos los procedimientos, cualquiera que sea su forma de iniciación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 21.1 Ley 39/2015: 'La Administración está obligada a dictar resolución expresa y a notificarla EN TODOS LOS PROCEDIMIENTOS, cualquiera que sea su forma de iniciación.' Obligación general y sin excepciones de forma. Respuesta D."
+  },
+  {
+    "id": "aux-e02_30",
+    "questionNum": 30,
+    "question": "Según la Ley 39/2015, los plazos expresados en días se contarán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "A partir del día siguiente al de la notificación o publicación."
+      },
+      {
+        "value": 2,
+        "text": "Incluyendo siempre los sábados, domingos y festivos."
+      },
+      {
+        "value": 3,
+        "text": "Desde el mismo día en que se produce la notificación."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente en días naturales."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "A partir del día siguiente al de la notificación o publicación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 30.1 Ley 39/2015: Los plazos expresados en días se contarán A PARTIR DEL DÍA SIGUIENTE AL DE LA NOTIFICACIÓN O PUBLICACIÓN del acto de que se trate. No desde el mismo día (c). Respuesta A."
+  },
+  {
+    "id": "aux-e02_31",
+    "questionNum": 31,
+    "question": "Según la Ley 39/2015, cuando un plazo se exprese en días hábiles:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se incluirán los sábados, domingos y festivos."
+      },
+      {
+        "value": 2,
+        "text": "Se excluirán los sábados, domingos y festivos."
+      },
+      {
+        "value": 3,
+        "text": "Se excluirán únicamente los domingos."
+      },
+      {
+        "value": 4,
+        "text": "Se incluirán todos los días del año."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se excluirán los sábados, domingos y festivos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 30.2 Ley 39/2015: Cuando el plazo se exprese en días HÁBILES, SE EXCLUIRÁN LOS SÁBADOS, LOS DOMINGOS Y LOS FESTIVOS en el cómputo. Respuesta B."
+  },
+  {
+    "id": "aux-e02_32",
+    "questionNum": 32,
+    "question": "Según la Ley 39/2015, cuando el último día de un plazo sea inhábil:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El plazo se entenderá finalizado ese mismo día."
+      },
+      {
+        "value": 2,
+        "text": "El plazo se ampliará automáticamente cinco días."
+      },
+      {
+        "value": 3,
+        "text": "El plazo se entenderá prorrogado al primer día hábil siguiente."
+      },
+      {
+        "value": 4,
+        "text": "El plazo quedará suspendido hasta nueva notificación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El plazo se entenderá prorrogado al primer día hábil siguiente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 30.5 Ley 39/2015: Cuando el último día del plazo sea inhábil, EL PLAZO SE ENTENDERÁ PRORROGADO AL PRIMER DÍA HÁBIL SIGUIENTE. Respuesta C."
+  },
+  {
+    "id": "aux-e02_33",
+    "questionNum": 33,
+    "question": "Según la Ley 39/2015, los actos administrativos deberán dictarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre por escrito y en soporte papel."
+      },
+      {
+        "value": 2,
+        "text": "Por el órgano competente, ajustándose al procedimiento establecido."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente mediante medios electrónicos."
+      },
+      {
+        "value": 4,
+        "text": "De forma motivada en todos los casos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Por el órgano competente, ajustándose al procedimiento establecido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 34 Ley 39/2015: Los actos administrativos deberán dictarse POR EL ÓRGANO COMPETENTE, AJUSTÁNDOSE AL PROCEDIMIENTO ESTABLECIDO. No todos deben ser por escrito y en papel (a) ni todos motivados (d). Respuesta B."
+  },
+  {
+    "id": "aux-e02_34",
+    "questionNum": 34,
+    "question": "Según la Ley 39/2015, los actos administrativos producirán efectos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Desde la fecha en que se dicten."
+      },
+      {
+        "value": 2,
+        "text": "Desde el día siguiente al de su notificación."
+      },
+      {
+        "value": 3,
+        "text": "Desde la fecha en que se notifiquen o publiquen, salvo que en ellos se disponga otra cosa."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente desde su publicación en el boletín oficial correspondiente."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Desde la fecha en que se notifiquen o publiquen, salvo que en ellos se disponga otra cosa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 39.1 Ley 39/2015: Los actos administrativos producirán efectos DESDE LA FECHA EN QUE SE NOTIFIQUEN O PUBLIQUEN, SALVO QUE EN ELLOS SE DISPONGA OTRA COSA. No desde que se dictan sin notificar (a). Respuesta C."
+  },
+  {
+    "id": "aux-e02_35",
+    "questionNum": 35,
+    "question": "Según la Ley 39/2015, serán nulos de pleno derecho los actos administrativos que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Incurran en cualquier infracción del ordenamiento jurídico."
+      },
+      {
+        "value": 2,
+        "text": "Se dicten fuera de plazo."
+      },
+      {
+        "value": 3,
+        "text": "Carezcan de motivación."
+      },
+      {
+        "value": 4,
+        "text": "Lesionen derechos y libertades susceptibles de amparo constitucional."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Lesionen derechos y libertades susceptibles de amparo constitucional."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 47.1.a Ley 39/2015: Son nulos de pleno derecho los actos que LESIONEN LOS DERECHOS Y LIBERTADES SUSCEPTIBLES DE AMPARO CONSTITUCIONAL. Esta es la causa más grave prevista en la Ley. Respuesta D."
+  },
+  {
+    "id": "aux-e02_36",
+    "questionNum": 36,
+    "question": "Según la Ley 39/2015, serán anulables los actos administrativos que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Incurran en infracción del ordenamiento jurídico, incluso la desviación de poder."
+      },
+      {
+        "value": 2,
+        "text": "Lesionen derechos fundamentales."
+      },
+      {
+        "value": 3,
+        "text": "Sean dictados por órgano manifiestamente incompetente por razón de la materia."
+      },
+      {
+        "value": 4,
+        "text": "b) y c) son correctas"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Incurran en infracción del ordenamiento jurídico, incluso la desviación de poder."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 48.1 Ley 39/2015: Son anulables los actos que INCURRAN EN CUALQUIER INFRACCIÓN DEL ORDENAMIENTO JURÍDICO, INCLUSO LA DESVIACIÓN DE PODER. Esta es la cláusula general de anulabilidad. Respuesta A."
+  },
+  {
+    "id": "aux-e02_37",
+    "questionNum": 37,
+    "question": "Según la Ley 39/2015, los actos administrativos deberán ser motivados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En todos los casos."
+      },
+      {
+        "value": 2,
+        "text": "Solo cuando lo solicite el interesado."
+      },
+      {
+        "value": 3,
+        "text": "En los supuestos previstos legalmente."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente cuando se dicten por delegación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "En los supuestos previstos legalmente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 35 Ley 39/2015: Los actos deberán ser motivados EN LOS SUPUESTOS PREVISTOS LEGALMENTE (art. 35.1 lista tasada de supuestos). No siempre (a) ni solo a solicitud (b). Respuesta C."
+  },
+  {
+    "id": "aux-e02_38",
+    "questionNum": 38,
+    "question": "Según la Ley 39/2015, cuando el acto administrativo carezca de los requisitos formales indispensables:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Será siempre nulo de pleno derecho."
+      },
+      {
+        "value": 2,
+        "text": "Será anulable cuando produzca indefensión."
+      },
+      {
+        "value": 3,
+        "text": "No producirá ningún efecto jurídico."
+      },
+      {
+        "value": 4,
+        "text": "Deberá ser archivado sin tramitación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Será anulable cuando produzca indefensión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 48.2 Ley 39/2015: El defecto de forma producirá la ANULABILIDAD CUANDO EL ACTO CAREZCA DE LOS REQUISITOS FORMALES INDISPENSABLES PARA ALCANZAR SU FIN O CUANDO PRODUZCA INDEFENSIÓN. Respuesta B."
+  },
+  {
+    "id": "aux-e02_39",
+    "questionNum": 39,
+    "question": "Según la Ley 39/2015, los recursos administrativos se fundamentan en el principio de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Jerarquía normativa."
+      },
+      {
+        "value": 2,
+        "text": "Legalidad y eficacia administrativa."
+      },
+      {
+        "value": 3,
+        "text": "Revisión de los actos en vía administrativa."
+      },
+      {
+        "value": 4,
+        "text": "Tutela judicial efectiva."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Revisión de los actos en vía administrativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Ley 39/2015 (Título V): Los recursos administrativos se fundamentan en el principio de REVISIÓN DE LOS ACTOS EN VÍA ADMINISTRATIVA, permitiendo al interesado impugnar ante la propia Administración antes de acudir a la vía judicial. Respuesta C."
+  },
+  {
+    "id": "aux-e02_40",
+    "questionNum": 40,
+    "question": "Según la Ley 39/2015, contra los actos que no pongan fin a la vía administrativa podrá interponerse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Recurso potestativo de reposición."
+      },
+      {
+        "value": 2,
+        "text": "Recurso extraordinario de revisión."
+      },
+      {
+        "value": 3,
+        "text": "Recurso contencioso-administrativo."
+      },
+      {
+        "value": 4,
+        "text": "Recurso de alzada."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Recurso de alzada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 121 Ley 39/2015: Contra los actos que NO PONGAN FIN A LA VÍA ADMINISTRATIVA podrá interponerse RECURSO DE ALZADA ante el órgano superior jerárquico. Respuesta D."
+  },
+  {
+    "id": "aux-e02_41",
+    "questionNum": 41,
+    "question": "Según la Ley 39/2015, los actos administrativos que incurran en defectos formales:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Serán anulables cuando carezcan de los requisitos formales indispensables o produzcan indefensión."
+      },
+      {
+        "value": 2,
+        "text": "Serán siempre nulos de pleno derecho."
+      },
+      {
+        "value": 3,
+        "text": "No producirán efectos jurídicos."
+      },
+      {
+        "value": 4,
+        "text": "Se considerarán inexistentes."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Serán anulables cuando carezcan de los requisitos formales indispensables o produzcan indefensión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 48.2 Ley 39/2015: Los actos con defectos formales serán ANULABLES CUANDO CAREZCAN DE LOS REQUISITOS FORMALES INDISPENSABLES O PRODUZCAN INDEFENSIÓN de los interesados. No nulos de pleno derecho (b). Respuesta A."
+  },
+  {
+    "id": "aux-e02_42",
+    "questionNum": 42,
+    "question": "Según la Ley 39/2015, los actos nulos de pleno derecho:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Podrán convalidarse en cualquier caso."
+      },
+      {
+        "value": 2,
+        "text": "Podrán subsanarse por el transcurso del tiempo."
+      },
+      {
+        "value": 3,
+        "text": "No serán susceptibles de convalidación."
+      },
+      {
+        "value": 4,
+        "text": "Serán anulables si no se impugnan en plazo."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No serán susceptibles de convalidación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 52.1 Ley 39/2015: Los actos NULOS DE PLENO DERECHO NO SERÁN SUSCEPTIBLES DE CONVALIDACIÓN, a diferencia de los actos anulables que sí pueden convalidarse. Respuesta C."
+  },
+  {
+    "id": "aux-e02_43",
+    "questionNum": 43,
+    "question": "Según la Ley 39/2015, los actos administrativos podrán tener efectos retroactivos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En ningún caso."
+      },
+      {
+        "value": 2,
+        "text": "Cuando así lo establezca siempre una norma con rango de ley."
+      },
+      {
+        "value": 3,
+        "text": "Cuando produzcan efectos favorables y no lesionen derechos o intereses legítimos de otras personas."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente en procedimientos sancionadores."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cuando produzcan efectos favorables y no lesionen derechos o intereses legítimos de otras personas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 39.3 Ley 39/2015: Los actos administrativos podrán tener efectos retroactivos CUANDO PRODUZCAN EFECTOS FAVORABLES AL INTERESADO y NO LESIONEN DERECHOS O INTERESES LEGÍTIMOS DE OTRAS PERSONAS. Respuesta C."
+  },
+  {
+    "id": "aux-e02_44",
+    "questionNum": 44,
+    "question": "Según la Ley 39/2015, los actos anulables podrán ser convalidados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En cualquier momento y por cualquier órgano."
+      },
+      {
+        "value": 2,
+        "text": "Por el órgano que los dictó o su superior jerárquico, subsanando los vicios de que adolezcan."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente mediante recurso contencioso-administrativo."
+      },
+      {
+        "value": 4,
+        "text": "Solo cuando lo solicite el interesado."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Por el órgano que los dictó o su superior jerárquico, subsanando los vicios de que adolezcan."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 52.1 Ley 39/2015: Los actos anulables podrán ser convalidados POR EL ÓRGANO QUE LOS DICTÓ O SU SUPERIOR JERÁRQUICO, SUBSANANDO LOS VICIOS DE QUE ADOLEZCAN. Respuesta B."
+  },
+  {
+    "id": "aux-e02_45",
+    "questionNum": 45,
+    "question": "Según la Ley 39/2015, la ampliación de plazos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Podrá concederse de oficio o a petición de los interesados si las circunstancias lo aconsejan."
+      },
+      {
+        "value": 2,
+        "text": "Solo podrá concederse a instancia del interesado."
+      },
+      {
+        "value": 3,
+        "text": "Será automática cuando el procedimiento sea complejo."
+      },
+      {
+        "value": 4,
+        "text": "Podrá concederse aunque haya expirado el plazo inicialmente concedido."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Podrá concederse de oficio o a petición de los interesados si las circunstancias lo aconsejan."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 32.1 Ley 39/2015: La Administración podrá conceder una ampliación de los plazos DE OFICIO O A PETICIÓN DE LOS INTERESADOS si las circunstancias lo aconsejan, salvo que se opongan intereses de terceros. Respuesta A."
+  },
+  {
+    "id": "aux-e02_46",
+    "questionNum": 46,
+    "question": "Según la Ley 39/2015, cuando se acumulen procedimientos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Será obligatoria la acumulación en todo caso."
+      },
+      {
+        "value": 2,
+        "text": "Solo se acumularán procedimientos sancionadores."
+      },
+      {
+        "value": 3,
+        "text": "La acumulación requerirá consentimiento del interesado."
+      },
+      {
+        "value": 4,
+        "text": "Podrán acumularse procedimientos que guarden identidad sustancial o íntima conexión."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Podrán acumularse procedimientos que guarden identidad sustancial o íntima conexión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 57 Ley 39/2015: Podrán acumularse en un único procedimiento aquellos que GUARDEN IDENTIDAD SUSTANCIAL O ÍNTIMA CONEXIÓN, cuando la tramitación conjunta facilite la resolución. Respuesta D."
+  },
+  {
+    "id": "aux-e02_47",
+    "questionNum": 47,
+    "question": "Según la Ley 39/2015, los términos y plazos establecidos en la Ley:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo obligan al personal al servicio de las Administraciones"
+      },
+      {
+        "value": 2,
+        "text": "Solo obligan a los interesados."
+      },
+      {
+        "value": 3,
+        "text": "Obligan tanto a las autoridades y personal al servicio de las Administraciones Públicas como a los interesados."
+      },
+      {
+        "value": 4,
+        "text": "Son siempre improrrogables."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Obligan tanto a las autoridades y personal al servicio de las Administraciones Públicas como a los interesados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 29 Ley 39/2015: Los términos y plazos obligan TANTO A LAS AUTORIDADES Y PERSONAL AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS COMO A LOS INTERESADOS. Son de cumplimiento obligatorio para ambas partes. Respuesta C."
+  },
+  {
+    "id": "aux-e02_48",
+    "questionNum": 48,
+    "question": "Según la Ley 39/2015, cuando una notificación sea rechazada por el interesado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se repetirá automáticamente."
+      },
+      {
+        "value": 2,
+        "text": "Se considerará intentada sin efecto."
+      },
+      {
+        "value": 3,
+        "text": "Se entenderá practicada a todos los efectos legales."
+      },
+      {
+        "value": 4,
+        "text": "Se archivará el procedimiento."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Se entenderá practicada a todos los efectos legales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 42.2 Ley 39/2015: Cuando la notificación sea RECHAZADA POR EL INTERESADO, SE ENTENDERÁ PRACTICADA A TODOS LOS EFECTOS LEGALES. No se repite automáticamente (a). Respuesta C."
+  },
+  {
+    "id": "aux-e02_49",
+    "questionNum": 49,
+    "question": "Según la Ley 39/2015, cuando la notificación se practique por medios electrónicos y no sea posible acceder a su contenido:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se entenderá rechazada de inmediato."
+      },
+      {
+        "value": 2,
+        "text": "Se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin acceder a su contenido."
+      },
+      {
+        "value": 3,
+        "text": "Se entenderá rechazada cuando hayan transcurrido quince días naturales desde su puesta a disposición sin acceder a su contenido."
+      },
+      {
+        "value": 4,
+        "text": "Se entenderá rechazada cuando haya transcurrido un mes desde su puesta a disposición sin acceder a su contenido."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin acceder a su contenido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 43.2 Ley 39/2015: En las notificaciones electrónicas, la notificación SE ENTENDERÁ RECHAZADA CUANDO HAYAN TRANSCURRIDO DIEZ DÍAS NATURALES desde su puesta a disposición sin que el interesado acceda a su contenido. Respuesta B."
+  },
+  {
+    "id": "aux-e02_50",
+    "questionNum": 50,
+    "question": "Según la Ley 39/2015, los actos administrativos se presumen:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Nulos mientras no se declare su validez."
+      },
+      {
+        "value": 2,
+        "text": "Válidos y producen efectos desde la fecha en que se dicten, salvo disposición en contrario."
+      },
+      {
+        "value": 3,
+        "text": "Anulables salvo que se confirme su legalidad."
+      },
+      {
+        "value": 4,
+        "text": "Ineficaces hasta su publicación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Válidos y producen efectos desde la fecha en que se dicten, salvo disposición en contrario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e02",
+    "explanation": "Art. 38 y 39 Ley 39/2015: Los actos administrativos SE PRESUMEN VÁLIDOS Y PRODUCEN EFECTOS DESDE LA FECHA EN QUE SE DICTEN, salvo que en ellos se disponga otra cosa. No se presumen nulos (a) ni anulables (c). Respuesta B."
+  }
+]

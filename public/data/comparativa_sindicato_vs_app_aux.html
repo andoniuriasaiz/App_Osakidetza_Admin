@@ -1,0 +1,109 @@
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-sans);color:var(--color-text-primary);background:transparent}
+.top{padding:1rem 0 0.5rem}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-bottom:1rem}
+.stat{background:var(--color-background-secondary);border-radius:var(--border-radius-md);padding:0.75rem;text-align:center}
+.stat .lbl{font-size:12px;color:var(--color-text-secondary);margin-bottom:4px}
+.stat .val{font-size:22px;font-weight:500}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:1rem;align-items:center}
+.filters select{font-size:13px;padding:6px 10px;border-radius:var(--border-radius-md);border:0.5px solid var(--color-border-secondary);background:var(--color-background-primary);color:var(--color-text-primary);cursor:pointer}
+.filters input{font-size:13px;padding:6px 10px;border-radius:var(--border-radius-md);border:0.5px solid var(--color-border-secondary);background:var(--color-background-primary);color:var(--color-text-primary);flex:1;min-width:180px}
+.tbl-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;font-weight:500;font-size:12px;color:var(--color-text-secondary);padding:8px 10px;border-bottom:0.5px solid var(--color-border-tertiary);white-space:nowrap;background:var(--color-background-secondary)}
+td{padding:8px 10px;border-bottom:0.5px solid var(--color-border-tertiary);vertical-align:top}
+tr:hover td{background:var(--color-background-secondary)}
+.enunciado{max-width:320px;color:var(--color-text-primary)}
+.cat-tag{font-size:11px;color:var(--color-text-secondary);display:block;margin-top:2px}
+.badge{display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:20px;text-align:center;min-width:28px}
+.b-correct{background:#EAF3DE;color:#27500A;font-weight:500}
+.b-wrong{background:#FCEBEB;color:#791F1F}
+.b-same{background:#E6F1FB;color:#0C447C}
+.exp{font-size:12px;color:var(--color-text-secondary);margin-top:4px;line-height:1.5}
+.toggle-exp{font-size:11px;color:var(--color-text-info,#378ADD);cursor:pointer;border:none;background:none;padding:0;margin-top:4px;text-decoration:underline}
+.count{font-size:12px;color:var(--color-text-secondary);margin-bottom:6px}
+</style>
+<div class="top">
+<div class="stats">
+  <div class="stat"><div class="lbl">Total desacuerdos</div><div class="val">18</div></div>
+  <div class="stat"><div class="lbl">App correcta</div><div class="val" style="color:#0C447C">8</div></div>
+  <div class="stat"><div class="lbl">Sindicato correcto</div><div class="val" style="color:#27500A">2</div></div>
+  <div class="stat"><div class="lbl">Ninguno acierta</div><div class="val" style="color:#633806">8</div></div>
+</div>
+<div class="filters">
+  <input type="text" id="search" placeholder="Buscar en enunciado..." oninput="render()">
+  <select id="fcat" onchange="render()"><option value="">Todas las leyes</option></select>
+  <select id="fwho" onchange="render()">
+    <option value="">Todos los resultados</option>
+    <option value="APP">App correcta</option>
+    <option value="SINDICATO">Sindicato correcto</option>
+    <option value="NINGUNO">Ninguno acierta</option>
+  </select>
+</div>
+<div class="count" id="cnt"></div>
+<div class="tbl-wrap">
+<table>
+<thead><tr>
+  <th>Nº</th>
+  <th>Enunciado / Ley</th>
+  <th>App</th>
+  <th>Sindicato</th>
+  <th>Correcta</th>
+  <th>¿Quién acierta?</th>
+</tr></thead>
+<tbody id="tbody"></tbody>
+</table>
+</div>
+</div>
+<script>
+const DATA = [{"cat":"Decreto 149/2007 \u2014 Segunda Opini\u00f3n M\u00e9dica en el Sistema Sanitario de Euskadi","num":17,"enunciado":"Seg\u00fan el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opini\u00f3n m\u00e9dica a los pacientes que padezcan alguna de las enfermedades incluidas en el cat\u00e1logo del propio Decreto. \u00bfEn qu\u00e9 plazo m\u00e1ximo debe comunicarse la resoluci\u00f3n al Servicio de Atenci\u00f3n al Paciente-Usuario?","app":"D","sindicato":"B","correcta":"D","quien":"APP","explicacion":"Art. 7 Decreto 149/2007: El m\u00e9dico responsable del paciente dispone de un m\u00e1ximo de 10 d\u00edas h\u00e1biles desde la solicitud para emitir su informe y comunicar la resoluci\u00f3n al Servicio de Atenci\u00f3n al Paciente-Usuario. Respuesta D."},{"cat":"Decreto 149/2007 \u2014 Segunda Opini\u00f3n M\u00e9dica en el Sistema Sanitario de Euskadi","num":30,"enunciado":"El Servicio de Atenci\u00f3n al Paciente-Usuario, si hubiere derecho a ello, concertar\u00e1 la fecha, hora y lugar de la segunda opini\u00f3n m\u00e9dica, notific\u00e1ndoselo al interesado en el plazo m\u00e1ximo de:","app":"C","sindicato":"B","correcta":"C","quien":"APP","explicacion":"Art. 8 Decreto 149/2007: El Servicio de Atenci\u00f3n al Paciente-Usuario, una vez reconocido el derecho, dispone de un m\u00e1ximo de 5 d\u00edas h\u00e1biles para concertar la fecha, hora y lugar y notific\u00e1rselo al interesado. Respuesta C."},{"cat":"Decreto 149/2007 \u2014 Segunda Opini\u00f3n M\u00e9dica en el Sistema Sanitario de Euskadi","num":33,"enunciado":"Una vez obtenida la segunda opini\u00f3n m\u00e9dica si el segundo diagn\u00f3stico es confirmatorio del primero, la decisi\u00f3n sobre el tratamiento a seguir corresponde a:","app":"D","sindicato":"C","correcta":"D","quien":"APP","explicacion":"Art. 10 Decreto 149/2007: Si el segundo diagn\u00f3stico confirma el primero, la decisi\u00f3n sobre el tratamiento a seguir corresponde al paciente, quien tras recibir la informaci\u00f3n adecuada decide de manera aut\u00f3noma. Respuesta D."},{"cat":"Decreto 149/2007 \u2014 Segunda Opini\u00f3n M\u00e9dica en el Sistema Sanitario de Euskadi","num":34,"enunciado":"Una vez obtenida la segunda opini\u00f3n m\u00e9dica si el segundo diagn\u00f3stico no es confirmatorio del primero, la decisi\u00f3n sobre el tratamiento a seguir:","app":"D","sindicato":"A","correcta":"D","quien":"APP","explicacion":"Art. 10 Decreto 149/2007: Si el segundo diagn\u00f3stico no confirma el primero (discrepancia), corresponde igualmente al paciente tomar la decisi\u00f3n sobre el tratamiento a seguir, ejerciendo su autonom\u00eda. Respuesta D."},{"cat":"Ley 39/2015 LPAC \u2014 Objeto, Interesados y Actos Administrativos","num":32,"enunciado":"Seg\u00fan el Decreto 149/2007, de 18 de septiembre, transcurrido el plazo establecido sin recibir comunicaci\u00f3n del m\u00e9dico, el Servicio de Atenci\u00f3n al Paciente-Usuario entender\u00e1 que:","app":"A","sindicato":"C","correcta":"A","quien":"APP","explicacion":"Art. 7 Decreto 149/2007: Si transcurre el plazo sin comunicaci\u00f3n del m\u00e9dico, el Servicio de Atenci\u00f3n al Paciente-Usuario entender\u00e1 que el paciente tiene derecho a la segunda opini\u00f3n m\u00e9dica (silencio positivo). Respuesta A."},{"cat":"Ley 39/2015 LPAC \u2014 Objeto, Interesados y Actos Administrativos","num":197,"enunciado":"Seg\u00fan la Ley 39/2015, cuando la notificaci\u00f3n se practique por medios electr\u00f3nicos y no sea posible acceder a ella, \u00bfcunado se entender\u00e1 rechazada?","app":"B","sindicato":"C","correcta":"B","quien":"APP","explicacion":"Art. 43.2 Ley 39/2015: Cuando la notificaci\u00f3n electr\u00f3nica no pueda practicarse por causas imputables al interesado, se entender\u00e1 rechazada transcurridos 10 d\u00edas naturales desde que se puso a disposici\u00f3n del interesado. Respuesta B."},{"cat":"Ley 31/1995 \u2014 Prevenci\u00f3n de Riesgos Laborales (objeto y \u00e1mbito)","num":59,"enunciado":"La Comisi\u00f3n Nacional de Seguridad y Salud en el Trabajo estar\u00e1 integrada por:","app":"C","sindicato":"A","correcta":"A","quien":"SINDICATO","explicacion":"Art. 13 Ley 31/1995: La Comisi\u00f3n Nacional de Seguridad y Salud en el Trabajo estar\u00e1 integrada por representantes de la Administraci\u00f3n General del Estado (un representante por cada uno de los Ministerios con competencias en la materia), un representante de cada una de las CCAA, y representantes de las organizaciones empresariales y sindicales m\u00e1s representativas. Respuesta A."},{"cat":"Ley 40/2015 \u2014 R\u00e9gimen Jur\u00eddico del Sector P\u00fablico (LRJSP)","num":70,"enunciado":"Si alguna disposici\u00f3n atribuye la competencia a una Administraci\u00f3n, sin especificar el \u00f3rgano que debe ejercerla, \u00bfa qui\u00e9n se entiende atribuida?","app":"B","sindicato":"A","correcta":"A","quien":"SINDICATO","explicacion":"Art. 8.2 Ley 40/2015: Si alguna disposici\u00f3n atribuye la competencia a una Administraci\u00f3n P\u00fablica sin especificar el \u00f3rgano que debe ejercerla, se entender\u00e1 que la facultad de instruir y resolver los expedientes corresponde a los \u00f3rganos inferiores competentes por raz\u00f3n de la materia y del territorio. Respuesta A."},{"cat":"RDL 5/2015 \u2014 Estatuto B\u00e1sico del Empleado P\u00fablico (EBEP)","num":90,"enunciado":"El personal laboral al servicio de las Administraciones P\u00fablicas, en materia de nacimiento, adopci\u00f3n, guarda con fines de adopci\u00f3n y acogimiento, tendr\u00e1 derecho a un permiso de:","app":"B","sindicato":"A","correcta":"B","quien":"APP","explicacion":"Art. 49 EBEP (RDL 5/2015): El permiso por nacimiento, adopci\u00f3n, guarda con fines de adopci\u00f3n o acogimiento es de 16 semanas, de las cuales las 6 primeras son de disfrute obligatorio e ininterrumpido. La B recoge correctamente esta duraci\u00f3n. Respuesta B."},{"cat":"Decreto 235/2007 \/ 106\/2008 \u2014 Acuerdo Regulaci\u00f3n Condiciones de Trabajo Osakidetza","num":109,"enunciado":"Entre los aspectos adicionales al Acuerdo 2007-2009 recogidos en el Decreto 106/2008 se incluye la aplicaci\u00f3n del 'complemento espec\u00edfico por turno de tarde' para personal que presta servicios en turno de tarde. \u00bfEn qu\u00e9 porcentaje se aplic\u00f3 dicho complemento sobre el salario base?","app":"B","sindicato":"D","correcta":"B","quien":"APP","explicacion":"Decreto 106/2008: El complemento espec\u00edfico por turno de tarde se aplica en un 15% sobre el salario base para el personal que presta sus servicios habitualmente en turno de tarde en Osakidetza. Respuesta B."},{"cat":"Decreto 235/2007 \/ 106\/2008 \u2014 Acuerdo Regulaci\u00f3n Condiciones de Trabajo Osakidetza","num":115,"enunciado":"En relaci\u00f3n a las licencias para el personal contempladas en el Decreto 235/2007:","app":"B","sindicato":"A","correcta":"B","quien":"APP","explicacion":"Decreto 235/2007: Las licencias por asuntos propios no retribuidas podr\u00e1n concederse hasta un m\u00e1ximo de 3 meses cada dos a\u00f1os. El personal tiene derecho a solicitar este tipo de licencia sin necesidad de justificar el motivo. La B recoge correctamente este r\u00e9gimen. Respuesta B."},{"cat":"Decreto 235/2007 \/ 106\/2008 \u2014 Acuerdo Regulaci\u00f3n Condiciones de Trabajo Osakidetza","num":116,"enunciado":"La licencia por enfermedad grave, hospitalizaci\u00f3n o fallecimiento de parientes, en el caso de tratarse de parientes de segundo grado de consanguinidad o afinidad, ser\u00e1 de:","app":"D","sindicato":"C","correcta":"D","quien":"APP","explicacion":"Decreto 235/2007: La licencia por enfermedad grave, hospitalizaci\u00f3n o fallecimiento de parientes de segundo grado de consanguinidad o afinidad es de 2 d\u00edas naturales (ampliable a 4 si hay desplazamiento). Respuesta D."},{"cat":"Decreto 255/1997 \u2014 Estatutos Sociales Osakidetza (temario espec\u00edfico)","num":119,"enunciado":"\u201cProporcionar a las personas que accedan sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos\u201d es un principio rector de Osakidetza. \u00bfC\u00f3mo se denomina este principio en los Estatutos Sociales?","app":"B","sindicato":"C","correcta":"B","quien":"APP","explicacion":"Decreto 255/1997, art. 4: El principio rector que establece proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos se denomina principio de EQUIDAD. La B es la respuesta correcta. Respuesta B."},{"cat":"Decreto 255/1997 \u2014 Estatutos Sociales Osakidetza (temario espec\u00edfico)","num":126,"enunciado":"El Consejo de Administraci\u00f3n del Ente P\u00fablico Osakidetza-Servicio Vasco de Salud, nombrar\u00e1 entre sus miembros un Vicepresidente/a. \u00bfQu\u00e9 funci\u00f3n tendr\u00e1?","app":"A","sindicato":"D","correcta":"A","quien":"APP","explicacion":"Decreto 255/1997, art. 16: El Vicepresidente/a del Consejo de Administraci\u00f3n tendr\u00e1 la funci\u00f3n de sustituir al Presidente en caso de vacante, ausencia o enfermedad, y ejercer las funciones que el Presidente le delegue. La A es correcta. Respuesta A."},{"cat":"Decreto 255/1997 \u2014 Estatutos Sociales Osakidetza (temario espec\u00edfico)","num":127,"enunciado":"La Direcci\u00f3n General del Ente P\u00fablico Osakidetza-Servicio Vasco de Salud contar\u00e1 con el apoyo de un Comit\u00e9 de Direcci\u00f3n. \u00bfCu\u00e1ntos miembros m\u00e1ximos tiene este Comit\u00e9?","app":"C","sindicato":"B","correcta":"C","quien":"APP","explicacion":"Decreto 255/1997, art. 24: El Comit\u00e9 de Direcci\u00f3n de la Direcci\u00f3n General de Osakidetza estar\u00e1 integrado por un m\u00e1ximo de 10 miembros, nombrados por el Director/a General. La C es la respuesta correcta. Respuesta C."},{"cat":"Decreto 255/1997 \u2014 Estatutos Sociales Osakidetza (temario espec\u00edfico)","num":129,"enunciado":"Seg\u00fan el Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente P\u00fablico Osakidetza-Servicio Vasco de Salud, la composici\u00f3n del Consejo de Administraci\u00f3n ser\u00e1:","app":"D","sindicato":"B","correcta":"D","quien":"APP","explicacion":"Decreto 255/1997, art. 13: El Consejo de Administraci\u00f3n de Osakidetza estar\u00e1 compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administraci\u00f3n y 4 vocales en representaci\u00f3n del personal. Total: 13 miembros. La D recoge esta composici\u00f3n. Respuesta D."},{"cat":"Decreto 255/1997 \u2014 Estatutos Sociales Osakidetza (temario espec\u00edfico)","num":132,"enunciado":"Con car\u00e1cter ordinario, a la Direcci\u00f3n M\u00e9dica le corresponde la siguiente atribuci\u00f3n:","app":"B","sindicato":"A","correcta":"B","quien":"APP","explicacion":"Decreto 255/1997, art. 28: Con car\u00e1cter ordinario, la Direcci\u00f3n M\u00e9dica de cada organizaci\u00f3n de servicios de Osakidetza tiene atribuida la coordinaci\u00f3n de la actividad asistencial m\u00e9dica, velando por la calidad de la atenci\u00f3n. La B recoge correctamente esta atribuci\u00f3n. Respuesta B."},{"cat":"Ley 39/2015 LPAC \u2014 Revisi\u00f3n de Actos y Recursos Administrativos","num":180,"enunciado":"Seg\u00fan la Ley 39/2015, el recurso extraordinario de revisi\u00f3n podr\u00e1 interponerse cuando:","app":"B","sindicato":"C","correcta":"B","quien":"APP","explicacion":"Art. 125 Ley 39/2015: El recurso extraordinario de revisi\u00f3n solo procede contra actos firmes en v\u00eda administrativa cuando concurra alguno de los motivos tasados: aparici\u00f3n de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricaci\u00f3n, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B."}];
+
+const cats = [...new Set(DATA.map(r=>r.cat))];
+const sel = document.getElementById('fcat');
+cats.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c.length>55?c.slice(0,55)+'…':c;sel.appendChild(o);});
+
+function getColor(quien){
+  if(quien==='APP') return {bg:'#E6F1FB',color:'#0C447C'};
+  if(quien==='SINDICATO') return {bg:'#EAF3DE',color:'#27500A'};
+  if(quien==='NINGUNO') return {bg:'#FAEEDA',color:'#633806'};
+  return {bg:'#EEEDFE',color:'#3C3489'};
+}
+function letterBadge(letter, isCorrect){
+  return '<span class="badge '+(isCorrect?'b-correct':'b-wrong')+'">'+letter+'</span>';
+}
+function render(){
+  const search = document.getElementById('search').value.toLowerCase();
+  const fcat = document.getElementById('fcat').value;
+  const fwho = document.getElementById('fwho').value;
+  const filtered = DATA.filter(r=>{
+    if(fcat && r.cat!==fcat) return false;
+    if(fwho && r.quien!==fwho) return false;
+    if(search && !r.enunciado.toLowerCase().includes(search) && !r.cat.toLowerCase().includes(search)) return false;
+    return true;
+  });
+  document.getElementById('cnt').textContent = 'Mostrando '+filtered.length+' de 18 preguntas';
+  const tbody = document.getElementById('tbody');
+  tbody.innerHTML = filtered.map(r=>{
+    const {bg,color} = getColor(r.quien);
+    const appOk = r.app===r.correcta;
+    const sinOk = r.sindicato===r.correcta;
+    const label = r.quien==='APP'?'App ✓':r.quien==='SINDICATO'?'Sindicato ✓':'Ninguno ✗';
+    return '<tr><td style="white-space:nowrap;font-weight:500;color:var(--color-text-secondary);font-size:12px">#'+r.num+'</td>'+
+      '<td class="enunciado">'+r.enunciado+'<span class="cat-tag">'+r.cat+'</span></td>'+
+      '<td>'+letterBadge(r.app,appOk)+'</td>'+
+      '<td>'+letterBadge(r.sindicato,sinOk)+'</td>'+
+      '<td><span class="badge b-same">'+r.correcta+'</span></td>'+
+      '<td><span class="badge" style="background:'+bg+';color:'+color+'">'+label+'</span>'+
+        (r.explicacion?'<br><button class="toggle-exp" onclick="toggleExp(this)">ver explicación</button><div class="exp" style="display:none">'+r.explicacion+'</div>':'')+
+      '</td></tr>';
+  }).join('');
+}
+function toggleExp(btn){
+  const div=btn.nextElementSibling;
+  if(div.style.display==='none'){div.style.display='block';btn.textContent='ocultar';}
+  else{div.style.display='none';btn.textContent='ver explicación';}
+}
+render();
+</script>

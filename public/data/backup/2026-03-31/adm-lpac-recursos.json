@@ -1,0 +1,362 @@
+[
+  {
+    "id": "adm-lpac-recursos_1",
+    "questionNum": 1,
+    "question": "La declaración de lesividad no podrá adoptarse una vez transcurridos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dos años desde que se dictó el acto administrativo."
+      },
+      {
+        "value": 2,
+        "text": "Tres años desde que se dictó el acto administrativo."
+      },
+      {
+        "value": 3,
+        "text": "Cuatro años desde que se dictó el acto administrativo."
+      },
+      {
+        "value": 4,
+        "text": "Cinco años desde que se dictó el acto administrativo."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Cuatro años desde que se dictó el acto administrativo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 107.2 Ley 39/2015: 'La acción de lesividad no podrá adoptarse una vez transcurridos CUATRO AÑOS desde que se dictó el acto administrativo.' Plazo exacto: 4 años. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-recursos_2",
+    "questionNum": 2,
+    "question": "La declaración de lesividad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es susceptible de recurso en un plazo de seis meses desde la notificación."
+      },
+      {
+        "value": 2,
+        "text": "Es susceptible de recurso en un plazo de ocho meses desde la notificación."
+      },
+      {
+        "value": 3,
+        "text": "Es susceptible de recurso en un plazo de doce meses desde la notificación."
+      },
+      {
+        "value": 4,
+        "text": "No es susceptible de recurso, se notifica a efectos informativos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "No es susceptible de recurso, se notifica a efectos informativos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 107.3 Ley 39/2015: 'La declaración de lesividad no es susceptible de recurso en vía administrativa.' Se notifica a los interesados pero solo a efectos informativos, sin abrir plazo de recurso administrativo. Respuesta D."
+  },
+  {
+    "id": "adm-lpac-recursos_3",
+    "questionNum": 3,
+    "question": "En la Administración General del Estado, indica quién NO es competente para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Consejo de Estado."
+      },
+      {
+        "value": 2,
+        "text": "Secretarios del Estado."
+      },
+      {
+        "value": 3,
+        "text": "Ministros."
+      },
+      {
+        "value": 4,
+        "text": "Consejo de Ministros."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Secretarios del Estado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 106.2 Ley 39/2015: En la AGE, la competencia para resolver la revisión de oficio corresponde al Consejo de Ministros (actos de Ministros y Secretarios de Estado) o al Ministro (demás actos). El Consejo de Estado emite dictamen preceptivo pero no resuelve. Los SECRETARIOS DE ESTADO no tienen competencia propia para resolver revisiones de oficio. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-recursos_4",
+    "questionNum": 4,
+    "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las leyes podrían sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especialidad de la materia así lo justifique, por el siguiente procedimiento:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Negociación."
+      },
+      {
+        "value": 2,
+        "text": "Mediación."
+      },
+      {
+        "value": 3,
+        "text": "Reclamación."
+      },
+      {
+        "value": 4,
+        "text": "b) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "b) y c) son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 112.2 Ley 39/2015: 'Las Leyes podrán sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especialidad de la materia así lo justifique, por otros procedimientos de impugnación, reclamación, conciliación, MEDIACIÓN y arbitraje.' Tanto mediación (b) como reclamación (c) están expresamente previstos. Respuesta D: b) y c)."
+  },
+  {
+    "id": "adm-lpac-recursos_5",
+    "questionNum": 5,
+    "question": "En relación al procedimiento administrativo, las resoluciones de los recursos de alzada:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Paralizan la vía administrativa."
+      },
+      {
+        "value": 2,
+        "text": "Anulan la vía administrativa."
+      },
+      {
+        "value": 3,
+        "text": "Ponen fin de la vía administrativa."
+      },
+      {
+        "value": 4,
+        "text": "Producen la caducidad de la vía administrativa."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ponen fin de la vía administrativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 114.2 Ley 39/2015: 'Las resoluciones de los recursos de alzada PONEN FIN A LA VÍA ADMINISTRATIVA.' Una vez resuelta la alzada, el interesado puede acudir directamente a la vía contencioso-administrativa. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-recursos_6",
+    "questionNum": 6,
+    "question": "Según la Ley 39/2015, en la interposición de un recurso NO debe expresarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Nombre y apellidos del recurrente."
+      },
+      {
+        "value": 2,
+        "text": "Razón de la impugnación."
+      },
+      {
+        "value": 3,
+        "text": "Relación de documentos que se adjuntan para el recurso."
+      },
+      {
+        "value": 4,
+        "text": "Órgano, centro o unidad administrativa al que se dirige el recurso y su correspondiente código de verificación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Relación de documentos que se adjuntan para el recurso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 115.1 Ley 39/2015 establece el contenido obligatorio del recurso: nombre/apellidos, acto recurrido y razón de impugnación, lugar/fecha/firma, órgano al que se dirige y código de identificación. No se exige 'relación de documentos que se adjuntan' como elemento obligatorio del escrito de recurso. Respuesta C."
+  },
+  {
+    "id": "adm-lpac-recursos_7",
+    "questionNum": 7,
+    "question": "Según la Ley 39/2015 es causa de inadmisión de un recurso administrativo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que no disponga de la firma del recurrente."
+      },
+      {
+        "value": 2,
+        "text": "Haber transcurrido el plazo para la interposición del recurso."
+      },
+      {
+        "value": 3,
+        "text": "Que el recurso tenga defectos de forma."
+      },
+      {
+        "value": 4,
+        "text": "a) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Haber transcurrido el plazo para la interposición del recurso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 116.1 Ley 39/2015 establece causas de inadmisión del recurso: entre ellas 'd) Que se hubiera interpuesto el recurso FUERA DE PLAZO.' La falta de firma o los defectos formales son subsanables (no conducen a inadmisión directa). El incumplimiento del plazo es causa de inadmisión insubsanable. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-recursos_8",
+    "questionNum": 8,
+    "question": "El recurso que se presenta ante el órgano superior jerárquico que dictó el acto cuando no éste no pone fin a la vía administrativa, se denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Recurso de alzada."
+      },
+      {
+        "value": 2,
+        "text": "Recurso potestativo de reposición."
+      },
+      {
+        "value": 3,
+        "text": "Recurso extraordinario de revisión."
+      },
+      {
+        "value": 4,
+        "text": "Recurso ordinario de impugnación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Recurso de alzada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 121.1 Ley 39/2015: 'Las resoluciones y actos que no pongan fin a la vía administrativa podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó.' El RECURSO DE ALZADA es el ordinario ante el superior jerárquico cuando el acto no pone fin a la vía administrativa. Respuesta A."
+  },
+  {
+    "id": "adm-lpac-recursos_9",
+    "questionNum": 9,
+    "question": "El recurso extraordinario de revisión se puede interponer contra:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los actos administrativos que ponen fin a la vía administrativa."
+      },
+      {
+        "value": 2,
+        "text": "Los actos firmes en vía administrativa."
+      },
+      {
+        "value": 3,
+        "text": "Los actos que no ponen fin a la vía administrativa"
+      },
+      {
+        "value": 4,
+        "text": "Los actos administrativos que presentan defectos formales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los actos firmes en vía administrativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 125.1 Ley 39/2015: 'Contra los actos firmes en vía administrativa podrán interponerse el recurso extraordinario de revisión ante el órgano administrativo que los dictó.' El recurso extraordinario de revisión solo procede contra actos FIRMES (que ya no pueden ser objeto de recurso ordinario). Los actos que ponen fin a la vía administrativa pero no son firmes (opción A) aún pueden ser impugnados en contencioso-administrativo pero no mediante este recurso. Respuesta B."
+  },
+  {
+    "id": "adm-lpac-recursos_10",
+    "questionNum": 10,
+    "question": "El plazo máximo para dictar y notificar la resolución de un recurso extraordinario de revisión es de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Diez días."
+      },
+      {
+        "value": 2,
+        "text": "Quince días."
+      },
+      {
+        "value": 3,
+        "text": "Veinte días."
+      },
+      {
+        "value": 4,
+        "text": "Un mes."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Un mes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "adm-lpac-recursos",
+    "explanation": "Art. 126.2 Ley 39/2015: 'El plazo máximo para resolver el recurso extraordinario de revisión es de TRES MESES, transcurrido el cual se entenderá desestimado.' ⚠️ NOTA: Ninguna de las opciones recoge el plazo correcto de TRES MESES. La opción más aproximada disponible es D (un mes), pero el plazo real no figura entre las alternativas. Esta pregunta requiere revisión y corrección de sus opciones para incluir 'Tres meses'. Se mantiene D como mejor respuesta disponible por descarte."
+  }
+]

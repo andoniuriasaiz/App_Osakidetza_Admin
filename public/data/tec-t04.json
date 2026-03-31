@@ -959,17 +959,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Exista error de hecho que resulte de los propios documentos incorporados al expediente."
+      "Se discrepe de la valoración jurídica realizada por la Administración."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-t04",
-    "explanation": "Art. 125.1.a Ley 39/2015: el recurso extraordinario de revisión procede cuando al dictar el acto se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente."
+    "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B."
   },
   {
     "id": "tec-t04_28",

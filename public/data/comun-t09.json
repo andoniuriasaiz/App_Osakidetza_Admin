@@ -95,17 +95,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+      "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal en situaciones donde la persona paciente no puede expresar su voluntad por sí misma."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 2 Ley 7/2002: La declaración de voluntad anticipada puede realizarla 'cualquier persona MAYOR DE EDAD con plena capacidad de obrar.' Respuesta B."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "comun-t09_4",
@@ -131,17 +131,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Se podrá designar una o varias personas representantes para que sean interlocutoras válidas del personal facultativo o del equipo sanitario."
+      "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario y facultarles para interpretar sus valores e instrucciones, si la persona paciente está incapacitada judicialmente. las"
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 4 Ley 7/2002: La declaración de voluntad anticipada puede formalizarse: ante personal funcionario del Registro Vasco de Voluntades Anticipadas, ante tres testigos, o ante notario/a. Respuesta C."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "comun-t09_5",
@@ -167,17 +167,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "A una enfermedad o lesión que la persona otorgante ya padece o a las que eventualmente podría padecer en un futuro."
+      "Exclusivamente a una enfermedad o lesión que la persona otorgante eventualmente podría padecer en un futuro, siempre que sea de carácter grave."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5 Ley 7/2002: Las declaraciones de voluntad anticipada se inscribirán en el 'Registro Vasco de Voluntades Anticipadas', dependiente del Departamento competente en materia de sanidad. Respuesta B."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "comun-t09_6",
@@ -213,7 +213,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 6 Ley 7/2002: 'La declaración de voluntad anticipada no tendrá efecto cuando el personal sanitario acredite que han variado sustancialmente las circunstancias que la motivaron o cuando contenga previsiones contrarias al ordenamiento jurídico, a la lex artis médica o que no se correspondan con el supuesto de hecho que el interesado haya previsto.' Respuesta C."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "comun-t09_7",
@@ -239,17 +239,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Serán personas mayores de edad, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio, unión libre o pareja de hecho, parentesco hasta el segundo grado de consanguinidad o afinidad o relación patrimonial alguna"
+      "Serán personas mayores de edad, con plena capacidad de obrar y no vinculadas con la persona otorgante por matrimonio o pareja de hecho, parentesco hasta el tercer grado de consanguinidad o relación patrimonial alguna."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 7 Ley 7/2002: 'El personal médico responsable del proceso asistencial deberá consultar el Registro Vasco de Voluntades Anticipadas cuando el paciente no pueda expresar su voluntad.' Respuesta A."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "comun-t09_8",
@@ -311,17 +311,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Por escrito y ante una notaría o ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o ante tres testigos."
+      "Por escrito y ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades donde se encuentra registrado el documento inicial."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 2 Ley 7/2002: La representante designada en la declaración 'actuará como interlocutora válida ante el equipo sanitario responsable de la asistencia' cuando la persona declarante no pueda expresar su voluntad. Respuesta B."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "comun-t09_10",
@@ -383,17 +383,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
+      "Las instrucciones que en el momento de ser aplicadas no se aprueben por el comité de ética del centro."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5.2 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas estará accesible para el personal sanitario 'en todo momento.' Respuesta A."
+    "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D."
   },
   {
     "id": "comun-t09_12",
@@ -419,17 +419,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Las instrucciones que resulten contraindicadas para su patología."
+      "Todas las respuestas anteriores son correctas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5.2 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas estará accesible para el personal sanitario 'en todo momento.' Respuesta A."
+    "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D."
   },
   {
     "id": "comun-t09_13",
@@ -455,17 +455,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Precisará el consentimiento de la persona otorgante para la comunicación de los datos."
+      "No precisará el consentimiento de la persona otorgante para la comunicación de los datos pero sí autorización de la Agencia Vasca de Protección de Datos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 9 Ley 7/2002: La existencia de la declaración de voluntad anticipada no exime al personal médico de su obligación de informar a la persona representante sobre el estado del paciente cuando este no pueda expresar su voluntad. El médico debe mantener informada a la persona representante. Respuesta B."
+    "explanation": "Art. 5 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas es de carácter público, adscrito al Departamento de Sanidad del Gobierno Vasco. Su acceso está restringido al propio interesado, su representante, y los profesionales sanitarios que atienden al otorgante. Respuesta D."
   },
   {
     "id": "comun-t09_14",
@@ -501,6 +501,6 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 6.2 Ley 7/2002: Los supuestos de ineficacia de la declaración incluyen: cuando sea contraria al ordenamiento jurídico, a la lex artis, o cuando no se corresponda con el supuesto clínico previsto. Todos los supuestos mencionados en las opciones son válidos. Respuesta D."
+    "explanation": "Art. 5 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas es de carácter público, adscrito al Departamento de Sanidad del Gobierno Vasco. Su acceso está restringido al propio interesado, su representante, y los profesionales sanitarios que atienden al otorgante. Respuesta D."
   }
 ]

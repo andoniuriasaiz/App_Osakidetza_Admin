@@ -105,7 +105,7 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t14",
-    "explanation": "Las dos nuevas Lineas de Accion incorporadas en la Estrategia 20-30 son: Seguridad de Paciente en Emergencias y Prevencion del Suicidio, respondiendo a necesidades identificadas por expertos."
+    "explanation": "Estrategia de Seguridad del Paciente 2030: Las dos nuevas líneas de acción incorporadas son la L9 (Seguridad en la transición asistencial) y la L10 (Cultura de seguridad en la organización). La C recoge estas dos nuevas líneas. Respuesta C."
   },
   {
     "id": "tec-comun-t14_4",
@@ -167,17 +167,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Atencion a las segundas y terceras victimas."
+      "Gestion de los incidentes de seguridad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t14",
-    "explanation": "La Linea de Accion Corporativa L2 de la Estrategia 20-30 se centra en la atencion a las segundas y terceras victimas, es decir, los profesionales y entorno afectados por los incidentes de seguridad."
+    "explanation": "Estrategia de Seguridad del Paciente 2030, L2: La L2 se centra en la comunicación y la notificación de incidentes de seguridad, fomentando una cultura de aprendizaje y no de castigo. La D recoge correctamente este enfoque. Respuesta D."
   },
   {
     "id": "tec-comun-t14_6",
@@ -239,17 +239,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Seguridad en el proceso asistencial gestacion-parto-puerperio."
+      "Prevencion y control de las infecciones relacionadas con la asistencia sanitaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t14",
-    "explanation": "La Linea de Accion L8 de la Estrategia de Seguridad del Paciente 20-30 esta dedicada a la seguridad en el proceso asistencial gestacion-parto-puerperio."
+    "explanation": "Estrategia de Seguridad del Paciente 2030, L8: La L8 está dedicada a la seguridad del paciente en los cuidados de enfermería, incluyendo la prevención de úlceras por presión, caídas y otras complicaciones. La B es correcta. Respuesta B."
   },
   {
     "id": "tec-comun-t14_8",

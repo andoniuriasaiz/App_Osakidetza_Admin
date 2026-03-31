@@ -249,7 +249,7 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t04",
-    "explanation": "Art. 26 Ley 8/1997: el contrato-programa es el instrumento de relación entre el Departamento de Sanidad y las organizaciones de Osakidetza, con naturaleza jurídica de convenio de carácter especial."
+    "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C."
   },
   {
     "id": "tec-comun-t04_8",
@@ -311,17 +311,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Son correctas las respuestas a) y c)."
+      "El Departamento competente en materia de sanidad debe elaborar anualmente y remitir al Parlamento un informe con la evaluación de los objetivos y determinaciones del Plan de Salud de Euskadi."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t04",
-    "explanation": "Art. 17 Ley 8/1997: el Plan de Salud debe ser aprobado por el Parlamento Vasco (a) y el Departamento debe elaborar anualmente un informe de evaluación para remitir al Parlamento (c). Ambas son correctas."
+    "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C."
   },
   {
     "id": "tec-comun-t04_10",
@@ -563,17 +563,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Quien ostente la titularidad del Departamento de Sanidad."
+      "La Diputación General del Territorio Histórico en que esté situado el Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t04",
-    "explanation": "Art. 30 Ley 8/1997: la presidencia del Consejo de Administración de Osakidetza corresponde a quien ostente la titularidad del Departamento de Sanidad."
+    "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta B."
   },
   {
     "id": "tec-comun-t04_17",
@@ -599,17 +599,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "La Presidencia del Ente."
+      "La Dirección General del Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t04",
-    "explanation": "Art. 31.2 Ley 8/1997: la Presidencia del ente público tiene la función de nombrar y separar a las personas titulares de las Direcciones de División de la organización central."
+    "explanation": "Decreto 255/1997, art. 22: El nombramiento y separación de los Directores de División de la organización central de Osakidetza es competencia del Consejo de Administración, a propuesta del Director General. La app indica C (Director General) pero la competencia recae en el Consejo de Administración. Respuesta B."
   },
   {
     "id": "tec-comun-t04_18",
@@ -887,17 +887,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Oscilará entre cuatro y cinco."
+      "Oscilará entre dos y tres."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t04",
-    "explanation": "Art. 33 Ley 8/1997: el equipo directivo de cada organización de servicios oscilará entre cuatro y cinco integrantes según el tamaño y complejidad de la organización."
+    "explanation": "Decreto 100/2018, art. 9: El equipo directivo de cada organización de servicios de Osakidetza está compuesto por cuatro miembros: el Director/a, el Director/a Médico/a, el Director/a de Enfermería y el Director/a de Gestión. Respuesta A (4 miembros)."
   },
   {
     "id": "tec-comun-t04_26",

@@ -141,7 +141,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 3 bis Ley 44/2003 (añadido por Ley 6/2023): El órgano del Registro Estatal de Profesionales Sanitarios podrá consultar los datos del DNI/NIE del Ministerio del Interior para contrastar la veracidad de la información, sin necesidad de consentimiento ni de procedimiento especial. La opción A recoge esto correctamente. Respuesta A."
+    "explanation": "Art. 3 bis Ley 44/2003 (añadido por Ley 6/2023): El órgano del Registro Estatal de Profesionales Sanitarios podrá consultar los datos del DNI/NIE del personal sanitario ante el organismo competente en identificación de personas para verificar la autenticidad de los documentos aportados. Respuesta A."
   },
   {
     "id": "comun-t01_5",
@@ -177,7 +177,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5 Ley 44/2003: Las personas pacientes tienen derecho a la libre elección del médico y del resto del personal sanitario 'en los términos y condiciones que establezcan los servicios de salud competentes'. Este derecho NO es absoluto ni aplica en igual medida en público y privado sin condicionantes. La opción D (ninguna de las anteriores) refleja que ninguna de las afirmaciones simplistas es correcta. Respuesta D."
+    "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta D."
   },
   {
     "id": "comun-t01_6",
@@ -527,17 +527,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "La responsabilidad de la capacidad del personal profesional para realizar una correcta actuación, en las tareas y funciones que les sean encomendadas en el proceso de distribución del trabajo en equipo, recaerá sobre los centros e instituciones en los que desempeñen su actividad."
+      "La responsabilidad de un equipo de profesionales recaerá en aquellas personas integrantes que hayan adquirido las tareas y funciones que hayan causado la responsabilidad, siempre que las condiciones de la delegación se adecúen a lo establecido."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 9.2 Ley 44/2003: 'La responsabilidad de la correcta realización de las tareas que hayan causado la responsabilidad recaerá sobre quienes hayan ejecutado dichas tareas'. La responsabilidad NO recae sobre los centros por la capacidad del profesional para realizar una correcta actuación. La opción B invierte incorrectamente la responsabilidad hacia los centros. Respuesta B."
+    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta D."
   },
   {
     "id": "comun-t01_16",
@@ -645,7 +645,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 16.3 Ley 44/2003: 'Los centros sanitarios acreditados para la formación especializada deberán contar con una comisión de docencia, con jefaturas de estudios y con la coordinación docente y el personal tutor de la formación que resulten adecuados.' Por tanto, la opción D (que niega la comisión de docencia) es la INCORRECTA, ya que todos los centros para formación especializada deben tener comisión de docencia. Respuesta D."
+    "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta D."
   },
   {
     "id": "comun-t01_19",

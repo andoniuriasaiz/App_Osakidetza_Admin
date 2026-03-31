@@ -285,7 +285,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 14 Ley 8/1997: 'El acceso de la ciudadanía a los servicios sanitarios de cobertura pública garantizará el principio de IGUALDAD EFECTIVA.' No solo igualdad formal. Respuesta C."
+    "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C."
   },
   {
     "id": "comun-t04_9",
@@ -393,7 +393,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 21 Ley 8/1997: 'El contrato-programa es el instrumento jurídico mediante el que se articulan las relaciones entre el Departamento competente en materia de sanidad y las organizaciones de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud, que tiene naturaleza jurídica de un CONVENIO DE CARÁCTER ESPECIAL.' Respuesta C."
+    "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C."
   },
   {
     "id": "comun-t04_12",
@@ -455,17 +455,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Son correctas las respuestas a) y c)."
+      "El Departamento competente en materia de sanidad debe elaborar anualmente y remitir al Parlamento un informe con la evaluación de los objetivos y determinaciones del Plan de Salud de Euskadi."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 19 Ley 8/1997: El Plan de Salud de Euskadi debe ser aprobado por el Parlamento Vasco (a), y el Departamento elaborará ANUALMENTE un informe de evaluación que remitirá al Parlamento (c). Las respuestas a) y c) son correctas. Respuesta D."
+    "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C."
   },
   {
     "id": "comun-t04_14",
@@ -717,7 +717,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 25.1 Ley 8/1997: Osakidetza es 'el Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de ente público de DERECHO PÚBLICO.' Respuesta B."
+    "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta B."
   },
   {
     "id": "comun-t04_21",
@@ -779,17 +779,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Quien ostente la titularidad de del Departamento de Sanidad."
+      "La Diputación General del Territorio Histórico en que esté situado el Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 26 Ley 8/1997/Decreto 255/1997: La presidencia de Osakidetza corresponde 'a quien ostente la titularidad del Departamento de Sanidad.' Respuesta D."
+    "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta B."
   },
   {
     "id": "comun-t04_23",
@@ -1005,7 +1005,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 255/1997/Decreto 100/2018: El equipo directivo de las organizaciones de servicios oscila entre DOS y TRES miembros (la norma establece ese rango mínimo-máximo básico). Respuesta A."
+    "explanation": "Decreto 100/2018, art. 9: El equipo directivo de cada organización de servicios de Osakidetza está compuesto por cuatro miembros: el Director/a, el Director/a Médico/a, el Director/a de Enfermería y el Director/a de Gestión. Respuesta A (4 miembros)."
   },
   {
     "id": "comun-t04_29",
@@ -1139,17 +1139,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "3 de julio de 2018."
+      "11 de julio de 2018."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "El Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud fue aprobado el 3 de julio de 2018. Respuesta C."
+    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B."
   },
   {
     "id": "comun-t04_33",
@@ -1221,7 +1221,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 2.1 Decreto 100/2018: El objetivo último es 'favorecer la integración clínica de manera que la atención se articule en torno a la persona.' Respuesta B."
+    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B."
   },
   {
     "id": "comun-t04_35",
@@ -1293,7 +1293,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 3 Decreto 100/2018: Una OSI 'monográfica' es aquella 'cuya actividad asistencial gira en torno a un ámbito específico, integrando sus servicios y dispositivos.' Respuesta B."
+    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B."
   },
   {
     "id": "comun-t04_37",
@@ -1725,7 +1725,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 16 Decreto 100/2018: El Consejo de Dirección de la OSI se reunirá con una periodicidad mínima MENSUAL. Respuesta B."
+    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B."
   },
   {
     "id": "comun-t04_49",
@@ -1761,7 +1761,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 13.2.j Decreto 100/2018: La Comisión de Salud Laboral en la OSI es presidida por la DIRECCIÓN DE PERSONAS. Respuesta B."
+    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B."
   },
   {
     "id": "comun-t04_50",
@@ -1797,7 +1797,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 17 Decreto 100/2018: El Consejo Clínico Asistencial se define como 'el órgano CONSULTIVO DE ASESORAMIENTO TÉCNICO y participación de los/las profesionales asistenciales.' Respuesta B."
+    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B."
   },
   {
     "id": "comun-t04_51",
@@ -1833,7 +1833,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 19.1 Decreto 100/2018: La presidencia del Consejo Clínico Asistencial corresponde a 'la persona titular de la Dirección Médica'. Es el órgano de dirección médica quien preside este consejo técnico-consultivo de los profesionales asistenciales. Respuesta B."
+    "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B."
   },
   {
     "id": "comun-t04_52",
@@ -1859,17 +1859,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Todas las personas que accedan o utilicen las prestaciones y servicios sanitarios que se proporcionan por el sistema sanitario de Euskadi."
+      "Todas las personas nacidas en Euskadi."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 2 Decreto 147/2015: Son titulares de los derechos y deberes 'todas las personas que accedan o utilicen las prestaciones y servicios sanitarios que se proporcionan por el sistema sanitario de Euskadi'. No se exige nacimiento ni empadronamiento en Euskadi. Respuesta A."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_53",
@@ -1895,17 +1895,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "En relación a todas las acciones de carácter sanitario, incluyendo investigación y docencia, que se desarrollen en los centros, servicios o establecimientos sanitarios de titularidad pública o privada o concertados de Euskadi."
+      "En relación a todas las acciones de carácter sanitario, incluyendo docencia, que se desarrollen en los centros, servicios o establecimientos sanitarios de titularidad pública o concertados que integran el sistema sanitario de Euskadi. Las acciones relativas a la investigación biomédica quedan fuera de esta Declaración y se rigen por su normativa específica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 3 Decreto 147/2015: Los derechos y obligaciones son exigibles 'en relación a todas las acciones de carácter sanitario, incluyendo investigación y docencia, que se desarrollen en los centros, servicios o establecimientos sanitarios de titularidad pública o PRIVADA o concertados de Euskadi.' Incluye investigación y docencia, y también los centros privados. Respuesta C."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_54",
@@ -1967,17 +1967,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; obtención de la Tarjeta Individual Sanitaria."
+      "Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; derechos en relación con la docencia del personal sanitario, obtención de la Tarjeta Individual Sanitaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 5 y ss. Decreto 147/2015: Los bloques de derechos son: relaciones asistenciales, participación responsable en la gestión de la propia salud, organización y gestión del sistema, políticas sanitarias específicas, infancia y adolescencia, salud sexual y reproductiva, personas mayores, final de la vida, y obtención de la Tarjeta Individual Sanitaria. La opción D recoge los bloques correctos sin añadir elementos inexistentes (investigación biomédica, docencia, medidas de salud pública como bloque separado). Respuesta D."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_56",
@@ -2013,7 +2013,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 11 Decreto 147/2015: Entre los derechos en el ámbito de la organización y gestión del sistema sanitario se incluye 'el derecho a recibir información sobre las vías a utilizar para la formulación de quejas, reclamaciones y sugerencias'. Los demás derechos mencionados están en otros artículos pero la opción b) corresponde específicamente al derecho de información sobre los canales de reclamación. Respuesta B."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_57",
@@ -2049,7 +2049,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 10 Decreto 147/2015: La persona usuaria tiene derecho 'a recibir información sobre los recursos sanitarios y socio-sanitarios disponibles, actuaciones y prestaciones del sistema sanitario de Euskadi, su calidad y requisitos de acceso a los mismos, DE MANERA INDIVIDUALIZADA O A TRAVÉS DE MEDIOS QUE GARANTICEN SU ACCESIBILIDAD a toda la ciudadanía.' La opción B añade correctamente el matiz sobre la forma de acceso a la información. Respuesta B."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_58",
@@ -2255,17 +2255,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; participación responsable en la gestión de la propia salud; y relaciones asistenciales en el sistema sanitario de Euskadi."
+      "Organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; participación responsable en la gestión de la propia salud; relaciones asistenciales en el sistema sanitario de Euskadi; y salud pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Arts. 14-17 Decreto 147/2015: Los deberes se establecen en relación con cuatro ámbitos: organización y gestión del sistema sanitario, políticas sanitarias específicas, participación responsable en la gestión de la propia salud, y relaciones asistenciales. NO incluye 'salud pública' ni 'investigación científica' como bloques de deberes separados. Respuesta A."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_64",
@@ -2291,17 +2291,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Debe dejar por escrito las decisiones cuando sea legalmente exigible o recomendable."
+      "Debe dejar por escrito las decisiones cuando se lo solicite el personal profesional que le atienda."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 17.3 Decreto 147/2015: La persona paciente o usuaria debe dejar por escrito las decisiones 'cuando sea legalmente exigible o recomendable.' No se limita a cuando lo solicita el profesional ni cuando lo exija el centro. Respuesta A."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_65",
@@ -2327,17 +2327,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Facilitar de forma veraz sus datos de identificación y los referentes a su estado físico o su salud, así como colaborar en su obtención, especialmente cuando sean necesarios para el episodio asistencial o por razones de interés público debidamente motivadas."
+      "Facilitar de forma veraz sus datos de identificación y los referentes a su estado físico o de salud, así como colaborar en su obtención, especialmente cuando sean necesarios para el episodio asistencial o por razones de interés público debidamente motivadas, siempre se solicite por escrito."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 14 Decreto 147/2015: La persona usuaria deberá 'facilitar de forma veraz sus datos de identificación y los referentes a su estado físico o su salud, así como colaborar en su obtención, especialmente cuando sean necesarios para el episodio asistencial o por razones de interés público debidamente motivadas.' No se exige orden judicial ni solicitud por escrito. Respuesta D."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_66",
@@ -2363,17 +2363,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Estarán disponibles en las Organizaciones de Servicios Sanitarios de OsakidetzaServicio Vasco de Salud, los centros sanitarios concertados, los centros privados y el departamento competente en materia de sanidad."
+      "Estarán disponibles en las Organizaciones de Servicios Sanitarios de OsakidetzaServicio Vasco de Salud, los centros sanitarios concertados y el departamento competente en materia de sanidad, pero no existe previsión en relación con los centros privados."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 38 Decreto 147/2015: Los Servicios de Atención a Pacientes y personas Usuarias 'estarán disponibles en las Organizaciones de Servicios Sanitarios de Osakidetza, los centros sanitarios concertados, los centros privados y el departamento competente en materia de sanidad.' Todos los centros, incluyendo los privados. Respuesta A."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_67",
@@ -2399,17 +2399,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Todas las respuestas anteriores son correctas."
+      "Formular propuestas de mediación cuando la naturaleza del tema sobre el que verse la reclamación lo permita."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 39 Decreto 147/2015: Las funciones de los Servicios de Atención incluyen: tramitar y responder a iniciativas y sugerencias (a), formular propuestas de mediación (b), y comunicar a la dirección hechos que supongan incumplimiento de derechos y deberes (c). Todas son correctas. Respuesta D."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_68",
@@ -2435,17 +2435,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Registrarán todas las reclamaciones y solicitudes que se presenten ante ellos, con independencia del centro, servicio o establecimiento sanitario destinatario de las mismas."
+      "Registrarán todas las reclamaciones y solicitudes que se presenten ante ellos, si es que el destinatario de las mismas es el centro, servicio o establecimiento del que dependan."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 38 Decreto 147/2015: Los Servicios de Atención a Pacientes y personas Usuarias 'estarán disponibles en las Organizaciones de Servicios Sanitarios de Osakidetza, los centros sanitarios concertados, los centros privados y el departamento competente en materia de sanidad.' Todos los centros, incluyendo los privados. Respuesta A."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_69",
@@ -2507,17 +2507,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Se resolverán atendiendo a las normas disciplinarias específicas previa apertura, en su caso, del expediente informativo correspondiente, sin perjuicio de las responsabilidades que de los hechos pudieran derivarse."
+      "Se resolverán atendiendo a las normas disciplinarias generales previa apertura, en su caso, del expediente informativo correspondiente, sin perjuicio de las responsabilidades que de los hechos pudieran derivarse."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 42 Decreto 147/2015: Las reclamaciones contra actuaciones del personal 'se resolverán atendiendo a las NORMAS DISCIPLINARIAS ESPECÍFICAS previa apertura, en su caso, del EXPEDIENTE INFORMATIVO correspondiente, sin perjuicio de las responsabilidades que de los hechos pudieran derivarse.' No se menciona expediente de mediación. Respuesta A."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "comun-t04_71",

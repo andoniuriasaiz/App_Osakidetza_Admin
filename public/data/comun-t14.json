@@ -131,17 +131,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "2010-2015 y 2016-2020."
+      "2008-2012 y 2013-2017."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t14",
-    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La Estrategia se estructura en torno a 5 líneas estratégicas. Respuesta B."
+    "explanation": "Estrategia de Seguridad del Paciente 2030: Las dos estrategias previas correspondieron a los periodos 2009-2012 y 2013-2016. La A recoge correctamente ambos periodos. Respuesta A."
   },
   {
     "id": "comun-t14_5",
@@ -167,17 +167,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Seguridad en Pediatría y Buenas Prácticas en el Uso de Biológicos."
+      "La Seguridad de Paciente en Emergencias y la Prevención del Suicidio."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t14",
-    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La cultura de seguridad es el fundamento de la Estrategia, considerando que la mejora de la seguridad requiere un cambio cultural en las organizaciones hacia la transparencia y el aprendizaje de los errores. Respuesta A."
+    "explanation": "Estrategia de Seguridad del Paciente 2030: Las dos nuevas líneas de acción incorporadas son la L9 (Seguridad en la transición asistencial) y la L10 (Cultura de seguridad en la organización). La C recoge estas dos nuevas líneas. Respuesta C."
   },
   {
     "id": "comun-t14_6",
@@ -239,17 +239,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Atención a las segundas y terceras víctimas."
+      "Gestión de los incidentes de seguridad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t14",
-    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La Estrategia contempla la implicación de los pacientes y sus familias como socios activos en la seguridad, fomentando su participación en la identificación y prevención de riesgos. Respuesta C."
+    "explanation": "Estrategia de Seguridad del Paciente 2030, L2: La L2 se centra en la comunicación y la notificación de incidentes de seguridad, fomentando una cultura de aprendizaje y no de castigo. La D recoge correctamente este enfoque. Respuesta D."
   },
   {
     "id": "comun-t14_8",
@@ -347,17 +347,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Seguridad transfusional."
+      "Prevención y control de las infecciones relacionadas con la asistencia sanitaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t14",
-    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La evaluación y medición de la seguridad requiere el uso de indicadores estandarizados que permitan el seguimiento de la evolución y la comparación con otros sistemas. Respuesta D."
+    "explanation": "Estrategia de Seguridad del Paciente 2030, L8: La L8 está dedicada a la seguridad del paciente en los cuidados de enfermería, incluyendo la prevención de úlceras por presión, caídas y otras complicaciones. La B es correcta. Respuesta B."
   },
   {
     "id": "comun-t14_11",
@@ -491,17 +491,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "L7. Seguridad transfusional (Nota: la seguridad transfusional se considera una línea separada, aunque implica la administración de productos sanguíneos)."
+      "L6. Optimización en la prescripción de pruebas diagnósticas que utilizan radiación ionizante."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t14",
-    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La Estrategia contempla la coordinación y continuidad asistencial segura como elemento clave para prevenir incidentes en las transiciones entre niveles y servicios. Respuesta D."
+    "explanation": "Estrategia de Seguridad del Paciente 2030: La estrategia incluye 10 líneas de acción (L1 a L10). La opción que no corresponde a ninguna línea real de la estrategia es la C. Respuesta C."
   },
   {
     "id": "comun-t14_15",
@@ -527,16 +527,16 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "16 líneas de acción."
+      "15 líneas de acción."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t14",
-    "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La seguridad del paciente es responsabilidad de todos los profesionales y de la organización en su conjunto, no solo de los responsables de calidad. Respuesta C."
+    "explanation": "Estrategia de Seguridad del Paciente 2030: Se definen 10 Líneas de Acción Corporativas (L1 a L10). La B es la respuesta correcta con este número. Respuesta B (10 líneas)."
   }
 ]

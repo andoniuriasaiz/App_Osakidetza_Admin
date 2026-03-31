@@ -1,0 +1,362 @@
+[
+  {
+    "id": "tec-comun-t14_1",
+    "questionNum": 1,
+    "question": "Cual es el Objetivo General establecido para la Estrategia de Seguridad del Paciente 20-30?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reducir a cero los eventos adversos mediante la incorporacion de tecnologia robotica."
+      },
+      {
+        "value": 2,
+        "text": "Mejorar la calidad asistencial del sistema sanitario vasco."
+      },
+      {
+        "value": 3,
+        "text": "Promover el maximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad en el transcurso de la asistencia sanitaria."
+      },
+      {
+        "value": 4,
+        "text": "Centralizar la gestion de riesgos en un unico organismo fuera de Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Promover el maximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad en el transcurso de la asistencia sanitaria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "El Objetivo General de la Estrategia de Seguridad del Paciente 20-30 es promover el maximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad durante la asistencia."
+  },
+  {
+    "id": "tec-comun-t14_2",
+    "questionNum": 2,
+    "question": "El principio hipocratico al que se hace referencia en la Estrategia de Seguridad del Paciente 20-30, y que la ciudadania asume que se verifica en el transcurso de la actividad asistencial, es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Salus populi suprema lex esto (la salud del pueblo es la ley suprema)."
+      },
+      {
+        "value": 2,
+        "text": "Corpus sanum in mente sana (mente sana en cuerpo sano)."
+      },
+      {
+        "value": 3,
+        "text": "Lex artis ad hoc (ley del arte para el caso)."
+      },
+      {
+        "value": 4,
+        "text": "Primum non nocere (primero no hacer daño)."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Primum non nocere (primero no hacer daño)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "La Estrategia hace referencia al principio hipocratico Primum non nocere (primero no hacer daño) como el principio basico que la ciudadania asume que rige la actividad asistencial."
+  },
+  {
+    "id": "tec-comun-t14_3",
+    "questionNum": 3,
+    "question": "Cuales son las dos nuevas Lineas de Accion incorporadas en la Estrategia de Seguridad del Paciente 20-30 que responden a una necesidad percibida por las personas expertas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Seguridad en Pediatria y Buenas Practicas en el Uso de Biologicos."
+      },
+      {
+        "value": 2,
+        "text": "Atencion en Cuidados Paliativos y Seguridad Domiciliaria."
+      },
+      {
+        "value": 3,
+        "text": "La Seguridad de Paciente en Emergencias y la Prevencion del Suicidio."
+      },
+      {
+        "value": 4,
+        "text": "Seguridad en Salud Mental y Prevencion de las Ulceras por Presion."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Seguridad de Paciente en Emergencias y la Prevencion del Suicidio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "Las dos nuevas Lineas de Accion incorporadas en la Estrategia 20-30 son: Seguridad de Paciente en Emergencias y Prevencion del Suicidio, respondiendo a necesidades identificadas por expertos."
+  },
+  {
+    "id": "tec-comun-t14_4",
+    "questionNum": 4,
+    "question": "De acuerdo con la Estrategia de Seguridad del Paciente 20-30, como se denomina al incidente de seguridad que, a diferencia del incidente sin daño, si ocasiona algun tipo de daño a las personas atendidas?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Error no evitable."
+      },
+      {
+        "value": 2,
+        "text": "Circunstancia notificable."
+      },
+      {
+        "value": 3,
+        "text": "Fallo latente."
+      },
+      {
+        "value": 4,
+        "text": "Evento Adverso."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Evento Adverso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "La Estrategia define el Evento Adverso como el incidente de seguridad que ocasiona algun tipo de daño a la persona atendida, diferenciandolo del incidente sin daño o cuasi-incidente."
+  },
+  {
+    "id": "tec-comun-t14_5",
+    "questionNum": 5,
+    "question": "Cual es el enfoque principal de la Linea de Accion Corporativa L2 de la Estrategia de Seguridad del Paciente 20-30?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Implicacion de pacientes en su seguridad."
+      },
+      {
+        "value": 2,
+        "text": "Conciliacion de la medicacion."
+      },
+      {
+        "value": 3,
+        "text": "Atencion a las segundas y terceras victimas."
+      },
+      {
+        "value": 4,
+        "text": "Gestion de los incidentes de seguridad."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Atencion a las segundas y terceras victimas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "La Linea de Accion Corporativa L2 de la Estrategia 20-30 se centra en la atencion a las segundas y terceras victimas, es decir, los profesionales y entorno afectados por los incidentes de seguridad."
+  },
+  {
+    "id": "tec-comun-t14_6",
+    "questionNum": 6,
+    "question": "Cual de los siguientes es el Objetivo Especifico numero 1 de la Estrategia de Seguridad del Paciente 20-30, enfocado en el cambio interno?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Garantizar la continuidad de las lineas de accion y proyectos previamente implantados."
+      },
+      {
+        "value": 2,
+        "text": "Impulsar la cultura de seguridad de paciente en las organizaciones de servicios de Osakidetza, promoviendo la formacion y sensibilizacion como aspectos clave."
+      },
+      {
+        "value": 3,
+        "text": "Optimizar la prescripcion de pruebas diagnosticas que utilizan radiacion ionizante."
+      },
+      {
+        "value": 4,
+        "text": "Implantar un sistema de identificacion inequivoca de pacientes en todas las fases del proceso asistencial."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Impulsar la cultura de seguridad de paciente en las organizaciones de servicios de Osakidetza, promoviendo la formacion y sensibilizacion como aspectos clave."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "El Objetivo Especifico 1 es impulsar la cultura de seguridad del paciente en Osakidetza, con la formacion y sensibilizacion del personal como pilares fundamentales."
+  },
+  {
+    "id": "tec-comun-t14_7",
+    "questionNum": 7,
+    "question": "La Linea de Accion Corporativa L8 de la Estrategia de Seguridad del Paciente 20-30 esta dedicada a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Conciliacion de la medicacion."
+      },
+      {
+        "value": 2,
+        "text": "Prevencion y control de las infecciones relacionadas con la asistencia sanitaria."
+      },
+      {
+        "value": 3,
+        "text": "Seguridad en el proceso asistencial gestacion-parto-puerperio."
+      },
+      {
+        "value": 4,
+        "text": "Seguridad transfusional."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Seguridad en el proceso asistencial gestacion-parto-puerperio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "La Linea de Accion L8 de la Estrategia de Seguridad del Paciente 20-30 esta dedicada a la seguridad en el proceso asistencial gestacion-parto-puerperio."
+  },
+  {
+    "id": "tec-comun-t14_8",
+    "questionNum": 8,
+    "question": "Que documento se menciona en la Estrategia de Seguridad del Paciente 20-30 como el que determino que las personas atendidas por un sistema medicalizado (tipo 061/112) presentan un mayor porcentaje de incidentes de seguridad en el entorno de Emergencias?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Estudio Nacional de Efectos Adversos en centros hospitalarios (ENEAS)."
+      },
+      {
+        "value": 2,
+        "text": "Estudio APEAS."
+      },
+      {
+        "value": 3,
+        "text": "Estudio EVADUR."
+      },
+      {
+        "value": 4,
+        "text": "Informe del Instituto de Medicina de los Estados Unidos (IOM)."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Estudio EVADUR."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "El Estudio EVADUR determino que las personas atendidas por sistemas medicalizados tipo 061/112 presentan mayor porcentaje de incidentes de seguridad en el entorno de Emergencias."
+  },
+  {
+    "id": "tec-comun-t14_9",
+    "questionNum": 9,
+    "question": "El capitulo de Formacion de la Estrategia de Seguridad del Paciente 20-30 señala que las organizaciones comprometidas orientan sus esfuerzos a aumentar la formacion en los llamados:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Factores humanos o factores no tecnicos."
+      },
+      {
+        "value": 2,
+        "text": "Factores biomedicos y patofisiologicos."
+      },
+      {
+        "value": 3,
+        "text": "Factores economicos y de sostenibilidad."
+      },
+      {
+        "value": 4,
+        "text": "Factores organizativos de Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Factores humanos o factores no tecnicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "La Estrategia señala que las organizaciones comprometidas con la seguridad orientan sus esfuerzos formativos hacia los factores humanos o factores no tecnicos, como trabajo en equipo, comunicacion y liderazgo."
+  },
+  {
+    "id": "tec-comun-t14_10",
+    "questionNum": 10,
+    "question": "Cual de las siguientes Lineas de Accion de la Estrategia de Seguridad del Paciente 20-30 NO esta relacionada con el sistema de utilizacion del medicamento?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "L5. Conciliacion de la medicacion."
+      },
+      {
+        "value": 2,
+        "text": "L14. Buenas practicas asociadas a la utilizacion de medicacion."
+      },
+      {
+        "value": 3,
+        "text": "L6. Optimizacion en la prescripcion de pruebas diagnosticas que utilizan radiacion ionizante."
+      },
+      {
+        "value": 4,
+        "text": "L7. Seguridad transfusional."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "L6. Optimizacion en la prescripcion de pruebas diagnosticas que utilizan radiacion ionizante."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-comun-t14",
+    "explanation": "La L6 (optimizacion en prescripcion de pruebas con radiacion ionizante) no esta relacionada con el sistema de medicacion, a diferencia de L5 (conciliacion), L14 (buenas practicas con medicacion) y L7 (transfusion)."
+  }
+]

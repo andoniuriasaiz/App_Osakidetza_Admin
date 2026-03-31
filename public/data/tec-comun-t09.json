@@ -23,17 +23,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+      "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t09",
-    "explanation": "Art. 2 Ley 7/2002: la expresión de los objetivos vitales y valores personales tiene como fin ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "tec-comun-t09_2",
@@ -59,17 +59,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario."
+      "Se podrá designar una o varias personas representantes si la persona paciente está incapacitada judicialmente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: en el documento de VA se podrá designar una o varias personas representantes como interlocutoras válidas del equipo sanitario. No hay limitación a una sola ni restricción por edad o incapacidad."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "tec-comun-t09_3",
@@ -177,7 +177,7 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t09",
-    "explanation": "Art. 4 Ley 7/2002: el documento de VA se formaliza ante notaría, ante la/el funcionaria/o del Registro Vasco o del servicio de documentación de un centro sanitario de la CAPV, o ante tres testigos."
+    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D."
   },
   {
     "id": "tec-comun-t09_6",
@@ -275,16 +275,16 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
+      "Las instrucciones que en el momento de ser aplicadas no se aprueben por el comité de ética del centro."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t09",
-    "explanation": "Art. 5.3 Ley 7/2002: se tendrán por no puestas las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico vigente (no en el momento de otorgarse, sino de aplicarse)."
+    "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D."
   }
 ]

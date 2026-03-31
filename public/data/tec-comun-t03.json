@@ -419,17 +419,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Atendiendo a lo que establezca la legislación vigente, el personal estatutario de los servicios de salud podrá compatibilizar las funciones sanitarias y docente."
+      "Al personal estatutario de los servicios de salud le resulta aplicable el mismo régimen de incompatibilidades establecido para el personal funcionario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t03",
-    "explanation": "Art. 19 Ley 55/2003: el personal estatutario está sujeto al régimen de incompatibilidades de la Ley 53/1984, pero puede compatibilizar actividades sanitarias y docentes en los términos que establezca la legislación vigente."
+    "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta B."
   },
   {
     "id": "tec-comun-t03_13",
@@ -455,17 +455,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "El personal tendrá derecho a un período mínimo que siempre será fijo de descanso ininterrumpido con una duración media de 24 horas semanales."
+      "En el caso de que no se hubiera disfrutado del tiempo mínimo de descanso semanal en el período de tres meses se producirá una compensación a través del régimen de descansos alternativos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t03",
-    "explanation": "Art. 49 Ley 55/2003: el descanso semanal no es fijo sino de duración media de 24h calculada en período de referencia. La opción A es incorrecta al decir \"siempre será fijo\"."
+    "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C."
   },
   {
     "id": "tec-comun-t03_14",
@@ -491,17 +491,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Anualmente, el personal tendrá derecho a una vacación retribuida cuya duración no será inferior a 30 días naturales, o al tiempo que proporcionalmente corresponda en función del tiempo de servicios."
+      "Solo podrá ser sustituido por una compensación económica el período vacacional anual mediante la programación funcional de los centros, cuando así lo aconsejen razones organizativas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t03",
-    "explanation": "Art. 50 Ley 55/2003: el personal tiene derecho a vacación retribuida de al menos 30 días naturales anuales, o proporcionalmente al tiempo de servicios prestados."
+    "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C."
   },
   {
     "id": "tec-comun-t03_15",

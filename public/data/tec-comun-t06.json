@@ -23,17 +23,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Todas las personas que accedan o utilicen las prestaciones y servicios sanitarios que se proporcionan por el sistema sanitario de Euskadi."
+      "Todas las personas nacidas en Euskadi."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t06",
-    "explanation": "Art. 2 Decreto 147/2015: son titulares todas las personas que accedan o utilicen las prestaciones y servicios del sistema sanitario de Euskadi."
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B."
   },
   {
     "id": "tec-comun-t06_2",

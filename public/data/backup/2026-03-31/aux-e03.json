@@ -1,0 +1,110 @@
+[
+  {
+    "id": "aux-e03_1",
+    "questionNum": 1,
+    "question": "Según la Ley 39/2015, el plazo máximo para resolver y notificar un procedimiento podrá suspenderse cuando:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El interesado solicite la suspensión de forma expresa."
+      },
+      {
+        "value": 2,
+        "text": "Deban realizarse pruebas técnicas o análisis contradictorios."
+      },
+      {
+        "value": 3,
+        "text": "Exista acumulación de expedientes en el órgano competente."
+      },
+      {
+        "value": 4,
+        "text": "El procedimiento se inicie de oficio."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Deban realizarse pruebas técnicas o análisis contradictorios."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e03",
+    "explanation": "Art. 22.1.e Ley 39/2015: El plazo máximo para resolver PODRÁ SUSPENDERSE CUANDO DEBAN REALIZARSE PRUEBAS TÉCNICAS O ANÁLISIS CONTRADICTORIOS O DIRIMENTES propuestos por los interesados. Respuesta B."
+  },
+  {
+    "id": "aux-e03_2",
+    "questionNum": 2,
+    "question": "Según la Ley 39/2015, la suspensión del plazo máximo para resolver deberá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Comunicarse a los interesados, indicando el motivo y la duración."
+      },
+      {
+        "value": 2,
+        "text": "Acordarse siempre de oficio por el órgano competente."
+      },
+      {
+        "value": 3,
+        "text": "Publicarse en el boletín oficial correspondiente."
+      },
+      {
+        "value": 4,
+        "text": "Solicitarse por el interesado afectado."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Comunicarse a los interesados, indicando el motivo y la duración."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e03",
+    "explanation": "Art. 22.2 Ley 39/2015: La suspensión del plazo DEBERÁ COMUNICARSE A LOS INTERESADOS, INDICANDO EL MOTIVO Y LA DURACIÓN prevista de la misma. Respuesta A."
+  },
+  {
+    "id": "aux-e03_3",
+    "questionNum": 3,
+    "question": "Según la Ley 39/2015, el silencio administrativo en procedimientos iniciados a solicitud del interesado tendrá carácter:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Siempre negativo."
+      },
+      {
+        "value": 2,
+        "text": "Siempre positivo."
+      },
+      {
+        "value": 3,
+        "text": "Estimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario."
+      },
+      {
+        "value": 4,
+        "text": "Desestimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Estimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e03",
+    "explanation": "Art. 24.1 Ley 39/2015: El silencio administrativo en procedimientos iniciados a solicitud del interesado tendrá CARÁCTER ESTIMATORIO (positivo), SALVO QUE UNA NORMA CON RANGO DE LEY O NORMA DE DERECHO DE LA UNIÓN EUROPEA establezca lo contrario o así lo exija la naturaleza del procedimiento. La regla general es el silencio positivo. Respuesta C."
+  }
+]

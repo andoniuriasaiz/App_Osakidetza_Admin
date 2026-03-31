@@ -1,0 +1,650 @@
+[
+  {
+    "id": "aux-e06_1",
+    "questionNum": 1,
+    "question": "Cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público, se denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Intercambio digital autónomo."
+      },
+      {
+        "value": 2,
+        "text": "Actuación administrativa automatizada."
+      },
+      {
+        "value": 3,
+        "text": "Gestión documental sistematizada."
+      },
+      {
+        "value": 4,
+        "text": "Procedimiento administrativo electrónico."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Actuación administrativa automatizada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 41.2 Ley 40/2015 (referenciado en EBEP): Se denomina ACTUACIÓN ADMINISTRATIVA AUTOMATIZADA cualquier acto realizado íntegramente a través de medios electrónicos por una AP en el marco de un procedimiento administrativo sin intervención directa de un empleado público. Respuesta B."
+  },
+  {
+    "id": "aux-e06_2",
+    "questionNum": 2,
+    "question": "Tiene por objeto determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ley 40/2015."
+      },
+      {
+        "value": 2,
+        "text": "Real Decreto Legislativo 5/2015."
+      },
+      {
+        "value": 3,
+        "text": "Decreto 106/2008."
+      },
+      {
+        "value": 4,
+        "text": "Ley 31/1995."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Real Decreto Legislativo 5/2015."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "El REAL DECRETO LEGISLATIVO 5/2015, de 30 de octubre, aprueba el texto refundido del Estatuto Básico del Empleado Público (EBEP), cuyo objeto es determinar las normas aplicables al personal al servicio de las AAPP, incluido el personal laboral. Respuesta B."
+  },
+  {
+    "id": "aux-e06_3",
+    "questionNum": 3,
+    "question": "Entre los fundamentos de acción del Estatuto Básico del Empleado Público se encuentra:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Innovación y mejora continua de los servicios."
+      },
+      {
+        "value": 2,
+        "text": "Ética profesional y buenas prácticas de los empleados públicos."
+      },
+      {
+        "value": 3,
+        "text": "Transparencia."
+      },
+      {
+        "value": 4,
+        "text": "Sostenibilidad ambiental y reducción del impacto en los servicios públicos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Transparencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 52 y 53 RDL 5/2015 EBEP: Entre los principios y fundamentos de actuación de los empleados públicos se incluye la TRANSPARENCIA. La EBEP establece la transparencia como principio rector de la conducta de los empleados públicos (Art. 53.4). Respuesta C."
+  },
+  {
+    "id": "aux-e06_4",
+    "questionNum": 4,
+    "question": "Indica el personal que se rige por la legislación estatal que resulte de aplicación, de la que forma parte el Estatuto Básico del Empleado Público, y por la legislación de las comunidades autónomas, con respecto a la autonomía local:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal funcionario de la Sociedad Estatal Correos y Telégrafos."
+      },
+      {
+        "value": 2,
+        "text": "Personal retribuido por arancel."
+      },
+      {
+        "value": 3,
+        "text": "Personal del Centro Nacional de Inteligencia."
+      },
+      {
+        "value": 4,
+        "text": "El personal funcionario de las Entidades Locales."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El personal funcionario de las Entidades Locales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 3.1 RDL 5/2015 EBEP: EL PERSONAL FUNCIONARIO DE LAS ENTIDADES LOCALES se regirá por la legislación estatal que resulte de aplicación, de la que forma parte el EBEP, y por la legislación de las CCAA, con respecto a la autonomía local. Respuesta D."
+  },
+  {
+    "id": "aux-e06_5",
+    "questionNum": 5,
+    "question": "Personal al que se aplicarán directamente las disposiciones del Estatuto Básico del Empleado Público cuando así lo disponga su legislación específica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El personal funcionario de las Entidades Locales."
+      },
+      {
+        "value": 2,
+        "text": "Los Cuerpos de Policía Local."
+      },
+      {
+        "value": 3,
+        "text": "Personal de Fuerzas y Cuerpos de Seguridad."
+      },
+      {
+        "value": 4,
+        "text": "El personal funcionario de la Sociedad Estatal Correos y Telégrafos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los Cuerpos de Policía Local."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 4.a RDL 5/2015 EBEP: Se aplicarán directamente las disposiciones del EBEP cuando así lo disponga su legislación específica a LOS CUERPOS DE POLICÍA LOCAL. Las Fuerzas y Cuerpos de Seguridad del Estado tienen legislación propia (c). Respuesta B."
+  },
+  {
+    "id": "aux-e06_6",
+    "questionNum": 6,
+    "question": "En la aplicación del Estatuto Básico del Empleado Público al personal de investigación:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se regirán por la legislación específica dictada por el Estado."
+      },
+      {
+        "value": 2,
+        "text": "Dispondrá de legislación específica propia."
+      },
+      {
+        "value": 3,
+        "text": "Se regirán por la legislación de las comunidades autónomas."
+      },
+      {
+        "value": 4,
+        "text": "Se podrán dictar normas singulares para adecuarlo a sus peculiaridades."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se podrán dictar normas singulares para adecuarlo a sus peculiaridades."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 5.1 RDL 5/2015 EBEP: En la aplicación del EBEP al personal de investigación SE PODRÁN DICTAR NORMAS SINGULARES PARA ADECUARLO A SUS PECULIARIDADES. Esta flexibilidad específica está expresamente prevista. Respuesta D."
+  },
+  {
+    "id": "aux-e06_7",
+    "questionNum": 7,
+    "question": "En el desarrollo del Estatuto Básico del Empleado Público, las leyes reguladoras de la Función Pública de la Administración General del Estado serán aprobadas por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Senado y las Direcciones Generales."
+      },
+      {
+        "value": 2,
+        "text": "Las Cortes Generales y las asambleas legislativas."
+      },
+      {
+        "value": 3,
+        "text": "El Consejo de Gobierno"
+      },
+      {
+        "value": 4,
+        "text": "Presidente del Gobierno y el Consejo de Ministros."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las Cortes Generales y las asambleas legislativas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 6.1 RDL 5/2015 EBEP: Las leyes reguladoras de la Función Pública de la AGE serán aprobadas POR LAS CORTES GENERALES y los Parlamentos de las CCAA aprobarán las regulaciones en sus respectivos ámbitos (ASAMBLEAS LEGISLATIVAS). Respuesta B."
+  },
+  {
+    "id": "aux-e06_8",
+    "questionNum": 8,
+    "question": "El personal laboral al servicio de las Administraciones Públicas, en materia de nacimiento, adopción, del progenitor diferente de la madre biológica, de lactancia y parental, se regirá por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Lo previsto en el Estatuto Básico del Empleado Público."
+      },
+      {
+        "value": 2,
+        "text": "La legislación laboral."
+      },
+      {
+        "value": 3,
+        "text": "La legislación específica propia."
+      },
+      {
+        "value": 4,
+        "text": "Normas singulares."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La legislación laboral."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 51 RDL 5/2015 EBEP: El personal laboral al servicio de las AAPP, en materia de nacimiento, adopción, lactancia y parental, se regirá POR LO PREVISTO EN LA LEGISLACIÓN LABORAL (Estatuto de los Trabajadores). Respuesta B."
+  },
+  {
+    "id": "aux-e06_9",
+    "questionNum": 9,
+    "question": "El Estatuto Básico del Empleado Público clasifica los empleados públicos del siguiente modo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Personal eventual, personal laboral (fijo, por tiempo indefinido o temporal), funcionarios de carrera y funcionarios interinos."
+      },
+      {
+        "value": 2,
+        "text": "Funcionarios fijos transferidos, personal laboral indefinido y personal laboral temporal."
+      },
+      {
+        "value": 3,
+        "text": "Personal laboral indefinido, funcionarios transferidos y funcionario de Servicio."
+      },
+      {
+        "value": 4,
+        "text": "Funcionarios de carrera y personal laboral fijo, por tiempo indefinido o temporal."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Personal eventual, personal laboral (fijo, por tiempo indefinido o temporal), funcionarios de carrera y funcionarios interinos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 8.2 RDL 5/2015 EBEP: Los empleados públicos se clasifican en: FUNCIONARIOS DE CARRERA, FUNCIONARIOS INTERINOS, PERSONAL LABORAL (fijo, por tiempo indefinido o temporal) y PERSONAL EVENTUAL. La opción a) reproduce exactamente esta clasificación. Respuesta A."
+  },
+  {
+    "id": "aux-e06_10",
+    "questionNum": 10,
+    "question": "Al empleado público que, en virtud de nombramiento legal, está vinculado a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente, se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Funcionario interino."
+      },
+      {
+        "value": 2,
+        "text": "Funcionario de carrera."
+      },
+      {
+        "value": 3,
+        "text": "Personal de servicios especiales."
+      },
+      {
+        "value": 4,
+        "text": "Personal de obra y servicio."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Funcionario de carrera."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 9.1 RDL 5/2015 EBEP: Son FUNCIONARIOS DE CARRERA quienes, en virtud de nombramiento legal, están vinculados a una AP por una RELACIÓN ESTATUTARIA regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de CARÁCTER PERMANENTE. Respuesta B."
+  },
+  {
+    "id": "aux-e06_11",
+    "questionNum": 11,
+    "question": "Entre los principios por los que se rigen los procedimientos de selección del personal funcionario interino está el principio de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Competencia."
+      },
+      {
+        "value": 2,
+        "text": "Transparencia."
+      },
+      {
+        "value": 3,
+        "text": "Urgencia."
+      },
+      {
+        "value": 4,
+        "text": "Mérito."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Mérito."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 10.2 RDL 5/2015 EBEP: Los procedimientos de selección del personal funcionario interino se rigen por los principios de MÉRITO, CAPACIDAD y AGILIDAD. Entre las opciones, el MÉRITO (d) es el principio general de todo acceso a la Función Pública, expresamente mencionado. Respuesta D."
+  },
+  {
+    "id": "aux-e06_12",
+    "questionNum": 12,
+    "question": "Causa por la que la Administración formaliza de oficio la finalización de la relación de la interinidad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Razones organizativas que dan lugar a la supresión o la amortización de los puestos asignados."
+      },
+      {
+        "value": 2,
+        "text": "La plaza sigue vacante y no hay proceso selectivo."
+      },
+      {
+        "value": 3,
+        "text": "Cesión motivada por insatisfacción con el rendimiento del profesional."
+      },
+      {
+        "value": 4,
+        "text": "Estar a menos de un mes del plazo autorizado expresamente recogido en el nombramiento."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Razones organizativas que dan lugar a la supresión o la amortización de los puestos asignados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 10.3 RDL 5/2015 EBEP: La Administración formaliza de oficio la finalización de la interinidad por RAZONES ORGANIZATIVAS QUE DAN LUGAR A LA SUPRESIÓN O LA AMORTIZACIÓN DE LOS PUESTOS ASIGNADOS. Respuesta A."
+  },
+  {
+    "id": "aux-e06_13",
+    "questionNum": 13,
+    "question": "El funcionario interino es nombrado como tal con carácter temporal para el desempeño de funciones propias de funcionarios de carrera cuando se da esta circunstancia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La existencia de plazas vacantes que se adaptan a su perfil, aunque sea posible su cobertura con funcionarios de carrera."
+      },
+      {
+        "value": 2,
+        "text": "La ejecución de programas de carácter temporal que no podrán tener una duración superior a dos años."
+      },
+      {
+        "value": 3,
+        "text": "El exceso o acumulación de tareas por un plazo máximo de nueve meses, dentro de un periodo de dieciocho meses."
+      },
+      {
+        "value": 4,
+        "text": "La necesidad de reforzar los equipos de trabajo con nuevos perfiles profesionales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El exceso o acumulación de tareas por un plazo máximo de nueve meses, dentro de un periodo de dieciocho meses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 10.1.d RDL 5/2015 EBEP: El funcionario interino se nombra cuando existe EXCESO O ACUMULACIÓN DE TAREAS por un plazo máximo de NUEVE MESES, DENTRO DE UN PERIODO DE DIECIOCHO MESES. La opción a) es incorrecta (requiere que NO sea posible cubrir con fijos); la b) dice 'dos años' (el EBEP dice tres años para programas temporales). Respuesta C."
+  },
+  {
+    "id": "aux-e06_14",
+    "questionNum": 14,
+    "question": "Al empleado público que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas, se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Funcionario de carrera."
+      },
+      {
+        "value": 2,
+        "text": "Personal laboral."
+      },
+      {
+        "value": 3,
+        "text": "Funcionado interino."
+      },
+      {
+        "value": 4,
+        "text": "Personal eventual."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Personal laboral."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 11.1 RDL 5/2015 EBEP: Es PERSONAL LABORAL quien, en virtud de CONTRATO DE TRABAJO formalizado por escrito, en cualquiera de las modalidades de contratación previstas en la legislación laboral, presta servicios retribuidos por las AAPP. Respuesta B."
+  },
+  {
+    "id": "aux-e06_15",
+    "questionNum": 15,
+    "question": "Al empleado público que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin, se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Personal eventual."
+      },
+      {
+        "value": 2,
+        "text": "Personal laboral."
+      },
+      {
+        "value": 3,
+        "text": "Personal directivo profesional."
+      },
+      {
+        "value": 4,
+        "text": "Personal de carrera."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Personal eventual."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 12.1 RDL 5/2015 EBEP: Es PERSONAL EVENTUAL quien, en virtud de nombramiento y con CARÁCTER NO PERMANENTE, solo realiza funciones calificadas de CONFIANZA O ASESORAMIENTO ESPECIAL, retribuido con cargo a créditos presupuestarios consignados para este fin. Respuesta A."
+  },
+  {
+    "id": "aux-e06_16",
+    "questionNum": 16,
+    "question": "En relación al personal eventual:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su nombramiento y cese serán libres."
+      },
+      {
+        "value": 2,
+        "text": "La condición de personal eventual podrá constituir mérito para el acceso a la Función Pública."
+      },
+      {
+        "value": 3,
+        "text": "Le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios interinos."
+      },
+      {
+        "value": 4,
+        "text": "a) y b) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Su nombramiento y cese serán libres."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 12.2 RDL 5/2015 EBEP: Del personal eventual se establece que SU NOMBRAMIENTO Y CESE SERÁN LIBRES. Además, Art. 12.4: la condición de eventual NO PODRÁ CONSTITUIR MÉRITO para el acceso a la FP (opción b es INCORRECTA). Art. 12.5: le es aplicable el régimen de los FUNCIONARIOS DE CARRERA, no de interinos (opción c es INCORRECTA). Respuesta A."
+  },
+  {
+    "id": "aux-e06_17",
+    "questionNum": 17,
+    "question": "Al empleado público que desarrolla funciones directivas profesionales en las Administraciones Públicas, definidas como tales en las normas específicas de cada Administración., se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Personal eventual."
+      },
+      {
+        "value": 2,
+        "text": "Personal laboral."
+      },
+      {
+        "value": 3,
+        "text": "Personal ejecutivo."
+      },
+      {
+        "value": 4,
+        "text": "Personal directivo."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Personal directivo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 13.1 RDL 5/2015 EBEP: El empleado público que desarrolla FUNCIONES DIRECTIVAS PROFESIONALES en las AAPP, definidas como tales en las normas específicas de cada Administración, se denomina PERSONAL DIRECTIVO. Respuesta D."
+  },
+  {
+    "id": "aux-e06_18",
+    "questionNum": 18,
+    "question": "La designación del personal directivo atenderá a principios de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Igualdad y celeridad."
+      },
+      {
+        "value": 2,
+        "text": "Idoneidad y urgencia."
+      },
+      {
+        "value": 3,
+        "text": "Mérito y capacidad."
+      },
+      {
+        "value": 4,
+        "text": "Eficacia y eficiencia."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Mérito y capacidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "aux-e06",
+    "explanation": "Art. 13.2 RDL 5/2015 EBEP: La designación del personal directivo atenderá a principios de MÉRITO Y CAPACIDAD y a criterios de idoneidad, y se llevará a cabo mediante procedimientos que garanticen la publicidad y concurrencia. Respuesta C."
+  }
+]

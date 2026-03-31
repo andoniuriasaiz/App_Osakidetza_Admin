@@ -23,17 +23,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "A los servicios sanitarios de financiación pública. También a los privados en lo que se refiere al control de las actividades de salud pública y en materia de garantías de información, seguridad y calidad."
+      "A los servicios sanitarios de financiación pública y a los privados, en los mismos términos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 3 Ley 16/2003: se aplica a servicios de financiación pública y también a los privados en materia de salud pública, información, seguridad y calidad."
+    "explanation": "Art. 14 Ley 16/2003: La atención sociosanitaria comprende el conjunto de cuidados destinados a aquellos enfermos, generalmente crónicos, que por sus especiales características pueden beneficiarse de la actuación simultánea y sinergética de los servicios sanitarios y sociales. Respuesta A."
   },
   {
     "id": "tec-comun-t02_2",
@@ -69,7 +69,7 @@
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 4 Ley 16/2003: derecho al reembolso de gastos por asistencia sanitaria recibida en CCAA donde se esté desplazado cuando corresponde a la cartera del SNS."
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C."
   },
   {
     "id": "tec-comun-t02_3",
@@ -95,17 +95,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios."
+      "Cartera común nacional básica de servicios asistenciales, cartera común suplementaria autonómica y cartera común de servicios accesorios autonómicos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 8 Ley 16/2003: cartera común básica + suplementaria + accesorios. Todas de ámbito estatal."
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C."
   },
   {
     "id": "tec-comun-t02_4",
@@ -131,17 +131,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación + transporte sanitario urgente; cubiertos completamente por financiación pública."
+      "Actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación + transporte urgente + ortoprotésica; cubiertos completamente por financiación pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 8 bis Ley 16/2003: la cartera básica = actividades asistenciales + transporte urgente, financiados completamente. Farmacéutica y ortoprotésica están en la cartera suplementaria (art. 8 ter)."
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C."
   },
   {
     "id": "tec-comun-t02_5",
@@ -203,17 +203,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Ninguna de las respuestas anteriores es correcta."
+      "La atención a la salud bucodental."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 12 Ley 16/2003: la AP incluye atención bucodental, paliativa a terminales y rehabilitación básica. Ninguna de las opciones a/b/c queda fuera de la AP."
+    "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta A."
   },
   {
     "id": "tec-comun-t02_7",
@@ -239,17 +239,17 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Se contará con la participación de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del SNS."
+      "Es preceptivo el informe favorable de las sociedades científicas implicadas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "tec-comun-t02",
-    "explanation": "Art. 9 Ley 16/2003: se contará con participación de la Red de Agencias. No se exige informe preceptivo favorable."
+    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C."
   },
   {
     "id": "tec-comun-t02_8",

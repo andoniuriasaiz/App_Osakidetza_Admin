@@ -95,17 +95,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "El tratamiento de los datos de las personas menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el consentimiento de quienes ejercen la patria potestad o tutela, con el alcance que dichas personas determinen."
+      "Únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 13-14 RGPD: El responsable del tratamiento debe informar al interesado, entre otros aspectos, sobre la base jurídica del tratamiento, los fines del mismo, los destinatarios de los datos y los derechos que le asisten. Respuesta B."
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A."
   },
   {
     "id": "comun-t10_4",
@@ -213,7 +213,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 37 RGPD: El Delegado de Protección de Datos es obligatorio para autoridades y organismos públicos, para organizaciones que realizan actividades de seguimiento sistemático a gran escala y para quienes tratan a gran escala datos de categorías especiales. Respuesta B."
+    "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B."
   },
   {
     "id": "comun-t10_7",
@@ -239,17 +239,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas, bienes o instalaciones."
+      "Solo las personas físicas podrán llevar a cabo el tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de las personas y bienes, así como sus instalaciones."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 32 RGPD: El responsable y el encargado del tratamiento aplicarán medidas técnicas y organizativas apropiadas para garantizar la seguridad. Incluyen: seudonimización y cifrado, confidencialidad, integridad, disponibilidad y resiliencia, restauración del acceso en caso de incidente y verificación periódica de eficacia. Respuesta C."
+    "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A."
   },
   {
     "id": "comun-t10_8",
@@ -275,17 +275,17 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "La Ley no prevé plazo temporal alguno para la supresión de los datos del sistema de denuncias."
+      "En todo caso, transcurridos seis meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 33 RGPD: La violación de seguridad debe notificarse a la autoridad de control 'sin dilación indebida y, de ser posible, en un plazo máximo de 72 HORAS desde que el responsable haya tenido conocimiento de ella.' Respuesta D."
+    "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B."
   },
   {
     "id": "comun-t10_9",
@@ -311,17 +311,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Su denominación oficial es “Agencia Española de Protección de Datos, Autoridad Administrativa Independiente”."
+      "Su denominación oficial es “Agencia Española de Protección de Datos”."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 6 RGPD: El tratamiento es lícito si concurre al menos una de las bases jurídicas: consentimiento, ejecución de contrato, obligación legal, intereses vitales, misión en interés público o ejercicio de poderes públicos, o intereses legítimos. El consentimiento no es el único fundamento. Respuesta A."
+    "explanation": "LO 3/2018 y RGPD: La Agencia Española de Protección de Datos (AEPD) es la autoridad de control independiente, con personalidad jurídica propia y plena capacidad pública y privada. Actúa con plena independencia de los poderes públicos. La C recoge correctamente sus características. Respuesta C."
   },
   {
     "id": "comun-t10_10",
