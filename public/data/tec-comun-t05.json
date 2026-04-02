@@ -108,7 +108,7 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 1 Decreto 100/2018: las OSI actúan bajo el principio de autonomía económico-financiera y de gestión.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 66
+    "officialId": 68
   },
   {
     "id": "tec-comun-t05_4",
@@ -134,10 +134,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Es aquella donde solo se integran servicios de atención hospitalaria especializada."
+      "Es aquella cuya actividad asistencial gira en torno a un ámbito específico, integrando sus servicios y dispositivos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -219,7 +219,7 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 4 Decreto 100/2018: las OSI Tipo III integran primaria + hospital de carácter general y tienen base poblacional inferior a 200.000 habitantes.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 70
+    "officialId": 71
   },
   {
     "id": "tec-comun-t05_7",
@@ -330,7 +330,7 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 5.4 Decreto 100/2018: en las OSI Tipo IV, la Dirección Gerencia asume con apoyo de puestos funcionales asistenciales las funciones de la Dirección Médica y de la Dirección de Enfermería.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 73
+    "officialId": 74
   },
   {
     "id": "tec-comun-t05_10",
@@ -367,7 +367,7 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "El Consejo Clínico Asistencial es un órgano de participación, no de dirección. Los órganos de dirección de las OSI Tipo I y II son las Direcciones (Médica, Atención Integrada, Enfermería, Personas, Económico-Financiera, Gestión).",
-    "officialId": 73
+    "officialId": 75
   },
   {
     "id": "tec-comun-t05_11",
@@ -515,7 +515,7 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Decreto 100/2018: la Dirección de Atención Integrada coordina, además de primaria y hospitalaria, con el ámbito comunitario y socio-sanitario.",
-    "officialId": 73
+    "officialId": 79
   },
   {
     "id": "tec-comun-t05_15",

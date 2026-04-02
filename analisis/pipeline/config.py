@@ -7,7 +7,23 @@ Todos los paths, URLs y parámetros de categoría en un solo sitio.
 from pathlib import Path
 
 # ── Rutas ────────────────────────────────────────────────────────────────────
-ROOT          = Path(__file__).resolve().parent.parent.parent   # raíz del proyecto
+
+def _get_root():
+    import os
+    # Intentar desde este archivo
+    p = Path(__file__).absolute()
+    for _ in range(5):
+        if (p / "run_pipeline.py").exists():
+            return p
+        p = p.parent
+    # Fallback: CWD
+    cwd = Path(os.getcwd())
+    if (cwd / "run_pipeline.py").exists():
+        return cwd
+    # Fallback desesperado: 3 niveles arriba de este archivo
+    return Path(__file__).absolute().parent.parent.parent
+
+ROOT          = _get_root()
 DATA_DIR      = ROOT / "public" / "data"
 ANALISIS_DIR  = ROOT / "analisis"
 RAW_DIR       = ANALISIS_DIR / "raw"                # respuestas crudas scrapeadas
@@ -45,7 +61,7 @@ CATEGORIES = {
         "osasun_n":       500,
         "osasun_offset":  0,
         "raw_kaixo":      "kaixo_c2.json",
-        "raw_osasun":     "osasun_admin.json",
+        "raw_osasun":     "osasun_c2.json",
         "app_file":       "comun.json",
     },
     "A2": {
@@ -58,7 +74,6 @@ CATEGORIES = {
         "osasun_cat":       "enfermero",
         "osasun_n":         200,
         "osasun_offset":    0,
-        "osasun_min_table": True,  # usar tabla más pequeña (bloque común)
         "raw_kaixo":      "kaixo_common_a2.json",
         "raw_osasun":     "osasun_nurse.json",
         "app_file":       "tec-comun.json",
@@ -69,7 +84,15 @@ CATEGORIES = {
         "kaixo_n":        200,
         "osasun_cat":     "administrativo",
         "osasun_n":       500,
-        "osasun_offset":  298,
+        # NOTA: El banco de preguntas ADM-específico de Osasuntest NO coincide
+        # con el nuestro. Las primeras 3 preguntas (EBEP inicial) coinciden,
+        # pero a partir de Q4 el contenido es completamente diferente.
+        # Verificado manualmente: Q123/Q168 Osasuntest tienen preguntas distintas
+        # a las nuestras (diferente banco, no diferente offset).
+        # Máximo 31% de match en cualquier offset probado.
+        # Offset 300 = semánticamente correcto (tras 300 preguntas C2 comunes).
+        "osasun_offset":  0,
+        "osasun_unreliable_specific": False,  # Mapeado por texto ahora
         "raw_kaixo":      "kaixo_admin.json",
         "raw_osasun":     "osasun_admin.json",
         "app_file":       "adm.json",
@@ -80,7 +103,11 @@ CATEGORIES = {
         "kaixo_n":        200,
         "osasun_cat":     "auxiliar-administrativo",
         "osasun_n":       500,
-        "osasun_offset":  298,
+        # Offset corregido: era 298, debe ser 300.
+        # Verificado empíricamente: con offset=300 hay 92% de coincidencia K=O.
+        # Las preguntas AUX-específicas empiezan en posición 301 del archivo combinado
+        # (posiciones 1-300 = bloque C2 común compartido).
+        "osasun_offset":  0,
         "raw_kaixo":      "kaixo_aux.json",
         "raw_osasun":     "osasun_aux.json",
         "app_file":       "aux.json",

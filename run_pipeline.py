@@ -30,6 +30,8 @@ FLUJO RECOMENDADO:
 
 import argparse
 import sys
+import importlib
+import importlib.util
 import time
 from pathlib import Path
 from datetime import datetime
@@ -37,6 +39,7 @@ from datetime import datetime
 # ── Configurar path para importar el pipeline ─────────────────────────────────
 _ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(_ROOT / "analisis" / "pipeline"))
+importlib.invalidate_caches()  # Fuerza releer .py, ignora .pyc obsoletos
 
 from config import CATEGORIES, REPORTS_DIR, RAW_DIR
 
@@ -73,6 +76,10 @@ def main() -> None:
                    help="No generar el HTML de dashboard")
     p.add_argument("--dashboard-only", action="store_true",
                    help="Solo regenerar el dashboard (sin scraping ni consenso)")
+    p.add_argument("--no-consolidate", action="store_true",
+                   help="Saltar la fusión de archivos individuales (*-tXX.json)")
+    p.add_argument("--reports",        action="store_true",
+                   help="Generar CSVs de revisión (red flags, disputas, spot-check)")
 
     # ── Correcciones (opt-in explícito) ───────────────────────────────────────
     p.add_argument("--apply",    action="store_true",
@@ -93,6 +100,15 @@ def main() -> None:
     print(f"  Categorías: {', '.join(cats)}")
 
     t0 = time.time()
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # PASO 0 — Consolidación (Fusión de archivos individuales)
+    # ─────────────────────────────────────────────────────────────────────────
+    if not args.no_consolidate:
+        from consolidator import run as run_consolidator
+        run_consolidator(categories=cats)
+    else:
+        print("\n  ⏩ Consolidación omitida (--no-consolidate).")
 
     # ─────────────────────────────────────────────────────────────────────────
     # MODO: solo dashboard (carga consenso existente)
@@ -122,17 +138,15 @@ def main() -> None:
             _section(1, "Scraping Kaixo.com")
             from scraper_kaixo import run as scrape_kaixo
             scrape_kaixo(categories=cats, force=args.force)
-
-        if do_osasun:
-            _section(2, "Scraping Osasuntest.es")
-            from scraper_osasun import run as scrape_osasun
-            scrape_osasun(categories=cats, force=args.force)
     else:
-        print("\n  ⏩ Scraping omitido (--no-scrape).")
+        print("\n  ⏩ Scraping Kaixo omitido (--no-scrape).")
 
-    # ─────────────────────────────────────────────────────────────────────────
-    # PASO 2 — Consenso
-    # ─────────────────────────────────────────────────────────────────────────
+    # Mapeo Osasuntest siempre se ejecuta (lee osasuntest_output/, sin red)
+    # Para re-descargar Osasuntest usa: python analisis/pipeline/extraer_osasuntest_adm.py
+    _section(2, "Mapeando Osasuntest por texto")
+    from map_osasuntest import run as map_osasun
+    map_osasun(categories=cats, root_path=_ROOT)
+
     _section(3, "Construyendo consenso (App vs Kaixo vs Osasun)")
     from consensus_builder import run as build_consensus
     consensus = build_consensus(categories=cats)
@@ -144,6 +158,14 @@ def main() -> None:
         _section(4, "Generando dashboard HTML")
         from dashboard_builder import run as build_dashboard
         out_html = build_dashboard(consensus)
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # PASO 4b (opcional) — Informes CSV de revisión
+    # ─────────────────────────────────────────────────────────────────────────
+    if args.reports:
+        _section(5, "Generando CSVs de revisión")
+        from report_generator import run as gen_reports
+        gen_reports(consensus)
 
     # ─────────────────────────────────────────────────────────────────────────
     # PASO 4 (opcional) — Correcciones

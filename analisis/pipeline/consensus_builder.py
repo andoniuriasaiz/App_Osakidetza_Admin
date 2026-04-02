@@ -60,37 +60,39 @@ def build_kaixo_index(k_raw: dict) -> dict:
 
 def _determine_status(app: str, k: str, o: str) -> tuple[str, str]:
     """
-    Devuelve (status, consensus).
-
-    Reglas:
-      PERFECT        → App, K y O coinciden (o al menos 2 de 3 sin discordancia)
-      RED_FLAG       → K y O coinciden pero difieren de App
-      TRIPLE_DISPUTE → Los tres difieren (incluyendo caso App=O ≠ K)
-      INCOMPLETE     → Faltan datos de K o O
+    Determina el estado de consenso basado en las respuestas de la App (A), Kaixo (K) y Osasuntest (O).
+    
+    Reglas de prioridad:
+    1. Si K y O no existen -> INCOMPLETE (confiamos en App por defecto)
+    2. Si App coincide con Kaixo (K) -> PERFECT (Kaixo es la fuente principal)
+    3. Si K y O coinciden pero App no -> RED_FLAG (Necesita corrección)
+    4. Si K difiere de App y de O -> TRIPLE_DISPUTE (Revisión manual necesaria)
     """
-    known = [v for v in [app, k, o] if v != "?"]
-
-    if not known:
-        return "INCOMPLETE", "?"
-
+    # 1. Falta de datos crítica
     if k == "?" and o == "?":
         return "INCOMPLETE", app
 
-    # Caso PERFECT: los tres iguales, o al menos K y App iguales (o confirmado)
-    if app == k == o:
-        return "PERFECT", app
-    if app == k and o == "?":
-        return "PERFECT", app
-    if app == o and k == "?":
-        return "PERFECT", app
-    if k == o and app == k:
+    # 2. MATCH con Kaixo: Si la App ya tiene lo que dice Kaixo, está PERFECTA.
+    # (Incluso si Osasun difiere, confiamos en el binomio App-Kaixo)
+    if k != "?" and app == k:
         return "PERFECT", app
 
-    # Caso RED_FLAG: K y O de acuerdo, App discrepa
+    # 3. RED FLAG: Kaixo y Osasun coinciden en una corrección que la App no tiene.
     if k != "?" and o != "?" and k == o and app != k:
         return "RED_FLAG", k
 
-    # Caso TRIPLE_DISPUTE: todos diferentes o cualquier otra discrepancia con datos
+    # 4. Caso especial: App coincide con la única fuente disponible
+    if k == "?" and app == o:
+        return "PERFECT", app
+    if o == "?" and app == k: # (Ya cubierto por el punto 2, pero por claridad)
+        return "PERFECT", app
+
+    # 5. INCOMPLETE: Si falta una fuente y no hay coincidencia con la otra.
+    if k == "?" or o == "?":
+        return "INCOMPLETE", k if k != "?" else o
+
+    # 6. TRIPLE DISPUTE: Realmente hay 3 versiones o App=Osasun pero Kaixo dice otra cosa.
+    # O simplemente App y Kaixo no coinciden y no hay consenso de fuentes.
     return "TRIPLE_DISPUTE", k if k != "?" else (o if o != "?" else app)
 
 
@@ -125,7 +127,7 @@ def process_category(cat_key: str) -> list[dict]:
     no_match_k = 0
 
     for q in app_data:
-        orig_id = q.get("originalId") or q.get("questionNum")
+        orig_id = q.get("originalId") or q.get("officialId") or q.get("questionNum")
         app_ans = NUM_TO_LETTER.get(
             (q.get("correctAnswerNums") or [None])[0], "?"
         )
@@ -152,6 +154,9 @@ def process_category(cat_key: str) -> list[dict]:
                 no_match_k += 1
 
         # ── Match Osasun ─────────────────────────────────────────────────
+        # Si la categoría tiene bloque específico de Osasun no fiable,
+        # marcamos el valor de Osasun como "?" (banco distinto, no comparable).
+        o_reliable = True
         oa = "?"
         if orig_id is not None:
             try:
@@ -159,19 +164,33 @@ def process_category(cat_key: str) -> list[dict]:
                 oa = clean_ans(o_raw.get(o_key, "?"))
             except (ValueError, TypeError):
                 pass
+        if cfg.get("osasun_unreliable_specific") and oa != "?":
+            # El banco ADM-específico de Osasun no se alinea con el nuestro
+            oa = "?"
+            o_reliable = False
 
         # ── Status ───────────────────────────────────────────────────────
-        status, consensus = _determine_status(app_ans, ka, oa)
+        status, consensus_ans = _determine_status(app_ans, ka, oa)
+
+        # ── Campos extra útiles para análisis / CSVs ─────────────────────
+        trio = (app_ans == ka == oa and oa != "?")
+        opts = q.get("options", [])
+        options_map = {chr(64 + o.get("value", i+1)): o.get("text", "")
+                       for i, o in enumerate(opts)} if isinstance(opts, list) else {}
 
         results.append({
-            "id":         q.get("id", f"{cat_key}_{orig_id}"),
-            "originalId": orig_id,
-            "text":       app_txt,
-            "app":        app_ans,
-            "k":          ka,
-            "o":          oa,
-            "consensus":  consensus,
-            "status":     status,
+            "id":          q.get("id", f"{cat_key}_{orig_id}"),
+            "originalId":  orig_id,
+            "text":        app_txt,
+            "options":     options_map,       # {"A": "...", "B": "...", ...}
+            "explanation": q.get("explanation", ""),
+            "app":         app_ans,
+            "k":           ka,
+            "o":           oa,
+            "o_reliable":  o_reliable,
+            "trio":        trio,              # True = App=K=O (máxima confianza)
+            "consensus":   consensus_ans,
+            "status":      status,
         })
 
     total = len(results)

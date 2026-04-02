@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 2060,
+    "question": "Tienen derecho a formar parte de la Comunidad Autónoma del País Vasco:",
+    "answers": {
+      "A": "Guipúzcoa y Vizcaya.",
+      "B": "Álava, Guipúzcoa y Vizcaya.",
+      "C": "Álava, Guipúzcoa, Vizcaya y Navarra.",
+      "D": "Álava y Vizcaya."
+    },
+    "correct_answer": "C",
+    "explanation": "Estatuto Autonomía: Tienen derecho a formar parte de la Comunidad Autónoma del País Vasco: Álava, Guipúzcoa, Vizcaya y Navarra.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2061,
+    "question": "La bandera del País Vasco es:",
+    "answers": {
+      "A": "Bicrucífera, compuesta de aspa amarilla, cruz roja superpuesta y fondo blanca.",
+      "B": "Bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo.",
+      "C": "Bicrucífera, compuesta de aspa roja, cruz blanca superpuesta y fondo verde.",
+      "D": "Bicrucífera, compuesta de aspa negra, cruz roja superpuesta y fondo blanca."
+    },
+    "correct_answer": "B",
+    "explanation": "Estatuto Autonomía art. 4: La bandera del País Vasco es bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo (Ikurriña).",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2062,
+    "question": "El euskera:",
+    "answers": {
+      "A": "Lengua propia del Pueblo Vasco, tendrá, como el castellano, carácter de lengua oficial en Euskadi, y todos sus habitantes tienen el derecho a conocer y usar ambas lenguas.",
+      "B": "Lengua propia del Pueblo Vasco, no tendrá carácter de lengua oficial en Euskadi, pero todos sus habitantes tienen el derecho a conocer y usar ambas lenguas.",
+      "C": "Lengua propia del Pueblo Vasco, no tendrá carácter de lengua oficial en Euskadi, y todos sus habitantes no tienen el derecho a conocer y usar ambas lenguas.",
+      "D": "No es lengua propia del Pueblo Vasco."
+    },
+    "correct_answer": "A",
+    "explanation": "Estatuto Autonomía art. 5: El euskera, lengua propia del Pueblo Vasco, tendrá, como el castellano, carácter de lengua oficial en Euskadi.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2063,
+    "question": "Las instituciones comunes de la Comunidad Autónoma, teniendo en cuenta la diversidad socio-lingüística del País Vasco:",
+    "answers": {
+      "A": "No garantizan el uso de ambas lenguas.",
+      "B": "Recomienda el uso de ambas lenguas.",
+      "C": "Garantiza sólo a las personas mayores de 65 años el uso de ambas lenguas.",
+      "D": "Garantiza el uso de ambas lenguas."
+    },
+    "correct_answer": "D",
+    "explanation": "Estatuto Autonomía art. 6: Las instituciones comunes garantizan el uso de ambas lenguas (euskera y castellano).",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2064,
+    "question": "Por razón de lengua:",
+    "answers": {
+      "A": "Nadie podrá ser discriminado.",
+      "B": "Está permitido discriminar.",
+      "C": "Está permitido discriminar en algunos casos.",
+      "D": "Está permitido discriminar dependiendo de la edad."
+    },
+    "correct_answer": "A",
+    "explanation": "Estatuto Autonomía art. 7: Por razón de lengua, nadie podrá ser discriminado.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2065,
+    "question": "Tendrán la condición política de vascos:",
+    "answers": {
+      "A": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, sólo en algunos municipios integrados en el territorio de la Comunidad Autónoma.",
+      "B": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en municipios con más de 5.000 habitantes que estén integrados en el territorio de la Comunidad Autónoma.",
+      "C": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en cualquiera de los municipios integrados en el territorio de la Comunidad Autónoma.",
+      "D": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en municipios con más de 10.000 habitantes que estén integrados en el territorio de la Comunidad Autónoma."
+    },
+    "correct_answer": "C",
+    "explanation": "Estatuto Autonomía art. 8: Tendrán la condición política de vascos quienes tengan la vecindad administrativa en cualquiera de los municipios integrados en el territorio de la Comunidad Autónoma.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2066,
+    "question": "Los residentes en el extranjero, así como sus descendientes, si así lo solicitaren:",
+    "answers": {
+      "A": "No gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española.",
+      "B": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si no hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española.",
+      "C": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que no conserven la nacionalidad española.",
+      "D": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que conserven la nacionalidad española."
+    },
+    "correct_answer": "D",
+    "explanation": "Estatuto Autonomía art. 9: Los residentes en el extranjero y sus descendientes gozarán de idénticos derechos políticos si hubieran tenido su última vecindad administrativa en Euskadi y conservan la nacionalidad española.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2067,
+    "question": "Los derechos y deberes fundamentales de los ciudadanos del País Vasco son los establecidos en:",
+    "answers": {
+      "A": "El Ayuntamiento.",
+      "B": "La Constitución.",
+      "C": "El Parlamento.",
+      "D": "El Senado."
+    },
+    "correct_answer": "B",
+    "explanation": "Estatuto Autonomía art. 10: Los derechos y deberes fundamentales son los establecidos en la Constitución.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2068,
+    "question": "Los poderes públicos vascos, en el ámbito de su competencia:",
+    "answers": {
+      "A": "Velarán y garantizarán el adecuado ejercicio de los derechos y deberes fundamentales de los ciudadanos.",
+      "B": "Impulsarán particularmente una política tendente a la mejora de las condiciones de vida y trabajo.",
+      "C": "Adoptarán aquellas medidas que tiendan a fomentar el incremento del empleo y la estabilidad económica.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Estatuto Autonomía art. 11: Los poderes públicos vascos velarán por el ejercicio de derechos, impulsarán políticas de mejora de condiciones de vida y adoptarán medidas para fomentar el empleo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2069,
+    "question": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco, sin perjuicio de las competencias de las Instituciones a que se refiero el artículo 37 del presente Estatuto, el Parlamento Vasco:",
+    "answers": {
+      "A": "Ejerce la potestad legislativa.",
+      "B": "Aprueba sus presupuestos.",
+      "C": "Impulsa y controla la acción del Gobierno Vasco.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Estatuto Autonomía art. 26: El Parlamento Vasco ejerce la potestad legislativa, aprueba presupuestos e impulsa y controla la acción del Gobierno Vasco.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2070,
+    "question": "El Parlamento Vasco estará integrado por:",
+    "answers": {
+      "A": "Un número distinto de representantes, dependiendo de los habitantes de cada Territorio Histórico, elegidos por sufragio universal, libre, directo y secreto.",
+      "B": "Un número distinto de representantes, dependiendo de la edad de los habitantes de cada Territorio Histórico, elegidos por sufragio universal, libre, directo y secreto.",
+      "C": "Un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, libre, directo y secreto.",
+      "D": "Un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, no siendo libre, directo y público."
+    },
+    "correct_answer": "C",
+    "explanation": "Estatuto Autonomía art. 26: El Parlamento está integrado por un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, libre, directo y secreto (25 por territorio).",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2071,
+    "question": "El Parlamento Vasco será elegido por un periodo de:",
+    "answers": {
+      "A": "2 años.",
+      "B": "4 años.",
+      "C": "1 año.",
+      "D": "5 años."
+    },
+    "correct_answer": "B",
+    "explanation": "Estatuto Autonomía art. 28: El Parlamento será elegido por un período de 4 años.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2072,
+    "question": "El Parlamento elegirá de entre sus miembros:",
+    "answers": {
+      "A": "Un Presidente, una Mesa y una Diputación Permanente.",
+      "B": "Tres Presidentes y una Mesa.",
+      "C": "Dos Presidentes y dos Mesas.",
+      "D": "Un Presidente, dos Mesas y una Diputación Permanente."
+    },
+    "correct_answer": "A",
+    "explanation": "Estatuto Autonomía art. 28: El Parlamento elegirá de entre sus miembros un Presidente, una Mesa y una Diputación Permanente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2073,
+    "question": "El Gobierno Vasco es el órgano colegiado que ostenta las funciones:",
+    "answers": {
+      "A": "Ejecutivas y administrativas del País Vasco.",
+      "B": "Formativas del País Vasco.",
+      "C": "Informativas del País Vasco.",
+      "D": "Ejecutivas y organizativas del País Vasco."
+    },
+    "correct_answer": "A",
+    "explanation": "Estatuto Autonomía art. 29: El Gobierno Vasco es el órgano colegiado que ostenta las funciones ejecutivas y administrativas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2074,
+    "question": "Las atribuciones del Gobierno y su organización, basada en un Presidente y Consejeros, así como el Estatuto de sus miembros, serán regulados por:",
+    "answers": {
+      "A": "El Rey.",
+      "B": "El Estatuto de los Trabajadores.",
+      "C": "El Parlamento.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Estatuto Autonomía art. 30: Las atribuciones del Gobierno y su organización serán reguladas por el Parlamento.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2075,
+    "question": "El Presidente del Gobierno será designado de entre sus miembros:",
+    "answers": {
+      "A": "Por los Ayuntamientos y nombrado por el Lehendakari.",
+      "B": "Por los Ayuntamientos y nombrado por el Rey.",
+      "C": "Por el Parlamento Vasco y nombrado por el Rey.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Estatuto Autonomía art. 31: El Presidente del Gobierno será designado por el Parlamento Vasco y nombrado por el Rey.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2076,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opinión médica en el ámbito del Sistema Sanitario de Euskadi:",
+    "answers": {
+      "A": "Para aquellos procesos de enfermedad que no conlleven riesgo para la vida o calidad de la misma, en los términos que se desarrollan en el presente Decreto.",
+      "B": "Para aquellos procesos de enfermedad que conlleven riesgo para la vida o calidad de la misma, en los términos que se desarrollan en el presente Decreto.",
+      "C": "Para aquellos procesos de enfermedad que conlleven una baja de 3 días, en los términos que se desarrollan en el presente Decreto.",
+      "D": "Para aquellos procesos de enfermedad que conlleven una baja de 5 días, en los términos que se desarrollan en el presente Decreto."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 149/2007 art. 1: Se garantiza el derecho a segunda opinión médica para procesos que conlleven riesgo para la vida o calidad de la misma.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2077,
+    "question": "El derecho a la segunda opinión médica tiene como finalidad contrastar:",
+    "answers": {
+      "A": "Un primer diagnóstico.",
+      "B": "Una propuesta terapéutica.",
+      "C": "Los datos de la Seguridad Social.",
+      "D": "a) y b) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Decreto 149/2007 art. 2: El derecho tiene como finalidad contrastar un primer diagnóstico o una propuesta terapéutica.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2078,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opinión médica en los siguientes procesos:",
+    "answers": {
+      "A": "Enfermedad neoplásica maligna.",
+      "B": "Enfermedades neurológicas degenerativas.",
+      "C": "Enfermedades cardiovasculares.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Decreto 149/2007 art. 2: Incluye enfermedad neoplásica maligna, enfermedades neurológicas degenerativas y enfermedades cardiovasculares.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2079,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, podrán solicitar la segunda opinión médica:",
+    "answers": {
+      "A": "Las personas usuarias residentes en España que tengan derecho a la asistencia sanitaria.",
+      "B": "Sólo las personas usuarias residentes en Madrid que tengan derecho a la asistencia sanitaria de cobertura pública.",
+      "C": "Las personas usuarias residentes en la Comunidad Autónoma de Euskadi que tengan derecho a la asistencia sanitaria de cobertura pública a cargo del Sistema Sanitario de Euskadi.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 149/2007 art. 3: Podrán solicitarla las personas usuarias residentes en la Comunidad Autónoma de Euskadi con derecho a asistencia sanitaria pública.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2080,
+    "question": "La segunda opinión médica será realizada por:",
+    "answers": {
+      "A": "Administrativos de un centro integrado en la red pública de Osakidetza-Servicio vasco de salud, distinto a aquél en el que se le haya diagnosticado la enfermedad.",
+      "B": "Profesionales médicos de un centro integrado en la red pública de Osakidetza- Servicio vasco de salud, distinto a aquél en el que se le haya diagnosticado la enfermedad.",
+      "C": "Profesionales médicos del centro integrado en la red pública de Osakidetza-Servicio vasco de salud, donde se le haya diagnosticado la enfermedad.",
+      "D": "Auxiliares de enfermería de un centro integrado en la red pública de Osakidetza- Servicio vasco de salud, distinto a aquél en el que se le haya diagnosticado la enfermedad."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 149/2007 art. 4: La segunda opinión será realizada por profesionales médicos de un centro distinto al de diagnóstico.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2081,
+    "question": "Preferentemente, el centro en el que se realizará la evaluación que requiera el ejercicio del derecho a la segunda opinión médica será aquel:",
+    "answers": {
+      "A": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre más próximo al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida.",
+      "B": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre a más de 20 kilómetros de distancia al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida.",
+      "C": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre a más de 30 kilómetros de distancia al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida.",
+      "D": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre menos próximo al domicilio de la persona que la solicita, de entre los que dispongan de la especialidad requerida."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 149/2007 art. 4: Preferentemente será el centro más próximo al domicilio que disponga de la especialidad requerida.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2082,
+    "question": "Cuando así sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, se podrá obtener una segunda opinión médica en centros concertados o centros sanitarios integrados en el sistema sanitario público de otra Comunidad Autónoma:",
+    "answers": {
+      "A": "Previa autorización del Departamento de Sanidad.",
+      "B": "Sin previa autorización del Departamento de Sanidad si se solicita con 15 días de antelación.",
+      "C": "Sin previa autorización del Departamento de Sanidad si se solicita con 10 días de antelación.",
+      "D": "Sin previa autorización del Departamento de Sanidad si se solicita con 7 días de antelación."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 149/2007 art. 4: Cuando sea necesario por técnicas especiales, se podrá obtener en otra CCAA previa autorización del Departamento de Sanidad.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2083,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre la segunda opinión médica se fundamentará:",
+    "answers": {
+      "A": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de destino, sin perjuicio de la posibilidad de realizar las pruebas complementarias que fueren necesarias para obtener un diagnóstico.",
+      "B": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de destino, no pudiendo realizar las pruebas complementarias que fueren necesarias para obtener un diagnóstico.",
+      "C": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de origen, sin perjuicio de la posibilidad de realizar las pruebas complementarias que fueren necesarias para obtener un diagnóstico.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 149/2007 art. 5: Se fundamentará en informes del servicio médico de origen, pudiendo realizar pruebas complementarias necesarias.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2084,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, por Osakidetza-Servicio vasco de salud se adoptarán las medidas necesarias:",
+    "answers": {
+      "A": "Para repetir las pruebas diagnósticas innecesarias y para garantizar la integración de la información de salud en su correspondiente historia clínica.",
+      "B": "Para evitar la repetición innecesaria de pruebas diagnósticas y para garantizar la integración de la información de salud en su correspondiente historia clínica.",
+      "C": "Para repetir las pruebas diagnósticas innecesarias y para garantizar la integración de la información de salud en cualquier historia clínica.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 149/2007 art. 5: Se adoptarán medidas para evitar repetición innecesaria de pruebas y garantizar integración en historia clínica.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2085,
+    "question": "La solicitud de una segunda opinión médica podrá presentarse:",
+    "answers": {
+      "A": "Por el paciente.",
+      "B": "Por los representantes legales del paciente.",
+      "C": "Por la persona expresamente autorizada por la persona interesada.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Decreto 149/2007 art. 6: Podrá presentarse por el paciente, representantes legales o persona expresamente autorizada.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2086,
+    "question": "La solicitud de una segunda opinión médica podrá presentarse:",
+    "answers": {
+      "A": "Sólo en el Ayuntamiento donde resides.",
+      "B": "En cualquier unidad del Servicio de Atención al Paciente-Usuario de la red de centros sanitarios de Osakidetza-Servicio vasco de salud.",
+      "C": "Sólo en la unidad del Servicio de Atención al Paciente-Usuario de la red de centros sanitarios de Osakidetza-Servicio vasco de salud próximo a donde resides.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 149/2007 art. 6: Se presentará en cualquier unidad del Servicio de Atención al Paciente-Usuario de Osakidetza.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2087,
+    "question": "La solicitud, que contendrá una exposición de las circunstancias que dan lugar a la petición de una segunda opinión médica, será tramitada:",
+    "answers": {
+      "A": "En el centro asistencial que haya atendido en primera instancia al paciente.",
+      "B": "En cualquier centro asistencial.",
+      "C": "En el Ayuntamiento donde reside.",
+      "D": "En el centro asistencial próximo a donde reside."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 149/2007 art. 6: Será tramitada en el centro asistencial que haya atendido en primera instancia.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2088,
+    "question": "En el centro sanitario de origen, el Servicio de Atención al Paciente-Usuario informará de la solicitud de una segunda opinión médica:",
+    "answers": {
+      "A": "Al Auxiliar administrativo.",
+      "B": "Al enfermero.",
+      "C": "A la Dirección Médica.",
+      "D": "Al anestesista."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 149/2007 art. 7: El Servicio de Atención al Paciente informará a la Dirección Médica.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2089,
+    "question": "El Servicio de Atención al Paciente-Usuario, si hubiere derecho a ello, concertará la fecha, hora y servicio médico que atenderá la petición de segunda opinión desde que tuviere entrada la solicitud en el registro correspondiente, en el plazo de:",
+    "answers": {
+      "A": "12 días hábiles.",
+      "B": "10 días hábiles.",
+      "C": "15 días hábiles.",
+      "D": "18 días hábiles."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 149/2007 art. 7: Se concertará fecha en el plazo de 10 días hábiles.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2090,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, en el caso de que no se considere adecuada una segunda opinión médica, conforme los criterios que establece el presente Decreto:",
+    "answers": {
+      "A": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios clínicos.",
+      "B": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios subjetivos.",
+      "C": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios administrativos.",
+      "D": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios según la edad."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 149/2007 art. 8: Si no se considera adecuada, se emitirá informe razonado con arreglo a criterios clínicos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2091,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, transcurrido el plazo establecido sin recibir comunicación de la petición de una segunda opinión médica, el paciente o quien actúe en su representación o interés lo pondrá en conocimiento del órgano competente del Departamento de Sanidad, quien lo resolverá desde que tuviere entrada esta comunicación en un plazo no superior a:",
+    "answers": {
+      "A": "5 días.",
+      "B": "1 día.",
+      "C": "3 días.",
+      "D": "7 días."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 149/2007 art. 9: El órgano competente del Departamento de Sanidad resolverá en plazo no superior a 5 días.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2092,
+    "question": "Una vez obtenida la segunda opinión médica si el segundo diagnóstico es confirmatorio del primero, la atención sanitaria se llevará a cabo:",
+    "answers": {
+      "A": "En el centro sanitario donde se emitió la segunda opinión médica.",
+      "B": "En cualquier centro sanitario.",
+      "C": "En el centro sanitario de origen.",
+      "D": "Todas las anteriores respuestas son correctas."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 149/2007 art. 10: Si es confirmatorio, la atención se llevará a cabo en el centro sanitario de origen.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2093,
+    "question": "Una vez obtenida la segunda opinión médica si el segundo diagnóstico no es confirmatorio del primero, la atención sanitaria se llevará a cabo:",
+    "answers": {
+      "A": "En el centro sanitario donde se emitió la segunda opinión médica.",
+      "B": "En cualquier centro sanitario.",
+      "C": "En el centro sanitario de origen.",
+      "D": "Todas las anteriores respuestas son correctas."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 149/2007 art. 10: Si no es confirmatorio, la atención se llevará a cabo en el centro donde se emitió la segunda opinión.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2094,
+    "question": "La obtención de una segunda opinión médica:",
+    "answers": {
+      "A": "Dará derecho a permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica.",
+      "B": "No dará derecho a permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica.",
+      "C": "Decidirá el paciente si permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica.",
+      "D": "Decidirá el Auxiliar administrativo si permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 149/2007 art. 11: No dará derecho a permanecer simultáneamente en dos listas de espera para el mismo proceso.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2095,
+    "question": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales tiene por objeto:",
+    "answers": {
+      "A": "Promover la seguridad de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+      "B": "Promover la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+      "C": "a) y b) son correctas.",
+      "D": "Promover la seguridad y salud de los pacientes mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 31/1995 art. 1: Tiene por objeto promover la seguridad y salud de los trabajadores mediante prevención de riesgos derivados del trabajo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2096,
+    "question": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales, NO será de aplicación por sus particularidades en el ámbito de las funciones públicas las actividades:",
+    "answers": {
+      "A": "Policía.",
+      "B": "Seguridad.",
+      "C": "Fuerzas Armadas.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 31/1995 art. 2: No será de aplicación a Policía, Seguridad y Fuerzas Armadas por sus particularidades.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2097,
+    "question": "Se entenderá por \"prevención\":",
+    "answers": {
+      "A": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.",
+      "B": "El conjunto de actividades o medidas adoptadas o previstas en algunas fases de actividad de la empresa con el fin de aumentar los riesgos derivados del trabajo.",
+      "C": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de aumentar los riesgos derivados del trabajo.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 31/1995 art. 3: Prevención es el conjunto de actividades adoptadas en todas las fases para evitar o disminuir riesgos derivados del trabajo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2098,
+    "question": "Se entenderá como \"riesgo laboral\":",
+    "answers": {
+      "A": "Cuando un trabajador sufre un determinado daño no derivado del trabajo.",
+      "B": "La posibilidad de que un trabajador sufra un determinado daño no derivado del trabajo.",
+      "C": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 31/1995 art. 3: Riesgo laboral es la posibilidad de que el trabajador sufra un daño derivado del trabajo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2099,
+    "question": "Se considerarán como \"daños derivados del trabajo\":",
+    "answers": {
+      "A": "Las enfermedades sufridas con motivo u ocasión del trabajo.",
+      "B": "Las patologías sufridas con motivo u ocasión del trabajo.",
+      "C": "Las lesiones sufridas con motivo u ocasión del trabajo.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 31/1995 art. 3: Daños derivados del trabajo incluyen enfermedades, patologías y lesiones sufridas con motivo u ocasión del trabajo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2100,
+    "question": "Se entenderá como \"riesgo laboral grave e inminente\":",
+    "answers": {
+      "A": "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato.",
+      "B": "Aquel que pueda suponer un daño grave para la salud de los trabajadores.",
+      "C": "a) y b) son correctas.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 31/1995 art. 3: Riesgo grave e inminente es el que probablemente se materialice en futuro inmediato y pueda suponer daño grave.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2101,
+    "question": "Se considerarán como procesos, actividades, operaciones, equipos o productos \"potencialmente peligrosos\":",
+    "answers": {
+      "A": "Aquellos que, en ausencia de medidas preventivas específicas, originen riesgos para la seguridad y la salud de los trabajadores que los desarrollan o utilizan.",
+      "B": "Aquellos que, en ausencia de medidas preventivas específicas, no originen riesgos para la seguridad, pero sí para la salud de los trabajadores que los desarrollan o utilizan.",
+      "C": "Aquellos que, en ausencia de medidas preventivas específicas, originen riesgos para la seguridad, pero no para la salud de los trabajadores que los desarrollan o utilizan.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 31/1995 art. 3: Procesos potencialmente peligrosos son aquellos que, sin medidas preventivas, originen riesgos para seguridad y salud.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2102,
+    "question": "Se entenderá como \"equipo de trabajo\":",
+    "answers": {
+      "A": "Cualquier máquina no utilizada en el trabajo.",
+      "B": "Cualquier aparato no utilizado en el trabajo.",
+      "C": "Cualquier instrumento utilizado en el trabajo.",
+      "D": "Cualquier instalación no utilizada en el trabajo."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 31/1995 art. 3: Equipo de trabajo es cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2103,
+    "question": "Se entenderá como \"condición de trabajo\":",
+    "answers": {
+      "A": "Las características generales de los locales, instalaciones, equipos, productos y demás útiles existentes en el centro de trabajo.",
+      "B": "La naturaleza de los agentes físicos, químicos y biológicos presentes en el ambiente de trabajo y sus correspondientes intensidades, concentraciones o niveles de presencia.",
+      "C": "Las características relativas a la organización y ordenación del trabajo que influyan en la magnitud de los riesgos a que esté expuesto el trabajador.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 31/1995 art. 3: Condición de trabajo incluye características de locales, agentes físicos/químicos/biológicos y organización del trabajo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2104,
+    "question": "Se entenderá por \"equipo de protección individual\":",
+    "answers": {
+      "A": "Cualquier equipo destinado a tenerlo guardado en el armario para que no se estropee.",
+      "B": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin.",
+      "C": "Cualquier equipo no destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo.",
+      "D": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para conjuntarlo con la ropa que lleva puesta."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 31/1995 art. 3: Equipo de protección individual es cualquier equipo destinado a ser llevado por el trabajador para protegerle de riesgos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2105,
+    "question": "La política en materia de prevención tendrá por objeto:",
+    "answers": {
+      "A": "La promoción de la mejora de las condiciones de trabajo dirigida a elevar el nivel de protección de la seguridad y salud de los trabajadores en el trabajo.",
+      "B": "La promoción de la mejora de las condiciones de trabajo dirigida a elevar el salario de los trabajadores.",
+      "C": "La promoción de la mejora de las condiciones de ocio de los trabajadores.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 31/1995 art. 4: La política preventiva tendrá por objeto promover la mejora de condiciones para elevar la protección de seguridad y salud.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2106,
+    "question": "La elaboración de la política preventiva se llevará a cabo con la participación de:",
+    "answers": {
+      "A": "Los clientes.",
+      "B": "El alcalde del municipio.",
+      "C": "Los empresarios y trabajadores a través de sus organizaciones empresariales y sindicales más representativas.",
+      "D": "Los familiares."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 31/1995 art. 5: La elaboración de la política se llevará a cabo con participación de empresarios y trabajadores.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2107,
+    "question": "Las Administraciones públicas en materia preventiva promoverán:",
+    "answers": {
+      "A": "La mejora de la educación en los diferentes niveles de enseñanza.",
+      "B": "La adecuación de la formación de los recursos humanos necesarios para la prevención de riesgos laborales.",
+      "C": "La mejora de la educación en la oferta formativa correspondiente al sistema nacional de cualificaciones profesionales.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 31/1995 art. 6: Las Administraciones promoverán mejora de educación, formación de recursos humanos y sistema de cualificaciones profesionales.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2108,
+    "question": "La política en materia de prevención de riesgos laborales deberá promover:",
+    "answers": {
+      "A": "La integración eficaz de la prevención de riesgos laborales en el sistema informático.",
+      "B": "La integración eficaz de la prevención de riesgos laborales en el sistema de gestión de la empresa.",
+      "C": "La integración eficaz de la prevención de riesgos laborales en la IA.",
+      "D": "La integración eficaz de la prevención de riesgos laborales con los pacientes."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 31/1995 art. 6: La política deberá promover la integración eficaz de la prevención en el sistema de gestión de la empresa.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2109,
+    "question": "El Gobierno, a través de las correspondientes normas reglamentarias y previa consulta a las organizaciones sindicales y empresariales más representativas, regulará:",
+    "answers": {
+      "A": "Requisitos mínimos que deben reunir las condiciones de trabajo para la protección de la seguridad y salud de los trabajadores.",
+      "B": "Limitaciones o prohibiciones que afectarán a las operaciones, los procesos y las exposiciones laborales a agentes que entrañen riesgos para la seguridad y la salud de los trabajadores.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 31/1995 art. 7: El Gobierno regulará requisitos mínimos y limitaciones/prohibiciones de operaciones que entrañen riesgos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2110,
+    "question": "Las Administraciones públicas competentes en materia laboral:",
+    "answers": {
+      "A": "Promoverán la prevención y asesoramiento a desarrollar por los órganos técnicos en materia preventiva.",
+      "B": "Velarán por el cumplimiento de la normativa sobre prevención de riesgos laborales mediante las actuaciones de vigilancia y control.",
+      "C": "Sancionarán el incumplimiento de la normativa de prevención de riesgos laborales por los sujetos comprendidos en el ámbito de aplicación de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 31/1995 art. 8: Las Administraciones promoverán prevención, velarán por cumplimiento y sancionarán incumplimientos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2111,
+    "question": "El Instituto Nacional de Seguridad e Higiene en el Trabajo tiene como misión:",
+    "answers": {
+      "A": "El análisis y estudio de las condiciones de seguridad y salud en el trabajo, así como la promoción y apoyo a la mejora de las mismas.",
+      "B": "El análisis y estudio de las condiciones de seguridad y salud durante las vacaciones, así como la promoción y apoyo a la mejora de las mismas.",
+      "C": "El análisis y estudio de las condiciones de seguridad y salud el fin de semana, así como la promoción y apoyo a la mejora de las mismas.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 31/1995 art. 12: El INSST tiene como misión el análisis y estudio de las condiciones de seguridad y salud en el trabajo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2112,
+    "question": "El Instituto Nacional de Seguridad e Higiene en el Trabajo cumpliendo su misión, tendrá las siguientes funciones:",
+    "answers": {
+      "A": "Asesoramiento técnico en la elaboración de la normativa legal y en el desarrollo de la normalización, tanto a nivel nacional como internacional.",
+      "B": "Promoción y, en su caso, realización de actividades de formación, información, investigación, estudio y divulgación en materia de prevención de riesgos laborales.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 31/1995 art. 13: El INSST realiza asesoramiento técnico y actividades de formación, información e investigación.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2113,
+    "question": "El Instituto Nacional de Seguridad e Higiene en el Trabajo, en el marco de sus funciones:",
+    "answers": {
+      "A": "Velará por la coordinación entre las distintas Administraciones públicas.",
+      "B": "Apoyará el intercambio de información y las experiencias entre las distintas Administraciones públicas.",
+      "C": "Fomentará y prestará apoyo a la realización de actividades de promoción de la seguridad y de la salud por las Comunidades Autónomas.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 31/1995 art. 13: El INSST velará por coordinación entre Administraciones, apoyará intercambio de información y fomentará actividades de promoción.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2114,
+    "question": "En relación con las Instituciones de la Unión Europea, el Instituto Nacional de Seguridad e Higiene en el Trabajo:",
+    "answers": {
+      "A": "No actuará como centro de referencia nacional.",
+      "B": "Actuará como centro de referencia nacional, garantizando la coordinación y transmisión de la información que deberá facilitar a escala nacional, en particular respecto a la Agencia Europea para la Seguridad y la Salud en el Trabajo y su Red.",
+      "C": "Actuará como centro de referencia nacional, pero no coordinará ni transmitirá la información a escala nacional, en particular respecto a la Agencia Europea para la Seguridad y la Salud en el Trabajo y su Red.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 31/1995 art. 13: El INSST actuará como centro de referencia nacional garantizando coordinación y transmisión de información a la Agencia Europea.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2115,
+    "question": "Corresponde a la Inspección de Trabajo y Seguridad Social:",
+    "answers": {
+      "A": "La función de la vigilancia y control de la normativa sobre prevención de riesgos laborales.",
+      "B": "La función de la formación de la normativa sobre prevención de riesgos laborales a los pacientes.",
+      "C": "La función de la información de la normativa sobre prevención de riesgos laborales a los pacientes.",
+      "D": "La función de la comunicación de la normativa sobre prevención de riesgos laborales a los pacientes."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 31/1995 art. 14: Corresponde a la Inspección de Trabajo la vigilancia y control de la normativa sobre prevención.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2116,
+    "question": "La Inspección de Trabajo y Seguridad Social NO tendrá entre sus funciones:",
+    "answers": {
+      "A": "Asesorar e informar a las empresas y a los trabajadores sobre la manera más efectiva de cumplir las disposiciones cuya vigilancia tiene encomendada.",
+      "B": "Ordenar que continúen, pero más despacio con los trabajos cuando, a juicio del inspector, se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores.",
+      "C": "Ordenar la paralización inmediata de trabajos cuando, a juicio del inspector, se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores.",
+      "D": "Elaborar los informes solicitados por los Juzgados de lo Social en las demandas deducidas ante los mismos en los procedimientos de accidentes de trabajo y enfermedades profesionales."
+    },
+    "correct_answer": "B",
+    "explanation": "No está entre sus funciones la de Ordenar que continúen, pero más despacio con los trabajos cuando, a juicio del inspector, se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2117,
+    "question": "Corresponderá a las Administraciones públicas competentes en materia sanitaria referente a la salud laboral:",
+    "answers": {
+      "A": "El establecimiento de medios adecuados para la evaluación y control de las actuaciones de carácter sanitario que se realicen en las empresas por los servicios de prevención actuantes.",
+      "B": "Establecer las pautas y protocolos de actuación, oídas las sociedades científicas, a los que deberán someterse los citados servicios.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 31/1995 art. 16: Las Administraciones sanitarias establecerán medios para evaluación/control y pautas/protocolos de actuación.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2118,
+    "question": "La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por:",
+    "answers": {
+      "A": "Dos representantes de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas.",
+      "B": "Tres representantes de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas.",
+      "C": "Un representante de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas.",
+      "D": "Cinco representantes de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas."
+    },
+    "correct_answer": "C",
+    "explanation": "La Comisión Nacional de Seguridad y Salud en el Trabajo estará integrada por: Un representante de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y sindicales más representativas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2119,
+    "question": "La Comisión Nacional de Seguridad y Salud en el Trabajo adoptará sus acuerdos:",
+    "answers": {
+      "A": "Por mayoría. A tal fin, los representantes de las Administraciones públicas tendrán cada uno un voto y dos los de las organizaciones empresariales y sindicales.",
+      "B": "Por unanimidad. A tal fin, los representantes de las Administraciones públicas tendrán cada uno un voto y dos los de las organizaciones empresariales y sindicales.",
+      "C": "Por mayoría. A tal fin, los representantes de las Administraciones públicas tendrán cada uno cinco votos y tres los de las organizaciones empresariales y sindicales.",
+      "D": "Por mayoría. A tal fin, los representantes de las Administraciones públicas tendrán cada uno diez votos y dos los de las organizaciones empresariales y sindicales."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 31/1995 art. 17: Los acuerdos se adoptan por mayoría (1 voto Administraciones, 2 votos organizaciones sociales).",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2120,
+    "question": "Desde el punto de vista legal accidente de trabajo es:",
+    "answers": {
+      "A": "Cualquier suceso no esperado pero deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores.",
+      "B": "Cualquier suceso no esperado ni deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores.",
+      "C": "Cualquier suceso esperado y no deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores.",
+      "D": "Cualquier suceso esperado y deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual PRL Osakidetza: Accidente de trabajo es suceso no esperado ni deseado que da lugar a pérdidas de salud o lesiones.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2121,
+    "question": "Los accidentes de trabajo en función de las lesiones producidas al trabajador se clasifican en:",
+    "answers": {
+      "A": "Accidente sin baja.",
+      "B": "Accidente con baja.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual PRL Osakidetza: Los accidentes se clasifican en con baja y sin baja según las lesiones producidas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2122,
+    "question": "Indica cuál de las definiciones NO es correcta:",
+    "answers": {
+      "A": "Accidente de trabajo sin baja es cuando la lesión producida al trabajador no le imposibilita para el desempeño de su trabajo habitual.",
+      "B": "Accidente de trabajo con baja es cuando provoca la incapacidad laboral del trabajador.",
+      "C": "Los accidentes in-itinere pueden ser con baja o sin baja.",
+      "D": "Accidente de trabajo sin baja es cuando la lesión producida al trabajador le imposibilita para el desempeño de su trabajo habitual."
+    },
+    "correct_answer": "D",
+    "explanation": "Manual PRL Osakidetza: Accidente sin baja es cuando NO le imposibilita para el desempeño de su trabajo habitual.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2123,
+    "question": "Indica cuando NO se considera accidente in-itinere:",
+    "answers": {
+      "A": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el medio de locomoción es el habitual.",
+      "B": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el margen de tiempo está dentro de los límites normales.",
+      "C": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el itinerario se considera como normal.",
+      "D": "El accidente ocurre durante las vacaciones y el medio de locomoción es el habitual."
+    },
+    "correct_answer": "D",
+    "explanation": "Manual PRL Osakidetza: No es accidente in-itinere si ocurre durante vacaciones, aunque el medio sea habitual.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2124,
+    "question": "Si a un trabajador le ha ocurrido un accidente, un incidente o una agresión o es testigo de alguno de ellos:",
+    "answers": {
+      "A": "Informe inmediatamente a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención.",
+      "B": "Informe a los dos días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención.",
+      "C": "Informe a los siete días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención.",
+      "D": "Informe a los quince días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de Prevención."
+    },
+    "correct_answer": "A",
+    "explanation": "Manual PRL Osakidetza/Carpeta Roja: El trabajador informará inmediatamente a su responsable inmediato.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2125,
+    "question": "El parte interno de notificación de accidente/incidente:",
+    "answers": {
+      "A": "Es el registro no necesario para declarar un accidente de trabajo, un incidente o una agresión, y que sea reconocido legalmente.",
+      "B": "Es el registro necesario para declarar un accidente de trabajo, un incidente o una agresión, y que sea reconocido legalmente.",
+      "C": "Es el registro necesario para declarar un accidente de trabajo, un incidente o una agresión, y que no sea reconocido legalmente.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual PRL Osakidetza/Carpeta Roja: El parte interno es el registro necesario para declarar accidente/incidente/agresión y ser reconocido legalmente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2126,
+    "question": "Ante una agresión, la actuación inmediata del trabajador será:",
+    "answers": {
+      "A": "Comunicar la agresión en el menor plazo de tiempo posible a su responsable inmediato.",
+      "B": "Si requiere asistencia médica, acudir a la Unidad Básica de Prevención correspondiente.",
+      "C": "Cumplimentar el Registro para la Notificación de Accidente / Incidente / Agresiones \"Formato I\" firmado por el responsable inmediato, la persona accidentada y los testigos, si los hubiera y enviarlo a la Unidad que le ha prestado la asistencia. Elaborar junto con el responsable inmediato, un informe lo más exhaustivo posible.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Manual PRL Osakidetza/Carpeta Roja: Ante agresión se debe comunicar inmediatamente, acudir a UBP si se requiere asistencia y cumplimentar el Formato I.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2127,
+    "question": "Tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que:",
+    "answers": {
+      "A": "Tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo.",
+      "B": "NO tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo.",
+      "C": "Tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter potestativo.",
+      "D": "NO tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter potestativo."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 40/2015 art. 3: Son órganos administrativos las unidades con funciones que tengan efectos jurídicos frente a terceros o carácter preceptivo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2128,
+    "question": "La Ley 40/2015, en relación a los órganos de las Administraciones Públicas, establece que la competencia es:",
+    "answers": {
+      "A": "Revocable.",
+      "B": "Irrenunciable.",
+      "C": "Eludible.",
+      "D": "Rehusable."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 40/2015 art. 11: La competencia es irrenunciable.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2129,
+    "question": "Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a:",
+    "answers": {
+      "A": "A los órganos superiores competentes por razón de la materia y del territorio.",
+      "B": "A los órganos inferiores competentes por razón de la materia y del territorio.",
+      "C": "A los órganos centralizados competentes por razón de la materia y del territorio.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 40/2015 art. 11: Si no se especifica el órgano, corresponde a los órganos superiores competentes por materia y territorio.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2130,
+    "question": "Contra un acuerdo de avocación:",
+    "answers": {
+      "A": "Cabrá rectificación de errores.",
+      "B": "NO cabrá rectificación de errores.",
+      "C": "Cabrá recurso.",
+      "D": "NO cabrá recurso."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 40/2015 art. 12: Contra el acuerdo de avocación no cabrá recurso.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2131,
+    "question": "La encomienda de gestión supone:",
+    "answers": {
+      "A": "El traspaso de la titularidad.",
+      "B": "Renunciar a la titularidad.",
+      "C": "Ceder la titularidad.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 40/2015 art. 13: La encomienda de gestión NO supone traspaso, renuncia o cesión de titularidad.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2132,
+    "question": "En cuanto a la delegación de firma:",
+    "answers": {
+      "A": "Altera la competencia del órgano delegante.",
+      "B": "Es necesaria la validez para su publicación.",
+      "C": "En las resoluciones y actos que se firmen por delegación se hará constar la delegación de firma.",
+      "D": "Los actos firmados por delegación NO requieren que se haga constar la autoridad de procedencia."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 40/2015 art. 16: En actos firmados por delegación se hará constar la delegación de firma.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2133,
+    "question": "En las resoluciones y actos que se dicten mediante suplencia:",
+    "answers": {
+      "A": "Se hará constar la circunstancia de la suplencia.",
+      "B": "Se especificará el titular del órgano cuya suplencia se adoptan.",
+      "C": "Se indicará quién está ejerciendo efectivamente esa suplencia.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 40/2015 art. 17: En suplencia se hará constar la circunstancia, el titular del órgano y quién ejerce la suplencia.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2134,
+    "question": "Los órganos colegiados tendrán:",
+    "answers": {
+      "A": "Un Secretario que podrá ser un miembro del propio órgano o una persona al servicio de la Administración Pública correspondiente.",
+      "B": "Un Secretario que podrá ser un miembro del propio órgano y dos personas al servicio de la Administración Pública correspondiente.",
+      "C": "Un Secretario que podrá ser un miembro del propio órgano o tres personas al servicio de la Administración Pública correspondiente.",
+      "D": "Un Secretario que podrá ser un miembro del propio órgano y cuatro personas al servicio de la Administración Pública correspondiente."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 40/2015 art. 22: Los órganos colegiados tendrán un Secretario que podrá ser miembro del órgano o persona al servicio de la Administración.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2135,
+    "question": "En las sesiones que celebren los órganos colegiados a distancia, se consideran medios electrónicos:",
+    "answers": {
+      "A": "Los medios telefónicos.",
+      "B": "Las audioconferencias.",
+      "C": "El correo electrónico.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 40/2015 art. 26: Medios telefónicos, audioconferencias y correo electrónico se consideran medios electrónicos para sesiones a distancia.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2136,
+    "question": "Respecto a las sesiones que celebre el órgano colegiado:",
+    "answers": {
+      "A": "En las actas NO hay que poner el orden del día.",
+      "B": "Podrán grabarse las sesiones.",
+      "C": "El acta de cada sesión NO se puede aprobar en la misma sesión o la inmediata.",
+      "D": "El Secretario remitirá por correo postal a los miembros del órgano colegiado el acta."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 40/2015 art. 27: Las sesiones podrán grabarse. El acta se aprueba en la misma sesión o inmediata.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2137,
+    "question": "Corresponde al Presidente de los órganos colegiados de la Administración General del Estado:",
+    "answers": {
+      "A": "Velar por la legalidad formal y material de las actuaciones del órgano.",
+      "B": "Garantizar que la adopción de acuerdos es respetada.",
+      "C": "Ostentar la representación del órgano.",
+      "D": "Certificar las actuaciones del órgano."
+    },
+    "correct_answer": "C",
+    "explanation": "Corresponde al Presidente de los órganos colegiados de la Administración General del Estado: Ostentar la representación del órgano.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2138,
+    "question": "Corresponde a los miembros de los órganos colegiados de la Administración General del Estado:",
+    "answers": {
+      "A": "Asegurar el cumplimiento de leyes.",
+      "B": "Participar en los debates de las sesiones.",
+      "C": "Moderar el desarrollo de los debates.",
+      "D": "Acordar la convocatoria de las sesiones."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 40/2015 art. 25: Corresponde a los miembros participar en los debates.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2139,
+    "question": "A la dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias, se le denomina:",
+    "answers": {
+      "A": "Certificado de BaKQ.",
+      "B": "Portal de Internet.",
+      "C": "Sede electrónica.",
+      "D": "Izenpe."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 40/2015 art. 38: Se denomina sede electrónica la dirección electrónica disponible para ciudadanos titularizada por Administración Pública.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2140,
+    "question": "Cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de:,responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad einteroperabilidad",
+    "answers": {
+      "A": "Transparencia y publicidad.",
+      "B": "Responsabilidad y calidad.",
+      "C": "Seguridad y accesibilidad.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 40/2015 art. 38: Principios de sedes electrónicas incluyen transparencia, publicidad, responsabilidad, calidad, seguridad, accesibilidad.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2141,
+    "question": "Las Administraciones Públicas podrán identificarse mediante el uso de:",
+    "answers": {
+      "A": "Sellos electrónicos.",
+      "B": "Códigos de verificación.",
+      "C": "Claves de internet.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "A",
+    "explanation": "Las Administraciones Públicas podrán identificarse mediante el uso de: Sellos electrónicos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2142,
+    "question": "Cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público, se denomina:",
+    "answers": {
+      "A": "Intercambio digital autónomo.",
+      "B": "Actuación administrativa automatizada.",
+      "C": "Gestión documental sistematizada.",
+      "D": "Procedimiento administrativo electrónico."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 40/2015 art. 42: Actuación administrativa automatizada es actuación íntegramente por medios electrónicos sin intervención directa de empleado público.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2143,
+    "question": "Tiene por objeto determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas:",
+    "answers": {
+      "A": "Ley 40/2015.",
+      "B": "Real Decreto Legislativo 5/2015.",
+      "C": "Decreto 106/2008.",
+      "D": "Ley 31/1995."
+    },
+    "correct_answer": "B",
+    "explanation": "Real Decreto Legislativo 5/2015 (Estatuto Básico Empleado Público): Determina normas aplicables al personal laboral.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2144,
+    "question": "Entre los fundamentos de acción del Estatuto Básico del Empleado Público se encuentra:",
+    "answers": {
+      "A": "Innovación y mejora continua de los servicios.",
+      "B": "Ética profesional y buenas prácticas de los empleados públicos.",
+      "C": "Transparencia.",
+      "D": "Sostenibilidad ambiental y reducción del impacto en los servicios públicos."
+    },
+    "correct_answer": "C",
+    "explanation": "Entre los fundamentos de acción del Estatuto Básico del Empleado Público se encuentra: Transparencia.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2145,
+    "question": "Indica el personal que se rige por la legislación estatal que resulte de aplicación, de la que forma parte el Estatuto Básico del Empleado Público, y por la legislación de las comunidades autónomas, con respecto a la autonomía local:",
+    "answers": {
+      "A": "El personal funcionario de la Sociedad Estatal Correos y Telégrafos.",
+      "B": "Personal retribuido por arancel.",
+      "C": "Personal del Centro Nacional de Inteligencia.",
+      "D": "El personal funcionario de las Entidades Locales."
+    },
+    "correct_answer": "D",
+    "explanation": "EBEP art. 1.1: El personal funcionario de Entidades Locales se rige por legislación estatal (EBEP) y de CCAA respecto a autonomía local.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2146,
+    "question": "Personal al que se aplicarán directamente las disposiciones del Estatuto Básico del Empleado Público cuando así lo disponga su legislación específica:",
+    "answers": {
+      "A": "El personal funcionario de las Entidades Locales.",
+      "B": "Los Cuerpos de Policía Local.",
+      "C": "Personal de Fuerzas y Cuerpos de Seguridad.",
+      "D": "El personal funcionario de la Sociedad Estatal Correos y Telégrafos."
+    },
+    "correct_answer": "C",
+    "explanation": "Se aplica al Personal de Fuerzas y Cuerpos de Seguridad.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2147,
+    "question": "En la aplicación del Estatuto Básico del Empleado Público al personal de investigación:",
+    "answers": {
+      "A": "Se regirán por la legislación específica dictada por el Estado.",
+      "B": "Dispondrá de legislación específica propia.",
+      "C": "Se regirán por la legislación de las comunidades autónomas.",
+      "D": "Se podrán dictar normas singulares para adecuarlo a sus peculiaridades."
+    },
+    "correct_answer": "D",
+    "explanation": "EBEP art. 1.3: Al personal de investigación se podrán dictar normas singulares para adecuarlo a sus peculiaridades.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2148,
+    "question": "En el desarrollo del Estatuto Básico del Empleado Público, las leyes reguladoras de la Función Pública de la Administración General del Estado serán aprobadas por:",
+    "answers": {
+      "A": "El Senado y las Direcciones Generales.",
+      "B": "Las Cortes Generales y las asambleas legislativas.",
+      "C": "El Consejo de Gobierno",
+      "D": "Presidente del Gobierno y el Consejo de Ministros."
+    },
+    "correct_answer": "B",
+    "explanation": "EBEP art. 4.1: Las leyes reguladoras de la Función Pública de la AGE serán aprobadas por Cortes Generales y asambleas legislativas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2149,
+    "question": "El personal laboral al servicio de las Administraciones Públicas, en materia de nacimiento, adopción, del progenitor diferente de la madre biológica, de lactancia y parental, se regirá por:",
+    "answers": {
+      "A": "Lo previsto en el Estatuto Básico del Empleado Público.",
+      "B": "La legislación laboral.",
+      "C": "La legislación específica propia.",
+      "D": "Normas singulares."
+    },
+    "correct_answer": "A",
+    "explanation": "El personal laboral al servicio de las Administraciones Públicas, en materia de nacimiento, adopción, del progenitor diferente de la madre biológica, de lactancia y parental, se regirá por: Lo previsto en el Estatuto Básico del Empleado Público.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2150,
+    "question": "El Estatuto Básico del Empleado Público clasifica los empleados públicos del siguiente modo:",
+    "answers": {
+      "A": "Personal eventual, personal laboral (fijo, por tiempo indefinido o temporal), funcionarios de carrera y funcionarios interinos.",
+      "B": "Funcionarios fijos transferidos, personal laboral indefinido y personal laboral temporal.",
+      "C": "Personal laboral indefinido, funcionarios transferidos y funcionario de Servicio.",
+      "D": "Funcionarios de carrera y personal laboral fijo, por tiempo indefinido o temporal."
+    },
+    "correct_answer": "A",
+    "explanation": "EBEP art. 7: Clasificación: personal eventual, laboral (fijo/indefinido/temporal), funcionarios de carrera e interinos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2151,
+    "question": "Al empleado público que, en virtud de nombramiento legal, está vinculado a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente, se le denomina:",
+    "answers": {
+      "A": "Funcionario interino.",
+      "B": "Funcionario de carrera.",
+      "C": "Personal de servicios especiales.",
+      "D": "Personal de obra y servicio."
+    },
+    "correct_answer": "B",
+    "explanation": "EBEP art. 7.1.a: Funcionario de carrera está vinculado por relación estatutaria para desempeño de servicios profesionales permanentes.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2152,
+    "question": "Entre los principios por los que se rigen los procedimientos de selección del personal funcionario interino está el principio de:",
+    "answers": {
+      "A": "Competencia.",
+      "B": "Transparencia.",
+      "C": "Urgencia.",
+      "D": "Mérito."
+    },
+    "correct_answer": "D",
+    "explanation": "EBEP art. 10.2: Los procesos de selección de interinos se rigen por principio de mérito (entre otros).",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2153,
+    "question": "Causa por la que la Administración formaliza de oficio la finalización de la relación de la interinidad:",
+    "answers": {
+      "A": "Razones organizativas que dan lugar a la supresión o la amortización de los puestos asignados.",
+      "B": "La plaza sigue vacante y no hay proceso selectivo.",
+      "C": "Cesión motivada por insatisfacción con el rendimiento del profesional.",
+      "D": "Estar a menos de un mes del plazo autorizado expresamente recogido en el nombramiento."
+    },
+    "correct_answer": "A",
+    "explanation": "EBEP art. 10.5: Causa de finalización: razones organizativas que den lugar a supresión o amortización de puestos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2154,
+    "question": "El funcionario interino es nombrado como tal con carácter temporal para el desempeño de funciones propias de funcionarios de carrera cuando se da esta circunstancia:",
+    "answers": {
+      "A": "La existencia de plazas vacantes que se adaptan a su perfil, aunque sea posible su cobertura con funcionarios de carrera.",
+      "B": "La ejecución de programas de carácter temporal que no podrán tener una duración superior a dos años.",
+      "C": "El exceso o acumulación de tareas por un plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.",
+      "D": "La necesidad de reforzar los equipos de trabajo con nuevos perfiles profesionales."
+    },
+    "correct_answer": "C",
+    "explanation": "EBEP art. 10.1.c: Interinidad por exceso/acumulación de tareas por plazo máximo 9 meses dentro de período 18 meses.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2155,
+    "question": "Al empleado público que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas, se le denomina:",
+    "answers": {
+      "A": "Funcionario de carrera.",
+      "B": "Personal laboral.",
+      "C": "Funcionado interino.",
+      "D": "Personal eventual."
+    },
+    "correct_answer": "B",
+    "explanation": "EBEP art. 7.1.b: Personal laboral presta servicios mediante contrato de trabajo según legislación laboral.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2156,
+    "question": "Al empleado público que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin, se le denomina:",
+    "answers": {
+      "A": "Personal eventual.",
+      "B": "Personal laboral.",
+      "C": "Personal directivo profesional.",
+      "D": "Personal de carrera."
+    },
+    "correct_answer": "A",
+    "explanation": "EBEP art. 7.1.c: Personal eventual realiza funciones de confianza o asesoramiento especial con carácter no permanente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2157,
+    "question": "En relación al personal eventual:",
+    "answers": {
+      "A": "Su nombramiento y cese serán libres.",
+      "B": "La condición de personal eventual podrá constituir mérito para el acceso a la Función Pública.",
+      "C": "Le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios interinos.",
+      "D": "a) y b) son correctas."
+    },
+    "correct_answer": "A",
+    "explanation": "En relación al personal eventual: Su nombramiento y cese serán libres.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2158,
+    "question": "Al empleado público que desarrolla funciones directivas profesionales en las Administraciones Públicas, definidas como tales en las normas específicas de cada Administración., se le denomina:",
+    "answers": {
+      "A": "Personal eventual.",
+      "B": "Personal laboral.",
+      "C": "Personal ejecutivo.",
+      "D": "Personal directivo."
+    },
+    "correct_answer": "D",
+    "explanation": "EBEP art. 7.1.d: Personal directivo desarrolla funciones directivas profesionales definidas en normas específicas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2159,
+    "question": "La designación del personal directivo atenderá a principios de:",
+    "answers": {
+      "A": "Igualdad y celeridad.",
+      "B": "Idoneidad y urgencia.",
+      "C": "Mérito y capacidad.",
+      "D": "Eficacia y eficiencia."
+    },
+    "correct_answer": "C",
+    "explanation": "EBEP art. 61: La designación del personal directivo atenderá a principios de mérito y capacidad.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2160,
+    "question": "La Comisión Corporativa de Traslados por Motivos de Salud de Osakidetza tiene como función:",
+    "answers": {
+      "A": "Evaluar los riesgos de puestos de trabajo y las peticiones de traslado por motivos de salud.",
+      "B": "Investigación y mejora de las condiciones de trabajo como acción preventiva en materia de traslados por motivos de salud.",
+      "C": "Análisis de las solicitudes de adaptación de puestos de trabajo por motivos de salud que no puedan ser resueltas dentro de cada organización de servicios.",
+      "D": "a) b) y c) son incorrectas"
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 106/2008 art. 22: La Comisión Corporativa analiza solicitudes de adaptación de puestos por motivos de salud no resueltas en cada OSI.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2161,
+    "question": "Según el Decreto 106/2008 es uno de los requisitos que el personal sin relación de empleo fijo en la administración debe reunir, además de los requisitos generales que establezcan las convocatorias:",
+    "answers": {
+      "A": "Haber prestado dos años de servicios en Osakidetza en la misma categoría desde la que se solicita el desarrollo profesional.",
+      "B": "Haber tomado parte en el último proceso de Oferta Pública de Empleo convocado, con realización efectiva del examen de la categoría desde la que opte.",
+      "C": "Haber prestado servicios en cualquiera de las Administraciones Públicas o en instituciones sanitarias de titularidad privada.",
+      "D": "Haber formado parte de las listas de contratación temporal de Osakidetza por un periodo mínimo de seis meses."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 106/2008 art. 26.2: Requisito personal sin relación fija: haber tomado parte en último proceso OPE con realización efectiva del examen.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2162,
+    "question": "En relación a la consideración de servicios prestados a efectos de desarrollo profesional:",
+    "answers": {
+      "A": "Al personal sin relación de empleo fijo se le computarán los servicios prestados en otras administraciones a razón de un 30%.",
+      "B": "Al personal fijo se le computarán los servicios prestados en otras administraciones, en diferentes grupos profesionales, a razón de un 20%.",
+      "C": "Al personal fijo se le computarán los servicios prestados en otras administraciones, en el mismo grupo profesional, a razón de un 50%.",
+      "D": "Al personal que ha accedido a promoción interna se le computarán los servicios prestados en otras administraciones, a razón de un 40%."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 106/2008 art. 27: Al personal fijo se le computan servicios en otras administraciones en mismo grupo profesional a razón 50%.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2163,
+    "question": "La Comisión paritaria de seguimiento del desarrollo profesional tiene como función:",
+    "answers": {
+      "A": "Establecer y actualizar los criterios para la promoción interna del personal de Osakidetza.",
+      "B": "Determinar las fechas para las convocatorias correspondientes al periodo transitorio.",
+      "C": "Informar a las Centrales Sindicales de los criterios de baremación establecidos para las convocatorias.",
+      "D": "Recibir información sobre el desarrollo de los procedimientos de evaluación y de reconocimiento de grado."
+    },
+    "correct_answer": "D",
+    "explanation": "Decreto 106/2008 art. 30: La Comisión paritaria recibe información sobre desarrollo de procedimientos de evaluación y reconocimiento de grado.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2164,
+    "question": "El Decreto 106/2008, de 3 de junio, por el que se aprueba el Acuerdo alcanzado en la Mesa Sectorial de Sanidad, en su reunión del día 14 de marzo de 2008, en materia de conciliación de la vida laboral y familiar, y más concretamente en relación a la licencia por gestación recoge que todo el personal femenino (no sólo el sanitario):",
+    "answers": {
+      "A": "NO podrá realizar guardias durante los cuatro meses anteriores y posteriores.",
+      "B": "Tendrá la opción de realizar guardias durante los dos meses anteriores y posteriores.",
+      "C": "NO podrá realizar noches, pero sí podrá realizar guardias en los tres meses anteriores y posteriores.",
+      "D": "Tendrá la opción de no realizar guardias y noches durante los tres meses anteriores y posteriores."
+    },
+    "correct_answer": "D",
+    "explanation": "Decreto 106/2008 art. 40: El personal femenino tendrá opción de no realizar guardias y noches durante 3 meses anteriores y posteriores a gestación.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2165,
+    "question": "En el compromiso de crecimiento de plantilla estructural para el período 2007- 2009 contemplado en el Decreto 106/2008, el mayor incremento de plazas correspondía al grupo profesional de:",
+    "answers": {
+      "A": "Médicos EAP y Pediatras.",
+      "B": "DUE ́s Atención Primaria.",
+      "C": "Matronas.",
+      "D": "Auxiliares de Enfermería."
+    },
+    "correct_answer": "A",
+    "explanation": "En el compromiso de crecimiento de plantilla estructural para el período 2007- 2009 contemplado en el Decreto 106/2008, el mayor incremento de plazas correspondía al grupo profesional de: Médicos EAP y Pediatras.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2166,
+    "question": "En relación a la Euskaldunización, el Decreto 106/2008 establece la realización de:",
+    "answers": {
+      "A": "Una convocatoria anual de acreditación de perfiles lingüísticos.",
+      "B": "Dos convocatorias anuales de acreditación de perfiles lingüísticos.",
+      "C": "Tres convocatorias anuales de acreditación de perfiles lingüísticos.",
+      "D": "Cuatro convocatorias anuales de acreditación de perfiles lingüísticos."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 106/2008 art. 47: Se establecen dos convocatorias anuales de acreditación de perfiles lingüísticos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2167,
+    "question": "El Decreto 106/2008, en relación a las externalizaciones de servicios determina que:",
+    "answers": {
+      "A": "En sucesivas adjudicaciones de un mismo servicio las nuevas empresas adjudicatarias decidirán si subrogan a los/as trabajadores/as.",
+      "B": "Las subcontrataciones o externalizaciones de servicios deberán hacerse con empresas adjudicatarias de la Comunidad Autónoma.",
+      "C": "Las empresas adjudicatarias de los servicios subcontratados podrán subcontratar a su vez los servicios a terceros.",
+      "D": "Se primará a las empresas con mayor porcentaje de plantilla estable."
+    },
+    "correct_answer": "D",
+    "explanation": "Decreto 106/2008 art. 50: Se primará a empresas con mayor porcentaje de plantilla estable en externalizaciones.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2168,
+    "question": "Entre los aspectos adicionales al Acuerdo 2007-2009 recogidos en el Decreto 106/2008 se incluye la aprobación en el plazo de seis meses de:",
+    "answers": {
+      "A": "Un protocolo ante riesgos biológicos.",
+      "B": "Un protocolo de seguridad del paciente y de buenas prácticas.",
+      "C": "Un protocolo de coordinación sociosanitaria.",
+      "D": "Un protocolo ante situaciones de discriminación por razón de sexo."
+    },
+    "correct_answer": "D",
+    "explanation": "Entre los aspectos adicionales al Acuerdo 2007-2009 recogidos en el Decreto 106/2008 se incluye la aprobación en el plazo de seis meses de un protocolo ante situaciones de discriminación por razón de sexo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2169,
+    "question": "En el Decreto 235/2007 quedan expresamente excluidos del ámbito personal de aplicación del Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "answers": {
+      "A": "El personal estatutario fijo.",
+      "B": "El personal sanitario local APD.",
+      "C": "El personal funcionario de carrera.",
+      "D": "El personal con relación de empleo funcionarial de carácter interino."
+    },
+    "correct_answer": "B",
+    "explanation": "En el Decreto 235/2007 quedan expresamente excluidos del ámbito personal de aplicación del Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009: El personal sanitario local APD.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2170,
+    "question": "El abono de cantidades a cargo de retribuciones correspondientes a un trabajo no efectuado se considera:",
+    "answers": {
+      "A": "Adelanto de nómina.",
+      "B": "Anticipo.",
+      "C": "Préstamo.",
+      "D": "Retribución extrasalarial."
+    },
+    "correct_answer": "A",
+    "explanation": "El abono de cantidades a cargo de retribuciones correspondientes a un trabajo no efectuado se considera adelanto de nómina.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2171,
+    "question": "Conforme a la jornada anual aprobada mediante Acuerdo de la Mesa General de negociación de la Administración de la Comunidad Autónoma de Euskadi, en el ámbito de Osakidetza para todos los tipos de jornada, excepto la nocturna, las horas de trabajo efectivo anuales a realizar en concepto de jornada ordinaria serán:",
+    "answers": {
+      "A": "Mil trescientas cuarenta y ocho.",
+      "B": "Mil cuatrocientas cincuenta y seis.",
+      "C": "Mil quinientas noventa y dos.",
+      "D": "Mil seiscientas veinticuatro."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 235/2007 art. 5: Jornada anual 1.592 horas (excepto nocturna).",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2172,
+    "question": "El personal incluido en el ámbito del Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009, deberá solicitar las licencias mediante escrito dirigido a:",
+    "answers": {
+      "A": "La Dirección de Recursos Humanos de la Organización de servicios correspondiente.",
+      "B": "La Dirección de la Organización de servicios correspondiente.",
+      "C": "A la persona responsable de la Unidad solicitante.",
+      "D": "La Dirección-Gerencia de la Organización de servicios."
+    },
+    "correct_answer": "A",
+    "explanation": "El personal incluido en el ámbito del Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009, deberá solicitar las licencias mediante escrito dirigido a la Dirección de Recursos Humanos de la Organización de servicios correspondiente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2173,
+    "question": "Según el Decreto 235/2007 es un motivo para la concesión de permisos:",
+    "answers": {
+      "A": "Lactancia.",
+      "B": "Traslado o mudanza del domicilio habitual.",
+      "C": "Violencia de género.",
+      "D": "Ejercicio de funciones de representación sindical."
+    },
+    "correct_answer": "C",
+    "explanation": "Según el Decreto 235/2007 es un motivo para la concesión de permisos: Violencia de género.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2174,
+    "question": "En relación a las licencias para el personal contempladas en el Decreto 235/2007:",
+    "answers": {
+      "A": "En los supuestos de adopción o acogimiento, la licencia tendrá una duración de veintidós semanas.",
+      "B": "Por razón de matrimonio propio, el personal tendrá derecho a una licencia de 20 días naturales de duración.",
+      "C": "Las trabajadoras embarazadas tendrán derecho a una licencia por el tiempo necesario para concurrir a exámenes prenatales sin derecho a remuneración.",
+      "D": "Durante el disfrute de la licencia por lactancia no se podrá participar en los cursos de formación que convoque Osakidetza."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 235/2007 art. 11: Por matrimonio propio, licencia de 20 días naturales.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2175,
+    "question": "La licencia por enfermedad grave, hospitalización o fallecimiento de parientes, en el caso de tratarse del cónyuge, compañero/a o hijo/a contiene el siguiente periodo de duración.",
+    "answers": {
+      "A": "Dos días hábiles. Dos días hábiles más si los hechos que lo motivan se producen a más de 110 kms. del lugar de residencia del solicitante.",
+      "B": "Cuatro días naturales. Dos días hábiles más si los hechos que lo motivan se producen a más de 130 kms. del lugar de residencia del solicitante.",
+      "C": "Tres días hábiles. Dos días hábiles más si los hechos que lo motivan se producen a más de 120 kms. del lugar de residencia del solicitante.",
+      "D": "Cinco días naturales. Dos días hábiles más si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 235/2007 art. 12.4: Por cónyuge/hijo: 3 días hábiles + 2 si >120 km de residencia.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2176,
+    "question": "Es una situación administrativa en la que puede hallarse el personal sujeto al Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza- Servicio vasco de salud, para los años 2007, 2008 y 2009:",
+    "answers": {
+      "A": "Libre designación en Osakidetza.",
+      "B": "Expectativa de destino.",
+      "C": "Excedencia por servicios en el sector público.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Decreto 235/2007 art. 16: Situaciones administrativas incluyen libre designación, expectativa de destino y excedencia por servicios sector público.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2177,
+    "question": "Osakidetza-Servicio Vasco de Salud, tiene por finalidad:",
+    "answers": {
+      "A": "Impulsar y coordinar la organización de servicios sanitarios en colaboración con otras entidades de carácter sanitario.",
+      "B": "La supervisión del cumplimiento de los criterios generales de contratación en instituciones sanitarias de titularidad pública.",
+      "C": "La provisión de servicios sanitarios a través de las organizaciones públicas de servicios sanitarios dependientes del mismo.",
+      "D": "Coordinar los recursos y proponer medidas de intervención sobre las listas de espera."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 255/1997 art. 3: Finalidad de Osakidetza es provisión de servicios sanitarios a través de organizaciones públicas dependientes.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2178,
+    "question": "\"Proporcionar a las personas que accedan sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes de carácter instrumental o complementario, promoviendo especialmente la mejora continua de los niveles de información, la personalización en la atención y la calidad de la misma\" hace referencia a:",
+    "answers": {
+      "A": "Una de las facultades de la organización central de Osakidetza-Servicio Vasco de Salud.",
+      "B": "Un fin de interés general que persigue Osakidetza-Servicio Vasco de Salud.",
+      "C": "Una de las facultades de las organizaciones de servicios Osakidetza-Servicio Vasco de Salud.",
+      "D": "Una función del Consejero de Sanidad."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 255/1997 art. 3: Proporcionar condiciones para ejercicio de derechos es un fin de interés general.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2179,
+    "question": "Las revisiones de oficio de los actos administrativos nulos o anulables, los recursos administrativos extraordinarios y las reclamaciones previas a las vías jurisdiccionales civil y laboral que no comprendan la exigencia de responsabilidad, serán conocidas por:",
+    "answers": {
+      "A": "La Presidencia o por el Director General de Osakidetza-Servicio Vasco de Salud.",
+      "B": "El Consejo de Administración o por los Directores-Gerentes de Osakidetza-Servicio Vasco de Salud.",
+      "C": "La Presidencia o por el Consejo de Administración de Osakidetza-Servicio Vasco de Salud.",
+      "D": "El Director General o por los Directores-Gerentes de las organizaciones de Osakidetza-Servicio Vasco de Salud."
+    },
+    "correct_answer": "D",
+    "explanation": "Las revisiones de oficio de los actos administrativos nulos o anulables, los recursos administrativos extraordinarios y las reclamaciones previas a las vías jurisdiccionales civil y laboral que no comprendan la exigencia de responsabilidad, serán conocidas por: El Director General o por los Directores-Gerentes de las organizaciones de Osakidetza-Servicio Vasco de Salud.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2180,
+    "question": "La resolución de las reclamaciones de responsabilidad patrimonial que se formulen ante cualquiera de las organizaciones del Ente Público Osakidetza- Servicio Vasco de Salud por el funcionamiento de sus servicios, incluidas las resoluciones a reclamaciones de responsabilidad que los interesados dirijan posteriormente a las vías jurisdiccionales civil o laboral, corresponderán a:",
+    "answers": {
+      "A": "Directores-Gerentes del Ente Público.",
+      "B": "Consejo de Administración del Ente Público.",
+      "C": "Director General del Ente Público.",
+      "D": "Presidencia del Ente Público."
+    },
+    "correct_answer": "B",
+    "explanation": "La resolución de las reclamaciones de responsabilidad patrimonial que se formulen ante cualquiera de las organizaciones del Ente Público Osakidetza- Servicio Vasco de Salud por el funcionamiento de sus servicios, incluidas las resoluciones a reclamaciones de responsabilidad que los interesados dirijan posteriormente a las vías jurisdiccionales civil o laboral, corresponderán a: Consejo de Administración del Ente Público.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2181,
+    "question": "Cuando no se encuentre determinada expresamente la forma de publicidad de los actos administrativos que se dicten en el Ente Público Osakidetza-Servicio vasco de salud, de carácter general serán objeto de notificación a través:",
+    "answers": {
+      "A": "Del Boletín Oficial del País Vasco.",
+      "B": "Del Boletín Oficial del Estado.",
+      "C": "De los Tablones de Anuncios de las organizaciones el Ente Público.",
+      "D": "Del Portal de Internet del Ente Público."
+    },
+    "correct_answer": "C",
+    "explanation": "Cuando no se encuentre determinada expresamente la forma de publicidad de los actos administrativos que se dicten en el Ente Público Osakidetza-Servicio vasco de salud, de carácter general serán objeto de notificación a través: De los Tablones de Anuncios de las organizaciones el Ente Público.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2182,
+    "question": "Es el órgano rector colegiado del Ente Público Osakidetza-Servicio Vasco de Salud encargado principalmente de dirigir y controlar sus actuaciones.",
+    "answers": {
+      "A": "Los Consejos Técnicos.",
+      "B": "La Presidencia.",
+      "C": "El Consejo de Administración.",
+      "D": "La Dirección Médica."
+    },
+    "correct_answer": "C",
+    "explanation": "Decreto 255/1997 art. 12: El Consejo de Administración es el órgano rector colegiado.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2183,
+    "question": "Es una función de la Presidencia del Ente Público Osakidetza-Servicio Vasco de Salud:",
+    "answers": {
+      "A": "Aprobar la Memoria Anual de Actividades del Ente Público.",
+      "B": "Ejercer la representación del Ente Público y supervisar sus operaciones.",
+      "C": "Formular la liquidación de cuentas del Ente Público y de sus organizaciones.",
+      "D": "a) y c) son correctas."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 255/1997 art. 13: La Presidencia ejerce representación del Ente y supervisa operaciones.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2184,
+    "question": "El Consejo de Administración del Ente Público Osakidetza-Servicio Vasco de Salud, estará compuesto por:",
+    "answers": {
+      "A": "Un Presidente y cinco miembros en representación de la Administración de la Comunidad Autónoma.",
+      "B": "Un Director General, un miembro del Departamento de Sanidad del Gobierno Vasco y un Director Médico.",
+      "C": "El Consejero de Sanidad y dos miembros de los Consejos Técnicos de participación profesional.",
+      "D": "El Consejero de Sanidad, un Presidente, dos Directores Generales y dos Directores Médicos."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 255/1997 art. 14: Consejo de Administración compuesto por Presidente y 5 miembros en representación de la Administración.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2185,
+    "question": "El Consejo de Administración del Ente Público Osakidetza-Servicio Vasco de Salud, nombrará entre sus miembros a un Secretario que:",
+    "answers": {
+      "A": "Podrá no ser miembro del Consejo.",
+      "B": "Tendrá voto en los asuntos que se deliberen.",
+      "C": "Sustituirá al Vicepresidente en caso de enfermedad.",
+      "D": "Convocará las sesiones del Consejo de Administración."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 255/1997 art. 14: El Secretario podrá no ser miembro del Consejo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2186,
+    "question": "La Dirección General del Ente Público Osakidetza-Servicio Vasco de Salud contará con el apoyo de un equipo directivo formado por:",
+    "answers": {
+      "A": "Dos Directores de División.",
+      "B": "Tres Directores de División.",
+      "C": "Cuatro Directores de División.",
+      "D": "Cinco Directores de División."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 255/1997 art. 18: Dirección General contará con apoyo de equipo directivo formado por Tres Directores de División.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2187,
+    "question": "El Plan Estratégico del Ente Público Osakidetza-Servicio Vasco de Salud comprenderá, tanto para el conjunto institucional como para cada organización de servicios sanitarios en particular:",
+    "answers": {
+      "A": "Los objetivos generales y específicos, la temporalización de las acciones a realizar, una descripción detallada de todas las inversiones a realizar, y el plan de seguimiento.",
+      "B": "Una descripción de la propuesta de objetivos temporales y de conductas y acciones para alcanzarlos y la determinación de las inversiones consideradas estratégicas.",
+      "C": "Un listado de objetivos con sus correspondientes acciones, una planificación de las inversiones estratégicas a realizar y la relación de indicadores de evaluación del plan.",
+      "D": "Los objetivos estratégicos a largo plazo, descripción detallada del plan de acción para lograr los objetivos y un listado de recursos materiales y personales necesarios."
+    },
+    "correct_answer": "B",
+    "explanation": "El Plan Estratégico del Ente Público Osakidetza-Servicio Vasco de Salud comprenderá, tanto para el conjunto institucional como para cada organización de servicios sanitarios en particular: Una descripción de la propuesta de objetivos temporales y de conductas y acciones para alcanzarlos y la determinación de las inversiones consideradas estratégicas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2188,
+    "question": "Según el Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público «Osakidetza-Servicio Vasco de Salud», es materia específica de gestión de recursos humanos:",
+    "answers": {
+      "A": "Promover medidas de intervención sobre las listas de espera.",
+      "B": "Gestionar los programas de formación del personal del Ente.",
+      "C": "Promover protocolos de interés general.",
+      "D": "Coordinar la ejecución del Plan de Normalización Lingüística."
+    },
+    "correct_answer": "B",
+    "explanation": "Decreto 255/1997 art. 19.1.d: Gestión recursos humanos incluye gestión programas formación del personal.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2189,
+    "question": "Según el Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público «Osakidetza-Servicio Vasco de Salud», es materia específica de inversiones:",
+    "answers": {
+      "A": "Autorizar las operaciones de endeudamiento en todo el Ente Público.",
+      "B": "Definir los criterios generales de contratación en el Ente Público.",
+      "C": "Informar del Presupuesto y del Plan de Gestión Anual del Ente Público.",
+      "D": "Autorizar la incorporación de nuevos dispositivos tecnológicos."
+    },
+    "correct_answer": "B",
+    "explanation": "Según el Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público «Osakidetza-Servicio Vasco de Salud», es materia específica de inversiones: Definir los criterios generales de contratación en el Ente Público.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2190,
+    "question": "Al frente de cada organización de servicios sanitarios del Ente Público Osakidetza-Servicio Vasco de Salud se encontrará un:",
+    "answers": {
+      "A": "Director-Médico.",
+      "B": "Director-Ejecutivo.",
+      "C": "Director-General.",
+      "D": "Director-Gerente."
+    },
+    "correct_answer": "D",
+    "explanation": "Decreto 255/1997 art. 21: Al frente de cada organización está un Director-Gerente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2191,
+    "question": "Con carácter ordinario, a la Dirección Médica le corresponde la siguiente atribución:",
+    "answers": {
+      "A": "Promover y supervisar las actividades de docencia e investigación del personal Facultativo.",
+      "B": "Dirigir e impulsar la investigación, la docencia y formación en el seno de la organización.",
+      "C": "Proponer nuevas líneas de actuación en materia de investigación, docencia y formación.",
+      "D": "Investigar y coordinar la implantación de nuevas estrategias asistenciales y terapéuticas."
+    },
+    "correct_answer": "A",
+    "explanation": "Con carácter ordinario, a la Dirección Médica le corresponde la siguiente atribución: Promover y supervisar las actividades de docencia e investigación del personal Facultativo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2192,
+    "question": "Los Consejos Técnicos de las organizaciones de servicios del Ente Público Osakidetza-Servicio Vasco de Salud son órganos de:",
+    "answers": {
+      "A": "Asesoramiento y participación de los profesionales en la gestión de la organización.",
+      "B": "Representación de los profesionales en el Consejo de Administración del Ente Público.",
+      "C": "Consulta sobre ética profesional asistencial y buenas prácticas profesionales en sanidad.",
+      "D": "Coordinación y evaluación de actividades clínico-asistenciales y estrategias terapeúticas."
+    },
+    "correct_answer": "A",
+    "explanation": "Decreto 255/1997 art. 25: Consejos Técnicos son órganos de asesoramiento y participación profesional.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2193,
+    "question": "En base al Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público «Osakidetza-Servicio vasco de salud», indica qué organización de servicios NO se corresponde con el ámbito territorial de la Comunidad Autónoma:",
+    "answers": {
+      "A": "Centro Vasco de Transfusiones y Hemoderivados.",
+      "B": "Salud Mental Extrahospitalaria.",
+      "C": "Emergencias (Unidades Territoriales de Emergencias).",
+      "D": "OSATEK-Tecnología Sanitaria de Euskadi, S.A."
+    },
+    "correct_answer": "B",
+    "explanation": "En base al Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público «Osakidetza-Servicio vasco de salud», indica qué organización de servicios NO se corresponde con el ámbito territorial de la Comunidad Autónoma: Salud Mental Extrahospitalaria.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2194,
+    "question": "Según la Ley 39/2015, la Ley tiene por objeto:",
+    "answers": {
+      "A": "Regular exclusivamente el procedimiento administrativo electrónico.",
+      "B": "Regular los requisitos de validez y eficacia de los actos administrativos.",
+      "C": "Regular el procedimiento administrativo común de las Administraciones Públicas.",
+      "D": "Establecer el régimen jurídico del sector público."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 1: Objeto es regular el procedimiento administrativo común de las Administraciones Públicas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2195,
+    "question": "Según la Ley 39/2015, el ámbito subjetivo de aplicación comprende:",
+    "answers": {
+      "A": "Únicamente a la Administración General del Estado.",
+      "B": "A las Administraciones Públicas definidas en el artículo 2 de la Ley 40/2015.",
+      "C": "A todas las entidades del sector público.",
+      "D": "A las Administraciones Públicas y a sus organismos autónomos."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 3: Ámbito subjetivo son Administraciones Públicas definidas en art. 2 Ley 40/2015.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2196,
+    "question": "Según la Ley 39/2015, tienen capacidad de obrar ante las Administraciones Públicas:",
+    "answers": {
+      "A": "Solo las personas físicas mayores de edad.",
+      "B": "Las personas físicas o jurídicas cuando así lo disponga una norma con rango de ley.",
+      "C": "Las personas físicas, jurídicas y las entidades sin personalidad jurídica cuando la ley así lo declare.",
+      "D": "Exclusivamente las personas jurídicas legalmente constituidas."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 3: Tienen capacidad personas físicas, jurídicas y entidades sin personalidad jurídica cuando la ley así lo declare.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2197,
+    "question": "Según la Ley 39/2015, se consideran interesados en un procedimiento administrativo:",
+    "answers": {
+      "A": "Quienes promuevan el procedimiento como titulares de derechos o intereses legítimos individuales o colectivos.",
+      "B": "Cualquier persona que tenga conocimiento del procedimiento.",
+      "C": "Únicamente quienes resulten afectados por la resolución final.",
+      "D": "Solo quienes actúen representados por medios electrónicos."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 31: Son interesados quienes promuevan el procedimiento como titulares de derechos o intereses legítimos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2198,
+    "question": "Según la Ley 39/2015, en relación con la identificación y firma de los interesados:",
+    "answers": {
+      "A": "La firma será siempre obligatoria para formular solicitudes.",
+      "B": "La identificación podrá realizarse mediante sistemas de firma electrónica.",
+      "C": "Solo se exigirá firma cuando sea necesario acreditar la voluntad y consentimiento.",
+      "D": "La identificación y la firma son siempre requisitos inseparables."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 31: Solo se exigirá firma cuando sea necesario acreditar voluntad y consentimiento.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2199,
+    "question": "Según la Ley 39/2015, cuando varias personas comparezcan en un procedimiento con intereses coincidentes:",
+    "answers": {
+      "A": "Deberán actuar necesariamente mediante representante.",
+      "B": "La Administración designará de oficio un representante.",
+      "C": "Podrán designar un representante o señalar un domicilio común.",
+      "D": "Cada interesado deberá actuar de forma independiente."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 32: Con intereses coincidentes podrán designar representante o señalar domicilio común.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2200,
+    "question": "Según la Ley 39/2015, la representación podrá acreditarse:",
+    "answers": {
+      "A": "Únicamente mediante poder notarial.",
+      "B": "Mediante cualquier medio válido en Derecho que deje constancia fidedigna.",
+      "C": "Solo a través de inscripción en un registro electrónico.",
+      "D": "Exclusivamente mediante comparecencia personal."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 32: La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2201,
+    "question": "Según la Ley 39/2015, se considerarán interesados en el procedimiento:",
+    "answers": {
+      "A": "Quienes tengan un interés legítimo aunque no se personen en el procedimiento.",
+      "B": "Las asociaciones representativas de intereses económicos en todo caso.",
+      "C": "Aquellos cuyos derechos o intereses legítimos puedan resultar afectados por la resolución.",
+      "D": "Únicamente quienes inicien el procedimiento."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 31: Son interesados aquellos cuyos derechos o intereses legítimos puedan resultar afectados por la resolución.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2202,
+    "question": "Según la Ley 39/2015, los menores de edad:",
+    "answers": {
+      "A": "Podrán ejercer y defender sus derechos cuando el ordenamiento lo permita sin asistencia.",
+      "B": "Carecen de capacidad de obrar ante la Administración.",
+      "C": "Tienen capacidad de obrar solo con autorización judicial.",
+      "D": "Deberán actuar siempre a través de representante legal."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 3: Los menores podrán ejercer derechos cuando el ordenamiento lo permita sin asistencia.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2203,
+    "question": "Según la Ley 39/2015, en relación con los sistemas de identificación de los interesados:",
+    "answers": {
+      "A": "Solo se admitirá el DNI electrónico.",
+      "B": "Se admitirán únicamente sistemas basados en certificados electrónicos.",
+      "C": "Se admitirán sistemas de identificación basados en certificados, claves concertadas u otros sistemas válidos.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 9: Se admitirán sistemas de identificación basados en certificados, claves concertadas u otros sistemas válidos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2204,
+    "question": "Según la Ley 39/2015, las entidades sin personalidad jurídica:",
+    "answers": {
+      "A": "Carecen de capacidad de obrar ante las Administraciones Públicas.",
+      "B": "Solo podrán actuar mediante representante con poder notarial.",
+      "C": "Podrán tener capacidad de obrar cuando una ley así lo declare expresamente.",
+      "D": "Actuarán únicamente a través de sus miembros individualmente."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 3: Entidades sin personalidad jurídica podrán tener capacidad cuando una ley así lo declare expresamente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2205,
+    "question": "Según la Ley 39/2015, cuando la representación no quede acreditada inicialmente:",
+    "answers": {
+      "A": "Se inadmitirá de plano la solicitud.",
+      "B": "Se concederá un plazo para subsanar la falta de acreditación.",
+      "C": "Se archivará el procedimiento sin más trámites.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 32: Cuando la representación no quede acreditada, se concederá plazo para subsanar.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2206,
+    "question": "Según la Ley 39/2015, la firma de los interesados será exigible:",
+    "answers": {
+      "A": "En todos los trámites del procedimiento administrativo.",
+      "B": "Solo cuando sea necesario acreditar la autenticidad de la copia presentada.",
+      "C": "Cuando sea necesario acreditar la voluntad y consentimiento del interesado.",
+      "D": "Únicamente en procedimientos iniciados a solicitud del interesado."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 31: La firma será exigible cuando sea necesario acreditar la voluntad y consentimiento del interesado.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2207,
+    "question": "Según la Ley 39/2015, en los procedimientos iniciados de oficio, tendrán la condición de interesados:",
+    "answers": {
+      "A": "Únicamente los órganos administrativos competentes.",
+      "B": "Las personas que presenten alegaciones en cualquier momento.",
+      "C": "Aquellos cuyos derechos o intereses legítimos puedan resultar afectados.",
+      "D": "Solo quienes comparezcan mediante representante."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 31: En procedimientos de oficio son interesados aquellos cuyos derechos puedan resultar afectados.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2208,
+    "question": "Según la Ley 39/2015, la identificación electrónica del interesado:",
+    "answers": {
+      "A": "Exige siempre el uso de firma electrónica.",
+      "B": "Puede realizarse mediante sistemas distintos de la firma electrónica.",
+      "C": "Solo es válida si se basa en certificado electrónico cualificado.",
+      "D": "Sustituye automáticamente a la representación."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 9: La identificación electrónica puede realizarse mediante sistemas distintos de firma electrónica.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2209,
+    "question": "Según la Ley 39/2015, las personas tienen derecho a relacionarse con las Administraciones Públicas:",
+    "answers": {
+      "A": "Únicamente por medios electrónicos.",
+      "B": "Por medios electrónicos o no electrónicos, según elijan.",
+      "C": "Solo por medios no electrónicos salvo obligación legal.",
+      "D": "Exclusivamente mediante representante."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 6: Derecho a relacionarse por medios electrónicos o no electrónicos según se elija.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2210,
+    "question": "Según la Ley 39/2015, están obligados a relacionarse electrónicamente con las Administraciones Públicas:",
+    "answers": {
+      "A": "Todos los ciudadanos.",
+      "B": "Las personas físicas cuando lo solicite la Administración.",
+      "C": "Las personas jurídicas.",
+      "D": "a) y c) son correctas"
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 6: Están obligadas personas jurídicas (y personas físicas en ciertos casos según art. 6.1).",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2211,
+    "question": "Según la Ley 39/2015, el derecho a conocer el estado de tramitación de los procedimientos:",
+    "answers": {
+      "A": "Se limita a los procedimientos iniciados a instancia de parte.",
+      "B": "Se ejerce únicamente de forma presencial.",
+      "C": "Requiere autorización expresa del órgano instructor.",
+      "D": "Incluye el acceso y obtención de copias de los documentos contenidos en ellos."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 39/2015 art. 35: Derecho a conocer estado de tramitación incluye acceso y obtención de copias de documentos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2212,
+    "question": "Según la Ley 39/2015, la lengua de los procedimientos tramitados por la Administración General del Estado será:",
+    "answers": {
+      "A": "La lengua cooficial del territorio.",
+      "B": "El castellano o la lengua cooficial elegida por el interesado.",
+      "C": "Exclusivamente el castellano.",
+      "D": "La que determine el órgano competente."
+    },
+    "correct_answer": "B",
+    "explanation": "Según la Ley 39/2015, la lengua de los procedimientos tramitados por la Administración General del Estado será: El castellano o la lengua cooficial elegida por el interesado.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2213,
+    "question": "Según la Ley 39/2015, los registros electrónicos permitirán:",
+    "answers": {
+      "A": "Presentar documentos únicamente en días hábiles.",
+      "B": "Presentar documentos solo en horario de oficina.",
+      "C": "La presentación de documentos todos los días del año durante las 24 horas.",
+      "D": "Registrar documentos solo de la propia Administración."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 38: Registros electrónicos permiten presentación todos los días del año durante 24 horas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2214,
+    "question": "Según la Ley 39/2015, el derecho a ser asistido en el uso de medios electrónicos corresponde:",
+    "answers": {
+      "A": "A todas las personas en sus relaciones con las Administraciones Públicas.",
+      "B": "Únicamente a las personas que no estén obligadas a relacionarse electrónicamente.",
+      "C": "Solo a quienes actúen mediante representante.",
+      "D": "Exclusivamente a las personas mayores de edad."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 6: Derecho a ser asistido en uso de medios electrónicos corresponde a todas las personas.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2215,
+    "question": "Según la Ley 39/2015, la comparecencia de las personas ante las Administraciones Públicas:",
+    "answers": {
+      "A": "Solo podrá realizarse de forma presencial.",
+      "B": "Podrá realizarse de forma presencial o por medios electrónicos, cuando así se establezca.",
+      "C": "Requerirá siempre identificación mediante firma electrónica.",
+      "D": "a) b) y c) son incorrectas"
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 13: La comparecencia podrá realizarse de forma presencial o por medios electrónicos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2216,
+    "question": "Según la Ley 39/2015, las personas en sus relaciones con las Administraciones Públicas deberán:",
+    "answers": {
+      "A": "Comparecer personalmente en todos los procedimientos administrativos.",
+      "B": "Facilitar a la Administración los datos exigidos por la normativa aplicable.",
+      "C": "Colaborar únicamente cuando exista obligación legal expresa.",
+      "D": "Presentar documentos originales en todo caso."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 34: Las personas deberán facilitar a la Administración los datos exigidos por la normativa aplicable.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2217,
+    "question": "Según la Ley 39/2015, la responsabilidad de la tramitación de los procedimientos corresponde:",
+    "answers": {
+      "A": "Al órgano que dicte la resolución final.",
+      "B": "Al órgano que tenga atribuida la competencia para su iniciación.",
+      "C": "Al órgano instructor del procedimiento.",
+      "D": "Al órgano superior jerárquico."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 33: La responsabilidad corresponde al órgano que tenga atribuida la competencia para su iniciación.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2218,
+    "question": "Según la Ley 39/2015, las Administraciones Públicas están obligadas a dictar resolución expresa:",
+    "answers": {
+      "A": "Solo en los procedimientos iniciados a solicitud del interesado.",
+      "B": "Únicamente cuando así lo establezca una norma con rango de ley.",
+      "C": "Exclusivamente en los procedimientos sancionadores.",
+      "D": "En todos los procedimientos, cualquiera que sea su forma de iniciación."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 39/2015 art. 54: Obligación de dictar resolución expresa en todos los procedimientos, cualquiera que sea su forma de iniciación.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2219,
+    "question": "Según la Ley 39/2015, el plazo máximo para resolver y notificar un procedimiento podrá suspenderse cuando:",
+    "answers": {
+      "A": "El interesado solicite la suspensión de forma expresa.",
+      "B": "Deban realizarse pruebas técnicas o análisis contradictorios.",
+      "C": "Exista acumulación de expedientes en el órgano competente.",
+      "D": "El procedimiento se inicie de oficio."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 94: El plazo podrá suspenderse cuando deban realizarse pruebas técnicas o análisis contradictorios.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2220,
+    "question": "Según la Ley 39/2015, la suspensión del plazo máximo para resolver deberá:",
+    "answers": {
+      "A": "Comunicarse a los interesados, indicando el motivo y la duración.",
+      "B": "Acordarse siempre de oficio por el órgano competente.",
+      "C": "Publicarse en el boletín oficial correspondiente.",
+      "D": "Solicitarse por el interesado afectado."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 94: La suspensión deberá comunicarse a los interesados indicando motivo y duración.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2221,
+    "question": "Según la Ley 39/2015, los plazos expresados en días se contarán:",
+    "answers": {
+      "A": "A partir del día siguiente al de la notificación o publicación.",
+      "B": "Incluyendo siempre los sábados, domingos y festivos.",
+      "C": "Desde el mismo día en que se produce la notificación.",
+      "D": "Únicamente en días naturales."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 95: Los plazos en días se cuentan a partir del día siguiente al de la notificación o publicación.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2222,
+    "question": "Según la Ley 39/2015, cuando un plazo se exprese en días hábiles:",
+    "answers": {
+      "A": "Se incluirán los sábados, domingos y festivos.",
+      "B": "Se excluirán los sábados, domingos y festivos.",
+      "C": "Se excluirán únicamente los domingos.",
+      "D": "Se incluirán todos los días del año."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 48: Cuando el plazo se exprese en días hábiles se excluirán sábados, domingos y festivos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2223,
+    "question": "Según la Ley 39/2015, cuando el último día de un plazo sea inhábil:",
+    "answers": {
+      "A": "El plazo se entenderá finalizado ese mismo día.",
+      "B": "El plazo se ampliará automáticamente cinco días.",
+      "C": "El plazo se entenderá prorrogado al primer día hábil siguiente.",
+      "D": "El plazo quedará suspendido hasta nueva notificación."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 48: Cuando el último día sea inhábil, el plazo se prorrogará al primer día hábil siguiente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2224,
+    "question": "Según la Ley 39/2015, los actos administrativos deberán dictarse:",
+    "answers": {
+      "A": "Siempre por escrito y en soporte papel.",
+      "B": "Por el órgano competente, ajustándose al procedimiento establecido.",
+      "C": "Únicamente mediante medios electrónicos.",
+      "D": "De forma motivada en todos los casos."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 52: Los actos deberán dictarse por el órgano competente ajustándose al procedimiento establecido.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2225,
+    "question": "Según la Ley 39/2015, los actos administrativos producirán efectos:",
+    "answers": {
+      "A": "Desde la fecha en que se dicten.",
+      "B": "Desde el día siguiente al de su notificación.",
+      "C": "Desde la fecha en que se notifiquen o publiquen, salvo que en ellos se disponga otra cosa.",
+      "D": "Únicamente desde su publicación en el boletín oficial correspondiente."
+    },
+    "correct_answer": "A",
+    "explanation": "Según la Ley 39/2015, los actos administrativos producirán efectos: Desde la fecha en que se dicten.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2226,
+    "question": "Según la Ley 39/2015, serán nulos de pleno derecho los actos administrativos que:",
+    "answers": {
+      "A": "Incurran en cualquier infracción del ordenamiento jurídico.",
+      "B": "Se dicten fuera de plazo.",
+      "C": "Carezcan de motivación.",
+      "D": "Lesionen derechos y libertades susceptibles de amparo constitucional."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 39/2015 art. 47: Son nulos de pleno derecho los actos que lesionen derechos y libertades susceptibles de amparo constitucional.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2227,
+    "question": "Según la Ley 39/2015, serán anulables los actos administrativos que:",
+    "answers": {
+      "A": "Incurran en infracción del ordenamiento jurídico, incluso la desviación de poder.",
+      "B": "Lesionen derechos fundamentales.",
+      "C": "Sean dictados por órgano manifiestamente incompetente por razón de la materia.",
+      "D": "b) y c) son correctas"
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 53: Son anulables los actos que incurran en infracción del ordenamiento jurídico, incluso desviación de poder.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2228,
+    "question": "Según la Ley 39/2015, los actos administrativos deberán ser motivados:",
+    "answers": {
+      "A": "En todos los casos.",
+      "B": "Solo cuando lo solicite el interesado.",
+      "C": "En los supuestos previstos legalmente.",
+      "D": "Únicamente cuando se dicten por delegación."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 52: Los actos deberán ser motivados en los supuestos previstos legalmente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2229,
+    "question": "Según la Ley 39/2015, cuando el acto administrativo carezca de los requisitos formales indispensables:",
+    "answers": {
+      "A": "Será siempre nulo de pleno derecho.",
+      "B": "Será anulable cuando carezcan de los requisitos formales indispensables o produzca indefensión.",
+      "C": "No producirá ningún efecto jurídico.",
+      "D": "Deberá ser archivado sin tramitación."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 53: Son anulables cuando carezcan de requisitos formales indispensables o produzcan indefensión.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2230,
+    "question": "Según la Ley 39/2015, los recursos administrativos se fundamentan en el principio de:",
+    "answers": {
+      "A": "Jerarquía normativa.",
+      "B": "Legalidad y eficacia administrativa.",
+      "C": "Revisión de los actos en vía administrativa.",
+      "D": "Tutela judicial efectiva."
+    },
+    "correct_answer": "C",
+    "explanation": "Según la Ley 39/2015, los recursos administrativos se fundamentan en el principio de: Revisión de los actos en vía administrativa.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2231,
+    "question": "Según la Ley 39/2015, contra los actos que no pongan fin a la vía administrativa podrá interponerse:",
+    "answers": {
+      "A": "Recurso potestativo de reposición.",
+      "B": "Recurso extraordinario de revisión.",
+      "C": "Recurso contencioso-administrativo.",
+      "D": "Recurso de alzada."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 39/2015 art. 107: Contra actos que no pongan fin a la vía administrativa cabe recurso de alzada.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2232,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso de alzada será de:",
+    "answers": {
+      "A": "Un mes en todo caso.",
+      "B": "Un mes si el acto es expreso y en cualquier momento si no lo es.",
+      "C": "Dos meses desde la notificación.",
+      "D": "Tres meses desde la publicación."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 108: Plazo recurso alzada es un mes si acto es expreso, en cualquier momento si no lo es.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2233,
+    "question": "Según la Ley 39/2015, el recurso potestativo de reposición se interpone:",
+    "answers": {
+      "A": "Siempre antes de acudir a la vía contencioso-administrativa.",
+      "B": "Contra actos que no pongan fin a la vía administrativa.",
+      "C": "Contra actos que pongan fin a la vía administrativa.",
+      "D": "Únicamente contra actos presuntos."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 112: El recurso potestativo de reposición se interpone contra actos que pongan fin a la vía administrativa.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2234,
+    "question": "Según la Ley 39/2015, la interposición del recurso potestativo de reposición:",
+    "answers": {
+      "A": "Suspende automáticamente la ejecución del acto.",
+      "B": "Impide acudir a la vía contencioso-administrativa hasta su resolución.",
+      "C": "Permite interponer simultáneamente recurso contencioso-administrativo.",
+      "D": "Sustituye al recurso de alzada."
+    },
+    "correct_answer": "B",
+    "explanation": "Según la Ley 39/2015, la interposición del recurso potestativo de reposición: Impide acudir a la vía contencioso-administrativa hasta su resolución.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2235,
+    "question": "Según la Ley 39/2015, el plazo máximo para dictar y notificar resolución en el recurso de alzada será de:",
+    "answers": {
+      "A": "Un mes.",
+      "B": "Dos meses.",
+      "C": "Tres meses.",
+      "D": "Seis meses."
+    },
+    "correct_answer": "C",
+    "explanation": "Según la Ley 39/2015, el plazo máximo para dictar y notificar resolución en el recurso de alzada será de: Tres meses.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2236,
+    "question": "Según la Ley 39/2015, transcurrido el plazo para resolver el recurso de alzada sin que recaiga resolución expresa:",
+    "answers": {
+      "A": "Se entenderá estimado por silencio administrativo.",
+      "B": "Se entenderá desestimado por silencio administrativo.",
+      "C": "Se producirá la caducidad del procedimiento.",
+      "D": "Se archivará automáticamente el recurso"
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 113: Transcurrido plazo sin resolución, se entenderá desestimado por silencio administrativo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2237,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso potestativo de reposición será de:",
+    "answers": {
+      "A": "Un mes si el acto es expreso.",
+      "B": "Dos meses si el acto es expreso.",
+      "C": "Tres meses desde la notificación.",
+      "D": "En cualquier momento"
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 115: Plazo para interponer recurso potestativo de reposición es un mes si acto es expreso.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2238,
+    "question": "Según la Ley 39/2015, el plazo máximo para resolver el recurso potestativo de reposición será de:",
+    "answers": {
+      "A": "Un mes.",
+      "B": "Dos meses.",
+      "C": "Tres meses.",
+      "D": "Seis meses."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 115: Plazo máximo para resolver recurso potestativo de reposición es un mes.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2239,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
+    "answers": {
+      "A": "El acto sea anulable.",
+      "B": "Existan errores materiales evidentes.",
+      "C": "Aparezcan documentos de valor esencial ignorados al dictarse el acto.",
+      "D": "El interesado no haya sido notificado."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 117: Recurso revisión por aparición de documentos de valor esencial ignorados al dictarse el acto.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2240,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
+    "answers": {
+      "A": "Se haya dictado el acto fuera de plazo.",
+      "B": "Al dictarlos se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente.",
+      "C": "El acto no haya sido motivado.",
+      "D": "El interesado no esté conforme con la resolución."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 117: También procede cuando se incurra en error de hecho que resulte de documentos incorporados al expediente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2241,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso extraordinario de revisión por error de hecho será de:",
+    "answers": {
+      "A": "Un año desde la notificación del acto impugnado.",
+      "B": "Dos años desde la notificación del acto impugnado.",
+      "C": "Cuatro años desde la notificación del acto impugnado.",
+      "D": "En cualquier momento."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 119: Plazo para interponerlo por error de hecho es de 4 años desde notificación.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2242,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión por aparición de documentos de valor esencial deberá interponerse en el plazo de:",
+    "answers": {
+      "A": "Un mes desde el conocimiento de los documentos.",
+      "B": "Tres meses desde el conocimiento de los documentos.",
+      "C": "Cuatro months desde el conocimiento de los documentos",
+      "D": "En cualquier momento."
+    },
+    "correct_answer": "B",
+    "explanation": "Según la Ley 39/2015, el recurso extraordinario de revisión por aparición de documentos de valor esencial deberá interponerse en el plazo de tres meses desde el conocimiento de los documentos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2243,
+    "question": "Según la Ley 39/2015, contra la resolución del recurso extraordinario de revisión:",
+    "answers": {
+      "A": "Cabe recurso de alzada.",
+      "B": "Cabe recurso potestativo de reposición.",
+      "C": "Cabe un nuevo recurso extraordinario de revisión.",
+      "D": "No cabe ningún otro recurso administrativo."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 39/2015 art. 118: Contra resolución del recurso extraordinario de revisión no cabe ningún otro recurso administrativo.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2244,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión se interpondrá ante:",
+    "answers": {
+      "A": "El órgano superior jerárquico.",
+      "B": "El órgano que dictó el acto impugnado.",
+      "C": "El órgano instructor del procedimiento.",
+      "D": "El órgano competente para resolver el recurso de alzada."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 118: Se interpone ante el órgano que dictó el acto impugnado.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2245,
+    "question": "Según la Ley 39/2015, será causa de inadmisión de un recurso administrativo:",
+    "answers": {
+      "A": "Que el interesado no esté conforme con la resolución.",
+      "B": "Carecer manifiestamente de fundamento.",
+      "C": "Que el recurso se interponga por vía electrónica.",
+      "D": "Que el acto sea anulable."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 120: Causa inadmisión es carecer manifiestamente de fundamento.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2246,
+    "question": "Según la Ley 39/2015, la interposición de un recurso administrativo:",
+    "answers": {
+      "A": "Suspende automáticamente la ejecución del acto impugnado.",
+      "B": "Suspende siempre la ejecución en vía administrativa.",
+      "C": "No suspende la ejecución del acto, salvo que una norma lo establezca o se acuerde motivadamente.",
+      "D": "Impide la notificación del acto."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 114: No suspende la ejecución salvo que norma lo establezca o se acuerde motivadamente.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2247,
+    "question": "Según la Ley 39/2015, la competencia para resolver un recurso de alzada corresponde:",
+    "answers": {
+      "A": "Al mismo órgano que dictó el acto.",
+      "B": "Al órgano superior jerárquico del que dictó el acto.",
+      "C": "Al órgano instructor del procedimiento.",
+      "D": "Al órgano que determine el interesado."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 109: Corresponde resolver al órgano superior jerárquico del que dictó el acto.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2248,
+    "question": "Según la Ley 39/2015, los actos administrativos que incurran en defectos formales:",
+    "answers": {
+      "A": "Serán anulables cuando carezcan de los requisitos formales indispensables o produzca indefensión.",
+      "B": "Serán siempre nulos de pleno derecho.",
+      "C": "No producirán efectos jurídicos.",
+      "D": "Se considerarán inexistentes."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 53: Serán anulables cuando carezcan de requisitos formales indispensables o produzcan indefensión.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2249,
+    "question": "Según la Ley 39/2015, los actos nulos de pleno derecho:",
+    "answers": {
+      "A": "Podrán convalidarse en cualquier caso.",
+      "B": "Podrán subsanarse por el transcurso del tiempo.",
+      "C": "No serán susceptibles de convalidación.",
+      "D": "Serán anulables si no se impugnan en plazo."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 107: Los actos nulos de pleno derecho no serán susceptibles de convalidación.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2250,
+    "question": "Según la Ley 39/2015, los actos administrativos podrán tener efectos retroactivos:",
+    "answers": {
+      "A": "En ningún caso.",
+      "B": "Cuando así lo establezca siempre una norma con rango de ley.",
+      "C": "Cuando produzcan efectos favorables y no lesionen derechos o intereses legítimos de otras personas.",
+      "D": "Únicamente en procedimientos sancionadores."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 58: Podrán tener efectos retroactivos cuando produzcan efectos favorables y no lesionen derechos de terceros.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2251,
+    "question": "Según la Ley 39/2015, los actos anulables podrán ser convalidados:",
+    "answers": {
+      "A": "En cualquier momento y por cualquier órgano.",
+      "B": "Por el órgano que los dictó o su superior jerárquico, subsanando los vicios de que adolezcan.",
+      "C": "Únicamente mediante recurso contencioso-administrativo.",
+      "D": "Solo cuando lo solicite el interesado."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 107: Los anulables podrán ser convalidados por el órgano que los dictó o su superior subsanando vicios.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2252,
+    "question": "Según la Ley 39/2015, la ampliación de plazos:",
+    "answers": {
+      "A": "Podrá concederse de oficio o a petición de los interesados si las circunstancias lo aconsejan.",
+      "B": "Solo podrá concederse a instancia del interesado.",
+      "C": "Será automática cuando el procedimiento sea complejo.",
+      "D": "Podrá concederse aunque haya expirado el plazo inicialmente concedido."
+    },
+    "correct_answer": "A",
+    "explanation": "Ley 39/2015 art. 95: La ampliación de plazos podrá concederse de oficio o a petición si las circunstancias lo aconsejan.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2253,
+    "question": "Según la Ley 39/2015, cuando se acumulen procedimientos:",
+    "answers": {
+      "A": "Será obligatoria la acumulación en todo caso.",
+      "B": "Solo se acumularán procedimientos sancionadores.",
+      "C": "La acumulación requerirá consentimiento del interesado.",
+      "D": "Podrán acumularse procedimientos que guarden identidad sustancial o íntima conexión."
+    },
+    "correct_answer": "D",
+    "explanation": "Ley 39/2015 art. 80: Podrán acumularse procedimientos que guarden identidad sustancial o íntima conexión.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2254,
+    "question": "Según la Ley 39/2015, los términos y plazos establecidos en la Ley:",
+    "answers": {
+      "A": "Solo obligan al personal al servicio de las Administraciones",
+      "B": "Solo obligan a los interesados.",
+      "C": "Obligan tanto a las autoridades y personal al servicio de las Administraciones Públicas como a los interesados.",
+      "D": "Son siempre improrrogables."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 46: Los términos y plazos obligan tanto a autoridades y personal como a interesados.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2255,
+    "question": "Según la Ley 39/2015, cuando una notificación sea rechazada por el interesado:",
+    "answers": {
+      "A": "Se repetirá automáticamente.",
+      "B": "Se considerará intentada sin efecto.",
+      "C": "Se entenderá practicada a todos los efectos legales.",
+      "D": "Se archivará el procedimiento."
+    },
+    "correct_answer": "C",
+    "explanation": "Ley 39/2015 art. 41: Cuando la notificación sea rechazada por el interesado se entenderá practicada a todos los efectos.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2256,
+    "question": "Según la Ley 39/2015, cuando la notificación se practique por medios electrónicos y no sea posible acceder a su contenido:",
+    "answers": {
+      "A": "Se entenderá rechazada de inmediato.",
+      "B": "Se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin acceder a su contenido.",
+      "C": "Se entenderá rechazada cuando hayan transcurrido quince días naturales desde su puesta a disposición sin acceder a su contenido.",
+      "D": "Se entenderá rechazada cuando haya transcurrido un mes desde su puesta a disposición sin acceder a su contenido."
+    },
+    "correct_answer": "B",
+    "explanation": "Según la Ley 39/2015, cuando la notificación se practique por medios electrónicos y no sea posible acceder a su contenido: Se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin acceder a su contenido.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2257,
+    "question": "Según la Ley 39/2015, la nulidad de pleno derecho podrá declararse:",
+    "answers": {
+      "A": "Solo a instancia del interesado.",
+      "B": "De oficio o a instancia del interesado.",
+      "C": "Exclusivamente por vía judicial.",
+      "D": "Únicamente en recurso extraordinario de revisión."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 53: La nulidad de pleno derecho podrá declararse de oficio o a instancia de parte.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2258,
+    "question": "Según la Ley 39/2015, los actos administrativos se presumen:",
+    "answers": {
+      "A": "Nulos mientras no se declare su validez.",
+      "B": "Válidos y producen efectos desde la fecha en que se dicten, salvo disposición en contrario.",
+      "C": "Anulables salvo que se confirme su legalidad.",
+      "D": "Ineficaces hasta su publicación."
+    },
+    "correct_answer": "B",
+    "explanation": "Ley 39/2015 art. 55: Los actos se presumen válidos y producen efectos desde la fecha en que se dicten.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  },
+  {
+    "id": 2259,
+    "question": "Según la Ley 39/2015, el silencio administrativo en procedimientos iniciados a solicitud del interesado tendrá carácter:",
+    "answers": {
+      "A": "Siempre negativo.",
+      "B": "Siempre positivo.",
+      "C": "Estimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario.",
+      "D": "Desestimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario."
+    },
+    "correct_answer": "C",
+    "explanation": "Según la Ley 39/2015, el silencio administrativo en procedimientos iniciados a solicitud del interesado tendrá carácter: Estimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario.",
+    "category_name": "Auxiliar Administrativo",
+    "category_color": "blue"
+  }
+]

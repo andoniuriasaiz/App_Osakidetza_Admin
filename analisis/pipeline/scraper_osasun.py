@@ -111,11 +111,17 @@ def scrape_category(cat_key: str, force: bool = False) -> dict:
                 merged[num_str] = letter
                 updated += 1
 
-    # Guardar
+    # Guardar (Ordenado por ID si es numérico, si no alfabético)
+    def sort_key(x):
+        try:
+            return (0, int(x[0]))
+        except ValueError:
+            return (1, x[0])
+
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as fh:
         json.dump(
-            dict(sorted(merged.items(), key=lambda x: int(x[0]))),
+            dict(sorted(merged.items(), key=sort_key)),
             fh, ensure_ascii=False, indent=2
         )
     with open(out_path, "a", encoding="utf-8") as fh:

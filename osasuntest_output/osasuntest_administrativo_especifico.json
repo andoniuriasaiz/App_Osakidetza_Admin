@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 4587,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, son empleados públicos:",
+    "answers": {
+      "A": "Quienes desempeñan funciones no retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+      "B": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses particulares.",
+      "C": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+      "D": "Quienes desempeñan funciones no retribuidas en las Administraciones Públicas al servicio de los intereses particulares."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 1.1 EBEP (RD-Leg 5/2015): Son empleados públicos quienes desempeñan funciones retribuidas al servicio de intereses generales.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4588,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, son funcionarios interinos, cuando se dé alguna de las siguientes circunstancias:",
+    "answers": {
+      "A": "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+      "B": "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a un año, ampliable hasta doce meses más por las leyes de Función Pública.",
+      "C": "El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de 3 años.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 10.1 EBEP: Son causas de interinidad la sustitución transitoria, programas temporales (hasta 1 año ampliable 12 meses) y exceso/acumulación tareas (9 meses en 3 años).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4589,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la Administración formalizará de oficio la finalización de la relación de interinidad por cualquiera de las siguientes causas, además de por las previstas en el artículo 63, sin derecho a compensación alguna:",
+    "answers": {
+      "A": "Por la cobertura reglada del puesto por personal funcionario de carrera a través de cualquiera de los procedimientos legalmente establecidos.",
+      "B": "Por razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados.",
+      "C": "Por la finalización de la causa que dio lugar a su nombramiento.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 10.4 EBEP: La Administración finalizará la interinidad por cobertura reglada, razones organizativas o finalización de la causa, sin compensación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4590,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, es personal laboral:",
+    "answers": {
+      "A": "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios no retribuidos por las Administraciones Públicas.",
+      "B": "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas.",
+      "C": "El que, en virtud de contrato de trabajo formalizado verbalmente, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas.",
+      "D": "El que, en virtud de contrato de trabajo formalizado por escrito o verbalmente, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios no retribuidos por las Administraciones Públicas."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 2.1 EBEP: Es personal laboral el que presta servicios retribuidos mediante contrato de trabajo formalizado por escrito.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4591,
+    "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, es personal eventual:",
+    "answers": {
+      "A": "El que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.",
+      "B": "El que, en virtud de nombramiento y con carácter permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial...",
+      "C": "El que, en virtud de nombramiento y con carácter permanente, realiza algunas funciones no calificadas como de confianza...",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 3 EBEP: Personal eventual es el de nombramiento no permanente para funciones de confianza/asesoramiento, retribuido con cargo a créditos presupuestarios.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4592,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud se define como:",
+    "answers": {
+      "A": "Ente Público de Derecho Público, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones públicas de servicios sanitarios dependientes del mismo.",
+      "B": "Ente Público de Derecho Público, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de organizaciones privadas...",
+      "C": "Ente Público de Derecho Privado... organizaciones públicas...",
+      "D": "Ente Público de Derecho Privado... organizaciones privadas..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 2.1 Decreto 255/1997: Ente Público de Derecho Público para provisión servicios sanitarios mediante organizaciones públicas dependientes.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4593,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud tiene como fines:",
+    "answers": {
+      "A": "Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes sin tener en cuenta la calidad de la misma.",
+      "B": "Proporcionar... promoviendo la mejora continua de los niveles de información, siempre que dicha atención no sea personalizada.",
+      "C": "Proporcionar... promoviendo la mejora continua de los niveles de información, la personalización en la atención y la calidad de la misma.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 4.A) Decreto 255/1997: Fines incluyen promover mejora continua de información, personalización y calidad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4594,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Ente Público Osakidetza-Servicio vasco de salud NO tiene como fin:",
+    "answers": {
+      "A": "Promover la docencia en ciencias de la salud.",
+      "B": "Promover la formación y actualización de su personal sanitario.",
+      "C": "Promover la formación y actualización de su personal no sanitario.",
+      "D": "Promover la creación de empresas privadas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 4.B) y C) Decreto 255/1997: Entre los fines están promover docencia, formación sanitaria y no sanitaria, pero no creación de empresas privadas.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4595,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, la organización rectora comprende a:",
+    "answers": {
+      "A": "Presidente y Consejo de Administración.",
+      "B": "Director del centro y Consejo de Administración.",
+      "C": "Dirección y Comité de empresa.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 11 Decreto 255/1997: La organización rectora se compone del Presidente y el Consejo de Administración.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4596,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, la Presidencia corresponde a:",
+    "answers": {
+      "A": "Lehendakari.",
+      "B": "Consejero de Sanidad.",
+      "C": "Kutxa Fundazioa.",
+      "D": "Presidente del Gobierno."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 12 Decreto 255/1997: La Presidencia del Ente corresponde al Consejero de Sanidad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4597,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cuál de estas funciones de la Presidencia es FALSA:",
+    "answers": {
+      "A": "Ejercer la representación del Ente Público.",
+      "B": "Supervisar las operaciones del Ente Público y presentar al Consejo de Administración los informes que considere oportunos.",
+      "C": "Ejercer la representación del Consejo de Administración.",
+      "D": "No tiene potestad para supervisar las operaciones del Ente Público."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 13 Decreto 255/1997: El Presidente ejerce representación del Ente y del Consejo, y supervisa operaciones (por tanto D es falsa).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4598,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración se encarga principalmente de:",
+    "answers": {
+      "A": "Asesoramiento a otras empresas.",
+      "B": "Formación e información.",
+      "C": "Comunicación y redes sociales.",
+      "D": "Dirigir y controlar sus actuaciones."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 14 Decreto 255/1997: El Consejo se encarga de dirigir y controlar las actuaciones del Ente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4599,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración está compuesto por:",
+    "answers": {
+      "A": "Seis miembros en representación de la Administración de la Comunidad Autónoma.",
+      "B": "Ocho miembros...",
+      "C": "Presidente del Ente Público y cinco miembros en representación de la Administración de la Comunidad Autónoma.",
+      "D": "Presidente del Ente Público y el Lehendakari."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 15 Decreto 255/1997: Consejo compuesto por el Presidente del Ente y 5 miembros representación Administración CCAA.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4600,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, corresponde al Presidente del Ente Público:",
+    "answers": {
+      "A": "Convocar, presidir, suspender y levantar las sesiones del Consejo de Administración.",
+      "B": "Arbitrar las deliberaciones del Consejo de Administración.",
+      "C": "Decidir los empates con su voto de calidad en las sesiones del Consejo de Administración.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 16 Decreto 255/1997: Al Presidente del Ente le corresponden todas estas funciones en el Consejo.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4601,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, el Consejo de Administración tiene las siguientes funciones:",
+    "answers": {
+      "A": "Aprobar, a propuesta del Presidente, los criterios y líneas generales de actuación del Ente Público...",
+      "B": "Aprobar la propuesta de Presupuestos, Estados Financieros Previsionales y Memoria anual...",
+      "C": "Aprobar, a propuesta del Director General, el Plan Estratégico del Ente Público.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 17 Decreto 255/1997: Todas estas son funciones del Consejo de Administración.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4602,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, al Director General NO le corresponde en sus funciones:",
+    "answers": {
+      "A": "Ejercer la dirección de todos los servicios y del personal del Ente Público.",
+      "B": "En los Consejos de Administración decidir los empates con su voto de calidad.",
+      "C": "Ejecutar los acuerdos del Consejo de Administración.",
+      "D": "Nombrar y separar a los Directores-Gerentes de las organizaciones de servicios sanitarios del Ente Público."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 18 Decreto 255/1997: El Director General ejecuta acuerdos, dirige servicios/personal, nombra Directores-Gerentes, pero no decide empates en Consejo (eso es del Presidente del Consejo).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4603,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, corresponde a la organización central de administración y gestión corporativa:",
+    "answers": {
+      "A": "Establecer las reglas generales sobre representación, comunicación e imagen oficial...",
+      "B": "Elaborar el Plan estratégico del Ente Público.",
+      "C": "Suministrar servicios comunes de asesoramiento y apoyo técnico.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 20 Decreto 255/1997: La organización central gestiona reglas generales, plan estratégico (elaborado por Dirección General) y servicios comunes.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4604,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, NO corresponde a la organización central en materia específica de gestión de recursos humanos la siguiente facultad:",
+    "answers": {
+      "A": "Dirigir el funcionamiento del registro de personal.",
+      "B": "Elaborar el Plan estratégico del Ente Público.",
+      "C": "Supervisar, controlar y evaluar las políticas de personal del Ente.",
+      "D": "Gestionar los procesos de selección y de provisión."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 21 Decreto 255/1997: El Plan Estratégico es elaborado por la Dirección General, no por la organización central de RRHH (que lo ejecuta).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4605,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cual de estas afirmaciones es correcta en referencia a las facultades de las organizaciones de servicios:",
+    "answers": {
+      "A": "Corresponde a cada organización de servicios... el ejercicio de todas las facultades de gestión y administración... quedando excluidas únicamente aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente.",
+      "B": "NO es responsabilidad de cada organización de servicios...",
+      "C": "SÓLO es responsabilidad de algunas organizaciones de servicios con características específicas...",
+      "D": "Corresponde a cada organización... quedando incluidas aquellas facultades de gestión centralizada..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 25 Decreto 255/1997: Las organizaciones de servicios ejercen todas las facultades excepto las centralizadas expresamente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4606,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, al frente de cada organización de servicios sanitarios del Ente Público se encontrará:",
+    "answers": {
+      "A": "El Presidente.",
+      "B": "Un Director-Gerente.",
+      "C": "El Consejo de Administración.",
+      "D": "El Responsable de Recursos Humanos."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 26 Decreto 255/1997: Al frente de cada organización de servicios está un Director-Gerente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4607,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, cuál de estas afirmaciones es FALSA. Al Director-Gerente le corresponderá:",
+    "answers": {
+      "A": "Ostentar la representación oficial de la organización y ejercer la autoridad directa dentro de la misma.",
+      "B": "Dirigir e impulsar la investigación, docencia y formación en el seno de su organización.",
+      "C": "Suscribir el contrato-programa en representación de la organización respectiva.",
+      "D": "Dirigir e impulsar la investigación, docencia y formación en el seno de las Universidades y Centros de Formación Profesional privados."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 27 Decreto 255/1997: El Director-Gerente dirige investigación/docencia/formación en su organización, no en universidades/centros privados externos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4608,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, con carácter ordinario, a la Dirección Médica le corresponderán las siguientes atribuciones:",
+    "answers": {
+      "A": "Dirigir, coordinar y evaluar las actividades de gestión administrativa.",
+      "B": "Dirigir, coordinar y evaluar las actividades de la Dirección General.",
+      "C": "Presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento.",
+      "D": "Dirigir, coordinar y evaluar la gestión de recursos humanos."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 30 Decreto 255/1997: La Dirección Médica preside los Consejos Técnicos de participación profesional.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4609,
+    "question": "Según el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente Público Osakidetza-Servicio vasco de salud, señala cuál de estas afirmaciones es correcta:",
+    "answers": {
+      "A": "Las organizaciones... no llevarán la información económico-financiera...",
+      "B": "Tanto el Ente como cada organización llevará su propia información... no siendo elaborada de acuerdo a criterios del Plan General de Contabilidad...",
+      "C": "Tanto el Ente como cada organización llevará su propia información económico-financiera, elaborada de acuerdo a criterios del Plan General de Contabilidad adaptado a empresas de asistencia sanitaria y normativa Entes Públicos Derecho Privado.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Disposición Adicional 1ª Decreto 255/1997: Información económico-financiera según Plan General Contabilidad adaptado y normativa Entes Públicos Derecho Privado.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4610,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los Puestos Funcionales se constituyen:",
+    "answers": {
+      "A": "Como instrumento de clasificación del personal orientado a la organización, promoción y desarrollo integral del personal.",
+      "B": "Como instrumento de clasificación del personal orientado a la formación del personal.",
+      "C": "Como instrumento de clasificación del personal según sus conocimientos informáticos.",
+      "D": "Como instrumento de clasificación del personal orientado a la gestión de las jubilaciones y relevos."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 1 Decreto 186/2005: Instrumento clasificación orientado a organización, promoción y desarrollo integral.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4611,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, se entiende por Puesto Funcional:",
+    "answers": {
+      "A": "Toda agrupación de efectivos por razón común respecto a cinco ámbitos funcionales...",
+      "B": "Toda agrupación de efectivos por razón común respecto a uno o más ámbitos funcionales, diferenciada... en cuanto a exigencias de requerimientos profesionales...",
+      "C": "Toda agrupación... sin diferenciarse...",
+      "D": "Toda agrupación sin razón común..."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 2.1 Decreto 186/2005: Definición de Puesto Funcional por razón común en uno o más ámbitos funcionales.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4612,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los Puestos Funcionales vendrán identificados según:",
+    "answers": {
+      "A": "Procedencia.",
+      "B": "Edad.",
+      "C": "Perfil profesional requerido.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 3 Decreto 186/2005: Los puestos se identifican por perfil profesional requerido, no por edad o procedencia.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4613,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, los efectos retributivos asignados:",
+    "answers": {
+      "A": "Es un aspecto que identifica los Puestos Funcionales.",
+      "B": "Es un aspecto que identifica los Puestos Funcionales en determinadas ocasiones.",
+      "C": "Es un aspecto que no identifica los Puestos Funcionales.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 3 Decreto 186/2005: Los efectos retributivos son complementos, no identifican el puesto.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4614,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, la edad:",
+    "answers": {
+      "A": "Es un aspecto que identifica los Puestos Funcionales.",
+      "B": "Es un aspecto que identifica los Puestos Funcionales en Guipúzcoa.",
+      "C": "Es un aspecto que identifica los Puestos Funcionales en Vizcaya.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 3 Decreto 186/2005: La edad no es criterio identificación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4615,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, el Perfil Profesional requerido para su desempeño estará constituido por:",
+    "answers": {
+      "A": "La titulación o titulaciones, el carnet de conducir y el perfil lingüístico.",
+      "B": "La titulación o titulaciones, la experiencia y fecha de nacimiento.",
+      "C": "La titulación o titulaciones, la experiencia y el perfil lingüístico.",
+      "D": "La titulación... lugar de procedencia y el perfil lingüístico."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 4 Decreto 186/2005: Perfil profesional = titulación, experiencia y perfil lingüístico.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4616,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "answers": {
+      "A": "La provisión de los Puestos Funcionales los regulará el/la responsable del departamento de Recursos Humanos...",
+      "B": "La provisión... los regulará el Consejo de Administración...",
+      "C": "La provisión... los regulará el Comité de Médicos...",
+      "D": "La provisión... los regulará el Sindicato..."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 5 Decreto 186/2005: La provisión la regula el Consejo de Administración.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4617,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza, el número de efectivos de las Plantillas Funcionales vendrá limitada por:",
+    "answers": {
+      "A": "La Plantilla Estructural aprobada por el Consejo de Administración... constituida por el total de efectivos por Grupo Profesional...",
+      "B": "...constituida por algunos efectivos...",
+      "C": "...constituida por un 25% de efectivos...",
+      "D": "...constituida por un 50% de efectivos..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 6 Decreto 186/2005: Limitada por Plantilla Estructural (total efectivos por Grupo Profesional).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4618,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "answers": {
+      "A": "Los efectivos... no podrán ser objeto de modificación...",
+      "B": "El 25% de los efectivos... podrán ser objeto de modificación...",
+      "C": "El 50% de los efectivos... podrán ser objeto de modificación...",
+      "D": "Los efectivos... podrán ser objeto de modificación mediante traslado, amortización y creación..."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 7 Decreto 186/2005: Los efectivos pueden ser objeto de modificación mediante traslado, amortización o creación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4619,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "answers": {
+      "A": "Los efectivos... podrán ser objeto de traslado entre las mismas mediante Resolución del Director General...",
+      "B": "Los efectivos... no pueden ser objeto de traslado entre las mismas...",
+      "C": "Los efectivos... podrán ser objeto de traslado sólo dentro de la misma organización...",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 8 Decreto 186/2005: Traslados entre organizaciones mediante Resolución Director General.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4620,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "answers": {
+      "A": "Las modificaciones... que no conlleven alteración de la Plantilla Estructural... serán aprobadas por Resolución del Director-Gerente...",
+      "B": "...serán aprobadas por Resolución del Consejo de Administración.",
+      "C": "...serán aprobadas por Resolución de la Dirección Médica.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 9.1 Decreto 186/2005: Modificaciones sin alterar Plantilla Estructural: Director-Gerente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4621,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "answers": {
+      "A": "Las modificaciones... que impliquen variación de la Plantilla Estructural... estarán sujetas a consideración/aprobación del Director-Gerente... debiendo ser aprobados por Consejo Gobierno si alteran número máximo efectivos...",
+      "B": "...estarán sujetas a Consejo Administración... debiendo ser aprobados por Consejo Gobierno si NO suponen alteración...",
+      "C": "...estarán sujetas a Consejo Administración... debiendo ser aprobados por Consejo Gobierno si suponen alteración del número máximo efectivos por Grupo Profesional.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 9.2 Decreto 186/2005: Variación Plantilla Estructural: Consejo Administración; si altera número máximo efectivos: Consejo Gobierno.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4622,
+    "question": "Según el Decreto 186/2005, de 19 de julio, de Puestos Funcionales del Ente Público Osakidetza:",
+    "answers": {
+      "A": "Las modificaciones de Plantilla no hay obligación de notificar a los trabajadores...",
+      "B": "Las modificaciones... se deberán notificar a los trabajadores...",
+      "C": "Las modificaciones... se deberán notificar en algunos casos...",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 10 Decreto 186/2005: Se notificarán a los trabajadores desempeñando el puesto modificado.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4623,
+    "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, tiene como objeto:",
+    "answers": {
+      "A": "Ampliar y reforzar la transparencia de la actividad pública.",
+      "B": "Regular y garantizar el derecho de acceso a la información relativa a aquella actividad.",
+      "C": "Establecer las obligaciones de buen gobierno...",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 1 Ley 19/2013: Objeto incluye transparencia, acceso información y buen gobierno.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4624,
+    "question": "Según la Ley 19/2013... la transparencia de la actividad pública se aplicará a:",
+    "answers": {
+      "A": "La Administración General del Estado, las Administraciones de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla y las entidades que integran la Administración Local.",
+      "B": "Únicamente a la Administración de Guipúzcoa...",
+      "C": "Las Administraciones de las Comunidades Autónomas exceptuando Ceuta y Melilla...",
+      "D": "Únicamente las Administraciones del País Vasco..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 2.1 Ley 19/2013: Ámbito objetivo incluye Admin General Estado, CCAA, Ceuta/Melilla y Admin Local.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4625,
+    "question": "Según la Ley 19/2013... la transparencia... se aplicará a:",
+    "answers": {
+      "A": "Las entidades gestoras y los servicios que no sean comunes de la Seguridad Social.",
+      "B": "Las mutuas de accidente de trabajo... que no sean colaboradoras...",
+      "C": "Las entidades gestoras y los servicios comunes de la Seguridad Social, así como las mutuas colaboradoras.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 2.1.I) Ley 19/2013: Incluye entidades gestoras/servicios comunes Seguridad Social y mutuas colaboradoras.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4626,
+    "question": "Según la Ley 19/2013... la transparencia... se aplicará a:",
+    "answers": {
+      "A": "Los organismos autónomos y las Agencias Estatales... funciones regulación/supervisión...",
+      "B": "Las entidades públicas empresariales... funciones regulación/supervisión...",
+      "C": "Las entidades de Derecho Público... funciones regulación/supervisión...",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 2.1 Ley 19/2013: Incluye organismos autónomos, agencias estatales y entidades derecho público con funciones regulación/supervisión.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4627,
+    "question": "Según la Ley 19/2013... la transparencia... se aplicará a:",
+    "answers": {
+      "A": "Las entidades de Derecho Público con personalidad jurídica propia, sin vinculación a cualquiera de las Administraciones Públicas.",
+      "B": "Las entidades de Derecho Público con personalidad jurídica propia, vinculadas a cualquiera de las Administraciones Públicas o dependientes de ellas, incluidas las Universidades públicas.",
+      "C": "...sin vinculación... incluidas las Universidades privadas.",
+      "D": "...vinculadas... incluidas las Universidades privadas."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 2.1.K) Ley 19/2013: Entidades Derecho Público vinculadas/dependientes incluyendo universidades públicas.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4628,
+    "question": "Según la Ley 19/2013... la transparencia... se aplicará a:",
+    "answers": {
+      "A": "La Casa de su Majestad el Rey.",
+      "B": "El Banco de España.",
+      "C": "El Consejo General del Poder Judicial.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 2.2 Ley 19/2013: Aplicación a Casa Real, Banco España y CGPJ con matices.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4629,
+    "question": "Según la Ley 19/2013... la transparencia... se aplicará a:",
+    "answers": {
+      "A": "Las sociedades mercantiles en cuyo capital social la participación... sea igual al 50 por 100.",
+      "B": "...sea inferior al 50 por 100.",
+      "C": "...sea superior al 25 por 100.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 2.3 Ley 19/2013: Sociedades mercantiles con participación directa/indirecta igual o superior al 50%.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4630,
+    "question": "Según la Ley 19/2013... también estarán obligados:",
+    "answers": {
+      "A": "Las organizaciones sindicales.",
+      "B": "Las organizaciones empresariales.",
+      "C": "Las asociaciones de pacientes y familiares.",
+      "D": "a) y b) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 3.1.A) Ley 19/2013: Organizaciones sindicales y empresariales que reciban subvenciones.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4631,
+    "question": "Según la Ley 19/2013... también estarán obligados:",
+    "answers": {
+      "A": "Entidades privadas... ayudas/subvenciones &gt;100.000€ o 40% ingresos (mín 5.000€).",
+      "B": "...&gt;35.000€ o 30% ingresos (mín 10.000€).",
+      "C": "...&gt;55.000€ o 20% ingresos (mín 25.000€).",
+      "D": "...&gt;45.000€ o 10% ingresos (mín 15.000€)."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 3.1.B) Ley 19/2013: Entidades privadas con ayudas &gt;100.000€ o 40% ingresos si mínimo 5.000€.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4632,
+    "question": "Según la Ley 19/2013... la información sujeta a obligaciones de transparencia será publicada...",
+    "answers": {
+      "A": "...de una manera difícil de entender...",
+      "B": "...de una manera clara, estructurada y entendible... en formatos reutilizables.",
+      "C": "...de una manera clara... en formatos que no se puedan volver a reutilizar.",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 5.1 Ley 19/2013: Información clara, estructurada, entendible y en formatos reutilizables.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4633,
+    "question": "Según la Ley 19/2013... Toda la información será...",
+    "answers": {
+      "A": "...de acceso fácil y con un coste mínimo... accesible/comprensible conforme accesibilidad universal.",
+      "B": "...coste mínimo... a veces accesible...",
+      "C": "...gratuito... accesible/comprensible...",
+      "D": "...gratuito... dificulte accesibilidad."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 5.2 Ley 19/2013: Coste mínimo (no gratuito) y accesibilidad universal.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4634,
+    "question": "Según la Ley 19/2013... Los sujetos comprendidos... publicarán información relativa a...",
+    "answers": {
+      "A": "Las funciones que desarrollan, la normativa que les sea de aplicación, así como a su estructura organizativa.",
+      "B": "Incluirán un organigrama actualizado...",
+      "C": "Incluirán su perfil y trayectoria profesional.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 6.1 y 6.2 Ley 19/2013: Funciones, normativa, estructura, organigrama, perfil profesional.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4635,
+    "question": "Según la Ley 19/2013... El grado de cumplimiento y resultados... deberán ser objeto de evaluación y publicación periódica...",
+    "answers": {
+      "A": "...junto con los indicadores de medida y valoración...",
+      "B": "...pero no de la publicación periódica.",
+      "C": "Las Administraciones no publicarán los planes...",
+      "D": "...sin adjuntar los indicadores..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 6.3 Ley 19/2013: Evaluación y publicación periódica con indicadores.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4636,
+    "question": "Según la Ley 19/2013... las Administraciones Públicas... publicarán:",
+    "answers": {
+      "A": "Los documentos que... deban ser sometidos a un período de información pública...",
+      "B": "Las directrices, instrucciones... que supongan interpretación del Derecho o tengan efectos jurídicos.",
+      "C": "Los Anteproyectos de Ley... cuando se soliciten los dictámenes...",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 7.A), B), C) Ley 19/2013: Publicación documentos en tramitación, directivas con efectos jurídicos, anteproyectos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4637,
+    "question": "Según la Ley 19/2013... deberán hacer pública: Todos los contratos, con indicación...",
+    "answers": {
+      "A": "...del objeto y duración. El importe... no es necesario publicarlo...",
+      "B": "...del objeto, duración, importes licitación/adjudicación, procedimiento, instrumentos publicidad, número licitadores, identidad adjudicatario, modificaciones.",
+      "C": "...del objeto, duración... No es necesario publicar la identidad del adjudicatario...",
+      "D": "No es necesario publicar..."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 7.D) Ley 19/2013: Contratos con todos los detalles incluyendo adjudicatario y modificaciones.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4638,
+    "question": "Según la Ley 19/2013... deberán hacer pública: Las subvenciones y ayudas públicas concedidas...",
+    "answers": {
+      "A": "...sin indicar el importe, objetivo...",
+      "B": "...con indicación de su importe, objetivo... pero sin indicar quiénes son los beneficiarios.",
+      "C": "...con indicación de su importe, objetivo o finalidad y beneficiarios.",
+      "D": "...sin indicar su importe... ni tampoco quiénes son los beneficiarios."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 7.E) Ley 19/2013: Subvenciones con importe, objetivo y beneficiarios.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4639,
+    "question": "Según la Ley 19/2013... deberán hacer pública: Los presupuestos...",
+    "answers": {
+      "A": "...con descripción de las principales partidas... información actualizada sobre estado de ejecución y cumplimiento objetivos estabilidad.",
+      "B": "...sin la descripción...",
+      "C": "...con descripción... sin la información actualizada...",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 7.F) Ley 19/2013: Presupuestos con descripción partidas y estado ejecución.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4640,
+    "question": "Según la Ley 19/2013... El incumplimiento reiterado de las obligaciones de publicidad activa... tendrá la consideración de:",
+    "answers": {
+      "A": "Infracción grave.",
+      "B": "Infracción leve.",
+      "C": "No tendrá consideración de infracción.",
+      "D": "Se incentivará..."
+    },
+    "correct_answer": "A",
+    "explanation": "Disposición Adicional 10ª Ley 19/2013: Incumplimiento reiterado es infracción grave.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4641,
+    "question": "Según la Ley 19/2013... La Administración General del Estado desarrollará un Portal de Transparencia... que facilitará el acceso...",
+    "answers": {
+      "A": "...a los ciudadanos mayores de 50 años...",
+      "B": "...de los ciudadanos a toda la información...",
+      "C": "...a los ciudadanos mayores de 65 años...",
+      "D": "...de los ciudadanos a parte de la información..."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 12 Ley 19/2013: Portal Transparencia accesible a todos los ciudadanos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4642,
+    "question": "Según la Ley 19/2013... el Portal de Transparencia contendrá información... deberán adecuarse a los siguientes principios:",
+    "answers": {
+      "A": "Accesibilidad.",
+      "B": "Interoperabilidad.",
+      "C": "Reutilización.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 12.2 Ley 19/2013: Principios accesibilidad, interoperabilidad, reutilización.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4643,
+    "question": "Según el Decreto 235/2007... Indica de esta relación a qué personal de Osakidetza NO le será de aplicación:",
+    "answers": {
+      "A": "El personal funcionario de carrera de las organizaciones de servicios de Osakidetza.",
+      "B": "El personal estatutario fijo.",
+      "C": "El personal laboral temporal contratado de acuerdo con el artículo 26.6 de la Ley 8/1997...",
+      "D": "El personal con relación de empleo estatutaria o funcionarial de carácter interino..."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 2 Decreto 235/2007: Ámbito personal funcionario carrera, estatutario fijo e interino; NO incluye personal laboral temporal (art 26.6 Ley 8/1997 es personal laboral fijo temporal).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4644,
+    "question": "Según el Decreto 235/2007... con relación a la ropa de trabajo:",
+    "answers": {
+      "A": "Osakidetza proporcionará... ropa y calzado... siendo obligatorio su uso... reponiéndose en caso de deterioro...",
+      "B": "...siendo voluntario su uso...",
+      "C": "Osakidetza no proporcionará...",
+      "D": "...sólo para los fines de semana..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 11 Decreto 235/2007: Ropa de trabajo obligatoria y reposición en caso deterioro.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4645,
+    "question": "Según el Decreto 235/2007... La jubilación del personal estatutario y funcionario... se declarará de oficio:",
+    "answers": {
+      "A": "A los sesenta y cinco años de edad, pudiendo prolongar... hasta, como máximo, los sesenta y siete años.",
+      "B": "...hasta, como máximo, los setenta años.",
+      "C": "A los sesenta y cuatro años... hasta los setenta y siete.",
+      "D": "A los sesenta años... hasta los sesenta y cinco años."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 14 Decreto 235/2007: Jubilación oficio a 65 años, prolongable hasta 67.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4646,
+    "question": "Según el Decreto 235/2007... con carácter general... la jornada normalizada diaria será de:",
+    "answers": {
+      "A": "8 horas.",
+      "B": "6 horas.",
+      "C": "7 horas.",
+      "D": "7,5 horas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 22.1 Decreto 235/2007: Jornada normalizada 8 horas (salvo turnos rotatorios y Atención Primaria sábados).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4647,
+    "question": "Según el Decreto 235/2007... La jornada complementaria:",
+    "answers": {
+      "A": "No tendrá en ningún caso la condición ni el tratamiento establecido para las horas extraordinarias.",
+      "B": "Tendrá la condición y el tratamiento establecido para las horas extraordinarias.",
+      "C": "En algunos casos tendrá...",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 23.3 Decreto 235/2007: Jornada complementaria no tiene condición horas extraordinarias.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4648,
+    "question": "Según el Decreto 235/2007... El personal tendrá derecho a disfrutar... vacación retribuida:",
+    "answers": {
+      "A": "De 28 días laborales... computándose los sábados como laborales.",
+      "B": "Para los que no alcancen el año... será proporcional...",
+      "C": "Las vacaciones no podrán ser compensadas... excepto... extinción relación/excedencia...",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 25 Decreto 235/2007: 28 días laborales (sábados laborables), proporcional si no año completo, no compensables salvo extinción.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4649,
+    "question": "Según el Decreto 235/2007... se denominan Licencias:",
+    "answers": {
+      "A": "A las ausencias de trabajo no tipificadas...",
+      "B": "A las ausencias... tipificadas y justificadas... con antelación mínima de 30 días...",
+      "C": "A las ausencias... tipificadas y justificadas... con antelación mínima de 10 días...",
+      "D": "A las ausencias... tipificadas... solicitud verbal... 15 días..."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 28 Decreto 235/2007: Licencias son ausencias tipificadas/justificadas, solicitud escrito 10 días.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4650,
+    "question": "Según el Decreto 235/2007... la licencia por enfermedad grave, hospitalización o fallecimiento de parientes es:",
+    "answers": {
+      "A": "Cónyuge/compañero/hijo: Cinco días naturales. Dos días hábiles más si &gt;150kms.",
+      "B": "Tres días naturales...",
+      "C": "Un día natural...",
+      "D": "Dos días naturales..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 29.1.A) Decreto 235/2007: 5 días naturales (cónyuge/hijo) +2 si &gt;150km.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4651,
+    "question": "Según el Decreto 235/2007, de 18 de diciembre, por el que se aprueba el Acuerdo regulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los años 2007, 2008 y 2009, en los casos de operaciones quirúrgicas que no precisen hospitalización, tanto de cónyuge, compañero, hijo como de familiares hasta 2.o grado de consanguinidad o afinidad, el trabajador dispondrá de:",
+    "answers": {
+      "A": "Una licencia de cinco días.",
+      "B": "Una licencia de un día.",
+      "C": "Una licencia de una semana.",
+      "D": "Una licencia de dos días."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 29.2 Decreto 235/2007: Licencia de 2 días para operaciones no hospitalización (cónyuge/hijo/familiares 2º grado).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4652,
+    "question": "Según el Decreto 235/2007... la Licencia por cumplimiento de deberes inexcusables... NO se considerará:",
+    "answers": {
+      "A": "Citaciones de Juzgados...",
+      "B": "Examen o renovación del carnet de conducir.",
+      "C": "Asistencia a reuniones Órganos Gobierno... cargo electivo...",
+      "D": "Asistir a un concierto de música."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 30 Decreto 235/2007: No se consideran deberes inexcusables asistir a conciertos (son actos privados).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4653,
+    "question": "Según el Decreto 235/2007... el personal fijo podrá solicitar la concesión de un permiso de reducción de su jornada... Indica cuál de estas afirmaciones es FALSA:",
+    "answers": {
+      "A": "Con carácter general, el porcentaje de reducción de jornada será del 50%...",
+      "B": "En todo caso... estará condicionada a la disponibilidad organizativa...",
+      "C": "La concesión... se realizará por un período mínimo de 6 meses...",
+      "D": "Con carácter general, el porcentaje de reducción de jornada será del 10%..."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 32 Decreto 235/2007: El porcentaje general es 50%, no 10% (por tanto D es falsa).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4654,
+    "question": "Tienen derecho a formar parte de la Comunidad Autónoma del País Vasco:",
+    "answers": {
+      "A": "Guipúzkoa, Álava y Vizcaya.",
+      "B": "Guipúzkoa, Álava, Vizcaya y Baja Navarra.",
+      "C": "Guipúzkoa, Álava, Vizcaya, Zuberoa y Lapurdi.",
+      "D": "Guipúzkoa, Álava, Vizcaya y Navarra."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 1 LO 3/1979: Guipúzcoa, Álava y Vizcaya conforman la Comunidad Autónoma.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4655,
+    "question": "La bandera del País Vasco es:",
+    "answers": {
+      "A": "Tribanda.",
+      "B": "Crucífera.",
+      "C": "Bicrucifera.",
+      "D": "Farpada."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 4 LO 3/1979: La bandera es la ikurriña (clasificación técnica según batería: bicrucifera por cruz de San Andrés y franja).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4656,
+    "question": "Es la institución consultiva oficial en lo referente al euskera:",
+    "answers": {
+      "A": "La Real Academia de la Lengua Vasca-Euskaltzaindia.",
+      "B": "El Instituto Cultural Vasco.",
+      "C": "La Asociación de Terminología (UZEI).",
+      "D": "El Departamento de Cultura..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 7 LO 3/1979: Euskaltzaindia es la institución consultiva oficial en materia de euskera.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4657,
+    "question": "Según la Ley Orgánica 3/1979... Los territorios o municipios que estuvieran enclavados... podrán agregarse a ella:",
+    "answers": {
+      "A": "Parcialmente dentro del territorio...",
+      "B": "Cualquier territorio o municipio limítrofe...",
+      "C": "Totalmente dentro del territorio...",
+      "D": "No se contempla la posibilidad..."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 5 LO 3/1979: Posibilidad agregación territorios/municipios enclavados totalmente dentro del territorio.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4658,
+    "question": "Los poderes públicos vascos... adoptarán medidas que tienden a:",
+    "answers": {
+      "A": "Impulsar políticas para la promoción de la salud de sus ciudadanos.",
+      "B": "Fomentar el incremento del empleo...",
+      "C": "Garantizar la inclusión de personas extranjeras...",
+      "D": "a) b) y c) son incorrectas."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 10.1 LO 3/1979: Medidas para impulsar políticas de promoción de la salud.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4659,
+    "question": "El Parlamento Vasco es elegido por un periodo de:",
+    "answers": {
+      "A": "Dos años.",
+      "B": "Tres años.",
+      "C": "Cuatro años.",
+      "D": "Cinco años."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 26.1 LO 3/1979: Mandato de 4 años.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4660,
+    "question": "Los miembros del Parlamento Vasco... por los actos delictivos cometidos...:",
+    "answers": {
+      "A": "Podrán ser detenidos, pero no retenidos.",
+      "B": "Podrán ser retenidos por un periodo máximo de 24 horas.",
+      "C": "Independientemente del delito, no podrán ser detenidos.",
+      "D": "No podrán ser detenidos ni retenidos sino en caso de flagrante delito."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 26.3 LO 3/1979: Inmunidad parlamentaria (no detención/retención salvo flagrante delito).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4661,
+    "question": "El Parlamento Vasco fijará su Reglamento Interno, que deberá ser aprobado por:",
+    "answers": {
+      "A": "La mayoría absoluta de sus miembros.",
+      "B": "La mitad de sus miembros.",
+      "C": "La mayoría simple de sus miembros.",
+      "D": "Un tercio de los miembros y el Presidente."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 28.2 LO 3/1979: Reglamento aprobado por mayoría absoluta.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4662,
+    "question": "En relación al Parlamento Vasco, los períodos ordinarios de sesiones durarán como mínimo:",
+    "answers": {
+      "A": "Siete meses al año.",
+      "B": "Ocho meses al año.",
+      "C": "Nueve meses al año.",
+      "D": "Diez meses al año."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 29.1 LO 3/1979: Mínimo 8 meses.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4663,
+    "question": "Según la Ley Orgánica 3/1979... la Cámara podrá reunirse en sesión extraordinaria a petición de:",
+    "answers": {
+      "A": "Del Gobierno y la Diputación Permanente.",
+      "B": "De la Diputación Permanente y la tercera parte de sus miembros.",
+      "C": "El Gobierno y la mitad de los miembros de la Diputación Permanente.",
+      "D": "El Gobierno, de la Diputación Permanente o de la tercera parte de sus miembros."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 29.3 LO 3/1979: Petición Gobierno, Diputación Permanente o 1/3 miembros.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4664,
+    "question": "El Presidente del Gobierno Vasco ordenará la publicación de las Leyes... en el &#039;Boletín Oficial del País Vasco&#039; en el plazo de:",
+    "answers": {
+      "A": "Nueve días...",
+      "B": "Doce días...",
+      "C": "Quince días...",
+      "D": "Dieciocho días..."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 44.1 LO 3/1979: Plazo 15 días.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4665,
+    "question": "En relación a las Leyes... publicadas en el &#039;Boletín Oficial del País Vasco&#039;, a efectos de su vigencia regirá:",
+    "answers": {
+      "A": "La fecha de publicación.",
+      "B": "La fecha inmediatamente posterior al día de publicación.",
+      "C": "La fecha de su aprobación.",
+      "D": "La fecha inmediatamente posterior al día de su aprobación"
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 44.2 LO 3/1979: Vigencia desde el día siguiente a la publicación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4666,
+    "question": "Es motivo de cese del Gobierno Vasco:",
+    "answers": {
+      "A": "Pérdida de confianza parlamentaria.",
+      "B": "Fallecimiento de su Presidente.",
+      "C": "Sólo cuando finaliza la legislatura.",
+      "D": "a) y b) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 47 LO 3/1979: Cese por pérdida confianza o fallecimiento Presidente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4667,
+    "question": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas tiene por objeto:",
+    "answers": {
+      "A": "Regular los procedimientos administrativos en las Administraciones Públicas.",
+      "B": "Regular los requisitos de validez y eficacia de los actos administrativos.",
+      "C": "Regular los apoderamientos en los procedimientos administrativos.",
+      "D": "Regular los medios de identificación en los actos administrativos."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 1 Ley 39/2015: Objeto regular procedimientos administrativos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4668,
+    "question": "En relación a la capacidad para obrar ante las Administraciones Públicas de las personas menores de edad... se establece que:",
+    "answers": {
+      "A": "Tendrán capacidad de obrar SÓLO las personas que ejercen la patria potestad...",
+      "B": "Las personas menores... tendrán capacidad de obrar sin asistencia...",
+      "C": "Tendrán capacidad de obrar cuando estén asistidas por la persona que ejerza la patria potestad.",
+      "D": "Tendrán capacidad cuando estén asistidas por cualquier persona adulta..."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 4.2 Ley 39/2015: Menores asistidos por patria potestad/tutela para ejercicio/defensa derechos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4669,
+    "question": "En el procedimiento administrativo, la falta o insuficiente acreditación de la representación:",
+    "answers": {
+      "A": "No impedirá que se tenga por realizado el acto... siempre que se aporte... dentro del plazo...",
+      "B": "Impedirá la realización del acto...",
+      "C": "Supondrá la realización del acto... sin aceptación de representación...",
+      "D": "Dará lugar a la nulidad del acto..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 5.3 Ley 39/2015: Falta representación no impide acto si se subsana en plazo.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4670,
+    "question": "En relación a los registros electrónicos de apoderamientos, indica la información que NO debe contener los asientos:",
+    "answers": {
+      "A": "Fecha de inscripción.",
+      "B": "Período de tiempo por el cual se otorga el poder.",
+      "C": "Tipo de poder según las facultades que otorgue.",
+      "D": "Motivo por el que se otorga el poder."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 8 Ley 39/2015: No se registra el motivo otorgamiento.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4671,
+    "question": "Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez máxima de:",
+    "answers": {
+      "A": "Un año a contar desde la fecha de inscripción.",
+      "B": "Tres años a contar desde el día siguiente a la fecha de inscripción.",
+      "C": "Cinco años a contar desde la fecha de inscripción.",
+      "D": "Siete años a contar desde el día siguiente a la fecha de inscripción."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 8.5 Ley 39/2015: Validez máxima 3 años desde día siguiente inscripción.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4672,
+    "question": "Respecto al uso de medios de identificación y la firma... para la formulación de solicitudes:",
+    "answers": {
+      "A": "La firma es obligatoria.",
+      "B": "La acreditación de identidad es opcional.",
+      "C": "No se requiere firma.",
+      "D": "Tanto la acreditación de identidad como la firma son voluntarias."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 14.1 y 16.2 Ley 39/2015: No se requiere firma física, sino identificación mediante sistemas válidos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4673,
+    "question": "Según la Ley 39/2015... los notarios y registradores de la propiedad y mercantiles:",
+    "answers": {
+      "A": "Deciden el modo en el que se relacionan...",
+      "B": "Están obligados a relacionarse de manera presencial.",
+      "C": "Están obligados a relacionarse por correo postal certificado.",
+      "D": "Están obligados a relacionarse a través de medios electrónicos."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 14.3 Ley 39/2015: Notarios y registradores obligados relación electrónica.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4674,
+    "question": "La estimación por silencio administrativo:",
+    "answers": {
+      "A": "Carece de efectos jurídicos.",
+      "B": "Tiene la consideración de acto administrativo paralizado...",
+      "C": "Tiene los solos efectos de permitir a los interesados interponer recurso...",
+      "D": "Tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 42.1 Ley 39/2015: Silencio administrativo = acto finalizador (estimación).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4675,
+    "question": "Para que un documento electrónico administrativo sea considerado válido:",
+    "answers": {
+      "A": "Debe contener un código generado electrónicamente.",
+      "B": "Debe incorporar una referencia temporal del momento en que ha sido emitido.",
+      "C": "Debe haber sido sellado por un funcionario responsable del registro electrónico.",
+      "D": "Debe disponer de un sistema de verificación online."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 31.1 Ley 39/2015: Documento electrónico debe incorporar referencia temporal.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4676,
+    "question": "El proceso tecnológico que permite convertir un documento en soporte papel... en un fichero electrónico... se denomina:",
+    "answers": {
+      "A": "Escaneo.",
+      "B": "Codificación.",
+      "C": "Digitalización.",
+      "D": "Indexación."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 3.h) y 31 Ley 39/2015: Proceso = digitalización.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4677,
+    "question": "Según la Ley 39/2015... para poder contrastar la autenticidad de una copia en soporte papel se requiere que en la misma figure:",
+    "answers": {
+      "A": "La condición de copia y contenga un código generado electrónicamente u otro sistema de verificación.",
+      "B": "La firma del funcionario... y un código de verificación.",
+      "C": "Un sello de entrada... fecha, hora y datos oficina registro.",
+      "D": "Las copias... no requieren autentificación."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 35.2 Ley 39/2015: Copia auténtica requiere código generado u otro sistema verificación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4678,
+    "question": "La Ley 39/2015... establece que cuando los documentos ya se encuentren en poder de la Administración actuante... los interesados:",
+    "answers": {
+      "A": "Deben aportarlos obligatoriamente.",
+      "B": "Tienen derecho a no aportarlos.",
+      "C": "Deben entregar copia simple.",
+      "D": "Pueden aportarlos electrónicamente."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 35.3 Ley 39/2015: Derecho no aportar documentos ya en poder Administración.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4679,
+    "question": "El registro electrónico permitirá la presentación de documentos:",
+    "answers": {
+      "A": "Todos los días hábiles durante ocho horas.",
+      "B": "Todos los días del año durante doce horas.",
+      "C": "Todos los días hábiles durante quince horas.",
+      "D": "Todos los días del año durante las veinticuatro horas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 38.1 Ley 39/2015: Registro electrónico 24h/365 días.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4680,
+    "question": "Según la Ley 39/2015... cuando la notificación se practique en el domicilio... de no hallarse presente:",
+    "answers": {
+      "A": "No podrán hacerse cargo... otras personas...",
+      "B": "Podrán hacerse cargo... personas mayores de 18 años... consanguineidad...",
+      "C": "Podrá hacerse cargo... cualquier persona mayor de catorce años... haga constar su identidad.",
+      "D": "Podrá hacerse cargo... cualquier persona... sin necesidad de hacer constar su identidad."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 41.2 Ley 39/2015: Notificación domicilio: persona &gt;14 años presente que acredite identidad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4681,
+    "question": "Las notificaciones por medios electrónicos se entenderán practicadas:",
+    "answers": {
+      "A": "Cuando se produzca el acceso a su contenido.",
+      "B": "Con la puesta a disposición de la notificación en el medio electrónico.",
+      "C": "Cuando el interesado reciba también la notificación por medios no electrónicos.",
+      "D": "Cuando transcurra un mes desde la entrega..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 43.1 Ley 39/2015: Notificación electrónica practicada al producirse acceso contenido.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4682,
+    "question": "Es un derecho del interesado en un procedimiento administrativo.",
+    "answers": {
+      "A": "A obtener una copia autentificada...",
+      "B": "A conocer... el estado de la tramitación...",
+      "C": "A aportar documentos... anterior al trámite de audiencia.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 52 Ley 39/2015: Derechos incluyen copia autentificada, conocer estado y aportar documentos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4683,
+    "question": "Es una de las medidas provisionales que... podría adoptar el órgano administrativo:",
+    "answers": {
+      "A": "Embargo definitivo de rentas.",
+      "B": "Suspensión temporal de actividades.",
+      "C": "Pérdida de la condición de funcionario.",
+      "D": "Imposiciones de sanciones metálicas."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 57.1 Ley 39/2015: Medidas provisionales incluyen suspensión actividades.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4684,
+    "question": "Se entiende por___________, la actuación derivada del conocimiento directo o indirecto... por el órgano que tiene atribuida la competencia de iniciación:",
+    "answers": {
+      "A": "Orden superior.",
+      "B": "Oficio.",
+      "C": "Propia iniciativa.",
+      "D": "Petición razonada."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 53.1.A) Ley 39/2015: Oficio = actuación por conocimiento directo/indirecto.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4685,
+    "question": "En el inicio del procedimiento por denuncia... cuando el denunciante haya participado... para resolver... el órgano competente deberá:",
+    "answers": {
+      "A": "Imponer a todos... sanciones...",
+      "B": "Despido disciplinario... y pago de multa...",
+      "C": "Eximir al denunciante del pago de la multa... u otro tipo de sanción...",
+      "D": "Imponer... sanción no pecuniaria y exigir al denunciante la restitución del daño."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 56.3 Ley 39/2015: Denunciante partícipe eximido multa/sanción no pecuniaria.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4686,
+    "question": "De acuerdo a la Ley 39/2015... el derecho a reclamar responsabilidad patrimonial:",
+    "answers": {
+      "A": "No prescribe.",
+      "B": "Prescribe al año del hecho o acto...",
+      "C": "Prescribe a los dos años de haberse iniciado el procedimiento...",
+      "D": "Prescribe a los tres años de haberse producido la curación..."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 51 Ley 39/2015 (transitoria): Prescripción 1 año (hasta nueva Ley de Régimen Jurídico Sector Público). Nota: La pregunta refiere a la redacción original de 2015.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4687,
+    "question": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, son requisitos para la creación de cualquier órgano administrativo exigir:",
+    "answers": {
+      "A": "Acreditar que no existe duplicación de otros órganos administrativos ya existentes.",
+      "B": "Emitir un informe el que se garantiza el funcionamiento autónomo del nuevo órgano administrativo.",
+      "C": "Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica.",
+      "D": "Elaboración de un presupuesto detallado de los gastos que supondrá su puesta en marcha y funcionamiento."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 4 Ley 40/2015: Requisitos creación órganos incluyen determinación forma integración y dependencia jerárquica.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4688,
+    "question": "La Ley 40/2015 establece que la delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia:",
+    "answers": {
+      "A": "No suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio.",
+      "B": "Suponen alteración de la titularidad de la competencia...",
+      "C": "No supone alteración de la titularidad ni de los elementos determinantes.",
+      "D": "La delegación de la firma es la que supone alteración de la titularidad."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 11 Ley 40/2015: No alteran titularidad competencia, sí elementos ejercicio.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4689,
+    "question": "Las competencias relativas a la adopción de disposiciones de carácter general:",
+    "answers": {
+      "A": "Pueden ser objeto de delegación.",
+      "B": "Serán objeto de delegación cuando se tenga la aprobación del órgano delegante.",
+      "C": "En ningún caso podrán ser objeto de delegación.",
+      "D": "a) y b) son correctas."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 11.2 Ley 40/2015: Competencias disposiciones generales no delegables.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4690,
+    "question": "Una encomienda de gestión implica:",
+    "answers": {
+      "A": "La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos.",
+      "B": "La cesión de la titularidad de la competencia...",
+      "C": "Hacerse cargo de prestaciones propias de los contratos regulados en la legislación de contratos del sector público.",
+      "D": "Dictar acto o resoluciones de carácter jurídico..."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 12 Ley 40/2015: Encomienda gestión = actividades material/técnico sin cesión titularidad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4691,
+    "question": "En la encomienda de gestión, tendrá la condición de encargado del tratamiento de los datos de carácter personal:",
+    "answers": {
+      "A": "El órgano que delega la competencia.",
+      "B": "El órgano encomendado.",
+      "C": "Tanto el órgano encomendado como el que delega.",
+      "D": "La Agencia Española de Protección de Datos."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 12.3 Ley 40/2015: Órgano encomendado es encargado tratamiento datos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4692,
+    "question": "En los supuestos de enfermedad, los titulares de los órganos administrativos pueden ser suplidos:",
+    "answers": {
+      "A": "Definitivamente.",
+      "B": "Indefinidamente.",
+      "C": "Temporalmente.",
+      "D": "Parcialmente."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 14 Ley 40/2015: Suplencia temporal por enfermedad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4693,
+    "question": "Según la Ley 40/2015, los conflictos de atribuciones SÓLO podrán suscitarse:",
+    "answers": {
+      "A": "Entre órganos de diferentes Administraciones relacionados jerárquicamente.",
+      "B": "Entre órganos de diferentes Administraciones no relacionados jerárquicamente.",
+      "C": "Entre órganos de una misma Administración relacionados jerárquicamente.",
+      "D": "Entre órganos de una misma Administración no relacionados jerárquicamente."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 16 Ley 40/2015: Conflictos atribuciones entre órganos misma Administración no relacionados jerárquicamente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4694,
+    "question": "Para la válida constitución de los órganos colegiados... se requerirá:",
+    "answers": {
+      "A": "La asistencia... del Presidente y el Secretario...",
+      "B": "La asistencia presencial del Secretario... y la mitad de sus miembros.",
+      "C": "La asistencia presencial del Presidente y Secretario... y al menos un tercio de sus miembros.",
+      "D": "La asistencia... del Presidente, el Secretario... y al menos la mitad de sus miembros."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 23.1 Ley 40/2015: Quórum órganos colegiados: Presidente, Secretario y mitad miembros.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4695,
+    "question": "Corresponderá al Presidente de los órganos colegiados de la Administración General del Estado:",
+    "answers": {
+      "A": "Visar las actas y certificaciones...",
+      "B": "Formular ruegos y preguntas.",
+      "C": "Obtener la información precisa...",
+      "D": "Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 24.1.A) Ley 40/2015: Presidente obtiene información precisa para cumplir funciones.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4696,
+    "question": "Corresponderá al Secretario de los órganos colegiados:",
+    "answers": {
+      "A": "Participar en los debates...",
+      "B": "Preparar el despacho de los asuntos, redactar y autorizar las actas...",
+      "C": "Moderar el desarrollo de los debates...",
+      "D": "Acordar la convocatoria de las sesiones ordinarias..."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 24.2.D) Ley 40/2015: Secretario redacta y autoriza actas.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4697,
+    "question": "Es motivo de abstención de las autoridades y el personal al servicio de las Administraciones:",
+    "answers": {
+      "A": "Tener enemistad manifiesta con cualquiera de los interesados.",
+      "B": "Tener interés personal en el asunto.",
+      "C": "Tener relación de servicio con persona natural o jurídica interesada directamente.",
+      "D": "a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 23.1 Ley 39/2015 (aplicable): Abstención por enemistad, interés personal o relación servicio.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4698,
+    "question": "Se define como el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública... que permite el acceso a través de internet a la información publicada:",
+    "answers": {
+      "A": "Página Web.",
+      "B": "Portal de internet.",
+      "C": "Sede electrónica.",
+      "D": "Certificado digital o Cl@ve."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 3.3 Ley 39/2015: Definición sede electrónica.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4699,
+    "question": "La ubicación de los sistemas de información... para el registro de los datos de los usuarios del sistema nacional de salud deberán:",
+    "answers": {
+      "A": "Ubicarse y prestarse dentro del territorio de la Unión Europea.",
+      "B": "Cualquier territorio fuera de la Unión Europea.",
+      "C": "En Estados Unidos.",
+      "D": "En Reino Unido."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 16.3 Ley 41/2002 ( modificada): Sistemas información sanitaria en territorio UE.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4700,
+    "question": "Según el Decreto 149/2007, la solicitud de segunda opinión médica deberá presentarse:",
+    "answers": {
+      "A": "Exclusivamente por vía telemática.",
+      "B": "En cualquier registro oficial de la Administración.",
+      "C": "En los Servicios de Atención al Paciente-Usuario de los centros sanitarios o del Departamento de Sanidad.",
+      "D": "Únicamente en el centro que emitió el primer diagnóstico."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 4 Decreto 149/2007: Solicitud en Servicios Atención al Paciente-Usuario o Departamento Sanidad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4701,
+    "question": "Según el Decreto 149/2007, la concesión del derecho a la segunda opinión médica será incompatible con:",
+    "answers": {
+      "A": "La asistencia sanitaria privada.",
+      "B": "La solicitud simultánea de cambio de profesional.",
+      "C": "La emisión de un diagnóstico definitivo.",
+      "D": "La tramitación de un procedimiento judicial."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 6 Decreto 149/2007: Incompatible con solicitud cambio profesional simultánea.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4702,
+    "question": "Según el Decreto 149/2007, cuando la segunda opinión médica confirme el primer diagnóstico, el paciente:",
+    "answers": {
+      "A": "Deberá continuar obligatoriamente la atención en el centro de origen.",
+      "B": "Podrá optar por continuar la atención en el centro que emitió la segunda opinión.",
+      "C": "Perderá el derecho a nuevas solicitudes.",
+      "D": "Deberá solicitar una tercera valoración."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 11 Decreto 149/2007: Si confirma diagnóstico, continúa atención centro origen.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4703,
+    "question": "¿Quiénes pueden solicitar una segunda opinión médica conforme al Decreto 149/2007?",
+    "answers": {
+      "A": "Únicamente el paciente mayor de edad.",
+      "B": "El paciente o cualquier profesional sanitario.",
+      "C": "El paciente, su representante legal o persona expresamente autorizada.",
+      "D": "Solo los familiares directos del paciente."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 3 Decreto 149/2007: Puede solicitar paciente, representante legal o persona autorizada.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4704,
+    "question": "El derecho a la segunda opinión médica se garantiza, entre otros supuestos, en procesos relacionados con:",
+    "answers": {
+      "A": "Enfermedades infecciosas comunes.",
+      "B": "Patologías leves de carácter temporal.",
+      "C": "Enfermedades neurológicas degenerativas.",
+      "D": "Trastornos psicológicos transitorios."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 2 Decreto 149/2007: Incluye enfermedades neurológicas degenerativas entre patologías graves.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4705,
+    "question": "¿Cuál es la finalidad principal del derecho a la segunda opinión médica según el Decreto 149/2007?",
+    "answers": {
+      "A": "Sustituir el primer diagnóstico emitido por el sistema sanitario.",
+      "B": "Contrastar el primer diagnóstico o propuesta terapéutica para una mejor toma de decisiones.",
+      "C": "Garantizar el cambio de profesional sanitario a solicitud del paciente.",
+      "D": "Reducir las listas de espera quirúrgicas."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 1 Decreto 149/2007: Finalidad contrastar diagnóstico/propuesta terapéutica.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4706,
+    "question": "La segunda opinión médica deberá ser emitida por profesionales sanitarios que:",
+    "answers": {
+      "A": "Pertenezcan al mismo centro que emitió el primer diagnóstico.",
+      "B": "Formen parte de la red pública de Osakidetza y sean distintos del centro de origen.",
+      "C": "Sean designados libremente por el paciente.",
+      "D": "Formen parte exclusivamente de centros privados concertados."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 7 Decreto 149/2007: Profesionales red pública Osakidetza distintos centro origen.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4707,
+    "question": "¿En qué plazo debe concertarse la cita para la segunda opinión médica desde la entrada de la solicitud en el registro?",
+    "answers": {
+      "A": "En un plazo máximo de 5 días naturales.",
+      "B": "En un plazo máximo de 10 días hábiles.",
+      "C": "En un plazo máximo de 15 días naturales.",
+      "D": "En un plazo máximo de un mes."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 9 Decreto 149/2007: Plazo máximo 15 días naturales para concertar cita.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4708,
+    "question": "Si la segunda opinión médica NO confirma el primer diagnóstico, el paciente:",
+    "answers": {
+      "A": "Debe continuar obligatoriamente la atención en el centro de origen.",
+      "B": "Pierde el derecho a asistencia sanitaria pública.",
+      "C": "Puede optar por continuar la atención en el centro que emitió la segunda opinión.",
+      "D": "Debe iniciar nuevamente todo el procedimiento asistencial."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 11 Decreto 149/2007: Si no confirma, paciente puede optar continuar en centro segunda opinión.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4709,
+    "question": "Cuando NO se considera adecuada la concesión de una segunda opinión médica, la decisión debe:",
+    "answers": {
+      "A": "Ser comunicada verbalmente al paciente.",
+      "B": "Ser adoptada por el servicio médico de origen sin justificación.",
+      "C": "Emitirse mediante informe razonado de la Dirección Médica.",
+      "D": "Ser resuelta por el Departamento de Sanidad sin informe previo."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 5 Decreto 149/2007: Denegación mediante informe razonado Dirección Médica.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4710,
+    "question": "¿En qué supuesto puede obtenerse la segunda opinión médica en centros sanitarios fuera de la Comunidad Autónoma del País Vasco?",
+    "answers": {
+      "A": "Cuando el paciente lo solicite expresamente.",
+      "B": "Cuando el primer diagnóstico haya sido emitido en atención primaria.",
+      "C": "Cuando no exista centro público disponible en el territorio.",
+      "D": "Cuando sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, previa autorización del Departamento de Sanidad."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 3.2 Decreto 149/2007: Fuera CCAA cuando necesario por técnica especial, previa autorización.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4711,
+    "question": "¿Qué unidades son las encargadas de tramitar las solicitudes de segunda opinión médica según el Decreto 149/2007?",
+    "answers": {
+      "A": "Los servicios médicos del centro que emitió el primer diagnóstico.",
+      "B": "Las Direcciones Médicas de Osakidetza exclusivamente.",
+      "C": "Los Servicios de Atención al Paciente-Usuario de los centros sanitarios y las Direcciones Médicas del centro de origen.",
+      "D": "Los Servicios de Atención al Paciente-Usuario de los centros sanitarios y las unidades del Departamento de Sanidad."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 4 Decreto 149/2007: Tramitación por Servicios Atención al Paciente-Usuario y unidades Departamento Sanidad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4712,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el protocolo será revisado:",
+    "answers": {
+      "A": "Cada cuatro años.",
+      "B": "Cada cinco años.",
+      "C": "Anualmente y, una vez transcurridos los primeros cuatro años, cada cuatro años.",
+      "D": "Anualmente durante los primeros cuatro años y, a partir de ese momento, cada dos años."
+    },
+    "correct_answer": "C",
+    "explanation": "Protocolo Acoso Sexual Osakidetza: Revisión anual primeros 4 años, luego cada 4 años.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4713,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el procedimiento informal se utilizará cuando:",
+    "answers": {
+      "A": "Los hechos no alcancen la entidad suficiente para ser calificados como acoso sexual o por razón de sexo, pero puedan resultar inadecuados.",
+      "B": "Las conductas no constituyan acoso sexual ni por razón de sexo, aunque generen malestar.",
+      "C": "Los hechos no revistan la gravedad suficiente para ser considerados acoso sexual o por razón de sexo.",
+      "D": "Las actuaciones descritas no puedan calificarse como acoso, sin perjuicio de que requieran intervención preventiva."
+    },
+    "correct_answer": "A",
+    "explanation": "Protocolo Acoso Sexual Osakidetza: Procedimiento informal cuando hechos no constituyen acoso pero son inadecuados.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4714,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la Asesoría Confidencial tiene entre sus funciones:",
+    "answers": {
+      "A": "Adoptar y ejecutar las sanciones disciplinarias.",
+      "B": "Resolver con carácter definitivo los casos.",
+      "C": "Recibir, analizar y tramitar las quejas y denuncias relacionadas con posibles situaciones de acoso.",
+      "D": "Asumir las funciones atribuidas a la Dirección de Personas en materia de gestión de personal."
+    },
+    "correct_answer": "C",
+    "explanation": "Protocolo Acoso Sexual Osakidetza: Asesoría Confidencial recibe/analiza/tramita quejas.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4715,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, Osakidetza velará por el mantenimiento de un entorno laboral:",
+    "answers": {
+      "A": "Exento de riesgos y, en consecuencia, libre de situaciones de acoso sexual y por razón de sexo en todas sus formas, incluyendo el ciberacoso.",
+      "B": "Libre de riesgos y, por tanto, exento de situaciones de acoso...",
+      "C": "Exento de riesgos y, consecuentemente, libre... excluyendo el ciberacoso.",
+      "D": "Exento de riesgos y libre... en cualquiera de sus formas."
+    },
+    "correct_answer": "A",
+    "explanation": "Protocolo Acoso Sexual Osakidetza: Entorno exento riesgos, libre acoso incluido ciberacoso.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4716,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, Osakidetza se compromete a salvaguardar los derechos:",
+    "answers": {
+      "A": "De las personas trabajadoras garantizando la aplicación del régimen disciplinario.",
+      "B": "De las personas afectadas con las debidas garantías.",
+      "C": "De las personas afectadas en condiciones de igualdad.",
+      "D": "De las personas trabajadoras de Osakidetza mediante medidas preventivas."
+    },
+    "correct_answer": "B",
+    "explanation": "Protocolo Acoso Sexual Osakidetza: Salvaguardar derechos personas afectadas con garantías.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4717,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el protocolo se aplicará:",
+    "answers": {
+      "A": "A todo el personal estatutario fijo de Osakidetza.",
+      "B": "A todo el personal adscrito a los centros sanitarios.",
+      "C": "A todo el personal adscrito a Osakidetza, incluido personal directivo.",
+      "D": "A todo el personal adscrito a Osakidetza, incluido personal directivo, en formación y empresas externas."
+    },
+    "correct_answer": "D",
+    "explanation": "Protocolo Acoso Sexual Osakidetza: Aplicación a todo personal incluido directivo, formación y empresas externas.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4718,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, constituye acoso sexual:",
+    "answers": {
+      "A": "Cualquier comportamiento reiterado de naturaleza sexual que genere un entorno laboral hostil.",
+      "B": "Cualquier conducta de carácter sexual relacionada con el sexo de la persona.",
+      "C": "Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga como propósito o produzca el efecto de atentar contra la dignidad de una persona.",
+      "D": "Cualquier actuación de contenido sexual que pueda resultar ofensiva en el ámbito laboral."
+    },
+    "correct_answer": "C",
+    "explanation": "Protocolo Acoso Sexual Osakidetza: Definición acoso sexual atenta dignidad persona.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4719,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, cualquier persona que sufra o conozca una situación de acoso:",
+    "answers": {
+      "A": "Podrá comunicarla únicamente a través de los órganos de representación sindical.",
+      "B": "Podrá comunicarla solo si es personal fijo de Osakidetza.",
+      "C": "Deberá ponerla en conocimiento de la Dirección de Personas.",
+      "D": "Tendrá derecho a denunciarla."
+    },
+    "correct_answer": "D",
+    "explanation": "Protocolo Acoso Sexual Osakidetza: Derecho a denunciar cualquier persona que sufra/conozca acoso.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4720,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la presente Ley tiene por objeto:",
+    "answers": {
+      "A": "Promover la mejora de las condiciones de trabajo en salud laboral.",
+      "B": "Promover la mejora de las condiciones de trabajo para elevar el nivel de protección de la seguridad y la salud de los trabajadores.",
+      "C": "Establecer las obligaciones en materia de prevención de riesgos laborales.",
+      "D": "Regular los accidentes de trabajo y las enfermedades profesionales."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 1 Ley 31/1995: Objeto promover mejora condiciones elevando protección seguridad/salud.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4721,
+    "question": "Según la Ley de Prevención de Riesgos Laborales, el coste de las medidas relativas a la seguridad y la salud en el trabajo:",
+    "answers": {
+      "A": "Podrá recaer parcialmente sobre los trabajadores.",
+      "B": "Será compartido entre empresario y trabajadores.",
+      "C": "Podrá repercutirse mediante mejoras salariales.",
+      "D": "No deberá recaer en ningún caso sobre los trabajadores."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 3.1 Ley 31/1995: Coste medidas no recae sobre trabajadores.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4722,
+    "question": "Según la Ley 31/1995, los principios de la acción preventiva incluyen:",
+    "answers": {
+      "A": "Adaptar el trabajo a la persona.",
+      "B": "Adaptar la persona al puesto de trabajo.",
+      "C": "Eliminar únicamente los riesgos graves.",
+      "D": "Priorizar la protección individual frente a la colectiva."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 15 Ley 31/1995: Principios adaptar trabajo a persona, no persona a puesto.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4723,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, son derechos de los trabajadores en materia de prevención:",
+    "answers": {
+      "A": "Recibir una protección eficaz en materia de seguridad y salud en el trabajo.",
+      "B": "Recibir información sobre los riesgos para la seguridad y la salud.",
+      "C": "Recibir formación en materia preventiva.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 19 y 20 Ley 31/1995: Derechos protección eficaz, información y formación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4724,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, la evaluación de los riesgos laborales deberá realizarse:",
+    "answers": {
+      "A": "Únicamente al inicio de la actividad laboral.",
+      "B": "Cuando cambien las condiciones de trabajo o se detecten daños para la salud.",
+      "C": "Solo cuando lo soliciten los representantes de los trabajadores.",
+      "D": "Exclusivamente en caso de accidente de trabajo grave."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 16 Ley 31/1995: Evaluación riesgos cuando cambien condiciones o se detecten daños.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4725,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, los trabajadores tendrán derecho a interrumpir su actividad:",
+    "answers": {
+      "A": "Cuando consideren que existe un riesgo grave e inminente para su seguridad y salud.",
+      "B": "Cuando el empresario no haya facilitado formación preventiva.",
+      "C": "Cuando se produzca cualquier incidente en el centro de trabajo.",
+      "D": "Cuando no se haya realizado la evaluación de riesgos."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 21 Ley 31/1995: Derecho interrupción ante riesgo grave e inminente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4726,
+    "question": "Según el artículo 2 de la Ley 31/1995, de Prevención de Riesgos Laborales, la presente Ley será de aplicación:",
+    "answers": {
+      "A": "Únicamente a las relaciones laborales reguladas por el Estatuto de los Trabajadores.",
+      "B": "Únicamente al personal al servicio de la Administración Pública.",
+      "C": "A las relaciones laborales reguladas por el Estatuto de los Trabajadores y al personal al servicio de las Administraciones Públicas.",
+      "D": "Las respuestas a) b) y c) son incorrectas."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 2 Ley 31/1995: Aplicación relaciones laborales Estatuto Trabajadores y personal Administraciones Públicas.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4727,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, se considera riesgo laboral:",
+    "answers": {
+      "A": "La probabilidad de que se produzca un accidente durante la jornada laboral.",
+      "B": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+      "C": "Cualquier daño producido exclusivamente por un accidente laboral.",
+      "D": "Toda situación peligrosa detectada en el entorno de trabajo."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual Riesgos Generales Osakidetza: Riesgo = posibilidad daño derivado trabajo (no probabilidad accidente).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4728,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, un accidente de trabajo se define como:",
+    "answers": {
+      "A": "Cualquier lesión producida durante la jornada laboral.",
+      "B": "Cualquier daño corporal sufrido por el trabajador fuera del entorno laboral.",
+      "C": "Todo suceso no deseado ni esperado que puede dar lugar a pérdidas de la salud o lesiones en las personas.",
+      "D": "Todo suceso inesperado que ocurra en el centro de trabajo."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual Riesgos Generales Osakidetza: Accidente = suceso no deseado que puede causar pérdidas salud/lesiones.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4729,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en caso de accidente de trabajo durante la jornada laboral, el trabajador deberá:",
+    "answers": {
+      "A": "Notificarlo a la mayor brevedad posible a su responsable inmediato y a la Unidad Básica de Prevención.",
+      "B": "Notificarlo únicamente a la Unidad Básica de Prevención.",
+      "C": "Acudir directamente a un centro sanitario sin comunicarlo.",
+      "D": "Acudir al día siguiente a la Unidad Básica de Prevención."
+    },
+    "correct_answer": "A",
+    "explanation": "Manual Riesgos Generales Osakidetza: Notificar responsable inmediato y Unidad Básica Prevención a mayor brevedad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4730,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en la manipulación manual de cargas se recomienda:",
+    "answers": {
+      "A": "Mantener la espalda alineada y realizar el esfuerzo principalmente con la musculatura dorsal.",
+      "B": "Mantener la espalda recta y flexionar las rodillas durante la elevación de la carga.",
+      "C": "Mantener la espalda recta y realizar el esfuerzo con el tronco, evitando flexionar las piernas.",
+      "D": "Mantener la espalda recta y repartir el esfuerzo entre espalda y brazos."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual Riesgos Generales Osakidetza: Manipulación cargas = espalda recta, flexionar rodillas (no tronco).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4731,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, el personal más expuesto a los riesgos biológicos es:",
+    "answers": {
+      "A": "Todo el personal del centro sanitario sin distinción.",
+      "B": "El personal administrativo que trabaja en centros sanitarios.",
+      "C": "El personal que realiza tareas de limpieza exclusivamente.",
+      "D": "El personal que presta asistencia directa a enfermos, el personal de laboratorio y el personal que trabaja con animales."
+    },
+    "correct_answer": "D",
+    "explanation": "Manual Riesgos Generales Osakidetza: Mayor exposición riesgos biológicos: asistencia directa, laboratorio, animales.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4732,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, en relación con la manipulación de productos químicos:",
+    "answers": {
+      "A": "No se recomienda oler directamente los productos químicos, salvo que sea necesario.",
+      "B": "El trasvase de productos químicos podrá realizarse siempre que el nuevo recipiente esté correctamente cerrado.",
+      "C": "Nunca se debe oler ni probar un producto químico, con independencia de su etiquetado o uso habitual.",
+      "D": "Es suficiente con conservar los productos químicos en recipientes cerrados."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual Riesgos Generales Osakidetza: Nunca oler ni probar productos químicos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4733,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, se considera &#039;usuario de PVD&#039;:",
+    "answers": {
+      "A": "El trabajador que supere 4 horas diarias o 20 horas semanales de trabajo efectivo con pantalla.",
+      "B": "El trabajador que supere 5 horas diarias o 25 horas semanales.",
+      "C": "El trabajador que supere 6 horas diarias o 30 horas semanales.",
+      "D": "El trabajador que supere 7 horas diarias o 35 horas semanales."
+    },
+    "correct_answer": "A",
+    "explanation": "Manual PVD Osakidetza: Usuario PVD = &gt;4h diarias o &gt;20h semanales con pantalla.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4734,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, uno de los riesgos asociados al uso de pantallas de visualización de datos es la fatiga visual, debida a:",
+    "answers": {
+      "A": "La adopción prolongada de posturas forzadas.",
+      "B": "La ausencia de pausas periódicas en el trabajo continuado con ordenador.",
+      "C": "La iluminación inadecuada del puesto y la presencia de brillos, reflejos y deslumbramientos en la pantalla.",
+      "D": "El uso continuado de dispositivos de entrada como el teclado y el ratón."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual PVD Osakidetza: Fatiga visual por iluminación inadecuada, brillos/reflejos/deslumbramientos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4735,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, en relación con las condiciones ambientales del puesto con ordenador, se recomienda:",
+    "answers": {
+      "A": "Colocar la pantalla paralela a las ventanas.",
+      "B": "Reducir la iluminación general del puesto.",
+      "C": "Orientar la pantalla perpendicularmente a las ventanas para evitar deslumbramientos.",
+      "D": "Utilizar exclusivamente iluminación artificial."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual PVD Osakidetza: Pantalla perpendicular a ventanas evita deslumbramientos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4736,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, en relación con la silla de trabajo, se recomienda que la altura se regule hasta que:",
+    "answers": {
+      "A": "Los pies queden completamente apoyados en el suelo.",
+      "B": "La espalda quede completamente apoyada en el respaldo.",
+      "C": "Las rodillas queden por encima del nivel de la cadera.",
+      "D": "Apoyando el antebrazo en la mesa se forme un ángulo de 90º."
+    },
+    "correct_answer": "A",
+    "explanation": "Manual PVD Osakidetza: Altura silla regulada para pies apoyados en suelo.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4737,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, cuando sea necesario atender a personas en un puesto con ordenador, la pantalla deberá colocarse girada:",
+    "answers": {
+      "A": "Hasta un máximo de 35º.",
+      "B": "Hasta un máximo de 45º.",
+      "C": "Hasta un máximo de 55º.",
+      "D": "Hasta un máximo de 65º."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual PVD Osakidetza: Para atender personas, pantalla girada máximo 45º.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4738,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador, para prevenir molestias musculoesqueléticas en puestos con ordenador, se recomienda que el teclado y el ratón se coloquen de manera que:",
+    "answers": {
+      "A": "Permitan apoyar únicamente las manos sobre la mesa.",
+      "B": "Permitan el apoyo adecuado de muñecas y/o antebrazos sobre la mesa.",
+      "C": "Obligan a mantener los brazos en suspensión.",
+      "D": "Se sitúen lo más alejados posible del borde de la mesa."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual PVD Osakidetza: Teclado/ratón permiten apoyo muñecas/antebrazos para prevenir molestias musculoesqueléticas.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4739,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, este documento tiene como finalidad:",
+    "answers": {
+      "A": "Sustituir al Manual de Riesgos Generales del ámbito sanitario.",
+      "B": "Informar sobre los riesgos generales de todos los trabajadores sanitarios.",
+      "C": "Informar a los trabajadores sobre los riesgos específicos de su puesto de trabajo.",
+      "D": "Informar sobre las obligaciones del personal del área de atención al cliente."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual PRL Atención Primaria: Informa sobre riesgos específicos del puesto de trabajo.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4740,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, entre las medidas de prevención ante accidentes se recomienda:",
+    "answers": {
+      "A": "Colocar los objetos de uso frecuente sobre superficies estables, priorizando su accesibilidad.",
+      "B": "Colocar los objetos de forma estable sobre armarios, baldas o vitrinas y retirar aquellos que no sean necesarios.",
+      "C": "Mantener y organizar en las zonas de paso únicamente los objetos necesarios.",
+      "D": "Mantener y organizar los materiales atendiendo principalmente a criterios de rapidez."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual PRL Atención Primaria: Colocar objetos estables sobre armarios/baldas y retirar innecesarios.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4741,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, en relación con el uso de enchufes y regletas:",
+    "answers": {
+      "A": "Se debe evitar la sobrecarga de enchufes y regletas, especialmente cuando se utilicen de forma continuada.",
+      "B": "No se recomienda la utilización de regletas salvo que dispongan de sistemas de protección adicionales.",
+      "C": "No se deben sobrecargar enchufes ni regletas ni utilizar cables en mal estado o pelados.",
+      "D": "El uso de enchufes múltiples se limitará únicamente a zonas con bajo consumo eléctrico."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual PRL Atención Primaria: No sobrecargar enchufes/regletas ni usar cables mal estado/pelados.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4742,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, cuando se detecten anomalías o defectos en equipos, instalaciones o mobiliario, el trabajador deberá:",
+    "answers": {
+      "A": "Proceder a su corrección inmediata si no existe riesgo grave.",
+      "B": "Comunicarlo al Servicio de Prevención para su valoración.",
+      "C": "Informarlo al responsable mediante el correspondiente parte de avería.",
+      "D": "Señalizar la anomalía y continuar con la actividad habitual."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual PRL Atención Primaria: Comunicar anomalías mediante parte de avería.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4743,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, entre las recomendaciones generales dirigidas al personal del Área de Atención al Cliente se encuentra:",
+    "answers": {
+      "A": "Se recomienda disponer en el puesto de trabajo únicamente del material estrictamente necesario.",
+      "B": "Se recomienda mantener el puesto ordenado, aunque puede acumularse material de uso ocasional.",
+      "C": "Se recomienda priorizar la accesibilidad a todos los elementos.",
+      "D": "Se recomienda mantener el puesto organizado y limpio, disponiendo únicamente de lo estrictamente necesario."
+    },
+    "correct_answer": "D",
+    "explanation": "Manual PRL Atención Primaria: Mantener puesto organizado/limpio solo con lo estrictamente necesario.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4744,
+    "question": "Según la Carpeta Roja de Prevención, un accidente se considera in itinere cuando, además de producirse en el trayecto domicilio-trabajo o viceversa:",
+    "answers": {
+      "A": "El trayecto sea el más corto posible y se realice en horario laboral.",
+      "B": "El medio de locomoción sea el habitual y el itinerario se considere normal.",
+      "C": "El accidente ocurra dentro del término municipal del centro de trabajo.",
+      "D": "El trabajador no haya interrumpido el trayecto por causas justificadas."
+    },
+    "correct_answer": "B",
+    "explanation": "Carpeta Roja Osakidetza: In itinere requiere medio locomoción habitual e itinerario normal.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4745,
+    "question": "Según la Carpeta Roja de Prevención, el parte interno de notificación de accidente, incidente o agresión:",
+    "answers": {
+      "A": "Constituye un documento de carácter interno cuya finalidad es meramente informativa.",
+      "B": "Debe ser cumplimentado exclusivamente por la persona trabajadora afectada.",
+      "C": "Es el registro necesario para declarar un accidente, incidente o agresión y posibilitar su reconocimiento a efectos legales.",
+      "D": "Tiene efectos equivalentes al parte de asistencia sanitaria emitido por la Mutua."
+    },
+    "correct_answer": "C",
+    "explanation": "Carpeta Roja Osakidetza: Parte interno es registro necesario para declarar y reconocer legalmente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4746,
+    "question": "Según la Carpeta Roja de Prevención, NO deberán declararse mediante el parte interno de notificación:",
+    "answers": {
+      "A": "Los accidentes e incidentes sufridos por personal propio del centro, con independencia de su gravedad.",
+      "B": "Los accidentes e incidentes graves sufridos por personal propio del centro.",
+      "C": "Los accidentes o incidentes leves sufridos por trabajadores de empresas externas o subcontratadas por Osakidetza.",
+      "D": "Los accidentes o incidentes graves sufridos por trabajadores de empresas externas o subcontratadas."
+    },
+    "correct_answer": "C",
+    "explanation": "Carpeta Roja Osakidetza: NO se declaran incidentes leves de empresas externas (sí los graves).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4747,
+    "question": "Según la Carpeta Roja de Prevención, en caso de pinchazo por aguja u objeto afilado, una de las actuaciones inmediatas del trabajador accidentado es:",
+    "answers": {
+      "A": "Limpiar la herida con agua y jabón y cubrirla inmediatamente.",
+      "B": "Limpiar la herida sin restregar, dejar fluir la sangre durante 2-3 minutos y aplicar antiséptico.",
+      "C": "Tapar la herida de forma inmediata para evitar sangrado.",
+      "D": "Acudir directamente a urgencias sin manipular la zona afectada."
+    },
+    "correct_answer": "B",
+    "explanation": "Carpeta Roja Osakidetza: Pinchazo = limpiar sin restregar, dejar fluir sangre 2-3 min, antiséptico.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4748,
+    "question": "Según la Carpeta Roja de Prevención, en caso de contacto accidental de sangre u otros fluidos biológicos con mucosas, una de las actuaciones inmediatas del trabajador será:",
+    "answers": {
+      "A": "Secar la zona con material estéril y acudir directamente a urgencias.",
+      "B": "Aplicar jabón antiséptico y evitar el aclarado posterior.",
+      "C": "Limpiar la zona con antiséptico concentrado y cubrirla inmediatamente.",
+      "D": "Lavar la zona afectada con agua abundante o suero fisiológico durante varios minutos."
+    },
+    "correct_answer": "D",
+    "explanation": "Carpeta Roja Osakidetza: Contacto fluidos con mucosas = lavar agua/suero abundante varios minutos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4749,
+    "question": "Según la Carpeta Roja de Prevención, en caso de contacto accidental de sangre u otros fluidos biológicos con piel no intacta, la actuación inmediata del trabajador será:",
+    "answers": {
+      "A": "Limpiar la zona con antiséptico sin aclarado posterior.",
+      "B": "Lavar la zona afectada con agua y jabón, sin frotar de forma agresiva.",
+      "C": "Cubrir inmediatamente la zona con un apósito impermeable.",
+      "D": "Aplicar desinfectante alcohólico y acudir directamente a la Mutua."
+    },
+    "correct_answer": "B",
+    "explanation": "Carpeta Roja Osakidetza: Contacto piel no intacta = lavar agua/jabón sin frotar agresivamente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4750,
+    "question": "Según el Decreto 149/2007, el procedimiento de segunda opinión médica se iniciará:",
+    "answers": {
+      "A": "De oficio por la Dirección Médica.",
+      "B": "A solicitud del profesional sanitario.",
+      "C": "A instancia del paciente, su representante legal o persona expresamente autorizada.",
+      "D": "A solicitud del Servicio de Atención al Paciente."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 3 Decreto 149/2007: Inicio a instancia paciente, representante legal o autorizado.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4751,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el principio de confidencialidad implica que:",
+    "answers": {
+      "A": "La información solo podrá compartirse con autorización judicial.",
+      "B": "La información será accesible a todas las partes implicadas.",
+      "C": "La información se limitará a las personas estrictamente necesarias para la tramitación.",
+      "D": "La información se comunicará a los órganos de representación sindical."
+    },
+    "correct_answer": "C",
+    "explanation": "Protocolo Acoso Osakidetza: Confidencialidad = información solo personas estrictamente necesarias.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4752,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la reiteración de conductas ofensivas tras utilizar los procedimientos establecidos constituye:",
+    "answers": {
+      "A": "Un requisito imprescindible para que exista acoso.",
+      "B": "Un supuesto excluido del protocolo.",
+      "C": "Una circunstancia atenuante.",
+      "D": "Una circunstancia agravante."
+    },
+    "correct_answer": "D",
+    "explanation": "Protocolo Acoso Osakidetza: Reiteración conductas ofensivas tras procedimientos = circunstancia agravante.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4753,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el procedimiento formal se iniciará cuando:",
+    "answers": {
+      "A": "Las partes no alcancen acuerdo en el procedimiento informal.",
+      "B": "El trabajador lo solicite verbalmente.",
+      "C": "Existan indicios penales.",
+      "D": "El responsable directo lo considere oportuno."
+    },
+    "correct_answer": "A",
+    "explanation": "Protocolo Acoso Osakidetza: Procedimiento formal cuando no hay acuerdo en informal o gravedad lo requiere.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4754,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la formación en materia de acoso sexual y por razón de sexo tiene como finalidad principal:",
+    "answers": {
+      "A": "Sensibilizar ante las denuncias.",
+      "B": "Sensibilizar y prevenir situaciones de acoso.",
+      "C": "Sustituir el procedimiento disciplinario.",
+      "D": "Informar exclusivamente al personal directivo."
+    },
+    "correct_answer": "B",
+    "explanation": "Protocolo Acoso Osakidetza: Formación para sensibilizar y prevenir situaciones acoso.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4755,
+    "question": "Según la Ley 31/1995, la vigilancia de la salud de los trabajadores se realizará:",
+    "answers": {
+      "A": "Siempre con carácter obligatorio.",
+      "B": "Únicamente a solicitud del trabajador.",
+      "C": "En función de los riesgos inherentes al trabajo.",
+      "D": "Exclusivamente tras un accidente laboral."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 22 Ley 31/1995: Vigilancia salud según riesgos inherentes al trabajo.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4756,
+    "question": "Según la Ley 31/1995, los delegados de prevención son:",
+    "answers": {
+      "A": "Técnicos del Servicio de Prevención.",
+      "B": "Miembros del Comité de Seguridad y Salud.",
+      "C": "Representantes de los trabajadores con funciones específicas en prevención.",
+      "D": "Representantes de los trabajadores designados por el empresario."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 35 Ley 31/1995: Delegados prevención = representantes trabajadores con funciones específicas prevención.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4757,
+    "question": "Según la Ley 31/1995, la planificación de la actividad preventiva deberá realizarse:",
+    "answers": {
+      "A": "Antes del inicio de la actividad laboral.",
+      "B": "A partir de una evaluación inicial de riesgos.",
+      "C": "Solo cuando existan daños para la salud.",
+      "D": "Tras la imposición de sanciones administrativas."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 16 Ley 31/1995: Planificación preventiva a partir evaluación inicial riesgos.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4758,
+    "question": "Según la Carpeta Roja de Prevención, un incidente se caracteriza por:",
+    "answers": {
+      "A": "Producir siempre lesiones con baja.",
+      "B": "Producir daños exclusivamente materiales.",
+      "C": "No producir lesiones ni ocasionar daños materiales o ambientales.",
+      "D": "No producir lesiones, pero poder ocasionar daños materiales o ambientales."
+    },
+    "correct_answer": "D",
+    "explanation": "Carpeta Roja Osakidetza: Incidente = no produce lesiones pero puede ocasionar daños materiales/ambientales.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4759,
+    "question": "Según el Decreto 149/2007, la solicitud de segunda opinión médica deberá resolverse teniendo en cuenta que:",
+    "answers": {
+      "A": "El procedimiento tiene carácter preferente frente a cualquier otro proceso asistencial.",
+      "B": "La emisión de la segunda opinión suspende el tratamiento en curso.",
+      "C": "La atención sanitaria continúa en el centro de origen hasta que se emita la segunda opinión.",
+      "D": "La solicitud implica automáticamente el cambio de centro asistencial."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 11 Decreto 149/2007: Atención continúa centro origen hasta emisión segunda opinión.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4760,
+    "question": "Según la Ley 31/1995, el empresario deberá adoptar medidas para que los trabajadores reciban formación en materia preventiva:",
+    "answers": {
+      "A": "Únicamente en el momento de la contratación.",
+      "B": "Solo cuando se produzca un accidente de trabajo.",
+      "C": "Al inicio de la relación laboral y cuando se produzcan cambios en las funciones o tecnologías.",
+      "D": "Exclusivamente a solicitud de los representantes de los trabajadores."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 19 Ley 31/1995: Formación al inicio y cuando cambien funciones/tecnologías.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4761,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, la utilización del procedimiento informal tiene como objetivo principal:",
+    "answers": {
+      "A": "Iniciar el expediente disciplinario correspondiente.",
+      "B": "Resolver de forma ágil situaciones incipientes antes de que deriven en acoso.",
+      "C": "Sustituir el procedimiento formal en todos los casos.",
+      "D": "Determinar responsabilidades disciplinarias."
+    },
+    "correct_answer": "B",
+    "explanation": "Protocolo Acoso Osakidetza: Procedimiento informal resuelve ágilmente situaciones incipientes.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4762,
+    "question": "Según el Manual Informativo sobre riesgos generales para los trabajadores de Osakidetza, una medida básica para prevenir caídas al mismo nivel es:",
+    "answers": {
+      "A": "Mantener limpias y despejadas las zonas de paso.",
+      "B": "Retirar obstáculos y objetos innecesarios de las zonas de tránsito.",
+      "C": "Limpiar de forma inmediata los derrames en el suelo.",
+      "D": "Las respuestas a) b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Manual Riesgos Generales Osakidetza: Medidas caídas = limpiar zonas paso, retirar obstáculos, limpiar derrames.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4763,
+    "question": "Según la Carpeta Roja de Prevención, en caso de accidente sin lesiones aparentes, el trabajador deberá:",
+    "answers": {
+      "A": "Comunicarlo únicamente si se produce baja laboral.",
+      "B": "Comunicarlo y cumplimentar el parte interno de notificación.",
+      "C": "Comunicarlo si el responsable valora la necesidad.",
+      "D": "Comunicarlo y registrar el hecho solo si se trata de una agresión."
+    },
+    "correct_answer": "B",
+    "explanation": "Carpeta Roja Osakidetza: Accidente sin lesiones aparentes = comunicar y cumplimentar parte interno.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4764,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, en relación con las posturas forzadas en el Área de Atención al Cliente, se recomienda:",
+    "answers": {
+      "A": "Mantener la misma postura durante la atención para evitar movimientos repetitivos.",
+      "B": "Priorizar la rapidez en la atención frente a la corrección postural.",
+      "C": "Adaptar el puesto de trabajo a las características físicas del trabajador, regulando silla y pantalla.",
+      "D": "Adaptar el puesto ajustando únicamente la altura de la pantalla."
+    },
+    "correct_answer": "C",
+    "explanation": "Manual PRL Atención Primaria: Adaptar puesto a características físicas trabajador (silla/pantalla).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4765,
+    "question": "Según la Carpeta Roja de Prevención, tras una exposición accidental a riesgo biológico, el trabajador deberá:",
+    "answers": {
+      "A": "Esperar instrucciones del responsable sin realizar ninguna actuación.",
+      "B": "Aplicar medidas inmediatas y comunicar el accidente.",
+      "C": "Cumplimentar únicamente el parte interno.",
+      "D": "Acudir directamente a urgencias sin comunicarlo."
+    },
+    "correct_answer": "B",
+    "explanation": "Carpeta Roja Osakidetza: Exposición riesgo biológico = medidas inmediatas + comunicar accidente.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4766,
+    "question": "Según la Ley 40/2015, de Régimen Jurídico del Sector Público, la tramitación simplificada del procedimiento administrativo:",
+    "answers": {
+      "A": "Puede acordarse cuando haya razones de interés público o falta de complejidad.",
+      "B": "Si un interesado manifiesta oposición expresa, se seguirá tramitación ordinaria.",
+      "C": "En procedimientos sancionadores graves se podrá adoptar.",
+      "D": "Deberán ser resueltos en treinta días desde la notificación del acuerdo."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 62 y 63 Ley 40/2015: Tramitación simplificada por interés público o falta complejidad.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4767,
+    "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, en la tramitación simplificada:",
+    "answers": {
+      "A": "Las Administraciones pueden acordarla cuando haya razones de interés público.",
+      "B": "Si un interesado manifiesta oposición expresa, la Administración seguirá con la tramitación ordinaria.",
+      "C": "En procedimientos sancionadores de infracciones graves se podrá adoptar.",
+      "D": "Deberán resolverse en treinta días desde el día siguiente a la notificación del acuerdo."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 62.2 Ley 39/2015: Oposición expresa a simplificada = tramitación ordinaria.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4768,
+    "question": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, la revisión de oficio de los actos administrativos:",
+    "answers": {
+      "A": "Podrá iniciarse de oficio o a solicitud de los interesados.",
+      "B": "Transcurridos seis meses sin dictarse resolución supondrá caducidad si se inició de oficio.",
+      "C": "Transcurridos seis meses sin resolución supondrá caducidad si se inició a solicitud de interesados.",
+      "D": "No podrá iniciarse de oficio."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 113.4 Ley 39/2015: Caducidad revisión tras 6 meses sin resolución si iniciada a solicitud interesados.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4769,
+    "question": "Según la Ley 39/2015, la declaración de lesividad no podrá adoptarse una vez transcurridos:",
+    "answers": {
+      "A": "Dos años desde que se dictó el acto administrativo.",
+      "B": "Tres años desde que se dictó el acto administrativo.",
+      "C": "Cuatro años desde que se dictó el acto administrativo.",
+      "D": "Cinco años desde que se dictó el acto administrativo."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 106.2 Ley 39/2015: Declaración lesividad no puede adoptarse tras 4 años desde dictado acto.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4770,
+    "question": "Según la Ley 39/2015, la declaración de lesividad:",
+    "answers": {
+      "A": "Es susceptible de recurso en un plazo de seis meses desde la notificación.",
+      "B": "Es susceptible de recurso en un plazo de ocho meses desde la notificación.",
+      "C": "Es susceptible de recurso en un plazo de doce meses desde la notificación.",
+      "D": "No es susceptible de recurso, se notifica a efectos informativos."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 106.4 Ley 39/2015: Declaración lesividad notificada a efectos informativos, no susceptible recurso.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4771,
+    "question": "Según la Ley 40/2015, en la Administración General del Estado, indica quién NO es competente para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables:",
+    "answers": {
+      "A": "Consejo de Estado.",
+      "B": "Secretarios del Estado.",
+      "C": "Ministros.",
+      "D": "Consejo de Ministros."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 107.2 Ley 40/2015: Competentes Secretarios Estado, Ministros, Consejo Ministros; NO Consejo Estado (es órgano consultivo).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4772,
+    "question": "Según la Ley 39/2015, las leyes podrían sustituir el recurso de alzada... por el siguiente procedimiento:",
+    "answers": {
+      "A": "Negociación.",
+      "B": "Mediación.",
+      "C": "Reclamación.",
+      "D": "b) y c) son correctas."
+    },
+    "correct_answer": "D",
+    "explanation": "Disposición Adicional 21ª Ley 39/2015: Posible sustitución alzada por mediación o reclamación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4773,
+    "question": "En relación al procedimiento administrativo, las resoluciones de los recursos de alzada:",
+    "answers": {
+      "A": "Paralizan la vía administrativa.",
+      "B": "Anulan la vía administrativa.",
+      "C": "Ponen fin de la vía administrativa.",
+      "D": "Producen la caducidad de la vía administrativa."
+    },
+    "correct_answer": "C",
+    "explanation": "Art. 82 Ley 39/2015: Resolución alzada pone fin a la vía administrativa.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4774,
+    "question": "Según la Ley 39/2015, en la interposición de un recurso NO debe expresarse:",
+    "answers": {
+      "A": "Nombre y apellidos del recurrente.",
+      "B": "Razón de la impugnación.",
+      "C": "Relación de documentos que se adjuntan para el recurso.",
+      "D": "Órgano, centro o unidad administrativa al que se dirige el recurso y su correspondiente código de verificación."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 78 Ley 39/2015: No es requisito expresar código verificación órgano (sí domicilio, hechos, petición).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4775,
+    "question": "Según la Ley 39/2015 es causa de inadmisión de un recurso administrativo:",
+    "answers": {
+      "A": "Que no disponga de la firma del recurrente.",
+      "B": "Haber transcurrido el plazo para la interposición del recurso.",
+      "C": "Que el recurso tenga defectos de forma.",
+      "D": "a) y c) son correctas."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 79 Ley 39/2015: Causa inadmisión haber transcurrido plazo (defectos forma subsanables, firma no obligatoria).",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4776,
+    "question": "Según la Ley 39/2015 la interposición de cualquier recurso:",
+    "answers": {
+      "A": "NUNCA podrá suspender la ejecución del acto impugnado.",
+      "B": "NO suspenderá la ejecución si es de interés público.",
+      "C": "SIEMPRE dará lugar a la suspensión de la ejecución.",
+      "D": "Podrá suspender la ejecución cuando ésta pudiera causar perjuicios de imposible o difícil reparación."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 83 Ley 39/2015: Suspensión cuando causaría perjuicios imposibles/difícil reparación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4777,
+    "question": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, los interesados deberán formular alegaciones en un plazo:",
+    "answers": {
+      "A": "Que no sea inferior a cinco días ni superior a diez días.",
+      "B": "Que no sea inferior a diez días ni superior a quince días.",
+      "C": "Que no sea inferior a quince días ni superior a veinte días.",
+      "D": "Que no sea inferior a veinte días ni superior a treinta días."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 77.2 Ley 39/2015: Plazo alegaciones nuevos hechos/documentos: 10-15 días.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4778,
+    "question": "El recurso que se presenta ante el órgano superior jerárquico que dictó el acto cuando no pone fin a la vía administrativa, se denomina:",
+    "answers": {
+      "A": "Recurso de alzada.",
+      "B": "Recurso potestativo de reposición.",
+      "C": "Recurso extraordinario de revisión.",
+      "D": "Recurso ordinario de impugnación."
+    },
+    "correct_answer": "A",
+    "explanation": "Art. 72 Ley 39/2015: Recurso alzada ante órgano superior cuando acto no pone fin vía administrativa.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4779,
+    "question": "El recurso extraordinario de revisión se puede interponer contra:",
+    "answers": {
+      "A": "Los actos administrativos que ponen fin a la vía administrativa.",
+      "B": "Los actos firmes en vía administrativa.",
+      "C": "Los actos que no ponen fin a la vía administrativa.",
+      "D": "Los actos administrativos que presentan defectos formales."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 112 Ley 39/2015: Recurso revisión contra actos firmes en vía administrativa.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4780,
+    "question": "El plazo máximo para dictar y notificar la resolución de un recurso extraordinario de revisión es de:",
+    "answers": {
+      "A": "Diez días.",
+      "B": "Quince días.",
+      "C": "Veinte días.",
+      "D": "Un mes."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 113.3 Ley 39/2015: Plazo resolución revisión = 1 mes.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4781,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, el empresario deberá garantizar la evaluación de riesgos:",
+    "answers": {
+      "A": "Solo cuando se produzcan accidentes de trabajo.",
+      "B": "Cuando cambien las condiciones de trabajo o se detecten daños para la salud.",
+      "C": "Una vez al año, con independencia de los cambios.",
+      "D": "Únicamente durante la contratación de nuevos trabajadores."
+    },
+    "correct_answer": "B",
+    "explanation": "Art. 16 Ley 31/1995: Evaluación riesgos cuando cambien condiciones o se detecten daños.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4782,
+    "question": "Según el Protocolo frente al acoso sexual y por razón de sexo en Osakidetza, el procedimiento informal:",
+    "answers": {
+      "A": "Sustituye al procedimiento formal en todos los casos.",
+      "B": "Se utiliza cuando los hechos no alcancen la entidad para calificarse como acoso pero puedan resultar inadecuados.",
+      "C": "Determina responsabilidades disciplinarias.",
+      "D": "Inicia siempre el expediente disciplinario."
+    },
+    "correct_answer": "B",
+    "explanation": "Protocolo Acoso Osakidetza: Procedimiento informal para hechos no constitutivos acoso pero inadecuados.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4783,
+    "question": "Según el Manual Informativo de Prevención de Riesgos Laborales en Atención Primaria, respecto a la ordenación del puesto de trabajo:",
+    "answers": {
+      "A": "Se priorizará la rapidez de acceso sobre la seguridad.",
+      "B": "Se mantendrá el puesto ordenado disponiendo únicamente material estrictamente necesario.",
+      "C": "Se acumulará material para tenerlo disponible ante posibles necesidades.",
+      "D": "Se colocarán objetos pesados en zonas altas para liberar espacio."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual PRL Atención Primaria: Puesto ordenado con material estrictamente necesario.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4784,
+    "question": "Según la Carpeta Roja de Prevención de Osakidetza, respecto a los accidentes in itinere:",
+    "answers": {
+      "A": "Se consideran aquellos que ocurren durante el trayecto domicilio-trabajo con el medio habitual.",
+      "B": "Solo se consideran si el trabajador utiliza transporte público.",
+      "C": "No se consideran si el trabajador realiza paradas intermedias.",
+      "D": "Se consideran exclusivamente si ocurren dentro de las instalaciones de Osakidetza."
+    },
+    "correct_answer": "A",
+    "explanation": "Carpeta Roja Osakidetza: In itinere = trayecto domicilio-trabajo con medio habitual.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4785,
+    "question": "Según el Manual Informativo sobre riesgos laborales de los puestos que manejen ordenador (PVD), para prevenir la fatiga visual:",
+    "answers": {
+      "A": "Se recomienda trabajar con la pantalla orientada hacia las ventanas.",
+      "B": "Se recomienda realizar pausas periódicas y evitar deslumbramientos.",
+      "C": "Se aconseja aumentar la iluminación general del puesto.",
+      "D": "Se recomienda utilizar pantallas de menor tamaño para reducir la exposición."
+    },
+    "correct_answer": "B",
+    "explanation": "Manual PVD Osakidetza: Pausas periódicas y evitar deslumbramientos previenen fatiga visual.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4786,
+    "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, los trabajadores tienen derecho a:",
+    "answers": {
+      "A": "Utilizar los medios de prevención únicamente cuando lo estime el empresario.",
+      "B": "Informar por escrito a la autoridad laboral cuando considere que la actividad entraña riesgos.",
+      "C": "Ceder sus medios de protección a otros trabajadores si no los necesita.",
+      "D": "Protección eficaz en materia de seguridad y salud, información, consulta y formación."
+    },
+    "correct_answer": "D",
+    "explanation": "Art. 19 Ley 31/1995: Derechos trabajadores = protección eficaz, información, consulta, formación.",
+    "category_name": "Administrativo",
+    "category_color": "blue",
+    "correctAnswer": "D"
+  }
+]

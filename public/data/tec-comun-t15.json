@@ -60,10 +60,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Conseguir que todas las personas trabajadoras de Osakidetza conozcan el Plan y el Protocolo de Acoso."
+      "Garantizar la formacion basica, progresiva, permanente y obligatoria de todo el personal de Osakidetza."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -182,7 +182,7 @@
     "imageUrl": null,
     "module": "tec-comun-t15",
     "explanation": "El objetivo de la meta Corresponsabilidad es reducir al menos en un 2% la brecha de genero existente en las medidas de conciliacion para cuidados en Osakidetza.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 162
+    "officialId": 165
   },
   {
     "id": "tec-comun-t15_6",
@@ -256,7 +256,7 @@
     "imageUrl": null,
     "module": "tec-comun-t15",
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
-    "officialId": 2022
+    "officialId": 167
   },
   {
     "id": "tec-comun-t15_8",
@@ -393,10 +393,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Se atribuye a todas las direcciones y gerencias de Osakidetza la responsabilidad de realizar la campaña con ese lema."
+      "Aukeratu zeure hizkuntza/Elige tu lengua es el lema de la campaña que realizara Osakidetza durante el primer año de planificacion."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -441,7 +441,7 @@
     "imageUrl": null,
     "module": "tec-comun-t15",
     "explanation": "El III Plan garantiza la recepcion en euskera a toda la ciudadania vascohablante en todos los servicios de recepcion, admision, unidades asistenciales y administrativas, sin distincion de modalidad.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 169
+    "officialId": 172
   },
   {
     "id": "tec-comun-t15_13",
@@ -478,7 +478,7 @@
     "imageUrl": null,
     "module": "tec-comun-t15",
     "explanation": "El III Plan establece que los escritos individualizados de respuesta se redactaran en la misma lengua utilizada por la persona ciudadana en su comunicacion.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 169
+    "officialId": 173
   },
   {
     "id": "tec-comun-t15_14",
@@ -663,7 +663,7 @@
     "imageUrl": null,
     "module": "tec-comun-t15",
     "explanation": "En el periodo 2015-2019, las localizaciones mas frecuentes fueron el cancer de mama en mujeres y el cancer de prostata en hombres, segun los datos epidemiologicos del POIE 2025-2030.",
-    "officialId": 177
+    "officialId": 178
   },
   {
     "id": "tec-comun-t15_19",
@@ -726,10 +726,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Una mayor supervivencia a los 10 años en todos los tumores."
+      "Mejores resultados en salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -848,7 +848,7 @@
     "imageUrl": null,
     "module": "tec-comun-t15",
     "explanation": "PROMs son las siglas de Patient-Reported Outcome Measures, es decir, Medidas de Resultados Reportadas por los y las Pacientes, instrumento clave para evaluar la calidad de vida percibida.",
-    "officialId": 2025
+    "officialId": 183
   },
   {
     "id": "tec-comun-t15_24",
@@ -874,10 +874,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Aumentar la esperanza de vida a 90 años."
+      "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud."
     ],
     "multipleCorrect": false,
     "hasImage": false,

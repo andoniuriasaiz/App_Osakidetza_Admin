@@ -23,10 +23,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Únicamente a los servicios sanitarios de financiación pública."
+      "A los servicios sanitarios de financiación pública. También a los privados en lo que se refiere al control de las actividades de salud pública y en materia de garantías de información, seguridad y calidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -134,10 +134,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación + transporte urgente + farmacéutica + ortoprotésica; cubiertos completamente por financiación pública."
+      "Actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación + transporte sanitario urgente; cubiertos completamente por financiación pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -145,7 +145,7 @@
     "imageUrl": null,
     "module": "tec-comun-t02",
     "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 11
+    "officialId": 14
   },
   {
     "id": "tec-comun-t02_5",
@@ -171,10 +171,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Únicamente la prestación farmacéutica y la prestación ortoprotésica."
+      "La prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -182,7 +182,7 @@
     "imageUrl": null,
     "module": "tec-comun-t02",
     "explanation": "Art. 8 ter Ley 16/2003: cartera suplementaria = farmacéutica + ortoprotésica + productos dietéticos; con aportación del usuario.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 11
+    "officialId": 15
   },
   {
     "id": "tec-comun-t02_6",
@@ -208,10 +208,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "La rehabilitación básica."
+      "Ninguna de las respuestas anteriores es correcta."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -256,7 +256,7 @@
     "imageUrl": null,
     "module": "tec-comun-t02",
     "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 11
+    "officialId": 17
   },
   {
     "id": "tec-comun-t02_8",
@@ -282,10 +282,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Requiera una formación para la que no exista la especialidad médica correspondiente."
+      "Se evidencie su falta de eficacia, efectividad o eficiencia, o que el balance beneficio-riesgo sea significativamente desfavorable."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -293,7 +293,7 @@
     "imageUrl": null,
     "module": "tec-comun-t02",
     "explanation": "Art. 9.2 Ley 16/2003: la exclusión procede por falta de eficacia, efectividad o eficiencia, o balance beneficio-riesgo desfavorable.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 11
+    "officialId": 18
   },
   {
     "id": "tec-comun-t02_9",
@@ -356,10 +356,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Establecer planes preventivos para hacer frente a situaciones de especial riesgo o alarma para la salud pública."
+      "Las respuestas a) y b) son verdaderas y la c) es falsa."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -367,6 +367,6 @@
     "imageUrl": null,
     "module": "tec-comun-t02",
     "explanation": "Art. 65 Ley 16/2003: actuaciones coordinadas para responder a riesgo/alarma (a) o establecer planes preventivos (b). Los análisis epidemiológicos (c) no son supuesto de declaración coordinada.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 11
+    "officialId": 20
   }
 ]

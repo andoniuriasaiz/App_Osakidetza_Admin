@@ -60,10 +60,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Todas las personas residentes en Euskadi o fuera de Euskadi, así como para las personas transeúntes."
+      "Todas las personas residentes en el territorio de Euskadi, así como para las personas transeúntes."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -97,10 +97,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Universalidad."
+      "Solidaridad ciudadana."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -134,10 +134,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "La CAPV se divide territorialmente en áreas de salud de acuerdo con la situación socio-económica de cada demarcación geográfica."
+      "En cada área de salud se garantizará una adecuada ordenación de la atención primaria y su coordinación con la atención especializada."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -171,10 +171,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Que conste el previo consentimiento de la persona afectada por escrito y que se garantice el anonimato de la información."
+      "Si no consta el previo consentimiento de la persona afectada se requiere que la actuación se encuentre debidamente autorizada y se efectúe previo procedimiento de disociación que garantice el anonimato de la información."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -319,10 +319,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Son correctas las respuestas a) y c)."
+      "El Departamento competente en materia de sanidad debe elaborar anualmente y remitir al Parlamento un informe con la evaluación de los objetivos y determinaciones del Plan de Salud de Euskadi."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -689,10 +689,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Será sometida a informe del Consejo de Administración del Ente."
+      "Todas las anteriores son ciertas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -726,10 +726,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Ninguna de las anteriores."
+      "La Presidencia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -763,10 +763,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Presidirá las reuniones del Consejo de Administración del Ente."
+      "Asistirá a las reuniones del Consejo de Administración del Ente con voz y sin voto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -848,7 +848,7 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "La promoción de acuerdos de cooperación con centros de sanidad privada no es una función de gestión de RRHH de la organización central. La opción B es incorrecta en este contexto.",
-    "officialId": 57
+    "officialId": 58
   },
   {
     "id": "tec-comun-t04_24",
@@ -985,10 +985,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Todas las anteriores son falsas."
+      "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1022,10 +1022,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Descentralizar la organización delegando en quienes ostenten la responsabilidad clínica facultades de gestión, aunque solo en materia de personal."
+      "Descentralizar la organización delegando en quienes ostenten la responsabilidad clínica facultades de gestión tanto en materia económica como de personal, de acuerdo con el marco estratégico y el contrato-programa."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1059,10 +1059,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "A quien ostente la titularidad de la Dirección-Gerencia de cada organización de servicios sanitarios."
+      "La organización central de administración y gestión corporativa del ente público Osakidetza."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1096,10 +1096,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Ninguna de las anteriores."
+      "Quien ostente la titularidad de la Dirección-Gerencia del Ente."
     ],
     "multipleCorrect": false,
     "hasImage": false,

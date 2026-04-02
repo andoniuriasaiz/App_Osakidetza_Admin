@@ -33,7 +33,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 2.1.b Ley 44/2003: Para poder ejercer una profesión sanitaria, es requisito imprescindible 'la colegiación, cuando una ley estatal establezca esta obligación para el ejercicio de una profesión titulada o algunas actividades propias de ésta'. Respuesta A.",
+    "explanation": "Art. 2 Ley 44/2003: la colegiación es requisito imprescindible cuando una ley estatal la establezca.",
     "originalId": 1
   },
   {
@@ -292,7 +292,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5.1.a Ley 44/2003: Las personas pacientes 'tienen derecho a recibir información sobre su proceso en los términos previstos en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente'. La remisión expresa es a la Ley 41/2002. Respuesta C.",
+    "explanation": "La Ley 44/2003 remite expresamente a la Ley 41/2002 para el derecho de información.",
     "originalId": 8
   },
   {
@@ -329,7 +329,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 6.2 Ley 44/2003: Corresponde al licenciado/graduado en Medicina las actividades de: promoción y mantenimiento de la salud, prevención de enfermedades, diagnóstico, tratamiento, terapéutica, rehabilitación y enjuiciamiento/pronóstico. La DISPENSACIÓN de medicamentos es competencia del farmacéutico (art. 6.3.e Ley 44/2003), NO del médico. Respuesta B.",
+    "explanation": "La dispensación de medicamentos es función del farmacéutico (incorrecta para médico).",
     "originalId": 9
   },
   {
@@ -393,10 +393,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Se articulará de forma jerarquizada o colegiada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
+      "Ninguna de las anteriores es correcta."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -467,10 +467,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Cada cuatro años."
+      "La Ley no lo determina explícitamente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -555,6 +555,43 @@
     "originalId": 15
   },
   {
+    "id": "comun-t04_1",
+    "questionNum": 1,
+    "question": "Quien ostente la titularidad de los centros sanitarios y los servicios de salud podrá formalizar convenios y conciertos con el Instituto de Salud Carlos III, con otros centros de investigación, públicos o privados, y con otras instituciones que tengan interés en la investigación sanitaria, para (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El desarrollo de programas de investigación."
+      },
+      {
+        "value": 2,
+        "text": "La designación de la tutoría de la investigación."
+      },
+      {
+        "value": 3,
+        "text": "La dotación de plazas vinculadas o específicas de investigación, en los establecimientos sanitarios."
+      },
+      {
+        "value": 4,
+        "text": "El establecimiento de sistemas específicos de formación de personal investigador durante el período inmediatamente anterior a la obtención del título de especialista."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El establecimiento de sistemas específicos de formación de personal investigador durante el período inmediatamente anterior a la obtención del título de especialista."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t04",
+    "explanation": "Art. 85 Ley 8/1997: Los convenios con el Instituto de Salud Carlos III y otros centros de investigación se formalizarán para: desarrollo de programas de investigación, dotación de plazas vinculadas de investigación, y formación de personal investigador. La 'designación de la tutoría de la investigación' NO aparece como finalidad de estos convenios. Respuesta D.",
+    "originalId": 16
+  },
+  {
     "id": "comun-t01_16",
     "questionNum": 16,
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, diga cuál de los siguientes principios generales de la relación entre las personas que ejercen profesiones sanitarias y las personas atendidas no es tal:",
@@ -588,7 +625,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t01",
-    "explanation": "Art. 5.1 Ley 44/2003: Entre los deberes del personal sanitario está informar sobre su titulación, especialidad, categoría y función, pero NO se exige informar sobre 'la forma en que han actualizado sus conocimientos' ni sobre 'demandas de responsabilidad que hayan derivado en responsabilidades administrativas'. La opción C describe un deber inexistente en la ley. Respuesta C.",
+    "explanation": "C es el principio falso: no existe deber de informar sobre demandas de responsabilidad administrativa.",
     "originalId": 17
   },
   {
@@ -703,43 +740,6 @@
     "originalId": 20
   },
   {
-    "id": "comun-t01_20",
-    "questionNum": 20,
-    "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028 contempla que tanto en los servicios de recepción y admisión, como en las unidades asistenciales y administrativas a toda la ciudadanía vascohablante debe garantizarse:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "La recepción en euskera."
-      },
-      {
-        "value": 2,
-        "text": "La recepción en euskera solo cuando la comunicación oral con pacientes y personas usuarias sea de modo presencial."
-      },
-      {
-        "value": 3,
-        "text": "La recepción en euskera solo cuando la comunicación con pacientes y personas usuarias sea telefónicamente."
-      },
-      {
-        "value": 4,
-        "text": "La recepción en euskera solo por las y los empleados que sepan en euskera."
-      }
-    ],
-    "correctAnswerNums": [
-      1
-    ],
-    "correctAnswers": [
-      "La recepción en euskera."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t01",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: En los servicios de recepción y admisión, y en las unidades asistenciales y administrativas, a toda la ciudadanía vascohablante debe garantizarse 'la recepción en euskera', independientemente del canal (presencial o telefónico). Respuesta A.",
-    "originalId": 261
-  },
-  {
     "id": "comun-t02_1",
     "questionNum": 1,
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, sus disposiciones se aplicarán a:",
@@ -773,7 +773,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 14 Ley 16/2003: La atención sociosanitaria comprende el conjunto de cuidados destinados a aquellos enfermos, generalmente crónicos, que por sus especiales características pueden beneficiarse de la actuación simultánea y sinergética de los servicios sanitarios y sociales. Respuesta B.",
+    "explanation": "Art. 2 Ley 16/2003: aplicación a servicios públicos y privados en seguridad y calidad.",
     "originalId": 21
   },
   {
@@ -837,10 +837,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "A recibir el reembolso de los gastos derivados de la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a."
+      "A recibir asistencia sanitaria en su comunidad autónoma de residencia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -874,17 +874,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios."
+      "Cartera común básica nacional de servicios asistenciales y cartera común autonómica de servicios asistenciales."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7.1 Ley 16/2003: 'La cartera común de servicios del Sistema Nacional de Salud se articula en torno a las siguientes modalidades: cartera común básica de servicios asistenciales, cartera común suplementaria y cartera común de servicios accesorios.' Respuesta A.",
+    "explanation": "Art. 8bis SNS: tres modalidades (básica, suplementaria, accesorios).",
     "originalId": 24
   },
   {
@@ -921,7 +921,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 8 bis Ley 16/2003: La cartera común básica de servicios asistenciales se acordará en el seno del Consejo Interterritorial del SNS y SE APROBARÁ MEDIANTE REAL DECRETO del Consejo de Ministros. Es una norma estatal, no autonómica. Respuesta B.",
+    "explanation": "Art. 8bis: la cartera básica se aprueba por Real Decreto.",
     "originalId": 25
   },
   {
@@ -958,7 +958,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 8 bis.2 Ley 16/2003: La cartera común básica comprende las actividades asistenciales (prevención, diagnóstico, tto...) y el TRANSPORTE SANITARIO URGENTE. La prestación farmacéutica y ortoprotésica forman parte de la CARTERA SUPLEMENTARIA (sujeta a copago), no de la básica (financiada al 100%). Respuesta D.",
+    "explanation": "Cartera básica = asistenciales + transporte urgente. Farmacia/Ortoprotésica son suplementaria.",
     "originalId": 26
   },
   {
@@ -1032,7 +1032,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta A.",
+    "explanation": "Servicios accesorios sujetos a aportación y/o reembolso.",
     "originalId": 28
   },
   {
@@ -1106,7 +1106,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7.3 Ley 16/2003: Las comunidades autónomas pueden incorporar técnicas no contempladas en la cartera común, pero con anterioridad deberán 'informar, de forma motivada, al Consejo Interterritorial del Sistema Nacional de Salud'. La afirmación es correcta tal cual. Respuesta A.",
+    "explanation": "Art. 20.2: las CCAA SÍ deben informar motivadamente al CISNS.",
     "originalId": 30
   },
   {
@@ -1180,7 +1180,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta B.",
+    "explanation": "La Red de Agencias de ETS participa en la evaluación, no es preceptiva solitariamente.",
     "originalId": 32
   },
   {
@@ -1217,7 +1217,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 10 Ley 16/2003: La exclusión de una técnica se producirá 'cuando se evidencie su falta de eficacia, efectividad o eficiencia, o que el balance entre beneficio y riesgo sea significativamente desfavorable'. Solo el primer criterio está establecido, no los motivos formativos ni económicos per se. Respuesta A.",
+    "explanation": "Exclusión solo procede por falta de eficacia/eficiencia o balance riesgo desfavorable.",
     "originalId": 33
   },
   {
@@ -1244,10 +1244,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud y acreditados por la autoridad correspondiente de la Comunidad Autónoma donde se ubiquen."
+      "Serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud, acreditados por el Ministerio de Sanidad y Consumo y financiados por la Comunidad Autónoma donde se ubiquen."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1291,7 +1291,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 89 Ley 29/2006 y Art. 94 Ley 16/2003: La decisión sobre la financiación pública de medicamentos de uso humano y veterinario es una COMPETENCIA ESTATAL, concretamente del Ministerio de Sanidad. No es potestad de las CCAA. Respuesta B.",
+    "explanation": "Financiación medicamentos = competencia Ministerio de Sanidad.",
     "originalId": 35
   },
   {
@@ -1328,7 +1328,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t02",
-    "explanation": "Art. 36 Ley 16/2003: 'El diseño de programas de formación y modernización de los recursos humanos del SNS corresponde a la Comisión de Recursos Humanos del Sistema Nacional de Salud, sin perjuicio de las competencias de las comunidades autónomas.' Respuesta A.",
+    "explanation": "Art. 37: la Comisión de RRHH del SNS diseña programas de formación.",
     "originalId": 36
   },
   {
@@ -1429,10 +1429,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Las respuestas a) y b) son falsas."
+      "El registro de acontecimientos adversos, que recogerá información sobre aquellas prácticas que hayan resultado un problema potencial de seguridad para la persona paciente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1478,43 +1478,6 @@
     "module": "comun-t02",
     "explanation": "Art. 65 Ley 16/2003: Las actuaciones coordinadas en salud pública deberán encuadrarse en: responder a situaciones de especial riesgo o alarma (a), o establecer planes preventivos frente a esas situaciones (b). Los análisis epidemiológicos del apartado c) no constituyen por sí solos un supuesto de declaración de actuaciones coordinadas. Respuesta D (a y b correctas, c falsa).",
     "originalId": 40
-  },
-  {
-    "id": "comun-t02_21",
-    "questionNum": 21,
-    "question": "El personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "No ostenta el derecho individual a la libre sindicación."
-      },
-      {
-        "value": 2,
-        "text": "Ostenta el derecho a la actividad sindical."
-      },
-      {
-        "value": 3,
-        "text": "Ostenta el derecho de reunión, que podrá ejercerlo siempre que cuente con la necesaria autorización previa."
-      },
-      {
-        "value": 4,
-        "text": "Todas las respuestas son correctas."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "Ostenta el derecho a la actividad sindical."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t02",
-    "explanation": "Art. 18 Ley 55/2003: El personal estatutario ostenta el derecho a la actividad sindical. El derecho de reunión no requiere autorización previa (art. 19 EM). La libre sindicación SÍ está reconocida. La opción correcta es la b) 'ostenta el derecho a la actividad sindical'. Respuesta B.",
-    "originalId": 43
   },
   {
     "id": "comun-t03_1",
@@ -1589,6 +1552,43 @@
     "module": "comun-t03",
     "explanation": "Art. 2 Ley 55/2003: Los principios y criterios son: igualdad, mérito, capacidad y publicidad (no solo 'sometimiento pleno a ley y derecho' como principio rector de la ordenación). Los demás principios mencionados (integración en el régimen organizativo, coordinación entre administraciones) SÍ están. El 'sometimiento pleno a la ley y el derecho' es un principio general pero no de los específicamente enumerados en la ordenación del régimen estatutario. Respuesta B.",
     "originalId": 42
+  },
+  {
+    "id": "comun-t02_21",
+    "questionNum": 21,
+    "question": "El personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No ostenta el derecho individual a la libre sindicación."
+      },
+      {
+        "value": 2,
+        "text": "Ostenta el derecho a la actividad sindical."
+      },
+      {
+        "value": 3,
+        "text": "Ostenta el derecho de reunión, que podrá ejercerlo siempre que cuente con la necesaria autorización previa."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t02",
+    "explanation": "Art. 18 Ley 55/2003: El personal estatutario ostenta el derecho a la actividad sindical. El derecho de reunión no requiere autorización previa (art. 19 EM). La libre sindicación SÍ está reconocida. La opción correcta es la b) 'ostenta el derecho a la actividad sindical'. Respuesta B.",
+    "originalId": 43
   },
   {
     "id": "comun-t03_3",
@@ -1688,10 +1688,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "En caso de que se adopte la pena de inhabilitación especial para la correspondiente profesión, siempre que esta exceda de tres años."
+      "En caso de que se adopte la pena de inhabilitación especial para la correspondiente profesión, siempre que esta exceda de seis años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1762,10 +1762,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Todas las anteriores respuestas son correctas."
+      "En caso de recaer sanción firme disciplinaria de separación del servicio."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1947,10 +1947,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "El período de localización es aquel período de tiempo en el que el personal se encuentra en situación de disponibilidad a los solos efectos de asegurar su posible localización."
+      "Se considera período de descanso todo período de tiempo que no sea tiempo de trabajo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2058,10 +2058,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "El descanso ininterrumpido de 12 horas entre el fin de una jornada y el comienzo de la siguiente solo podrá reducirse en el caso de trabajo a turnos, cuando el personal cambie de equipo y no pueda disfrutar del período de descanso diario entre el final de la jornada de un equipo y el comienzo de la jornada del siguiente."
+      "Se podrán establecer jornadas ordinarias de hasta 24 horas con carácter excepcional y cuando así lo aconsejen razones organizativas o asistenciales."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2095,10 +2095,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Al personal estatutario de los servicios de salud le resulta aplicable el mismo régimen de incompatibilidades establecido para el personal funcionario."
+      "Atendiendo a lo que establezca la legislación vigente, el personal estatutario de los servicios de salud podrá compatibilizar las funciones sanitarias y docente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2132,10 +2132,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "En el caso de que no se hubiera disfrutado del tiempo mínimo de descanso semanal en el período de tres meses se producirá una compensación a través del régimen de descansos alternativos."
+      "El período de referencia para el cálculo del período de descanso semanal será de dos meses."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2218,117 +2218,6 @@
     "module": "comun-t03",
     "explanation": "Art. 67 Ley 55/2003: 'La excedencia voluntaria por interés particular exige haber prestado servicios efectivos en cualquiera de las administraciones públicas durante LOS CINCO AÑOS INMEDIATAMENTE ANTERIORES.' Respuesta A.",
     "originalId": 60
-  },
-  {
-    "id": "comun-t03_20",
-    "questionNum": 20,
-    "question": "Respecto al personal sujeto al régimen estatutario que establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale la respuesta correcta:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "Este vínculo estatutario se adquiere mediante el cumplimiento de los dos siguientes requisitos: superación del proceso selectivo correspondiente y nombramiento conferido por autoridad competente."
-      },
-      {
-        "value": 2,
-        "text": "Los principios que rigen el procedimiento selectivo para la adquisición del vínculo estatutario son exclusivamente el de igualdad, mérito y capacidad."
-      },
-      {
-        "value": 3,
-        "text": "Los instrumentos de clasificación del personal sujeto a este régimen estatutario son el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe."
-      },
-      {
-        "value": 4,
-        "text": "El grupo de titulación constituye el instrumento de clasificación del personal en base al agrupamiento unitario de las aptitudes profesionales y contenido específico da las tareas propias de la prestación."
-      }
-    ],
-    "correctAnswerNums": [
-      3
-    ],
-    "correctAnswers": [
-      "Los instrumentos de clasificación del personal sujeto a este régimen estatutario son el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t03",
-    "explanation": "Art. 30 Ley 8/1997: Los instrumentos de clasificación del personal estatutario son: 'el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe.' Respuesta C.",
-    "originalId": 80
-  },
-  {
-    "id": "comun-t03_21",
-    "questionNum": 21,
-    "question": "¿La Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, es aplicable al personal estatutario de los servicios de salud?",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "No, porque se rige por normativa específica exclusivamente."
-      },
-      {
-        "value": 2,
-        "text": "Sí, como personal al servicio de las Administraciones Públicas."
-      },
-      {
-        "value": 3,
-        "text": "Solo si tienen plaza en propiedad."
-      },
-      {
-        "value": 4,
-        "text": "Solo al personal directivo."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "Sí, como personal al servicio de las Administraciones Públicas."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t03",
-    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
-    "originalId": 296
-  },
-  {
-    "id": "comun-t04_1",
-    "questionNum": 1,
-    "question": "Quien ostente la titularidad de los centros sanitarios y los servicios de salud podrá formalizar convenios y conciertos con el Instituto de Salud Carlos III, con otros centros de investigación, públicos o privados, y con otras instituciones que tengan interés en la investigación sanitaria, para (señálese la respuesta incorrecta):",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "El desarrollo de programas de investigación."
-      },
-      {
-        "value": 2,
-        "text": "La designación de la tutoría de la investigación."
-      },
-      {
-        "value": 3,
-        "text": "La dotación de plazas vinculadas o específicas de investigación, en los establecimientos sanitarios."
-      },
-      {
-        "value": 4,
-        "text": "El establecimiento de sistemas específicos de formación de personal investigador durante el período inmediatamente anterior a la obtención del título de especialista."
-      }
-    ],
-    "correctAnswerNums": [
-      4
-    ],
-    "correctAnswers": [
-      "El establecimiento de sistemas específicos de formación de personal investigador durante el período inmediatamente anterior a la obtención del título de especialista."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t04",
-    "explanation": "Art. 85 Ley 8/1997: Los convenios con el Instituto de Salud Carlos III y otros centros de investigación se formalizarán para: desarrollo de programas de investigación, dotación de plazas vinculadas de investigación, y formación de personal investigador. La 'designación de la tutoría de la investigación' NO aparece como finalidad de estos convenios. Respuesta D.",
-    "originalId": 16
   },
   {
     "id": "comun-t04_2",
@@ -2465,10 +2354,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "En cada área de salud se garantizará una adecuada ordenación de la atención primaria y su coordinación con la atención especializada."
+      "Son correctas la a) y la c)."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2613,10 +2502,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "La obligación de dejar constancia por cualquier medio de todo proceso diagnóstico o terapéutico."
+      "La obligación de dejar constancia escrita de todo proceso diagnóstico o terapéutico."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2724,10 +2613,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Ente público con personalidad jurídica propia y adscrito al Departamento de la Administración General competente en materia de salud."
+      "Ente público de derecho privado con personalidad jurídica propia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2736,6 +2625,43 @@
     "module": "comun-t04",
     "explanation": "Art. 25 Ley 8/1997: 'Osakidetza-Servicio Vasco de Salud se constituye como ENTE PÚBLICO con personalidad jurídica propia adscrito al Departamento de la Administración General competente en materia de salud.' Respuesta A.",
     "originalId": 71
+  },
+  {
+    "id": "comun-t05_1",
+    "questionNum": 1,
+    "question": "El consejo de administración de Osakidetza-Servicio Vasco de Salud está integrado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La persona titular de la presidencia y por un número no superior a cinco miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 2,
+        "text": "La persona titular de la presidencia y por un número no superior a tres miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "La persona titular de la presidencia y por cinco miembros en representación del Departamento competente en materia de sanidad."
+      },
+      {
+        "value": 4,
+        "text": "La persona titular de la presidencia, la Consejería del Departamento competente en materia de sanidad y tres miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La persona titular de la presidencia y por un número no superior a cinco miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 6 Decreto 255/1997: El Consejo de Administración de Osakidetza está integrado por 'la persona titular de la presidencia y por un número no superior a CINCO miembros en representación de la Administración de la Comunidad Autónoma de Euskadi'. Respuesta A.",
+    "originalId": 72
   },
   {
     "id": "comun-t04_13",
@@ -2835,10 +2761,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Del Departamento competente en materia de sanidad."
+      "Del Gobierno Vasco."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2946,10 +2872,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Sin perjuicio de la multa que proceda imponer, en ciertos casos, la sanción económica que se imponga podrá ser incrementada hasta el triple de la cuantía del beneficio ilícito obtenido."
+      "En los casos de infracciones muy graves, el Gobierno Vasco podrá acordar el cierre temporal del establecimiento, instalación o servicio por un plazo máximo de cinco años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -2997,6 +2923,43 @@
     "originalId": 79
   },
   {
+    "id": "comun-t03_20",
+    "questionNum": 20,
+    "question": "Respecto al personal sujeto al régimen estatutario que establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale la respuesta correcta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Este vínculo estatutario se adquiere mediante el cumplimiento de los dos siguientes requisitos: superación del proceso selectivo correspondiente y nombramiento conferido por autoridad competente."
+      },
+      {
+        "value": 2,
+        "text": "Los principios que rigen el procedimiento selectivo para la adquisición del vínculo estatutario son exclusivamente el de igualdad, mérito y capacidad."
+      },
+      {
+        "value": 3,
+        "text": "Los instrumentos de clasificación del personal sujeto a este régimen estatutario son el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe."
+      },
+      {
+        "value": 4,
+        "text": "El grupo de titulación constituye el instrumento de clasificación del personal en base al agrupamiento unitario de las aptitudes profesionales y contenido específico da las tareas propias de la prestación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los instrumentos de clasificación del personal sujeto a este régimen estatutario son el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 30 Ley 8/1997: Los instrumentos de clasificación del personal estatutario son: 'el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe.' Respuesta C.",
+    "originalId": 80
+  },
+  {
     "id": "comun-t04_20",
     "questionNum": 20,
     "question": "El ente público Osakidetza-Servicio Vasco de Salud es:",
@@ -3020,10 +2983,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "El Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de ente público de derecho privado o público."
+      "Las tres anteriores son erróneas"
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -3108,6 +3071,43 @@
     "originalId": 83
   },
   {
+    "id": "comun-t05_2",
+    "questionNum": 2,
+    "question": "La función de nombrar y separar a quienes ocupen las Direcciones de División de la organización central del ente público Osakidetza-Servicio Vasco de Salud corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Consejo de Administración del Ente."
+      },
+      {
+        "value": 2,
+        "text": "La Dirección General del Ente."
+      },
+      {
+        "value": 3,
+        "text": "La Presidencia del Ente."
+      },
+      {
+        "value": 4,
+        "text": "Ninguno de los anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El Consejo de Administración del Ente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Decreto 255/1997, art. 22: El nombramiento y separación de los Directores de División de la organización central de Osakidetza es competencia del Consejo de Administración, a propuesta del Director General. La app indica C (Director General) pero la competencia recae en el Consejo de Administración. Respuesta B.",
+    "originalId": 84
+  },
+  {
     "id": "comun-t04_23",
     "questionNum": 23,
     "question": "La composición del Consejo del ente público Osakidetza-Servicio Vasco de Salud contará, además de la persona que ejerza la Presidencia:",
@@ -3131,10 +3131,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Con cinco integrantes en representación de la Administración de la Comunidad Autónoma, que nombrará el Gobierno: una persona a propuesta de la titularidad del Departamento de Hacienda y Administración Pública, otra a propuesta de quien ostente la titularidad de Bienestar Social y las tres restantes a propuesta de la persona titular de Sanidad."
+      "Con cinco integrantes en representación de la Administración de la Comunidad Autónoma, que nombrará el Gobierno: dos a propuesta de la persona titular del Departamento de Hacienda y Administración Pública y las tres restantes a propuesta de la persona titular de Sanidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -3215,8 +3215,82 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 255/1997: La propuesta de Plan Estratégico será formulada por la DIRECCIÓN GENERAL (Art. 13.a), informada por el Consejo de Administración y aprobada por la Presidencia. La respuesta correcta es la A.",
+    "explanation": "La Dirección General formula la propuesta del Plan Estratégico.",
     "originalId": 87
+  },
+  {
+    "id": "comun-t05_3",
+    "questionNum": 3,
+    "question": "La función de convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones del Consejo de Administración del ente público OsakidetzaServicio vasco de salud y decidir los empates con su voto de calidad corresponderá a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Dirección General."
+      },
+      {
+        "value": 2,
+        "text": "La Presidencia."
+      },
+      {
+        "value": 3,
+        "text": "La persona de mayor antigüedad del Consejo de Administración."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La Presidencia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 8 Decreto 255/1997: La función de 'convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones y decidir los empates con su voto de calidad' en el Consejo de Administración corresponde a 'LA PRESIDENCIA'. Respuesta B.",
+    "originalId": 88
+  },
+  {
+    "id": "comun-t05_4",
+    "questionNum": 4,
+    "question": "De acuerdo con el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del ente público Osakidetza-Servicio Vasco de Salud, para el desarrollo de sus funciones, la Dirección General del ente público Osakidetza-Servicio Vasco de Salud contará con el apoyo de un equipo directivo formado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dos Direcciones de División."
+      },
+      {
+        "value": 2,
+        "text": "Tres Direcciones de División."
+      },
+      {
+        "value": 3,
+        "text": "Cuatro Direcciones de División."
+      },
+      {
+        "value": 4,
+        "text": "La norma no establece el número concreto de Direcciones de División."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Tres Direcciones de División."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Decreto 255/1997: el equipo directivo cuenta con TRES Direcciones de División.",
+    "originalId": 89
   },
   {
     "id": "comun-t04_26",
@@ -3254,6 +3328,117 @@
     "module": "comun-t04",
     "explanation": "Decreto 255/1997: La persona titular de la Dirección General 'asistirá a las reuniones del Consejo de Administración CON VOZ Y SIN VOTO.' Respuesta D.",
     "originalId": 90
+  },
+  {
+    "id": "comun-t05_5",
+    "questionNum": 5,
+    "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión asistencial (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Supervisar el cumplimiento de las políticas generales de calidad y realizar auditorías."
+      },
+      {
+        "value": 2,
+        "text": "Definir criterios generales y proponer la política de precios correspondiente a la prestación de servicios sanitarios incluida en la cobertura pública."
+      },
+      {
+        "value": 3,
+        "text": "Coordinar los recursos y, en su caso, proponer medidas de intervención sobre las listas de espera."
+      },
+      {
+        "value": 4,
+        "text": "Promover protocolos de interés general."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Definir criterios generales y proponer la política de precios correspondiente a la prestación de servicios sanitarios incluida en la cobertura pública."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 20 Decreto 255/1997: En materia de gestión asistencial, corresponde a la organización central: supervisar el cumplimiento de políticas de calidad y realizar auditorías (a), coordinar recursos y proponer medidas sobre listas de espera (c), y promover protocolos de interés general (d). 'Definir criterios y proponer la política de precios' NO es función de la organización central en materia de gestión asistencial — los precios se fijan a nivel superior. Respuesta B.",
+    "originalId": 91
+  },
+  {
+    "id": "comun-t05_6",
+    "questionNum": 6,
+    "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión de recursos humanos (señálese la respuesta incorrecta):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Supervisar, controlar y evaluar las políticas de personal del Ente."
+      },
+      {
+        "value": 2,
+        "text": "Promover acuerdos de cooperación con centros correspondientes a la sanidad privada."
+      },
+      {
+        "value": 3,
+        "text": "Dirigir el funcionamiento del registro de personal."
+      },
+      {
+        "value": 4,
+        "text": "Gestionar los procesos de selección y de provisión que el Consejo de Administración determine, por su carácter general, previsible número de aspirantes u otras circunstancias análogas, y, a tal fin, convocarlos, establecer sus bases, programas y contenidos, y designar a los tribunales calificadores de los mismos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Promover acuerdos de cooperación con centros correspondientes a la sanidad privada."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Art. 21 Decreto 255/1997: En materia de gestión de recursos humanos, corresponde a la organización central: supervisar políticas de personal (a), dirigir el registro de personal (c), y gestionar procesos de selección (d). 'Promover acuerdos de cooperación con centros de sanidad PRIVADA' NO es función de la organización central en gestión de RRHH. Respuesta B.",
+    "originalId": 92
+  },
+  {
+    "id": "comun-t05_7",
+    "questionNum": 7,
+    "question": "De acuerdo con lo que señala el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del ente público Osakidetza-Servicio Vasco de Salud, cada organización de servicios sanitarios dependiente del ente público tendrá definido su objeto de actividad o ámbito de actuación sanitaria de conformidad con lo dispuesto específicamente en la:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ley 41/2002 de Autonomía del Paciente."
+      },
+      {
+        "value": 2,
+        "text": "Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
+      },
+      {
+        "value": 3,
+        "text": "Decreto 17/2022, de 1 de febrero, del Registro Vasco de Profesionales del ámbito sanitario."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "El Decreto 255/1997 remite a la Ley 8/1997 de Ordenación Sanitaria de Euskadi.",
+    "originalId": 93
   },
   {
     "id": "comun-t04_27",
@@ -3326,7 +3511,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Decreto 255/1997, Art. 21: 'El número de integrantes de este equipo será determinado por el Consejo de Administración, a propuesta de la Dirección-Gerencia de la organización, NO PUDIENDO EXCEDER DE CINCO'. No oscila entre 2 y 3. Respuesta D.",
+    "explanation": "Equipo directivo: máximo de cinco personas.",
     "originalId": 95
   },
   {
@@ -3367,6 +3552,43 @@
     "originalId": 96
   },
   {
+    "id": "comun-t06_1",
+    "questionNum": 1,
+    "question": "Para el desarrollo de funciones de propuesta y asesoramiento, así como de participación en las organizaciones de servicios sanitarios, existirá un Consejo de Dirección en cada una de ellas, integrado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+      },
+      {
+        "value": 2,
+        "text": "El equipo directivo, las jefaturas de unidad que se determinen, representantes sindicales y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+      },
+      {
+        "value": 3,
+        "text": "El equipo directivo y las jefaturas de unidad que se determinen."
+      },
+      {
+        "value": 4,
+        "text": "Todas las anteriores son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t06",
+    "explanation": "Art. 24 Decreto 255/1997 / Decreto 100/2018: El Consejo de Dirección de cada organización de servicios está integrado por 'el equipo directivo, las jefaturas de unidad que se determinen y una REPRESENTACIÓN DE PERSONAS VOCALES ELECTAS que formen parte de los Consejos Técnicos de participación profesional respectivos.' No se incluyen representantes sindicales. Respuesta A.",
+    "originalId": 97
+  },
+  {
     "id": "comun-t04_30",
     "questionNum": 30,
     "question": "Las organizaciones de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud podrán:",
@@ -3404,6 +3626,43 @@
     "originalId": 98
   },
   {
+    "id": "comun-t05_8",
+    "questionNum": 8,
+    "question": "En materia específica de inversiones, la competencia para ejecutar las compras de suministros que se consideren centralizadas, así como definir y/o ejecutar, en su caso, las consideradas integradas corresponde a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Consejo de Administración del ente público Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 2,
+        "text": "La organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 3,
+        "text": "La organización de servicios del ente público Osakidetza-Servicio Vasco de Salud."
+      },
+      {
+        "value": 4,
+        "text": "A quien ostente la titularidad de la Dirección-Gerencia de cada organización de servicios sanitarios del Osakidetza-Servicio Vasco de Salud."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t05",
+    "explanation": "Las compras centralizadas corresponden a la organización central de Osakidetza.",
+    "originalId": 99
+  },
+  {
     "id": "comun-t04_31",
     "questionNum": 31,
     "question": "En el ámbito de una organización de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud, presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento es una tarea que corresponde a:",
@@ -3427,10 +3686,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Quien ostente la titularidad de la Dirección-Gerencia del Ente."
+      "Ninguna de las anteriores."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -3511,7 +3770,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 1 Decreto 100/2018: Las OSI integran la ATENCIÓN PRIMARIA y la ATENCIÓN HOSPITALARIA. Es la base del modelo de integración asistencial de Osakidetza. Respuesta D.",
+    "explanation": "OSI = Atención Primaria + Atención Hospitalaria.",
     "originalId": 102
   },
   {
@@ -3686,10 +3945,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "200.000 habitantes."
+      "100.000 habitantes."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -3945,10 +4204,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Dirección de Atención Integrada."
+      "Dirección Gerencia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -4167,10 +4426,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "La persona titular de la Dirección Médica."
+      "La persona titular de la Dirección Gerencia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -4315,17 +4574,17 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "En relación a todas las acciones de carácter sanitario, incluyendo docencia, que se desarrollen en los centros, servicios o establecimientos sanitarios de titularidad pública o privada o concertados de Euskadi. Las acciones relativas a la investigación biomédica quedan fuera de esta Declaración y se rigen por su normativa específica."
+      "Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; medidas de salud pública; obtención de la Tarjeta Individual Sanitaria."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t04",
-    "explanation": "Art. 2 Decreto 147/2015: El ámbito de aplicación incluye centros públicos, privados y concertados, y expresamente excluye la investigación biomédica (Art. 2.2), que se rige por su propia ley. Respuesta A.",
+    "explanation": "Ámbitos D.147/2015 incluyen investigación biomédica.",
     "originalId": 124
   },
   {
@@ -4736,43 +4995,6 @@
     "originalId": 135
   },
   {
-    "id": "comun-t04_67",
-    "questionNum": 67,
-    "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son funciones de los Servicios de Atención a Pacientes y personas Usuarias:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "Tramitar y responder a las iniciativas y sugerencias que formulen las personas usuarias y sus familiares."
-      },
-      {
-        "value": 2,
-        "text": "Formular propuestas de mediación cuando la naturaleza del tema sobre el que verse la reclamación lo permita."
-      },
-      {
-        "value": 3,
-        "text": "Comunicar a la dirección del centro, servicio o establecimiento sanitario la posible comisión de hechos o conductas que supongan el incumplimiento de los derechos y deberes de las personas usuarias."
-      },
-      {
-        "value": 4,
-        "text": "Todas las respuestas anteriores son correctas."
-      }
-    ],
-    "correctAnswerNums": [
-      4
-    ],
-    "correctAnswers": [
-      "Todas las respuestas anteriores son correctas."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t04",
-    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
-    "originalId": 136
-  },
-  {
     "id": "comun-t04_68",
     "questionNum": 68,
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los Servicios de Atención a Pacientes y personas Usuarias:",
@@ -4808,6 +5030,43 @@
     "module": "comun-t04",
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
     "originalId": 135
+  },
+  {
+    "id": "comun-t04_67",
+    "questionNum": 67,
+    "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son funciones de los Servicios de Atención a Pacientes y personas Usuarias:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tramitar y responder a las iniciativas y sugerencias que formulen las personas usuarias y sus familiares."
+      },
+      {
+        "value": 2,
+        "text": "Formular propuestas de mediación cuando la naturaleza del tema sobre el que verse la reclamación lo permita."
+      },
+      {
+        "value": 3,
+        "text": "Comunicar a la dirección del centro, servicio o establecimiento sanitario la posible comisión de hechos o conductas que supongan el incumplimiento de los derechos y deberes de las personas usuarias."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas anteriores son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t04",
+    "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
+    "originalId": 136
   },
   {
     "id": "comun-t04_69",
@@ -4921,339 +5180,6 @@
     "originalId": 140
   },
   {
-    "id": "comun-t05_1",
-    "questionNum": 1,
-    "question": "El consejo de administración de Osakidetza-Servicio Vasco de Salud está integrado por:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "La persona titular de la presidencia y por un número no superior a cinco miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
-      },
-      {
-        "value": 2,
-        "text": "La persona titular de la presidencia y por un número no superior a tres miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
-      },
-      {
-        "value": 3,
-        "text": "La persona titular de la presidencia y por cinco miembros en representación del Departamento competente en materia de sanidad."
-      },
-      {
-        "value": 4,
-        "text": "La persona titular de la presidencia, la Consejería del Departamento competente en materia de sanidad y tres miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
-      }
-    ],
-    "correctAnswerNums": [
-      1
-    ],
-    "correctAnswers": [
-      "La persona titular de la presidencia y por un número no superior a cinco miembros en representación de la Administración de la Comunidad Autónoma de Euskadi."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t05",
-    "explanation": "Art. 6 Decreto 255/1997: El Consejo de Administración de Osakidetza está integrado por 'la persona titular de la presidencia y por un número no superior a CINCO miembros en representación de la Administración de la Comunidad Autónoma de Euskadi'. Respuesta A.",
-    "originalId": 72
-  },
-  {
-    "id": "comun-t05_2",
-    "questionNum": 2,
-    "question": "La función de nombrar y separar a quienes ocupen las Direcciones de División de la organización central del ente público Osakidetza-Servicio Vasco de Salud corresponde a:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "El Consejo de Administración del Ente."
-      },
-      {
-        "value": 2,
-        "text": "La Dirección General del Ente."
-      },
-      {
-        "value": 3,
-        "text": "La Presidencia del Ente."
-      },
-      {
-        "value": 4,
-        "text": "Ninguno de los anteriores."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "La Dirección General del Ente."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t05",
-    "explanation": "Decreto 255/1997, art. 22: El nombramiento y separación de los Directores de División de la organización central de Osakidetza es competencia del Consejo de Administración, a propuesta del Director General. La app indica C (Director General) pero la competencia recae en el Consejo de Administración. Respuesta B.",
-    "originalId": 84
-  },
-  {
-    "id": "comun-t05_3",
-    "questionNum": 3,
-    "question": "La función de convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones del Consejo de Administración del ente público OsakidetzaServicio vasco de salud y decidir los empates con su voto de calidad corresponderá a:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "La Dirección General."
-      },
-      {
-        "value": 2,
-        "text": "La Presidencia."
-      },
-      {
-        "value": 3,
-        "text": "La persona de mayor antigüedad del Consejo de Administración."
-      },
-      {
-        "value": 4,
-        "text": "Ninguna de las anteriores."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "La Presidencia."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t05",
-    "explanation": "Art. 8 Decreto 255/1997: La función de 'convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones y decidir los empates con su voto de calidad' en el Consejo de Administración corresponde a 'LA PRESIDENCIA'. Respuesta B.",
-    "originalId": 88
-  },
-  {
-    "id": "comun-t05_4",
-    "questionNum": 4,
-    "question": "De acuerdo con el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del ente público Osakidetza-Servicio Vasco de Salud, para el desarrollo de sus funciones, la Dirección General del ente público Osakidetza-Servicio Vasco de Salud contará con el apoyo de un equipo directivo formado por:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "Dos Direcciones de División."
-      },
-      {
-        "value": 2,
-        "text": "Tres Direcciones de División."
-      },
-      {
-        "value": 3,
-        "text": "Cuatro Direcciones de División."
-      },
-      {
-        "value": 4,
-        "text": "La norma no establece el número concreto de Direcciones de División."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "Tres Direcciones de División."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t05",
-    "explanation": "Art. 15-17 Decreto 255/1997: La Dirección General cuenta con tres divisiones: Asistencia Sanitaria, Régimen Económico y de Gestión de Inmuebles, y Recursos Humanos. Respuesta B.",
-    "originalId": 89
-  },
-  {
-    "id": "comun-t05_5",
-    "questionNum": 5,
-    "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión asistencial (señálese la respuesta incorrecta):",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "Supervisar el cumplimiento de las políticas generales de calidad y realizar auditorías."
-      },
-      {
-        "value": 2,
-        "text": "Definir criterios generales y proponer la política de precios correspondiente a la prestación de servicios sanitarios incluida en la cobertura pública."
-      },
-      {
-        "value": 3,
-        "text": "Coordinar los recursos y, en su caso, proponer medidas de intervención sobre las listas de espera."
-      },
-      {
-        "value": 4,
-        "text": "Promover protocolos de interés general."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "Definir criterios generales y proponer la política de precios correspondiente a la prestación de servicios sanitarios incluida en la cobertura pública."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t05",
-    "explanation": "Art. 20 Decreto 255/1997: En materia de gestión asistencial, corresponde a la organización central: supervisar el cumplimiento de políticas de calidad y realizar auditorías (a), coordinar recursos y proponer medidas sobre listas de espera (c), y promover protocolos de interés general (d). 'Definir criterios y proponer la política de precios' NO es función de la organización central en materia de gestión asistencial — los precios se fijan a nivel superior. Respuesta B.",
-    "originalId": 91
-  },
-  {
-    "id": "comun-t05_6",
-    "questionNum": 6,
-    "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión de recursos humanos (señálese la respuesta incorrecta):",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "Supervisar, controlar y evaluar las políticas de personal del Ente."
-      },
-      {
-        "value": 2,
-        "text": "Promover acuerdos de cooperación con centros correspondientes a la sanidad privada."
-      },
-      {
-        "value": 3,
-        "text": "Dirigir el funcionamiento del registro de personal."
-      },
-      {
-        "value": 4,
-        "text": "Gestionar los procesos de selección y de provisión que el Consejo de Administración determine, por su carácter general, previsible número de aspirantes u otras circunstancias análogas, y, a tal fin, convocarlos, establecer sus bases, programas y contenidos, y designar a los tribunales calificadores de los mismos."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "Promover acuerdos de cooperación con centros correspondientes a la sanidad privada."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t05",
-    "explanation": "Art. 21 Decreto 255/1997: En materia de gestión de recursos humanos, corresponde a la organización central: supervisar políticas de personal (a), dirigir el registro de personal (c), y gestionar procesos de selección (d). 'Promover acuerdos de cooperación con centros de sanidad PRIVADA' NO es función de la organización central en gestión de RRHH. Respuesta B.",
-    "originalId": 92
-  },
-  {
-    "id": "comun-t05_7",
-    "questionNum": 7,
-    "question": "De acuerdo con lo que señala el Decreto 255/1997, de 11 de noviembre, por el que se establecen los Estatutos Sociales del ente público Osakidetza-Servicio Vasco de Salud, cada organización de servicios sanitarios dependiente del ente público tendrá definido su objeto de actividad o ámbito de actuación sanitaria de conformidad con lo dispuesto específicamente en la:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "Ley 41/2002 de Autonomía del Paciente."
-      },
-      {
-        "value": 2,
-        "text": "Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
-      },
-      {
-        "value": 3,
-        "text": "Decreto 17/2022, de 1 de febrero, del Registro Vasco de Profesionales del ámbito sanitario."
-      },
-      {
-        "value": 4,
-        "text": "Ninguna de las anteriores."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "Ley 8/1997, de 26 de junio, de Ordenación sanitaria de Euskadi."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t05",
-    "explanation": "Art. 23 Decreto 255/1997: El objeto de actividad o ámbito de actuación sanitaria de cada organización de servicios se define 'de conformidad con lo dispuesto específicamente en la LEY 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi'. Respuesta A.",
-    "originalId": 93
-  },
-  {
-    "id": "comun-t05_8",
-    "questionNum": 8,
-    "question": "En materia específica de inversiones, la competencia para ejecutar las compras de suministros que se consideren centralizadas, así como definir y/o ejecutar, en su caso, las consideradas integradas corresponde a:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "El Consejo de Administración del ente público Osakidetza-Servicio Vasco de Salud."
-      },
-      {
-        "value": 2,
-        "text": "La organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud."
-      },
-      {
-        "value": 3,
-        "text": "La organización de servicios del ente público Osakidetza-Servicio Vasco de Salud."
-      },
-      {
-        "value": 4,
-        "text": "A quien ostente la titularidad de la Dirección-Gerencia de cada organización de servicios sanitarios del Osakidetza-Servicio Vasco de Salud."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "La organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t05",
-    "explanation": "Art. 22 Decreto 255/1997: La competencia para ejecutar compras de suministros centralizadas y las integradas corresponde 'a la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público Osakidetza'. Respuesta D.",
-    "originalId": 99
-  },
-  {
-    "id": "comun-t06_1",
-    "questionNum": 1,
-    "question": "Para el desarrollo de funciones de propuesta y asesoramiento, así como de participación en las organizaciones de servicios sanitarios, existirá un Consejo de Dirección en cada una de ellas, integrado por:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
-      },
-      {
-        "value": 2,
-        "text": "El equipo directivo, las jefaturas de unidad que se determinen, representantes sindicales y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
-      },
-      {
-        "value": 3,
-        "text": "El equipo directivo y las jefaturas de unidad que se determinen."
-      },
-      {
-        "value": 4,
-        "text": "Todas las anteriores son falsas."
-      }
-    ],
-    "correctAnswerNums": [
-      1
-    ],
-    "correctAnswers": [
-      "El equipo directivo, las jefaturas de unidad que se determinen y una representación de personas vocales electas que formen parte de los Consejos Técnicos de participación profesional respectivos."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t06",
-    "explanation": "Art. 24 Decreto 255/1997 / Decreto 100/2018: El Consejo de Dirección de cada organización de servicios está integrado por 'el equipo directivo, las jefaturas de unidad que se determinen y una REPRESENTACIÓN DE PERSONAS VOCALES ELECTAS que formen parte de los Consejos Técnicos de participación profesional respectivos.' No se incluyen representantes sindicales. Respuesta A.",
-    "originalId": 97
-  },
-  {
     "id": "comun-t08_1",
     "questionNum": 1,
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la documentación clínica es:",
@@ -5324,7 +5250,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t08",
-    "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
+    "explanation": "Art. 3 Ley 41/2002: definición de usuario vs paciente sin restricción a sistema público.",
     "originalId": 142
   },
   {
@@ -5398,7 +5324,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t08",
-    "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
+    "explanation": "Art. 4: información mínima incluye consecuencias.",
     "originalId": 144
   },
   {
@@ -5573,17 +5499,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Como regla general, cuando la persona paciente sea menor de edad."
+      "Como regla general, cuando la persona paciente sea menor de dieciséis años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t08",
-    "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
+    "explanation": "Art. 9.3: consentimiento por representación como regla general en menores.",
     "originalId": 149
   },
   {
@@ -5620,7 +5546,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t08",
-    "explanation": "Art. 18.1 Ley 41/2002: El paciente tiene derecho de acceso a la documentación de su historia clínica. Los familiares solo acceden cuando el paciente esté fallecido y no lo haya prohibido expresamente, o cuando tengan interés legítimo. La norma general es el acceso del propio paciente. Respuesta C.",
+    "explanation": "Art. 10.1.a: información incluye riesgos probables.",
     "originalId": 150
   },
   {
@@ -5684,10 +5610,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Obliga a preservar los datos de identificación personal de la persona paciente, separados de los de carácter clinicoasistencial, de manera que, como regla general, quede asegurado el anonimato, salvo que quien sea titular de dichos datos haya dado su consentimiento para no separarlos o exista autorización judicial."
+      "Obliga a preservar los datos de identificación personal de la persona paciente, separados de los de carácter clinicoasistencial, de manera que, como regla general, quede asegurado el anonimato, salvo que quien sea titular de dichos datos haya dado su consentimiento para no separarlos, si bien existen excepciones a esta regla."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -5805,45 +5731,8 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t08",
-    "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta B.",
+    "explanation": "Art. 21.2: la dirección del centro oye al paciente y acude a la autoridad judicial.",
     "originalId": 155
-  },
-  {
-    "id": "comun-t08_16",
-    "questionNum": 16,
-    "question": "Según la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, si el nombramiento de representante en el documento de instrucciones previas ha recaído en favor de la persona cónyuge o pareja de hecho de la persona otorgante:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
-      },
-      {
-        "value": 2,
-        "text": "Se extingue a partir bien de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
-      },
-      {
-        "value": 3,
-        "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
-      },
-      {
-        "value": 4,
-        "text": "Se extingue bien a partir de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
-      }
-    ],
-    "correctAnswerNums": [
-      1
-    ],
-    "correctAnswers": [
-      "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t08",
-    "explanation": "Art. 2 Ley 7/2002: La declaración puede incluir: instrucciones sobre los tratamientos y cuidados que la persona desea o no recibir, la designación de una persona representante y el destino del cuerpo o de sus órganos tras el fallecimiento. Todas son correctas. Respuesta A.",
-    "originalId": 160
   },
   {
     "id": "comun-t09_1",
@@ -5953,7 +5842,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta C.",
+    "explanation": "Objetivos vitales sirven para interpretar instrucciones y orientar decisiones clínicas.",
     "originalId": 158
   },
   {
@@ -5990,8 +5879,45 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 6 Ley 7/2002: En el documento de voluntades anticipadas se podrá designar una o varias personas representantes para que sean las interlocutoras válidas con el médico o equipo sanitario. No se exige incapacidad judicial para esta designación. Respuesta A.",
+    "explanation": "Art. 6 Ley 7/2002: representante para cualquier supuesto de incapacidad de expresión.",
     "originalId": 159
+  },
+  {
+    "id": "comun-t08_16",
+    "questionNum": 16,
+    "question": "Según la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, si el nombramiento de representante en el documento de instrucciones previas ha recaído en favor de la persona cónyuge o pareja de hecho de la persona otorgante:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
+      },
+      {
+        "value": 2,
+        "text": "Se extingue a partir bien de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
+      },
+      {
+        "value": 3,
+        "text": "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
+      },
+      {
+        "value": 4,
+        "text": "Se extingue bien a partir de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t08",
+    "explanation": "Art. 2 Ley 7/2002: La declaración puede incluir: instrucciones sobre los tratamientos y cuidados que la persona desea o no recibir, la designación de una persona representante y el destino del cuerpo o de sus órganos tras el fallecimiento. Todas son correctas. Respuesta A.",
+    "originalId": 160
   },
   {
     "id": "comun-t09_5",
@@ -6027,7 +5953,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5 Ley 7/2002: Las instrucciones sobre el tratamiento pueden referirse a 'una enfermedad o lesión que la persona otorgante ya padece, o a las que eventualmente podría padecer en un futuro'. No se limita solo a situaciones futuras o graves. Respuesta A.",
+    "explanation": "Art. 5: instrucciones para enfermedad presente o futura.",
     "originalId": 161
   },
   {
@@ -6054,17 +5980,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la Comunidad Autónoma del País Vasco; o ante dos testigos."
+      "Se formaliza por escrito y mediante uno de los siguientes procedimientos a elección de la persona que lo otorga: ante una notaría; ante la persona funcionaria o empleada pública encargada del Registro Vasco de Voluntades Anticipadas; o ante tres testigos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 4 y 5 Ley 7/2002: El DVA se formaliza ante notario, funcionario del registro (o servicio de documentación de centros sanitarios) o ante testigos. La opción C recoge correctamente la vía de los centros sanitarios y el número de testigos ajustado a la interpretación de consenso. Respuesta C.",
+    "explanation": "Procedimientos: Registro/Centros + 2 testigos.",
     "originalId": 162
   },
   {
@@ -6101,7 +6027,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta C.",
+    "explanation": "Art. 7 Ley 7/2002: testigos deben ser mayores de edad (18) y cumplir grados.",
     "originalId": 163
   },
   {
@@ -6175,7 +6101,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 3.2 Ley 7/2002: La modificación o sustitución del DVA requiere las mismas formalidades que su otorgamiento (Escrito + Notaria/Registro/Testigos). No basta cualquier registro de entrada. Respuesta B.",
+    "explanation": "Modificación formalizada por mismos cauces que otorgamiento (escrito).",
     "originalId": 165
   },
   {
@@ -6202,17 +6128,17 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse de manera inequívoca."
+      "La persona otorgante conserve su capacidad, su libertad de actuación y la posibilidad de expresarse."
     ],
     "multipleCorrect": false,
     "hasImage": false,
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 4.3 Ley 7/2002: Cuando se formalice ante tres testigos, estos deben tener la condición de personas mayores de edad y plena capacidad de obrar, y no pueden ser familiares de la persona declarante en primer ni segundo grado, ni tener relación patrimonial con ella. No pueden ser más de uno de ellos personal sanitario del equipo asistencial que la atiende. Respuesta C.",
+    "explanation": "Prevalece voluntad inequívoca ante interlocutor.",
     "originalId": 166
   },
   {
@@ -6249,7 +6175,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 9 Ley 7/2002: Se tendrán por no puestas las instrucciones que resulten contrarias al ordenamiento jurídico EN EL MOMENTO DE SER APLICADAS. No se requiere aprobación del comité de ética para la validez de las instrucciones de la persona. Respuesta A.",
+    "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.",
     "originalId": 167
   },
   {
@@ -6286,7 +6212,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
+    "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 167
   },
   {
@@ -6323,7 +6249,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 5 Ley 7/2002: El Registro Vasco de Voluntades Anticipadas es de carácter público, adscrito al Departamento de Sanidad del Gobierno Vasco. Su acceso está restringido al propio interesado, su representante, y los profesionales sanitarios que atienden al otorgante. Respuesta C.",
+    "explanation": "Art. 12: la interconexión del Registro no precisa consentimiento adicional.",
     "originalId": 169
   },
   {
@@ -6360,7 +6286,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t09",
-    "explanation": "Art. 11 Ley 7/2002: El documento que no sea inscrito 'deberá ser entregado en el centro sanitario donde el otorgante sea atendido para que sea incorporado a su historia clínica'. No carece de eficacia por la falta de inscripción si se aporta al centro. Respuesta A.",
+    "explanation": "Art. 11: DVA no inscrito ES válido si se aporta.",
     "originalId": 170
   },
   {
@@ -6461,10 +6387,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Únicamente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años."
+      "Únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -6545,7 +6471,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t10",
-    "explanation": "Art. 83 RGPD: Las sanciones pueden alcanzar hasta 20 millones de euros o el 4% del volumen de negocio global anual. La Agencia Española de Protección de Datos (AEPD) es la autoridad de control en España. Respuesta D.",
+    "explanation": "Art. 10 LO 3/2018: tratamiento de datos penales por abogacía y procura.",
     "originalId": 175
   },
   {
@@ -6683,10 +6609,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Su denominación oficial es “Agencia Española de Protección de Datos”."
+      "Su denominación oficial es “Agencia Española de Protección de Datos, Autoridad Administrativa Independiente”."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -6720,10 +6646,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Su nombramiento debe ser ratificado por la Comisión de Justicia del Congreso de los Diputados por mayoría absoluta de sus integrantes en primera votación."
+      "Su nombramiento debe ser ratificado por la Comisión de Justicia del Congreso de los Diputados por mayoría de tres quintos de sus integrantes en primera votación."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -7104,43 +7030,6 @@
     "originalId": 190
   },
   {
-    "id": "comun-t11_11",
-    "questionNum": 11,
-    "question": "En el Plan Oncológico Integral de Euskadi (POIE) 2025-2030, la “Centralidad de la persona y humanización” como Principio Rector incluye la incorporación de la perspectiva de género y la atención a:",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "La telemonitorización avanzada."
-      },
-      {
-        "value": 2,
-        "text": "La diversidad."
-      },
-      {
-        "value": 3,
-        "text": "El personal profesional no implicado directamente."
-      },
-      {
-        "value": 4,
-        "text": "Las redes sociales."
-      }
-    ],
-    "correctAnswerNums": [
-      2
-    ],
-    "correctAnswers": [
-      "La diversidad."
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t11",
-    "explanation": "POIE 2025-2030: La supervivencia al cáncer ha mejorado significativamente en las últimas décadas gracias a los avances en diagnóstico precoz y tratamientos. El Plan propone continuar esta tendencia mediante la innovación terapéutica. Respuesta D.",
-    "originalId": 276
-  },
-  {
     "id": "comun-t12_1",
     "questionNum": 1,
     "question": "¿Cuántos Objetivos Generales, clasificados como finalistas e instrumentales, se definen en la estructura del Plan de Salud Euskadi 2030?",
@@ -7248,7 +7137,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t12",
-    "explanation": "Plan de Salud Euskadi 2030: Los principios rectores incluyen coordinación interinstitucional, enfoque 'One Health', contribución al Desarrollo Sostenible, equidad, enfoque de género, etc. La 'autosuficiencia presupuestaria del Sistema Sanitario Público' NO es un principio rector del Plan. Respuesta B.",
+    "explanation": "Autosuficiencia presupuestaria no es principio rector del Plan Salud 2030.",
     "originalId": 193
   },
   {
@@ -7386,10 +7275,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Más de 300 personas."
+      "Cerca de 200 personas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -7470,7 +7359,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t12",
-    "explanation": "Plan de Salud Euskadi 2030: Los determinantes de la salud incluyen factores socioeconómicos (empleo, educación, vivienda), estilos de vida, y factores ambientales. El Plan aboga por actuar sobre todos estos determinantes para reducir las desigualdades en salud. Respuesta B.",
+    "explanation": "Objetivo central: reducir morbimortalidad evitable y desigualdades.",
     "originalId": 200
   },
   {
@@ -7534,10 +7423,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "Resiliente, preventivo, comunitario e integral."
+      "Flexible, sólido, ágil y escalable."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -7842,43 +7731,6 @@
     "module": "comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: El Plan contempla la promoción de la actividad física, la alimentación saludable, la prevención del tabaquismo y el alcohol como intervenciones clave sobre los estilos de vida. Respuesta C.",
     "originalId": 210
-  },
-  {
-    "id": "comun-t12_20",
-    "questionNum": 20,
-    "question": "El Plan Oncológico Integral de Euskadi (POIE) 2025-2030 se alinea con el Plan de Salud de Euskadi 2030. ¿Cuál de las siguientes es una de las prioridades estratégicas de dicho Plan de Salud mencionadas en el documento?",
-    "type": "C",
-    "options": [
-      {
-        "value": 1,
-        "text": "Creación de una red de servicios privados de salud."
-      },
-      {
-        "value": 2,
-        "text": "Aumentar la esperanza de vida a 90 años."
-      },
-      {
-        "value": 3,
-        "text": "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud"
-      },
-      {
-        "value": 4,
-        "text": "Eliminación total del cáncer infantil antes de 2030."
-      }
-    ],
-    "correctAnswerNums": [
-      3
-    ],
-    "correctAnswers": [
-      "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud"
-    ],
-    "multipleCorrect": false,
-    "hasImage": false,
-    "image": null,
-    "imageUrl": null,
-    "module": "comun-t12",
-    "explanation": "POIE 2025-2030 y Plan de Salud Euskadi 2030: Una de las prioridades estratégicas del Plan de Salud de Euskadi 2030 con la que se alinea el POIE es 'reducir la morbimortalidad evitable y disminuir las desigualdades en salud'. Respuesta C.",
-    "originalId": 280
   },
   {
     "id": "comun-t13_1",
@@ -8755,10 +8607,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "2008-2012 y 2013-2017."
+      "2013-2016 y 2017-2020."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -8866,10 +8718,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Gestión de los incidentes de seguridad."
+      "Atención a las segundas y terceras víctimas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -9162,10 +9014,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "15 líneas de acción."
+      "17 líneas de acción."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -9199,10 +9051,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "75% mujeres y 25% hombres"
+      "80% mujeres y 20% hombres"
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -9246,7 +9098,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t15",
-    "explanation": "II Plan Igualdad Osakidetza 2025-2028: La meta de CAPACITACIÓN tiene como objetivo garantizar que el 100% del personal directivo reciba formación en igualdad durante la vigencia del plan. La D recoge correctamente el contenido de esta meta. Respuesta D.",
+    "explanation": "Capacitación en igualdad = formación obligatoria de todo el personal.",
     "originalId": 247
   },
   {
@@ -9421,10 +9273,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Investigación, aumentando el número de investigaciones con perspectiva de género."
+      "Igualdad Salarial, con el objetivo de reducir a la mitad las categorías que tienen una brecha retributiva > 5%."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -9616,7 +9468,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: En los escritos y comunicaciones internas se potenciará el uso del euskera, y se fomentará que el personal que conoce el idioma lo utilice en sus comunicaciones internas. La A recoge correctamente este criterio. Respuesta C.",
+    "explanation": "Mensajes audiovisuales: bilingües, euskera primero.",
     "originalId": 257
   },
   {
@@ -9653,7 +9505,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: Las páginas web y aplicaciones móviles de Osakidetza deben estar disponibles en euskera y castellano de forma paritaria. La B recoge correctamente este requisito de bilingüismo pleno en medios digitales. Respuesta B.",
+    "explanation": "Prohibición absoluta de una sola lengua es incorrecta por excepciones.",
     "originalId": 258
   },
   {
@@ -9690,7 +9542,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: Los servicios mínimos lingüísticos establecen que en los servicios de urgencias y en atención directa al paciente siempre debe haber disponibilidad de atención en euskera. La C recoge correctamente este mínimo garantizado. Respuesta C.",
+    "explanation": "Obligación de registrar idioma de preferencia oral del paciente.",
     "originalId": 259
   },
   {
@@ -9713,7 +9565,7 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
       "“Aukeratu zeure hizkuntza/Elige tu lengua” es el lema de la campaña de activación del registro de la lengua preferente de cada paciente llevada a cabo en 2017. Se atribuye a todas las direcciones y gerencias de Osakidetza la responsabilidad de realizar la campaña con el lema “Aukeratu zeure hizkuntza/Elige tu lengua”."
@@ -9725,6 +9577,43 @@
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: Los perfiles lingüísticos de los puestos de trabajo son requisitos de acreditación del nivel de euskera necesario para cada puesto. La C recoge correctamente la función y naturaleza de los perfiles lingüísticos. Respuesta C.",
     "originalId": 260
+  },
+  {
+    "id": "comun-t01_20",
+    "questionNum": 20,
+    "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028 contempla que tanto en los servicios de recepción y admisión, como en las unidades asistenciales y administrativas a toda la ciudadanía vascohablante debe garantizarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La recepción en euskera."
+      },
+      {
+        "value": 2,
+        "text": "La recepción en euskera solo cuando la comunicación oral con pacientes y personas usuarias sea de modo presencial."
+      },
+      {
+        "value": 3,
+        "text": "La recepción en euskera solo cuando la comunicación con pacientes y personas usuarias sea telefónicamente."
+      },
+      {
+        "value": 4,
+        "text": "La recepción en euskera solo por las y los empleados que sepan en euskera."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La recepción en euskera."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t01",
+    "explanation": "III Plan Euskera Osakidetza 2022-2028: En los servicios de recepción y admisión, y en las unidades asistenciales y administrativas, a toda la ciudadanía vascohablante debe garantizarse 'la recepción en euskera', independientemente del canal (presencial o telefónico). Respuesta A.",
+    "originalId": 261
   },
   {
     "id": "comun-t16_6",
@@ -9871,7 +9760,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: El Plan establece objetivos concretos de uso del euskera en las comunicaciones internas (entre profesionales) y externas (con pacientes y ciudadanía). Respuesta A.",
+    "explanation": "La competencia de quejas lingüísticas no suele ser de RRHH.",
     "originalId": 265
   },
   {
@@ -9908,7 +9797,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: En las relaciones con la ciudadanía, Osakidetza garantiza el derecho de las personas a ser atendidas en euskera en todos sus centros. La A recoge correctamente este derecho de atención en euskera. Respuesta A.",
+    "explanation": "Designar interlocutores vascoparlantes con proveedores.",
     "originalId": 266
   },
   {
@@ -9945,7 +9834,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t16",
-    "explanation": "III Plan Euskera Osakidetza 2022-2028: La formación en euskera del personal de Osakidetza se planifica para que los trabajadores puedan alcanzar el perfil lingüístico exigido para su puesto o mejorar su competencia en euskera. Respuesta B.",
+    "explanation": "Comunicación interna anual sobre lengua preferente.",
     "originalId": 267
   },
   {
@@ -10120,10 +10009,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "33,8%"
+      "28%"
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -10245,6 +10134,43 @@
     "originalId": 275
   },
   {
+    "id": "comun-t11_11",
+    "questionNum": 11,
+    "question": "En el Plan Oncológico Integral de Euskadi (POIE) 2025-2030, la “Centralidad de la persona y humanización” como Principio Rector incluye la incorporación de la perspectiva de género y la atención a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La telemonitorización avanzada."
+      },
+      {
+        "value": 2,
+        "text": "La diversidad."
+      },
+      {
+        "value": 3,
+        "text": "El personal profesional no implicado directamente."
+      },
+      {
+        "value": 4,
+        "text": "Las redes sociales."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La diversidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t11",
+    "explanation": "POIE 2025-2030: La supervivencia al cáncer ha mejorado significativamente en las últimas décadas gracias a los avances en diagnóstico precoz y tratamientos. El Plan propone continuar esta tendencia mediante la innovación terapéutica. Respuesta D.",
+    "originalId": 276
+  },
+  {
     "id": "comun-t17_6",
     "questionNum": 6,
     "question": "Teniendo en cuenta la introducción y el contexto del Plan Oncológico Integral de Euskadi 2025-2030. ¿Cuál fue una de las principales áreas de mejora identificadas en la evaluación del Plan Oncológico de Euskadi (POE) 20182023?",
@@ -10356,6 +10282,43 @@
     "originalId": 279
   },
   {
+    "id": "comun-t12_20",
+    "questionNum": 20,
+    "question": "El Plan Oncológico Integral de Euskadi (POIE) 2025-2030 se alinea con el Plan de Salud de Euskadi 2030. ¿Cuál de las siguientes es una de las prioridades estratégicas de dicho Plan de Salud mencionadas en el documento?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Creación de una red de servicios privados de salud."
+      },
+      {
+        "value": 2,
+        "text": "Aumentar la esperanza de vida a 90 años."
+      },
+      {
+        "value": 3,
+        "text": "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud"
+      },
+      {
+        "value": 4,
+        "text": "Eliminación total del cáncer infantil antes de 2030."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Reducir la morbimortalidad evitable y disminuir las desigualdades en salud"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t12",
+    "explanation": "POIE 2025-2030 y Plan de Salud Euskadi 2030: Una de las prioridades estratégicas del Plan de Salud de Euskadi 2030 con la que se alinea el POIE es 'reducir la morbimortalidad evitable y disminuir las desigualdades en salud'. Respuesta C.",
+    "originalId": 280
+  },
+  {
     "id": "comun-t18_1",
     "questionNum": 1,
     "question": "¿Cuál es el objeto fundamental de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, según su Artículo 1?",
@@ -10453,10 +10416,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Eutanasia."
+      "Asistencia para morir."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -10574,7 +10537,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t18",
-    "explanation": "Art. 10 LO 3/2021: Para verificar los requisitos se constituye una Comisión de Verificación y Control, que en el ámbito de la Comunidad Autónoma del País Vasco recibe el nombre de Comisión de Garantía y Evaluación. Respuesta B.",
+    "explanation": "Art. 17: la Comisión de Garantía y Evaluación verifica previo a la prestación.",
     "originalId": 286
   },
   {
@@ -10648,7 +10611,7 @@
     "image": null,
     "imageUrl": null,
     "module": "comun-t18",
-    "explanation": "Art. 16 LO 3/2021: Los profesionales sanitarios directamente implicados tienen derecho a ejercer la objección de conciencia. Su ejercicio debe comunicarse con antelación y por escrito. La C recoge correctamente el derecho a la objección de conciencia. Respuesta C.",
+    "explanation": "Art. 16: derecho a la objeción de conciencia del personal implicado.",
     "originalId": 288
   },
   {
@@ -10675,10 +10638,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Aquel que genera una limitación que incide directamente sobre la autonomía física y capacidad de expresar su voluntad de la persona paciente."
+      "Aquel que implica la existencia de sufrimiento físico o psíquico constante."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -10712,10 +10675,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Dentro del día siguiente natural a la resolución."
+      "No existe un plazo establecido para esta comunicación."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -10909,6 +10872,43 @@
     "module": "comun-t19",
     "explanation": "Art. 6 Ley 53/1984: No podrá autorizarse la compatibilidad cuando el segundo puesto público o actividad privada esté directamente relacionado con las funciones del primer puesto, pudiendo generar conflicto de intereses. Respuesta A.",
     "originalId": 295
+  },
+  {
+    "id": "comun-t03_21",
+    "questionNum": 21,
+    "question": "¿La Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, es aplicable al personal estatutario de los servicios de salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No, porque se rige por normativa específica exclusivamente."
+      },
+      {
+        "value": 2,
+        "text": "Sí, como personal al servicio de las Administraciones Públicas."
+      },
+      {
+        "value": 3,
+        "text": "Solo si tienen plaza en propiedad."
+      },
+      {
+        "value": 4,
+        "text": "Solo al personal directivo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Sí, como personal al servicio de las Administraciones Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "comun-t03",
+    "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
+    "originalId": 296
   },
   {
     "id": "comun-t19_6",

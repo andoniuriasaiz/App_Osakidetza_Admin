@@ -23,10 +23,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
+      "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -71,7 +71,7 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
-    "officialId": 97
+    "officialId": 98
   },
   {
     "id": "tec-comun-t09_3",
@@ -97,10 +97,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en la resolución judicial dictada al efecto."
+      "Se extingue bien a partir de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho. Para el mantenimiento será necesario que conste en el documento de instrucciones previas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -182,7 +182,7 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
-    "officialId": 98
+    "officialId": 101
   },
   {
     "id": "tec-comun-t09_6",
@@ -282,10 +282,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Las respuestas a) y b) son correctas."
+      "Las instrucciones que en el momento de ser aplicadas resulten contrarias al ordenamiento jurídico."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -293,6 +293,6 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D.",
-    "officialId": 97
+    "officialId": 104
   }
 ]
