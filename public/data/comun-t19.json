@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
-    "originalId": 291
+    "originalId": 291,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t19_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta C.",
-    "originalId": 292
+    "originalId": 292,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t19_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
-    "originalId": 293
+    "originalId": 293,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t19_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 4 Ley 53/1984: El personal podrá compatibilizar su puesto con el ejercicio de actividades en el sector privado, con determinadas limitaciones, salvo que el puesto sea de especial responsabilidad o dedicación exclusiva. Respuesta C.",
-    "originalId": 294
+    "originalId": 294,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t19_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 6 Ley 53/1984: No podrá autorizarse la compatibilidad cuando el segundo puesto público o actividad privada esté directamente relacionado con las funciones del primer puesto, pudiendo generar conflicto de intereses. Respuesta A.",
-    "originalId": 295
+    "originalId": 295,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t19_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta C.",
-    "originalId": 297
+    "originalId": 297,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t19_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.",
-    "originalId": 298
+    "originalId": 298,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t19_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 14 Ley 53/1984: Las sanciones por incumplimiento de la normativa de incompatibilidades van desde apercibimiento hasta la declaración de incompatibilidad y la pérdida del puesto. La sanción depende de la gravedad. Respuesta C.",
-    "originalId": 299
+    "originalId": 299,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t19_9",
@@ -330,6 +354,9 @@
     "imageUrl": null,
     "module": "comun-t19",
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
-    "originalId": 300
+    "originalId": 300,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 1 Decreto 100/2018: las OSI integran los niveles de atención primaria y atención hospitalaria en una única organización de gestión.",
-    "officialId": 66
+    "officialId": 66,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 2.1 Decreto 100/2018: el objetivo último de las OSI es favorecer la integración clínica de forma que la atención se articule en torno a la persona.",
-    "officialId": 67
+    "officialId": 67,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 1 Decreto 100/2018: las OSI actúan bajo el principio de autonomía económico-financiera y de gestión.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 68
+    "officialId": 68,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 3 Decreto 100/2018: las OSI monográficas son aquellas cuya actividad asistencial gira en torno a un ámbito específico, integrando sus servicios y dispositivos correspondientes.",
-    "officialId": 69
+    "officialId": 69,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 4 Decreto 100/2018: las OSI Tipo I tienen hospitales universitarios y disponen de unidades o servicios calificados de referencia para el conjunto del sistema sanitario vasco.",
-    "officialId": 70
+    "officialId": 70,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 4 Decreto 100/2018: las OSI Tipo III integran primaria + hospital de carácter general y tienen base poblacional inferior a 200.000 habitantes.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 71
+    "officialId": 71,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 5 Decreto 100/2018: los tres órganos de participación de las OSI son el Consejo Clínico Asistencial, el Consejo Social y la Comisión Sociosanitaria.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 72
+    "officialId": 72,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 5.2 Decreto 100/2018: el equipo directivo de una OSI (Tipos I y II) se compone de las Direcciones Médica, de Atención Integrada, de Enfermería, de Personas, Económico-Financiera y de Gestión.",
-    "officialId": 73
+    "officialId": 73,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 5.4 Decreto 100/2018: en las OSI Tipo IV, la Dirección Gerencia asume con apoyo de puestos funcionales asistenciales las funciones de la Dirección Médica y de la Dirección de Enfermería.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 74
+    "officialId": 74,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "El Consejo Clínico Asistencial es un órgano de participación, no de dirección. Los órganos de dirección de las OSI Tipo I y II son las Direcciones (Médica, Atención Integrada, Enfermería, Personas, Económico-Financiera, Gestión).",
-    "officialId": 75
+    "officialId": 75,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 7.3 Decreto 100/2018: el nombramiento y cese de la Dirección Gerencia de las OSI corresponde a la Dirección General del Ente Público Osakidetza.",
-    "officialId": 76
+    "officialId": 76,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Arts. 7 y 9 Decreto 100/2018: los cargos de dirección de las OSI requieren previa convocatoria pública donde se acrediten titulación, capacidad y experiencia profesional.",
-    "officialId": 77
+    "officialId": 77,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 8.m Decreto 100/2018: la función de orientar la gestión desde una visión integradora empoderando la atención primaria corresponde a la Dirección de Atención Integrada.",
-    "officialId": 78
+    "officialId": 78,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Decreto 100/2018: la Dirección de Atención Integrada coordina, además de primaria y hospitalaria, con el ámbito comunitario y socio-sanitario.",
-    "officialId": 79
+    "officialId": 79,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t05_15",
@@ -552,6 +594,9 @@
     "imageUrl": null,
     "module": "tec-comun-t05",
     "explanation": "Art. 19.1 Decreto 100/2018: la presidencia del Consejo Clínico Asistencial corresponde a la persona titular de la Dirección Gerencia de la OSI.",
-    "officialId": 80
+    "officialId": 80,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   }
 ]

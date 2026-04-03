@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 5.1 Ley 40/2015: Tendrán la consideración de órganos administrativos las unidades a las que se atribuyan funciones que TENGAN EFECTOS JURÍDICOS FRENTE A TERCEROS o cuya actuación tenga carácter PRECEPTIVO. Respuesta A.",
-    "originalId": 68
+    "originalId": 68,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 8.1 Ley 40/2015: La competencia es IRRENUNCIABLE y se ejercerá por los órganos que la tengan atribuida. No es revocable (a) ni eludible (c) ni rehusable (d). Respuesta B.",
-    "originalId": 69
+    "originalId": 69,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 8.2 Ley 40/2015: Si alguna disposición atribuye la competencia a una Administración sin especificar el órgano, la facultad de instruir y resolver corresponde A LOS ÓRGANOS INFERIORES competentes por razón de la materia y del territorio. Respuesta B.",
-    "originalId": 70
+    "originalId": 70,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 10 Ley 40/2015: Contra los acuerdos de avocación NO CABRÁ RECURSO ALGUNO. La avocación es una actuación interna de la jerarquía administrativa no susceptible de impugnación directa. Respuesta D.",
-    "originalId": 71
+    "originalId": 71,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 11.3 Ley 40/2015: La encomienda de gestión NO supone CESIÓN DE TITULARIDAD DE LA COMPETENCIA ni de los elementos sustantivos de su ejercicio. No supone traspaso (a), renuncia (b) ni cesión (c) de titularidad. Las tres opciones son incorrectas. Respuesta D.",
-    "originalId": 72
+    "originalId": 72,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 12.2 Ley 40/2015: En las resoluciones y actos que se firmen por delegación SE HARÁ CONSTAR la autoridad de procedencia y la circunstancia de la DELEGACIÓN DE FIRMA. La delegación de firma no altera la competencia (a es FALSO) ni requiere publicación para su validez (b). Respuesta C.",
-    "originalId": 73
+    "originalId": 73,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 13.2 Ley 40/2015: En las resoluciones adoptadas mediante suplencia SE HARÁ CONSTAR LA CIRCUNSTANCIA DE LA SUPLENCIA (a), SE ESPECIFICARÁ EL TITULAR DEL ÓRGANO cuya suplencia se adopta (b) e SE INDICARÁ QUIÉN LA EJERCE EFECTIVAMENTE (c). Las tres son obligatorias. Respuesta D.",
-    "originalId": 74
+    "originalId": 74,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 15.2 Ley 40/2015: Los órganos colegiados tendrán UN SECRETARIO que PODRÁ SER UN MIEMBRO DEL PROPIO ÓRGANO O UNA PERSONA AL SERVICIO DE LA ADMINISTRACIÓN PÚBLICA correspondiente. No dos ni tres personas. Respuesta A.",
-    "originalId": 75
+    "originalId": 75,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 17.1 Ley 40/2015: En las sesiones a distancia, se consideran medios electrónicos los MEDIOS TELEFÓNICOS (a), las AUDIOCONFERENCIAS (b), el CORREO ELECTRÓNICO (c) y otros sistemas similares. Los tres son válidos. Respuesta D.",
-    "originalId": 76
+    "originalId": 76,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 18.2 Ley 40/2015: Las sesiones de los órganos colegiados PODRÁN GRABARSE. El contenido de la grabación, junto con la certificación expedida por el secretario, puede sustituir al acta. Respuesta B.",
-    "originalId": 77
+    "originalId": 77,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 19.2.a Ley 40/2015: Corresponde al Presidente de los órganos colegiados de la AGE OSTENTAR LA REPRESENTACIÓN DEL ÓRGANO. También vela por la legalidad pero la representación es la función más característica del presidente. Respuesta C.",
-    "originalId": 78
+    "originalId": 78,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 19.3 Ley 40/2015: Corresponde a los miembros de los órganos colegiados PARTICIPAR EN LOS DEBATES DE LAS SESIONES. La convocatoria (d) y la moderación (c) corresponden al Presidente. Respuesta B.",
-    "originalId": 79
+    "originalId": 79,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 38.1 Ley 40/2015: La dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, se denomina SEDE ELECTRÓNICA. No portal de Internet (b), que tiene otro concepto. Respuesta C.",
-    "originalId": 80
+    "originalId": 80,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 38.2 Ley 40/2015: Las sedes electrónicas se crean con sujeción a los principios de TRANSPARENCIA Y PUBLICIDAD (a), RESPONSABILIDAD Y CALIDAD (b), SEGURIDAD Y ACCESIBILIDAD (c), así como neutralidad e interoperabilidad. Las tres opciones mencionan principios contemplados. Respuesta A.",
-    "originalId": 81
+    "originalId": 81,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e05_15",
@@ -552,6 +594,9 @@
     "imageUrl": null,
     "module": "aux-e05",
     "explanation": "Art. 40.2 Ley 40/2015: Las Administraciones Públicas podrán identificarse mediante el uso de SELLOS ELECTRÓNICOS basados en certificados de sello electrónico. Este es el mecanismo primario de identificación institucional previsto en la Ley. Respuesta A.",
-    "originalId": 82
+    "originalId": 82,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

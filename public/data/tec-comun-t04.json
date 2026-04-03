@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 3 Ley 8/1997: la tutela de la salud pública se garantiza mediante medidas preventivas, promoción de la salud y prestaciones sanitarias individuales. Las tres son correctas.",
-    "officialId": 36
+    "officialId": 36,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 5 Ley 8/1997: la universalidad del derecho a la protección de la salud se reconoce para todas las personas residentes en Euskadi y para personas transeúntes.",
-    "officialId": 37
+    "officialId": 37,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 4 Ley 8/1997: los principios informadores son universalidad, equidad, calidad, eficiencia, participación ciudadana, integración, entre otros. La \"solidaridad ciudadana\" no figura como principio específico en el listado del art. 4.",
-    "officialId": 38
+    "officialId": 38,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 7 Ley 8/1997: en cada área de salud se garantizará ordenación de la atención primaria y coordinación con la especializada. La división no es por criterio socioeconómico (a) ni se limita solo a primaria (b).",
-    "officialId": 39
+    "officialId": 39,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 15 Ley 8/1997: los datos sanitarios pueden tratarse con consentimiento previo o, si no lo hay, si la actuación está debidamente autorizada y se efectúa previo procedimiento de disociación que garantice el anonimato.",
-    "officialId": 40
+    "officialId": 40,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 10 Ley 8/1997: existe la obligación de dejar constancia por cualquier medio de todo proceso diagnóstico o terapéutico (no solo escrita, y abarca tanto diagnóstico como terapéutico).",
-    "officialId": 41
+    "officialId": 41,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C.",
-    "officialId": 42
+    "officialId": 42,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 30 Ley 8/1997: el Consejo de Administración está integrado por el Presidente/a y un número no superior a cinco miembros en representación de la Administración autonómica.",
-    "officialId": 43
+    "officialId": 43,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C.",
-    "officialId": 44
+    "officialId": 44,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 35 Ley 8/1997: las plantillas de personal de Osakidetza se ajustarán al número máximo de efectivos por grupos profesionales que anualmente aprobará el Consejo de Administración a propuesta del Departamento de Sanidad.",
-    "officialId": 45
+    "officialId": 45,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 46 Ley 8/1997: las inspecciones sanitarias corresponden al Departamento competente en materia de sanidad del Gobierno Vasco.",
-    "officialId": 46
+    "officialId": 46,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 48 Ley 8/1997: los criterios de graduación son: riesgo para la salud, grado de intencionalidad, gravedad de la alteración sanitaria y social. La cuantía de la indemnización solicitada no es un criterio de clasificación.",
-    "officialId": 47
+    "officialId": 47,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 49 Ley 8/1997: en determinados casos, la sanción económica puede incrementarse hasta el triple del beneficio ilícito obtenido. El cierre temporal máximo es 5 años (no 3), y las sanciones no son solo pecuniarias.",
-    "officialId": 48
+    "officialId": 48,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 29 Ley 8/1997: las organizaciones de servicios de Osakidetza realizan su actividad bajo el principio de autonomía económico-financiera y de gestión.",
-    "officialId": 49
+    "officialId": 49,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_15",
@@ -552,7 +594,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 34 Ley 8/1997: los instrumentos de clasificación del personal estatutario de Osakidetza son: grupo de titulación, grupo profesional, categoría y puesto funcional.",
-    "officialId": 50
+    "officialId": 50,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_16",
@@ -589,7 +634,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta B.",
-    "officialId": 51
+    "officialId": 51,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_17",
@@ -626,7 +674,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Decreto 255/1997, art. 22: El nombramiento y separación de los Directores de División de la organización central de Osakidetza es competencia del Consejo de Administración, a propuesta del Director General. La app indica C (Director General) pero la competencia recae en el Consejo de Administración. Respuesta B.",
-    "officialId": 52
+    "officialId": 52,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_18",
@@ -663,7 +714,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 30 Ley 8/1997: el Consejo de Administración de Osakidetza incluye 5 miembros: 1 de Hacienda y AP, 1 de Bienestar Social y 3 del Departamento de Sanidad.",
-    "officialId": 53
+    "officialId": 53,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_19",
@@ -700,7 +754,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 31 Ley 8/1997: la Dirección General formula el Plan Estratégico, la Presidencia lo aprueba, y el Consejo de Administración lo informa. Todas las afirmaciones son correctas.",
-    "officialId": 54
+    "officialId": 54,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_20",
@@ -737,7 +794,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 31 Ley 8/1997: la Presidencia del ente convoca, preside, suspende y levanta las sesiones del Consejo de Administración, arbitra sus deliberaciones y decide los empates con voto de calidad.",
-    "officialId": 55
+    "officialId": 55,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_21",
@@ -774,7 +834,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 32 Ley 8/1997: la persona titular de la Dirección General asistirá a las reuniones del Consejo de Administración con voz pero sin voto.",
-    "officialId": 56
+    "officialId": 56,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_22",
@@ -811,7 +874,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "La organización central de Osakidetza no tiene como función propia definir la política de precios para la cobertura pública (eso corresponde al Departamento de Sanidad). La opción B es la incorrecta.",
-    "officialId": 57
+    "officialId": 57,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_23",
@@ -848,7 +914,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "La promoción de acuerdos de cooperación con centros de sanidad privada no es una función de gestión de RRHH de la organización central. La opción B es incorrecta en este contexto.",
-    "officialId": 58
+    "officialId": 58,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_24",
@@ -885,7 +954,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 33 Ley 8/1997: cada organización de servicios tiene todas las facultades de gestión salvo las que los estatutos atribuyen expresamente a la organización central del ente y las competencias de otras instancias según las leyes.",
-    "officialId": 59
+    "officialId": 59,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_25",
@@ -922,7 +994,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Decreto 100/2018, art. 9: El equipo directivo de cada organización de servicios de Osakidetza está compuesto por cuatro miembros: el Director/a, el Director/a Médico/a, el Director/a de Enfermería y el Director/a de Gestión. Respuesta A (4 miembros).",
-    "officialId": 60
+    "officialId": 60,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_26",
@@ -959,7 +1034,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 32 Ley 8/1997: corresponde a la organización central (Dirección General) la representación del ente en la negociación colectiva del Acuerdo Marco de Condiciones de Trabajo.",
-    "officialId": 61
+    "officialId": 61,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_27",
@@ -996,7 +1074,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 33 Ley 8/1997: el Consejo de Dirección de cada organización de servicios está integrado por el equipo directivo, las jefaturas de unidad determinadas y representación de vocales electas de los Consejos Técnicos de participación profesional.",
-    "officialId": 62
+    "officialId": 62,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_28",
@@ -1033,7 +1114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Art. 33 Ley 8/1997: las organizaciones pueden descentralizar delegando en responsables clínicos facultades de gestión tanto económicas como de personal, conforme al marco estratégico y el contrato-programa.",
-    "officialId": 63
+    "officialId": 63,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_29",
@@ -1070,7 +1154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "Las compras centralizadas e integradas son competencia de la organización central de administración y gestión corporativa de Osakidetza.",
-    "officialId": 64
+    "officialId": 64,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t04_30",
@@ -1107,6 +1194,9 @@
     "imageUrl": null,
     "module": "tec-comun-t04",
     "explanation": "La Dirección-Gerencia de cada organización de servicios preside los Consejos Técnicos de participación profesional y promueve su eficaz funcionamiento.",
-    "officialId": 65
+    "officialId": 65,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

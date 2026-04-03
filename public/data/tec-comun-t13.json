@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El Diagnostico del Pacto Vasco indica que el mayor nivel educativo y el acceso generalizado a la informacion son motores clave del empoderamiento ciudadano en salud.",
-    "officialId": 136
+    "officialId": 136,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El Diagnostico indica que la migracion trae patologias poco conocidas en Euskadi pero prevalentes en paises de origen, suponiendo un reto epidemiologico.",
-    "officialId": 137
+    "officialId": 137,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El Diagnostico identifica como reto clave la planificacion del relevo generacional ante la proxima jubilacion de grandes cohortes de profesionales sanitarios.",
-    "officialId": 138
+    "officialId": 138,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El Diagnostico advierte que el cambio climatico favorece la aparicion de nuevos vectores y patogenos, como el virus del Nilo Occidental, antes inexistentes en el entorno vasco.",
-    "officialId": 139
+    "officialId": 139,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El Diagnostico propone orientar los indicadores hacia resultados en salud y sostenibilidad del sistema, superando la vision centrada unicamente en volumen de actividad asistencial.",
-    "officialId": 140
+    "officialId": 140,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "Los Valores Fundamentales del Pacto Vasco de Salud constituyen el fundamento etico y social sobre el que se sustenta toda la actividad del Sistema Publico de Salud de Euskadi.",
-    "officialId": 141
+    "officialId": 141,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El Pacto Vasco de Salud define como Valores Fundamentales la Universalidad, la Equidad y la Corresponsabilidad, implicando a ciudadania y profesionales en el sistema.",
-    "officialId": 142
+    "officialId": 142,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El principio de Innovacion del Pacto Vasco abarca la I+D+i en todas sus dimensiones: clinica, organizativa, tecnologica y de gestion.",
-    "officialId": 143
+    "officialId": 143,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "La Orientacion al Valor como principio rector significa priorizar las intervenciones que aporten los mejores resultados en salud relevantes para la persona al menor coste posible.",
-    "officialId": 144
+    "officialId": 144,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El Pacto Vasco de Salud se estructura en 6 Lineas Estrategicas: prevencion/promocion, atencion a la enfermedad, areas prioritarias, calidad/innovacion/sostenibilidad, desarrollo de profesionales y gobernanza.",
-    "officialId": 145
+    "officialId": 145,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "El Pacto Vasco posiciona la Atencion Primaria y Comunitaria como la base estrategica que cohesiona y sustenta el conjunto del sistema sanitario vasco.",
-    "officialId": 146
+    "officialId": 146,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "La Linea Estrategica sobre Cronicidad busca reforzar la autonomia y corresponsabilidad de las personas con enfermedades cronicas, fomentando el autocuidado y la atencion integrada.",
-    "officialId": 147
+    "officialId": 147,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "La Linea de Atencion Sociosanitaria pone el foco en mejorar la coordinacion y los transitos entre el sistema sanitario y social, evitando la fragmentacion de la atencion.",
-    "officialId": 148
+    "officialId": 148,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "La Linea 11 sobre Salud Mental prioriza la promocion del bienestar emocional y la deteccion precoz, con especial enfasis en jovenes y adolescentes.",
-    "officialId": 149
+    "officialId": 149,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t13_15",
@@ -552,6 +594,9 @@
     "imageUrl": null,
     "module": "tec-comun-t13",
     "explanation": "La Linea 18 de Digitalizacion persigue facilitar la accesibilidad de la ciudadania, personalizar la atencion sanitaria y mejorar la eficiencia organizativa del sistema.",
-    "officialId": 150
+    "officialId": 150,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

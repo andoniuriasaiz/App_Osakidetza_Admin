@@ -16,7 +16,7 @@ import { initTheme } from '@/lib/theme';
 import { fetchStudyProgram, StudyProgram, StudyDay } from '@/lib/study-program';
 import BottomNav from '@/components/BottomNav';
 import XPBar from '@/components/XPBar';
-import { ModuleIcon, IconBarChart, IconFlame, IconShuffle } from '@/components/AppIcons';
+import { ModuleIcon, IconBarChart, IconFlame, IconShuffle, IconGraduationCap, IconScale, IconBullseye, IconCompare, IconBookOpen, IconTarget, IconBed, IconRepeatSm, IconAlertTriangle } from '@/components/AppIcons';
 
 interface ModuleStats {
   total: number;
@@ -195,7 +195,7 @@ export default function Dashboard() {
               </span>
             )}
             {hasQuestions && stats.dueNow === 0 && stats.mastered === stats.total && stats.total > 0 && (
-              <span className="bg-green-100 text-green-600 text-xs font-bold px-1.5 py-0.5 rounded-full">✓</span>
+              <span className="bg-green-100 text-green-600 text-xs font-bold px-1.5 py-0.5 rounded-full leading-none">✓</span>
             )}
           </div>
         </div>
@@ -296,8 +296,8 @@ export default function Dashboard() {
         {/* ── Alarma de Puntos Débiles (Backend Integrado) ── */}
         {weaknessesCount > 0 && (
           <div className="mb-6 bg-rose-50 border-2 border-rose-200 p-4 rounded-2xl shadow-sm relative overflow-hidden flex items-center gap-4">
-            <div className="bg-rose-100 text-rose-600 text-3xl w-14 h-14 rounded-full flex items-center justify-center shrink-0">
-              🔥
+            <div className="bg-rose-100 text-rose-600 w-14 h-14 rounded-full flex items-center justify-center shrink-0">
+              <IconAlertTriangle size={26} />
             </div>
             <div className="flex-1">
               <h3 className="font-bold text-base text-rose-900 leading-tight">Tienes {weaknessesCount} puntos débiles</h3>
@@ -317,14 +317,12 @@ export default function Dashboard() {
           <div className={`mb-8 bg-white border-2 p-5 rounded-2xl shadow-sm transition-all relative overflow-hidden ${
             todayAgenda?.completed ? 'border-emerald-200 bg-emerald-50/30' : 'border-[#282182] ring-2 ring-[#282182] ring-offset-2'
           }`}>
-            <div className="absolute top-0 right-0 p-3 opacity-10 blur-[1px]">
-              <span className="text-6xl">{
-                todayAgenda?.type === 'new' ? '📖'
-                : todayAgenda?.type === 'simulacro' ? '🎯'
-                : todayAgenda?.type === 'rest' ? '😴'
-                : todayAgenda?.type === 'weaks' ? '🔥'
-                : '🔄'
-              }</span>
+            <div className="absolute top-0 right-0 p-3 opacity-10" aria-hidden="true">
+              {todayAgenda?.type === 'new' ? <IconBookOpen size={64} /> :
+               todayAgenda?.type === 'simulacro' ? <IconTarget size={64} /> :
+               todayAgenda?.type === 'rest' ? <IconBed size={64} /> :
+               todayAgenda?.type === 'weaks' ? <IconFlame size={64} /> :
+               <IconRepeatSm size={64} />}
             </div>
             <div className="relative z-10">
 
@@ -335,7 +333,7 @@ export default function Dashboard() {
                     <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Progreso del programa</span>
                     <span className="text-[10px] font-bold text-[#282182]">{programProgress.completed}/{programProgress.total} días</span>
                   </div>
-                  <div className="w-full bg-slate-100 rounded-full h-1.5">
+                  <div className="w-full bg-slate-100 rounded-full h-1.5" role="progressbar">
                     <div
                       className="h-1.5 bg-[#282182] rounded-full transition-all"
                       style={{ width: `${Math.round((programProgress.completed / Math.max(1, programProgress.total)) * 100)}%` }}
@@ -486,28 +484,36 @@ export default function Dashboard() {
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
             <button onClick={() => router.push('/exam')}
               className="group bg-white rounded-2xl border-2 border-slate-100 p-4 text-left hover:border-[#282182]/40 hover:shadow-md transition-all">
-              <div className="w-10 h-10 rounded-xl bg-[#e8e7f7] flex items-center justify-center text-xl mb-3 group-hover:scale-110 transition-transform">📝</div>
+              <div className="w-10 h-10 rounded-xl bg-[#e8e7f7] text-[#282182] flex items-center justify-center mb-3 group-hover:scale-110 transition-transform">
+                <IconTarget size={20} />
+              </div>
               <p className="font-bold text-sm text-gray-900 leading-snug">Simulacro</p>
               <p className="text-xs text-gray-400 mt-0.5">60 preguntas · 90 min</p>
             </button>
 
             <button onClick={() => router.push('/leyes')}
               className="group bg-white rounded-2xl border-2 border-slate-100 p-4 text-left hover:border-blue-300 hover:shadow-md transition-all">
-              <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center text-xl mb-3 group-hover:scale-110 transition-transform">⚖️</div>
+              <div className="w-10 h-10 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center mb-3 group-hover:scale-110 transition-transform">
+                <IconScale size={20} />
+              </div>
               <p className="font-bold text-sm text-gray-900 leading-snug">Por Ley</p>
               <p className="text-xs text-gray-400 mt-0.5">LPAC, EBEP, EAPV…</p>
             </button>
 
             <button onClick={() => router.push('/errores')}
               className="group bg-white rounded-2xl border-2 border-slate-100 p-4 text-left hover:border-red-300 hover:shadow-md transition-all">
-              <div className="w-10 h-10 rounded-xl bg-red-50 flex items-center justify-center text-xl mb-3 group-hover:scale-110 transition-transform">🔥</div>
+              <div className="w-10 h-10 rounded-xl bg-red-50 text-red-500 flex items-center justify-center mb-3 group-hover:scale-110 transition-transform">
+                <IconBullseye size={20} />
+              </div>
               <p className="font-bold text-sm text-gray-900 leading-snug">Mis Errores</p>
               <p className="text-xs text-gray-400 mt-0.5">Preguntas problemáticas</p>
             </button>
 
             <button onClick={() => router.push('/comparar')}
               className="group bg-white rounded-2xl border-2 border-slate-100 p-4 text-left hover:border-indigo-300 hover:shadow-md transition-all">
-              <div className="w-10 h-10 rounded-xl bg-indigo-50 flex items-center justify-center text-xl mb-3 group-hover:scale-110 transition-transform">⚡</div>
+              <div className="w-10 h-10 rounded-xl bg-indigo-50 text-indigo-500 flex items-center justify-center mb-3 group-hover:scale-110 transition-transform">
+                <IconCompare size={20} />
+              </div>
               <p className="font-bold text-sm text-gray-900 leading-snug">AUX vs ADM</p>
               <p className="text-xs text-gray-400 mt-0.5">Comparativa de nivel</p>
             </button>

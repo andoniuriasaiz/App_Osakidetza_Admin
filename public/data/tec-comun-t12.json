@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: se definen siete Objetivos Generales, clasificados en finalistas (OG1-OG3) e instrumentales (OG4-OG7).",
-    "officialId": 121
+    "officialId": 121,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: la VISIÓN es \"Liderar una Euskadi más saludable\".",
-    "officialId": 122
+    "officialId": 122,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: los principios rectores incluyen coordinación interinstitucional (a), Salud en Todas las Políticas (b) y contribución al desarrollo sostenible (d). La \"autosuficiencia presupuestaria\" no es un principio rector del plan.",
-    "officialId": 123
+    "officialId": 123,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: El OG1 se centra en 'Mejorar la salud y el bienestar de la población de Euskadi', con especial énfasis en la reducción de las desigualdades en salud. La B recoge correctamente este objetivo general. Respuesta B.",
-    "officialId": 124
+    "officialId": 124,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030 OG4: la sostenibilidad y excelencia en los sistemas asistenciales se define en términos de calidad, humanización y seguridad.",
-    "officialId": 125
+    "officialId": 125,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: AVAD = Años de Vida sana perdidos Ajustados por Discapacidad (equivalente al inglés DALY: Disability-Adjusted Life Years).",
-    "officialId": 126
+    "officialId": 126,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: uno de los objetivos clave reiterados es reducir la morbimortalidad evitable y disminuir las desigualdades en salud.",
-    "officialId": 127
+    "officialId": 127,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: prioriza el enfoque de investigación traslacional para que los avances científicos lleguen efectivamente a la práctica clínica y la salud poblacional.",
-    "officialId": 128
+    "officialId": 128,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: El modelo de evaluación se basa en cuatro criterios: eficacia, efectividad, eficiencia y equidad. La B recoge correctamente estos cuatro criterios. Respuesta B.",
-    "officialId": 129
+    "officialId": 129,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: se promueven soluciones habitacionales asequibles, accesibles y adaptadas al ciclo vital como determinante social de la salud.",
-    "officialId": 130
+    "officialId": 130,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030, Memoria Económica: El programa presupuestario con mayor dotación es el de Atención Especializada / Hospitales. La B es la respuesta correcta. Respuesta B.",
-    "officialId": 131
+    "officialId": 131,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: las \"comunidades amigables\" tienen como finalidad adaptar el entorno físico y social para fomentar el envejecimiento activo y con sentido.",
-    "officialId": 132
+    "officialId": 132,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: en salud digital destaca la medicina de precisión y la integración de datos genómicos para transformar la atención personalizada.",
-    "officialId": 133
+    "officialId": 133,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: intersectorialidad = colaboración entre departamentos del Gobierno para que la salud esté presente en todas las políticas (Health in All Policies).",
-    "officialId": 134
+    "officialId": 134,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t12_15",
@@ -552,6 +594,9 @@
     "imageUrl": null,
     "module": "tec-comun-t12",
     "explanation": "Plan de Salud Euskadi 2030: la evidencia científica es la base fundamental para diseñar, implementar y evaluar las políticas de salud, principio transversal del Plan.",
-    "officialId": 135
+    "officialId": 135,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

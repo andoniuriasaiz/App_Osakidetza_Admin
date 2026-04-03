@@ -14,7 +14,7 @@ import { notifyAnswered } from '@/lib/quests';
 import BottomNav from '@/components/BottomNav';
 import ConfirmModal from '@/components/ConfirmModal';
 import LevelUpModal from '@/components/LevelUpModal';
-import { IconShare } from '@/components/AppIcons';
+import { IconShare, IconTarget, IconBolt, IconTrophy, IconAward, IconBookOpen, IconRepeatSm, IconClipboard, IconFlame, IconImage, IconCheckCircle } from '@/components/AppIcons';
 
 // ─── Types ─────────────────────────────────────────────────
 type ExamPhase = 'config' | 'taking' | 'review';
@@ -286,7 +286,7 @@ export default function ExamPage() {
                   onClick={() => setConfig({ moduleIds: ['mezcla'], questionCount: 60, timeLimitMin: 90 })}
                   className="w-full bg-white/15 hover:bg-white/25 border border-white/20 rounded-xl py-2.5 text-sm font-bold transition"
                 >
-                  🎯 Formato oficial — 60 preguntas, 90 min
+                  <span className="flex items-center justify-center gap-2"><IconTarget size={14} /> Formato oficial — 60 preguntas, 90 min</span>
                 </button>
               </div>
             );
@@ -302,8 +302,8 @@ export default function ExamPage() {
              }`}
           >
             <div className="text-left">
-              <p className={`font-bold text-[15px] ${config.moduleIds[0] === 'weaks' ? 'text-rose-700' : 'text-slate-800'}`}>
-                💥 Repaso de Puntos Débiles
+              <p className={`font-bold text-[15px] flex items-center gap-2 ${config.moduleIds[0] === 'weaks' ? 'text-rose-700' : 'text-slate-800'}`}>
+                <IconFlame size={15} /> Repaso de Puntos Débiles
               </p>
               <p className="text-xs text-slate-500 mt-1">Examen exclusivo con tus preguntas más falladas históricamente según la BD</p>
             </div>
@@ -326,7 +326,7 @@ export default function ExamPage() {
                 onClick={() => setCustomSelection(!customSelection)}
                 className="text-[10px] font-bold uppercase tracking-wider bg-slate-200 text-slate-700 px-3 py-1.5 rounded-lg hover:bg-slate-300 transition"
               >
-                {customSelection ? '← Volver a Presets' : 'Selección Múltiple ⚙️'}
+                {customSelection ? '← Volver a Presets' : 'Selección múltiple'}
               </button>
             </div>
 
@@ -469,7 +469,7 @@ export default function ExamPage() {
 
           {/* Info box */}
           <div className="bg-amber-50 border border-amber-100 rounded-xl p-4 text-sm text-amber-800">
-            <p className="font-semibold mb-1">📋 Cómo funciona el simulacro</p>
+            <p className="font-semibold mb-1 flex items-center gap-1.5"><IconClipboard size={13} /> Cómo funciona el simulacro</p>
             <ul className="space-y-1 text-xs text-amber-700">
               <li>• Responde todas las preguntas sin corrección inmediata</li>
               <li>• Puedes navegar libremente entre preguntas antes de entregar</li>
@@ -565,7 +565,7 @@ export default function ExamPage() {
                 <span className={`text-xs font-bold px-2.5 py-1 rounded-full ${
                   q?.type === 'I' ? 'bg-blue-100 text-blue-700' : 'bg-green-100 text-green-700'
                 }`}>
-                  {q?.type === 'I' ? '🖼️ Imagen' : '✅ Test'}
+                  {q?.type === 'I' ? <><IconImage size={11} /> Imagen</> : <><IconCheckCircle size={11} /> Test</>}
                 </span>
                 <span className="text-xs text-gray-400">#{q?.questionNum}</span>
                 {q?.multipleCorrect && (
@@ -830,7 +830,7 @@ export default function ExamPage() {
             className="text-gray-400 hover:text-gray-700 p-2 rounded-lg hover:bg-gray-100 transition">←</button>
           <h1 className="font-bold text-gray-900">Resultado del simulacro</h1>
           {examXP > 0 && (
-            <span className="ml-auto text-sm font-bold text-[#282182]">+{examXP} XP ⚡</span>
+            <span className="ml-auto text-sm font-bold text-[#282182] flex items-center gap-1">+{examXP} XP <IconBolt size={13} /></span>
           )}
         </div>
       </header>
@@ -841,8 +841,14 @@ export default function ExamPage() {
           ? 'bg-gradient-to-b from-green-50 to-white border-green-200'
           : 'bg-gradient-to-b from-red-50 to-white border-red-200'
         } border-2`}>
-          <div className="text-6xl mb-3 animate-bounce-slow">
-            {pctScore >= 80 ? '🏆' : pctScore >= 60 ? '✅' : pctScore >= 40 ? '📚' : '🔄'}
+          <div className="mb-3 flex justify-center animate-bounce-slow">
+            {pctScore >= 80
+              ? <IconTrophy size={56} className="text-yellow-500" />
+              : pctScore >= 60
+              ? <IconAward size={56} className="text-green-500" />
+              : pctScore >= 40
+              ? <IconBookOpen size={56} className="text-blue-400" />
+              : <IconRepeatSm size={56} className="text-slate-400" />}
           </div>
           <div className={`text-5xl font-black mb-1 ${passed ? 'text-green-600' : 'text-red-500'}`}>{pctScore}%</div>
           <div className={`text-base font-bold mb-1 ${passed ? 'text-green-700' : 'text-red-600'}`}>
@@ -887,7 +893,7 @@ export default function ExamPage() {
             <p className="text-sm font-semibold text-[#282182]">XP ganado en este simulacro</p>
             <p className="text-xs text-[#4a4a8a] mt-0.5">+{correct * XP_EXAM_CORRECT + wrong * XP_EXAM_WRONG} XP por tus respuestas</p>
           </div>
-          <div className="text-2xl font-bold text-[#282182]">⚡</div>
+          <div className="text-2xl font-bold text-[#282182] flex items-center"><IconBolt size={28} /></div>
         </div>
 
         {/* Per-question review */}

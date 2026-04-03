@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta A.",
-    "originalId": 256
+    "originalId": 256,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "Mensajes audiovisuales: bilingües, euskera primero.",
-    "originalId": 257
+    "originalId": 257,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "Prohibición absoluta de una sola lengua es incorrecta por excepciones.",
-    "originalId": 258
+    "originalId": 258,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "Obligación de registrar idioma de preferencia oral del paciente.",
-    "originalId": 259
+    "originalId": 259,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_5",
@@ -178,7 +190,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: Los perfiles lingüísticos de los puestos de trabajo son requisitos de acreditación del nivel de euskera necesario para cada puesto. La C recoge correctamente la función y naturaleza de los perfiles lingüísticos. Respuesta C.",
-    "originalId": 260
+    "originalId": 260,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_6",
@@ -215,7 +230,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El Plan contempla que la historia clínica puede redactarse en cualquiera de las dos lenguas oficiales, pero garantizando que la información esté disponible para todos los profesionales. Respuesta A.",
-    "originalId": 262
+    "originalId": 262,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_7",
@@ -252,7 +270,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan establece un sistema de seguimiento anual de los indicadores de avance y una evaluación intermedia a mitad del periodo (2025). La C recoge correctamente este sistema de evaluación. Respuesta B.",
-    "originalId": 263
+    "originalId": 263,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_8",
@@ -289,7 +310,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: La normalización del uso del euskera en Osakidetza se basa en la Ley 10/1982, básica de normalización del uso del Euskera, y la Ley 6/1989 de la función pública vasca. Respuesta C.",
-    "originalId": 264
+    "originalId": 264,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_9",
@@ -326,7 +350,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "La competencia de quejas lingüísticas no suele ser de RRHH.",
-    "originalId": 265
+    "originalId": 265,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_10",
@@ -363,7 +390,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "Designar interlocutores vascoparlantes con proveedores.",
-    "originalId": 266
+    "originalId": 266,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_11",
@@ -400,7 +430,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "Comunicación interna anual sobre lengua preferente.",
-    "originalId": 267
+    "originalId": 267,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_12",
@@ -437,7 +470,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta C.",
-    "originalId": 268
+    "originalId": 268,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_13",
@@ -474,7 +510,10 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta B.",
-    "originalId": 269
+    "originalId": 269,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t16_14",
@@ -511,6 +550,9 @@
     "imageUrl": null,
     "module": "comun-t16",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: Las dos evaluaciones generales del plan se realizarán: la primera el TERCER AÑO del período de planificación (2024) y la segunda el SEXTO AÑO (2027/final del período). Respuesta A.",
-    "originalId": 270
+    "originalId": 270,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

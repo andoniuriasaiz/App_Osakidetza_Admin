@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007: El ejercicio del derecho a la segunda opinión médica se garantiza PARA AQUELLOS PROCESOS DE ENFERMEDAD QUE CONLLEVEN RIESGO PARA LA VIDA O CALIDAD DE LA MISMA. No para procesos sin riesgo (a) ni para bajas de 3 o 5 días (c, d). Respuesta C.",
-    "originalId": 17
+    "originalId": 17,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 1: La finalidad de la segunda opinión médica es CONTRASTAR UN PRIMER DIAGNÓSTICO (a) O UNA PROPUESTA TERAPÉUTICA (b). Ambas opciones son correctas. Respuesta C (a y b correctas).",
-    "originalId": 18
+    "originalId": 18,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Anexo: El derecho se garantiza para procesos que incluyen ENFERMEDAD NEOPLÁSICA MALIGNA (a), ENFERMEDADES NEUROLÓGICAS DEGENERATIVAS (b) y ENFERMEDADES CARDIOVASCULARES (c) de cierta gravedad. Las tres categorías están contempladas. Respuesta B (todas correctas).",
-    "originalId": 19
+    "originalId": 19,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 3: Podrán solicitar la segunda opinión médica LAS PERSONAS USUARIAS RESIDENTES EN LA CAPV QUE TENGAN DERECHO A LA ASISTENCIA SANITARIA DE COBERTURA PÚBLICA a cargo del Sistema Sanitario de Euskadi. No son residentes en España en general (a) ni solo en Madrid (b). Respuesta C.",
-    "originalId": 20
+    "originalId": 20,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 4: La segunda opinión será realizada por PROFESIONALES MÉDICOS de un centro integrado en la RED PÚBLICA DE OSAKIDETZA-SVS, DISTINTO a aquél en el que se haya diagnosticado la enfermedad. No son administrativos (a) ni auxiliares (d). Respuesta B.",
-    "originalId": 21
+    "originalId": 21,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 4.2: Preferentemente, el centro será AQUEL DENTRO DE LA CAPV QUE SE ENCUENTRE MÁS PRÓXIMO al domicilio de la persona, de entre los que dispongan de la especialidad requerida. No el más lejano (d) ni el que esté a más de 20 o 30 km (b, c). Respuesta A.",
-    "originalId": 22
+    "originalId": 22,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 4.3: Cuando sea necesario por las especiales circunstancias de una técnica, se podrá acudir a centros concertados o de otra CCAA PREVIA AUTORIZACIÓN DEL DEPARTAMENTO DE SANIDAD. No es sin autorización (b, c, d). Respuesta A.",
-    "originalId": 23
+    "originalId": 23,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 5.1: La segunda opinión se fundamentará EN LOS INFORMES Y PRUEBAS REALIZADAS POR EL SERVICIO MÉDICO DE ORIGEN, sin perjuicio de la posibilidad de realizar pruebas complementarias necesarias. El origen (no el destino, opción a) proporciona la documentación base. Respuesta C.",
-    "originalId": 24
+    "originalId": 24,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 5.2: Osakidetza adoptará medidas para EVITAR LA REPETICIÓN INNECESARIA DE PRUEBAS DIAGNÓSTICAS y para GARANTIZAR LA INTEGRACIÓN DE LA INFORMACIÓN DE SALUD en su historia clínica. No para repetir pruebas innecesariamente (a). Respuesta B.",
-    "originalId": 25
+    "originalId": 25,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 6.1: La solicitud de segunda opinión podrá presentarse EN CUALQUIER UNIDAD DEL SERVICIO DE ATENCIÓN AL PACIENTE-USUARIO de la red de centros sanitarios de Osakidetza-SVS. No solo en el Ayuntamiento (a) ni solo en el más próximo (c). Respuesta B.",
-    "originalId": 27
+    "originalId": 27,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 6.2: La solicitud será tramitada EN EL CENTRO ASISTENCIAL QUE HAYA ATENDIDO EN PRIMERA INSTANCIA al paciente (centro de origen). No en cualquier centro (b) ni en el Ayuntamiento (c). Respuesta A.",
-    "originalId": 28
+    "originalId": 28,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 6.3: El Servicio de Atención al Paciente-Usuario del centro de origen informará de la solicitud A LA DIRECCIÓN MÉDICA. No al auxiliar administrativo (a) ni al enfermero (b). Respuesta C.",
-    "originalId": 29
+    "originalId": 29,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "Plazo de 10 días hábiles para citación segunda opinión.",
-    "originalId": 30
+    "originalId": 30,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 8: Cuando no se considere adecuada la segunda opinión, se emitirá por la Dirección Médica UN INFORME RAZONADO en el que se valore la solicitud CON ARREGLO A CRITERIOS CLÍNICOS. No subjetivos (b) ni administrativos (c) ni por edad (d). Respuesta D.",
-    "originalId": 31
+    "originalId": 31,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_15",
@@ -552,7 +594,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "Diagnóstico confirmatorio -> centro de origen.",
-    "originalId": 33
+    "originalId": 33,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_16",
@@ -589,7 +634,10 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "Diagnóstico NO confirmatorio -> libertad de elección de centro.",
-    "originalId": 34
+    "originalId": 34,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e11_17",
@@ -626,6 +674,9 @@
     "imageUrl": null,
     "module": "aux-e11",
     "explanation": "D.149/2007 Art. 10: La obtención de una segunda opinión médica NO DARÁ DERECHO A PERMANECER SIMULTÁNEAMENTE, por el mismo proceso, EN DOS LISTAS DE ESPERA para intervención quirúrgica. Respuesta B.",
-    "originalId": 35
+    "originalId": 35,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

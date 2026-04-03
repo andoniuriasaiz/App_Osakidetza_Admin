@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.235/2007 (Comisión Corporativa Traslados por Motivos de Salud): Su función es el ANÁLISIS DE LAS SOLICITUDES DE ADAPTACIÓN DE PUESTOS DE TRABAJO POR MOTIVOS DE SALUD QUE NO PUEDAN SER RESUELTAS DENTRO DE CADA ORGANIZACIÓN DE SERVICIOS. Actúa cuando la solución no puede darse internamente. Respuesta C.",
-    "originalId": 101
+    "originalId": 101,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.106/2008 (desarrollo profesional — personal sin relación fija): El personal sin relación de empleo fijo debe, además de los requisitos generales, HABER TOMADO PARTE EN EL ÚLTIMO PROCESO DE OFERTA PÚBLICA DE EMPLEO convocado, CON REALIZACIÓN EFECTIVA DEL EXAMEN de la categoría desde la que opte. Respuesta A.",
-    "originalId": 102
+    "originalId": 102,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.106/2008 (cómputo servicios para desarrollo profesional): AL PERSONAL FIJO se le computarán los servicios prestados en otras administraciones, EN EL MISMO GRUPO PROFESIONAL, A RAZÓN DE UN 50%. Respuesta C.",
-    "originalId": 103
+    "originalId": 103,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.106/2008 (Comisión paritaria seguimiento desarrollo profesional): Su función es RECIBIR INFORMACIÓN SOBRE EL DESARROLLO DE LOS PROCEDIMIENTOS DE EVALUACIÓN Y DE RECONOCIMIENTO DE GRADO. Respuesta D.",
-    "originalId": 104
+    "originalId": 104,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.106/2008 (licencia por gestación): Todo el personal femenino TENDRÁ LA OPCIÓN DE NO REALIZAR GUARDIAS Y NOCHES DURANTE LOS TRES MESES ANTERIORES Y POSTERIORES al parto. Es una opción, no una prohibición absoluta (a, c). Respuesta D.",
-    "originalId": 105
+    "originalId": 105,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.106/2008 (compromiso crecimiento plantilla 2007-2009): El mayor incremento de plazas en el período 2007-2009 correspondía al grupo profesional de AUXILIARES DE ENFERMERÍA, por ser el colectivo más numeroso con mayor necesidad de cobertura. Respuesta D.",
-    "originalId": 106
+    "originalId": 106,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.106/2008 (Euskaldunización): El Decreto establece la realización de DOS CONVOCATORIAS ANUALES de acreditación de perfiles lingüísticos. Respuesta B.",
-    "originalId": 107
+    "originalId": 107,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.106/2008 (externalizaciones): En relación a las externalizaciones de servicios, SE PRIMARÁ A LAS EMPRESAS CON MAYOR PORCENTAJE DE PLANTILLA ESTABLE. No es libre subrogación (a), ni restricción geográfica (b), ni subcontratación en cadena (c). Respuesta D.",
-    "originalId": 108
+    "originalId": 108,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.106/2008 (aspectos adicionales): Entre los aspectos adicionales se incluye la aprobación en el plazo de seis meses de UN PROTOCOLO DE SEGURIDAD DEL PACIENTE Y DE BUENAS PRÁCTICAS. No biológicos (a) ni coordinación sociosanitaria (c). Respuesta B.",
-    "originalId": 109
+    "originalId": 109,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.235/2007 Art. 3 (ámbito personal): Quedan expresamente excluidos del Acuerdo regulador EL PERSONAL SANITARIO LOCAL APD (personal de centros y servicios sanitarios locales de atención primaria dependiente de entidades locales). Respuesta B.",
-    "originalId": 110
+    "originalId": 110,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.235/2007 (retribuciones): El abono de cantidades a cargo de retribuciones correspondientes a un trabajo NO EFECTUADO se denomina ANTICIPO. No préstamo (c) ni retribución extrasalarial (d). Respuesta B.",
-    "originalId": 111
+    "originalId": 111,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.235/2007 (jornada anual): Conforme al Acuerdo de la Mesa General de negociación, las horas de trabajo efectivo anuales en concepto de jornada ordinaria (excepto nocturna) serán MIL QUINIENTAS NOVENTA Y DOS (1.592). Respuesta C.",
-    "originalId": 112
+    "originalId": 112,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.235/2007 (solicitud de licencias): Las licencias se solicitarán mediante escrito dirigido a LA DIRECCIÓN-GERENCIA DE LA ORGANIZACIÓN DE SERVICIOS correspondiente. No a la Dirección de RRHH (a) ni al responsable de unidad (c). Respuesta D.",
-    "originalId": 113
+    "originalId": 113,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.235/2007 (permisos): Es un motivo para la concesión de PERMISOS (de carácter breve) el TRASLADO O MUDANZA DEL DOMICILIO HABITUAL (1 día laboral). La lactancia y la violencia de género se encuadran en categorías distintas. Respuesta B.",
-    "originalId": 114
+    "originalId": 114,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_15",
@@ -552,7 +594,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "Decreto 235/2007: Las licencias por asuntos propios no retribuidas podrán concederse hasta un máximo de 3 meses cada dos años. El personal tiene derecho a solicitar este tipo de licencia sin necesidad de justificar el motivo. La B recoge correctamente este régimen. Respuesta B.",
-    "originalId": 115
+    "originalId": 115,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_16",
@@ -589,7 +634,10 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "D.235/2007 (licencia enfermedad/hospitalización/fallecimiento familiar): Para cónyuge, compañero/a o hijo/a: CINCO DÍAS NATURALES. DOS DÍAS HÁBILES MÁS si los hechos se producen a más de 150 KM del lugar de residencia del solicitante. Respuesta D.",
-    "originalId": 116
+    "originalId": 116,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e08_17",
@@ -626,6 +674,9 @@
     "imageUrl": null,
     "module": "aux-e08",
     "explanation": "Situaciones administrativas en el Acuerdo Osakidetza: todas las anteriores.",
-    "originalId": 117
+    "originalId": 117,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

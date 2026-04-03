@@ -17,6 +17,11 @@ export interface Question {
   imageUrl: string | null;        // full URL (overrides computed URL if set)
   solutionImages?: string[];      // ordered list of solution step images (with highlights/annotations)
   module: string;
+  // Explanation & source reliability (added by pipeline)
+  explanation?: string;           // Why the correct answer is correct
+  sourceTrio?: boolean;           // kaixo.com + osasuntest.com + IA all agree
+  sourceStatus?: string;          // 'PERFECT' | 'DISPUTED' | 'UNKNOWN' etc.
+  o_reliable?: boolean;           // osasuntest source is reliable for this question
 }
 
 import { OPE_TRACKS } from './tracks';

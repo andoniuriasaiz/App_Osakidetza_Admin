@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 14.1 Ley 41/2002: 'La historia clínica comprende el conjunto de los documentos relativos a los procesos asistenciales de cada paciente, con la identificación de los médicos y de los demás profesionales que han intervenido en ellos.' Es el soporte principal del trabajo asistencial. Respuesta C.",
-    "originalId": 156
+    "originalId": 156,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 1 Ley 7/2002: El objeto de la ley es 'regular la expresión anticipada de la voluntad para que sea tenida en cuenta cuando la persona que la emitió no pueda expresarla personalmente en el momento en que deba tomarse alguna decisión respecto a su atención sanitaria.' Respuesta A.",
-    "originalId": 157
+    "originalId": 157,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Objetivos vitales sirven para interpretar instrucciones y orientar decisiones clínicas.",
-    "originalId": 158
+    "originalId": 158,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 6 Ley 7/2002: representante para cualquier supuesto de incapacidad de expresión.",
-    "originalId": 159
+    "originalId": 159,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 5: instrucciones para enfermedad presente o futura.",
-    "originalId": 161
+    "originalId": 161,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Procedimientos: Registro/Centros + 2 testigos.",
-    "originalId": 162
+    "originalId": 162,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 7 Ley 7/2002: testigos deben ser mayores de edad (18) y cumplir grados.",
-    "originalId": 163
+    "originalId": 163,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 3 Ley 7/2002: 'La persona declarante podrá revocar, en cualquier momento y por cualquier medio, la declaración de voluntad anticipada que hubiera otorgado.' Sin límites. Respuesta D.",
-    "originalId": 164
+    "originalId": 164,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Modificación formalizada por mismos cauces que otorgamiento (escrito).",
-    "originalId": 165
+    "originalId": 165,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Prevalece voluntad inequívoca ante interlocutor.",
-    "originalId": 166
+    "originalId": 166,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.",
-    "originalId": 167
+    "originalId": 167,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
-    "originalId": 167
+    "originalId": 167,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 12: la interconexión del Registro no precisa consentimiento adicional.",
-    "originalId": 169
+    "originalId": 169,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t09_14",
@@ -515,6 +554,9 @@
     "imageUrl": null,
     "module": "comun-t09",
     "explanation": "Art. 11: DVA no inscrito ES válido si se aporta.",
-    "originalId": 170
+    "originalId": 170,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

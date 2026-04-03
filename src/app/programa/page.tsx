@@ -7,6 +7,19 @@ import { OPE_TRACKS } from '@/lib/tracks';
 import { MODULES } from '@/lib/modules';
 import { fetchStudyProgram, generateProgram, resetStudyProgram, completeStudyDay, StudyProgram, StudyDay } from '@/lib/study-program';
 import BottomNav from '@/components/BottomNav';
+import { IconBookOpen, IconRepeatSm, IconTarget, IconFlame, IconBed, IconCalendar, IconClipboard } from '@/components/AppIcons';
+
+/* ── Type icon helper ────────────────────────────────────────────────────── */
+function getTypeIcon(type: string, size = 12) {
+  switch(type) {
+    case 'new': return <IconBookOpen size={size} />;
+    case 'review': return <IconRepeatSm size={size} />;
+    case 'simulacro': return <IconTarget size={size} />;
+    case 'weaks': return <IconFlame size={size} />;
+    case 'rest': return <IconBed size={size} />;
+    default: return null;
+  }
+}
 
 /* ── DayCard ─────────────────────────────────────────────────────────────── */
 interface DayCardProps {
@@ -42,7 +55,8 @@ function DayCard({ day, todayStr, router, onComplete, getTypeColor, getTypeLabel
         <div className="w-px bg-slate-100 shrink-0" />
         <div className="flex-1 py-1">
           <div className="flex items-start justify-between mb-2 gap-2">
-            <span className={`text-xs font-bold px-2 py-0.5 rounded border ${getTypeColor(day.type)}`}>
+            <span className={`text-xs font-bold px-2 py-0.5 rounded border flex items-center gap-1 ${getTypeColor(day.type)}`}>
+              {getTypeIcon(day.type, 11)}
               {getTypeLabel(day.type)}
             </span>
             <div className="flex gap-1.5 shrink-0">
@@ -240,11 +254,11 @@ export default function ProgramaPage() {
 
   const getTypeLabel = (type: string) => {
     switch(type) {
-      case 'new': return '⭐ Temas Nuevos';
-      case 'review': return '🔄 Repaso';
-      case 'simulacro': return '🎯 Simulacro';
-      case 'weaks': return '🔥 Puntos Débiles';
-      case 'rest': return '😴 Descanso';
+      case 'new': return 'Temas Nuevos';
+      case 'review': return 'Repaso';
+      case 'simulacro': return 'Simulacro';
+      case 'weaks': return 'Puntos Débiles';
+      case 'rest': return 'Descanso';
       default: return type;
     }
   };
@@ -286,11 +300,11 @@ export default function ProgramaPage() {
             <button
               key={mode}
               onClick={() => setViewMode(mode)}
-              className={`px-4 py-2 rounded-lg text-xs font-bold transition-all ${
+              className={`px-4 py-2 rounded-lg text-xs font-bold transition-all flex items-center gap-1.5 ${
                 viewMode === mode ? 'bg-[#282182] text-white shadow' : 'text-slate-500 hover:text-slate-800'
               }`}
             >
-              {mode === 'week' ? '📅 Esta semana' : '📋 Todo el programa'}
+              {mode === 'week' ? <><IconCalendar size={13} /> Esta semana</> : <><IconClipboard size={13} /> Todo el programa</>}
             </button>
           ))}
         </div>

@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
-    "originalId": 141
+    "originalId": 141,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 3 Ley 41/2002: definición de usuario vs paciente sin restricción a sistema público.",
-    "originalId": 142
+    "originalId": 142,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
-    "originalId": 143
+    "originalId": 143,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 4: información mínima incluye consecuencias.",
-    "originalId": 144
+    "originalId": 144,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
-    "originalId": 145
+    "originalId": 145,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
-    "originalId": 146
+    "originalId": 146,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 9.3.a Ley 41/2002: En caso de riesgo para la salud pública o riesgo inmediato grave para la integridad física o psíquica del paciente, el facultativo puede actuar sin consentimiento. Pero si el paciente tuviera capacidad, debe ser informado. Los representantes actúan en ausencia de capacidad. Respuesta B.",
-    "originalId": 147
+    "originalId": 147,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 16 Ley 41/2002: Los usos de la historia clínica están regulados. El acceso de cada profesional se limita 'a los datos de la historia clínica relacionados con la asistencia que le haya prestado.' No hay acceso general de todo el personal del centro a todas las historias. Respuesta D.",
-    "originalId": 148
+    "originalId": 148,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 9.3: consentimiento por representación como regla general en menores.",
-    "originalId": 149
+    "originalId": 149,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 10.1.a: información incluye riesgos probables.",
-    "originalId": 150
+    "originalId": 150,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
-    "originalId": 151
+    "originalId": 151,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 6 Ley 41/2002: 'El médico responsable del paciente tiene la obligación de informarle... sobre el diagnóstico, pronóstico y alternativas de tratamiento.' La persona responsable de dar la información asistencial es el MÉDICO RESPONSABLE. Respuesta A.",
-    "originalId": 152
+    "originalId": 152,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
-    "originalId": 153
+    "originalId": 153,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
-    "originalId": 154
+    "originalId": 154,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_15",
@@ -552,7 +594,10 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 21.2: la dirección del centro oye al paciente y acude a la autoridad judicial.",
-    "originalId": 155
+    "originalId": 155,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t08_16",
@@ -589,6 +634,9 @@
     "imageUrl": null,
     "module": "comun-t08",
     "explanation": "Art. 2 Ley 7/2002: La declaración puede incluir: instrucciones sobre los tratamientos y cuidados que la persona desea o no recibir, la designación de una persona representante y el destino del cuerpo o de sus órganos tras el fallecimiento. Todas son correctas. Respuesta A.",
-    "originalId": 160
+    "originalId": 160,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

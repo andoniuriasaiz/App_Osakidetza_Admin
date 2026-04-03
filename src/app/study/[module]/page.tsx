@@ -18,8 +18,10 @@ import ComboBanner from '@/components/ComboBanner';
 import {
   ModuleIcon, IconLayers, IconCheckSquare, IconMouse, IconImage,
   IconClock, IconBolt, IconShuffle, IconBullseye, IconArrowRight,
-  IconTrendingUp, IconTrophy, IconStar, IconRefresh,
+  IconTrendingUp, IconTrophy, IconStar, IconRefresh, IconAward,
   IconCheckCircle, IconXCircle, IconCursor, IconZoomIn, IconMonitor,
+  IconRepeatSm, IconCalendar, IconLightbulb, IconAlertTriangle, IconInfo,
+  IconVolume, IconVolumeOff, IconBookmark, IconHeartFill, IconHeart,
 } from '@/components/AppIcons';
 
 // ─── Types ────────────────────────────────────────────────
@@ -89,6 +91,8 @@ export default function StudyPage() {
   const [simStep, setSimStep] = useState(0);   // current image index (0 = initial state)
   const [simClickAnim, setSimClickAnim] = useState<{x: number; y: number} | null>(null);
   const [showCollage, setShowCollage] = useState(false); // review: collage vs single-step
+  const [todayStudiedQueue, setTodayStudiedQueue] = useState<Question[]>([]); // questions studied in 'due' session
+  const [showExplanation, setShowExplanation] = useState(false); // toggle explanation panel
   const cardRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -154,7 +158,10 @@ export default function StudyPage() {
     setSimStep(0);
     setSimClickAnim(null);
     setShowCollage(false);
+    setShowExplanation(false);
     setAnimClass('animate-in');
+    // Track today's studied questions for práctica de hoy
+    if (type === 'due') setTodayStudiedQueue(qs);
     setMode('studying');
     startTimeRef.current = Date.now();
     sessionLoggedRef.current = false;
@@ -191,12 +198,20 @@ export default function StudyPage() {
           else if (selectedOptions.length > 0) submitAnswer();
         }
       } else {
-        if (e.code === 'Digit1' || e.key === '1') { e.preventDefault(); rateAndNext(0); }
-        if (e.code === 'Digit2' || e.key === '2') { e.preventDefault(); rateAndNext(1); }
-        if (e.code === 'Digit3' || e.key === '3') { e.preventDefault(); rateAndNext(2); }
-        if (e.code === 'Digit4' || e.key === '4') { e.preventDefault(); rateAndNext(3); }
-        if ((e.code === 'Space' || e.code === 'Enter') && isCorrect === true) {
-          e.preventDefault(); rateAndNext(2);
+        if (isCorrect === false && !isSimulation) {
+          // Wrong answer — 3 buttons: 1=Repetir ahora, 2=Mañana, 3=Ya lo sé
+          if (e.code === 'Digit1' || e.key === '1') { e.preventDefault(); repeatCurrentQuestion(); }
+          if (e.code === 'Digit2' || e.key === '2') { e.preventDefault(); rateAndNext(1); }
+          if (e.code === 'Digit3' || e.key === '3') { e.preventDefault(); rateAndNext(3); }
+        } else {
+          // Correct answer or simulation — 4 buttons (or 2 for correct)
+          if (e.code === 'Digit1' || e.key === '1') { e.preventDefault(); rateAndNext(0); }
+          if (e.code === 'Digit2' || e.key === '2') { e.preventDefault(); rateAndNext(1); }
+          if (e.code === 'Digit3' || e.key === '3') { e.preventDefault(); rateAndNext(2); }
+          if (e.code === 'Digit4' || e.key === '4') { e.preventDefault(); rateAndNext(3); }
+          if ((e.code === 'Space' || e.code === 'Enter') && isCorrect === true) {
+            e.preventDefault(); rateAndNext(2);
+          }
         }
       }
     }
@@ -448,10 +463,19 @@ export default function StudyPage() {
         setSimStep(0);
         setSimClickAnim(null);
         setShowCollage(false);
+        setShowExplanation(false);
         setAnimClass('animate-in-right');
         setTimeout(() => setAnimClass(''), 300);
       }
     }, 180);
+  }
+
+  // ─── Repeat current question (re-insert at end of queue) ─
+  function repeatCurrentQuestion() {
+    if (current) {
+      setQueue(q => [...q, current]);
+    }
+    nextQuestion();
   }
 
   // ─── Computed stats for selecting screen ────
@@ -551,43 +575,67 @@ export default function StudyPage() {
             <div className="space-y-2">
 
               {/* Due */}
-              <button
-                onClick={() => startStudy('due')}
-                disabled={dueCount === 0}
-                className={`w-full rounded-xl border text-left transition-all ${
-                  dueCount > 0
-                    ? 'border-2 border-[#282182] bg-[#fafafe] hover:shadow-sm cursor-pointer'
-                    : 'border-slate-200 bg-slate-50 opacity-45 cursor-not-allowed'
-                }`}
-                style={{ padding: '14px 16px' }}
-              >
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center gap-3">
-                    <div className={`w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0 ${
-                      dueCount > 0 ? 'bg-[#e8e7f7] text-[#282182]' : 'bg-slate-100 text-slate-400'
-                    }`}>
-                      <IconClock size={18} />
-                    </div>
-                    <div>
-                      <div className="font-semibold text-gray-900 text-sm flex items-center gap-2">
-                        Práctica de hoy
-                        {dueCount > 0 && (
-                          <span className="text-xs px-2 py-0.5 rounded-full font-bold leading-tight"
-                            style={{ background: '#282182', color: 'white' }}>
-                            {dueCount}
-                          </span>
-                        )}
+              <div className={`w-full rounded-xl border text-left transition-all ${
+                dueCount > 0
+                  ? 'border-2 border-[#282182] bg-[#fafafe]'
+                  : 'border-slate-200 bg-slate-50'
+              }`}>
+                <button
+                  onClick={() => startStudy('due')}
+                  disabled={dueCount === 0}
+                  className={`w-full text-left ${dueCount > 0 ? 'cursor-pointer' : 'cursor-not-allowed opacity-45'}`}
+                  style={{ padding: '14px 16px' }}
+                >
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-3">
+                      <div className={`w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0 ${
+                        dueCount > 0 ? 'bg-[#e8e7f7] text-[#282182]' : 'bg-slate-100 text-slate-400'
+                      }`}>
+                        <IconClock size={18} />
                       </div>
-                      <div className="text-xs text-gray-400 mt-0.5">
-                        {dueCount > 0 ? 'Repaso espaciado — las que toca hoy' : 'Todo al día · vuelve mañana'}
+                      <div>
+                        <div className="font-semibold text-gray-900 text-sm flex items-center gap-2">
+                          Práctica de hoy
+                          {dueCount > 0 && (
+                            <span className="text-xs px-2 py-0.5 rounded-full font-bold leading-tight"
+                              style={{ background: '#282182', color: 'white' }}>
+                              {dueCount}
+                            </span>
+                          )}
+                        </div>
+                        <div className="text-xs text-gray-400 mt-0.5">
+                          {dueCount > 0
+                            ? 'Solo las que toca hoy según tu progreso — sin repetir lo que ya sabes'
+                            : '✓ Todo al día · el algoritmo decide cuándo vuelve cada una'}
+                        </div>
                       </div>
                     </div>
+                    {dueCount > 0 && (
+                      <span style={{ color: '#282182' }}><IconArrowRight size={15} /></span>
+                    )}
                   </div>
-                  {dueCount > 0 && (
-                    <span style={{ color: '#282182' }}><IconArrowRight size={15} /></span>
-                  )}
-                </div>
-              </button>
+                </button>
+                {/* Sub-botón: repasar igualmente si ya está al día */}
+                {dueCount === 0 && todayStudiedQueue.length > 0 && (
+                  <div className="px-4 pb-3">
+                    <button
+                      onClick={() => {
+                        const qs = shuffleArray([...todayStudiedQueue]);
+                        setQueue(qs); setCurrentIdx(0);
+                        setSessionStats({ correct: 0, wrong: 0, streak: 0, total: 0 });
+                        setSessionXP(0); setMaxStreak(0); setWrongInSession([]);
+                        setShowAnswer(false); setAnswered(false); setIsCorrect(null);
+                        setSelectedOptions([]); setCardState(null); setSolStep(0);
+                        setSimStep(0); setSimClickAnim(null); setShowCollage(false);
+                        setShowExplanation(false); setAnimClass('animate-in'); setMode('studying');
+                      }}
+                      className="w-full py-1.5 rounded-lg text-xs font-semibold text-[#282182] border border-[#c8c7ef] bg-[#f0f0fb] hover:bg-[#e8e7f7] transition"
+                    >
+                      🔁 Repasar las de hoy otra vez ({todayStudiedQueue.length})
+                    </button>
+                  </div>
+                )}
+              </div>
 
               {/* New */}
               <button
@@ -635,7 +683,7 @@ export default function StudyPage() {
                         {filteredQs.length}
                       </span>
                     </div>
-                    <div className="text-xs text-gray-400 mt-0.5">Elige el orden y empieza</div>
+                    <div className="text-xs text-gray-400 mt-0.5">Todas las preguntas — ignora el algoritmo, tú eliges</div>
                   </div>
                 </div>
                 <div className="flex gap-2">
@@ -734,14 +782,14 @@ export default function StudyPage() {
               style={{ padding: '14px 16px' }}
             >
               <div className="flex items-center gap-3">
-                <div className="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0 bg-red-500 text-white text-base">
-                  ❤️
+                <div className="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0 bg-red-500 text-white">
+                  <IconHeartFill size={18} />
                 </div>
                 <div>
                   <div className="font-semibold text-red-900 text-sm flex items-center gap-2">
                     Modo supervivencia
-                    <span className="bg-red-500 text-white text-xs px-2 py-0.5 rounded-full font-bold leading-tight">
-                      3 ❤️
+                    <span className="inline-flex items-center gap-1 bg-red-500 text-white text-xs px-2 py-0.5 rounded-full font-bold leading-tight">
+                      3 <IconHeartFill size={9} />
                     </span>
                   </div>
                   <div className="text-xs text-red-600 mt-0.5">3 fallos y termina la sesión · ¡A por racha!</div>
@@ -753,22 +801,30 @@ export default function StudyPage() {
           {/* Mini legend */}
           <div className="bg-white rounded-xl border border-slate-100 p-4">
             <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">Valoración de respuestas</p>
-            <div className="grid grid-cols-2 gap-x-6 gap-y-2 text-xs text-gray-500">
+            <p className="text-xs text-slate-500 mb-2.5 font-medium">Si aciertas:</p>
+            <div className="grid grid-cols-2 gap-x-6 gap-y-2 text-xs text-gray-500 mb-3">
               <div className="flex items-center gap-2.5">
-                <span className="w-2 h-2 rounded-full bg-red-400 flex-shrink-0" />
-                <span><strong className="text-gray-700">1 No sé</strong> — vuelve hoy</span>
-              </div>
-              <div className="flex items-center gap-2.5">
-                <span className="w-2 h-2 rounded-full bg-orange-400 flex-shrink-0" />
-                <span><strong className="text-gray-700">2 Difícil</strong> — 1 día</span>
+                <span className="w-2 h-2 rounded-full bg-emerald-400 flex-shrink-0" />
+                <span><strong className="text-gray-700">★ Fácil</strong> — más tiempo</span>
               </div>
               <div className="flex items-center gap-2.5">
                 <span className="w-2 h-2 rounded-full flex-shrink-0" style={{ background: '#282182' }} />
-                <span><strong className="text-gray-700">3 Bien</strong> — varios días</span>
+                <span><strong className="text-gray-700">✓ Bien</strong> — varios días</span>
               </div>
-              <div className="flex items-center gap-2.5">
-                <span className="w-2 h-2 rounded-full bg-emerald-400 flex-shrink-0" />
-                <span><strong className="text-gray-700">4 Fácil</strong> — más tiempo</span>
+            </div>
+            <p className="text-xs text-slate-500 mb-2.5 font-medium">Si fallas:</p>
+            <div className="grid grid-cols-3 gap-x-3 gap-y-2 text-xs text-gray-500">
+              <div className="flex items-center gap-2">
+                <span className="w-2 h-2 rounded-full bg-red-400 flex-shrink-0" />
+                <span><strong className="text-gray-700">🔁 Repetir</strong> — ahora mismo</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="w-2 h-2 rounded-full bg-orange-400 flex-shrink-0" />
+                <span><strong className="text-gray-700">📅 Mañana</strong> — 1 día</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="w-2 h-2 rounded-full bg-blue-400 flex-shrink-0" />
+                <span><strong className="text-gray-700">💡 Ya lo sé</strong> — días</span>
               </div>
             </div>
           </div>
@@ -782,8 +838,9 @@ export default function StudyPage() {
   // ──────────────────────────────────────────────
   if (mode === 'finished') {
     const pct = sessionStats.total > 0 ? Math.round((sessionStats.correct / sessionStats.total) * 100) : 0;
-    const ResultEmoji = pct >= 85 ? '🏆' : pct >= 65 ? '⭐' : '💪';
     const ResultColor = pct >= 85 ? '#f59e0b' : pct >= 65 ? '#282182' : '#64748b';
+    const ResultIconColor = pct >= 85 ? 'text-amber-400' : pct >= 65 ? 'text-[#282182]' : 'text-slate-400';
+    const ResultIconSize = 52;
 
     function retryWrongs() {
       if (wrongInSession.length === 0) return;
@@ -817,7 +874,9 @@ export default function StudyPage() {
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
               {/* Header */}
               <div className={`px-6 pt-8 pb-6 text-center ${pct >= 70 ? 'bg-gradient-to-b from-green-50' : 'bg-gradient-to-b from-[#e8e7f7]'}`}>
-                <div className="text-5xl mb-3">{ResultEmoji}</div>
+                <div className={`flex justify-center mb-3 ${ResultIconColor}`}>
+                  {pct >= 85 ? <IconTrophy size={ResultIconSize} /> : pct >= 65 ? <IconStar size={ResultIconSize} /> : <IconAward size={ResultIconSize} />}
+                </div>
                 <h2 className="text-2xl font-bold text-gray-900">¡Sesión completada!</h2>
                 <p className="text-sm text-gray-500 mt-1">{mod?.name}</p>
               </div>
@@ -829,7 +888,7 @@ export default function StudyPage() {
                   <div className="flex gap-3 mb-4">
                     <div className="flex-1 rounded-xl p-3 text-center" style={{ background: '#e8e7f7' }}>
                       <div className="text-xl font-black text-[#282182]">+{sessionXP} XP</div>
-                      <div className="text-xs text-[#282182] opacity-70 mt-0.5">⚡ Ganados</div>
+                      <div className="flex items-center justify-center gap-1 text-xs text-[#282182] opacity-70 mt-0.5"><IconBolt size={11} /> Ganados</div>
                     </div>
                     {maxStreak >= 3 && (
                       <div className="flex-1 bg-orange-50 rounded-xl p-3 text-center border border-orange-100">
@@ -885,6 +944,35 @@ export default function StudyPage() {
                   >
                     Nueva sesión
                   </button>
+                  {/* Replay today's practice — only after 'due' sessions */}
+                  {studyType === 'due' && todayStudiedQueue.length > 0 && (
+                    <button
+                      onClick={() => {
+                        const qs = shuffleArray([...todayStudiedQueue]);
+                        setQueue(qs);
+                        setCurrentIdx(0);
+                        setSessionStats({ correct: 0, wrong: 0, streak: 0, total: 0 });
+                        setSessionXP(0);
+                        setMaxStreak(0);
+                        setWrongInSession([]);
+                        setShowAnswer(false);
+                        setAnswered(false);
+                        setIsCorrect(null);
+                        setSelectedOptions([]);
+                        setCardState(null);
+                        setSolStep(0);
+                        setSimStep(0);
+                        setSimClickAnim(null);
+                        setShowCollage(false);
+                        setShowExplanation(false);
+                        setAnimClass('animate-in');
+                        setMode('studying');
+                      }}
+                      className="w-full border-2 border-[#282182] text-[#282182] font-semibold py-3 rounded-xl transition text-sm hover:bg-[#e8e7f7]"
+                    >
+                      🔁 Repasar lo de hoy ({todayStudiedQueue.length} preguntas)
+                    </button>
+                  )}
                   <button
                     onClick={() => router.push('/dashboard')}
                     className="w-full bg-slate-100 hover:bg-slate-200 text-gray-700 font-semibold py-3 rounded-xl transition text-sm"
@@ -947,10 +1035,10 @@ export default function StudyPage() {
 
               {/* Center: progress counter or survival lives */}
               {survivalMode ? (
-                <div className="flex items-center gap-1 text-lg" title={`${lives} vidas restantes`}>
+                <div className="flex items-center gap-0.5" title={`${lives} vidas restantes`}>
                   {[0,1,2].map(i => (
-                    <span key={i} style={{ opacity: i < lives ? 1 : 0.2, filter: i < lives ? 'none' : 'grayscale(1)' }}>
-                      ❤️
+                    <span key={i} className={i < lives ? 'text-red-500' : 'text-slate-200'}>
+                      <IconHeartFill size={17} />
                     </span>
                   ))}
                 </div>
@@ -972,10 +1060,11 @@ export default function StudyPage() {
                 <span className="text-red-500 font-bold text-sm">✗{sessionStats.wrong}</span>
                 <button
                   onClick={() => { toggleMute(); setMuted(m => !m); }}
-                  className="text-base ml-1 opacity-60 hover:opacity-100 transition"
+                  className="ml-1 opacity-60 hover:opacity-100 transition text-gray-600"
                   title={muted ? 'Activar sonido' : 'Silenciar'}
+                  aria-label={muted ? 'Activar sonido' : 'Silenciar'}
                 >
-                  {muted ? '🔇' : '🔊'}
+                  {muted ? <IconVolumeOff size={16} /> : <IconVolume size={16} />}
                 </button>
               </div>
             </div>
@@ -1038,11 +1127,11 @@ export default function StudyPage() {
                   )}
                   <button
                     onClick={e => { e.stopPropagation(); if (current) { const bm = toggleBookmark(current.id); setCurrentBookmarked(bm); } }}
-                    className="text-lg leading-none transition-transform active:scale-125"
+                    className={`transition-all active:scale-125 ${currentBookmarked ? 'text-amber-400' : 'text-slate-300 hover:text-slate-400'}`}
                     title={currentBookmarked ? 'Quitar de favoritas' : 'Guardar en favoritas'}
-                    aria-label="bookmark"
+                    aria-label={currentBookmarked ? 'Quitar de favoritas' : 'Guardar en favoritas'}
                   >
-                    {currentBookmarked ? '⭐' : '☆'}
+                    <IconBookmark size={18} filled={currentBookmarked} />
                   </button>
                 </div>
               </div>
@@ -1292,11 +1381,11 @@ export default function StudyPage() {
                   </span>
                   <button
                     onClick={e => { e.stopPropagation(); if (current) { const bm = toggleBookmark(current.id); setCurrentBookmarked(bm); } }}
-                    className="ml-1 text-lg leading-none transition-transform active:scale-125"
+                    className={`ml-1 transition-all active:scale-125 ${currentBookmarked ? 'text-amber-400' : 'text-slate-300 hover:text-slate-400'}`}
                     title={currentBookmarked ? 'Quitar de favoritas' : 'Guardar en favoritas'}
-                    aria-label="bookmark"
+                    aria-label={currentBookmarked ? 'Quitar de favoritas' : 'Guardar en favoritas'}
                   >
-                    {currentBookmarked ? '⭐' : '☆'}
+                    <IconBookmark size={18} filled={currentBookmarked} />
                   </button>
                 </div>
                 <h2 className="text-base font-semibold text-gray-900 leading-snug">
@@ -1383,21 +1472,65 @@ export default function StudyPage() {
                 </div>
               )}
 
-              {/* Result message */}
+              {/* Result message + fuentes + explicación */}
               {answered && isCorrect !== null && (
-                <div className={`mx-5 mb-3 px-4 py-3 rounded-xl text-sm font-medium fade-in ${
-                  isCorrect
-                    ? 'bg-green-50 text-green-800 border border-green-200'
-                    : 'bg-red-50 text-red-800 border border-red-100'
-                }`}>
-                  {isCorrect ? (
-                    <span className="flex items-center gap-1.5">
-                      <IconCheckCircle size={14} /> ¡Correcto!
-                    </span>
-                  ) : (
-                    <span className="flex items-center gap-1.5">
-                      <IconXCircle size={14} /> Respuesta correcta: {current?.correctAnswers.join(' / ')}
-                    </span>
+                <div className="mx-5 mb-3 space-y-2 fade-in">
+                  {/* Resultado principal */}
+                  <div className={`px-4 py-3 rounded-xl text-sm font-medium ${
+                    isCorrect
+                      ? 'bg-green-50 text-green-800 border border-green-200'
+                      : 'bg-red-50 text-red-800 border border-red-100'
+                  }`}>
+                    {isCorrect ? (
+                      <span className="flex items-center gap-1.5">
+                        <IconCheckCircle size={14} /> ¡Correcto!
+                      </span>
+                    ) : (
+                      <span className="flex items-center gap-1.5">
+                        <IconXCircle size={14} /> Respuesta correcta: {current?.correctAnswers.join(' / ')}
+                      </span>
+                    )}
+                  </div>
+
+                  {/* Badge de fuentes de fiabilidad */}
+                  {current?.sourceStatus && (
+                    <div className="flex items-center gap-2 flex-wrap">
+                      {current.sourceTrio === true ? (
+                        <span className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200">
+                          <IconCheckCircle size={11} /> 3 fuentes coinciden
+                        </span>
+                      ) : current.sourceStatus === 'DISPUTED' ? (
+                        <span className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-amber-50 text-amber-700 border border-amber-200">
+                          <IconAlertTriangle size={11} /> Fuentes discrepan
+                        </span>
+                      ) : current.o_reliable === false ? (
+                        <span className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-slate-100 text-slate-600 border border-slate-200">
+                          <IconInfo size={11} /> kaixo + IA confirman
+                        </span>
+                      ) : (
+                        <span className="inline-flex items-center gap-1.5 text-xs font-medium px-2.5 py-1 rounded-full bg-slate-50 text-slate-400 border border-slate-100">
+                          <IconInfo size={11} /> Fuente parcial
+                        </span>
+                      )}
+                    </div>
+                  )}
+
+                  {/* Explicación (toggle) */}
+                  {current?.explanation && (
+                    <div>
+                      <button
+                        onClick={() => setShowExplanation(v => !v)}
+                        className="w-full flex items-center justify-between px-4 py-2.5 rounded-xl text-xs font-semibold text-[#282182] bg-[#f0f0fb] hover:bg-[#e8e7f7] border border-[#d4d3f0] transition"
+                      >
+                        <span>💡 ¿Por qué es correcta?</span>
+                        <span className="opacity-60">{showExplanation ? '▲' : '▼'}</span>
+                      </button>
+                      {showExplanation && (
+                        <div className="mt-1 px-4 py-3 rounded-xl bg-[#f8f8fd] border border-[#d4d3f0] text-xs text-gray-700 leading-relaxed">
+                          {current.explanation}
+                        </div>
+                      )}
+                    </div>
                   )}
                 </div>
               )}
@@ -1417,7 +1550,13 @@ export default function StudyPage() {
                     </button>
                   )
                 ) : (
-                  <RatingButtons card={currentCard} onRate={rateAndNext} showAll={isCorrect === false} />
+                  <RatingButtons
+                    card={currentCard}
+                    onRate={rateAndNext}
+                    showAll={isCorrect === false}
+                    isWrong={isCorrect === false}
+                    onRepeat={repeatCurrentQuestion}
+                  />
                 )}
               </div>
             </div>
@@ -1426,7 +1565,11 @@ export default function StudyPage() {
           {/* Keyboard hint */}
           {answered && (
             <p className="text-center text-xs text-gray-400 mt-2 fade-in">
-              <span className="kbd">1</span>–<span className="kbd">4</span> para valorar &nbsp;·&nbsp; <span className="kbd">Intro</span> si correcto
+              {isCorrect === false && !isSimulation ? (
+                <><span className="kbd">1</span> repetir &nbsp;·&nbsp; <span className="kbd">2</span> mañana &nbsp;·&nbsp; <span className="kbd">3</span> ya lo sé</>
+              ) : (
+                <><span className="kbd">1</span>–<span className="kbd">4</span> para valorar &nbsp;·&nbsp; <span className="kbd">Intro</span> si correcto</>
+              )}
             </p>
           )}
         </main>
@@ -1440,10 +1583,14 @@ function RatingButtons({
   card,
   onRate,
   showAll,
+  isWrong,
+  onRepeat,
 }: {
   card: CardState | null;
   onRate: (q: Quality) => void;
   showAll: boolean;
+  isWrong?: boolean;
+  onRepeat?: () => void;
 }) {
   const fakeCard = card ?? { interval: 0, easeFactor: 2.5, repetitions: 0, nextReview: 0, lastReview: 0, totalReviews: 0, totalWrong: 0 };
 
@@ -1467,6 +1614,45 @@ function RatingButtons({
     );
   }
 
+  if (isWrong && onRepeat) {
+    // Wrong answer — 3 meaningful options instead of 4 redundant ones
+    return (
+      <div>
+        <p className="text-xs text-center text-slate-400 mb-2">¿Cómo de bien la conocías?</p>
+        <div className="grid grid-cols-3 gap-1.5">
+          <button
+            onClick={onRepeat}
+            className="rating-btn bg-red-50 text-red-700 border border-red-200"
+            style={{ padding: '12px 6px' }}>
+            <IconRepeatSm size={15} className="mx-auto" />
+            <span className="label">Repetir</span>
+            <span className="interval">ahora</span>
+            <span className="text-xs opacity-40 font-mono">1</span>
+          </button>
+          <button
+            onClick={() => onRate(1)}
+            className="rating-btn bg-orange-50 text-orange-700 border border-orange-200"
+            style={{ padding: '12px 6px' }}>
+            <IconCalendar size={15} className="mx-auto" />
+            <span className="label">Mañana</span>
+            <span className="interval">{previewInterval(fakeCard, 1)}</span>
+            <span className="text-xs opacity-40 font-mono">2</span>
+          </button>
+          <button
+            onClick={() => onRate(3)}
+            className="rating-btn bg-blue-50 text-blue-700 border border-blue-200"
+            style={{ padding: '12px 6px' }}>
+            <IconLightbulb size={15} className="mx-auto" />
+            <span className="label">Ya lo sé</span>
+            <span className="interval">{previewInterval(fakeCard, 3)}</span>
+            <span className="text-xs opacity-40 font-mono">3</span>
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  // Simulation wrong / fallback — 4 buttons
   return (
     <div className="grid grid-cols-4 gap-1.5">
       {([

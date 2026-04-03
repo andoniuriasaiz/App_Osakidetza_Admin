@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El Art. 1 de la LO 3/2021 establece como objeto regular el derecho de toda persona a solicitar y recibir la prestacion de ayuda para morir, y la correlativa obligacion de las Administraciones de garantizarla.",
-    "officialId": 185
+    "officialId": 185,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El Art. 5.1.a) LO 3/2021 exige ser mayor de edad y tener nacionalidad española, residencia legal o certificado de empadronamiento que acredite mas de 12 meses de permanencia en España.",
-    "officialId": 186
+    "officialId": 186,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El Art. 3.b) LO 3/2021 define la eutanasia como la administracion directa al paciente de una sustancia por parte del personal sanitario competente que provoca su muerte de forma directa e intencionada.",
-    "officialId": 187
+    "officialId": 187,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El Art. 5.1.b) LO 3/2021 exige padecer una enfermedad grave e incurable, o un padecimiento grave, cronico e imposibilitante, causantes de un sufrimiento fisico o psiquico intolerable.",
-    "officialId": 188
+    "officialId": 188,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El Art. 8.2 LO 3/2021 establece que el medico responsable debe consultar al paciente al menos cada 15 dias para confirmar que mantiene su deseo, dejando constancia en la historia clinica.",
-    "officialId": 189
+    "officialId": 189,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El Art. 16 LO 3/2021 reconoce el derecho a la objecion de conciencia del personal sanitario directamente implicado en la prestacion de ayuda para morir, debiendo manifestarlo con antelacion y por escrito.",
-    "officialId": 190
+    "officialId": 190,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El Art. 3.c) LO 3/2021 define el padecimiento grave, cronico e imposibilitante como aquel que genera una limitacion que incide directamente sobre la autonomia fisica y la capacidad de expresar la voluntad de la persona.",
-    "officialId": 191
+    "officialId": 191,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El Art. 10.3 LO 3/2021 establece que el medico responsable debe comunicar la resolucion favorable a la Comision de Garantia y Evaluacion dentro del dia siguiente natural a dicha resolucion.",
-    "officialId": 192
+    "officialId": 192,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 193
+    "officialId": 193,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "La Ley 53/1984 establece que solo se puede desempeñar un segundo puesto publico con autorizacion previa y unicamente en los supuestos tasados que la propia Ley prevé, no de forma general.",
-    "officialId": 194
+    "officialId": 194,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "La Ley 53/1984 exige que la actividad privada compatible no comprometa la imparcialidad o independencia del funcionario, ni interfiera con sus obligaciones publicas.",
-    "officialId": 195
+    "officialId": 195,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "La Ley 53/1984 establece como regla general la prohibicion de percibir mas de una remuneracion con cargo a fondos publicos, salvo en los supuestos especificamente previstos y autorizados por la propia Ley.",
-    "officialId": 196
+    "officialId": 196,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "El desempeño de actividades incompatibles sin la preceptiva autorizacion puede dar lugar a responsabilidad disciplinaria, siendo considerada falta muy grave que puede llevar a la separacion del servicio.",
-    "officialId": 197
+    "officialId": 197,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "La Ley 53/1984 exceptua del regimen general las actividades docentes o de investigacion en determinados supuestos, asi como otras actividades de colaboracion ocasional.",
-    "officialId": 198
+    "officialId": 198,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_15",
@@ -552,7 +594,10 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "La Ley 53/1984 exige que la compatibilidad para un segundo puesto publico se encuadre en los supuestos legalmente previstos y que no suponga modificacion de la jornada y horario del puesto principal.",
-    "officialId": 199
+    "officialId": 199,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t16_16",
@@ -589,6 +634,9 @@
     "imageUrl": null,
     "module": "tec-comun-t16",
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 200
+    "officialId": 200,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

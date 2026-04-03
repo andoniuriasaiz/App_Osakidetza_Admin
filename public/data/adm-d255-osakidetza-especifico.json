@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 1: 'el Ente Público Osakidetza-Servicio vasco de salud es el Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de Ente Público de DERECHO PRIVADO, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones PÚBLICAS de servicios sanitarios dependientes del mismo.' Clave: Derecho PRIVADO (no Público) + organizaciones PÚBLICAS (no privadas). Respuesta C.",
-    "originalId": 6
+    "originalId": 6,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 3.b (Fines): 'Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes de carácter instrumental o complementario, promoviendo especialmente la mejora contínua de los niveles de información, la personalización en la atención y la calidad de la misma.' La opción A incluye 'sin tener en cuenta la calidad' (FALSO) y la B dice 'siempre que no sea personalizada' (FALSO). Solo la C reproduce correctamente el fin. Respuesta B.",
-    "originalId": 7
+    "originalId": 7,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 3 enumera los fines de Osakidetza: c) 'Promover la docencia en ciencias de la salud' [→ opción a: TRUE]; d) 'Promover la formación y actualización de los conocimientos... de su personal sanitario y no sanitario' [→ opciones b y c: TRUE]. 'Promover la creación de empresas privadas' NO aparece en ningún fin del Art. 3; es totalmente ajeno al objeto sanitario público. Respuesta C: la opción incorrecta.",
-    "originalId": 8
+    "originalId": 8,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
-    "originalId": 9
+    "originalId": 9,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
-    "originalId": 10
+    "originalId": 10,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
-    "originalId": 11
+    "originalId": 11,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
-    "originalId": 12
+    "originalId": 12,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta C.",
-    "originalId": 13
+    "originalId": 13,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
-    "originalId": 15
+    "originalId": 15,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
-    "originalId": 16
+    "originalId": 16,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 12 (Facultades organización central): 1. 'Establecer las reglas generales sobre representación, comunicación e imagen oficial' [→ opción a]; 2. 'Elaborar el Plan Estratégico del Ente Público' [→ opción b]; 3. 'Suministrar servicios comunes de asesoramiento y apoyo técnico' [→ opción c]. Las tres son funciones expresas de la organización central. Respuesta C: a)+b)+c) correctas.",
-    "originalId": 17
+    "originalId": 17,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 12.5 (materia de gestión de RRHH) enumera: c) Supervisar, controlar y evaluar políticas de personal [→ opción c: pertenece]; d) Dirigir el registro de personal [→ opción a: pertenece]; d) Gestionar procesos de selección y provisión [→ opción d: pertenece]. 'Elaborar el Plan Estratégico' está en Art. 12.2 (función general corporativa), NO en el apartado específico de RRHH (Art. 12.5). Respuesta C.",
-    "originalId": 18
+    "originalId": 18,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 14.1: 'Corresponde a cada organización de servicios del Ente Público... el ejercicio de TODAS las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tengan encomendada, quedando EXCLUIDAS ÚNICAMENTE aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente.' La opción D dice 'quedando incluidas' (inversión del texto). Respuesta B.",
-    "originalId": 19
+    "originalId": 19,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 15.1: 'Al frente de cada organización de servicios sanitarios del Ente Público se encontrará un DIRECTOR-GERENTE, considerado como cargo directivo sujeto al régimen del artículo 27 de la Ley de Ordenación sanitaria.' Respuesta B.",
-    "originalId": 20
+    "originalId": 20,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_15",
@@ -552,7 +594,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
-    "originalId": 21
+    "originalId": 21,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_16",
@@ -589,7 +634,10 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "D.255/1997 Art. 15 (Dirección Médica — atribuciones ordinarias): a) 'Presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento' [→ opción c: VERDAD]; b) 'Dirigir, coordinar y evaluar las actividades clínico-asistenciales' (no 'gestión administrativa' de opción a); c) 'Promover y supervisar las actividades de docencia e investigación del personal Facultativo.' Las opciones a/b/d describen funciones de otras Direcciones. Respuesta C.",
-    "originalId": 22
+    "originalId": 22,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-d255-osakidetza-especifico_17",
@@ -626,6 +674,9 @@
     "imageUrl": null,
     "module": "adm-d255-osakidetza-especifico",
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
-    "originalId": 23
+    "originalId": 23,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

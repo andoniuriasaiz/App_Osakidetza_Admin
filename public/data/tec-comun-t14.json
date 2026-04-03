@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "El Objetivo General de la Estrategia de Seguridad del Paciente 20-30 es promover el maximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad durante la asistencia.",
-    "officialId": 151
+    "officialId": 151,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "La Estrategia hace referencia al principio hipocratico Primum non nocere (primero no hacer daño) como el principio basico que la ciudadania asume que rige la actividad asistencial.",
-    "officialId": 152
+    "officialId": 152,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "Estrategia de Seguridad del Paciente 2030: Las dos nuevas líneas de acción incorporadas son la L9 (Seguridad en la transición asistencial) y la L10 (Cultura de seguridad en la organización). La C recoge estas dos nuevas líneas. Respuesta C.",
-    "officialId": 153
+    "officialId": 153,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "La Estrategia define el Evento Adverso como el incidente de seguridad que ocasiona algun tipo de daño a la persona atendida, diferenciandolo del incidente sin daño o cuasi-incidente.",
-    "officialId": 154
+    "officialId": 154,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "Estrategia de Seguridad del Paciente 2030, L2: La L2 se centra en la comunicación y la notificación de incidentes de seguridad, fomentando una cultura de aprendizaje y no de castigo. La D recoge correctamente este enfoque. Respuesta D.",
-    "officialId": 155
+    "officialId": 155,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "El Objetivo Especifico 1 es impulsar la cultura de seguridad del paciente en Osakidetza, con la formacion y sensibilizacion del personal como pilares fundamentales.",
-    "officialId": 156
+    "officialId": 156,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "Estrategia de Seguridad del Paciente 2030, L8: La L8 está dedicada a la seguridad del paciente en los cuidados de enfermería, incluyendo la prevención de úlceras por presión, caídas y otras complicaciones. La B es correcta. Respuesta B.",
-    "officialId": 157
+    "officialId": 157,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "El Estudio EVADUR determino que las personas atendidas por sistemas medicalizados tipo 061/112 presentan mayor porcentaje de incidentes de seguridad en el entorno de Emergencias.",
-    "officialId": 158
+    "officialId": 158,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "La Estrategia señala que las organizaciones comprometidas con la seguridad orientan sus esfuerzos formativos hacia los factores humanos o factores no tecnicos, como trabajo en equipo, comunicacion y liderazgo.",
-    "officialId": 159
+    "officialId": 159,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t14_10",
@@ -367,6 +394,9 @@
     "imageUrl": null,
     "module": "tec-comun-t14",
     "explanation": "La L6 (optimizacion en prescripcion de pruebas con radiacion ionizante) no esta relacionada con el sistema de medicacion, a diferencia de L5 (conciliacion), L14 (buenas practicas con medicacion) y L7 (transfusion).",
-    "officialId": 160
+    "officialId": 160,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

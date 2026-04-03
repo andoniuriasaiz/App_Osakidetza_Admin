@@ -559,3 +559,179 @@ export function IconCalendar({ size = 16, className = '' }: IconProps) {
     </svg>
   );
 }
+
+/** Open book — new topics / temas nuevos */
+export function IconBookOpen({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <path d="M2 4.5A2.5 2.5 0 014.5 2H12v20H4.5A2.5 2.5 0 012 19.5V4.5z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+      <path d="M22 4.5A2.5 2.5 0 0019.5 2H12v20h7.5A2.5 2.5 0 0022 19.5V4.5z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+      <line x1="12" y1="2" x2="12" y2="22" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+/** Target crosshair — simulacro / exam */
+export function IconTarget({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <circle cx="12" cy="12" r="9.5" stroke="currentColor" strokeWidth="1.5" />
+      <circle cx="12" cy="12" r="5.5" stroke="currentColor" strokeWidth="1.5" />
+      <circle cx="12" cy="12" r="1.8" fill="currentColor" />
+      <line x1="12" y1="2" x2="12" y2="6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+      <line x1="12" y1="18" x2="12" y2="22" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+      <line x1="2" y1="12" x2="6" y2="12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+      <line x1="18" y1="12" x2="22" y2="12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+/** Bed / moon rest — descanso */
+export function IconBed({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <path d="M3 7v10M3 14h18v3H3M21 14v3" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+      <rect x="7" y="10" width="5" height="4" rx="1" fill="currentColor" fillOpacity="0.5" />
+      <rect x="13" y="10" width="5" height="4" rx="1" fill="currentColor" fillOpacity="0.5" />
+    </svg>
+  );
+}
+
+/** Scale / balance — comparar leyes */
+export function IconScale({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <line x1="12" y1="3" x2="12" y2="21" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+      <path d="M8 21h8" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+      <path d="M3 8h9M3 8l3 6c0 0 3-1.5 3-6H3z" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round" />
+      <path d="M21 8h-9M21 8l-3 6c0 0-3-1.5-3-6h6z" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+/** Heart — survival lives */
+export function IconHeart({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <path
+        d="M12 21C12 21 3 15 3 8.5A4.5 4.5 0 0112 6.5 4.5 4.5 0 0121 8.5C21 15 12 21 12 21z"
+        stroke="currentColor" strokeWidth="1.6"
+        strokeLinecap="round" strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
+/** Heart filled — survival life active */
+export function IconHeartFill({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" className={className} aria-hidden="true">
+      <path
+        d="M12 21C12 21 3 15 3 8.5A4.5 4.5 0 0112 6.5 4.5 4.5 0 0121 8.5C21 15 12 21 12 21z"
+        fill="currentColor" stroke="currentColor" strokeWidth="1.2"
+        strokeLinecap="round" strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
+/** Volume on — sonido activo */
+export function IconVolume({ size = 16, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <polygon points="11,5 6,9 2,9 2,15 6,15 11,19" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" fill="none" />
+      <path d="M15.54 8.46a5 5 0 010 7.07M19.07 4.93a10 10 0 010 14.14" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+/** Volume off / mute */
+export function IconVolumeOff({ size = 16, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <polygon points="11,5 6,9 2,9 2,15 6,15 11,19" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" fill="none" />
+      <line x1="23" y1="9" x2="17" y2="15" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+      <line x1="17" y1="9" x2="23" y2="15" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+/** Repeat arrows small — repeat now rating button */
+export function IconRepeatSm({ size = 16, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <path d="M17 2l4 4-4 4" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M3 11V9a4 4 0 014-4h14" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M7 22l-4-4 4-4" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M21 13v2a4 4 0 01-4 4H3" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+/** Alert triangle — warning / disputed */
+export function IconAlertTriangle({ size = 16, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+      <line x1="12" y1="9" x2="12" y2="13" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+      <circle cx="12" cy="17" r="1" fill="currentColor" />
+    </svg>
+  );
+}
+
+/** Info circle — information */
+export function IconInfo({ size = 16, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <circle cx="12" cy="12" r="9" stroke="currentColor" strokeWidth="1.5" />
+      <line x1="12" y1="11" x2="12" y2="17" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" />
+      <circle cx="12" cy="7.5" r="1.2" fill="currentColor" />
+    </svg>
+  );
+}
+
+/** Compare arrows — AUX vs ADM */
+export function IconCompare({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <path d="M9 4L4 9l5 5" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M20 9H4" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" />
+      <path d="M15 20l5-5-5-5" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M4 15h16" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+/** Award medal — result passed */
+export function IconAward({ size = 48, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <circle cx="12" cy="9" r="7" stroke="currentColor" strokeWidth="1.5" />
+      <path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+/** Bookmark filled / outline (toggle) */
+export function IconBookmark({ size = 20, filled = false, className = '' }: IconProps & { filled?: boolean }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" className={className} aria-hidden="true">
+      <path
+        d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"
+        stroke="currentColor" strokeWidth="1.6"
+        strokeLinecap="round" strokeLinejoin="round"
+        fill={filled ? 'currentColor' : 'none'}
+        fillOpacity={filled ? 0.9 : 0}
+      />
+    </svg>
+  );
+}
+
+/** Arrow up — improvement / progress */
+export function IconArrowUp({ size = 16, className = '' }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <path d="M12 19V5M5 12l7-7 7 7" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}

@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: La solicitud de segunda opinión médica deberá presentarse en los SERVICIOS DE ATENCIÓN AL PACIENTE-USUARIO de los centros sanitarios del Ente Público Osakidetza o del Departamento de Sanidad. No es exclusivamente telemática (a), ni en cualquier registro oficial (b), ni solo en el centro de origen (d). Respuesta C.",
-    "originalId": 135
+    "originalId": 135,
+    "sourceTrio": false,
+    "sourceStatus": "INCOMPLETE",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: La concesión del derecho a la segunda opinión médica será INCOMPATIBLE con la SOLICITUD SIMULTÁNEA DE CAMBIO DE PROFESIONAL. Si el paciente ha solicitado simultáneamente ambas cosas, no procede la segunda opinión mientras esté tramitándose el cambio. Respuesta B.",
-    "originalId": 136
+    "originalId": 136,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: Cuando la segunda opinión CONFIRMA el primer diagnóstico, el paciente PODRÁ OPTAR por continuar la atención en el centro que emitió la segunda opinión o en el centro de origen. No hay obligación de continuar en el centro de origen (a no es correcta). Respuesta B.",
-    "originalId": 137
+    "originalId": 137,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007 Art. 3 (titulares del derecho): Puede solicitar la segunda opinión el PACIENTE, su REPRESENTANTE LEGAL o PERSONA EXPRESAMENTE AUTORIZADA por él. No se limita al paciente mayor de edad (a), ni incluye a cualquier profesional sanitario (b), ni solo familiares directos (d). Respuesta C.",
-    "originalId": 138
+    "originalId": 138,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007 establece el derecho a la segunda opinión para procesos que implican diagnóstico de patologías graves, crónicas, de difícil tratamiento o con elevada mortalidad. Las ENFERMEDADES NEUROLÓGICAS DEGENERATIVAS (c) encajan en esta categoría. Las enfermedades infecciosas comunes (a), patologías leves temporales (b) y trastornos psicológicos transitorios (d) no alcanzan este umbral. Respuesta C.",
-    "originalId": 139
+    "originalId": 139,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: La finalidad del derecho a la segunda opinión médica es CONTRASTAR EL PRIMER DIAGNÓSTICO O PROPUESTA TERAPÉUTICA para una MEJOR TOMA DE DECISIONES por parte del paciente. No sustituye el primer diagnóstico (a), ni garantiza el cambio de profesional (c), ni reduce listas de espera (d). Respuesta B.",
-    "originalId": 140
+    "originalId": 140,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: La segunda opinión debe ser emitida por profesionales sanitarios que FORMEN PARTE DE LA RED PÚBLICA DE OSAKIDETZA y sean DISTINTOS DEL CENTRO DE ORIGEN. No puede ser del mismo centro (a), ni elegidos libremente por el paciente sin más (c), ni de centros privados concertados exclusivamente (d). Respuesta B.",
-    "originalId": 141
+    "originalId": 141,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: Desde la entrada de la solicitud en el registro, la cita para la segunda opinión médica deberá ser concertada en un plazo MÁXIMO DE 15 DÍAS NATURALES. Respuesta C.",
-    "originalId": 142
+    "originalId": 142,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: Cuando la segunda opinión NO confirma el primer diagnóstico, el paciente puede igualmente OPTAR POR CONTINUAR LA ATENCIÓN en el centro que emitió la segunda opinión. No está obligado a continuar en el centro de origen (a) ni pierde el derecho a asistencia (b). Respuesta C.",
-    "originalId": 143
+    "originalId": 143,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: Cuando no se considera adecuada la concesión de una segunda opinión médica, la decisión debe EMITIRSE MEDIANTE INFORME RAZONADO DE LA DIRECCIÓN MÉDICA. No es suficiente la comunicación verbal (a) ni puede ser sin justificación (b). Respuesta C.",
-    "originalId": 144
+    "originalId": 144,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: Las solicitudes de segunda opinión médica son tramitadas por LOS SERVICIOS DE ATENCIÓN AL PACIENTE-USUARIO de los centros sanitarios Y LAS DIRECCIONES MÉDICAS DEL CENTRO DE ORIGEN. Estas dos unidades actúan de forma coordinada en el proceso. Respuesta C.",
-    "originalId": 146
+    "originalId": 146,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: El procedimiento de segunda opinión médica se iniciará siempre A INSTANCIA DEL PACIENTE, su representante legal o persona autorizada. No puede iniciarse de oficio por la Dirección Médica (a), ni a solicitud del profesional sanitario (b) sin petición del paciente. Respuesta C.",
-    "originalId": 185
+    "originalId": 185,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "adm-segunda-opinion-medica_13",
@@ -478,6 +514,9 @@
     "imageUrl": null,
     "module": "adm-segunda-opinion-medica",
     "explanation": "D.149/2007: Durante la tramitación del procedimiento de segunda opinión, LA ATENCIÓN SANITARIA CONTINÚA EN EL CENTRO DE ORIGEN hasta que se emita la segunda opinión. La solicitud NO suspende el tratamiento en curso (b) ni implica automáticamente cambio de centro (d). El procedimiento no tiene carácter preferente general (a). Respuesta C.",
-    "originalId": 194
+    "originalId": 194,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

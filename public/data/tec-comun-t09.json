@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
-    "officialId": 97
+    "officialId": 97,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t09_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
-    "officialId": 98
+    "officialId": 98,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t09_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 3 bis Ley 7/2002: el nombramiento de representante en favor de cónyuge o pareja de hecho se extingue desde la interposición de la demanda (no desde la sentencia) de nulidad/separación/divorcio, o desde la extinción formalizada de la pareja. Para mantenerlo hay que hacerlo constar en resolución judicial.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 99
+    "officialId": 99,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t09_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 2 Ley 7/2002: las instrucciones sobre el tratamiento pueden referirse tanto a enfermedades actuales como a futuras posibles. No hay restricción a una sola modalidad.",
-    "officialId": 100
+    "officialId": 100,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t09_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
-    "officialId": 101
+    "officialId": 101,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t09_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 4.2 Ley 7/2002: el documento de VA puede modificarse, sustituirse o revocarse siempre que la persona conserve la capacidad Y actúe libremente. Ambas condiciones son necesarias simultáneamente.",
-    "officialId": 102
+    "officialId": 102,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t09_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 5 Ley 7/2002: la voluntad actual del paciente prevalece sobre el documento cuando conserva su capacidad, libertad de actuación y puede expresarse de manera inequívoca.",
-    "officialId": 103
+    "officialId": 103,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t09_8",
@@ -293,6 +314,9 @@
     "imageUrl": null,
     "module": "tec-comun-t09",
     "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D.",
-    "officialId": 104
+    "officialId": 104,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

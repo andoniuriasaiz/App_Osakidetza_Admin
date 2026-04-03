@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Art. 9 RGPD y art. 9 LOPDGDD: Los datos relativos a la salud son una categoría especial de datos personales cuyo tratamiento está prohibido con carácter general, salvo en los supuestos que el propio RGPD reconoce (consentimiento explícito, interés vital, protección de la salud, etc.). Respuesta C.",
-    "originalId": 171
+    "originalId": 171,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Art. 5 RGPD: Los principios del tratamiento de datos personales son: licitud, lealtad y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad. Respuesta A.",
-    "originalId": 172
+    "originalId": 172,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A.",
-    "originalId": 173
+    "originalId": 173,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Arts. 15-22 RGPD: Los derechos de los interesados incluyen: acceso (art. 15), rectificación (art. 16), supresión/olvido (art. 17), limitación (art. 18), portabilidad (art. 20), oposición (art. 21). La 'restricción de acceso de terceros' no es un derecho propiamente dicho reconocido de forma autónoma. Respuesta D.",
-    "originalId": 174
+    "originalId": 174,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Art. 10 LO 3/2018: tratamiento de datos penales por abogacía y procura.",
-    "originalId": 175
+    "originalId": 175,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B.",
-    "originalId": 176
+    "originalId": 176,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta C.",
-    "originalId": 177
+    "originalId": 177,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B.",
-    "originalId": 178
+    "originalId": 178,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "LO 3/2018 y RGPD: La Agencia Española de Protección de Datos (AEPD) es la autoridad de control independiente, con personalidad jurídica propia y plena capacidad pública y privada. Actúa con plena independencia de los poderes públicos. La C recoge correctamente sus características. Respuesta C.",
-    "originalId": 179
+    "originalId": 179,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t10_10",
@@ -367,6 +394,9 @@
     "imageUrl": null,
     "module": "comun-t10",
     "explanation": "Art. 28 RGPD: Cuando el tratamiento se realice por cuenta del responsable, este solo utilizará encargados que ofrezcan garantías suficientes. Las relaciones entre responsable y encargado deben regularse mediante un contrato u otro acto jurídico. Respuesta B.",
-    "originalId": 180
+    "originalId": 180,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 2 Ley 44/2003: la colegiación es requisito imprescindible cuando una ley estatal la establezca.",
-    "originalId": 1
+    "originalId": 1,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 2 Ley 44/2003: El seguro de responsabilidad se exige 'cuando se ejerza la profesión en el ámbito de la asistencia sanitaria PÚBLICA', no privada. La opción C es la única que recoge correctamente el ámbito público y acepta tanto seguro individual como aval u otra garantía financiera de protección colectiva. Respuesta B.",
-    "originalId": 2
+    "originalId": 2,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 2.3 Ley 44/2003: Las corporaciones colegiales remitirán las resoluciones sancionadoras 'cuando una ley estatal establezca para este ejercicio la obligación de colegiación'. La opción C añade la condición 'siempre que la persona colegiada no se oponga explícitamente', lo cual NO está en la ley — es la afirmación FALSA. La ley no contempla ese derecho de oposición. Respuesta C.",
-    "originalId": 3
+    "originalId": 3,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 3 bis Ley 44/2003 (añadido por Ley 6/2023): El órgano del Registro Estatal de Profesionales Sanitarios podrá consultar los datos del DNI/NIE del personal sanitario ante el organismo competente en identificación de personas para verificar la autenticidad de los documentos aportados. Respuesta A.",
-    "originalId": 4
+    "originalId": 4,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta A.",
-    "originalId": 5
+    "originalId": 5,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 5.1.b Ley 44/2003: El personal facilitará a las personas pacientes el ejercicio del derecho a conocer 'el nombre, la titulación y la especialidad del personal sanitario que les atiende, así como la categoría y función de dicho personal, si así estuvieran definidas en su centro o institución'. NO incluye 'hoja de servicios'. La opción C es la correcta. Respuesta C.",
-    "originalId": 6
+    "originalId": 6,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 5.1.c Ley 44/2003: El derecho a la renuncia requiere que NO conlleve desatención y que quede CONSTANCIA FORMAL. La opción C ('aunque no sea formal') es INCORRECTA. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to C based on Kaixo/Osasun consensus.",
-    "originalId": 7
+    "originalId": 7,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "La Ley 44/2003 remite expresamente a la Ley 41/2002 para el derecho de información.",
-    "originalId": 8
+    "originalId": 8,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "La dispensación de medicamentos es función del farmacéutico (incorrecta para médico).",
-    "originalId": 9
+    "originalId": 9,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 3 ter Ley 44/2003: 'Los centros sanitarios revisarán que el personal sanitario de su plantilla cumple los requisitos necesarios para ejercer la profesión (…) cada TRES años como mínimo.' Respuesta B.",
-    "originalId": 10
+    "originalId": 10,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 9.1 Ley 44/2003: 'Cuando una actuación sanitaria se realice por un equipo de profesionales, se articulará de forma COLEGIADA o JERARQUIZADA, atendiendo a los criterios de conocimientos y competencia...'. La opción A dice 'preferentemente de forma jerarquizada', lo que es INCORRECTO — la ley no establece preferencia por la forma jerarquizada; son dos formas alternativas. Respuesta B.",
-    "originalId": 11
+    "originalId": 11,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 10.2 Ley 44/2003: Las funciones de gestión clínica comprenden: jefatura/coordinación de unidades y equipos sanitarios, tutorías y organización de formación especializada, continuada e investigación, participación en comités internos. La 'creación y difusión de contenidos en redes sociales' NO está contemplada como función de gestión clínica. Respuesta C.",
-    "originalId": 12
+    "originalId": 12,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 10.3 Ley 44/2003: 'El ejercicio de funciones de gestión clínica estará sometido a una evaluación del desempeño y de los resultados que tendrá lugar CADA CUATRO AÑOS.' Respuesta C.",
-    "originalId": 13
+    "originalId": 13,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 10.4 Ley 44/2003: 'El reconocimiento del desempeño de funciones de gestión clínica será objeto del oportuno reconocimiento por parte del centro, del servicio de salud y del conjunto del sistema sanitario, en la forma en que en cada comunidad autónoma se determine.' Respuesta B.",
-    "originalId": 14
+    "originalId": 14,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_15",
@@ -552,7 +594,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta B.",
-    "originalId": 15
+    "originalId": 15,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_16",
@@ -589,7 +634,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "C es el principio falso: no existe deber de informar sobre demandas de responsabilidad administrativa.",
-    "originalId": 17
+    "originalId": 17,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_17",
@@ -626,7 +674,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 8 Ley 44/2003: La eficacia organizativa requiere: normas de funcionamiento interno escritas, definición de objetivos y funciones generales y específicas, cumplimentación de documentación asistencial. Los 'controles periódicos sobre la eficiencia del personal profesional sanitario' como requisito de eficacia organizativa NO aparecen en este artículo. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
-    "originalId": 18
+    "originalId": 18,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_18",
@@ -663,7 +714,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
-    "originalId": 19
+    "originalId": 19,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_19",
@@ -700,7 +754,10 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "Art. 16.4 Ley 44/2003: Los centros acreditados para formación continuada no están obligados por ley a tener comisión de docencia ni jefaturas de estudios — eso es solo para formación especializada (art. 16.3). Tampoco se exige figura de defensoría del alumnado. La opción D ('todas las anteriores son incorrectas') es la correcta, ya que la ley no impone esas estructuras para formación continuada. Respuesta D.",
-    "originalId": 20
+    "originalId": 20,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t01_20",
@@ -737,6 +794,9 @@
     "imageUrl": null,
     "module": "comun-t01",
     "explanation": "III Plan Euskera Osakidetza 2022-2028: En los servicios de recepción y admisión, y en las unidades asistenciales y administrativas, a toda la ciudadanía vascohablante debe garantizarse 'la recepción en euskera', independientemente del canal (presencial o telefónico). Respuesta A.",
-    "originalId": 261
+    "originalId": 261,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "aux-e03",
     "explanation": "Art. 22.1 Ley 39/2015: suspensión por pruebas técnicas contradictorias, no por solicitud del interesado.",
-    "originalId": 160
+    "originalId": 160,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e03_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "aux-e03",
     "explanation": "Art. 22.2 Ley 39/2015: La suspensión del plazo DEBERÁ COMUNICARSE A LOS INTERESADOS, INDICANDO EL MOTIVO Y LA DURACIÓN prevista de la misma. Respuesta A.",
-    "originalId": 161
+    "originalId": 161,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "aux-e03_3",
@@ -108,6 +114,9 @@
     "imageUrl": null,
     "module": "aux-e03",
     "explanation": "Art. 24.1 Ley 39/2015: El silencio administrativo en procedimientos iniciados a solicitud del interesado tendrá CARÁCTER ESTIMATORIO (positivo), SALVO QUE UNA NORMA CON RANGO DE LEY O NORMA DE DERECHO DE LA UNIÓN EUROPEA establezca lo contrario o así lo exija la naturaleza del procedimiento. La regla general es el silencio positivo. Respuesta B.",
-    "originalId": 200
+    "originalId": 200,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

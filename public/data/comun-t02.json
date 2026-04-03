@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 2 Ley 16/2003: aplicación a servicios públicos y privados en seguridad y calidad.",
-    "originalId": 21
+    "originalId": 21,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 3 bis Ley 16/2003 (tras reforma): Para hacer efectivo el derecho a la protección de la salud son titulares: los españoles con residencia habitual en España (a), quienes tengan reconocido su derecho por otro título jurídico aunque no residan en España (b), y extranjeros con residencia legal y habitual en España sin otra cobertura obligatoria (c). Las tres son correctas → Respuesta D.",
-    "originalId": 22
+    "originalId": 22,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
-    "originalId": 23
+    "originalId": 23,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 8bis SNS: tres modalidades (básica, suplementaria, accesorios).",
-    "originalId": 24
+    "originalId": 24,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 8bis: la cartera básica se aprueba por Real Decreto.",
-    "originalId": 25
+    "originalId": 25,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Cartera básica = asistenciales + transporte urgente. Farmacia/Ortoprotésica son suplementaria.",
-    "originalId": 26
+    "originalId": 26,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 8 ter Ley 16/2003: La cartera común suplementaria incluye 'la prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos.' Todas tres. Respuesta D.",
-    "originalId": 27
+    "originalId": 27,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Servicios accesorios sujetos a aportación y/o reembolso.",
-    "originalId": 28
+    "originalId": 28,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 7.2 Ley 16/2003: Las comunidades autónomas podrán aprobar sus carteras de servicios que incluirán, cuando menos, 'la cartera común de servicios del Sistema Nacional de Salud en sus modalidades básica de servicios asistenciales, suplementaria y de servicios accesorios.' Respuesta C.",
-    "originalId": 29
+    "originalId": 29,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 20.2: las CCAA SÍ deben informar motivadamente al CISNS.",
-    "originalId": 30
+    "originalId": 30,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta D.",
-    "originalId": 31
+    "originalId": 31,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "La Red de Agencias de ETS participa en la evaluación, no es preceptiva solitariamente.",
-    "originalId": 32
+    "originalId": 32,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Exclusión solo procede por falta de eficacia/eficiencia o balance riesgo desfavorable.",
-    "originalId": 33
+    "originalId": 33,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 15 Ley 16/2003: La atención de urgencia se presta al paciente en los casos en que su situación clínica obliga a una atención sanitaria inmediata, garantizándose en todos los centros sanitarios públicos, privados y en los espacios públicos. La B recoge correctamente la definición y alcance. Respuesta B.",
-    "originalId": 34
+    "originalId": 34,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_15",
@@ -552,7 +594,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Financiación medicamentos = competencia Ministerio de Sanidad.",
-    "originalId": 35
+    "originalId": 35,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_16",
@@ -589,7 +634,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 37: la Comisión de RRHH del SNS diseña programas de formación.",
-    "originalId": 36
+    "originalId": 36,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_17",
@@ -626,7 +674,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta C.",
-    "originalId": 37
+    "originalId": 37,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_18",
@@ -663,7 +714,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
-    "originalId": 38
+    "originalId": 38,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_19",
@@ -700,7 +754,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 59 Ley 16/2003: La infraestructura para la mejora de la calidad incluye: el registro de declaración de incidentes y eventos adversos, los indicadores, la acreditación, el sistema de información, etc. No contempla un 'registro de agresiones a profesionales' como elemento de esa infraestructura. La opción d) (ambas falsas) es correcta respecto a las afirmaciones a) y b) tal como están formuladas (b es falsa porque el registro es de incidentes/eventos adversos, no de prácticas que 'hayan resultado un problema potencial'). Respuesta D.",
-    "originalId": 39
+    "originalId": 39,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_20",
@@ -737,7 +794,10 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 65 Ley 16/2003: Las actuaciones coordinadas en salud pública deberán encuadrarse en: responder a situaciones de especial riesgo o alarma (a), o establecer planes preventivos frente a esas situaciones (b). Los análisis epidemiológicos del apartado c) no constituyen por sí solos un supuesto de declaración de actuaciones coordinadas. Respuesta D (a y b correctas, c falsa).",
-    "originalId": 40
+    "originalId": 40,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "comun-t02_21",
@@ -774,6 +834,9 @@
     "imageUrl": null,
     "module": "comun-t02",
     "explanation": "Art. 18 Ley 55/2003: El personal estatutario ostenta el derecho a la actividad sindical. El derecho de reunión no requiere autorización previa (art. 19 EM). La libre sindicación SÍ está reconocida. La opción correcta es la b) 'ostenta el derecho a la actividad sindical'. Respuesta B.",
-    "originalId": 43
+    "originalId": 43,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   }
 ]

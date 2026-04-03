@@ -34,7 +34,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 2 Ley 55/2003: los principios son sometimiento pleno a la ley (a), integración en el régimen organizativo (c), coordinación y cooperación (d), entre otros. La opción B (\"promoción en el acceso\") no figura literalmente como principio del art. 2; el art. 2 habla de igualdad, mérito y capacidad pero no incluye \"promoción\" en el acceso.",
-    "officialId": 21
+    "officialId": 21,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_2",
@@ -71,7 +74,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 20.1 Ley 55/2003: la condición de personal estatutario fijo requiere: superación de pruebas + nombramiento + incorporación previo cumplimiento de requisitos formales, en el plazo de la convocatoria.",
-    "officialId": 22
+    "officialId": 22,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_3",
@@ -108,7 +114,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 20.2 Ley 55/2003: no podrán recibir nombramiento quienes, una vez superado el proceso selectivo, no acrediten los requisitos y condiciones exigidos en la convocatoria.",
-    "officialId": 23
+    "officialId": 23,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_4",
@@ -145,7 +154,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 26.1.e) Ley 55/2003: la pérdida de condición se produce por pena de inhabilitación especial para la profesión cuando excede de tres años (o absoluta firme, sin plazo).\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 24
+    "officialId": 24,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_5",
@@ -182,7 +194,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 26 Ley 55/2003 y legislación aplicable: la prolongación del servicio activo más allá de la edad de jubilación no depende solo de la solicitud voluntaria; está sujeta a condiciones y a la valoración de la administración. La opción B es incorrecta al decir que \"bastará con que lo solicite\".",
-    "officialId": 25
+    "officialId": 25,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_6",
@@ -219,7 +234,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 26 Ley 55/2003: la condición estatutaria se extingue por: pérdida de la nacionalidad (a), separación del servicio por sanción firme (b), e inhabilitación especial (c). Todas son causas de extinción.",
-    "officialId": 26
+    "officialId": 26,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_7",
@@ -256,7 +274,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 41 Ley 55/2003: el sistema retributivo comprende retribuciones básicas y complementarias (a), la evaluación se basa en igualdad, objetividad y transparencia (b), y el sistema responde a principios de cualificación técnica y profesional (c). Todo correcto.",
-    "officialId": 27
+    "officialId": 27,
+    "sourceTrio": true,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_8",
@@ -293,7 +314,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 42.3 Ley 55/2003: el personal temporal percibirá todas las retribuciones de su nombramiento excepto el complemento de carrera, que corresponde al personal fijo por su desarrollo profesional.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
-    "officialId": 28
+    "officialId": 28,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_9",
@@ -330,7 +354,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 26.1.c) Ley 55/2003: la extinción procede en los casos de incapacidad permanente total para la profesión habitual, absoluta o gran invalidez, según lo previsto en la normativa aplicable.",
-    "officialId": 29
+    "officialId": 29,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_10",
@@ -367,7 +394,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 49 Ley 55/2003: período de localización = período de disponibilidad a los solos efectos de asegurar la posible localización del profesional. No constituye tiempo de trabajo efectivo.",
-    "officialId": 30
+    "officialId": 30,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_11",
@@ -404,7 +434,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 49.5 Ley 55/2003: el período nocturno tendrá duración mínima de siete horas e incluirá necesariamente el período entre las cero y las cinco horas de cada día natural.",
-    "officialId": 31
+    "officialId": 31,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_12",
@@ -441,7 +474,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta B.",
-    "officialId": 32
+    "officialId": 32,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_13",
@@ -478,7 +514,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
-    "officialId": 33
+    "officialId": 33,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_14",
@@ -515,7 +554,10 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
-    "officialId": 34
+    "officialId": 34,
+    "sourceTrio": false,
+    "sourceStatus": "PERFECT",
+    "o_reliable": true
   },
   {
     "id": "tec-comun-t03_15",
@@ -552,6 +594,9 @@
     "imageUrl": null,
     "module": "tec-comun-t03",
     "explanation": "Art. 62.1 Ley 55/2003: la excedencia voluntaria por interés particular requiere haber prestado servicios efectivos durante los cinco años inmediatamente anteriores.",
-    "officialId": 35
+    "officialId": 35,
+    "sourceTrio": false,
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true
   }
 ]
