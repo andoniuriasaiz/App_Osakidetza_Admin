@@ -16,7 +16,7 @@ import { initTheme } from '@/lib/theme';
 import { fetchStudyProgram, StudyProgram, StudyDay } from '@/lib/study-program';
 import BottomNav from '@/components/BottomNav';
 import XPBar from '@/components/XPBar';
-import { ModuleIcon, IconBarChart, IconFlame, IconShuffle, IconGraduationCap, IconScale, IconBullseye, IconCompare, IconBookOpen, IconTarget, IconBed, IconRepeatSm, IconAlertTriangle } from '@/components/AppIcons';
+import { ModuleIcon, IconBarChart, IconFlame, IconShuffle, IconGraduationCap, IconScale, IconBullseye, IconCompare, IconBookOpen, IconTarget, IconBed, IconRepeatSm, IconAlertTriangle, IconLightbulb } from '@/components/AppIcons';
 
 interface ModuleStats {
   total: number;
@@ -516,6 +516,15 @@ export default function Dashboard() {
               </div>
               <p className="font-bold text-sm text-gray-900 leading-snug">AUX vs ADM</p>
               <p className="text-xs text-gray-400 mt-0.5">Comparativa de nivel</p>
+            </button>
+
+            <button onClick={() => router.push('/como-funciona')}
+              className="group bg-[#e8e7f7]/30 rounded-2xl border-2 border-indigo-100 p-4 text-left hover:border-[#282182]/40 hover:shadow-md transition-all">
+              <div className="w-10 h-10 rounded-xl bg-[#282182] text-white flex items-center justify-center mb-3 group-hover:scale-110 transition-transform">
+                <IconLightbulb size={20} />
+              </div>
+              <p className="font-bold text-sm text-gray-900 leading-snug">Guía: ¿Cómo funciona?</p>
+              <p className="text-xs text-indigo-600 mt-0.5 font-bold uppercase tracking-tighter">Ciencia del estudio</p>
             </button>
           </div>
         </div>

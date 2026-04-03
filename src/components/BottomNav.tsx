@@ -77,11 +77,28 @@ function PlanIcon({ active }: { active: boolean }) {
   );
 }
 
+function InfoIcon({ active }: { active: boolean }) {
+  return (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <circle
+        cx="12" cy="12" r="10"
+        stroke="currentColor"
+        strokeWidth={active ? 2.2 : 1.8}
+        fill={active ? 'currentColor' : 'none'}
+        fillOpacity={active ? 0.12 : 0}
+      />
+      <line x1="12" y1="16" x2="12" y2="12" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
+      <line x1="12" y1="8" x2="12.01" y2="8" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
+    </svg>
+  );
+}
+
 const items = [
   { href: '/dashboard', label: 'Inicio',  Icon: HomeIcon },
   { href: '/exam',      label: 'Examen',  Icon: ExamIcon },
   { href: '/stats',     label: 'Stats',   Icon: StatsIcon },
   { href: '/programa',  label: 'Programa', Icon: PlanIcon },
+  { href: '/como-funciona', label: 'Guía', Icon: InfoIcon },
 ] as const;
 
 export default function BottomNav() {
