@@ -25,9 +25,18 @@ export function createCard(): CardState {
   };
 }
 
+/** Returns the timestamp for the START of the day that is `intervalDays` calendar days from now.
+ *  This mirrors Anki's behaviour: a card with interval=1 studied at 8pm is due from midnight onward
+ *  (not 24 hours later), so you always see your reviews in the morning of the right day. */
+function nextReviewTimestamp(intervalDays: number): number {
+  const d = new Date();
+  d.setDate(d.getDate() + intervalDays);
+  d.setHours(0, 0, 0, 0);
+  return d.getTime();
+}
+
 export function updateCard(card: CardState, quality: Quality): CardState {
   const now = Date.now();
-  const DAY = 24 * 60 * 60 * 1000;
 
   let { interval, easeFactor, repetitions } = card;
 
@@ -59,7 +68,7 @@ export function updateCard(card: CardState, quality: Quality): CardState {
     interval,
     easeFactor,
     repetitions,
-    nextReview: now + interval * DAY,
+    nextReview: nextReviewTimestamp(interval),
     lastReview: now,
     totalReviews: card.totalReviews + 1,
     totalWrong: card.totalWrong + (quality === 0 ? 1 : 0),
