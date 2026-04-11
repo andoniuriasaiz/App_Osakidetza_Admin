@@ -1527,41 +1527,45 @@ export default function StudyPage() {
                         </span>
                       );
 
-                      // 2. Detalle de votos (Fantasía CSS) - Versión robusta
-                      const sourceNamesMap: Record<string, string> = {
-                        "IA": "IA",
-                        "Kaixo": "Kaixo.com",
-                        "Osasun": "Osasuntest",
-                        "Osasuntest": "Osasuntest",
-                        "UGT": "UGT"
+                      // 2. Detalle de votos (Fantasía CSS) - Versión de robustez extrema
+                      const sourceTagsMap: Record<string, string> = {
+                        "ugt": "UGT",
+                        "kaixo": "Kaixo.com",
+                        "osasun": "Osasuntest",
+                        "osasuntest": "Osasuntest",
+                        "ia": "IA"
                       };
 
-                      const sourceOrder = ["UGT", "Kaixo", "Osasun", "IA"];
-                      const correctAns = current?.correctAnswers?.[0] || (current?.correctAnswerNums && current.correctAnswerNums.length > 0 ? String.fromCharCode(64 + current.correctAnswerNums[0]) : '');
+                      const sourceOrder = ["ugt", "kaixo", "osasun", "ia"];
+                      
+                      // Obtener la letra correcta de forma robusta (A, B, C...)
+                      let correctAns = '';
+                      if (current?.correctAnswers?.[0] && current.correctAnswers[0].length === 1) {
+                        correctAns = current.correctAnswers[0].toUpperCase();
+                      } else if (current?.correctAnswerNums && current.correctAnswerNums.length > 0) {
+                        correctAns = String.fromCharCode(64 + current.correctAnswerNums[0]);
+                      }
 
-                      // Crear un mapa plano Fuente -> Respuesta a partir de votes (Respuesta -> [Fuentes])
+                      // Crear mapa normalizado: Fuente (minúsculas) -> Respuesta (Mayúscula)
                       const flatVotes: Record<string, string> = {};
-                      Object.entries(votes || {}).forEach(([ans, srcs]) => {
-                        // Si srcs es una lista (formato nuevo)
+                      Object.entries(votes || {}).forEach(([rawAns, srcs]) => {
+                        const ans = rawAns.toUpperCase();
                         if (Array.isArray(srcs)) {
                            srcs.forEach(s => { 
-                             flatVotes[s] = ans; 
-                             // Alias para robustez
-                             if (s === "Osasuntest") flatVotes["Osasun"] = ans;
+                             flatVotes[s.toLowerCase()] = ans; 
                            });
-                        } 
-                        // Si srcs es un string (formato viejo/fallback)
-                        else if (typeof srcs === 'string') {
-                           flatVotes[ans] = srcs;
+                        } else if (typeof srcs === 'string') {
+                           // Formato antiguo: fuente: respuesta
+                           flatVotes[rawAns.toLowerCase()] = srcs.toUpperCase();
                         }
                       });
 
                       const voteDetails = sourceOrder.map(srcKey => {
-                        const ans = flatVotes[srcKey] || flatVotes[sourceNamesMap[srcKey] || ''];
+                        const ans = flatVotes[srcKey] || flatVotes[sourceTagsMap[srcKey]?.toLowerCase() || ''];
                         if (!ans || ans === "?") return null;
                         
                         const isCorrectSource = ans === correctAns;
-                        const label = sourceNamesMap[srcKey] || srcKey;
+                        const label = sourceTagsMap[srcKey] || srcKey.toUpperCase();
                         
                         return (
                           <div key={srcKey} className={`flex items-center gap-1.5 px-2.5 py-1 rounded-lg border shadow-sm transition-all duration-300 ${
