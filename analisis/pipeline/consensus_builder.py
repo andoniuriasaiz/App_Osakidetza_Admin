@@ -64,7 +64,7 @@ def build_kaixo_index(k_raw: dict) -> dict:
 
 # Precisiones estimadas por fuente (0-1)
 ACCURACIES = {
-    "U":  0.98,  # UGT: Oráculo principal (Veto Power)
+    "U":  0.91,  # UGT: Oráculo (pero IA+K pueden generar duda)
     "K":  0.92,  # Kaixo: Plataforma sólida
     "IA": 0.75,  # IA Original: Menos fiable que Kaixo
     "O":  0.65,  # Osasuntest: Complementaria
