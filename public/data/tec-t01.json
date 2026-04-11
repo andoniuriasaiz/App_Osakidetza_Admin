@@ -44,10 +44,13 @@
     "o_reliable": true,
     "sourceConfidence": 85.0,
     "sourceVotes": {
-      "ia": "D",
-      "k": "C",
-      "o": "?",
-      "u": "D"
+      "D": [
+        "IA",
+        "UGT"
+      ],
+      "C": [
+        "Kaixo"
+      ]
     }
   },
   {
@@ -96,10 +99,11 @@
     "o_reliable": true,
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "A",
-      "k": "A",
-      "o": "?",
-      "u": "A"
+      "A": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -148,10 +152,13 @@
     "o_reliable": true,
     "sourceConfidence": 85.0,
     "sourceVotes": {
-      "ia": "D",
-      "k": "B",
-      "o": "?",
-      "u": "B"
+      "D": [
+        "IA"
+      ],
+      "B": [
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -200,10 +207,11 @@
     "o_reliable": true,
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "B",
-      "k": "B",
-      "o": "?",
-      "u": "B"
+      "B": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -252,10 +260,11 @@
     "o_reliable": true,
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "C",
-      "k": "C",
-      "o": "?",
-      "u": "C"
+      "C": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -304,10 +313,11 @@
     "o_reliable": true,
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "A",
-      "k": "A",
-      "o": "?",
-      "u": "A"
+      "A": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -356,10 +366,13 @@
     "o_reliable": true,
     "sourceConfidence": 85.0,
     "sourceVotes": {
-      "ia": "A",
-      "k": "B",
-      "o": "?",
-      "u": "B"
+      "A": [
+        "IA"
+      ],
+      "B": [
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -408,10 +421,11 @@
     "o_reliable": true,
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "A",
-      "k": "A",
-      "o": "?",
-      "u": "A"
+      "A": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   }
 ]

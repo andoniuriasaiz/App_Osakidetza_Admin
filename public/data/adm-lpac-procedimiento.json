@@ -46,10 +46,12 @@
     ],
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "D",
-      "k": "D",
-      "o": "D",
-      "u": "D"
+      "D": [
+        "IA",
+        "Kaixo",
+        "Osasun",
+        "UGT"
+      ]
     }
   },
   {
@@ -99,10 +101,14 @@
     ],
     "sourceConfidence": 85.0,
     "sourceVotes": {
-      "ia": "A",
-      "k": "B",
-      "o": "B",
-      "u": "B"
+      "A": [
+        "IA"
+      ],
+      "B": [
+        "Kaixo",
+        "Osasun",
+        "UGT"
+      ]
     }
   },
   {
@@ -151,10 +157,11 @@
     ],
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "C",
-      "k": "C",
-      "o": "?",
-      "u": "C"
+      "C": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -204,10 +211,14 @@
     ],
     "sourceConfidence": 85.0,
     "sourceVotes": {
-      "ia": "D",
-      "k": "C",
-      "o": "C",
-      "u": "C"
+      "D": [
+        "IA"
+      ],
+      "C": [
+        "Kaixo",
+        "Osasun",
+        "UGT"
+      ]
     }
   },
   {
@@ -256,10 +267,11 @@
     ],
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "D",
-      "k": "D",
-      "o": "?",
-      "u": "D"
+      "D": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -309,10 +321,12 @@
     ],
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "D",
-      "k": "D",
-      "o": "D",
-      "u": "D"
+      "D": [
+        "IA",
+        "Kaixo",
+        "Osasun",
+        "UGT"
+      ]
     }
   },
   {
@@ -361,10 +375,11 @@
     ],
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "C",
-      "k": "C",
-      "o": "?",
-      "u": "C"
+      "C": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   }
 ]

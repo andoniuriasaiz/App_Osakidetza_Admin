@@ -43,12 +43,16 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 91.4,
+    "sourceConfidence": 90.6,
     "sourceVotes": {
-      "ia": "A",
-      "k": "A",
-      "o": "C",
-      "u": "A"
+      "A": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ],
+      "C": [
+        "Osasun"
+      ]
     }
   },
   {
@@ -93,12 +97,15 @@
     "sourceSources": [
       "Kaixo"
     ],
-    "sourceConfidence": 31.1,
+    "sourceConfidence": 31.0,
     "sourceVotes": {
-      "ia": "A",
-      "k": "A",
-      "o": "?",
-      "u": "C"
+      "A": [
+        "IA",
+        "Kaixo"
+      ],
+      "C": [
+        "UGT"
+      ]
     }
   },
   {
@@ -143,12 +150,15 @@
     "sourceSources": [
       "Kaixo"
     ],
-    "sourceConfidence": 31.1,
+    "sourceConfidence": 31.0,
     "sourceVotes": {
-      "ia": "D",
-      "k": "D",
-      "o": "?",
-      "u": "A"
+      "D": [
+        "IA",
+        "Kaixo"
+      ],
+      "A": [
+        "UGT"
+      ]
     }
   },
   {
@@ -195,12 +205,16 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 91.4,
+    "sourceConfidence": 90.6,
     "sourceVotes": {
-      "ia": "D",
-      "k": "D",
-      "o": "C",
-      "u": "D"
+      "D": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ],
+      "C": [
+        "Osasun"
+      ]
     }
   },
   {
@@ -249,10 +263,11 @@
     ],
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "D",
-      "k": "D",
-      "o": "?",
-      "u": "D"
+      "D": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -301,10 +316,11 @@
     ],
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "A",
-      "k": "A",
-      "o": "?",
-      "u": "A"
+      "A": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   },
   {
@@ -350,12 +366,17 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 29.5,
+    "sourceConfidence": 28.9,
     "sourceVotes": {
-      "ia": "C",
-      "k": "A",
-      "o": "?",
-      "u": "B"
+      "C": [
+        "IA"
+      ],
+      "A": [
+        "Kaixo"
+      ],
+      "B": [
+        "UGT"
+      ]
     }
   },
   {
@@ -404,10 +425,11 @@
     ],
     "sourceConfidence": 100.0,
     "sourceVotes": {
-      "ia": "A",
-      "k": "A",
-      "o": "?",
-      "u": "A"
+      "A": [
+        "IA",
+        "Kaixo",
+        "UGT"
+      ]
     }
   }
 ]

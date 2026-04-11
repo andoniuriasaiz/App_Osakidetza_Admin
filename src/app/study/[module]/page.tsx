@@ -1527,32 +1527,41 @@ export default function StudyPage() {
                         </span>
                       );
 
-                      // 2. Detalle de votos (Fantasía CSS)
-                      // Invertimos el mapa para mostrar Fuente -> Respuesta (con colores)
-                      const sourceNames: Record<string, string> = {
+                      // 2. Detalle de votos (Fantasía CSS) - Versión robusta
+                      const sourceNamesMap: Record<string, string> = {
                         "IA": "IA",
                         "Kaixo": "Kaixo.com",
                         "Osasun": "Osasuntest",
+                        "Osasuntest": "Osasuntest",
                         "UGT": "UGT"
                       };
 
                       const sourceOrder = ["UGT", "Kaixo", "Osasun", "IA"];
                       const correctAns = current?.correctAnswers?.[0] || (current?.correctAnswerNums && current.correctAnswerNums.length > 0 ? String.fromCharCode(64 + current.correctAnswerNums[0]) : '');
 
-                      // Crear un mapa plano Fuente -> Respuesta a partir de votes (que es Respuesta -> [Fuentes])
+                      // Crear un mapa plano Fuente -> Respuesta a partir de votes (Respuesta -> [Fuentes])
                       const flatVotes: Record<string, string> = {};
-                      Object.entries(votes).forEach(([ans, srcs]) => {
+                      Object.entries(votes || {}).forEach(([ans, srcs]) => {
+                        // Si srcs es una lista (formato nuevo)
                         if (Array.isArray(srcs)) {
-                           srcs.forEach(s => { flatVotes[s] = ans; });
+                           srcs.forEach(s => { 
+                             flatVotes[s] = ans; 
+                             // Alias para robustez
+                             if (s === "Osasuntest") flatVotes["Osasun"] = ans;
+                           });
+                        } 
+                        // Si srcs es un string (formato viejo/fallback)
+                        else if (typeof srcs === 'string') {
+                           flatVotes[ans] = srcs;
                         }
                       });
 
                       const voteDetails = sourceOrder.map(srcKey => {
-                        const ans = flatVotes[srcKey];
-                        if (!ans) return null;
+                        const ans = flatVotes[srcKey] || flatVotes[sourceNamesMap[srcKey] || ''];
+                        if (!ans || ans === "?") return null;
                         
                         const isCorrectSource = ans === correctAns;
-                        const label = sourceNames[srcKey] || srcKey;
+                        const label = sourceNamesMap[srcKey] || srcKey;
                         
                         return (
                           <div key={srcKey} className={`flex items-center gap-1.5 px-2.5 py-1 rounded-lg border shadow-sm transition-all duration-300 ${
