@@ -34,7 +34,13 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Art. 99.5 CE: si transcurren dos meses desde la primera votación de investidura sin que ninguna candidatura obtenga la confianza del Congreso, la Presidencia del Congreso disolverá ambas cámaras. El cómputo se inicia desde la PRIMERA votación, no desde la última.",
-    "officialId": 451
+    "officialId": 451,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_2",
@@ -71,7 +77,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "INCORRECTA: La Administración NO puede denegar de forma generalizada la atención en euskera alegando falta de personal. El art. 6 EAPV reconoce el derecho de toda la ciudadanía a usar el euskera en sus relaciones con la Administración, y las instituciones deben garantizarlo.",
-    "officialId": 452
+    "officialId": 452,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_3",
@@ -108,7 +121,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "NO ES CORRECTA: La iniciativa de reforma del Estatuto corresponde al Parlamento Vasco a propuesta de la mayoría absoluta de sus miembros (no de una quinta parte), al Gobierno Vasco o a las Cortes Generales. La opción 2 indica erróneamente 'una quinta parte'.",
-    "officialId": 453
+    "officialId": 453,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_4",
@@ -145,7 +165,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Ninguna de las opciones es correcta. La Ley 3/1985 del Ararteko exige 3/5 del Parlamento en la primera votación; si no se alcanza, en votaciones sucesivas se puede lograr la mayoría absoluta. No existe el requisito indefectible de 3/5 sin límite alguno ni tampoco de 2/3.",
-    "officialId": 454
+    "officialId": 454,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_5",
@@ -182,7 +209,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme a la Ley 7/1981 del Gobierno Vasco, si el Lehendakari cesa y el Parlamento no inviste a un nuevo candidato, la situación de interinidad tiene un límite máximo de dos meses desde la primera votación de investidura, análogo al art. 99.5 CE.",
-    "officialId": 455
+    "officialId": 455,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_6",
@@ -219,7 +253,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "El 'Comité vasco de Autorizaciones de Uso Terapéutico' no figura en la enumeración oficial de órganos colegiados asesores del Departamento de Salud del Decreto 319/2024. Los restantes (Consejo asesor de vacunaciones, Consejo Asesor sobre el Cáncer y Comité de Medicina Personalizada) sí están adscritos al Departamento.",
-    "officialId": 456
+    "officialId": 456,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_7",
@@ -256,7 +297,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Sí, Luis ostenta un interés legítimo que puede resultar afectado por la resolución que ordena la demolición. El art. 4.1.b Ley 39/2015 atribuye la condición de interesado a quienes, sin haber iniciado el procedimiento, tengan derechos o intereses legítimos que puedan resultar afectados por la resolución.",
-    "officialId": 457
+    "officialId": 457,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_8",
@@ -293,7 +341,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Se produce la caducidad del procedimiento. Al tratarse de un procedimiento iniciado de oficio con efectos desfavorables para el ciudadano (sancionador), el incumplimiento del plazo máximo de resolución produce la caducidad, conforme al art. 25.1.b Ley 39/2015.",
-    "officialId": 458
+    "officialId": 458,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_9",
@@ -330,7 +385,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme al art. 117.3 Ley 39/2015, si transcurre un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico sin que la Administración haya dictado y notificado resolución expresa, la ejecución del acto impugnado se entenderá SUSPENDIDA (silencio positivo a favor de la suspensión).",
-    "officialId": 459
+    "officialId": 459,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_10",
@@ -367,7 +429,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "La falta de publicación en el boletín oficial impide que el Decreto produzca efectos jurídicos. Conforme al art. 52 Ley 39/2015, las disposiciones administrativas para ser eficaces deben publicarse en el diario oficial correspondiente; la publicación en la web departamental no suple ese requisito.",
-    "officialId": 460
+    "officialId": 460,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_11",
@@ -404,7 +473,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "La ausencia de plazo de duración determina la invalidez del convenio por incumplir el contenido mínimo exigido. El art. 49.d Ley 40/2015 exige que los convenios incluyan el plazo de vigencia (máximo 4 años prorrogables). La omisión de un elemento del contenido mínimo obligatorio vicia el convenio.",
-    "officialId": 461
+    "officialId": 461,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_12",
@@ -441,7 +517,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Sí, conforme al art. 71 Ley 55/2003 (Estatuto Marco del personal estatutario), el órgano competente puede acordar la suspensión provisional de funciones como medida cautelar ante falta grave o muy grave, con un límite de 6 meses salvo paralización del procedimiento imputable al interesado.",
-    "officialId": 462
+    "officialId": 462,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_13",
@@ -478,7 +561,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "La fundación es poder adjudicador conforme al art. 3.3 Ley 9/2017 LCSP (entidades del sector público financiadas mayoritariamente con fondos públicos y creadas para satisfacer necesidades de interés general). Como poder adjudicador debe aplicar los principios de publicidad y concurrencia.",
-    "officialId": 463
+    "officialId": 463,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_14",
@@ -515,7 +605,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Sí es susceptible de recurso especial. Los PCAP son actos susceptibles de recurso especial (art. 44.2 LCSP) y el valor estimado del contrato (3.173.246,28 €) supera el umbral mínimo de 100.000 € para contratos de servicios establecido por la LCSP para interponer este recurso.",
-    "officialId": 464
+    "officialId": 464,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_15",
@@ -552,7 +649,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "El contrato debería haberse calificado como contrato de obras, al ser la ejecución material de la construcción la prestación principal y económicamente predominante. Conforme al art. 18 LCSP, los contratos mixtos se califican según la prestación principal. La modificación del 35% sin previsión en pliegos también sería ilegal (art. 205 LCSP: máximo 20% sin previsión).",
-    "officialId": 465
+    "officialId": 465,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_16",
@@ -589,7 +693,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "La sociedad mercantil está sujeta a las obligaciones de publicidad activa. El art. 2.1.g Ley 19/2013 somete a sus obligaciones de transparencia a las sociedades mercantiles con participación pública superior al 50 %; al estar íntegramente participada (100 %), está plenamente obligada a publicar contratos, subvenciones y retribuciones de altos cargos.",
-    "officialId": 466
+    "officialId": 466,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_17",
@@ -626,7 +737,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "El personal estatutario interino para necesidades estructurales mantiene los mismos derechos que el personal fijo (permisos por asuntos particulares, formación). La jornada anual efectiva para turno mixto diurno-nocturno se reduce a 1.587 horas, con factor multiplicador para los turnos nocturnos según el Acuerdo de condiciones de Osakidetza.",
-    "officialId": 467
+    "officialId": 467,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_18",
@@ -663,7 +781,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "La movilidad interadministrativa se articula mediante concurso específico entre administraciones, con evaluación de méritos y capacidad. Si se concede, la persona empleada mantiene sus retribuciones y condiciones laborales. Así lo establece la Ley 11/2022 del Empleo Público Vasco.",
-    "officialId": 468
+    "officialId": 468,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_19",
@@ -700,7 +825,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Juan Pérez tiene derecho a solicitar reducción de jornada y a la formación continuada, así como a que se respete su dignidad e intimidad en el trabajo. El art. 17 Ley 55/2003 reconoce estos derechos para todo el personal estatutario del SNS.",
-    "officialId": 469
+    "officialId": 469,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_20",
@@ -737,7 +869,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "La clasificación del personal estatutario se realiza atendiendo al grado de complejidad y responsabilidad de los puestos, considerando méritos, formación y experiencia. La Ley 11/2022 LEPV establece que el proceso de clasificación y ordenación integra múltiples variables, no solo el título académico ni la antigüedad.",
-    "officialId": 470
+    "officialId": 470,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_21",
@@ -774,7 +913,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme al art. 16 RD 1146/2006, los residentes pueden realizar rotaciones externas con autorización del centro de origen y de la unidad docente responsable, con un período máximo de 4 meses continuados. Las retribuciones y derechos laborales se mantienen durante la rotación.",
-    "officialId": 471
+    "officialId": 471,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_22",
@@ -811,7 +957,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme al EBEP y la doctrina del TJUE (caso Schultz-Hoff), si la IT coincide con el período de vacaciones aprobado, las vacaciones pueden ser reprogramadas. El plazo para disfrutarlas puede extenderse hasta 18 meses tras el final del año de devengo si la IT impide disfrutarlas en su momento.",
-    "officialId": 472
+    "officialId": 472,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_23",
@@ -848,7 +1001,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "El acceso a un puesto funcional en Osakidetza viene determinado por la definición reglamentaria del puesto en el Decreto 186/2005, que incluye el grupo profesional de clasificación, la titulación exigida y las funciones. No basta con acreditar la titulación si no se pertenece al grupo profesional requerido.",
-    "officialId": 473
+    "officialId": 473,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_24",
@@ -885,7 +1045,13 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme a la Ley 2/2004 de la Autoridad Vasca de Protección de Datos (AVPD), cuando la AVPD sanciona a una entidad del sector público (como un centro universitario vasco), su resolución debe comunicarse al Gobierno Vasco para que adopte las medidas oportunas a través del departamento competente.",
-    "officialId": 474
+    "officialId": 474,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_25",
@@ -922,7 +1088,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme al art. 166 LGSS (texto refundido), la situación de incapacidad temporal es una situación asimilada al alta en la Seguridad Social. Por tanto, el período de IT computa a efectos de cotización para prestaciones contributivas (jubilación, incapacidad permanente, etc.) como si el trabajador estuviera en activo.",
-    "officialId": 475
+    "officialId": 475,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_26",
@@ -959,7 +1132,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme al art. 14 y 15 Ley 8/1997 de Ordenación Sanitaria del País Vasco, la dirección, planificación y programación del Sistema Sanitario de Euskadi corresponde al Gobierno Vasco a través del Departamento competente en materia de sanidad. Osakidetza es el ente proveedor, pero la planificación es competencia del Departamento.",
-    "officialId": 476
+    "officialId": 476,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_27",
@@ -996,7 +1176,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme a la Ley 8/1997, las estructuras públicas de provisión de servicios sanitarios pueden disponer de autonomía de gestión y articular la prestación mediante medios propios o ajenos, dentro de la planificación sanitaria aprobada. El carácter de servicio de interés público no excluye la colaboración con medios ajenos.",
-    "officialId": 477
+    "officialId": 477,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_28",
@@ -1033,7 +1220,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme al Decreto 255/1997 (Estatutos de Osakidetza), las organizaciones de servicios integradas en Osakidetza pueden ejercer potestades administrativas cuando así les sean atribuidas conforme al ordenamiento jurídico. Osakidetza es un ente público de Derecho privado pero puede actuar con poderes públicos cuando la ley lo establezca.",
-    "officialId": 478
+    "officialId": 478,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_29",
@@ -1070,7 +1264,14 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Procede desestimar el recurso. Las bases de la convocatoria son firmes al no haber sido recurridas en plazo. El puesto tiene asignado el perfil lingüístico 2 con fecha de preceptividad vencida, lo que lo convierte en requisito excluyente. Conforme al Decreto 67/2003, una vez vencida la fecha de preceptividad, el perfil lingüístico es de cumplimiento obligatorio.",
-    "officialId": 479
+    "officialId": 479,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-derecho-aplicado_30",
@@ -1107,6 +1308,13 @@
     "imageUrl": null,
     "module": "tec-derecho-aplicado",
     "explanation": "Conforme al art. 21 Ley 31/1995 PRL, los trabajadores tienen derecho a interrumpir su actividad laboral y abandonar el lugar de trabajo en caso de riesgo grave e inminente para su vida o salud, sin sufrir perjuicio alguno. Este derecho no requiere previa comunicación a la Inspección de Trabajo.",
-    "officialId": 480
+    "officialId": 480,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

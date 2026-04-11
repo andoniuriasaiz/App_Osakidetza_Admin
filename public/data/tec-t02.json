@@ -34,7 +34,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 1 EAPV: el pueblo vasco o Euskal Herria, como expresión de su nacionalidad, y para acceder a su autogobierno, se constituye en Comunidad Autónoma dentro del Estado español bajo la denominación de Euskadi o País Vasco.",
-    "officialId": 9
+    "officialId": 9,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_2",
@@ -71,7 +79,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 4.2 EAPV: la sede de las instituciones comunes de la Comunidad Autónoma se determinará por Ley del Parlamento Vasco.",
-    "officialId": 10
+    "officialId": 10,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_3",
@@ -108,7 +124,14 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 5 EAPV: la bandera del País Vasco es la bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo. En realidad el aspa es verde y el fondo rojo, pero la cruz es blanca. La respuesta A es incorrecta porque describe correctamente la ikurriña; la opción D es la incorrecta pues requiere además solicitud del ayuntamiento.",
-    "officialId": 11
+    "officialId": 11,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_4",
@@ -145,7 +168,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 7.2 EAPV: los residentes en el extranjero y sus descendientes podrán gozar de los mismos derechos políticos si lo solicitan, tuvieron su última vecindad en Euskadi y conservan la nacionalidad española.",
-    "officialId": 12
+    "officialId": 12,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_5",
@@ -182,7 +213,13 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "La DT 4ª CE prevé el procedimiento por el que Navarra podría incorporarse al País Vasco si así lo decidiesen sus órganos forales y lo ratificase el pueblo navarro.",
-    "officialId": 13
+    "officialId": 13,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_6",
@@ -219,7 +256,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 8 EAPV: no se exige referéndum de los habitantes; basta la solicitud del Ayuntamiento, aprobación del Parlamento Vasco y de las Cortes Generales mediante Ley Orgánica.",
-    "officialId": 14
+    "officialId": 14,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_7",
@@ -256,7 +301,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "El EAPV no establece derechos y deberes fundamentales propios; estos son los de la Constitución Española. La opción B es incorrecta porque no figura en el Estatuto con ese tenor.",
-    "officialId": 15
+    "officialId": 15,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_8",
@@ -293,7 +346,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 5.2 EAPV: los Territorios Históricos podrán usar sus banderas y enseñas propias. La opción A es incorrecta porque el EAPV no establece el deber de conocer el euskera (a diferencia del castellano en la CE).",
-    "officialId": 16
+    "officialId": 16,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_9",
@@ -330,7 +391,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 7.1 EAPV: tendrán la condición política de vascos quienes tengan la vecindad administrativa, de acuerdo con las leyes generales del Estado, en cualquiera de los municipios de la Comunidad Autónoma.",
-    "officialId": 17
+    "officialId": 17,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_10",
@@ -367,7 +436,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 18 EAPV: en materia de sanidad interior corresponde al País Vasco el desarrollo legislativo y la ejecución de la legislación básica del Estado.",
-    "officialId": 18
+    "officialId": 18,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_11",
@@ -404,7 +481,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 46 EAPV: la reforma del Estatuto se aprobará por el Parlamento Vasco por mayoría absoluta, luego las Cortes Generales la aprobarán mediante Ley Orgánica, y finalmente será sometida a referéndum.",
-    "officialId": 19
+    "officialId": 19,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_12",
@@ -441,7 +526,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "La sanidad interior es competencia compartida (desarrollo legislativo y ejecución de la legislación básica estatal, art. 18 EAPV), no exclusiva. Las otras tres sí son exclusivas (arts. 10 y 16 EAPV).",
-    "officialId": 20
+    "officialId": 20,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_13",
@@ -478,7 +571,14 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 46 EAPV: la iniciativa corresponde al Parlamento Vasco, al Gobierno Vasco o a las Cortes Generales. Aprobada por el Parlamento Vasco, pasa a las Cortes (Ley Orgánica) y luego a referéndum.",
-    "officialId": 21
+    "officialId": 21,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_14",
@@ -515,7 +615,14 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 18.2 EAPV: corresponde al País Vasco el desarrollo legislativo y la ejecución de la legislación del Estado sobre productos farmacéuticos.",
-    "officialId": 22
+    "officialId": 22,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_15",
@@ -552,7 +659,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "DT 1ª EAPV: la Comisión Mixta de Cupo se integra paritariamente por representantes de las Diputaciones Forales y del Gobierno Vasco, de un lado, e igual número de representantes de la Administración del Estado, de otro.",
-    "officialId": 23
+    "officialId": 23,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_16",
@@ -589,7 +704,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 42 EAPV: los ingresos de la Hacienda General del País Vasco son los rendimientos del patrimonio, las operaciones de crédito, las asignaciones del Estado y otras fuentes legales. La recaudación directa de impuestos corresponde a las Diputaciones Forales, no al Gobierno Vasco directamente.",
-    "officialId": 24
+    "officialId": 24,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_17",
@@ -626,7 +749,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 41 EAPV: no es el Gobierno Vasco quien resuelve la transferencia de bienes del Estado, sino que estos se integran en el patrimonio autonómico conforme a los procedimientos de traspaso. La opción B atribuye incorrectamente esta función al Gobierno Vasco.",
-    "officialId": 25
+    "officialId": 25,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_18",
@@ -663,7 +794,14 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 22 EAPV: los convenios de colaboración con otras CCAA para gestión de servicios deben comunicarse a las Cortes Generales antes de su entrada en vigor, sin que se requiera autorización expresa.",
-    "officialId": 26
+    "officialId": 26,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "CONSENSUS",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_19",
@@ -700,7 +838,14 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "La Ley 3/1985 establece un mandato de 5 años (no 8), con posibilidad de reelección por una sola vez. La opción B es falsa en cuanto a la duración del mandato.",
-    "officialId": 27
+    "officialId": 27,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "CONSENSUS",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_20",
@@ -737,7 +882,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Ley 1/1988: el Tribunal Vasco de Cuentas Públicas es independiente del Gobierno. La obstrucción a sus actuaciones es tipificada como infracción. Sus miembros son elegidos por el Parlamento Vasco, no por el Gobierno.",
-    "officialId": 28
+    "officialId": 28,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_21",
@@ -774,7 +927,15 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Ley 1/1988: el Tribunal Vasco de Cuentas Públicas puede adoptar medidas precautorias para proteger los bienes públicos cuando aprecie indicios de irregularidades.",
-    "officialId": 29
+    "officialId": 29,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t02_22",
@@ -811,6 +972,14 @@
     "imageUrl": null,
     "module": "tec-t02",
     "explanation": "Art. 3 Ley 3/1985: la persona titular del Ararteko es elegida por el Parlamento Vasco mediante votación en la que se exige la mayoría de tres quintas partes de sus miembros.",
-    "officialId": 30
+    "officialId": 30,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

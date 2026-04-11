@@ -37,6 +37,12 @@
     "originalId": 97,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   }
 ]

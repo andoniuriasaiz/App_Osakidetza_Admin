@@ -36,8 +36,12 @@
     "explanation": "El Art. 1 de la LO 3/2021 establece como objeto regular el derecho de toda persona a solicitar y recibir la prestacion de ayuda para morir, y la correlativa obligacion de las Administraciones de garantizarla.",
     "officialId": 185,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_2",
@@ -76,8 +80,12 @@
     "explanation": "El Art. 5.1.a) LO 3/2021 exige ser mayor de edad y tener nacionalidad española, residencia legal o certificado de empadronamiento que acredite mas de 12 meses de permanencia en España.",
     "officialId": 186,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_3",
@@ -115,9 +123,14 @@
     "module": "tec-comun-t16",
     "explanation": "El Art. 3.b) LO 3/2021 define la eutanasia como la administracion directa al paciente de una sustancia por parte del personal sanitario competente que provoca su muerte de forma directa e intencionada.",
     "officialId": 187,
-    "sourceTrio": true,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceTrio": false,
+    "sourceStatus": "UGT_OUTLIER",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t16_4",
@@ -156,8 +169,12 @@
     "explanation": "El Art. 5.1.b) LO 3/2021 exige padecer una enfermedad grave e incurable, o un padecimiento grave, cronico e imposibilitante, causantes de un sufrimiento fisico o psiquico intolerable.",
     "officialId": 188,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_5",
@@ -196,8 +213,12 @@
     "explanation": "El Art. 8.2 LO 3/2021 establece que el medico responsable debe consultar al paciente al menos cada 15 dias para confirmar que mantiene su deseo, dejando constancia en la historia clinica.",
     "officialId": 189,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_6",
@@ -237,7 +258,13 @@
     "officialId": 190,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t16_7",
@@ -277,7 +304,12 @@
     "officialId": 191,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t16_8",
@@ -316,8 +348,12 @@
     "explanation": "El Art. 10.3 LO 3/2021 establece que el medico responsable debe comunicar la resolucion favorable a la Comision de Garantia y Evaluacion dentro del dia siguiente natural a dicha resolucion.",
     "officialId": 192,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t16_9",
@@ -357,7 +393,13 @@
     "officialId": 193,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t16_10",
@@ -397,7 +439,12 @@
     "officialId": 194,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t16_11",
@@ -436,8 +483,12 @@
     "explanation": "La Ley 53/1984 exige que la actividad privada compatible no comprometa la imparcialidad o independencia del funcionario, ni interfiera con sus obligaciones publicas.",
     "officialId": 195,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_12",
@@ -476,8 +527,12 @@
     "explanation": "La Ley 53/1984 establece como regla general la prohibicion de percibir mas de una remuneracion con cargo a fondos publicos, salvo en los supuestos especificamente previstos y autorizados por la propia Ley.",
     "officialId": 196,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_13",
@@ -516,8 +571,12 @@
     "explanation": "El desempeño de actividades incompatibles sin la preceptiva autorizacion puede dar lugar a responsabilidad disciplinaria, siendo considerada falta muy grave que puede llevar a la separacion del servicio.",
     "officialId": 197,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_14",
@@ -556,8 +615,12 @@
     "explanation": "La Ley 53/1984 exceptua del regimen general las actividades docentes o de investigacion en determinados supuestos, asi como otras actividades de colaboracion ocasional.",
     "officialId": 198,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_15",
@@ -596,8 +659,12 @@
     "explanation": "La Ley 53/1984 exige que la compatibilidad para un segundo puesto publico se encuadre en los supuestos legalmente previstos y que no suponga modificacion de la jornada y horario del puesto principal.",
     "officialId": 199,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t16_16",
@@ -637,6 +704,12 @@
     "officialId": 200,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   }
 ]

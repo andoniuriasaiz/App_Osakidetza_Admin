@@ -34,7 +34,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "La cuenta de pérdidas y ganancias recoge los ingresos y gastos del ejercicio y muestra el resultado (beneficio o pérdida) del mismo. El balance muestra la situación patrimonial, el ECPN los cambios en patrimonio neto, y el EFE los cobros y pagos.",
-    "officialId": 354
+    "officialId": 354,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_2",
@@ -71,7 +78,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "El principio de devengo establece que los efectos de las transacciones y hechos económicos se registran cuando ocurren, con independencia de cuándo se produzca el cobro o el pago. Es uno de los principios contables fundamentales del PGC.",
-    "officialId": 355
+    "officialId": 355,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_3",
@@ -108,7 +122,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "El Estado de Flujos de Efectivo (EFE) muestra los cobros y pagos producidos durante el ejercicio, clasificados en actividades de explotación (operaciones ordinarias), inversión (compra/venta de activos) y financiación (deuda y capital).",
-    "officialId": 356
+    "officialId": 356,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_4",
@@ -145,7 +166,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Según el PGC 2007, las cuentas anuales comprenden exactamente cinco documentos: Balance, Cuenta de Pérdidas y Ganancias, Estado de Cambios en el Patrimonio Neto (ECPN), Estado de Flujos de Efectivo (EFE) y Memoria. El informe de auditoría y el informe de gestión son documentos separados.",
-    "officialId": 357
+    "officialId": 357,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_5",
@@ -182,7 +210,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Conforme a la Orden de 23 de diciembre de 1996 (adaptación del PGC para empresas de asistencia sanitaria), las subvenciones, donaciones y legados que reciben estas empresas se clasifican como 'otros ingresos de gestión', reconociéndose como ingresos ordinarios de la actividad.",
-    "officialId": 358
+    "officialId": 358,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_6",
@@ -219,7 +254,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "La afirmación incorrecta es la opción 4: la amortización (depreciación) NO es una pérdida reversible, sino irreversible y sistemática. Las pérdidas reversibles son los 'deterioros de valor' (p.ej., depreciación de existencias o inversiones), que sí pueden revertirse. La amortización refleja el consumo sistemático de un activo a lo largo de su vida útil.",
-    "officialId": 359
+    "officialId": 359,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_7",
@@ -256,7 +298,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "La opción 4 es INCORRECTA: la aplicación de los principios contables no tiene como propósito determinar el valor del patrimonio neto a efectos de su transmisión. El objetivo es proporcionar la imagen fiel del patrimonio, la situación financiera y los resultados de la empresa (art. 34.2 C.Co.).",
-    "officialId": 360
+    "officialId": 360,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_8",
@@ -293,7 +342,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Según la NRV 10 del PGC, en el coste de producción de un activo construido por la empresa solo se pueden activar los gastos financieros de la financiación ESPECÍFICA a largo plazo. Los gastos financieros de la financiación a corto plazo NO pueden incluirse en el coste de producción.",
-    "officialId": 361
+    "officialId": 361,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_9",
@@ -330,7 +386,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "La opción incorrecta es la 4: cuando se paga una prima de seguro de forma anticipada, surge un ACTIVO (gasto anticipado o pagos anticipados), NO un pasivo. La tesorería sale en X0, y el gasto anticipado se consume a lo largo del periodo asegurado (X0 y X1).",
-    "officialId": 362
+    "officialId": 362,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_10",
@@ -367,7 +430,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Según el Marco Conceptual del PGC, un ingreso se reconoce cuando: (1) se produce un incremento del patrimonio neto, (2) su cuantía puede determinarse con fiabilidad, y (3) independientemente de que se haya cobrado (principio de devengo). No es necesario el cobro previo.",
-    "officialId": 363
+    "officialId": 363,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_11",
@@ -404,7 +474,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Según el PGC, los activos son bienes, derechos y otros recursos CONTROLADOS económicamente por la empresa (no se exige propiedad jurídica). El criterio de control es el determinante para el reconocimiento contable de activos, no la titularidad.",
-    "officialId": 364
+    "officialId": 364,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_12",
@@ -441,7 +518,13 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Según el PGC (NRV 9), se considera que existe influencia significativa cuando una o varias empresas del grupo posean al menos el 20% de los derechos de voto de otra sociedad (o el 3% si cotiza en mercados regulados). Esta presunción puede confirmarse o desvirtuarse por otros indicios.",
-    "officialId": 365
+    "officialId": 365,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_13",
@@ -478,7 +561,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Según la NRV 7 del PGC, los activos no corrientes mantenidos para la venta se valoran por el MENOR de: su valor contable y su valor razonable menos los costes de venta. Además, deben dejar de amortizarse desde su clasificación en esta categoría, y su venta debe ser altamente probable.",
-    "officialId": 366
+    "officialId": 366,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_14",
@@ -515,7 +605,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Las cuentas anuales según el PGC 2007 comprenden: Balance, Cuenta de Pérdidas y Ganancias, Estado de Cambios en el Patrimonio Neto, Estado de Flujos de Efectivo y Memoria. El informe de auditoría y el informe de gestión NO forman parte de las cuentas anuales.",
-    "officialId": 367
+    "officialId": 367,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_15",
@@ -552,7 +649,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Según el Marco Conceptual del PGC, un activo se reconoce contablemente cuando: (1) es probable la obtención de beneficios o rendimientos económicos futuros derivados del mismo, y (2) su valor puede determinarse con fiabilidad. No se requiere ni titularidad jurídica ni pago previo.",
-    "officialId": 368
+    "officialId": 368,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_16",
@@ -589,7 +693,14 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Según la NRV 18 del PGC, las subvenciones, donaciones y legados NO reintegrables otorgados por terceros se contabilizan como ingresos imputados directamente al patrimonio neto (Subvenciones oficiales de capital u otras subvenciones), y posteriormente se transfieren a la cuenta de pérdidas y ganancias de forma sistemática y racional, correlacionada con los gastos financiados.",
-    "officialId": 369
+    "officialId": 369,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-pgc-contabilidad_17",
@@ -626,6 +737,13 @@
     "imageUrl": null,
     "module": "tec-pgc-contabilidad",
     "explanation": "Conforme a la Orden de 23 de diciembre de 1996 (adaptación del PGC para empresas de asistencia sanitaria), los elementos patrimoniales recibidos como subvenciones, donaciones y legados no reintegrables se valorarán por su valor venal, con el límite del valor de mercado.",
-    "officialId": 370
+    "officialId": 370,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

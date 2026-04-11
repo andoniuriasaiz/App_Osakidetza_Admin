@@ -34,7 +34,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Decreto 186/2005/2025: los importes retributivos de los puestos funcionales se determinan mediante negociación colectiva en la Mesa Sectorial, no unilateralmente por el Consejo de Administración. La opción B es falsa.",
-    "officialId": 204
+    "officialId": 204,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_2",
@@ -71,7 +78,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Decreto 186/2005: el puesto funcional es el instrumento de clasificación que combina aspectos organizativos, retributivos y de desarrollo profesional, orientándose específicamente a la organización, promoción y desarrollo integral del personal.",
-    "officialId": 205
+    "officialId": 205,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_3",
@@ -108,7 +122,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 4 Decreto 186/2005: la responsabilidad funcional se diferencia por la responsabilidad jerárquica, los conocimientos especializados y la responsabilidad de gestión de recursos materiales. El nivel de euskera es un criterio lingüístico, no de responsabilidad funcional.",
-    "officialId": 206
+    "officialId": 206,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_4",
@@ -145,7 +166,13 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Decreto 186/2025: la aprobación de la plantilla funcional de cada organización de servicios de Osakidetza corresponde al Consejo de Administración del Ente Público.",
-    "officialId": 207
+    "officialId": 207,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_5",
@@ -182,7 +209,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Decreto 186/2025: cuando la modificación de la plantilla funcional conlleva variación en la plantilla estructural, requiere la aprobación del Consejo de Administración de Osakidetza, que es el órgano rector del Ente Público.",
-    "officialId": 208
+    "officialId": 208,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_6",
@@ -219,7 +253,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Decreto 186/2025: los criterios para la determinación del perfil lingüístico en los puestos funcionales de Osakidetza se rigen por el Decreto 67/2003, de normalización del uso del euskera en Osakidetza.",
-    "officialId": 209
+    "officialId": 209,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_7",
@@ -256,7 +297,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Decreto 186/2025: cuando la adecuación de oficio implica una minoración retributiva para el titular, se le asigna un complemento personal y transitorio que compensa la diferencia hasta que sea absorbido por futuras mejoras retributivas.",
-    "officialId": 210
+    "officialId": 210,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_8",
@@ -293,7 +341,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "DA 6ª Decreto 186/2025: el Consejo de Administración de Osakidetza puede ampliar las titulaciones habilitantes para acceder a un puesto funcional sin necesidad de crear una nueva categoría profesional.",
-    "officialId": 211
+    "officialId": 211,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_9",
@@ -330,7 +385,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 3 Decreto 186/2005: el grupo profesional constituye un agrupamiento unitario de aptitudes profesionales, titulaciones y contenido general de las prestaciones laborales que engloba diversas tareas, funciones, especialidades profesionales o responsabilidades.",
-    "officialId": 212
+    "officialId": 212,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_10",
@@ -367,7 +429,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Ley reguladora de la AVPD: el ámbito de aplicación se extiende a las instituciones y administraciones del País Vasco. Los grupos parlamentarios en el Congreso de los Diputados pertenecen a la esfera estatal, no autonómica vasca, por lo que quedan fuera del ámbito de la AVPD.",
-    "officialId": 213
+    "officialId": 213,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_11",
@@ -404,7 +473,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Ley reguladora de la AVPD: la Autoridad Vasca de Protección de Datos es una autoridad independiente, con plena autonomía orgánica y funcional, no subordinada ni al Gobierno ni al Parlamento Vasco.",
-    "officialId": 214
+    "officialId": 214,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_12",
@@ -441,7 +517,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Ley reguladora de la AVPD: la AVPD elabora el anteproyecto de su presupuesto, que se integra en los Presupuestos Generales de la CAE y es aprobado finalmente por el Parlamento Vasco, no por la propia AVPD ni por el Gobierno.",
-    "officialId": 215
+    "officialId": 215,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_13",
@@ -478,7 +561,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Ley reguladora de la AVPD: la renuncia o separación a petición propia de la presidencia de la AVPD no requiere ratificación externa, a diferencia de otros supuestos de cese (incapacidad, incompatibilidad, incumplimiento grave) que sí requieren procedimiento específico.",
-    "officialId": 216
+    "officialId": 216,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_14",
@@ -515,7 +605,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Ley reguladora de la AVPD: la presidencia de la Autoridad Vasca de Protección de Datos es nombrada por un período de cinco años, sin posibilidad de reelección inmediata, para garantizar su independencia.",
-    "officialId": 217
+    "officialId": 217,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_15",
@@ -552,7 +649,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Ley reguladora de la AVPD: la presidencia elabora una memoria anual de actividades que se remite al Parlamento Vasco (no al Gobierno en exclusiva ni de forma bianual). La opción D es correcta porque ninguna de las otras describe exactamente el procedimiento legal.",
-    "officialId": 218
+    "officialId": 218,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_16",
@@ -589,7 +693,13 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "LO 7/2021 y normativa de protección de datos: las infracciones graves en materia de protección de datos prescriben a los tres años desde que se cometieron o desde que el responsable pudo ser conocido.",
-    "officialId": 219
+    "officialId": 219,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_17",
@@ -626,7 +736,13 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Normativa de protección de datos (LOPDGDD y RGPD): las sanciones impuestas en aplicación del RGPD prescriben en función de su cuantía. Las sanciones de importe medio (como 50.000 euros) prescriben a los tres años.",
-    "officialId": 220
+    "officialId": 220,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_18",
@@ -663,7 +779,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 19.2 LGSS (RDL 8/2015): las bases de cotización tendrán como tope mínimo las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un sexto, salvo disposición expresa en contrario.",
-    "officialId": 221
+    "officialId": 221,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_19",
@@ -700,7 +823,13 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 12 LGSS: no tienen la consideración de trabajadores por cuenta ajena el cónyuge, los descendientes y demás parientes hasta segundo grado que convivan y trabajen con el empresario autónomo, salvo que se pruebe la condición de asalariados. Las tres opciones anteriores contienen inexactitudes.",
-    "officialId": 222
+    "officialId": 222,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_20",
@@ -737,7 +866,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 10.2 LGSS: los regímenes especiales que se rigen por leyes específicas con tendencia a la homogeneidad con el Régimen General son el de trabajadores autónomos y el de trabajadores del mar.",
-    "officialId": 223
+    "officialId": 223,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_21",
@@ -774,7 +910,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 19.2 LGSS: el tope mínimo de las bases de cotización es el SMI vigente incrementado en un sexto, lo que equivale a 1/6 más sobre el SMI base.",
-    "officialId": 224
+    "officialId": 224,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_22",
@@ -811,7 +954,13 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 10.2 LGSS: los regímenes especiales que deben tender a la homogeneidad con el Régimen General son el RETA (autónomos) y el Régimen Especial del Mar. El personal funcionario tiene régimen propio diferente.",
-    "officialId": 225
+    "officialId": 225,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_23",
@@ -848,7 +997,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 139 LGSS: si el empresario no solicita el alta, la persona trabajadora puede instar directamente su alta ante la Tesorería General de la Seguridad Social, sin necesidad de esperar a la actuación inspectora ni acudir a la vía judicial.",
-    "officialId": 226
+    "officialId": 226,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_24",
@@ -885,7 +1041,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 139 LGSS: la Tesorería General de la Seguridad Social puede practicar de oficio las altas, bajas y variaciones de datos cuando, a través de actuaciones de comprobación o inspectoras, se constate el incumplimiento de las obligaciones.",
-    "officialId": 227
+    "officialId": 227,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_25",
@@ -922,7 +1085,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "LGSS: las altas suponen la incorporación al campo de aplicación de un régimen concreto de Seguridad Social y las bajas suponen la salida de ese régimen, sin perjuicio de que la afiliación al sistema sea única y vitalicia.",
-    "officialId": 228
+    "officialId": 228,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_26",
@@ -959,7 +1129,14 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Art. 193 LGSS: se entiende por incapacidad permanente la situación del trabajador que, después de haber estado sometido al tratamiento prescrito, presenta reducciones anatómicas o funcionales graves, susceptibles de determinación objetiva y previsiblemente definitivas.",
-    "officialId": 229
+    "officialId": 229,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t07_27",
@@ -996,6 +1173,13 @@
     "imageUrl": null,
     "module": "tec-t07",
     "explanation": "Ley 8/1997: los Consejos de Salud son los órganos de participación ciudadana en el Sistema Sanitario de Euskadi, tanto a nivel territorial como de organización de servicios.",
-    "officialId": 230
+    "officialId": 230,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

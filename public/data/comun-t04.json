@@ -37,7 +37,12 @@
     "originalId": 16,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_2",
@@ -77,7 +82,13 @@
     "originalId": 61,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_3",
@@ -117,7 +128,13 @@
     "originalId": 62,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_4",
@@ -157,7 +174,13 @@
     "originalId": 63,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_5",
@@ -196,8 +219,12 @@
     "explanation": "Art. 7 Ley 8/1997: Las áreas de salud son delimitadas en función de factores geográficos, socioeconómicos, demográficos y culturales. En cada área 'se garantizará una adecuada ordenación de la atención primaria y su coordinación con la atención especializada'. La opción C es la correcta. Respuesta C.",
     "originalId": 64,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "comun-t04_6",
@@ -237,7 +264,13 @@
     "originalId": 65,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_7",
@@ -277,7 +310,13 @@
     "originalId": 66,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_8",
@@ -317,7 +356,13 @@
     "originalId": 67,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_9",
@@ -357,7 +402,12 @@
     "originalId": 68,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_10",
@@ -397,7 +447,13 @@
     "originalId": 69,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_11",
@@ -437,7 +493,13 @@
     "originalId": 70,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_12",
@@ -477,7 +539,12 @@
     "originalId": 71,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_13",
@@ -516,8 +583,12 @@
     "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C.",
     "originalId": 73,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "comun-t04_14",
@@ -557,7 +628,13 @@
     "originalId": 74,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_15",
@@ -597,7 +674,12 @@
     "originalId": 75,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_16",
@@ -637,7 +719,13 @@
     "originalId": 76,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_17",
@@ -677,7 +765,13 @@
     "originalId": 77,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_18",
@@ -717,7 +811,12 @@
     "originalId": 78,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_19",
@@ -757,7 +856,13 @@
     "originalId": 79,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_20",
@@ -796,8 +901,12 @@
     "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta A.",
     "originalId": 81,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_21",
@@ -837,7 +946,13 @@
     "originalId": 82,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_22",
@@ -877,7 +992,13 @@
     "originalId": 83,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_23",
@@ -917,7 +1038,12 @@
     "originalId": 85,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_24",
@@ -957,7 +1083,13 @@
     "originalId": 86,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_25",
@@ -997,7 +1129,12 @@
     "originalId": 87,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_26",
@@ -1037,7 +1174,13 @@
     "originalId": 90,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_27",
@@ -1077,7 +1220,13 @@
     "originalId": 94,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_28",
@@ -1117,7 +1266,12 @@
     "originalId": 95,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_29",
@@ -1157,7 +1311,13 @@
     "originalId": 96,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_30",
@@ -1197,7 +1357,13 @@
     "originalId": 98,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_31",
@@ -1236,8 +1402,12 @@
     "explanation": "Decreto 255/1997: La presidencia de los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento corresponde a 'quien ostente la titularidad de la DIRECCIÓN-GERENCIA del Ente.' Respuesta B.",
     "originalId": 100,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_32",
@@ -1277,7 +1447,13 @@
     "originalId": 101,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_33",
@@ -1317,7 +1493,13 @@
     "originalId": 102,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_34",
@@ -1357,7 +1539,13 @@
     "originalId": 103,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_35",
@@ -1397,7 +1585,13 @@
     "originalId": 104,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_36",
@@ -1437,7 +1631,13 @@
     "originalId": 105,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_37",
@@ -1477,7 +1677,13 @@
     "originalId": 106,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_38",
@@ -1516,8 +1722,12 @@
     "explanation": "Art. 4 Decreto 100/2018: Las OSI de Tipo III integran atención primaria con hospital general y tienen una base poblacional atendida inferior a 200.000 habitantes. Respuesta B.",
     "originalId": 107,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_39",
@@ -1557,7 +1767,12 @@
     "originalId": 108,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_40",
@@ -1597,7 +1812,13 @@
     "originalId": 109,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_41",
@@ -1637,7 +1858,12 @@
     "originalId": 110,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_42",
@@ -1677,7 +1903,13 @@
     "originalId": 111,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_43",
@@ -1717,7 +1949,13 @@
     "originalId": 112,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_44",
@@ -1757,7 +1995,13 @@
     "originalId": 113,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_45",
@@ -1797,7 +2041,12 @@
     "originalId": 114,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_46",
@@ -1837,7 +2086,13 @@
     "originalId": 115,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_47",
@@ -1877,7 +2132,13 @@
     "originalId": 116,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_48",
@@ -1915,9 +2176,14 @@
     "module": "comun-t04",
     "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B.",
     "originalId": 117,
-    "sourceTrio": true,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceTrio": false,
+    "sourceStatus": "UGT_OUTLIER",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_49",
@@ -1957,7 +2223,13 @@
     "originalId": 118,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_50",
@@ -1997,7 +2269,13 @@
     "originalId": 119,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_51",
@@ -2036,8 +2314,12 @@
     "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B.",
     "originalId": 120,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "comun-t04_52",
@@ -2077,7 +2359,12 @@
     "originalId": 121,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_53",
@@ -2115,9 +2402,14 @@
     "module": "comun-t04",
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
     "originalId": 122,
-    "sourceTrio": true,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceTrio": false,
+    "sourceStatus": "UGT_OUTLIER",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_54",
@@ -2157,7 +2449,12 @@
     "originalId": 123,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_55",
@@ -2196,8 +2493,12 @@
     "explanation": "Ámbitos D.147/2015 incluyen investigación biomédica.",
     "originalId": 124,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_56",
@@ -2237,7 +2538,13 @@
     "originalId": 125,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_57",
@@ -2275,9 +2582,14 @@
     "module": "comun-t04",
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
     "originalId": 126,
-    "sourceTrio": true,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceTrio": false,
+    "sourceStatus": "UGT_OUTLIER",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_58",
@@ -2317,7 +2629,13 @@
     "originalId": 127,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_59",
@@ -2357,7 +2675,13 @@
     "originalId": 128,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_60",
@@ -2397,7 +2721,12 @@
     "originalId": 129,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_61",
@@ -2437,7 +2766,13 @@
     "originalId": 130,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_62",
@@ -2477,7 +2812,13 @@
     "originalId": 130,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_63",
@@ -2517,7 +2858,13 @@
     "originalId": 132,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_64",
@@ -2557,7 +2904,12 @@
     "originalId": 133,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_65",
@@ -2597,7 +2949,12 @@
     "originalId": 134,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_66",
@@ -2637,7 +2994,13 @@
     "originalId": 135,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_67",
@@ -2677,7 +3040,12 @@
     "originalId": 136,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_68",
@@ -2717,7 +3085,13 @@
     "originalId": 135,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_69",
@@ -2757,7 +3131,13 @@
     "originalId": 138,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_70",
@@ -2797,7 +3177,12 @@
     "originalId": 139,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t04_71",
@@ -2835,8 +3220,13 @@
     "module": "comun-t04",
     "explanation": "Art. 43 Decreto 147/2015: A las personas usuarias de todos los centros sanitarios contemplados (incluidos privados y concertados) 'LES SERÁN EXIGIBLES LOS DEBERES PREVISTOS EN LOS ARTÍCULOS 14 A 17', es decir, todos los deberes establecidos. No se hace distinción ni reducción. Respuesta B.",
     "originalId": 140,
-    "sourceTrio": true,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceTrio": false,
+    "sourceStatus": "UGT_OUTLIER",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   }
 ]

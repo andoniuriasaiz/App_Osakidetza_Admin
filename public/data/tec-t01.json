@@ -34,7 +34,14 @@
     "imageUrl": null,
     "module": "tec-t01",
     "explanation": "Art. 100 CE: los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.",
-    "officialId": 1
+    "officialId": 1,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "CONSENSUS",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t01_2",
@@ -71,7 +78,15 @@
     "imageUrl": null,
     "module": "tec-t01",
     "explanation": "Art. 1.1 CE: España se constituye en un Estado social y democrático de Derecho que propugna como valores superiores la libertad, la justicia, la igualdad y el pluralismo político.",
-    "officialId": 2
+    "officialId": 2,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t01_3",
@@ -108,7 +123,14 @@
     "imageUrl": null,
     "module": "tec-t01",
     "explanation": "El Consejo de Estado es el supremo órgano consultivo del Gobierno (art. 107 CE), pero esta afirmación es correcta. La incorrecta es D porque el art. 97 CE atribuye al Gobierno la dirección de la política interior y exterior, la Administración civil y militar y la defensa del Estado. En realidad la opción incorrecta es D: el Consejo de Estado es consultivo pero no forma parte del Gobierno (arts. 98 y 107 CE).",
-    "officialId": 3
+    "officialId": 3,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t01_4",
@@ -145,7 +167,15 @@
     "imageUrl": null,
     "module": "tec-t01",
     "explanation": "Art. 9.2 CE: corresponde a los poderes públicos promover las condiciones para que la libertad e igualdad del individuo sean reales y efectivas.",
-    "officialId": 4
+    "officialId": 4,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t01_5",
@@ -182,7 +212,15 @@
     "imageUrl": null,
     "module": "tec-t01",
     "explanation": "Art. 1.3 CE: la forma política del Estado español es la Monarquía parlamentaria.",
-    "officialId": 5
+    "officialId": 5,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t01_6",
@@ -219,7 +257,15 @@
     "imageUrl": null,
     "module": "tec-t01",
     "explanation": "Art. 17.2 CE: la detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas.",
-    "officialId": 6
+    "officialId": 6,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t01_7",
@@ -256,7 +302,14 @@
     "imageUrl": null,
     "module": "tec-t01",
     "explanation": "Art. 99.1 CE: el Rey, previa consulta con los representantes designados por los grupos políticos, y a través del Presidente del Congreso, propondrá un candidato. La opción A omite la consulta previa, por lo que es incorrecta.",
-    "officialId": 7
+    "officialId": 7,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t01_8",
@@ -293,6 +346,14 @@
     "imageUrl": null,
     "module": "tec-t01",
     "explanation": "Art. 99.5 CE: si transcurridos dos meses ningún candidato obtuviere la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
-    "officialId": 8
+    "officialId": 8,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

@@ -37,7 +37,13 @@
     "originalId": 281,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t18_2",
@@ -77,7 +83,13 @@
     "originalId": 282,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t18_3",
@@ -117,7 +129,12 @@
     "originalId": 283,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t18_4",
@@ -157,7 +174,13 @@
     "originalId": 284,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t18_5",
@@ -197,7 +220,13 @@
     "originalId": 285,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t18_6",
@@ -237,7 +266,13 @@
     "originalId": 286,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t18_7",
@@ -277,7 +312,13 @@
     "originalId": 287,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t18_8",
@@ -317,7 +358,13 @@
     "originalId": 288,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "comun-t18_9",
@@ -356,8 +403,12 @@
     "explanation": "Art. 3.c LO 3/2021: 'Padecimiento grave e incurable' es la enfermedad o condición resultante de una patología que incapacita de forma permanente para las actividades de la vida diaria y que no responde a los tratamientos disponibles. La B recoge esta definición legal. Respuesta B.",
     "originalId": 289,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "comun-t18_10",
@@ -396,7 +447,11 @@
     "explanation": "Art. 3 LO 3/2021: La ley distingue entre 'eutanasia' (médico administra directamente la sustancia) y 'suicidio médicamente asistido' (médico prescribe o suministra la sustancia pero la administra la propia persona). Respuesta B.",
     "originalId": 290,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "IA"
+    ]
   }
 ]

@@ -36,8 +36,12 @@
     "explanation": "Plan de Salud Euskadi 2030: se definen siete Objetivos Generales, clasificados en finalistas (OG1-OG3) e instrumentales (OG4-OG7).",
     "officialId": 121,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t12_2",
@@ -77,7 +81,12 @@
     "officialId": 122,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_3",
@@ -117,7 +126,13 @@
     "officialId": 123,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_4",
@@ -156,8 +171,12 @@
     "explanation": "Plan de Salud Euskadi 2030: El OG1 se centra en 'Mejorar la salud y el bienestar de la población de Euskadi', con especial énfasis en la reducción de las desigualdades en salud. La B recoge correctamente este objetivo general. Respuesta B.",
     "officialId": 124,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t12_5",
@@ -197,7 +216,13 @@
     "officialId": 125,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_6",
@@ -236,8 +261,12 @@
     "explanation": "Plan de Salud Euskadi 2030: AVAD = Años de Vida sana perdidos Ajustados por Discapacidad (equivalente al inglés DALY: Disability-Adjusted Life Years).",
     "officialId": 126,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t12_7",
@@ -277,7 +306,13 @@
     "officialId": 127,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_8",
@@ -317,7 +352,13 @@
     "officialId": 128,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_9",
@@ -356,8 +397,12 @@
     "explanation": "Plan de Salud Euskadi 2030: El modelo de evaluación se basa en cuatro criterios: eficacia, efectividad, eficiencia y equidad. La B recoge correctamente estos cuatro criterios. Respuesta B.",
     "officialId": 129,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t12_10",
@@ -397,7 +442,12 @@
     "officialId": 130,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_11",
@@ -437,7 +487,10 @@
     "officialId": 131,
     "sourceTrio": false,
     "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo"
+    ]
   },
   {
     "id": "tec-comun-t12_12",
@@ -477,7 +530,13 @@
     "officialId": 132,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_13",
@@ -517,7 +576,13 @@
     "officialId": 133,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_14",
@@ -557,7 +622,13 @@
     "officialId": 134,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t12_15",
@@ -597,6 +668,12 @@
     "officialId": 135,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   }
 ]

@@ -36,8 +36,12 @@
     "explanation": "Segun el diagnostico del II Plan de Igualdad, en enero de 2025 la plantilla de Osakidetza estaba compuesta por un 80% de mujeres y un 20% de hombres.",
     "officialId": 161,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_2",
@@ -77,7 +81,13 @@
     "officialId": 162,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_3",
@@ -116,8 +126,12 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
     "officialId": 163,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_4",
@@ -156,8 +170,12 @@
     "explanation": "El techo de cristal describe la barrera invisible que impide a las mujeres acceder a puestos de mayor responsabilidad y toma de decisiones, a pesar de contar con la cualificacion necesaria.",
     "officialId": 164,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_5",
@@ -197,7 +215,12 @@
     "officialId": 165,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_6",
@@ -236,8 +259,12 @@
     "explanation": "El I Plan de Igualdad, como primer plan estrategico en esta materia, tuvo como objetivo establecer cimientos solidos para el cumplimiento legislativo y la alineacion con marcos estrategicos de igualdad.",
     "officialId": 166,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_7",
@@ -276,8 +303,12 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
     "officialId": 167,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_8",
@@ -317,7 +348,13 @@
     "officialId": 168,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_9",
@@ -357,7 +394,13 @@
     "officialId": 169,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_10",
@@ -397,7 +440,13 @@
     "officialId": 170,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_11",
@@ -437,7 +486,13 @@
     "officialId": 171,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_12",
@@ -476,8 +531,12 @@
     "explanation": "El III Plan garantiza la recepcion en euskera a toda la ciudadania vascohablante en todos los servicios de recepcion, admision, unidades asistenciales y administrativas, sin distincion de modalidad.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 172,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_13",
@@ -517,7 +576,13 @@
     "officialId": 173,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_14",
@@ -556,8 +621,12 @@
     "explanation": "La opcion B es incorrecta porque el signo azul con la letra e no se limita solo a identificacion individual del personal bilingue; el Plan prevé variantes del simbolo para distintas situaciones linguisticas.",
     "officialId": 174,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_15",
@@ -595,9 +664,14 @@
     "module": "tec-comun-t15",
     "explanation": "El III Plan especifica que el procedimiento de oferta de servicios en euskera en atencion primaria se refiere a: medicina familiar, pediatria, enfermeria y matrona.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 175,
-    "sourceTrio": true,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceTrio": false,
+    "sourceStatus": "UGT_OUTLIER",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_16",
@@ -636,8 +710,12 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta B.",
     "officialId": 176,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_17",
@@ -677,7 +755,10 @@
     "officialId": 177,
     "sourceTrio": false,
     "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo"
+    ]
   },
   {
     "id": "tec-comun-t15_18",
@@ -716,8 +797,12 @@
     "explanation": "En el periodo 2015-2019, las localizaciones mas frecuentes fueron el cancer de mama en mujeres y el cancer de prostata en hombres, segun los datos epidemiologicos del POIE 2025-2030.",
     "officialId": 178,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_19",
@@ -756,8 +841,12 @@
     "explanation": "La Vision del POIE 2025-2030 incluye como aspiracion mejorar la calidad de vida de pacientes, supervivientes y sus familiares y personas cuidadoras a lo largo de todo el proceso oncologico.",
     "officialId": 179,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_20",
@@ -797,7 +886,13 @@
     "officialId": 180,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_21",
@@ -837,7 +932,12 @@
     "officialId": 181,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_22",
@@ -877,7 +977,12 @@
     "officialId": 182,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t15_23",
@@ -916,8 +1021,12 @@
     "explanation": "PROMs son las siglas de Patient-Reported Outcome Measures, es decir, Medidas de Resultados Reportadas por los y las Pacientes, instrumento clave para evaluar la calidad de vida percibida.",
     "officialId": 183,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t15_24",
@@ -955,8 +1064,13 @@
     "module": "tec-comun-t15",
     "explanation": "Una de las prioridades del Plan de Salud de Euskadi 2030 con la que se alinea el POIE es reducir la morbimortalidad evitable y disminuir las desigualdades en salud.",
     "officialId": 184,
-    "sourceTrio": true,
+    "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   }
 ]

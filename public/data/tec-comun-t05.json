@@ -37,7 +37,12 @@
     "officialId": 66,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_2",
@@ -77,7 +82,12 @@
     "officialId": 67,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_3",
@@ -116,8 +126,12 @@
     "explanation": "Art. 1 Decreto 100/2018: las OSI actúan bajo el principio de autonomía económico-financiera y de gestión.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 68,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t05_4",
@@ -157,7 +171,13 @@
     "officialId": 69,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_5",
@@ -197,7 +217,12 @@
     "officialId": 70,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_6",
@@ -237,7 +262,12 @@
     "officialId": 71,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_7",
@@ -276,8 +306,12 @@
     "explanation": "Art. 5 Decreto 100/2018: los tres órganos de participación de las OSI son el Consejo Clínico Asistencial, el Consejo Social y la Comisión Sociosanitaria.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 72,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "CONSENSUS",
+    "o_reliable": true,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_8",
@@ -317,7 +351,12 @@
     "officialId": 73,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_9",
@@ -357,7 +396,12 @@
     "officialId": 74,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_10",
@@ -397,7 +441,12 @@
     "officialId": 75,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_11",
@@ -437,7 +486,12 @@
     "officialId": 76,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t05_12",
@@ -476,8 +530,12 @@
     "explanation": "Arts. 7 y 9 Decreto 100/2018: los cargos de dirección de las OSI requieren previa convocatoria pública donde se acrediten titulación, capacidad y experiencia profesional.",
     "officialId": 77,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t05_13",
@@ -516,8 +574,11 @@
     "explanation": "Art. 8.m Decreto 100/2018: la función de orientar la gestión desde una visión integradora empoderando la atención primaria corresponde a la Dirección de Atención Integrada.",
     "officialId": 78,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "o_reliable": true,
+    "sourceSources": [
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t05_14",
@@ -556,8 +617,12 @@
     "explanation": "Decreto 100/2018: la Dirección de Atención Integrada coordina, además de primaria y hospitalaria, con el ámbito comunitario y socio-sanitario.",
     "officialId": 79,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t05_15",
@@ -596,7 +661,10 @@
     "explanation": "Art. 19.1 Decreto 100/2018: la presidencia del Consejo Clínico Asistencial corresponde a la persona titular de la Dirección Gerencia de la OSI.",
     "officialId": 80,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo"
+    ]
   }
 ]

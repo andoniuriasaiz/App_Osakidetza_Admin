@@ -84,6 +84,8 @@ def main() -> None:
     # ── Correcciones (opt-in explícito) ───────────────────────────────────────
     p.add_argument("--apply",    action="store_true",
                    help="Mostrar correcciones pendientes (dry-run por defecto)")
+    p.add_argument("--update-sources", action="store_true",
+                   help="Actualizar solo campos de fuentes (sourceSources/sourceStatus) sin corregir respuestas")
     p.add_argument("--confirm",  action="store_true",
                    help="Aplicar las correcciones realmente (requiere --apply)")
 
@@ -184,6 +186,12 @@ def main() -> None:
                 apply_fixes(consensus, dry_run=False)
         else:
             apply_fixes(consensus, dry_run=True)
+
+    if getattr(args, "update_sources", False):
+        from fix_applier import update_sources_only
+        _section(6, "Actualizando campos de fuentes (sourceSources/sourceStatus)")
+        result = update_sources_only(consensus)
+        print(f"\n  ✅ Fuentes actualizadas: {result['updated_questions']} preguntas en {result['updated_files']} archivos")
 
     # ─────────────────────────────────────────────────────────────────────────
     # Resumen final

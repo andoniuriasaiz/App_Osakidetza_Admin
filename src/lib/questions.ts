@@ -19,8 +19,9 @@ export interface Question {
   module: string;
   // Explanation & source reliability (added by pipeline)
   explanation?: string;           // Why the correct answer is correct
-  sourceTrio?: boolean;           // kaixo.com + osasuntest.com + IA all agree
-  sourceStatus?: string;          // 'PERFECT' | 'DISPUTED' | 'UNKNOWN' etc.
+  sourceSources?: string[];       // Sources confirming the answer: ["Kaixo", "Osasuntest", "UGT", "IA"]
+  sourceTrio?: boolean;           // true if all 4 sources agree (legacy compat)
+  sourceStatus?: string;          // 'PERFECT' | 'RED_FLAG' | 'UGT_OUTLIER' | 'REVIEW_K_VS_UGT' etc.
   o_reliable?: boolean;           // osasuntest source is reliable for this question
 }
 

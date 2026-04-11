@@ -36,8 +36,12 @@
     "explanation": "Art. 2 Ley 55/2003: los principios son sometimiento pleno a la ley (a), integración en el régimen organizativo (c), coordinación y cooperación (d), entre otros. La opción B (\"promoción en el acceso\") no figura literalmente como principio del art. 2; el art. 2 habla de igualdad, mérito y capacidad pero no incluye \"promoción\" en el acceso.",
     "officialId": 21,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t03_2",
@@ -77,7 +81,13 @@
     "officialId": 22,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t03_3",
@@ -117,7 +127,13 @@
     "officialId": 23,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t03_4",
@@ -156,8 +172,12 @@
     "explanation": "Art. 26.1.e) Ley 55/2003: la pérdida de condición se produce por pena de inhabilitación especial para la profesión cuando excede de tres años (o absoluta firme, sin plazo).\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 24,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t03_5",
@@ -197,7 +217,13 @@
     "officialId": 25,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t03_6",
@@ -237,7 +263,13 @@
     "officialId": 26,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t03_7",
@@ -277,7 +309,13 @@
     "officialId": 27,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t03_8",
@@ -317,7 +355,12 @@
     "officialId": 28,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t03_9",
@@ -356,8 +399,12 @@
     "explanation": "Art. 26.1.c) Ley 55/2003: la extinción procede en los casos de incapacidad permanente total para la profesión habitual, absoluta o gran invalidez, según lo previsto en la normativa aplicable.",
     "officialId": 29,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t03_10",
@@ -396,8 +443,12 @@
     "explanation": "Art. 49 Ley 55/2003: período de localización = período de disponibilidad a los solos efectos de asegurar la posible localización del profesional. No constituye tiempo de trabajo efectivo.",
     "officialId": 30,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t03_11",
@@ -436,8 +487,12 @@
     "explanation": "Art. 49.5 Ley 55/2003: el período nocturno tendrá duración mínima de siete horas e incluirá necesariamente el período entre las cero y las cinco horas de cada día natural.",
     "officialId": 31,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t03_12",
@@ -476,8 +531,12 @@
     "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta B.",
     "officialId": 32,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t03_13",
@@ -516,8 +575,12 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
     "officialId": 33,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t03_14",
@@ -557,7 +620,12 @@
     "officialId": 34,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t03_15",
@@ -596,7 +664,11 @@
     "explanation": "Art. 62.1 Ley 55/2003: la excedencia voluntaria por interés particular requiere haber prestado servicios efectivos durante los cinco años inmediatamente anteriores.",
     "officialId": 35,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   }
 ]

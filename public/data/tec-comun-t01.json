@@ -35,9 +35,14 @@
     "module": "tec-comun-t01",
     "explanation": "Art. 2 Ley 44/2003: Para ejercer una profesión sanitaria son requisitos: la colegiación (cuando ley estatal la exija), la inexistencia de inhabilitación o suspensión, Y tener suscrito seguro de responsabilidad cuando se ejerza en asistencia sanitaria pública. Al tratarse de requisitos acumulativos, 'todo lo anterior' es la respuesta correcta. Respuesta D.",
     "officialId": 1,
-    "sourceTrio": true,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceTrio": false,
+    "sourceStatus": "UGT_OUTLIER",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t01_2",
@@ -77,7 +82,13 @@
     "officialId": 2,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t01_3",
@@ -117,7 +128,12 @@
     "officialId": 3,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t01_4",
@@ -157,7 +173,13 @@
     "officialId": 4,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t01_5",
@@ -197,7 +219,12 @@
     "officialId": 5,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t01_6",
@@ -237,7 +264,13 @@
     "officialId": 6,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t01_7",
@@ -277,7 +310,13 @@
     "officialId": 7,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t01_8",
@@ -316,8 +355,12 @@
     "explanation": "Art. 9.2 Ley 44/2003: el equipo se articulará de forma jerarquizada o colegiada (opción B es la literal). La opción A dice \"preferentemente jerarquizada\" y la C dice \"preferentemente colegiada\": ambas son incorrectas por añadir \"preferentemente\" donde no lo hay y alterar el texto. La opción C es la incorrecta pedida.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 8,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t01_9",
@@ -357,7 +400,13 @@
     "officialId": 9,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t01_10",
@@ -396,7 +445,11 @@
     "explanation": "Art. 40 Ley 44/2003: los centros para formación de especialistas (no simplemente formación continuada) deben contar con comisión de docencia, jefatura de estudios y tutores. Ninguna opción describe exactamente lo que prevé la ley para formación continuada específicamente, que se regula de forma distinta.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 10,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   }
 ]

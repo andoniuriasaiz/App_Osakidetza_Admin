@@ -34,7 +34,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 1.1 DL 1/1997: la Hacienda General está constituida por el conjunto de derechos y obligaciones económicas de la Comunidad Autónoma de Euskadi.",
-    "officialId": 274
+    "officialId": 274,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_2",
@@ -71,7 +78,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 25.1.b DL 1/1997: el procedimiento de elaboración y gestión presupuestaria es competencia del Parlamento Vasco.",
-    "officialId": 275
+    "officialId": 275,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_3",
@@ -108,7 +122,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 1.2.h DL 1/1997: el régimen de concesión de garantías es una de las materias propias de la Hacienda General del País Vasco.",
-    "officialId": 276
+    "officialId": 276,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_4",
@@ -145,7 +166,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 1.2 DL 1/1997: el régimen del patrimonio, el régimen de contratación y el régimen de endeudamiento son todas materias propias de la Hacienda General.",
-    "officialId": 277
+    "officialId": 277,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_5",
@@ -182,7 +210,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 2.1 DL 1/1997: la Hacienda General del País Vasco se regirá por el Decreto Legislativo 1/1997 así como por las demás normas emanadas de la CAE y otras que le sean de aplicación.",
-    "officialId": 278
+    "officialId": 278,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_6",
@@ -219,7 +254,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 2.5 DL 1/1997: corresponde al Consejero/a del Departamento competente en materia de hacienda y finanzas dictar disposiciones interpretativas o aclaratorias de las normas reguladoras de la Hacienda General.",
-    "officialId": 279
+    "officialId": 279,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_7",
@@ -256,7 +298,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 3 DL 1/1997: entre los principios que rigen la actuación de la CAE en materias de Hacienda General se encuentra la unidad de caja.",
-    "officialId": 280
+    "officialId": 280,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_8",
@@ -293,7 +342,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 3 DL 1/1997: la CAE actuará en materias de Hacienda General conforme a los principios de legalidad, objetividad, economía, eficacia, control, unidad de caja y coordinación.",
-    "officialId": 281
+    "officialId": 281,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_9",
@@ -330,7 +386,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 5.2 DL 1/1997: los Presupuestos Generales de Euskadi, además de instrumento de planificación económica, son instrumento de control de la correcta administración de los recursos.",
-    "officialId": 282
+    "officialId": 282,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_10",
@@ -367,7 +430,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 6.2 DL 1/1997: las Leyes de Presupuestos de Euskadi podrán regular materias adicionales que sean cuestiones propias de la Hacienda General del País Vasco.",
-    "officialId": 283
+    "officialId": 283,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_11",
@@ -404,7 +474,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 6.4 / Art. 26.b DL 1/1997: el proyecto de Ley de Presupuestos debe ser aprobado por el Gobierno Vasco antes de enviarlo al Parlamento.",
-    "officialId": 284
+    "officialId": 284,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_12",
@@ -441,7 +518,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 6.4 DL 1/1997: el proyecto de Ley de Presupuestos debe presentarse ante el Parlamento antes del 1 de noviembre del ejercicio anterior.",
-    "officialId": 285
+    "officialId": 285,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_13",
@@ -478,7 +562,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 25.1 DL 1/1997: es competencia del Parlamento Vasco la aprobación, seguimiento y control de los Presupuestos Generales (a), el régimen de patrimonio (d) y el régimen de endeudamiento (f).",
-    "officialId": 286
+    "officialId": 286,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_14",
@@ -515,7 +606,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 26.b DL 1/1997: es competencia del Gobierno la aprobación de los proyectos de Leyes de Presupuestos Generales de la Comunidad, para su remisión al Parlamento.",
-    "officialId": 287
+    "officialId": 287,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_15",
@@ -552,7 +650,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 27.d DL 1/1997: corresponde al Departamento responsable en materia de hacienda y finanzas las facultades de contabilidad y del control interventor de la actividad económica de la Comunidad Autónoma de Euskadi.",
-    "officialId": 288
+    "officialId": 288,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_16",
@@ -589,7 +694,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 29.1.c DL 1/1997: corresponde a los organismos autónomos la autorización de los gastos, de acuerdo con las dotaciones aprobadas en sus presupuestos, y la ordenación de los correspondientes pagos.",
-    "officialId": 289
+    "officialId": 289,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_17",
@@ -626,7 +738,14 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 31.2 DL 1/1997: los derechos de naturaleza pública pueden ser: a) Ingresos de derecho público, y b) Otros derechos.",
-    "officialId": 290
+    "officialId": 290,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_18",
@@ -663,7 +782,13 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 32.i DL 1/1997: son ingresos de derecho público las indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública. Las herencias y donaciones son ingresos de derecho privado (Art. 38.b).",
-    "officialId": 291
+    "officialId": 291,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_19",
@@ -700,7 +825,13 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 34.2 DL 1/1997: todos los tributos de la Comunidad Autónoma de Euskadi tendrán naturaleza de fiscales y quedarán reflejados en sus correspondientes Presupuestos.",
-    "officialId": 292
+    "officialId": 292,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-hacienda-pv_20",
@@ -737,6 +868,13 @@
     "imageUrl": null,
     "module": "tec-hacienda-pv",
     "explanation": "Art. 35.3 DL 1/1997: la creación y supresión de los recargos sobre impuestos requerirá de ley.",
-    "officialId": 293
+    "officialId": 293,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

@@ -36,8 +36,12 @@
     "explanation": "El Objetivo General de la Estrategia de Seguridad del Paciente 20-30 es promover el maximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad durante la asistencia.",
     "officialId": 151,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t14_2",
@@ -77,7 +81,13 @@
     "officialId": 152,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t14_3",
@@ -116,8 +126,12 @@
     "explanation": "Estrategia de Seguridad del Paciente 2030: Las dos nuevas líneas de acción incorporadas son la L9 (Seguridad en la transición asistencial) y la L10 (Cultura de seguridad en la organización). La C recoge estas dos nuevas líneas. Respuesta C.",
     "officialId": 153,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t14_4",
@@ -156,8 +170,12 @@
     "explanation": "La Estrategia define el Evento Adverso como el incidente de seguridad que ocasiona algun tipo de daño a la persona atendida, diferenciandolo del incidente sin daño o cuasi-incidente.",
     "officialId": 154,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t14_5",
@@ -197,7 +215,12 @@
     "officialId": 155,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t14_6",
@@ -237,7 +260,10 @@
     "officialId": 156,
     "sourceTrio": false,
     "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo"
+    ]
   },
   {
     "id": "tec-comun-t14_7",
@@ -277,7 +303,12 @@
     "officialId": 157,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t14_8",
@@ -317,7 +348,13 @@
     "officialId": 158,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t14_9",
@@ -357,7 +394,13 @@
     "officialId": 159,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t14_10",
@@ -397,6 +440,12 @@
     "officialId": 160,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   }
 ]

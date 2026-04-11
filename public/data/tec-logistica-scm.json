@@ -34,7 +34,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "El punto de pedido es el nivel de stock al que debe lanzarse un nuevo pedido para evitar la rotura de existencias antes de que llegue el reaprovisionamiento. La opción 1 describe la rotación de inventario; la 4 define el stock de seguridad.",
-    "officialId": 416
+    "officialId": 416,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_2",
@@ -71,7 +78,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "INCORRECTA: 'La caja de reserva' (sistema de dos contenedores) se emplea para artículos de clase C (bajo valor, alta rotación), no para los de clase A. Los artículos A, al ser los más valiosos, requieren controles rigurosos y revisión continua.",
-    "officialId": 417
+    "officialId": 417,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_3",
@@ -108,7 +122,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "El almacenamiento en bloque compacto apila la mercancía directamente sobre el suelo sin pasillos, permitiendo una ocupación del 100% de la superficie. Los demás sistemas requieren al menos un pasillo de acceso, lo que reduce la utilización del espacio.",
-    "officialId": 418
+    "officialId": 418,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_4",
@@ -145,7 +166,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "ROLA = (Contribución al ingreso − Costes de operación logística) / Coste del capital del activo logístico. Esta fórmula refleja el margen logístico neto generado por cada unidad monetaria invertida en activos logísticos.",
-    "officialId": 419
+    "officialId": 419,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_5",
@@ -182,7 +210,13 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "Las características de manejo (handling) incluyen la resistencia y la rigidez del producto, así como el uso de contenedores, palés o ganchos. Las condiciones de expedición son características de transporte; la combustibilidad y el espacio son características de almacenaje.",
-    "officialId": 420
+    "officialId": 420,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_6",
@@ -219,7 +253,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "La definición moderna de logística (Council of Logistics Management) abarca el flujo y almacenamiento eficientes de bienes/servicios y la información relacionada, desde el origen hasta el consumo, para satisfacer las necesidades del cliente.",
-    "officialId": 421
+    "officialId": 421,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_7",
@@ -256,7 +297,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "El SCM integra las interacciones entre marketing, logística y producción tanto dentro de la empresa como entre las distintas empresas del canal de suministro. No se limita al transporte ni prescinde de otras funciones.",
-    "officialId": 422
+    "officialId": 422,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_8",
@@ -293,7 +341,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "La publicidad masiva (ATL – Above The Line) es una actividad de marketing, no de logística. Las actividades de apoyo logístico incluyen compras, embalaje de protección, manejo de materiales, planificación de producción, gestión de la información, etc.",
-    "officialId": 423
+    "officialId": 423,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_9",
@@ -330,7 +385,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "La evolución hacia el SCM implicó la integración progresiva de actividades logísticas y su conexión con otras funciones empresariales (marketing, producción, finanzas), superando la fragmentación funcional y ampliando el enfoque más allá de la empresa individual.",
-    "officialId": 424
+    "officialId": 424,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_10",
@@ -367,7 +429,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "Los canales de distribución son un interfaz clásico entre logística y marketing: ambas funciones deben coordinarse para definir cómo los productos llegan al cliente final (número de escalones, cobertura geográfica, nivel de servicio).",
-    "officialId": 425
+    "officialId": 425,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_11",
@@ -404,7 +473,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "El objetivo general de la logística de negocios y del SCM es proporcionar respuesta rápida e innovación al cliente minimizando los costes totales, dado un nivel de servicio objetivo. No se trata de centralizar producción ni de maximizar variaciones.",
-    "officialId": 426
+    "officialId": 426,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_12",
@@ -441,7 +517,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "Las características de manejo (handling) son: resistencia y rigidez del producto y el tipo de equipamiento necesario para moverlo (contenedores, palés, ganchos). Las condiciones de expedición pertenecen al transporte; la combustibilidad, al almacenaje.",
-    "officialId": 427
+    "officialId": 427,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_13",
@@ -478,7 +561,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "Las características de almacenaje incluyen los envases y dimensiones del producto, así como propiedades como volatilidad y combustibilidad que condicionan los requisitos de almacenamiento (temperatura, ventilación, separación de materiales peligrosos).",
-    "officialId": 428
+    "officialId": 428,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_14",
@@ -515,7 +605,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "Los costes de la cadena de suministro comprenden: costes de insumos (materias primas), manufactura/producción, inventario, transporte y comunicaciones. El coste de marca es un intangible contable que no forma parte directa de los costes de la cadena.",
-    "officialId": 429
+    "officialId": 429,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_15",
@@ -552,7 +649,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "ROLA = (Contribución al ingreso − Costes de operación logística) / Coste del capital del activo logístico. Mide el rendimiento neto generado por los activos logísticos, similar al ROA pero aplicado específicamente a la inversión logística.",
-    "officialId": 430
+    "officialId": 430,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_16",
@@ -589,7 +693,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "En empresas estacionales, el almacén de producto terminado es necesario cuando en temporada baja la producción supera las ventas, acumulando stock para poder atender la demanda punta sin incurrir en rupturas ni en picos de producción inasumibles.",
-    "officialId": 431
+    "officialId": 431,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_17",
@@ -626,7 +737,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "La instalación eléctrica y sanitaria forma parte de los costes de construcción de un almacén. El coste del terreno es un coste de adquisición (no de construcción); las normas urbanísticas son restricciones; el transporte ferroviario es un coste operativo.",
-    "officialId": 432
+    "officialId": 432,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_18",
@@ -663,7 +781,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "El flujo lógico de trabajo en un almacén es: Recepción (entrada y control de mercancías) → Almacenaje (ubicación en estanterías) → Preparación de pedidos (picking) → Expedición (salida hacia clientes).",
-    "officialId": 433
+    "officialId": 433,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_19",
@@ -700,7 +825,14 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "El criterio clave al diseñar o elegir un sistema de almacenaje es optimizar el uso de la superficie y el volumen disponibles: maximizar la capacidad de almacenamiento manteniendo la accesibilidad y la operatividad requeridas.",
-    "officialId": 434
+    "officialId": 434,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-logistica-scm_20",
@@ -737,6 +869,13 @@
     "imageUrl": null,
     "module": "tec-logistica-scm",
     "explanation": "El almacenamiento en bloque compacto es el único que permite un llenado del 100% porque no requiere pasillos fijos: las unidades se apilan directamente unas sobre otras ocupando toda la superficie. Las estanterías móviles y los sistemas automatizados necesitan al menos un pasillo operativo.",
-    "officialId": 435
+    "officialId": 435,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

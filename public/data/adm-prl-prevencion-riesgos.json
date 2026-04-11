@@ -37,7 +37,12 @@
     "originalId": 155,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_2",
@@ -77,7 +82,13 @@
     "originalId": 156,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_3",
@@ -117,7 +128,13 @@
     "originalId": 157,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_4",
@@ -157,7 +174,13 @@
     "originalId": 158,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_5",
@@ -197,7 +220,13 @@
     "originalId": 159,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_6",
@@ -237,7 +266,13 @@
     "originalId": 160,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_7",
@@ -276,8 +311,12 @@
     "explanation": "Art. 2.1 Ley 31/1995 (ámbito de aplicación): 'Esta Ley y sus normas de desarrollo serán de aplicación tanto en el ámbito de las relaciones laborales reguladas en el texto refundido del ESTATUTO DE LOS TRABAJADORES, como en el de las relaciones de carácter administrativo o estatutario del PERSONAL CIVIL AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS.' Doble ámbito: ET + AAPP. Respuesta C.",
     "originalId": 161,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_8",
@@ -317,7 +356,13 @@
     "originalId": 174,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_9",
@@ -357,7 +402,13 @@
     "originalId": 175,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_10",
@@ -397,7 +448,13 @@
     "originalId": 176,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_11",
@@ -437,7 +494,13 @@
     "originalId": 177,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_12",
@@ -477,7 +540,13 @@
     "originalId": 178,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_13",
@@ -516,8 +585,12 @@
     "explanation": "Art. 22.1 Ley 31/1995: 'El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud EN FUNCIÓN DE LOS RIESGOS INHERENTES AL TRABAJO.' Con carácter VOLUNTARIO para el trabajador (salvo excepciones). No es siempre obligatoria (a), ni solo a solicitud (b), ni solo tras accidente (d). Respuesta B.",
     "originalId": 190,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_14",
@@ -557,7 +630,13 @@
     "originalId": 191,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_15",
@@ -597,7 +676,13 @@
     "originalId": 192,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_16",
@@ -637,7 +722,13 @@
     "originalId": 195,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-prl-prevencion-riesgos_17",
@@ -677,6 +768,12 @@
     "originalId": 199,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   }
 ]

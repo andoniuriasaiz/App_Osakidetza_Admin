@@ -34,7 +34,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Art. 4 Ley 3/1985: la persona titular del Ararteko es designada por un período de cinco años, pudiendo ser reelegida por una sola vez por igual período.",
-    "officialId": 31
+    "officialId": 31,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_2",
@@ -71,7 +79,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Art. 7 Ley 3/1985: la persona titular deberá cesar en toda situación de incompatibilidad dentro de los diez días siguientes a su nombramiento y antes de tomar posesión del cargo.",
-    "officialId": 32
+    "officialId": 32,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_3",
@@ -108,7 +124,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Art. 9 Ley 3/1985: la persona adjunta será nombrada por la persona titular del Ararteko, previa conformidad del Parlamento Vasco.",
-    "officialId": 33
+    "officialId": 33,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_4",
@@ -145,7 +169,14 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 1/1988: los miembros del Tribunal Vasco de Cuentas Públicas deben contar con titulación académica superior, reconocida competencia en el ámbito funcional del tribunal y experiencia profesional de al menos diez años.",
-    "officialId": 34
+    "officialId": 34,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_5",
@@ -182,7 +213,14 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981: la subdelegación de funciones es posible si el Decreto u Orden de delegación la prevé expresamente. Los actos delegados se consideran dictados por el órgano delegado, no por el delegante.",
-    "officialId": 35
+    "officialId": 35,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_6",
@@ -219,7 +257,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981: si el Parlamento aprueba una moción de censura constructiva, el lehendakari cesa y la persona candidata alternativa incluida en la moción queda designada para su nombramiento por el Rey.",
-    "officialId": 36
+    "officialId": 36,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_7",
@@ -256,7 +302,13 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981: la delegación legislativa no puede afectar al ordenamiento básico del Gobierno ni al régimen jurídico de la Administración vasca. Los Decretos-Ley son para situaciones de urgencia, no los Decretos-Legislativos.",
-    "officialId": 37
+    "officialId": 37,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_8",
@@ -293,7 +345,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981: las causas de cese del lehendakari son la dimisión, la pérdida de la confianza parlamentaria (moción de censura o pérdida de cuestión de confianza), incapacidad y fallecimiento, entre otras.",
-    "officialId": 38
+    "officialId": 38,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_9",
@@ -330,7 +390,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981: corresponde al Gobierno Vasco ejercer la delegación legislativa mediante Decretos-Legislativos cuando el Parlamento le haya delegado esa potestad. Definir el Programa de Gobierno corresponde al lehendakari.",
-    "officialId": 39
+    "officialId": 39,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_10",
@@ -367,7 +435,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981: el acuerdo del Gobierno sobre la imposibilidad temporal del lehendakari para ejercer sus funciones requiere la mayoría de las cuatro quintas partes de sus integrantes.",
-    "officialId": 40
+    "officialId": 40,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_11",
@@ -404,7 +480,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981 y EAPV: el lehendakari es designado por el Parlamento Vasco de entre sus integrantes y nombrado por el Rey mediante Real Decreto.",
-    "officialId": 41
+    "officialId": 41,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_12",
@@ -441,7 +525,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981: el lehendakari es nombrado por el Rey, no por la Presidencia del Parlamento. La opción C es incorrecta al atribuir el nombramiento al Presidente del Parlamento.",
-    "officialId": 42
+    "officialId": 42,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_13",
@@ -478,7 +570,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Ley 7/1981: la potestad reglamentaria de los Consejeros/as de Departamento se ejerce mediante Orden, no mediante Decreto. Los Decretos son del Gobierno o del lehendakari. La opción A es incorrecta.",
-    "officialId": 43
+    "officialId": 43,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_14",
@@ -515,7 +615,13 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: la Dirección de Farmacia depende de la Viceconsejería de Administración y Financiación Sanitarias, no de la Viceconsejería de Salud.",
-    "officialId": 44
+    "officialId": 44,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_15",
@@ -552,7 +658,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: la colaboración interinstitucional en el ámbito sociosanitario corresponde a la Viceconsejería de Salud o la Dirección de Atención Sociosanitaria, no a la Dirección de Gabinete y Comunicación.",
-    "officialId": 45
+    "officialId": 45,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_16",
@@ -589,7 +703,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: la provisión de puestos de libre designación y la designación del personal eventual del Departamento de Salud corresponde al Consejero o Consejera.",
-    "officialId": 46
+    "officialId": 46,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_17",
@@ -626,7 +748,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: las señas de identidad del sistema sanitario vasco son universalidad, sostenibilidad y calidad. La eficiencia es un principio de gestión, pero no figura como seña de identidad diferenciada en el Decreto 319/2024.",
-    "officialId": 47
+    "officialId": 47,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_18",
@@ -663,7 +793,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: la definición de las políticas de gestión pública de las áreas de actuación de las distintas direcciones corresponde a la persona titular de la Viceconsejería de la que dependen.",
-    "officialId": 48
+    "officialId": 48,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_19",
@@ -700,7 +838,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: las delegaciones territoriales se estructuran en Área de Servicios Generales, Área de Salud Pública y Adicciones, y Área de Ordenación y Contratación Sanitarias. El Área de Atención Sociosanitaria no es un área de las delegaciones territoriales.",
-    "officialId": 49
+    "officialId": 49,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_20",
@@ -737,7 +883,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: las delegaciones territoriales de Álava, Bizkaia y Gipuzkoa dependen jerárquicamente de la Viceconsejería de Administración y Financiación Sanitarias.",
-    "officialId": 50
+    "officialId": 50,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_21",
@@ -774,7 +928,15 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: la gestión de prestaciones sanitarias corresponde a otras direcciones (Dirección de Aseguramiento y Prestaciones). La Dirección de Régimen Jurídico se ocupa de asuntos jurídicos, normativos y de servicios generales.",
-    "officialId": 51
+    "officialId": 51,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t03_22",
@@ -811,6 +973,14 @@
     "imageUrl": null,
     "module": "tec-t03",
     "explanation": "Decreto 319/2024: la promoción de la actividad física es competencia del Departamento de Educación o del Departamento de Cultura y Política Lingüística, no del Departamento de Salud.",
-    "officialId": 52
+    "officialId": 52,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

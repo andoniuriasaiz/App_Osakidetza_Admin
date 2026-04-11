@@ -34,7 +34,13 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "Los trabajos de fiscalización OBLIGATORIOS del TVCP incluyen: la Cuenta de la CAE, las cuentas de entidades locales (municipios), las de Osakidetza como ente del sector público vasco, etc. Las 'peticiones específicas del Parlamento Vasco' son trabajos DISCRECIONALES, no obligatorios.",
-    "officialId": 395
+    "officialId": 395,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_2",
@@ -71,7 +77,13 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "La función fiscalizadora del TVCP (Ley 1/1988) tiene por objeto el control de la actividad económico-financiera de los Entes del Sector Público Vasco, verificando la legalidad, regularidad y el buen uso de los fondos públicos. También puede extenderse a eficacia y eficiencia.",
-    "officialId": 396
+    "officialId": 396,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_3",
@@ -108,7 +120,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El Tribunal Vasco de Cuentas Públicas tiene la potestad de adoptar medidas precautorias para salvaguardar y proteger los bienes, caudales y efectos públicos cuando sea necesario. También puede instruir procedimientos por responsabilidades contables, y los trabajos se realizan en las entidades auditadas.",
-    "officialId": 397
+    "officialId": 397,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_4",
@@ -145,7 +164,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "Según la normativa reguladora del Tribunal Vasco de Cuentas Públicas, sus miembros deben contar con titulación académica superior, reconocida competencia en el ámbito funcional del Tribunal, y una experiencia profesional de al menos diez años.",
-    "officialId": 398
+    "officialId": 398,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_5",
@@ -182,7 +208,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "La Orden de 2017 del Consejero de Hacienda y Economía tiene por finalidad establecer el control económico-financiero y de gestión permanente en los entes públicos de derecho privado del sector público de la CAE, entre los que se encuentra Osakidetza como ente público de derecho privado.",
-    "officialId": 399
+    "officialId": 399,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_6",
@@ -219,7 +252,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El principio que guía las actuaciones de control económico-financiero permanente según la Orden de 2017 es el principio de PROXIMIDAD TEMPORAL respecto de los actos controlados: el control debe realizarse lo más cerca posible en el tiempo a los hechos controlados, lo que distingue el control permanente del control periódico.",
-    "officialId": 400
+    "officialId": 400,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_7",
@@ -256,7 +296,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El Decreto que desarrolla el control económico interno y la contabilidad de la CAE regula el CONTROL INTERVENTOR (fiscalización interna) en su modalidad económico-administrativa, que es el control previo interno realizado por la Oficina de Control Económico sobre las operaciones económico-financieras de la Administración.",
-    "officialId": 401
+    "officialId": 401,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_8",
@@ -293,7 +340,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "Según el Decreto, las operaciones contables generan anotaciones individualizadas y por orden cronológico, garantizando la trazabilidad completa de cada operación y permitiendo el seguimiento histórico de la actividad económica de la Administración.",
-    "officialId": 402
+    "officialId": 402,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_9",
@@ -330,7 +384,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "Según el Decreto de control económico interno de la CAE, los documentos contables justificativos deben conservarse durante 6 años desde la finalización del ejercicio económico al que se refieran, en línea con el plazo general del Código de Comercio para la conservación de documentos contables.",
-    "officialId": 403
+    "officialId": 403,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_10",
@@ -367,7 +428,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "Según el Decreto, tienen acceso a la información contable los órganos de dirección y gestión de la Administración, para el ejercicio de sus funciones de gestión y control. Este acceso está limitado a quienes tienen competencias de gestión, no es abierto al público general.",
-    "officialId": 404
+    "officialId": 404,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_11",
@@ -404,7 +472,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "La Oficina de Control Económico (OCE) tiene la responsabilidad de registrar datos contables una vez que las operaciones han superado los controles fiscal (interventor) y contable. La OCE centraliza el registro contable tras verificar la corrección de las operaciones.",
-    "officialId": 405
+    "officialId": 405,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_12",
@@ -441,7 +516,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El control contable verifica la correspondencia entre el documento contable y los justificantes o documentos soporte que le acompañan, incluyendo la comprobación de que la operación cuenta con la autorización correspondiente del órgano competente.",
-    "officialId": 406
+    "officialId": 406,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_13",
@@ -478,7 +560,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "Cuando faltan datos para justificar un saldo contable, la Oficina de Control Económico puede requerir la documentación justificativa y, si no se remite en el plazo establecido (15 días), procederá a cancelar el asiento contable correspondiente.",
-    "officialId": 407
+    "officialId": 407,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_14",
@@ -515,7 +604,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El control económico-financiero y de gestión se extiende a: (1) Departamentos y servicios de la Administración General y OAs, (2) Entes Públicos de Derecho Privado y Sociedades Públicas, y (3) particulares, entidades y empresas perceptores de subvenciones con cargo a los PGE de la CAE o fondos comunitarios.",
-    "officialId": 408
+    "officialId": 408,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_15",
@@ -552,7 +648,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El control económico-normativo tiene por objeto la fiscalización de los anteproyectos de ley y proyectos de disposición normativa CON CONTENIDO ECONÓMICO, verificando su adecuación a la normativa económico-presupuestaria vigente.",
-    "officialId": 409
+    "officialId": 409,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_16",
@@ -589,7 +692,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El Decreto Legislativo establece que el control económico EXTERNO en la Administración pública de la CAE es realizado por el Tribunal Vasco de Cuentas Públicas (TVCP), que es el órgano fiscalizador externo e independiente del sector público vasco.",
-    "officialId": 410
+    "officialId": 410,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_17",
@@ -626,7 +736,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "Las funciones de contabilidad y control económico INTERNO son realizadas por la Oficina de Control Económico (OCE), que depende del Departamento competente en materia de Hacienda y Economía, y ejerce el control interventor y las funciones de contabilidad pública.",
-    "officialId": 411
+    "officialId": 411,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_18",
@@ -663,7 +780,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El control económico de carácter interno en el sector público de la CAE comprende: el control contable (reflejo contable adecuado), el control interventor (legalidad de las operaciones), y el control que se ejerce a través de las reclamaciones económico-administrativas.",
-    "officialId": 412
+    "officialId": 412,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_19",
@@ -700,7 +824,14 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "El control contable consiste en el seguimiento de la actividad económica del sector público de la CAE a fin de asegurar y garantizar que todas las operaciones tengan un adecuado reflejo en la contabilidad, verificando la imagen fiel de los estados financieros.",
-    "officialId": 413
+    "officialId": 413,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_20",
@@ -737,7 +868,13 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "Según el Decreto Legislativo, estarán sujetos al régimen de contabilidad PÚBLICA: la Administración General de la CAE, los organismos autónomos, los consorcios del sector público y las fundaciones del sector público. El régimen de contabilidad empresarial aplica a EPDPs y Sociedades Públicas.",
-    "officialId": 414
+    "officialId": 414,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-control-publico_21",
@@ -774,6 +911,12 @@
     "imageUrl": null,
     "module": "tec-control-publico",
     "explanation": "La competencia INCORRECTA atribuida al Consejero es 'Aprobar el Plan de Contabilidad Pública de la Comunidad Autónoma de Euskadi' — esta competencia de aprobación del Plan corresponde al Gobierno Vasco, no al Consejero de Hacienda. El Consejero sí puede aprobar normas de contabilidad (opción 4) y determinar las cuentas anuales a rendir (opción 2) y el régimen aplicable (opción 3).",
-    "officialId": 415
+    "officialId": 415,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

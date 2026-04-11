@@ -37,7 +37,13 @@
     "originalId": 118,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_2",
@@ -77,7 +83,13 @@
     "originalId": 119,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_3",
@@ -117,7 +129,13 @@
     "originalId": 123,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_4",
@@ -157,7 +175,13 @@
     "originalId": 124,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_5",
@@ -197,7 +221,13 @@
     "originalId": 125,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_6",
@@ -236,8 +266,12 @@
     "explanation": "Decreto 255/1997, art. 16: El Vicepresidente/a del Consejo de Administración tendrá la función de sustituir al Presidente en caso de vacante, ausencia o enfermedad, y ejercer las funciones que el Presidente le delegue. La A es correcta. Respuesta B.",
     "originalId": 126,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "aux-e07_7",
@@ -276,8 +310,12 @@
     "explanation": "Decreto 255/1997, art. 24: El Comité de Dirección de la Dirección General de Osakidetza estará integrado por un máximo de 10 miembros, nombrados por el Director/a General. La C es la respuesta correcta. Respuesta C.",
     "originalId": 127,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "aux-e07_8",
@@ -317,7 +355,13 @@
     "originalId": 128,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_9",
@@ -357,7 +401,13 @@
     "originalId": 129,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_10",
@@ -397,7 +447,12 @@
     "originalId": 130,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_11",
@@ -437,7 +492,13 @@
     "originalId": 131,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_12",
@@ -477,7 +538,13 @@
     "originalId": 132,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_13",
@@ -517,7 +584,13 @@
     "originalId": 133,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "aux-e07_14",
@@ -557,6 +630,11 @@
     "originalId": 134,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   }
 ]

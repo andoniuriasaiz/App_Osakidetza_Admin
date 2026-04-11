@@ -36,8 +36,12 @@
     "explanation": "Art. 1 DL 1/2023: el texto refundido añade al objeto de la ley la finalidad de lograr una sociedad libre de violencia machista contra las mujeres, reforzando el fin último de la norma.",
     "officialId": 113,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t11_2",
@@ -76,8 +80,12 @@
     "explanation": "Art. 2 DL 1/2023: los principios generales son exigibles a entidades privadas que suscriban contratos o convenios con la Administración, estén participadas por poderes públicos o sean beneficiarias de ayudas públicas.",
     "officialId": 114,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t11_3",
@@ -116,8 +124,12 @@
     "explanation": "Art. 3 DL 1/2023: la nueva redacción incorpora como principio general de actuación de los poderes públicos vascos la integración de la perspectiva interseccional en las políticas de igualdad.",
     "officialId": 115,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t11_4",
@@ -156,8 +168,12 @@
     "explanation": "DL 1/2023: excepcionalmente puede superarse el 60% de presencia femenina cuando sea acorde al objetivo de corregir la histórica situación de infrarrepresentación de las mujeres.",
     "officialId": 116,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t11_5",
@@ -196,8 +212,12 @@
     "explanation": "DL 1/2023: entre los planes que deben someterse a evaluación previa de impacto de género se encuentran los planes territoriales y urbanísticos, incorporados en la nueva redacción.",
     "officialId": 117,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t11_6",
@@ -236,8 +256,12 @@
     "explanation": "DL 1/2023: las empresas de más de 50 personas trabajadoras deben acreditar haber establecido medidas para prevenir y combatir el acoso sexual y las violencias sexuales para poder recibir subvenciones públicas.",
     "officialId": 118,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t11_7",
@@ -277,7 +301,13 @@
     "officialId": 119,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t11_8",
@@ -317,6 +347,12 @@
     "officialId": 120,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   }
 ]

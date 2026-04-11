@@ -37,7 +37,12 @@
     "originalId": 81,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_2",
@@ -77,7 +82,12 @@
     "originalId": 82,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_3",
@@ -117,7 +127,13 @@
     "originalId": 83,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_4",
@@ -157,7 +173,13 @@
     "originalId": 84,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_5",
@@ -197,7 +219,12 @@
     "originalId": 85,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_6",
@@ -237,7 +264,12 @@
     "originalId": 86,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_7",
@@ -277,7 +309,13 @@
     "originalId": 87,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_8",
@@ -316,8 +354,13 @@
     "explanation": "Art. 26.2 Ley 39/2015: 'Para ser considerados válidos, los documentos electrónicos administrativos deberán: ... c) Incorporar una referencia temporal del momento en que han sido emitidos.' De entre las opciones, la referencia temporal es el requisito de validez que recoge literalmente el artículo. Respuesta A.",
     "originalId": 89,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_9",
@@ -357,7 +400,13 @@
     "originalId": 90,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_10",
@@ -397,7 +446,13 @@
     "originalId": 91,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_11",
@@ -437,7 +492,12 @@
     "originalId": 92,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_12",
@@ -477,7 +537,13 @@
     "originalId": 93,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_13",
@@ -517,7 +583,12 @@
     "originalId": 94,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_14",
@@ -557,7 +628,13 @@
     "originalId": 95,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_15",
@@ -597,7 +674,13 @@
     "originalId": 96,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_16",
@@ -637,7 +720,12 @@
     "originalId": 100,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_17",
@@ -677,7 +765,12 @@
     "originalId": 101,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_18",
@@ -717,7 +810,12 @@
     "originalId": 102,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_19",
@@ -757,7 +855,12 @@
     "originalId": 104,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_20",
@@ -797,7 +900,12 @@
     "originalId": 106,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_21",
@@ -837,7 +945,12 @@
     "originalId": 107,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_22",
@@ -877,7 +990,12 @@
     "originalId": 109,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_23",
@@ -917,7 +1035,13 @@
     "originalId": 117,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_24",
@@ -957,7 +1081,13 @@
     "originalId": 118,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_25",
@@ -997,7 +1127,13 @@
     "originalId": 134,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_26",
@@ -1037,7 +1173,13 @@
     "originalId": 180,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lpac-interesados-y-actos_27",
@@ -1077,6 +1219,12 @@
     "originalId": 181,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   }
 ]

@@ -34,7 +34,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 2 DL 1/2011: los Presupuestos Generales de Euskadi integran los presupuestos de la Administración de la CAE, Organismos Autónomos, Entes Públicos de derecho privado, Sociedades Públicas, Fundaciones y Consorcios del sector público. Los Ayuntamientos son entidades locales, no integradas en los PGE.",
-    "officialId": 294
+    "officialId": 294,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_2",
@@ -71,7 +78,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: en los Presupuestos Generales se consignará la información sobre beneficios fiscales facilitada por el Consejo Vasco de Finanzas Públicas, dada la gestión tributaria por las Diputaciones Forales.",
-    "officialId": 295
+    "officialId": 295,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_3",
@@ -108,7 +122,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 6 DL 1/2011: el principio de universalidad establece que los Presupuestos Generales comprenderán todos los derechos y obligaciones, sin excepción alguna, que se prevea liquidar y sea necesario atender.",
-    "officialId": 296
+    "officialId": 296,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_4",
@@ -145,7 +166,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 7 DL 1/2011: el principio de equilibrio financiero establece que los presupuestos se elaborarán de modo que la totalidad de los ingresos cubra el importe de los gastos.",
-    "officialId": 297
+    "officialId": 297,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_5",
@@ -182,7 +210,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 8 DL 1/2011: los Presupuestos de la Administración de la CAE comprenden un estado de ingresos comprensivo de los distintos derechos económicos a liquidar durante el ejercicio, y un estado de gastos comprensivo de los créditos necesarios.",
-    "officialId": 298
+    "officialId": 298,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_6",
@@ -219,7 +254,13 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 8 DL 1/2011: los Presupuestos de los Organismos Autónomos Mercantiles comprenden dotaciones de gastos y de ingresos, dotaciones de inversiones y financiación del ejercicio, así como un estado de compromisos futuros.",
-    "officialId": 299
+    "officialId": 299,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_7",
@@ -256,7 +297,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: los estados de ingresos deben recoger todos los recursos financieros que se prevea liquidar en el ejercicio, conforme al principio de universalidad presupuestaria.",
-    "officialId": 300
+    "officialId": 300,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_8",
@@ -293,7 +341,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: los importes de los estados de ingresos tienen carácter de previsión o estimación, salvo que se califiquen expresamente como definitivos en los propios estados.",
-    "officialId": 301
+    "officialId": 301,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_9",
@@ -330,7 +385,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 32.a DL 1/1997 (aplicable en DL 1/2011): las aportaciones de las Diputaciones Forales representan la contribución de los Territorios Históricos a los gastos presupuestarios de la CAE.",
-    "officialId": 302
+    "officialId": 302,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_10",
@@ -367,7 +429,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: los impuestos propios y los recargos establecidos por la CAE se registran en el estado de ingresos del presupuesto de la entidad correspondiente del sector público autonómico.",
-    "officialId": 303
+    "officialId": 303,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_11",
@@ -404,7 +473,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: las asignaciones recibidas con cargo a los Presupuestos Generales del Estado se integran en el estado de ingresos del presupuesto del ente receptor.",
-    "officialId": 304
+    "officialId": 304,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_12",
@@ -441,7 +517,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: los estados de ingresos, respecto al endeudamiento, deben reflejar los recursos que se prevea obtener por vía de endeudamiento durante el ejercicio.",
-    "officialId": 305
+    "officialId": 305,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_13",
@@ -478,7 +561,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: las transferencias y subvenciones corrientes que perciban los Entes Públicos de derecho privado forman parte de los estados de ingresos expresivos del desarrollo de las actividades de dicho ente.",
-    "officialId": 306
+    "officialId": 306,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_14",
@@ -515,7 +605,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: las transferencias y subvenciones corrientes que reciben las entidades del sector público son parte de los estados de ingresos relativos al desarrollo de sus actividades.",
-    "officialId": 307
+    "officialId": 307,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_15",
@@ -552,7 +649,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "DL 1/2011: las transferencias y subvenciones de capital que perciban los Entes Públicos de derecho privado se consideran recursos para financiar operaciones de capital o financieras.",
-    "officialId": 308
+    "officialId": 308,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_16",
@@ -589,7 +693,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 8 DL 1/2011: los estados de gastos de los presupuestos recogen créditos de pago y créditos de compromiso, necesarios para atender el cumplimiento de las respectivas obligaciones.",
-    "officialId": 309
+    "officialId": 309,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_17",
@@ -626,7 +737,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 25 DL 1/2011: son créditos ampliables sin necesidad de figurar expresamente como tales los destinados a las cotizaciones relativas al régimen de previsión social obligatoria del personal.",
-    "officialId": 310
+    "officialId": 310,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_18",
@@ -663,7 +781,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 27 DL 1/2011: los créditos variables son créditos de pago cuyo importe definitivo se fija en función del valor que alcancen los módulos que intervienen en su determinación.",
-    "officialId": 311
+    "officialId": 311,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_19",
@@ -700,7 +825,14 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 20 DL 1/2011: los créditos destinados a transferir fondos a entes aún no constituidos se clasifican como créditos globales, que pueden incluirse para atender nuevas necesidades o insuficiencias.",
-    "officialId": 312
+    "officialId": 312,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-presupuesto-euskadi_20",
@@ -737,6 +869,13 @@
     "imageUrl": null,
     "module": "tec-presupuesto-euskadi",
     "explanation": "Art. 32 DL 1/2011: no requieren aprobación ni autorización los compromisos para gastos correspondientes a cargas financieras derivadas del endeudamiento realizado en conformidad con las disposiciones vigentes.",
-    "officialId": 313
+    "officialId": 313,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

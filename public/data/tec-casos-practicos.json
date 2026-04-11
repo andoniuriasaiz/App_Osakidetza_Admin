@@ -34,7 +34,14 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Precio de adquisición por unidad = precio de compra - rappel por calidad = 10€ - 0,2€ = 9,8€/unidad. El descuento por pronto pago (6.000€) NO reduce el precio de adquisición (se registra en cuenta 606). El transporte se contabiliza aparte o incrementa el precio de adquisición total.",
-    "officialId": 481
+    "officialId": 481,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_2",
@@ -71,7 +78,14 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Gasto por compras (cuenta 600) = precio unitario neto × unidades = 9,8€ × 10.000 unidades = 98.000€. El rappel de calidad (0,2€/unidad) reduce el precio de adquisición. El descuento por pronto pago va a cuenta (606) y no afecta a la cuenta (600).",
-    "officialId": 482
+    "officialId": 482,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_3",
@@ -108,7 +122,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "El descuento por pagar al contado (pronto pago) de 6.000€ se registra en la cuenta (606) 'Descuentos sobre compras por pronto pago'. Esta cuenta recoge los descuentos concedidos por el proveedor como consecuencia de la liquidación anticipada de la deuda y NO reduce el precio de adquisición de las existencias.",
-    "officialId": 483
+    "officialId": 483,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_4",
@@ -145,7 +167,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "La compensación de 500€ por defectos en los botones, abonada directamente en cuenta bancaria, se registra: Debe (572) Bancos 500 / Haber (608) Devoluciones de compras y operaciones similares 500. La cuenta (608) recoge las compensaciones, devoluciones y reducciones de precio similares derivadas de incumplimientos de calidad.",
-    "officialId": 484
+    "officialId": 484,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_5",
@@ -182,7 +212,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Pérdida por venta de solares = Precio de venta - VNC = 1.280.000 - 2.440.000 = -1.160.000€. Los solares no se amortizan, por lo que su VNC en enero 2026 es el mismo que en diciembre 2025 (2.440.000€). La pérdida asciende a 1.160.000€.",
-    "officialId": 485
+    "officialId": 485,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_6",
@@ -219,7 +257,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "VNC de la maquinaria a 31/01/2026: Precio de coste = 1.776.000 × (8/5) = 2.841.600€. Amortización anual = 2.841.600/8 = 355.200€. Amortización mensual = 355.200/12 = 29.600€. VNC a 31/01/2026 = 1.776.000 - 29.600 = 1.746.400€.",
-    "officialId": 486
+    "officialId": 486,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_7",
@@ -256,7 +302,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Resultado venta maquinaria = Precio de venta - VNC a 31/01/2026 = 1.776.000 - 1.746.400 = +29.600€ → BENEFICIO de 29.600€. El precio de venta coincide exactamente con el VNC a 31/12/2025 pero no con el VNC actualizado a 31/01/2026 (tras un mes más de amortización).",
-    "officialId": 487
+    "officialId": 487,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_8",
@@ -293,7 +347,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "La actualización financiera de provisiones (unwinding of discount) se registra como gasto financiero en la cuenta (660) 'Gastos financieros por actualización de provisiones'. Conforme a la NRV 15ª PGC, el incremento de la provisión por el paso del tiempo (efecto financiero del descuento) es un gasto financiero, no de explotación.",
-    "officialId": 488
+    "officialId": 488,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_9",
@@ -330,7 +392,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Por la diferencia entre el valor estimado (50.000€) y la sentencia firme (52.000€), se registra un GASTO adicional de 2.000€. Al quedar determinada la obligación real, se dota un gasto adicional (dotación a provisiones) por el exceso de 2.000€ sobre la provisión ya constituida.",
-    "officialId": 489
+    "officialId": 489,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_10",
@@ -367,7 +437,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "La cuantía de la actualización financiera a 31/12/2019 = 50.000 - 48.076,92 = 1.923,08€. Esta diferencia representa el incremento de la provisión por el efecto del paso del tiempo (aplicando el tipo de descuento del 4% sobre 48.076,92€: 48.076,92 × 4% ≈ 1.923,08€).",
-    "officialId": 490
+    "officialId": 490,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_11",
@@ -404,7 +482,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "FEE explotación (método indirecto) = Resultado antes impuestos (20.000) + Amortizaciones (10.000) - Aumento existencias (10.000) + Disminución clientes (14.000) - Impuestos pagados (1.500) - Intereses pagados (1.000) = 31.500€. Las deudas bancarias a LP son flujos de financiación, no de explotación.",
-    "officialId": 491
+    "officialId": 491,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_12",
@@ -441,7 +527,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "CBF = (PN + Pasivo No Corriente) / (Activo No Corriente + Capital Corriente Necesario) = (200.000 + 150.000) / (250.000 + 80.000) = 350.000 / 330.000 = 1,06. Un CBF > 1 indica que los capitales permanentes financian suficientemente el ANC y las necesidades operativas.",
-    "officialId": 492
+    "officialId": 492,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_13",
@@ -478,7 +572,13 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Apalancamiento operativo = Margen de contribución / BAII. Margen contribución = (35 - 30) × 30.000 = 150.000€. BAII = 150.000 - 100.000 (costes fijos) = 50.000€. Ao = 150.000 / 50.000 = 3. Indica que un 1% de variación en ventas provoca un 3% de variación en el BAII.",
-    "officialId": 493
+    "officialId": 493,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_14",
@@ -515,7 +615,14 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Ratio de solidez = Patrimonio Neto / Activo No Corriente = 200.000 / 250.000 = 0,8. Una ratio de solidez < 1 indica que el ANC no está totalmente financiado con recursos propios, lo que revela una estructura financiera con cierta dependencia de financiación ajena a largo plazo.",
-    "officialId": 494
+    "officialId": 494,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_15",
@@ -552,7 +659,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Fondo de Rotación (FR) = Activo Corriente - Pasivo Corriente = 62.480.000 - 45.360.000 = 17.120.000€. El FR positivo indica que parte del activo corriente está financiada con recursos permanentes, lo que proporciona un margen de seguridad frente a las obligaciones a corto plazo.",
-    "officialId": 495
+    "officialId": 495,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_16",
@@ -589,7 +704,15 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Ratio de solvencia a corto plazo = Activo Corriente / Pasivo Corriente = 62.480.000 / 45.360.000 = 1,377 ≈ 1,38. Un ratio > 1 indica que LUMIER puede atender sus obligaciones a corto plazo con su activo corriente, aunque el nivel no es excesivamente holgado.",
-    "officialId": 496
+    "officialId": 496,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_17",
@@ -626,7 +749,14 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Rentabilidad Económica (RE) = RAII / Activo Total ≈ 18.900.000 / 151.800.000 ≈ 12,45%. Mide la eficiencia de los activos para generar resultado operativo, con independencia de la estructura financiera.",
-    "officialId": 497
+    "officialId": 497,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_18",
@@ -663,7 +793,13 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Rentabilidad Financiera (RF) usando resultado antes de impuestos = EBT / PN = (11.340.000 + 6.300.000) / 70.000.000 = 17.640.000 / 70.000.000 = 0,252 = 25,20%. Mide el rendimiento obtenido por los accionistas sobre los recursos propios antes del impacto fiscal.",
-    "officialId": 498
+    "officialId": 498,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_19",
@@ -700,7 +836,13 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Ratio de endeudamiento = Pasivo Total / Patrimonio Neto = (PNC + PC) / PN = (40.000.000 + 45.360.000) / 70.000.000 = 85.360.000 / 70.000.000 = 1,22. Un ratio > 1 indica que LUMIER tiene más deuda que recursos propios, lo que implica mayor dependencia de financiación ajena.",
-    "officialId": 499
+    "officialId": 499,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-casos-practicos_20",
@@ -737,6 +879,14 @@
     "imageUrl": null,
     "module": "tec-casos-practicos",
     "explanation": "Margen económico = RAII / Ventas Netas = 18.900.000 / 136.500.000 = 0,1385 ≈ 13,8%. Mide el porcentaje del resultado operativo sobre las ventas, indicando la rentabilidad de la actividad de explotación por cada euro de venta generado.",
-    "officialId": 500
+    "officialId": 500,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

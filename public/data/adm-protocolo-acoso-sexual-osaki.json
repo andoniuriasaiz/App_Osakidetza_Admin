@@ -37,7 +37,12 @@
     "originalId": 147,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_2",
@@ -77,7 +82,12 @@
     "originalId": 148,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_3",
@@ -117,7 +127,13 @@
     "originalId": 149,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_4",
@@ -157,7 +173,13 @@
     "originalId": 150,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_5",
@@ -197,7 +219,13 @@
     "originalId": 151,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_6",
@@ -235,9 +263,14 @@
     "module": "adm-protocolo-acoso-sexual-osaki",
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (ámbito de aplicación): El protocolo se aplica a TODO EL PERSONAL ADSCRITO A OSAKIDETZA, INCLUIDO PERSONAL DIRECTIVO, EN FORMACIÓN (residentes, estudiantes de prácticas) Y PERSONAL DE EMPRESAS EXTERNAS que presten servicios en centros de Osakidetza. Es el ámbito más amplio posible. Respuesta D.",
     "originalId": 152,
-    "sourceTrio": true,
-    "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "sourceTrio": false,
+    "sourceStatus": "UGT_OUTLIER",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_7",
@@ -277,7 +310,13 @@
     "originalId": 153,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_8",
@@ -317,7 +356,13 @@
     "originalId": 154,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_9",
@@ -357,7 +402,13 @@
     "originalId": 186,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_10",
@@ -397,7 +448,13 @@
     "originalId": 187,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_11",
@@ -436,8 +493,13 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento formal): El procedimiento formal se iniciará cuando LAS PARTES NO ALCANCEN ACUERDO EN EL PROCEDIMIENTO INFORMAL, o cuando la gravedad de los hechos aconseje ir directamente a la vía formal. No requiere solo solicitud verbal (b), ni indicios penales (c), ni decisión unilateral del responsable (d). Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 188,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_12",
@@ -477,7 +539,13 @@
     "originalId": 189,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_13",
@@ -517,6 +585,12 @@
     "originalId": 196,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   }
 ]

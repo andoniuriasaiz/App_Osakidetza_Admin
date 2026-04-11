@@ -34,7 +34,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 30.2 Ley 39/2015: cuando los plazos se señalen por días se entiende que son días hábiles, excluyéndose del cómputo los sábados, domingos y los declarados festivos.",
-    "officialId": 53
+    "officialId": 53,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_2",
@@ -71,7 +79,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 70 Ley 39/2015: el expediente administrativo electrónico debe contener una relación ordenada de los documentos que lo integran, con independencia de su formato o soporte.",
-    "officialId": 54
+    "officialId": 54,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_3",
@@ -108,7 +124,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 82.4 Ley 39/2015: podrá prescindirse del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones que las aducidas por el interesado.",
-    "officialId": 55
+    "officialId": 55,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_4",
@@ -145,7 +169,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 4 Ley 39/2015: las asociaciones y organizaciones representativas de intereses colectivos son interesadas solo cuando la ley les reconozca legitimación; no basta con personarse, y la afirmación B no recoge con exactitud los requisitos legales.",
-    "officialId": 56
+    "officialId": 56,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_5",
@@ -182,7 +214,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 53 Ley 39/2015: el derecho a aportar documentos existe en cualquier fase anterior al trámite de audiencia, no hasta la resolución. La opción C amplía incorrectamente el plazo.",
-    "officialId": 57
+    "officialId": 57,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_6",
@@ -219,7 +259,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 4.2 Ley 39/2015: cuando en una solicitud o actuación figuren varios interesados, las actuaciones se realizarán con el representante o el interesado que hayan señalado expresamente y, en su defecto, con quien figure en primer término.",
-    "officialId": 58
+    "officialId": 58,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_7",
@@ -256,7 +304,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 14.2 Ley 39/2015: están obligados a relacionarse electrónicamente, entre otros, quienes ejerzan una actividad profesional que requiera colegiación obligatoria, para los trámites y actuaciones que realicen en el ejercicio de dicha actividad profesional.",
-    "officialId": 59
+    "officialId": 59,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_8",
@@ -293,7 +349,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 13 Ley 39/2015 y normativa de administración electrónica: la publicación en sede electrónica tiene carácter oficial y auténtico en las condiciones establecidas reglamentariamente, con idénticos efectos que la publicación en papel.",
-    "officialId": 60
+    "officialId": 60,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_9",
@@ -330,7 +394,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 133.4 Ley 39/2015: podrá prescindirse de los trámites de consulta, audiencia e información pública en el caso de normas presupuestarias u organizativas o cuando concurran razones graves de interés público que lo justifiquen.",
-    "officialId": 61
+    "officialId": 61,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_10",
@@ -367,7 +439,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 96.6 Ley 39/2015: el plazo máximo de resolución del procedimiento administrativo tramitado de forma simplificada será de 30 días.",
-    "officialId": 62
+    "officialId": 62,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_11",
@@ -404,7 +484,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 24.1 Ley 39/2015: el silencio tiene efecto desestimatorio en los procedimientos de responsabilidad patrimonial y en aquellos en que una norma con rango de ley o de Derecho UE así lo establezca.",
-    "officialId": 63
+    "officialId": 63,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_12",
@@ -441,7 +529,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 25.1.b Ley 39/2015: en los procedimientos iniciados de oficio susceptibles de producir efectos desfavorables o de gravamen, el vencimiento del plazo máximo sin resolución expresa produce la caducidad del procedimiento.",
-    "officialId": 64
+    "officialId": 64,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_13",
@@ -478,7 +574,14 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 21.3 Ley 39/2015: cuando las normas no fijen plazo máximo, este no podrá exceder de seis meses salvo que una norma con rango de ley establezca uno mayor o así lo prevea el Derecho de la UE.",
-    "officialId": 65
+    "officialId": 65,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_14",
@@ -515,7 +618,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 24.1 Ley 39/2015: la regla general es el silencio positivo en procedimientos iniciados a solicitud del interesado, salvo excepciones establecidas por ley o norma UE.",
-    "officialId": 66
+    "officialId": 66,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_15",
@@ -552,7 +663,14 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 76.1 Ley 39/2015: los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio en cualquier momento del procedimiento anterior al trámite de audiencia.",
-    "officialId": 67
+    "officialId": 67,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_16",
@@ -589,7 +707,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 76.3 Ley 39/2015: los defectos de tramitación, en especial los que supongan paralización, infracción de plazos preceptivos u omisión de trámites que puedan ser subsanados antes de la resolución, podrán alegarse en cualquier momento por los interesados.",
-    "officialId": 68
+    "officialId": 68,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_17",
@@ -626,7 +752,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 94.1 Ley 39/2015: las personas interesadas podrán renunciar a sus derechos, siempre que no esté prohibido por el ordenamiento jurídico.",
-    "officialId": 69
+    "officialId": 69,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_18",
@@ -663,7 +797,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 95.3 Ley 39/2015: la caducidad no produce por sí sola la prescripción de las acciones; las actuaciones no producirán efectos pero podrá iniciarse un nuevo procedimiento mientras la acción no haya prescrito.",
-    "officialId": 70
+    "officialId": 70,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_19",
@@ -700,7 +842,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 106 Ley 39/2015: las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, declararán de oficio la nulidad de los actos, previo dictamen del Consejo de Estado u órgano consultivo equivalente.",
-    "officialId": 71
+    "officialId": 71,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_20",
@@ -737,7 +887,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 107.1 Ley 39/2015: las Administraciones Públicas podrán declarar la lesividad de sus propios actos favorables que sean anulables en el plazo de cuatro años desde que fueron dictados.",
-    "officialId": 72
+    "officialId": 72,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_21",
@@ -774,7 +932,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 122.2 Ley 39/2015: el plazo máximo para dictar y notificar la resolución del recurso de alzada es de tres meses. Transcurrido este plazo sin resolución, se entiende desestimado.",
-    "officialId": 73
+    "officialId": 73,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_22",
@@ -811,7 +977,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 122.3 Ley 39/2015: contra la resolución de un recurso de alzada no cabe ningún otro recurso administrativo, salvo el recurso extraordinario de revisión cuando proceda. La vía administrativa queda agotada.",
-    "officialId": 74
+    "officialId": 74,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_23",
@@ -848,7 +1022,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 106.5 Ley 39/2015: transcurrido el plazo de seis meses sin que haya recaído resolución expresa en el procedimiento de revisión iniciado a solicitud de interesado, se producirá la caducidad del mismo y se entenderá desestimada la solicitud.",
-    "officialId": 75
+    "officialId": 75,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_24",
@@ -885,7 +1067,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 107 Ley 39/2015: para anular actos favorables anulables, la Administración debe declararlos lesivos y luego impugnarlos ante la jurisdicción contencioso-administrativa. No puede revisarlos directamente de oficio.",
-    "officialId": 76
+    "officialId": 76,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_25",
@@ -922,7 +1112,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 123 Ley 39/2015: el recurso de reposición es potestativo, previo al contencioso-administrativo, y se interpone ante el mismo órgano que dictó el acto impugnado.",
-    "officialId": 77
+    "officialId": 77,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_26",
@@ -959,7 +1157,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 124.1 Ley 39/2015: el recurso de reposición deberá interponerse en el plazo de un mes si el acto fuera expreso.",
-    "officialId": 78
+    "officialId": 78,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_27",
@@ -996,7 +1202,14 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
-    "officialId": 79
+    "officialId": 79,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ],
+    "sourceStatus": "RED_FLAG",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_28",
@@ -1033,7 +1246,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 9.2 Ley 40/2015: no podrán ser objeto de delegación, entre otras, las competencias relativas a la potestad reglamentaria.",
-    "officialId": 80
+    "officialId": 80,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_29",
@@ -1070,7 +1291,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 129 Ley 39/2015: en el ejercicio de la potestad reglamentaria las Administraciones actuarán conforme a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
-    "officialId": 81
+    "officialId": 81,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_30",
@@ -1107,7 +1336,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 131 Ley 39/2015: las disposiciones de carácter general se publicarán en el diario oficial correspondiente y entrarán en vigor de acuerdo con lo dispuesto en ellas, sin que la publicación pueda sustituirse por otros medios.",
-    "officialId": 82
+    "officialId": 82,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_31",
@@ -1144,7 +1381,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 131 Ley 39/2015: los reglamentos deben publicarse en el diario oficial para producir efectos jurídicos. La afirmación C es falsa porque la publicación es requisito indispensable.",
-    "officialId": 83
+    "officialId": 83,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_32",
@@ -1181,7 +1426,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 133.4 Ley 39/2015: puede prescindirse de la consulta pública previa en normas presupuestarias u organizativas, o cuando concurran razones graves de interés público debidamente justificadas.",
-    "officialId": 84
+    "officialId": 84,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_33",
@@ -1218,7 +1471,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 133.4 Ley 39/2015: puede prescindirse de los trámites de consulta, audiencia e información pública en normas presupuestarias u organizativas, o cuando concurran razones graves de interés público (no sanitario ni tributario).",
-    "officialId": 85
+    "officialId": 85,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_34",
@@ -1255,7 +1516,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 130 Ley 39/2015: las Administraciones evaluarán periódicamente la aplicación de las normas vigentes para comprobar si han cumplido los objetivos previstos, conforme al plan anual normativo.",
-    "officialId": 86
+    "officialId": 86,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_35",
@@ -1292,7 +1561,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 132.1 Ley 39/2015: la Administración General del Estado y las CCAA con competencia reglamentaria aprobarán un Plan Anual Normativo que recoge las iniciativas legales o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente.",
-    "officialId": 87
+    "officialId": 87,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_36",
@@ -1329,7 +1606,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 131 Ley 39/2015: las disposiciones de carácter general se publicarán en el diario oficial correspondiente, siendo requisito imprescindible para su entrada en vigor y eficacia.",
-    "officialId": 88
+    "officialId": 88,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_37",
@@ -1366,7 +1651,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 49 Ley 40/2015: el contenido mínimo de los convenios incluye identificación de partes, objeto, obligaciones, financiación, plazo, extinción y régimen jurídico. El régimen sancionador no es un elemento mínimo obligatorio.",
-    "officialId": 89
+    "officialId": 89,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_38",
@@ -1403,7 +1696,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 17.1 Ley 40/2015: los órganos colegiados pueden constituirse y adoptar acuerdos a distancia si se garantiza la identidad de los miembros, el contenido de sus manifestaciones y la interactividad en tiempo real.",
-    "officialId": 90
+    "officialId": 90,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_39",
@@ -1440,7 +1741,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 12 Ley 40/2015: la delegación de firma no supone cesión de titularidad de la competencia ni altera su atribución; no requiere publicación para su validez.",
-    "officialId": 91
+    "officialId": 91,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_40",
@@ -1477,7 +1786,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 9.2 Ley 40/2015: no podrá delegarse la resolución de recursos en los órganos administrativos que hayan dictado en vía de delegación los actos objeto del recurso.",
-    "officialId": 92
+    "officialId": 92,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_41",
@@ -1514,7 +1831,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 17.7 Ley 40/2015: no podrá ser objeto de deliberación o acuerdo ningún asunto no incluido en el orden del día, salvo que estén presentes todos los miembros y sea declarada la urgencia del asunto por el voto favorable de la mayoría.",
-    "officialId": 93
+    "officialId": 93,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_42",
@@ -1551,7 +1876,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 26.2 Ley 40/2015: las disposiciones sancionadoras favorables tendrán efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor, aunque el acto sancionador haya adquirido firmeza.",
-    "officialId": 94
+    "officialId": 94,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_43",
@@ -1588,7 +1921,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 32.2 Ley 40/2015: el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.",
-    "officialId": 95
+    "officialId": 95,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_44",
@@ -1625,7 +1966,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 33 Ley 40/2015: cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones se derive responsabilidad, estas responderán en proporción a su participación en el hecho causante del daño.",
-    "officialId": 96
+    "officialId": 96,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_45",
@@ -1662,7 +2011,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 49.g Ley 40/2015: la duración de los convenios no podrá ser superior a cuatro años, salvo que norma con rango de ley permita mayor duración, pudiendo prorrogarse por acuerdo expreso de las partes hasta un máximo de cuatro años adicionales.",
-    "officialId": 97
+    "officialId": 97,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_46",
@@ -1699,7 +2056,15 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 92.1 Ley 40/2015: la competencia para resolver los procedimientos de responsabilidad patrimonial de las Administraciones Públicas corresponde al órgano competente en la materia de que derive el daño.",
-    "officialId": 98
+    "officialId": 98,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_47",
@@ -1736,7 +2101,14 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 31 Ley 40/2015: el principio non bis in ídem prohíbe sancionar los mismos hechos a la misma persona con el mismo fundamento jurídico por parte de varias Administraciones o del mismo órgano.",
-    "officialId": 99
+    "officialId": 99,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "CONSENSUS",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-t04_48",
@@ -1773,6 +2145,14 @@
     "imageUrl": null,
     "module": "tec-t04",
     "explanation": "Art. 29.3 Ley 40/2015: el principio de proporcionalidad exige que la sanción guarde la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada.",
-    "officialId": 100
+    "officialId": 100,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

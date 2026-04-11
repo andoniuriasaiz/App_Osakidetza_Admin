@@ -36,8 +36,12 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 81,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t06_2",
@@ -76,8 +80,11 @@
     "explanation": "Art. 3 Decreto 147/2015: los derechos son exigibles en centros de titularidad pública, privada o concertados de Euskadi, incluyendo docencia. La investigación biomédica se rige por su normativa específica.",
     "officialId": 82,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "TRIPLE_DISPUTE",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo"
+    ]
   },
   {
     "id": "tec-comun-t06_3",
@@ -116,8 +123,12 @@
     "explanation": "Art. 4 Decreto 147/2015: el principio fundamental es el respeto a la libertad, dignidad y autonomía de la persona en las decisiones sobre su salud. Las opciones b y c no son principios informadores de la Declaración.",
     "officialId": 83,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "CONSENSUS",
+    "o_reliable": true,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t06_4",
@@ -156,8 +167,12 @@
     "explanation": "Decreto 147/2015: las fases específicas reconocidas son: infancia y adolescencia; salud sexual y reproductiva; personas mayores; y final de la vida.",
     "officialId": 84,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t06_5",
@@ -196,8 +211,12 @@
     "explanation": "Decreto 147/2015: en el ámbito del final de la vida, los derechos incluyen acompañamiento de familiares y allegados, habitación individual con carácter general y acompañamiento espiritual. Todas correctas.",
     "officialId": 85,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t06_6",
@@ -236,8 +255,12 @@
     "explanation": "Decreto 147/2015: la persona paciente tiene la obligación de dejar constancia escrita de sus decisiones cuando así lo exija la ley o sea recomendable por las circunstancias del caso.",
     "officialId": 86,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT"
+    ]
   },
   {
     "id": "tec-comun-t06_7",
@@ -276,8 +299,12 @@
     "explanation": "Decreto 147/2015: los Servicios de Atención a Pacientes estarán en Osakidetza, centros concertados, privados y el departamento competente en sanidad.",
     "officialId": 87,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "CONSENSUS",
+    "o_reliable": true,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "tec-comun-t06_8",
@@ -317,6 +344,11 @@
     "officialId": 88,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   }
 ]

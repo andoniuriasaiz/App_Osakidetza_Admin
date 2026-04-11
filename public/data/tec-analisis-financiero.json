@@ -34,7 +34,15 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "El fondo de maniobra (o fondo de rotación) = Activo circulante (corriente) – Pasivo a corto plazo (corriente). También puede calcularse como: Capitales permanentes – Activo fijo. Representa la parte del activo circulante financiada con recursos permanentes.",
-    "officialId": 371
+    "officialId": 371,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_2",
@@ -71,7 +79,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La ratio de tesorería inmediata (Efectivo y equivalentes / Pasivo corriente) es un ratio de equilibrio financiero a CORTO plazo, que mide la capacidad de pago inmediata con los recursos más líquidos disponibles.",
-    "officialId": 372
+    "officialId": 372,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_3",
@@ -108,7 +123,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "Las tres afirmaciones son correctas: (1) Apalancamiento total = Ao × Af (multiplicativo); (2) el apalancamiento financiero se genera por el uso de deuda con costes financieros fijos; (3) empresas con altos costes fijos (grandes inmovilizados) tienen mayor apalancamiento operativo.",
-    "officialId": 373
+    "officialId": 373,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_4",
@@ -145,7 +167,15 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La opción INCORRECTA es la 2: los ratios de liquidez (ratio corriente, prueba ácida, ratio de tesorería) son medidas ESTÁTICAS que NO tienen en cuenta el momento exacto de vencimiento de cada pasivo. Para eso se necesita un análisis dinámico de flujos de caja o un calendario de vencimientos.",
-    "officialId": 374
+    "officialId": 374,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_5",
@@ -182,7 +212,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "Al tiempo promedio que tarda en recuperarse una unidad monetaria invertida en el ciclo de explotación se le denomina Período Medio de Maduración ECONÓMICO (PMMe). El PMM financiero descuenta el período de pago a proveedores.",
-    "officialId": 375
+    "officialId": 375,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "CONSENSUS",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_6",
@@ -219,7 +256,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "El apalancamiento financiero se estudia mediante el análisis de la sensibilidad del beneficio neto respecto al beneficio económico (BAII/EBIT). Mide el impacto de los costes financieros fijos (intereses) sobre la variabilidad del beneficio neto ante cambios en el BAII.",
-    "officialId": 376
+    "officialId": 376,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_7",
@@ -256,7 +300,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La opción INCORRECTA es la 4: en situación de insolvencia técnica, la probabilidad de insolvencia NO decrece con el endeudamiento, sino todo lo contrario: mayor endeudamiento aumenta el riesgo de insolvencia. Las demás opciones pueden describir situaciones de insolvencia técnica.",
-    "officialId": 377
+    "officialId": 377,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_8",
@@ -293,7 +344,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La rentabilidad económica (RE) = BAII / Activo total. Relaciona los beneficios obtenidos (BAII/EBIT) con las inversiones totales de la empresa (activo), midiendo la eficiencia con que se usan todos los recursos, independientemente de su financiación.",
-    "officialId": 378
+    "officialId": 378,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_9",
@@ -330,7 +388,13 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "El estudio de la rentabilidad financiera (RF = Beneficio neto / Recursos propios, o ROE) forma parte del análisis FINANCIERO de la empresa. El análisis financiero estudia la estructura de financiación, la liquidez, el endeudamiento y la rentabilidad financiera.",
-    "officialId": 379
+    "officialId": 379,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_10",
@@ -367,7 +431,13 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "Si el ratio de Garantía (Activo total / Pasivo total) = 1, significa que el Activo = Pasivo y por tanto el Patrimonio neto = 0. La empresa se encuentra en una situación límite (suspensión de pagos / quiebra técnica), sin colchón patrimonial para absorber pérdidas.",
-    "officialId": 380
+    "officialId": 380,
+    "sourceSources": [
+      "UGT"
+    ],
+    "sourceStatus": "UGT_ONLY",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_11",
@@ -404,7 +474,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La LIQUIDEZ es la capacidad de la empresa para convertir sus activos e inversiones en medios de pago líquidos. No confundir con solvencia (capacidad de pagar deudas a largo plazo) ni con rentabilidad.",
-    "officialId": 381
+    "officialId": 381,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_12",
@@ -441,7 +518,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "En términos financiero-contables, la liquidez se define como la mayor o menor facilidad para convertir un activo en dinero efectivo, sin pérdida significativa de valor. Los activos más líquidos son el efectivo y los equivalentes al efectivo.",
-    "officialId": 382
+    "officialId": 382,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_13",
@@ -478,7 +562,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "El análisis patrimonial estudia la composición y estructura del patrimonio de la empresa (activo, pasivo y patrimonio neto) y se realiza a través del Balance de Situación. El análisis económico usa la Cuenta de PG, y el análisis financiero usa el EFE y el Balance.",
-    "officialId": 383
+    "officialId": 383,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_14",
@@ -515,7 +606,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La ratio de tesorería o liquidez INMEDIATA = Efectivo y equivalentes al efectivo / Pasivo corriente. Mide la capacidad de pago con los recursos más líquidos (solo cash y equivalentes). La ratio corriente incluye todo el activo corriente; la prueba ácida excluye existencias.",
-    "officialId": 384
+    "officialId": 384,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_15",
@@ -552,7 +650,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "El período medio de maduración económico en empresas comerciales = Período de almacenamiento de mercancías + Período de cobro a clientes. No hay proceso de fabricación. El PMM financiero también resta el período de pago a proveedores.",
-    "officialId": 385
+    "officialId": 385,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_16",
@@ -589,7 +694,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "El coeficiente básico de financiación (CBF) = (Patrimonio neto + Pasivo no Corriente) / (Activo no Corriente + Capital corriente necesario). Si CBF = 1: equilibrio ideal; CBF > 1: exceso de recursos permanentes; CBF < 1: insuficiencia de financiación permanente.",
-    "officialId": 386
+    "officialId": 386,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_17",
@@ -626,7 +738,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La ratio Price to Book (P/B) = Precio de cotización de la acción / Valor contable de la acción. Mide cuánto paga el mercado por cada euro de patrimonio neto contable. Si P/B > 1, el mercado valora la empresa por encima de su valor contable.",
-    "officialId": 387
+    "officialId": 387,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_18",
@@ -663,7 +782,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "Según el PGC (NRV 15), las provisiones son pasivos cuyo importe o fecha de cancelación son INDETERMINADOS (uno u otro, o ambos). Las contingencias son obligaciones posibles, no actuales, que no se reconocen como pasivo sino que se informan en la Memoria.",
-    "officialId": 388
+    "officialId": 388,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_19",
@@ -700,7 +826,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "El ratio de cobertura de intereses = BAII (EBIT) / Gastos financieros. Mide cuántas veces el resultado de explotación cubre el coste de la deuda (intereses). Un valor > 1 indica capacidad para pagar los intereses; cuanto mayor, más holgura financiera.",
-    "officialId": 389
+    "officialId": 389,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_20",
@@ -737,7 +870,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La financiación espontánea surge de forma natural de la actividad ordinaria (proveedores, acreedores, Hacienda Pública) sin negociación explícita y sin coste de interés explícito. Se opone a la financiación negociada (préstamos bancarios) que tiene coste financiero explícito.",
-    "officialId": 390
+    "officialId": 390,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_21",
@@ -774,7 +914,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "Si el coeficiente básico de financiación (CBF) > 1, la empresa dispone de más recursos permanentes (PN + PnC) de los estrictamente necesarios para financiar el activo no corriente y el capital corriente mínimo. Indica exceso de financiación a largo plazo y suele generar fondo de maniobra positivo.",
-    "officialId": 391
+    "officialId": 391,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_22",
@@ -811,7 +958,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La ratio de firmeza = Activo no corriente / Pasivo no corriente. Si < 1, el activo no corriente es menor que el pasivo no corriente, lo que significa que el pasivo a largo plazo supera al activo fijo. Esto puede indicar que parte del activo corriente se está financiando con deuda a largo plazo.",
-    "officialId": 392
+    "officialId": 392,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_23",
@@ -848,7 +1002,14 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La ratio corriente (Activo corriente / Pasivo corriente) puede sobreestimar la liquidez porque incluye existencias y otras partidas del activo corriente que pueden no ser fácilmente convertibles en efectivo a corto plazo (realizable condicionado). La prueba ácida corrige esto excluyendo las existencias.",
-    "officialId": 393
+    "officialId": 393,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   },
   {
     "id": "tec-analisis-financiero_24",
@@ -885,6 +1046,13 @@
     "imageUrl": null,
     "module": "tec-analisis-financiero",
     "explanation": "La prueba ácida (o acid-test ratio) = (Activo corriente – Existencias) / Pasivo corriente. Si aumentan las existencias pero el pasivo corriente se mantiene igual, el numerador (AC – Existencias) NO CAMBIA, por lo que la ratio de prueba ácida no varía. Solo cambia el ratio corriente.",
-    "officialId": 394
+    "officialId": 394,
+    "sourceSources": [
+      "UGT",
+      "IA"
+    ],
+    "sourceStatus": "PERFECT",
+    "sourceTrio": false,
+    "o_reliable": true
   }
 ]

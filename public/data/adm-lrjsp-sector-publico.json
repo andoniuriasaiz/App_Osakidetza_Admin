@@ -37,7 +37,12 @@
     "originalId": 14,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_2",
@@ -76,8 +81,12 @@
     "explanation": "Art. 5.4 Ley 40/2015: 'La creación de cualquier órgano administrativo exigirá: a) Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica; b) Delimitación de sus funciones y competencias; c) Dotación de los créditos necesarios para su puesta en marcha y funcionamiento; d) No duplicación con otros ya existentes.' La opción C reproduce literalmente el requisito a) del artículo. Respuesta C.",
     "originalId": 122,
     "sourceTrio": false,
-    "sourceStatus": "INCOMPLETE",
-    "o_reliable": true
+    "sourceStatus": "RED_FLAG",
+    "o_reliable": true,
+    "sourceSources": [
+      "Osasuntest",
+      "UGT"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_3",
@@ -117,7 +126,13 @@
     "originalId": 123,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_4",
@@ -157,7 +172,13 @@
     "originalId": 124,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_5",
@@ -197,7 +218,13 @@
     "originalId": 125,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_6",
@@ -237,7 +264,13 @@
     "originalId": 126,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_7",
@@ -277,7 +310,13 @@
     "originalId": 127,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_8",
@@ -317,7 +356,13 @@
     "originalId": 128,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_9",
@@ -357,7 +402,12 @@
     "originalId": 129,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_10",
@@ -397,7 +447,12 @@
     "originalId": 130,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_11",
@@ -437,7 +492,12 @@
     "originalId": 131,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_12",
@@ -477,7 +537,13 @@
     "originalId": 132,
     "sourceTrio": true,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "Osasuntest",
+      "UGT",
+      "IA"
+    ]
   },
   {
     "id": "adm-lrjsp-sector-publico_13",
@@ -517,6 +583,11 @@
     "originalId": 133,
     "sourceTrio": false,
     "sourceStatus": "PERFECT",
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceSources": [
+      "Kaixo",
+      "UGT",
+      "IA"
+    ]
   }
 ]
