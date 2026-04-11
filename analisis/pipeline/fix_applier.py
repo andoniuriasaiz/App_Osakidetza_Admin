@@ -114,12 +114,7 @@ def compute_changes(consensus: dict) -> list[dict]:
                 "text":       q.get("text", "")[:80],
                 "osasun":     q.get("o", "?"),
                 "confidence": q.get("confidence", 0),
-                "votes": {
-                    "ia": q.get("ia", "?"),
-                    "k":  q.get("k", "?"),
-                    "o":  q.get("o", "?"),
-                    "u":  q.get("u", "?")
-                },
+                "votes":      votes_grouped,
                 # Fuentes que coincidirán DESPUÉS de aplicar la corrección
                 # (target = la respuesta corregida, así que IA también coincide)
                 "source_sources": _compute_source_sources(
@@ -164,19 +159,25 @@ def build_source_index(consensus: dict) -> dict[str, dict]:
             # si "IA" aparece en las fuentes. Tras aplicar --apply --confirm, la
             # respuesta de la app se habrá corregido y "IA" se incluirá.
             sources = _compute_source_sources(app, ka, oa, ua, o_rel, correct)
+            
+            # Agrupar votos por respuesta
+            v = {
+                "IA":    q.get("ia", "?"),
+                "Kaixo": ka,
+                "Osasun": oa,
+                "UGT":   ua
+            }
+            votes_grouped = {}
+            for src, ans in v.items():
+                if ans != "?":
+                    votes_grouped.setdefault(ans, []).append(src)
+
             index[qid] = {
                 "sourceSources":    sources,
                 "sourceStatus":     status,
                 "sourceTrio":       len(sources) == 4,  # Kaixo+Osasun+UGT+IA
                 "sourceConfidence": q.get("confidence", 0),
-                "sourceVotes": {
-                    "ia": ka, # Error en variable ka? no, ka es k. Ah, espera.
-                    # Déjame corregir esto. El loop de build_source_index tiene ka=q.get("k")
-                    "ia": q.get("ia", "?"),
-                    "k":  ka,
-                    "o":  oa,
-                    "u":  ua
-                },
+                "sourceVotes":      votes_grouped,
                 "o_reliable":       o_rel,
             }
     return index

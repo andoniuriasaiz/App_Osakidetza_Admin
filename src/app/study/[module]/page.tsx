@@ -1529,11 +1529,17 @@ export default function StudyPage() {
 
                       // 2. Detalle de votos
                       const voteDetails = Object.entries(votes).map(([ans, srcs]) => {
-                        if (srcs.length === 0) return null;
-                        const isMain = ans === current.correctAnswers[0] || (current.correctAnswerNums.length > 0 && String.fromCharCode(65 + current.correctAnswerNums[0]-1) === ans);
+                        if (!srcs || (Array.isArray(srcs) && srcs.length === 0)) return null;
+                        
+                        const isMain = ans === current?.correctAnswers?.[0] || 
+                                       (current?.correctAnswerNums && current.correctAnswerNums.length > 0 && 
+                                        String.fromCharCode(65 + current.correctAnswerNums[0] - 1) === ans);
+                        
+                        const sourceList = Array.isArray(srcs) ? srcs.join(', ') : String(srcs);
+                        
                         return (
                           <span key={ans} className={`inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-lg border ${isMain ? 'bg-white border-slate-200 text-slate-600' : 'bg-slate-100 border-transparent text-slate-400 opacity-80'}`}>
-                            <b className={isMain ? 'text-[#282182]' : ''}>{ans}:</b> {srcs.join(', ')}
+                            <b className={isMain ? 'text-[#282182]' : ''}>{ans}:</b> {sourceList}
                           </span>
                         );
                       });
