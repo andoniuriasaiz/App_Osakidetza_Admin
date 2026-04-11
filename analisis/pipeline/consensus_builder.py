@@ -13,18 +13,19 @@ import re
 import sys
 from datetime import datetime
 from pathlib import Path
+from typing import List, Optional, Union, Dict
 
 _HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(_HERE))
 from config import (
-    DATA_DIR, RAW_DIR, REPORTS_DIR,
+    DATA_DIR, RAW_DIR, REPORTS_DIR, UGT_DIR,
     CATEGORIES, NUM_TO_LETTER, FUZZY_CUTOFF, TEXT_NORM_LEN
 )
 
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
-def load_json(path: Path) -> dict | list:
+def load_json(path: Path) -> Union[Dict, List]:
     if not path.exists():
         return {}
     with open(path, encoding="utf-8") as fh:
@@ -58,42 +59,86 @@ def build_kaixo_index(k_raw: dict) -> dict:
     return {}   # Sin texto de kaixo disponible en raw, se usa ID directo
 
 
-def _determine_status(app: str, k: str, o: str) -> tuple[str, str]:
+def _determine_status(app: str, k: str, o: str, u: str) -> tuple[str, str]:
     """
-    Determina el estado de consenso basado en las respuestas de la App (A), Kaixo (K) y Osasuntest (O).
-    
-    Reglas de prioridad:
-    1. Si K y O no existen -> INCOMPLETE (confiamos en App por defecto)
-    2. Si App coincide con Kaixo (K) -> PERFECT (Kaixo es la fuente principal)
-    3. Si K y O coinciden pero App no -> RED_FLAG (Necesita corrección)
-    4. Si K difiere de App y de O -> TRIPLE_DISPUTE (Revisión manual necesaria)
+    Determina el estado de consenso con 4 fuentes:
+      App (A) — lo que queremos validar
+      Kaixo (K) — plataforma web, alta fiabilidad técnica (match directo por ID)
+      Osasuntest (O) — plataforma web, fiabilidad media (banco puede diferir)
+      UGT (U) — sindicato, alta fiabilidad editorial; posibles typos en PDFs
+
+    Jerarquía del modelo:
+      - K+U acuerdan entre sí → señal muy fuerte (independientes de distinta naturaleza).
+        Si App discrepa → RED_FLAG definitivo.
+      - App=K=O y solo UGT difiere → UGT tiene probable typo → UGT_OUTLIER (no autocorregir).
+      - App=K y solo UGT difiere (sin O) → disputa tier-1 → REVIEW_K_VS_UGT.
+      - App=U y solo K difiere → App+UGT probablemente ok → CONSENSUS.
+      - Solo UGT disponible, difiere → UGT_ONLY (revisar, no autocorregir).
+      - Mayoría externa clara (≥2 fuentes) sin K+U combinados → RED_FLAG si App pierde.
+
+    Retorna (status, respuesta_consenso)
     """
-    # 1. Falta de datos crítica
-    if k == "?" and o == "?":
+    from collections import Counter
+
+    available = {s: v for s, v in [("K", k), ("O", o), ("U", u)] if v != "?"}
+
+    # ── Sin datos externos ────────────────────────────────────────────────────
+    if not available:
         return "INCOMPLETE", app
 
-    # 2. MATCH con Kaixo: Si la App ya tiene lo que dice Kaixo, está PERFECTA.
-    # (Incluso si Osasun difiere, confiamos en el binomio App-Kaixo)
-    if k != "?" and app == k:
+    # ── PERFECT: App coincide con todas las fuentes disponibles ──────────────
+    if all(v == app for v in available.values()):
         return "PERFECT", app
 
-    # 3. RED FLAG: Kaixo y Osasun coinciden en una corrección que la App no tiene.
-    if k != "?" and o != "?" and k == o and app != k:
-        return "RED_FLAG", k
+    ext_votes = Counter(available.values())
+    top_ans, top_n = ext_votes.most_common(1)[0]
+    app_support = ext_votes.get(app, 0)
 
-    # 4. Caso especial: App coincide con la única fuente disponible
-    if k == "?" and app == o:
-        return "PERFECT", app
-    if o == "?" and app == k: # (Ya cubierto por el punto 2, pero por claridad)
-        return "PERFECT", app
+    # ── K y U coinciden entre sí (las dos fuentes tier-1) ────────────────────
+    if k != "?" and u != "?" and k == u:
+        if k == app:
+            return "PERFECT", app
+        return "RED_FLAG", k          # K+U contra App → corrección definitiva
 
-    # 5. INCOMPLETE: Si falta una fuente y no hay coincidencia con la otra.
-    if k == "?" or o == "?":
-        return "INCOMPLETE", k if k != "?" else o
+    # ── Todas las fuentes disponibles (≥2) dicen lo mismo ≠ App ──────────────
+    if app_support == 0 and top_n >= 2:
+        return "RED_FLAG", top_ans    # Consenso externo unánime contra App
 
-    # 6. TRIPLE DISPUTE: Realmente hay 3 versiones o App=Osasun pero Kaixo dice otra cosa.
-    # O simplemente App y Kaixo no coinciden y no hay consenso de fuentes.
-    return "TRIPLE_DISPUTE", k if k != "?" else (o if o != "?" else app)
+    # ── App=K=O pero solo UGT difiere → UGT probable typo ────────────────────
+    if (u != "?" and u != app
+            and k != "?" and k == app
+            and (o == "?" or o == app)
+            and sum(1 for v in available.values() if v == app) >= 2):
+        return "UGT_OUTLIER", app     # ≥2 fuentes externas apoyan App, UGT outlier
+
+    # ── App=K pero UGT discrepa (O no desempata o va con UGT) ────────────────
+    if (k != "?" and k == app
+            and u != "?" and u != app
+            and (o == "?" or o == u)):
+        return "REVIEW_K_VS_UGT", u   # Disputa entre las dos fuentes tier-1
+
+    # ── App=U pero Kaixo discrepa (O no desempata o va con App/U) ────────────
+    if (u != "?" and u == app
+            and k != "?" and k != app
+            and (o == "?" or o == app)):
+        return "CONSENSUS", app       # App+UGT vs Kaixo; probablemente ok
+
+    # ── Solo UGT disponible y difiere (K=?, O=?) ─────────────────────────────
+    if k == "?" and o == "?" and u != "?" and u != app:
+        return "UGT_ONLY", u          # Única fuente externa, sin corroboración
+
+    # ── Solo K disponible y difiere ───────────────────────────────────────────
+    if u == "?" and k != "?" and k != app:
+        if o == "?" or o == app:
+            return "INCOMPLETE", k    # Solo K discrepa, sin UGT
+        return "RED_FLAG", k          # K+O coinciden ≠ App (lógica clásica)
+
+    # ── App tiene mayoría de fuentes pero no todas ────────────────────────────
+    if app_support > len(available) / 2:
+        return "CONSENSUS", app
+
+    # ── Disputa genuina sin mayoría clara ─────────────────────────────────────
+    return "TRIPLE_DISPUTE", top_ans
 
 
 # ── Procesador por categoría ─────────────────────────────────────────────────
@@ -108,6 +153,16 @@ def process_category(cat_key: str) -> list[dict]:
     raw_osasun_file = cfg.get("raw_osasun")
     o_raw    = load_json(RAW_DIR / raw_osasun_file) if raw_osasun_file else {}  # {num_str: letra}
     o_offset = cfg["osasun_offset"]
+    
+    # Cargar datos UGT
+    ugt_file = cfg.get("ugt_file")
+    u_raw = load_json(UGT_DIR / ugt_file) if ugt_file else []
+    
+    # Indexar UGT por originalId
+    u_index: dict[str, str] = {}
+    for item in u_raw:
+        if "id" in item and item.get("correctAnswer"):
+            u_index[str(item["id"])] = item["correctAnswer"]
 
     if isinstance(app_data, dict):
         # Si el app_file es un dict (raro), convertir a lista
@@ -171,11 +226,16 @@ def process_category(cat_key: str) -> list[dict]:
             oa = "?"
             o_reliable = False
 
+        # ── Match UGT ──────────────────────────────────────────────────
+        ua = "?"
+        if orig_id is not None and str(orig_id) in u_index:
+            ua = u_index[str(orig_id)]
+
         # ── Status ───────────────────────────────────────────────────────
-        status, consensus_ans = _determine_status(app_ans, ka, oa)
+        status, consensus_ans = _determine_status(app_ans, ka, oa, ua)
 
         # ── Campos extra útiles para análisis / CSVs ─────────────────────
-        trio = (app_ans == ka == oa and oa != "?")
+        trio = (app_ans == ka == oa == ua and ua != "?") # O una coincidencia fuerte
         opts = q.get("options", [])
         options_map = {chr(64 + o.get("value", i+1)): o.get("text", "")
                        for i, o in enumerate(opts)} if isinstance(opts, list) else {}
@@ -189,8 +249,9 @@ def process_category(cat_key: str) -> list[dict]:
             "app":         app_ans,
             "k":           ka,
             "o":           oa,
+            "u":           ua,
             "o_reliable":  o_reliable,
-            "trio":        trio,              # True = App=K=O (máxima confianza)
+            "trio":        trio,
             "consensus":   consensus_ans,
             "status":      status,
         })
@@ -209,7 +270,7 @@ def process_category(cat_key: str) -> list[dict]:
 
 # ── Punto de entrada ─────────────────────────────────────────────────────────
 
-def run(categories: list | None = None) -> dict:
+def run(categories: Optional[List] = None) -> Dict:
     print("\n" + "=" * 60)
     print("  PASO 3 — Construyendo consenso")
     print("=" * 60)

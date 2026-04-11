@@ -16,20 +16,20 @@ Las preguntas con k="?" (Kaixo sin dato) nunca se modifican.
 import json
 import shutil
 import sys
-from datetime import datetime
 from pathlib import Path
+from typing import List, Union, Dict
 
 _HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(_HERE))
 from config import DATA_DIR, REPORTS_DIR, BACKUP_DIR, LETTER_TO_NUM
 
 
-def _load(path: Path) -> list | dict:
+def _load(path: Path) -> Union[List, Dict]:
     with open(path, encoding="utf-8") as fh:
         return json.load(fh)
 
 
-def _save(path: Path, data: list | dict) -> None:
+def _save(path: Path, data: Union[List, Dict]) -> None:
     with open(path, "w", encoding="utf-8") as fh:
         json.dump(data, fh, ensure_ascii=False, indent=2)
     with open(path, "a", encoding="utf-8") as fh:
@@ -39,17 +39,27 @@ def _save(path: Path, data: list | dict) -> None:
 def compute_changes(consensus: dict) -> list[dict]:
     """
     Calcula qué preguntas necesitan corrección sin tocar nada.
+    Solo procesa RED_FLAG (K+U coinciden, o consenso externo claro).
+    Los estados REVIEW_K_VS_UGT, UGT_OUTLIER y UGT_ONLY requieren revisión manual
+    y nunca se auto-corrigen aquí.
     Devuelve lista de {id, file, old_letter, new_letter, status, text}.
     """
+    # Solo estos estados se autocorrigen — el resto requiere revisión manual
+    AUTO_CORRECT_STATUSES = {"RED_FLAG"}
+
     changes = []
     for cat_qs in consensus.values():
         if not isinstance(cat_qs, list):
             continue
         for q in cat_qs:
             app = q.get("app", "?")
-            k   = q.get("k",   "?")
-            if app == "?" or k == "?" or app == k:
+            target = q.get("consensus", "?")
+
+            if q.get("status") not in AUTO_CORRECT_STATUSES:
                 continue
+            if app == "?" or target == "?" or app == target:
+                continue
+
             qid = q["id"]
             last_ = qid.rfind("_")
             if last_ == -1:
@@ -60,9 +70,9 @@ def compute_changes(consensus: dict) -> list[dict]:
                 "file":       fname,
                 "qnum":       int(qid[last_ + 1:]),
                 "old_letter": app,
-                "new_letter": k,
+                "new_letter": target,
                 "old_num":    LETTER_TO_NUM.get(app),
-                "new_num":    LETTER_TO_NUM.get(k),
+                "new_num":    LETTER_TO_NUM.get(target),
                 "status":     q.get("status", "UNKNOWN"),
                 "text":       q.get("text", "")[:80],
                 "osasun":     q.get("o", "?"),

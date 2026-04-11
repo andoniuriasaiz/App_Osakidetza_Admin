@@ -9,6 +9,7 @@ import json
 import glob
 from pathlib import Path
 import sys
+from typing import List, Optional
 
 # ── Configurar path para importar config ──────────────────────────────────────
 _HERE = Path(__file__).resolve().parent
@@ -66,7 +67,7 @@ def consolidate_category(prefix: str, output_name: str) -> int:
     return len(all_questions)
 
 
-def run(categories: list[str] | None = None) -> None:
+def run(categories: Optional[List[str]] = None) -> None:
     """
     Ejecuta la consolidación para las categorías especificadas (o todas).
     """

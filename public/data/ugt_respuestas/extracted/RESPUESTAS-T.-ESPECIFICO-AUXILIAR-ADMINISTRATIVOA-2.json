@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "question": "Tienen derecho a formar parte de la Comunidad Autónoma del País V asco:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Guipúzcoa y Vizcaya.",
+      "B": "Álava, Guipúzcoa y Vizcaya.",
+      "C": "Álava, Guipúzcoa, Vizcaya y Navarra.",
+      "D": "Álava y Vizcaya."
+    }
+  },
+  {
+    "id": 2,
+    "question": "La bandera del País V asco es:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Bicrucífera, compuesta de aspa amarilla, cruz roja superpuesta y fondo blanca.",
+      "B": "Bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo.",
+      "C": "Bicrucífera, compuesta de aspa roja, cruz blanca superpuesta y fondo verde.",
+      "D": "Bicrucífera, compuesta de aspa negra, cruz roja superpuesta y fondo blanca."
+    }
+  },
+  {
+    "id": 3,
+    "question": "El euskera:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Lengua propia del Pueblo V asco, tendrá, como el castellano, carácter de lengua oﬁcial en Euskadi, y todos\nsus habitantes tienen el derecho a conocer y usar ambas lenguas.",
+      "B": "Lengua propia del Pueblo Vasco, no tendrá carácter de lengua oﬁcial en Euskadi, pero todos sus habitantes tienen el\nderecho a conocer y usar ambas lenguas.",
+      "C": "Lengua propia del Pueblo Vasco, no tendrá carácter de lengua oﬁcial en Euskadi, y todos sus habitantes no tienen el\nderecho a conocer y usar ambas lenguas.",
+      "D": "No es lengua propia del Pueblo Vasco."
+    }
+  },
+  {
+    "id": 4,
+    "question": "Las instituciones comunes de la Comunidad Autónoma, teniendo en cuenta la diversidad socio-lingüística\ndel País V asco:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "No garantizan el uso de ambas lenguas.",
+      "B": "Recomienda el uso de ambas lenguas.",
+      "C": "Garantiza sólo a las personas mayores de 65 años el uso de ambas lenguas.",
+      "D": "Garantiza el uso de ambas lenguas."
+    }
+  },
+  {
+    "id": 5,
+    "question": "Por razón de lengua:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Nadie podrá ser discriminado.",
+      "B": "Está permitido discriminar.",
+      "C": "Está permitido discriminar en algunos casos.",
+      "D": "Está permitido discriminar dependiendo de la edad."
+    }
+  },
+  {
+    "id": 6,
+    "question": "T endrán la condición política de vascos:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, sólo en algunos municipios\nintegrados en el territorio de la Comunidad Autónoma.",
+      "B": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en municipios con más de\n5.000 habitantes que estén integrados en el territorio de la Comunidad Autónoma.",
+      "C": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en cualquiera\nde los municipios integrados en el territorio de la Comunidad Autónoma.",
+      "D": "Quienes tengan la vecindad administrativa de acuerdo con las Leyes Generales del Estado, en municipios con más de\n10.000 habitantes que estén integrados en el territorio de la Comunidad Autónoma."
+    }
+  },
+  {
+    "id": 7,
+    "question": "Los residentes en el extranjero, así como sus descendientes, si así lo solicitaren:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "No gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad\nadministrativa en Euskadi, siempre que conserven la nacionalidad española.",
+      "B": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si no hubieran tenido su última vecindad\nadministrativa en Euskadi, siempre que conserven la nacionalidad española.",
+      "C": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última vecindad administrativa en Euskadi, siempre que no conserven la nacionalidad española.",
+      "D": "Gozarán de idénticos derechos políticos que los residentes en el País Vasco, si hubieran tenido su última\nvecindad administrativa en Euskadi, siempre que conserven la nacionalidad espańola."
+    }
+  },
+  {
+    "id": 8,
+    "question": "Los derechos y deberes fundamentales de los ciudadanos del País V asco son los establecidos en:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "El Ayuntamiento.",
+      "B": "La Constitución.",
+      "C": "El Parlamento.",
+      "D": "El Senado."
+    }
+  },
+  {
+    "id": 9,
+    "question": "Los poderes públicos vascos, en el ámbito de su competencia:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Velarán y garantizarán el adecuado ejercicio de los derechos y deberes fundamentales de los ciudadanos.",
+      "B": "Impulsarán particularmente una política tendente a la mejora de las condiciones de vida y trabajo.",
+      "C": "Adoptarán aquellas medidas que tiendan a fomentar el incremento del empleo y la estabilidad económica.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 10,
+    "question": "Según la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País V asco, sin\nperjuicio de las competencias de las Instituciones a que se reﬁero el artículo 37 del presente Estatuto, el\nParlamento V asco:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Ejerce la potestad legislativa.",
+      "B": "Aprueba sus presupuestos.",
+      "C": "Impulsa y controla la acción del Gobierno Vasco.",
+      "D": "T odas las respuestas anteriores son correctas."
+    }
+  },
+  {
+    "id": 11,
+    "question": "El Parlamento V asco estará integrado por:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Un número distinto de representantes, dependiendo de los habitantes de cada Territorio Histórico, elegidos por sufragio\nuniversal, libre, directo y secreto.",
+      "B": "Un número distinto de representantes, dependiendo de la edad de los habitantes de cada Territorio Histórico, elegidos por\nsufragio universal, libre, directo y secreto.",
+      "C": "Un número igual de representantes de cada T erritorio Histórico elegidos por sufragio universal, libre,\ndirecto y secreto.",
+      "D": "Un número igual de representantes de cada Territorio Histórico elegidos por sufragio universal, no siendo libre, directo y\npúblico."
+    }
+  },
+  {
+    "id": 12,
+    "question": "El Parlamento V asco será elegido por un periodo de:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "2 años.",
+      "B": "4 ańos.",
+      "C": "1 año.",
+      "D": "5 años."
+    }
+  },
+  {
+    "id": 13,
+    "question": "El Parlamento elegirá de entre sus miembros:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Un Presidente, una Mesa y una Diputación Permanente.",
+      "B": "Tres Presidentes y una Mesa.",
+      "C": "Dos Presidentes y dos Mesas.",
+      "D": "Un Presidente, dos Mesas y una Diputación Permanente."
+    }
+  },
+  {
+    "id": 14,
+    "question": "El Gobierno V asco es el órgano colegiado que ostenta las funciones:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Ejecutivas y administrativas del País V asco.",
+      "B": "Formativas del País Vasco.",
+      "C": "Informativas del País Vasco.",
+      "D": "Ejecutivas y organizativas del País Vasco."
+    }
+  },
+  {
+    "id": 15,
+    "question": "Las atribuciones del Gobierno y su organización, basada en un Presidente y Consejeros, así como el Estatuto\nde sus miembros, serán regulados por:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "El Rey.",
+      "B": "El Estatuto de los Trabajadores.",
+      "C": "El Parlamento.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    }
+  },
+  {
+    "id": 16,
+    "question": "El Presidente del Gobierno será designado de entre sus miembros:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Por los Ayuntamientos y nombrado por el Lehendakari.",
+      "B": "Por los Ayuntamientos y nombrado por el Rey.",
+      "C": "Por el Parlamento V asco y nombrado por el Rey .",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    }
+  },
+  {
+    "id": 17,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opinión\nmédica en el ámbito del Sistema Sanitario de Euskadi:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Para aquellos procesos de enfermedad que no conlleven riesgo para la vida o calidad de la misma, en los términos que se\ndesarrollan en el presente Decreto.",
+      "B": "Para aquellos procesos de enfermedad que conlleven riesgo para la vida o calidad de la misma, en los\ntérminos que se desarrollan en el presente Decreto.",
+      "C": "Para aquellos procesos de enfermedad que conlleven una baja de 3 días, en los términos que se desarrollan en el presente\nDecreto.",
+      "D": "Para aquellos procesos de enfermedad que conlleven una baja de 5 días, en los términos que se desarrollan en el presente\nDecreto."
+    }
+  },
+  {
+    "id": 18,
+    "question": "El derecho a la segunda opinión médica tiene como ﬁnalidad contrastar:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Un primer diagnóstico.",
+      "B": "Una propuesta terapéutica.",
+      "C": "Los datos de la Seguridad Social.",
+      "D": "a) y b) son correctas."
+    }
+  },
+  {
+    "id": 19,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, se garantiza el ejercicio del derecho a la segunda opinión\nmédica en los siguientes procesos:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Enfermedad neoplásica maligna.",
+      "B": "Enfermedades neurológicas degenerativas.",
+      "C": "Enfermedades cardiovasculares.",
+      "D": "T odas las respuestas anteriores son correctas."
+    }
+  },
+  {
+    "id": 20,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, podrán solicitar la segunda opinión médica:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Las personas usuarias residentes en España que tengan derecho a la asistencia sanitaria.",
+      "B": "Sólo las personas usuarias residentes en Madrid que tengan derecho a la asistencia sanitaria de cobertura pública.",
+      "C": "Las personas usuarias residentes en la Comunidad Autónoma de Euskadi que tengan derecho a la asistencia\nsanitaria de cobertura pública a cargo del Sistema Sanitario de Euskadi.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 21,
+    "question": "La segunda opinión médica será realizada por:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Administrativos de un centro integrado en la red pública de Osakidetza-Servicio vasco de salud, distinto a aquél en el que\nse le haya diagnosticado la enfermedad.",
+      "B": "Profesionales médicos de un centro integrado en la red pública de Osakidetza-Servicio vasco de salud,\ndistinto a aquél en el que se le haya diagnosticado la enfermedad.",
+      "C": "Profesionales médicos del centro integrado en la red pública de Osakidetza-Servicio vasco de salud, donde se le haya\ndiagnosticado la enfermedad.",
+      "D": "Auxiliares de enfermería de un centro integrado en la red pública de Osakidetza-Servicio vasco de salud, distinto a aquél\nen el que se le haya diagnosticado la enfermedad."
+    }
+  },
+  {
+    "id": 22,
+    "question": "Preferentemente, el centro en el que se realizará la evaluación que requiera el ejercicio del derecho a la\nsegunda opinión médica será aquel:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Dentro de la Comunidad Autónoma del País V asco, que se encuentre más próximo al domicilio de la\npersona que la solicita, de entre los que dispongan de la especialidad requerida.",
+      "B": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre a más de 20 kilómetros de distancia al domicilio de\nla persona que la solicita, de entre los que dispongan de la especialidad requerida.",
+      "C": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre a más de 30 kilómetros de distancia al domicilio de\nla persona que la solicita, de entre los que dispongan de la especialidad requerida.",
+      "D": "Dentro de la Comunidad Autónoma del País Vasco, que se encuentre menos próximo al domicilio de la persona que la\nsolicita, de entre los que dispongan de la especialidad requerida."
+    }
+  },
+  {
+    "id": 23,
+    "question": "Cuando así sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, se\npodrá obtener una segunda opinión médica en centros concertados o centros sanitarios integrados en el sistema\nsanitario público de otra Comunidad Autónoma:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Previa autorización del Departamento de Sanidad.",
+      "B": "Sin previa autorización del Departamento de Sanidad si se solicita con 15 días de antelación.",
+      "C": "Sin previa autorización del Departamento de Sanidad si se solicita con 10 días de antelación.",
+      "D": "Sin previa autorización del Departamento de Sanidad si se solicita con 7 días de antelación."
+    }
+  },
+  {
+    "id": 24,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre la segunda opinión médica se fundamentará:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de destino, sin perjuicio de la\nposibilidad de realizar las pruebas complementarias que fueren necesarias para obtener un diagnóstico.",
+      "B": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de destino, no pudiendo realizar\nlas pruebas complementarias que fueren necesarias para obtener un diagnóstico.",
+      "C": "En los informes y pruebas diagnósticas y terapéuticas realizadas por el servicio médico de origen, sin\nperjuicio de la posibilidad de realizar las pruebas complementarias que fueren necesarias para obtener un\ndiagnóstico.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 25,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, por Osakidetza-Servicio vasco de salud se adoptarán las\nmedidas necesarias:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Para repetir las pruebas diagnósticas innecesarias y para garantizar la integración de la información de salud en su\ncorrespondiente historia clínica.",
+      "B": "Para evitar la repetición innecesaria de pruebas diagnósticas y para garantizar la integración de la información de salud en su correspondiente historia clínica.",
+      "C": "Para repetir las pruebas diagnósticas innecesarias y para garantizar la integración de la información de salud en cualquier\nhistoria clínica.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    }
+  },
+  {
+    "id": 26,
+    "question": "La solicitud de una segunda opinión médica podrá presentarse:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Por el paciente.",
+      "B": "Por los representantes legales del paciente.",
+      "C": "Por la persona expresamente autorizada por la persona interesada.",
+      "D": "T odas las respuestas anteriores son correctas."
+    }
+  },
+  {
+    "id": 27,
+    "question": "La solicitud de una segunda opinión médica podrá presentarse:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Sólo en el Ayuntamiento donde resides.",
+      "B": "En cualquier unidad del Servicio de Atención al Paciente-Usuario de la red de centros sanitarios de\nOsakidetza-Servicio vasco de salud.",
+      "C": "Sólo en la unidad del Servicio de Atención al Paciente-Usuario de la red de centros sanitarios de Osakidetza-Servicio vasco\nde salud próximo a donde resides.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 28,
+    "question": "La solicitud, que contendrá una exposición de las circunstancias que dan lugar a la petición de una segunda\nopinión médica, será tramitada:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "En el centro asistencial que haya atendido en primera instancia al paciente.",
+      "B": "En cualquier centro asistencial.",
+      "C": "En el Ayuntamiento donde reside.",
+      "D": "En el centro asistencial próximo a donde reside."
+    }
+  },
+  {
+    "id": 29,
+    "question": "En el centro sanitario de origen, el Servicio de Atención al Paciente-Usuario informará de la solicitud de\nuna segunda opinión médica:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Al Auxiliar administrativo.",
+      "B": "Al enfermero.",
+      "C": "A la Dirección Médica.",
+      "D": "Al anestesista."
+    }
+  },
+  {
+    "id": 30,
+    "question": "El Servicio de Atención al Paciente-Usuario, si hubiere derecho a ello, concertará la fecha, hora y servicio\nmédico que atenderá la petición de segunda opinión desde que tuviere entrada la solicitud en el registro\ncorrespondiente, en el plazo de:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "12 días hábiles.",
+      "B": "10 días hábiles.",
+      "C": "15 días hábiles.",
+      "D": "18 días hábiles."
+    }
+  },
+  {
+    "id": 31,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, en el caso de que no se considere adecuada una segunda\nopinión médica, conforme los criterios que establece el presente Decreto:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con\narreglo a criterios clínicos.",
+      "B": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios\nsubjetivos.",
+      "C": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios\nadministrativos.",
+      "D": "Se emitirá por la Dirección Médica un informe razonado en el que se valore la solicitud del paciente con arreglo a criterios\nsegún la edad."
+    }
+  },
+  {
+    "id": 32,
+    "question": "Según el Decreto 149/2007, de 18 de septiembre, transcurrido el plazo establecido sin recibir comunicación\nde la petición de una segunda opinión médica, el paciente o quien actúe en su representación o interés lo\npondrá en conocimiento del órgano competente del Departamento de Sanidad, quien lo resolverá desde que\ntuviere entrada esta comunicación en un plazo no superior a:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "5 días.",
+      "B": "1 día.",
+      "C": "3 días.",
+      "D": "7 días."
+    }
+  },
+  {
+    "id": 33,
+    "question": "Una vez obtenida la segunda opinión médica si el segundo diagnóstico es conﬁrmatorio del primero, la\natención sanitaria se llevará a cabo:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "En el centro sanitario donde se emitió la segunda opinión médica.",
+      "B": "En cualquier centro sanitario.",
+      "C": "En el centro sanitario de origen.",
+      "D": "Todas las anteriores respuestas son correctas."
+    }
+  },
+  {
+    "id": 34,
+    "question": "Una vez obtenida la segunda opinión médica si el segundo diagnóstico no es conﬁrmatorio del primero, la\natención sanitaria se llevará a cabo:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "En el centro sanitario donde se emitió la segunda opinión médica.",
+      "B": "En cualquier centro sanitario.",
+      "C": "En el centro sanitario de origen.",
+      "D": "Todas las anteriores respuestas son correctas."
+    }
+  },
+  {
+    "id": 35,
+    "question": "La obtención de una segunda opinión médica:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Dará derecho a permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención quirúrgica.",
+      "B": "No dará derecho a permanecer simultáneamente, por el mismo proceso, en dos listas de espera para\nintervención quirúrgica.",
+      "C": "Decidirá el paciente si permanecer simultáneamente, por el mismo proceso, en dos listas de espera para intervención\nquirúrgica.",
+      "D": "Decidirá el Auxiliar administrativo si permanecer simultáneamente, por el mismo proceso, en dos listas de espera para\nintervención quirúrgica."
+    }
+  },
+  {
+    "id": 36,
+    "question": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales tiene por objeto:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Promover la seguridad de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias\npara la prevención de riesgos derivados del trabajo.",
+      "B": "Promover la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para\nla prevención de riesgos derivados del trabajo.",
+      "C": "a) y b) son correctas.",
+      "D": "Promover la seguridad y salud de los pacientes mediante la aplicación de medidas y el desarrollo de las actividades\nnecesarias para la prevención de riesgos derivados del trabajo."
+    }
+  },
+  {
+    "id": 37,
+    "question": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales, NO será de aplicación por\nsus particularidades en el ámbito de las funciones públicas las actividades:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Policía.",
+      "B": "Seguridad.",
+      "C": "Fuerzas Armadas.",
+      "D": "T odas las respuestas anteriores son correctas."
+    }
+  },
+  {
+    "id": 38,
+    "question": "Se entenderá por \"prevención\":",
+    "correctAnswer": "A",
+    "options": {
+      "A": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa\ncon el ﬁn de evitar o disminuir los riesgos derivados del trabajo.",
+      "B": "El conjunto de actividades o medidas adoptadas o previstas en algunas fases de actividad de la empresa con el ﬁn de\naumentar los riesgos derivados del trabajo.",
+      "C": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el ﬁn de\naumentar los riesgos derivados del trabajo.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    }
+  },
+  {
+    "id": 39,
+    "question": "Se entenderá como \"riesgo laboral\":",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Cuando un trabajador sufre un determinado daño no derivado del trabajo.",
+      "B": "La posibilidad de que un trabajador sufra un determinado daño no derivado del trabajo.",
+      "C": "La posibilidad de que un trabajador sufra un determinado dańo derivado del trabajo.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 40,
+    "question": "Se considerarán como \"dańos derivados del trabajo\":",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Las enfermedades sufridas con motivo u ocasión del trabajo.",
+      "B": "Las patologías sufridas con motivo u ocasión del trabajo.",
+      "C": "Las lesiones sufridas con motivo u ocasión del trabajo.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 41,
+    "question": "Se entenderá como \"riesgo laboral grave e inminente\":",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato.",
+      "B": "Aquel que pueda suponer un daño grave para la salud de los trabajadores.",
+      "C": "a) y b) son correctas.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 42,
+    "question": "Se considerarán como procesos, actividades, operaciones, equipos o productos \"potencialmente peligrosos\":",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Aquellos que, en ausencia de medidas preventivas especíﬁcas, originen riesgos para la seguridad y la salud\nde los trabajadores que los desarrollan o utilizan.",
+      "B": "Aquellos que, en ausencia de medidas preventivas especíﬁcas, no originen riesgos para la seguridad, pero sí para la salud\nde los trabajadores que los desarrollan o utilizan.",
+      "C": "Aquellos que, en ausencia de medidas preventivas especíﬁcas, originen riesgos para la seguridad, pero no para la salud de\nlos trabajadores que los desarrollan o utilizan.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 43,
+    "question": "Se entenderá como \"equipo de trabajo\":",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Cualquier máquina no utilizada en el trabajo.",
+      "B": "Cualquier aparato no utilizado en el trabajo.",
+      "C": "Cualquier instrumento utilizado en el trabajo.",
+      "D": "Cualquier instalación no utilizada en el trabajo."
+    }
+  },
+  {
+    "id": 44,
+    "question": "Se entenderá como \"condición de trabajo\":",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Las características generales de los locales, instalaciones, equipos, productos y demás útiles existentes en el centro de\ntrabajo.",
+      "B": "La naturaleza de los agentes físicos, químicos y biológicos presentes en el ambiente de trabajo y sus correspondientes\nintensidades, concentraciones o niveles de presencia.",
+      "C": "Las características relativas a la organización y ordenación del trabajo que inﬂuyan en la magnitud de los riesgos a que\nesté expuesto el trabajador.",
+      "D": "T odas las respuestas anteriores son correctas."
+    }
+  },
+  {
+    "id": 45,
+    "question": "Se entenderá por \"equipo de protección individual\":",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Cualquier equipo destinado a tenerlo guardado en el armario para que no se estropee.",
+      "B": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios\nriesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o\naccesorio destinado a tal ﬁn.",
+      "C": "Cualquier equipo no destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que\npuedan amenazar su seguridad o su salud en el trabajo.",
+      "D": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para conjuntarlo con la ropa que lleva puesta."
+    }
+  },
+  {
+    "id": 46,
+    "question": "La política en materia de prevención tendrá por objeto:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "La promoción de la mejora de las condiciones de trabajo dirigida a elevar el nivel de protección de la\nseguridad y salud de los trabajadores en el trabajo.",
+      "B": "La promoción de la mejora de las condiciones de trabajo dirigida a elevar el salario de los trabajadores.",
+      "C": "La promoción de la mejora de las condiciones de ocio de los trabajadores.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    }
+  },
+  {
+    "id": 47,
+    "question": "La elaboración de la política preventiva se llevará a cabo con la participación de:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Los clientes.",
+      "B": "El alcalde del municipio.",
+      "C": "Los empresarios y trabajadores a través de sus organizaciones empresariales y sindicales más representativas.",
+      "D": "Los familiares."
+    }
+  },
+  {
+    "id": 48,
+    "question": "Las Administraciones públicas en materia preventiva promoverán:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "La mejora de la educación en los diferentes niveles de enseñanza.",
+      "B": "La adecuación de la formación de los recursos humanos necesarios para la prevención de riesgos laborales.",
+      "C": "La mejora de la educación en la oferta formativa correspondiente al sistema nacional de cualiﬁcaciones profesionales.",
+      "D": "T odas las respuestas anteriores son correctas."
+    }
+  },
+  {
+    "id": 49,
+    "question": "La política en materia de prevención de riesgos laborales deberá promover:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "La integración eﬁcaz de la prevención de riesgos laborales en el sistema informático.",
+      "B": "La integración eﬁcaz de la prevención de riesgos laborales en el sistema de gestión de la empresa.",
+      "C": "La integración eﬁcaz de la prevención de riesgos laborales en la IA.",
+      "D": "La integración eﬁcaz de la prevención de riesgos laborales con los pacientes."
+    }
+  },
+  {
+    "id": 50,
+    "question": "El Gobierno, a través de las correspondientes normas reglamentarias y previa consulta a las organizaciones\nsindicales y empresariales más representativas, regulará:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Requisitos mínimos que deben reunir las condiciones de trabajo para la protección de la seguridad y salud de los trabajadores.",
+      "B": "Limitaciones o prohibiciones que afectarán a las operaciones, los procesos y las exposiciones laborales a agentes que\nentrañen riesgos para la seguridad y la salud de los trabajadores.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    }
+  },
+  {
+    "id": 51,
+    "question": "Las Administraciones públicas competentes en materia laboral:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Promoverán la prevención y asesoramiento a desarrollar por los órganos técnicos en materia preventiva.",
+      "B": "Velarán por el cumplimiento de la normativa sobre prevención de riesgos laborales mediante las actuaciones de vigilancia\ny control.",
+      "C": "Sancionarán el incumplimiento de la normativa de prevención de riesgos laborales por los sujetos comprendidos en el\námbito de aplicación de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 52,
+    "question": "El Instituto Nacional de Seguridad e Higiene en el T rabajo tiene como misión:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "El análisis y estudio de las condiciones de seguridad y salud en el trabajo, así como la promoción y apoyo\na la mejora de las mismas.",
+      "B": "El análisis y estudio de las condiciones de seguridad y salud durante las vacaciones, así como la promoción y apoyo a la\nmejora de las mismas.",
+      "C": "El análisis y estudio de las condiciones de seguridad y salud el ﬁn de semana, así como la promoción y apoyo a la mejora\nde las mismas.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    }
+  },
+  {
+    "id": 53,
+    "question": "El Instituto Nacional de Seguridad e Higiene en el T rabajo cumpliendo su misión, tendrá las siguientes\nfunciones:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Asesoramiento técnico en la elaboración de la normativa legal y en el desarrollo de la normalización, tanto a nivel nacional\ncomo internacional.",
+      "B": "Promoción y, en su caso, realización de actividades de formación, información, investigación, estudio y divulgación en\nmateria de prevención de riesgos laborales.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    }
+  },
+  {
+    "id": 54,
+    "question": "El Instituto Nacional de Seguridad e Higiene en el T rabajo, en el marco de sus funciones:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Velará por la coordinación entre las distintas Administraciones públicas.",
+      "B": "Apoyará el intercambio de información y las experiencias entre las distintas Administraciones públicas.",
+      "C": "Fomentará y prestará apoyo a la realización de actividades de promoción de la seguridad y de la salud por las Comunidades\nAutónomas.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 55,
+    "question": "En relación con las Instituciones de la Unión Europea, el Instituto Nacional de Seguridad e Higiene en el\nT rabajo:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "No actuará como centro de referencia nacional.",
+      "B": "Actuará como centro de referencia nacional, garantizando la coordinación y transmisión de la información\nque deberá facilitar a escala nacional, en particular respecto a la Agencia Europea para la Seguridad y la\nSalud en el Trabajo y su Red.",
+      "C": "Actuará como centro de referencia nacional, pero no coordinará ni transmitirá la información a escala nacional, en\nparticular respecto a la Agencia Europea para la Seguridad y la Salud en el Trabajo y su Red.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 56,
+    "question": "Corresponde a la Inspección de T rabajo y Seguridad Social:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "La función de la vigilancia y control de la normativa sobre prevención de riesgos laborales.",
+      "B": "La función de la formación de la normativa sobre prevención de riesgos laborales a los pacientes.",
+      "C": "La función de la información de la normativa sobre prevención de riesgos laborales a los pacientes.",
+      "D": "La función de la comunicación de la normativa sobre prevención de riesgos laborales a los pacientes."
+    }
+  },
+  {
+    "id": 57,
+    "question": "La Inspección de T rabajo y Seguridad Social NO tendrá entre sus funciones:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Asesorar e informar a las empresas y a los trabajadores sobre la manera más efectiva de cumplir las disposiciones cuya\nvigilancia tiene encomendada.",
+      "B": "Ordenar que continúen, pero más despacio con los trabajos cuando, a juicio del inspector, se advierta la\nexistencia de riesgo grave e inminente para la seguridad o salud de los trabajadores.",
+      "C": "Ordenar la paralización inmediata de trabajos cuando, a juicio del inspector, se advierta la existencia de riesgo grave e\ninminente para la seguridad o salud de los trabajadores.",
+      "D": "Elaborar los informes solicitados por los Juzgados de lo Social en las demandas deducidas ante los mismos en los procedimientos de accidentes de trabajo y enfermedades profesionales."
+    }
+  },
+  {
+    "id": 58,
+    "question": "Corresponderá a las Administraciones públicas competentes en materia sanitaria referente a la salud\nlaboral:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "El establecimiento de medios adecuados para la evaluación y control de las actuaciones de carácter sanitario que se realicen\nen las empresas por los servicios de prevención actuantes.",
+      "B": "Establecer las pautas y protocolos de actuación, oídas las sociedades cientíﬁcas, a los que deberán someterse los citados\nservicios.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    }
+  },
+  {
+    "id": 59,
+    "question": "La Comisión Nacional de Seguridad y Salud en el T rabajo estará integrada por:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Dos representantes de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración\nGeneral del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y\nsindicales más representativas.",
+      "B": "Tres representantes de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración\nGeneral del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y\nsindicales más representativas.",
+      "C": "Un representante de cada una de las Comunidades Autónomas y por igual número de miembros de la\nAdministración General del Estado y , paritariamente con todos los anteriores, por representantes de las\norganizaciones empresariales y sindicales más representativas.",
+      "D": "Cinco representantes de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración\nGeneral del Estado y, paritariamente con todos los anteriores, por representantes de las organizaciones empresariales y\nsindicales más representativas."
+    }
+  },
+  {
+    "id": 60,
+    "question": "La Comisión Nacional de Seguridad y Salud en el T rabajo adoptará sus acuerdos:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Por mayoría. A tal ﬁn, los representantes de las Administraciones públicas tendrán cada uno un voto y\ndos los de las organizaciones empresariales y sindicales.",
+      "B": "Por unanimidad. A tal ﬁn, los representantes de las Administraciones públicas tendrán cada uno un voto y dos los de las\norganizaciones empresariales y sindicales.",
+      "C": "Por mayoría. A tal ﬁn, los representantes de las Administraciones públicas tendrán cada uno cinco votos y tres los de las\norganizaciones empresariales y sindicales.",
+      "D": "Por mayoría. A tal ﬁn, los representantes de las Administraciones públicas tendrán cada uno diez votos y dos los de las\norganizaciones empresariales y sindicales."
+    }
+  },
+  {
+    "id": 61,
+    "question": "Desde el punto de vista legal accidente de trabajo es:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Cualquier suceso no esperado pero deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores.",
+      "B": "Cualquier suceso no esperado ni deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores.",
+      "C": "Cualquier suceso esperado y no deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores.",
+      "D": "Cualquier suceso esperado y deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores."
+    }
+  },
+  {
+    "id": 62,
+    "question": "Los accidentes de trabajo en función de las lesiones producidas al trabajador se clasiﬁcan en:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Accidente sin baja.",
+      "B": "Accidente con baja.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    }
+  },
+  {
+    "id": 63,
+    "question": "Indica cuál de las deﬁniciones NO es correcta:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Accidente de trabajo sin baja es cuando la lesión producida al trabajador no le imposibilita para el desempeño de su\ntrabajo habitual.",
+      "B": "Accidente de trabajo con baja es cuando provoca la incapacidad laboral del trabajador.",
+      "C": "Los accidentes in-itinere pueden ser con baja o sin baja.",
+      "D": "Accidente de trabajo sin baja es cuando la lesión producida al trabajador le imposibilita para el desempeńo\nde su trabajo habitual."
+    }
+  },
+  {
+    "id": 64,
+    "question": "Indica cuando NO se considera accidente in-itinere:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el medio de locomoción es el\nhabitual.",
+      "B": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el margen de tiempo está\ndentro de los límites normales.",
+      "C": "El accidente ocurre durante el traslado desde el domicilio al centro de trabajo o viceversa y el itinerario se considera como\nnormal.",
+      "D": "El accidente ocurre durante las vacaciones y el medio de locomoción es el habitual."
+    }
+  },
+  {
+    "id": 65,
+    "question": "Si a un trabajador le ha ocurrido un accidente, un incidente o una agresión o es testigo de alguno de ellos:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Informe inmediatamente a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la\nUnidad Básica de Prevención.",
+      "B": "Informe a los dos días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de\nPrevención.",
+      "C": "Informe a los siete días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica de\nPrevención.",
+      "D": "Informe a los quince días a su responsable inmediato y en su caso de no poder hacerlo, comuníquelo a la Unidad Básica\nde Prevención."
+    }
+  },
+  {
+    "id": 66,
+    "question": "El parte interno de notiﬁcación de accidente/incidente:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Es el registro no necesario para declarar un accidente de trabajo, un incidente o una agresión, y que sea reconocido\nlegalmente.",
+      "B": "Es el registro necesario para declarar un accidente de trabajo, un incidente o una agresión, y que sea\nreconocido legalmente.",
+      "C": "Es el registro necesario para declarar un accidente de trabajo, un incidente o una agresión, y que no sea reconocido\nlegalmente.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    }
+  },
+  {
+    "id": 67,
+    "question": "Ante una agresión, la actuación inmediata del trabajador será:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Comunicar la agresión en el menor plazo de tiempo posible a su responsable inmediato.",
+      "B": "Si requiere asistencia médica, acudir a la Unidad Básica de Prevención correspondiente.",
+      "C": "Cumplimentar el Registro para la Notiﬁcación de Accidente / Incidente / Agresiones \"Formato I\" ﬁrmado por el responsable\ninmediato, la persona accidentada y los testigos, si los hubiera y enviarlo a la Unidad que le ha prestado la asistencia.\nElaborar junto con el responsable inmediato, un informe lo más exhaustivo posible.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 68,
+    "question": "T endrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan\nfunciones que:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "T engan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo.",
+      "B": "NO tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo.",
+      "C": "Tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter potestativo.",
+      "D": "NO tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter potestativo."
+    }
+  },
+  {
+    "id": 69,
+    "question": "La Ley 40/2015, en relación a los órganos de las Administraciones Públicas, establece que la competencia\nes:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Revocable.",
+      "B": "Irrenunciable.",
+      "C": "Eludible.",
+      "D": "Rehusable."
+    }
+  },
+  {
+    "id": 70,
+    "question": "Si alguna disposición atribuye la competencia a una Administración, sin especiﬁcar el órgano que debe\nejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "A los órganos superiores competentes por razón de la materia y del territorio.",
+      "B": "A los órganos inferiores competentes por razón de la materia y del territorio.",
+      "C": "A los órganos centralizados competentes por razón de la materia y del territorio.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 71,
+    "question": "Contra un acuerdo de avocación:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Cabrá rectiﬁcación de errores.",
+      "B": "NO cabrá rectiﬁcación de errores.",
+      "C": "Cabrá recurso.",
+      "D": "NO cabrá recurso."
+    }
+  },
+  {
+    "id": 72,
+    "question": "La encomienda de gestión supone:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "El traspaso de la titularidad.",
+      "B": "Renunciar a la titularidad.",
+      "C": "Ceder la titularidad.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 73,
+    "question": "En cuanto a la delegación de ﬁrma:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Altera la competencia del órgano delegante.",
+      "B": "Es necesaria la validez para su publicación.",
+      "C": "En las resoluciones y actos que se ﬁrmen por delegación se hará constar la delegación de ﬁrma.",
+      "D": "Los actos ﬁrmados por delegación NO requieren que se haga constar la autoridad de procedencia."
+    }
+  },
+  {
+    "id": 74,
+    "question": "En las resoluciones y actos que se dicten mediante suplencia:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Se hará constar la circunstancia de la suplencia.",
+      "B": "Se especiﬁcará el titular del órgano cuya suplencia se adoptan.",
+      "C": "Se indicará quién está ejerciendo efectivamente esa suplencia.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 75,
+    "question": "Los órganos colegiados tendrán:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Un Secretario que podrá ser un miembro del propio órgano o una persona al servicio de la Administración\nPública correspondiente.",
+      "B": "Un Secretario que podrá ser un miembro del propio órgano y dos personas al servicio de la Administración Pública\ncorrespondiente.",
+      "C": "Un Secretario que podrá ser un miembro del propio órgano o tres personas al servicio de la Administración Pública\ncorrespondiente.",
+      "D": "Un Secretario que podrá ser un miembro del propio órgano y cuatro personas al servicio de la Administración Pública\ncorrespondiente."
+    }
+  },
+  {
+    "id": 76,
+    "question": "En las sesiones que celebren los órganos colegiados a distancia, se consideran medios electrónicos:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Los medios telefónicos.",
+      "B": "Las audioconferencias.",
+      "C": "El correo electrónico.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 77,
+    "question": "Respecto a las sesiones que celebre el órgano colegiado:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "En las actas NO hay que poner el orden del día.",
+      "B": "Podrán grabarse las sesiones.",
+      "C": "El acta de cada sesión NO se puede aprobar en la misma sesión o la inmediata.",
+      "D": "El Secretario remitirá por correo postal a los miembros del órgano colegiado el acta."
+    }
+  },
+  {
+    "id": 78,
+    "question": "Corresponde al Presidente de los órganos colegiados de la Administración General del Estado:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Velar por la legalidad formal y material de las actuaciones del órgano.",
+      "B": "Garantizar que la adopción de acuerdos es respetada.",
+      "C": "Ostentar la representación del órgano.",
+      "D": "Certiﬁcar las actuaciones del órgano."
+    }
+  },
+  {
+    "id": 79,
+    "question": "Corresponde a los miembros de los órganos colegiados de la Administración General del Estado:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Asegurar el cumplimiento de leyes.",
+      "B": "Participar en los debates de las sesiones.",
+      "C": "Moderar el desarrollo de los debates.",
+      "D": "Acordar la convocatoria de las sesiones."
+    }
+  },
+  {
+    "id": 80,
+    "question": "A la dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya\ntitularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades\nde Derecho Público en el ejercicio de sus competencias, se le denomina:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Certiﬁcado de BaKQ.",
+      "B": "Portal de Internet.",
+      "C": "Sede electrónica.",
+      "D": "Izenpe."
+    }
+  },
+  {
+    "id": 81,
+    "question": "Cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de: responsabilidad, calidad, seguridad, disponibilidad, accesibilidad,\nneutralidad e interoperabilidad:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Transparencia y publicidad.",
+      "B": "Responsabilidad y calidad.",
+      "C": "Seguridad y accesibilidad.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 82,
+    "question": "Las Administraciones Públicas podrán identiﬁcarse mediante el uso de:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Sellos electrónicos.",
+      "B": "Códigos de veriﬁcación.",
+      "C": "Claves de internet.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 83,
+    "question": "Cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración\nPública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un\nempleado público, se denomina:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Intercambio digital autónomo.",
+      "B": "Actuación administrativa automatizada.",
+      "C": "Gestión documental sistematizada.",
+      "D": "Procedimiento administrativo electrónico."
+    }
+  },
+  {
+    "id": 84,
+    "question": "Tiene por objeto determinar las normas aplicables al personal laboral al servicio de las Administraciones\nPúblicas:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Ley 40/2015.",
+      "B": "Real Decreto Legislativo 5/2015.",
+      "C": "Decreto 106/2008.",
+      "D": "Ley 31/1995."
+    }
+  },
+  {
+    "id": 85,
+    "question": "Entre los fundamentos de acción del Estatuto Básico del Empleado Público se encuentra:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Innovación y mejora continua de los servicios.",
+      "B": "Ética profesional y buenas prácticas de los empleados públicos.",
+      "C": "Transparencia.",
+      "D": "Sostenibilidad ambiental y reducción del impacto en los servicios públicos."
+    }
+  },
+  {
+    "id": 86,
+    "question": "Indica el personal que se rige por la legislación estatal que resulte de aplicación, de la que forma parte el\nEstatuto Básico del Empleado Público, y por la legislación de las comunidades autónomas, con respecto a la\nautonomía local:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "El personal funcionario de la Sociedad Estatal Correos y Telégrafos.",
+      "B": "Personal retribuido por arancel.",
+      "C": "Personal del Centro Nacional de Inteligencia.",
+      "D": "El personal funcionario de las Entidades Locales."
+    }
+  },
+  {
+    "id": 87,
+    "question": "Personal al que se aplicarán directamente las disposiciones del Estatuto Básico del Empleado Público\ncuando así lo disponga su legislación especíﬁca:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "El personal funcionario de las Entidades Locales.",
+      "B": "Los Cuerpos de Policía Local.",
+      "C": "Personal de F uerzas y Cuerpos de Seguridad.",
+      "D": "El personal funcionario de la Sociedad Estatal Correos y Telégrafos."
+    }
+  },
+  {
+    "id": 88,
+    "question": "En la aplicación del Estatuto Básico del Empleado Público al personal de investigación:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Se regirán por la legislación especíﬁca dictada por el Estado.",
+      "B": "Dispondrá de legislación especíﬁca propia.",
+      "C": "Se regirán por la legislación de las comunidades autónomas.",
+      "D": "Se podrán dictar normas singulares para adecuarlo a sus peculiaridades."
+    }
+  },
+  {
+    "id": 89,
+    "question": "En el desarrollo del Estatuto Básico del Empleado Público, las leyes reguladoras de la F unción Pública de\nla Administración General del Estado serán aprobadas por:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "El Senado y las Direcciones Generales.",
+      "B": "Las Cortes Generales y las asambleas legislativas.",
+      "C": "El Consejo de Gobierno.",
+      "D": "Presidente del Gobierno y el Consejo de Ministros."
+    }
+  },
+  {
+    "id": 90,
+    "question": "El personal laboral al servicio de las Administraciones Públicas, en materia de nacimiento, adopción, del\nprogenitor diferente de la madre biológica, de lactancia y parental, se regirá por:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Lo previsto en el Estatuto Básico del Empleado Público.",
+      "B": "La legislación laboral.",
+      "C": "La legislación especíﬁca propia.",
+      "D": "Normas singulares."
+    }
+  },
+  {
+    "id": 91,
+    "question": "El Estatuto Básico del Empleado Público clasiﬁca los empleados públicos del siguiente modo:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Personal eventual, personal laboral (ﬁjo, por tiempo indeﬁnido o temporal), funcionarios de carrera y\nfuncionarios interinos.",
+      "B": "Funcionarios ﬁjos transferidos, personal laboral indeﬁnido y personal laboral temporal.",
+      "C": "Personal laboral indeﬁnido, funcionarios transferidos y funcionario de Servicio.",
+      "D": "Funcionarios de carrera y personal laboral ﬁjo, por tiempo indeﬁnido o temporal."
+    }
+  },
+  {
+    "id": 92,
+    "question": "Al empleado público que, en virtud de nombramiento legal, está vinculado a una Administración Pública por\nuna relación estatutaria regulada por el Derecho Administrativo para el desempeńo de servicios profesionales\nretribuidos de carácter permanente, se le denomina:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Funcionario interino.",
+      "B": "F uncionario de carrera.",
+      "C": "Personal de servicios especiales.",
+      "D": "Personal de obra y servicio."
+    }
+  },
+  {
+    "id": 93,
+    "question": "Entre los principios por los que se rigen los procedimientos de selección del personal funcionario interino\nestá el principio de:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Competencia.",
+      "B": "Transparencia.",
+      "C": "Urgencia.",
+      "D": "Mérito."
+    }
+  },
+  {
+    "id": 94,
+    "question": "Causa por la que la Administración formaliza de oﬁcio la ﬁnalización de la relación de la interinidad:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Razones organizativas que dan lugar a la supresión o la amortización de los puestos asignados.",
+      "B": "La plaza sigue vacante y no hay proceso selectivo.",
+      "C": "Cesión motivada por insatisfacción con el rendimiento del profesional.",
+      "D": "Estar a menos de un mes del plazo autorizado expresamente recogido en el nombramiento."
+    }
+  },
+  {
+    "id": 95,
+    "question": "El funcionario interino es nombrado como tal con carácter temporal para el desempeńo de funciones propias\nde funcionarios de carrera cuando se da esta circunstancia:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "La existencia de plazas vacantes que se adaptan a su perﬁl, aunque sea posible su cobertura con funcionarios de carrera.",
+      "B": "La ejecución de programas de carácter temporal que no podrán tener una duración superior a dos años.",
+      "C": "El exceso o acumulación de tareas por un plazo máximo de nueve meses, dentro de un periodo de dieciocho\nmeses.",
+      "D": "La necesidad de reforzar los equipos de trabajo con nuevos perﬁles profesionales."
+    }
+  },
+  {
+    "id": 96,
+    "question": "Al empleado público que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las\nmodalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las\nAdministraciones Públicas, se le denomina:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Funcionario de carrera.",
+      "B": "Personal laboral.",
+      "C": "Funcionado interino.",
+      "D": "Personal eventual."
+    }
+  },
+  {
+    "id": 97,
+    "question": "Al empleado público que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones\nexpresamente caliﬁcadas como de conﬁanza o asesoramiento especial, siendo retribuido con cargo a los créditos\npresupuestarios consignados para este ﬁn, se le denomina:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Personal eventual.",
+      "B": "Personal laboral.",
+      "C": "Personal directivo profesional.",
+      "D": "Personal de carrera."
+    }
+  },
+  {
+    "id": 98,
+    "question": "En relación al personal eventual:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Su nombramiento y cese serán libres.",
+      "B": "La condición de personal eventual podrá constituir mérito para el acceso a la Función Pública.",
+      "C": "Le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios interinos.",
+      "D": "a) y b) son correctas."
+    }
+  },
+  {
+    "id": 99,
+    "question": "Al empleado público que desarrolla funciones directivas profesionales en las Administraciones Públicas,\ndeﬁnidas como tales en las normas especíﬁcas de cada Administración, se le denomina:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Personal eventual.",
+      "B": "Personal laboral.",
+      "C": "Personal ejecutivo.",
+      "D": "Personal directivo."
+    }
+  },
+  {
+    "id": 100,
+    "question": "La designación del personal directivo atenderá a principios de:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Igualdad y celeridad.",
+      "B": "Idoneidad y urgencia.",
+      "C": "Mérito y capacidad.",
+      "D": "Eﬁcacia y eﬁciencia."
+    }
+  },
+  {
+    "id": 101,
+    "question": "La Comisión Corporativa de T raslados por Motivos de Salud de Osakidetza tiene como función:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Evaluar los riesgos de puestos de trabajo y las peticiones de traslado por motivos de salud.",
+      "B": "Investigación y mejora de las condiciones de trabajo como acción preventiva en materia de traslados por motivos de salud.",
+      "C": "Análisis de las solicitudes de adaptación de puestos de trabajo por motivos de salud que no puedan ser\nresueltas dentro de cada organización de servicios.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 102,
+    "question": "Según el Decreto 106/2008 es uno de los requisitos que el personal sin relación de empleo ﬁjo en la\nadministración debe reunir, además de los requisitos generales que establezcan las convocatorias:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Haber prestado dos años de servicios en Osakidetza en la misma categoría desde la que se solicita el desarrollo profesional.",
+      "B": "Haber tomado parte en el último proceso de Oferta Pública de Empleo convocado, con realización efectiva\ndel examen de la categoría desde la que opte.",
+      "C": "Haber prestado servicios en cualquiera de las Administraciones Públicas o en instituciones sanitarias de titularidad privada.",
+      "D": "Haber formado parte de las listas de contratación temporal de Osakidetza por un periodo mínimo de seis meses."
+    }
+  },
+  {
+    "id": 103,
+    "question": "En relación a la consideración de servicios prestados a efectos de desarrollo profesional:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Al personal sin relación de empleo ﬁjo se le computarán los servicios prestados en otras administraciones a razón de un\n30%.",
+      "B": "Al personal ﬁjo se le computarán los servicios prestados en otras administraciones, en diferentes grupos profesionales, a\nrazón de un 20%.",
+      "C": "Al personal ﬁjo se le computarán los servicios prestados en otras administraciones, en el mismo grupo\nprofesional, a razón de un 50%.",
+      "D": "Al personal que ha accedido a promoción interna se le computarán los servicios prestados en otras administraciones, a\nrazón de un 40%."
+    }
+  },
+  {
+    "id": 104,
+    "question": "La Comisión paritaria de seguimiento del desarrollo profesional tiene como función:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Establecer y actualizar los criterios para la promoción interna del personal de Osakidetza.",
+      "B": "Determinar las fechas para las convocatorias correspondientes al periodo transitorio.",
+      "C": "Informar a las Centrales Sindicales de los criterios de baremación establecidos para las convocatorias.",
+      "D": "Recibir información sobre el desarrollo de los procedimientos de evaluación y de reconocimiento de grado."
+    }
+  },
+  {
+    "id": 105,
+    "question": "El Decreto 106/2008, de 3 de junio, en relación a la licencia por gestación recoge que todo el personal\nfemenino (no sólo el sanitario):",
+    "correctAnswer": "D",
+    "options": {
+      "A": "NO podrá realizar guardias durante los cuatro meses anteriores y posteriores.",
+      "B": "Tendrá la opción de realizar guardias durante los dos meses anteriores y posteriores.",
+      "C": "NO podrá realizar noches, pero sí podrá realizar guardias en los tres meses anteriores y posteriores.",
+      "D": "T endrá la opción de no realizar guardias y noches durante los tres meses anteriores y posteriores."
+    }
+  },
+  {
+    "id": 106,
+    "question": "En el compromiso de crecimiento de plantilla estructural para el período 2007-2009 contemplado en el\nDecreto 106/2008, el mayor incremento de plazas correspondía al grupo profesional de:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Médicos EAP y Pediatras.",
+      "B": "DUE’s Atención Primaria.",
+      "C": "Matronas.",
+      "D": "Auxiliares de Enfermería."
+    }
+  },
+  {
+    "id": 107,
+    "question": "En relación a la Euskaldunización, el Decreto 106/2008 establece la realización de:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Una convocatoria anual de acreditación de perﬁles lingüísticos.",
+      "B": "Dos convocatorias anuales de acreditación de perﬁles lingüísticos.",
+      "C": "Tres convocatorias anuales de acreditación de perﬁles lingüísticos.",
+      "D": "Cuatro convocatorias anuales de acreditación de perﬁles lingüísticos."
+    }
+  },
+  {
+    "id": 108,
+    "question": "El Decreto 106/2008, en relación a las externalizaciones de servicios determina que:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "En sucesivas adjudicaciones de un mismo servicio las nuevas empresas adjudicatarias decidirán si subrogan a los/as\ntrabajadores/as.",
+      "B": "Las subcontrataciones o externalizaciones de servicios deberán hacerse con empresas adjudicatarias de la Comunidad\nAutónoma.",
+      "C": "Las empresas adjudicatarias de los servicios subcontratados podrán subcontratar a su vez los servicios a terceros.",
+      "D": "Se primará a las empresas con mayor porcentaje de plantilla estable."
+    }
+  },
+  {
+    "id": 109,
+    "question": "Entre los aspectos adicionales al Acuerdo 2007-2009 recogidos en el Decreto 106/2008 se incluye la\naprobación en el plazo de seis meses de:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Un protocolo ante riesgos biológicos.",
+      "B": "Un protocolo de seguridad del paciente y de buenas prácticas.",
+      "C": "Un protocolo de coordinación sociosanitaria.",
+      "D": "Un protocolo ante situaciones de discriminación por razón de sexo."
+    }
+  },
+  {
+    "id": 110,
+    "question": "En el Decreto 235/2007 quedan expresamente excluidos del ámbito personal de aplicación del Acuerdo\nregulador de las condiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los ańos 2007,\n2008 y 2009:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "El personal estatutario ﬁjo.",
+      "B": "El personal sanitario local APD.",
+      "C": "El personal funcionario de carrera.",
+      "D": "El personal con relación de empleo funcionarial de carácter interino."
+    }
+  },
+  {
+    "id": 111,
+    "question": "El abono de cantidades a cargo de retribuciones correspondientes a un trabajo no efectuado se considera:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Adelanto de nómina.",
+      "B": "Anticipo.",
+      "C": "Préstamo.",
+      "D": "Retribución extrasalarial."
+    }
+  },
+  {
+    "id": 112,
+    "question": "Conforme a la jornada anual aprobada mediante Acuerdo de la Mesa General de negociación de la\nAdministración de la Comunidad Autónoma de Euskadi, en el ámbito de Osakidetza para todos los tipos de\njornada, excepto la nocturna, las horas de trabajo efectivo anuales a realizar en concepto de jornada ordinaria\nserán:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Mil trescientas cuarenta y ocho.",
+      "B": "Mil cuatrocientas cincuenta y seis.",
+      "C": "Mil quinientas noventa y dos.",
+      "D": "Mil seiscientas veinticuatro."
+    }
+  },
+  {
+    "id": 113,
+    "question": "El personal incluido en el ámbito del Acuerdo regulador de las condiciones de trabajo del personal de\nOsakidetza-Servicio vasco de salud, para los ańos 2007, 2008 y 2009, deberá solicitar las licencias mediante\nescrito dirigido a:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "La Dirección de Recursos Humanos de la Organización de servicios correspondiente.",
+      "B": "La Dirección de la Organización de servicios correspondiente.",
+      "C": "A la persona responsable de la Unidad solicitante.",
+      "D": "La Dirección-Gerencia de la Organización de servicios."
+    }
+  },
+  {
+    "id": 114,
+    "question": "Según el Decreto 235/2007 es un motivo para la concesión de permisos:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Lactancia.",
+      "B": "Traslado o mudanza del domicilio habitual.",
+      "C": "Violencia de género.",
+      "D": "Ejercicio de funciones de representación sindical."
+    }
+  },
+  {
+    "id": 115,
+    "question": "En relación a las licencias para el personal contempladas en el Decreto 235/2007:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "En los supuestos de adopción o acogimiento, la licencia tendrá una duración de veintidós semanas.",
+      "B": "Por razón de matrimonio propio, el personal tendrá derecho a una licencia de 20 días naturales de duración.",
+      "C": "Las trabajadoras embarazadas tendrán derecho a una licencia por el tiempo necesario para concurrir a exámenes prenatales\nsin derecho a remuneración.",
+      "D": "Durante el disfrute de la licencia por lactancia no se podrá participar en los cursos de formación que convoque Osakidetza."
+    }
+  },
+  {
+    "id": 116,
+    "question": "La licencia por enfermedad grave, hospitalización o fallecimiento de parientes, en el caso de tratarse del\ncónyuge, compańero/a o hijo/a contiene el siguiente periodo de duración:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Dos días hábiles. Dos días hábiles más si los hechos que lo motivan se producen a más de 110 kms. del lugar de residencia\ndel solicitante.",
+      "B": "Cuatro días naturales. Dos días hábiles más si los hechos que lo motivan se producen a más de 130 kms. del lugar de\nresidencia del solicitante.",
+      "C": "T res días hábiles. Dos días hábiles más si los hechos que lo motivan se producen a más de 120 kms. del\nlugar de residencia del solicitante.",
+      "D": "Cinco días naturales. Dos días hábiles más si los hechos que lo motivan se producen a más de 150 kms. del lugar de\nresidencia del solicitante."
+    }
+  },
+  {
+    "id": 117,
+    "question": "Es una situación administrativa en la que puede hallarse el personal sujeto al Acuerdo regulador de las\ncondiciones de trabajo del personal de Osakidetza-Servicio vasco de salud, para los ańos 2007, 2008 y 2009:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Libre designación en Osakidetza.",
+      "B": "Expectativa de destino.",
+      "C": "Excedencia por servicios en el sector público.",
+      "D": "a) b) y c) son correctas."
+    }
+  },
+  {
+    "id": 118,
+    "question": "Osakidetza-Servicio V asco de Salud, tiene por ﬁnalidad:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Impulsar y coordinar la organización de servicios sanitarios en colaboración con otras entidades de carácter sanitario.",
+      "B": "La supervisión del cumplimiento de los criterios generales de contratación en instituciones sanitarias de titularidad pública.",
+      "C": "La provisión de servicios sanitarios a través de las organizaciones públicas de servicios sanitarios dependientes del mismo.",
+      "D": "Coordinar los recursos y proponer medidas de intervención sobre las listas de espera."
+    }
+  },
+  {
+    "id": 119,
+    "question": "\"Proporcionar a las personas que accedan sus servicios las condiciones necesarias para el pleno ejercicio\nde sus derechos y deberes de carácter instrumental o complementario, promoviendo especialmente la mejora\ncontinua de los niveles de información, la personalización en la atención y la calidad de la misma\" hace referencia\na:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Una de las facultades de la organización central de Osakidetza-Servicio Vasco de Salud.",
+      "B": "Un ﬁn de interés general que persigue Osakidetza-Servicio V asco de Salud.",
+      "C": "Una de las facultades de las organizaciones de servicios Osakidetza-Servicio Vasco de Salud.",
+      "D": "Una función del Consejero de Sanidad."
+    }
+  },
+  {
+    "id": 120,
+    "question": "Las revisiones de oﬁcio de los actos administrativos nulos o anulables, los recursos administrativos extraordinarios y las reclamaciones previas a las vías jurisdiccionales civil y laboral que no comprendan la exigencia\nde responsabilidad, serán conocidas por:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "La Presidencia o por el Director General de Osakidetza-Servicio Vasco de Salud.",
+      "B": "El Consejo de Administración o por los Directores-Gerentes de Osakidetza-Servicio Vasco de Salud.",
+      "C": "La Presidencia o por el Consejo de Administración de Osakidetza-Servicio V asco de Salud.",
+      "D": "El Director General o por los Directores-Gerentes de las organizaciones de Osakidetza-Servicio Vasco de Salud."
+    }
+  },
+  {
+    "id": 121,
+    "question": "La resolución de las reclamaciones de responsabilidad patrimonial que se formulen ante cualquiera de las\norganizaciones del Ente Público Osakidetza-Servicio V asco de Salud por el funcionamiento de sus servicios,\nincluidas las resoluciones a reclamaciones de responsabilidad que los interesados dirijan posteriormente a las\nvías jurisdiccionales civil o laboral, corresponderán a:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Directores-Gerentes del Ente Público.",
+      "B": "Consejo de Administración del Ente Público.",
+      "C": "Director General del Ente Público.",
+      "D": "Presidencia del Ente Público."
+    }
+  },
+  {
+    "id": 122,
+    "question": "Cuando no se encuentre determinada expresamente la forma de publicidad de los actos administrativos\nque se dicten en el Ente Público Osakidetza-Servicio vasco de salud, de carácter general serán objeto de\nnotiﬁcación a través:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Del Boletín Oﬁcial del País V asco.",
+      "B": "Del Boletín Oﬁcial del Estado.",
+      "C": "De los Tablones de Anuncios de las organizaciones el Ente Público.",
+      "D": "Del Portal de Internet del Ente Público."
+    }
+  },
+  {
+    "id": 123,
+    "question": "Es el órgano rector colegiado del Ente Público Osakidetza-Servicio V asco de Salud encargado principalmente de dirigir y controlar sus actuaciones:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Los Consejos Técnicos.",
+      "B": "La Presidencia.",
+      "C": "El Consejo de Administración.",
+      "D": "La Dirección Médica."
+    }
+  },
+  {
+    "id": 124,
+    "question": "Es una función de la Presidencia del Ente Público Osakidetza-Servicio V asco de Salud:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Aprobar la Memoria Anual de Actividades del Ente Público.",
+      "B": "Ejercer la representación del Ente Público y supervisar sus operaciones.",
+      "C": "Formular la liquidación de cuentas del Ente Público y de sus organizaciones.",
+      "D": "a) y c) son correctas."
+    }
+  },
+  {
+    "id": 125,
+    "question": "El Consejo de Administración del Ente Público Osakidetza-Servicio V asco de Salud, estará compuesto\npor:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Un Presidente y cinco miembros en representación de la Administración de la Comunidad Autónoma.",
+      "B": "Un Director General, un miembro del Departamento de Sanidad del Gobierno Vasco y un Director Médico.",
+      "C": "El Consejero de Sanidad y dos miembros de los Consejos Técnicos de participación profesional.",
+      "D": "El Consejero de Sanidad, un Presidente, dos Directores Generales y dos Directores Médicos."
+    }
+  },
+  {
+    "id": 126,
+    "question": "El Consejo de Administración del Ente Público Osakidetza-Servicio V asco de Salud, nombrará entre sus\nmiembros a un Secretario que:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Podrá no ser miembro del Consejo.",
+      "B": "Tendrá voto en los asuntos que se deliberen.",
+      "C": "Sustituirá al Vicepresidente en caso de enfermedad.",
+      "D": "Convocará las sesiones del Consejo de Administración."
+    }
+  },
+  {
+    "id": 127,
+    "question": "La Dirección General del Ente Público Osakidetza-Servicio V asco de Salud contará con el apoyo de un\nequipo directivo formado por:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Dos Directores de División.",
+      "B": "T res Directores de División.",
+      "C": "Cuatro Directores de División.",
+      "D": "Cinco Directores de División."
+    }
+  },
+  {
+    "id": 128,
+    "question": "El Plan Estratégico del Ente Público Osakidetza-Servicio V asco de Salud comprenderá, tanto para el\nconjunto institucional como para cada organización de servicios sanitarios en particular:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Los objetivos generales y especíﬁcos, la temporalización de las acciones a realizar, una descripción detallada de todas las\ninversiones a realizar, y el plan de seguimiento.",
+      "B": "Una descripción de la propuesta de objetivos temporales y de conductas y acciones para alcanzarlos y la\ndeterminación de las inversiones consideradas estratégicas.",
+      "C": "Un listado de objetivos con sus correspondientes acciones, una planiﬁcación de las inversiones estratégicas a realizar y la\nrelación de indicadores de evaluación del plan.",
+      "D": "Los objetivos estratégicos a largo plazo, descripción detallada del plan de acción para lograr los objetivos y un listado de\nrecursos materiales y personales necesarios."
+    }
+  },
+  {
+    "id": 129,
+    "question": "Según el Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente\nPúblico ńOsakidetza-Servicio V asco de Saludż, es materia especíﬁca de gestión de recursos humanos:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Promover medidas de intervención sobre las listas de espera.",
+      "B": "Gestionar los programas de formación del personal del Ente.",
+      "C": "Promover protocolos de interés general.",
+      "D": "Coordinar la ejecución del Plan de Normalización Lingüística."
+    }
+  },
+  {
+    "id": 130,
+    "question": "Según el Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente\nPúblico ńOsakidetza-Servicio V asco de Saludż, es materia especíﬁca de inversiones:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Autorizar las operaciones de endeudamiento en todo el Ente Público.",
+      "B": "Deﬁnir los criterios generales de contratación en el Ente Público.",
+      "C": "Informar del Presupuesto y del Plan de Gestión Anual del Ente Público.",
+      "D": "Autorizar la incorporación de nuevos dispositivos tecnológicos."
+    }
+  },
+  {
+    "id": 131,
+    "question": "Al frente de cada organización de servicios sanitarios del Ente Público Osakidetza-Servicio V asco de Salud\nse encontrará un:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Director-Médico.",
+      "B": "Director-Ejecutivo.",
+      "C": "Director-General.",
+      "D": "Director-Gerente."
+    }
+  },
+  {
+    "id": 132,
+    "question": "Con carácter ordinario, a la Dirección Médica le corresponde la siguiente atribución:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Promover y supervisar las actividades de docencia e investigación del personal Facultativo.",
+      "B": "Dirigir e impulsar la investigación, la docencia y formación en el seno de la organización.",
+      "C": "Proponer nuevas líneas de actuación en materia de investigación, docencia y formación.",
+      "D": "Investigar y coordinar la implantación de nuevas estrategias asistenciales y terapéuticas."
+    }
+  },
+  {
+    "id": 133,
+    "question": "Los Consejos Técnicos de las organizaciones de servicios del Ente Público Osakidetza-Servicio V asco de\nSalud son órganos de:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Asesoramiento y participación de los profesionales en la gestión de la organización.",
+      "B": "Representación de los profesionales en el Consejo de Administración del Ente Público.",
+      "C": "Consulta sobre ética profesional asistencial y buenas prácticas profesionales en sanidad.",
+      "D": "Coordinación y evaluación de actividades clínico-asistenciales y estrategias terapéuticas."
+    }
+  },
+  {
+    "id": 134,
+    "question": "En base al Decreto 255/1997 de 11 de noviembre, por el que se establecen los Estatutos Sociales del Ente\nPúblico ńOsakidetza-Servicio vasco de saludż, indica qué organización de servicios NO se corresponde con el\námbito territorial de la Comunidad Autónoma:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Centro Vasco de Transfusiones y Hemoderivados.",
+      "B": "Salud Mental Extrahospitalaria.",
+      "C": "Emergencias (Unidades Territoriales de Emergencias).",
+      "D": "OSA TEK-T ecnología Sanitaria de Euskadi, S.A."
+    }
+  },
+  {
+    "id": 135,
+    "question": "Según la Ley 39/2015, la Ley tiene por objeto:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Regular exclusivamente el procedimiento administrativo electrónico.",
+      "B": "Regular los requisitos de validez y eﬁcacia de los actos administrativos.",
+      "C": "Regular el procedimiento administrativo común de las Administraciones Públicas.",
+      "D": "Establecer el régimen jurídico del sector público."
+    }
+  },
+  {
+    "id": 136,
+    "question": "Según la Ley 39/2015, el ámbito subjetivo de aplicación comprende:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Únicamente a la Administración General del Estado.",
+      "B": "A las Administraciones Públicas deﬁnidas en el artículo 2 de la Ley 40/2015.",
+      "C": "A todas las entidades del sector público.",
+      "D": "A las Administraciones Públicas y a sus organismos autónomos."
+    }
+  },
+  {
+    "id": 137,
+    "question": "Según la Ley 39/2015, tienen capacidad de obrar ante las Administraciones Públicas:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Solo las personas físicas mayores de edad.",
+      "B": "Las personas físicas o jurídicas cuando así lo disponga una norma con rango de ley.",
+      "C": "Las personas físicas, jurídicas y las entidades sin personalidad jurídica cuando la ley así lo declare.",
+      "D": "Exclusivamente las personas jurídicas legalmente constituidas."
+    }
+  },
+  {
+    "id": 138,
+    "question": "Según la Ley 39/2015, se consideran interesados en un procedimiento administrativo:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Quienes promuevan el procedimiento como titulares de derechos o intereses legítimos individuales o colectivos.",
+      "B": "Cualquier persona que tenga conocimiento del procedimiento.",
+      "C": "Únicamente quienes resulten afectados por la resolución ﬁnal.",
+      "D": "Solo quienes actúen representados por medios electrónicos."
+    }
+  },
+  {
+    "id": 139,
+    "question": "Según la Ley 39/2015, en relación con la identiﬁcación y ﬁrma de los interesados:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "La ﬁrma será siempre obligatoria para formular solicitudes.",
+      "B": "La identiﬁcación podrá realizarse mediante sistemas de ﬁrma electrónica.",
+      "C": "Solo se exigirá ﬁrma cuando sea necesario acreditar la voluntad y consentimiento.",
+      "D": "La identiﬁcación y la ﬁrma son siempre requisitos inseparables."
+    }
+  },
+  {
+    "id": 140,
+    "question": "Según la Ley 39/2015, cuando varias personas comparezcan en un procedimiento con intereses coincidentes:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Deberán actuar necesariamente mediante representante.",
+      "B": "La Administración designará de oﬁcio un representante.",
+      "C": "Podrán designar un representante o seńalar un domicilio común.",
+      "D": "Cada interesado deberá actuar de forma independiente."
+    }
+  },
+  {
+    "id": 141,
+    "question": "Según la Ley 39/2015, la representación podrá acreditarse:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Únicamente mediante poder notarial.",
+      "B": "Mediante cualquier medio válido en Derecho que deje constancia ﬁdedigna.",
+      "C": "Solo a través de inscripción en un registro electrónico.",
+      "D": "Exclusivamente mediante comparecencia personal."
+    }
+  },
+  {
+    "id": 142,
+    "question": "Según la Ley 39/2015, se considerarán interesados en el procedimiento:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Quienes tengan un interés legítimo aunque no se personen en el procedimiento.",
+      "B": "Las asociaciones representativas de intereses económicos en todo caso.",
+      "C": "Aquellos cuyos derechos o intereses legítimos puedan resultar afectados por la resolución.",
+      "D": "Únicamente quienes inicien el procedimiento."
+    }
+  },
+  {
+    "id": 143,
+    "question": "Según la Ley 39/2015, los menores de edad:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Podrán ejercer y defender sus derechos cuando el ordenamiento lo permita sin asistencia.",
+      "B": "Carecen de capacidad de obrar ante la Administración.",
+      "C": "Tienen capacidad de obrar solo con autorización judicial.",
+      "D": "Deberán actuar siempre a través de representante legal."
+    }
+  },
+  {
+    "id": 144,
+    "question": "Según la Ley 39/2015, en relación con los sistemas de identiﬁcación de los interesados:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Solo se admitirá el DNI electrónico.",
+      "B": "Se admitirán únicamente sistemas basados en certiﬁcados electrónicos.",
+      "C": "Se admitirán sistemas de identiﬁcación basados en certiﬁcados, claves concertadas u otros sistemas válidos.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 145,
+    "question": "Según la Ley 39/2015, las entidades sin personalidad jurídica:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Carecen de capacidad de obrar ante las Administraciones Públicas.",
+      "B": "Solo podrán actuar mediante representante con poder notarial.",
+      "C": "Podrán tener capacidad de obrar cuando una ley así lo declare expresamente.",
+      "D": "Actuarán únicamente a través de sus miembros individualmente."
+    }
+  },
+  {
+    "id": 146,
+    "question": "Según la Ley 39/2015, cuando la representación no quede acreditada inicialmente:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Se inadmitirá de plano la solicitud.",
+      "B": "Se concederá un plazo para subsanar la falta de acreditación.",
+      "C": "Se archivará el procedimiento sin más trámites.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 147,
+    "question": "Según la Ley 39/2015, la ﬁrma de los interesados será exigible:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "En todos los trámites del procedimiento administrativo.",
+      "B": "Solo cuando sea necesario acreditar la autenticidad de la copia presentada.",
+      "C": "Cuando sea necesario acreditar la voluntad y consentimiento del interesado.",
+      "D": "Únicamente en procedimientos iniciados a solicitud del interesado."
+    }
+  },
+  {
+    "id": 148,
+    "question": "Según la Ley 39/2015, en los procedimientos iniciados de oﬁcio, tendrán la condición de interesados:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Únicamente los órganos administrativos competentes.",
+      "B": "Las personas que presenten alegaciones en cualquier momento.",
+      "C": "Aquellos cuyos derechos o intereses legítimos puedan resultar afectados.",
+      "D": "Solo quienes comparezcan mediante representante."
+    }
+  },
+  {
+    "id": 149,
+    "question": "Según la Ley 39/2015, la identiﬁcación electrónica del interesado:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Exige siempre el uso de ﬁrma electrónica.",
+      "B": "Puede realizarse mediante sistemas distintos de la ﬁrma electrónica.",
+      "C": "Solo es válida si se basa en certiﬁcado electrónico cualiﬁcado.",
+      "D": "Sustituye automáticamente a la representación."
+    }
+  },
+  {
+    "id": 150,
+    "question": "Según la Ley 39/2015, las personas tienen derecho a relacionarse con las Administraciones Públicas:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Únicamente por medios electrónicos.",
+      "B": "Por medios electrónicos o no electrónicos, según elijan.",
+      "C": "Solo por medios no electrónicos salvo obligación legal.",
+      "D": "Exclusivamente mediante representante."
+    }
+  },
+  {
+    "id": 151,
+    "question": "Según la Ley 39/2015, están obligados a relacionarse electrónicamente con las Administraciones Públicas:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Todos los ciudadanos.",
+      "B": "Las personas físicas cuando lo solicite la Administración.",
+      "C": "Las personas jurídicas.",
+      "D": "a) y c) son correctas."
+    }
+  },
+  {
+    "id": 152,
+    "question": "Según la Ley 39/2015, el derecho a conocer el estado de tramitación de los procedimientos:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Se limita a los procedimientos iniciados a instancia de parte.",
+      "B": "Se ejerce únicamente de forma presencial.",
+      "C": "Requiere autorización expresa del órgano instructor.",
+      "D": "Incluye el acceso y obtención de copias de los documentos contenidos en ellos."
+    }
+  },
+  {
+    "id": 153,
+    "question": "Según la Ley 39/2015, la lengua de los procedimientos tramitados por la Administración General del\nEstado será:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "La lengua cooﬁcial del territorio.",
+      "B": "El castellano o la lengua cooﬁcial elegida por el interesado.",
+      "C": "Exclusivamente el castellano.",
+      "D": "La que determine el órgano competente."
+    }
+  },
+  {
+    "id": 154,
+    "question": "Según la Ley 39/2015, los registros electrónicos permitirán:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Presentar documentos únicamente en días hábiles.",
+      "B": "Presentar documentos solo en horario de oﬁcina.",
+      "C": "La presentación de documentos todos los días del ańo durante las 24 horas.",
+      "D": "Registrar documentos solo de la propia Administración."
+    }
+  },
+  {
+    "id": 155,
+    "question": "Según la Ley 39/2015, el derecho a ser asistido en el uso de medios electrónicos corresponde:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "A todas las personas en sus relaciones con las Administraciones Públicas.",
+      "B": "Únicamente a las personas que no estén obligadas a relacionarse electrónicamente.",
+      "C": "Solo a quienes actúen mediante representante.",
+      "D": "Exclusivamente a las personas mayores de edad."
+    }
+  },
+  {
+    "id": 156,
+    "question": "Según la Ley 39/2015, la comparecencia de las personas ante las Administraciones Públicas:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Solo podrá realizarse de forma presencial.",
+      "B": "Podrá realizarse de forma presencial o por medios electrónicos, cuando así se establezca.",
+      "C": "Requerirá siempre identiﬁcación mediante ﬁrma electrónica.",
+      "D": "a) b) y c) son incorrectas."
+    }
+  },
+  {
+    "id": 157,
+    "question": "Según la Ley 39/2015, las personas en sus relaciones con las Administraciones Públicas deberán:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Comparecer personalmente en todos los procedimientos administrativos.",
+      "B": "F acilitar a la Administración los datos exigidos por la normativa aplicable.",
+      "C": "Colaborar únicamente cuando exista obligación legal expresa.",
+      "D": "Presentar documentos originales en todo caso."
+    }
+  },
+  {
+    "id": 158,
+    "question": "Según la Ley 39/2015, la responsabilidad de la tramitación de los procedimientos corresponde:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Al órgano que dicte la resolución ﬁnal.",
+      "B": "Al órgano que tenga atribuida la competencia para su iniciación.",
+      "C": "Al órgano instructor del procedimiento.",
+      "D": "Al órgano superior jerárquico."
+    }
+  },
+  {
+    "id": 159,
+    "question": "Según la Ley 39/2015, las Administraciones Públicas están obligadas a dictar resolución expresa:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Solo en los procedimientos iniciados a solicitud del interesado.",
+      "B": "Únicamente cuando así lo establezca una norma con rango de ley.",
+      "C": "Exclusivamente en los procedimientos sancionadores.",
+      "D": "En todos los procedimientos, cualquiera que sea su forma de iniciación."
+    }
+  },
+  {
+    "id": 160,
+    "question": "Según la Ley 39/2015, el plazo máximo para resolver y notiﬁcar un procedimiento podrá suspenderse\ncuando:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "El interesado solicite la suspensión de forma expresa.",
+      "B": "Deban realizarse pruebas técnicas o análisis contradictorios.",
+      "C": "Exista acumulación de expedientes en el órgano competente.",
+      "D": "El procedimiento se inicie de oﬁcio."
+    }
+  },
+  {
+    "id": 161,
+    "question": "Según la Ley 39/2015, la suspensión del plazo máximo para resolver deberá:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Comunicarse a los interesados, indicando el motivo y la duración.",
+      "B": "Acordarse siempre de oﬁcio por el órgano competente.",
+      "C": "Publicarse en el boletín oﬁcial correspondiente.",
+      "D": "Solicitarse por el interesado afectado."
+    }
+  },
+  {
+    "id": 162,
+    "question": "Según la Ley 39/2015, los plazos expresados en días se contarán:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "A partir del día siguiente al de la notiﬁcación o publicación.",
+      "B": "Incluyendo siempre los sábados, domingos y festivos.",
+      "C": "Desde el mismo día en que se produce la notiﬁcación.",
+      "D": "Únicamente en días naturales."
+    }
+  },
+  {
+    "id": 163,
+    "question": "Según la Ley 39/2015, cuando un plazo se exprese en días hábiles:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Se incluirán los sábados, domingos y festivos.",
+      "B": "Se excluirán los sábados, domingos y festivos.",
+      "C": "Se excluirán únicamente los domingos.",
+      "D": "Se incluirán todos los días del año."
+    }
+  },
+  {
+    "id": 164,
+    "question": "Según la Ley 39/2015, cuando el último día de un plazo sea inhábil:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "El plazo se entenderá ﬁnalizado ese mismo día.",
+      "B": "El plazo se ampliará automáticamente cinco días.",
+      "C": "El plazo se entenderá prorrogado al primer día hábil siguiente.",
+      "D": "El plazo quedará suspendido hasta nueva notiﬁcación."
+    }
+  },
+  {
+    "id": 165,
+    "question": "Según la Ley 39/2015, los actos administrativos deberán dictarse:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Siempre por escrito y en soporte papel.",
+      "B": "Por el órgano competente, ajustándose al procedimiento establecido.",
+      "C": "Únicamente mediante medios electrónicos.",
+      "D": "De forma motivada en todos los casos."
+    }
+  },
+  {
+    "id": 166,
+    "question": "Según la Ley 39/2015, los actos administrativos producirán efectos:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Desde la fecha en que se dicten.",
+      "B": "Desde el día siguiente al de su notiﬁcación.",
+      "C": "Desde la fecha en que se notiﬁquen o publiquen, salvo que en ellos se disponga otra cosa.",
+      "D": "Únicamente desde su publicación en el boletín oﬁcial correspondiente."
+    }
+  },
+  {
+    "id": 167,
+    "question": "Según la Ley 39/2015, serán nulos de pleno derecho los actos administrativos que:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Incurran en cualquier infracción del ordenamiento jurídico.",
+      "B": "Se dicten fuera de plazo.",
+      "C": "Carezcan de motivación.",
+      "D": "Lesionen derechos y libertades susceptibles de amparo constitucional."
+    }
+  },
+  {
+    "id": 168,
+    "question": "Según la Ley 39/2015, serán anulables los actos administrativos que:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Incurran en infracción del ordenamiento jurídico, incluso la desviación de poder.",
+      "B": "Lesionen derechos fundamentales.",
+      "C": "Sean dictados por órgano maniﬁestamente incompetente por razón de la materia.",
+      "D": "b) y c) son correctas."
+    }
+  },
+  {
+    "id": 169,
+    "question": "Según la Ley 39/2015, los actos administrativos deberán ser motivados:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "En todos los casos.",
+      "B": "Solo cuando lo solicite el interesado.",
+      "C": "En los supuestos previstos legalmente.",
+      "D": "Únicamente cuando se dicten por delegación."
+    }
+  },
+  {
+    "id": 170,
+    "question": "Según la Ley 39/2015, cuando el acto administrativo carezca de los requisitos formales indispensables:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Será siempre nulo de pleno derecho.",
+      "B": "Será anulable cuando produzca indefensión.",
+      "C": "No producirá ningún efecto jurídico.",
+      "D": "Deberá ser archivado sin tramitación."
+    }
+  },
+  {
+    "id": 171,
+    "question": "Según la Ley 39/2015, los recursos administrativos se fundamentan en el principio de:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Jerarquía normativa.",
+      "B": "Legalidad y eﬁcacia administrativa.",
+      "C": "Revisión de los actos en vía administrativa.",
+      "D": "Tutela judicial efectiva."
+    }
+  },
+  {
+    "id": 172,
+    "question": "Según la Ley 39/2015, contra los actos que no pongan ﬁn a la vía administrativa podrá interponerse:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Recurso potestativo de reposición.",
+      "B": "Recurso extraordinario de revisión.",
+      "C": "Recurso contencioso-administrativo.",
+      "D": "Recurso de alzada."
+    }
+  },
+  {
+    "id": 173,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso de alzada será de:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Un mes en todo caso.",
+      "B": "Un mes si el acto es expreso y en cualquier momento si no lo es.",
+      "C": "Dos meses desde la notiﬁcación.",
+      "D": "Tres meses desde la publicación."
+    }
+  },
+  {
+    "id": 174,
+    "question": "Según la Ley 39/2015, el recurso potestativo de reposición se interpone:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Siempre antes de acudir a la vía contencioso-administrativa.",
+      "B": "Contra actos que no pongan ﬁn a la vía administrativa.",
+      "C": "Contra actos que pongan ﬁn a la vía administrativa.",
+      "D": "Únicamente contra actos presuntos."
+    }
+  },
+  {
+    "id": 175,
+    "question": "Según la Ley 39/2015, la interposición del recurso potestativo de reposición:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Suspende automáticamente la ejecución del acto.",
+      "B": "Impide acudir a la vía contencioso-administrativa hasta su resolución.",
+      "C": "Permite interponer simultáneamente recurso contencioso-administrativo.",
+      "D": "Sustituye al recurso de alzada."
+    }
+  },
+  {
+    "id": 176,
+    "question": "Según la Ley 39/2015, el plazo máximo para dictar y notiﬁcar resolución en el recurso de alzada será de:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Un mes.",
+      "B": "Dos meses.",
+      "C": "T res meses.",
+      "D": "Seis meses."
+    }
+  },
+  {
+    "id": 177,
+    "question": "Según la Ley 39/2015, transcurrido el plazo para resolver el recurso de alzada sin que recaiga resolución\nexpresa:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Se entenderá estimado por silencio administrativo.",
+      "B": "Se entenderá desestimado por silencio administrativo.",
+      "C": "Se producirá la caducidad del procedimiento.",
+      "D": "Se archivará automáticamente el recurso."
+    }
+  },
+  {
+    "id": 178,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso potestativo de reposición será de:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Un mes si el acto es expreso.",
+      "B": "Dos meses si el acto es expreso.",
+      "C": "Tres meses desde la notiﬁcación.",
+      "D": "En cualquier momento."
+    }
+  },
+  {
+    "id": 179,
+    "question": "Según la Ley 39/2015, el plazo máximo para resolver el recurso potestativo de reposición será de:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Un mes.",
+      "B": "Dos meses.",
+      "C": "Tres meses.",
+      "D": "Seis meses."
+    }
+  },
+  {
+    "id": 180,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "El acto sea anulable.",
+      "B": "Existan errores materiales evidentes.",
+      "C": "Aparezcan documentos de valor esencial ignorados al dictarse el acto.",
+      "D": "El interesado no haya sido notiﬁcado."
+    }
+  },
+  {
+    "id": 181,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión podrá interponerse cuando:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Se haya dictado el acto fuera de plazo.",
+      "B": "Al dictarlos se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados\nal expediente.",
+      "C": "El acto no haya sido motivado.",
+      "D": "El interesado no esté conforme con la resolución."
+    }
+  },
+  {
+    "id": 182,
+    "question": "Según la Ley 39/2015, el plazo para interponer recurso extraordinario de revisión por error de hecho será\nde:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Un año desde la notiﬁcación del acto impugnado.",
+      "B": "Dos años desde la notiﬁcación del acto impugnado.",
+      "C": "Cuatro ańos desde la notiﬁcación del acto impugnado.",
+      "D": "En cualquier momento."
+    }
+  },
+  {
+    "id": 183,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión por aparición de documentos de valor esencial\ndeberá interponerse en el plazo de:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Un mes desde el conocimiento de los documentos.",
+      "B": "T res meses desde el conocimiento de los documentos.",
+      "C": "Cuatro meses desde el conocimiento de los documentos.",
+      "D": "En cualquier momento."
+    }
+  },
+  {
+    "id": 184,
+    "question": "Según la Ley 39/2015, contra la resolución del recurso extraordinario de revisión:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Cabe recurso de alzada.",
+      "B": "Cabe recurso potestativo de reposición.",
+      "C": "Cabe un nuevo recurso extraordinario de revisión.",
+      "D": "No cabe ningún otro recurso administrativo."
+    }
+  },
+  {
+    "id": 185,
+    "question": "Según la Ley 39/2015, el recurso extraordinario de revisión se interpondrá ante:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "El órgano superior jerárquico.",
+      "B": "El órgano que dictó el acto impugnado.",
+      "C": "El órgano instructor del procedimiento.",
+      "D": "El órgano competente para resolver el recurso de alzada."
+    }
+  },
+  {
+    "id": 186,
+    "question": "Según la Ley 39/2015, será causa de inadmisión de un recurso administrativo:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Que el interesado no esté conforme con la resolución.",
+      "B": "Carecer maniﬁestamente de fundamento.",
+      "C": "Que el recurso se interponga por vía electrónica.",
+      "D": "Que el acto sea anulable."
+    }
+  },
+  {
+    "id": 187,
+    "question": "Según la Ley 39/2015, la interposición de un recurso administrativo:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Suspende automáticamente la ejecución del acto impugnado.",
+      "B": "Suspende siempre la ejecución en vía administrativa.",
+      "C": "No suspende la ejecución del acto, salvo que una norma lo establezca o se acuerde motivadamente.",
+      "D": "Impide la notiﬁcación del acto."
+    }
+  },
+  {
+    "id": 188,
+    "question": "Según la Ley 39/2015, la competencia para resolver un recurso de alzada corresponde:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Al mismo órgano que dictó el acto.",
+      "B": "Al órgano superior jerárquico del que dictó el acto.",
+      "C": "Al órgano instructor del procedimiento.",
+      "D": "Al órgano que determine el interesado."
+    }
+  },
+  {
+    "id": 189,
+    "question": "Según la Ley 39/2015, los actos administrativos que incurran en defectos formales:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Serán anulables cuando carezcan de los requisitos formales indispensables o produzcan indefensión.",
+      "B": "Serán siempre nulos de pleno derecho.",
+      "C": "No producirán efectos jurídicos.",
+      "D": "Se considerarán inexistentes."
+    }
+  },
+  {
+    "id": 190,
+    "question": "Según la Ley 39/2015, los actos nulos de pleno derecho:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Podrán convalidarse en cualquier caso.",
+      "B": "Podrán subsanarse por el transcurso del tiempo.",
+      "C": "No serán susceptibles de convalidación.",
+      "D": "Serán anulables si no se impugnan en plazo."
+    }
+  },
+  {
+    "id": 191,
+    "question": "Según la Ley 39/2015, los actos administrativos podrán tener efectos retroactivos:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "En ningún caso.",
+      "B": "Cuando así lo establezca siempre una norma con rango de ley.",
+      "C": "Cuando produzcan efectos favorables y no lesionen derechos o intereses legítimos de otras personas.",
+      "D": "Únicamente en procedimientos sancionadores."
+    }
+  },
+  {
+    "id": 192,
+    "question": "Según la Ley 39/2015, los actos anulables podrán ser convalidados:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "En cualquier momento y por cualquier órgano.",
+      "B": "Por el órgano que los dictó o su superior jerárquico, subsanando los vicios de que adolezcan.",
+      "C": "Únicamente mediante recurso contencioso-administrativo.",
+      "D": "Solo cuando lo solicite el interesado."
+    }
+  },
+  {
+    "id": 193,
+    "question": "Según la Ley 39/2015, la ampliación de plazos:",
+    "correctAnswer": "A",
+    "options": {
+      "A": "Podrá concederse de oﬁcio o a petición de los interesados si las circunstancias lo aconsejan.",
+      "B": "Solo podrá concederse a instancia del interesado.",
+      "C": "Será automática cuando el procedimiento sea complejo.",
+      "D": "Podrá concederse aunque haya expirado el plazo inicialmente concedido."
+    }
+  },
+  {
+    "id": 194,
+    "question": "Según la Ley 39/2015, cuando se acumulen procedimientos:",
+    "correctAnswer": "D",
+    "options": {
+      "A": "Será obligatoria la acumulación en todo caso.",
+      "B": "Solo se acumularán procedimientos sancionadores.",
+      "C": "La acumulación requerirá consentimiento del interesado.",
+      "D": "Podrán acumularse procedimientos que guarden identidad sustancial o íntima conexión."
+    }
+  },
+  {
+    "id": 195,
+    "question": "Según la Ley 39/2015, los términos y plazos establecidos en la Ley:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Solo obligan al personal al servicio de las Administraciones.",
+      "B": "Solo obligan a los interesados.",
+      "C": "Obligan tanto a las autoridades y personal al servicio de las Administraciones Públicas como a los interesados.",
+      "D": "Son siempre improrrogables."
+    }
+  },
+  {
+    "id": 196,
+    "question": "Según la Ley 39/2015, cuando una notiﬁcación sea rechazada por el interesado:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Se repetirá automáticamente.",
+      "B": "Se considerará intentada sin efecto.",
+      "C": "Se entenderá practicada a todos los efectos legales.",
+      "D": "Se archivará el procedimiento."
+    }
+  },
+  {
+    "id": 197,
+    "question": "Según la Ley 39/2015, cuando la notiﬁcación se practique por medios electrónicos y no sea posible acceder\na su contenido:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Se entenderá rechazada de inmediato.",
+      "B": "Se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin\nacceder a su contenido.",
+      "C": "Se entenderá rechazada cuando hayan transcurrido quince días naturales desde su puesta a disposición sin acceder a su\ncontenido.",
+      "D": "Se entenderá rechazada cuando haya transcurrido un mes desde su puesta a disposición sin acceder a su contenido."
+    }
+  },
+  {
+    "id": 198,
+    "question": "Según la Ley 39/2015, la nulidad de pleno derecho podrá declararse:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Solo a instancia del interesado.",
+      "B": "De oﬁcio o a instancia del interesado.",
+      "C": "Exclusivamente por vía judicial.",
+      "D": "Únicamente en recurso extraordinario de revisión."
+    }
+  },
+  {
+    "id": 199,
+    "question": "Según la Ley 39/2015, los actos administrativos se presumen:",
+    "correctAnswer": "B",
+    "options": {
+      "A": "Nulos mientras no se declare su validez.",
+      "B": "Válidos y producen efectos desde la fecha en que se dicten, salvo disposición en contrario.",
+      "C": "Anulables salvo que se conﬁrme su legalidad.",
+      "D": "Ineﬁcaces hasta su publicación."
+    }
+  },
+  {
+    "id": 200,
+    "question": "Según la Ley 39/2015, el silencio administrativo en procedimientos iniciados a solicitud del interesado\ntendrá carácter:",
+    "correctAnswer": "C",
+    "options": {
+      "A": "Siempre negativo.",
+      "B": "Siempre positivo.",
+      "C": "Estimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca\nlo contrario.",
+      "D": "Desestimatorio, salvo que una norma con rango de ley o norma de Derecho de la Unión Europea establezca lo contrario."
+    }
+  }
+]

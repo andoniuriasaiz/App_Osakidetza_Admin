@@ -27,6 +27,7 @@ ROOT          = _get_root()
 DATA_DIR      = ROOT / "public" / "data"
 ANALISIS_DIR  = ROOT / "analisis"
 RAW_DIR       = ANALISIS_DIR / "raw"                # respuestas crudas scrapeadas
+UGT_DIR       = DATA_DIR / "ugt_respuestas" / "extracted" # Respuestas mapeadas de UGT
 REPORTS_DIR   = ANALISIS_DIR / "reports"            # outputs generados
 BACKUP_DIR    = ROOT / "backup"
 
@@ -62,6 +63,7 @@ CATEGORIES = {
         "osasun_offset":  0,
         "raw_kaixo":      "kaixo_c2.json",
         "raw_osasun":     "osasun_c2.json",
+        "ugt_file":       "RESPUESTAS-T.-ESPECIFICO-COMUN-C2-C3-D-Y-E.json",
         "app_file":       "comun.json",
     },
     "A2": {
@@ -76,6 +78,7 @@ CATEGORIES = {
         "osasun_offset":    0,
         "raw_kaixo":      "kaixo_common_a2.json",
         "raw_osasun":     "osasun_nurse.json",
+        "ugt_file":       "RESPUESTAS-T.-ESPECIFICO-COMUN-A-BC1.json",
         "app_file":       "tec-comun.json",
     },
     "ADM": {
@@ -95,6 +98,7 @@ CATEGORIES = {
         "osasun_unreliable_specific": False,  # Mapeado por texto ahora
         "raw_kaixo":      "kaixo_admin.json",
         "raw_osasun":     "osasun_admin.json",
+        "ugt_file":       "RESPUESTAS-T.-ESPECIFICO-ADMINISTRATIVOA-2.json",
         "app_file":       "adm.json",
     },
     "AUX": {
@@ -110,6 +114,7 @@ CATEGORIES = {
         "osasun_offset":  0,
         "raw_kaixo":      "kaixo_aux.json",
         "raw_osasun":     "osasun_aux.json",
+        "ugt_file":       "RESPUESTAS-T.-ESPECIFICO-AUXILIAR-ADMINISTRATIVOA-2.json",
         "app_file":       "aux.json",
     },
     "TEC": {
@@ -123,6 +128,7 @@ CATEGORIES = {
         "osasun_offset":  0,
         "raw_kaixo":      "kaixo_tec.json",
         "raw_osasun":     None,
+        "ugt_file":       "ugt_tec_consolidado.json",
         "app_file":       "tec.json",
         # officialId asignado por el consolidador (coincide con numeración del PDF oficial
         # y con la numeración de Kaixo, verificado por comparación directa de textos)
