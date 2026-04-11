@@ -1,0 +1,1852 @@
+[
+  {
+    "id": "tec-t13_1",
+    "questionNum": 1,
+    "question": "Se han constituido las nuevas Cortes Generales elegidas tras las recientes Elecciones Generales cuyos resultados dan lugar a un parlamento bastante atomizado en el que no hay ninguna fuerza política que haya obtenido un número de escaños como para conseguir por sí sola la investidura de su persona candidata a presidir el Gobierno. De acuerdo con lo establecido en la propia Constitución, se da inicio a todo el proceso para la elección de la persona que presidirá el Gobierno. Tras infructuosas gestiones, se consigue proponer a una persona candidata, quien obtiene 133 votos a favor en la primera votación, y los mismos en la segunda, al no lograr más apoyos que los de su propio partido. La persona candidata propuesta para ser investida como Presidente/a del Gobierno no alcanza la mayoría exigida por el artículo 99.3 de la Constitución, ni en primera ni en segunda votación. En consecuencia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Si transcurren más de dos meses desde la última votación de investidura, sin que otra candidatura obtenga la confianza del Congreso, la Presidencia del Congreso disolverá ambas cámaras."
+      },
+      {
+        "value": 2,
+        "text": "Si transcurren más de dos meses desde la primera votación de investidura, sin que la misma u otra candidatura obtenga la confianza del Congreso, la Presidencia del Congreso disolverá ambas cámaras."
+      },
+      {
+        "value": 3,
+        "text": "Si transcurre más de un mes desde la primera votación de investidura, sin que ninguna candidatura obtenga la confianza del Congreso, la Presidencia del Congreso disolverá ambas cámaras."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores opciones es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Si transcurren más de dos meses desde la primera votación de investidura, sin que la misma u otra candidatura obtenga la confianza del Congreso, la Presidencia del Congreso disolverá ambas cámaras."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Art. 99.5 CE: si transcurren dos meses desde la primera votación de investidura sin que ninguna candidatura obtenga la confianza del Congreso, la Presidencia del Congreso disolverá ambas cámaras. El cómputo se inicia desde la PRIMERA votación, no desde la última.",
+    "officialId": 451
+  },
+  {
+    "id": "tec-t13_2",
+    "questionNum": 2,
+    "question": "Una persona se dirige a una oficina del Departamento de Salud del Gobierno Vasco para tramitar una solicitud administrativa y pide expresamente ser atendida en euskera. La persona funcionaria le niega la atención en euskera alegando falta de personal capacitado y le obliga a continuar el trámite solo en castellano. La persona presenta una queja invocando el Estatuto de Autonomía del País Vasco. Según la Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía para el País Vasco (artículo 6), señale cuál de los siguientes extremos es INCORRECTO respecto a la atención en euskera en la Administración Pública:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Toda la ciudadanía tiene derecho a conocer y usar el euskera en sus relaciones con la Administración."
+      },
+      {
+        "value": 2,
+        "text": "Las instituciones comunes deben garantizar el uso del euskera, teniendo en cuenta la diversidad sociolingüística."
+      },
+      {
+        "value": 3,
+        "text": "La Administración puede denegar la atención en euskera de forma generalizada por motivos de personal."
+      },
+      {
+        "value": 4,
+        "text": "Nadie podrá sufrir discriminación por razón de la lengua en los procedimientos administrativos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La Administración puede denegar la atención en euskera de forma generalizada por motivos de personal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "INCORRECTA: La Administración NO puede denegar de forma generalizada la atención en euskera alegando falta de personal. El art. 6 EAPV reconoce el derecho de toda la ciudadanía a usar el euskera en sus relaciones con la Administración, y las instituciones deben garantizarlo.",
+    "officialId": 452
+  },
+  {
+    "id": "tec-t13_3",
+    "questionNum": 3,
+    "question": "Algunos partidos políticos están estudiando iniciar un proceso de reforma general del Estatuto de Autonomía del País Vasco para incorporar un nuevo título sobre la participación de Euskadi en la toma de decisiones de la Unión Europea, lo cual afectará directamente a las relaciones institucionales del País Vasco con el Estado español con respecto a la interlocución en Bruselas. Según la Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía para el País Vasco (artículo 46), señale cuál de las siguientes afirmaciones sobre el proceso de tramitación de la reforma NO ES CORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La reforma requerirá aprobación de las Cortes Generales mediante Ley Orgánica."
+      },
+      {
+        "value": 2,
+        "text": "La iniciativa corresponde al Parlamento Vasco, a propuesta de una quinta parte de sus componentes, al Gobierno Vasco o a las Cortes Generales del Estado español."
+      },
+      {
+        "value": 3,
+        "text": "La iniciativa corresponde al Parlamento Vasco, a propuesta de la mayoría absoluta de sus componentes, al Gobierno Vasco o a las Cortes Generales del Estado español."
+      },
+      {
+        "value": 4,
+        "text": "Será necesaria la aprobación de los electores mediante referéndum."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La iniciativa corresponde al Parlamento Vasco, a propuesta de una quinta parte de sus componentes, al Gobierno Vasco o a las Cortes Generales del Estado español."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "NO ES CORRECTA: La iniciativa de reforma del Estatuto corresponde al Parlamento Vasco a propuesta de la mayoría absoluta de sus miembros (no de una quinta parte), al Gobierno Vasco o a las Cortes Generales. La opción 2 indica erróneamente 'una quinta parte'.",
+    "officialId": 453
+  },
+  {
+    "id": "tec-t13_4",
+    "questionNum": 4,
+    "question": "Finalizado el mandato de la persona titular del Ararteko, el Parlamento Vasco inicia el procedimiento de designación conforme a la Ley 3/1985, reguladora de la institución. Concluido el plazo de presentación de candidaturas, únicamente se formaliza una propuesta válida, presentada por varios grupos parlamentarios. En el pleno convocado para la elección, se procede a votación secreta. La persona candidata que se presenta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Necesita indefectiblemente alcanzar una mayoría de 3/5 partes del Parlamento vasco sin límite temporal para llegar a ella."
+      },
+      {
+        "value": 2,
+        "text": "Necesita indefectiblemente alcanzar una mayoría de 3/5 partes del Parlamento vasco con un límite temporal máximo de dos meses para llegar a ella."
+      },
+      {
+        "value": 3,
+        "text": "Necesita indefectiblemente alcanzar una mayoría de 2/3 partes del Parlamento vasco con un límite temporal máximo de dos meses para llegar a ella."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las opciones previas es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Ninguna de las opciones previas es correcta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Ninguna de las opciones es correcta. La Ley 3/1985 del Ararteko exige 3/5 del Parlamento en la primera votación; si no se alcanza, en votaciones sucesivas se puede lograr la mayoría absoluta. No existe el requisito indefectible de 3/5 sin límite alguno ni tampoco de 2/3.",
+    "officialId": 454
+  },
+  {
+    "id": "tec-t13_5",
+    "questionNum": 5,
+    "question": "El Lehendakari del Gobierno Vasco presenta su dimisión repentina por motivos personales. El Parlamento Vasco no logra investir a un nuevo/a candidato/a en primera votación ni en segunda. Se abre un periodo de interinidad presidencial mientras se resuelve la crisis ejecutiva. Según la Ley 7/1981, de 30 de junio, del Gobierno vasco, señale cuál es el límite máximo de la situación de interinidad en la Presidencia:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuatro meses."
+      },
+      {
+        "value": 2,
+        "text": "Dos meses."
+      },
+      {
+        "value": 3,
+        "text": "Tres meses."
+      },
+      {
+        "value": 4,
+        "text": "Un mes."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Dos meses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme a la Ley 7/1981 del Gobierno Vasco, si el Lehendakari cesa y el Parlamento no inviste a un nuevo candidato, la situación de interinidad tiene un límite máximo de dos meses desde la primera votación de investidura, análogo al art. 99.5 CE.",
+    "officialId": 455
+  },
+  {
+    "id": "tec-t13_6",
+    "questionNum": 6,
+    "question": "Con la reciente entrada en vigor del Decreto 319/2024, de 29 de octubre, el Departamento de Salud ha iniciado un proceso de consolidación de su estructura administrativa. En una sesión de trabajo técnico para actualizar el inventario de órganos colegiados, surge una discrepancia sobre la naturaleza jurídica y la adscripción de varios comités de expertos. El equipo técnico debe determinar qué órganos forman parte de la estructura asesora directa del Departamento y cuáles, por el contrario, pertenecen a otros ámbitos de gestión o no figuran en la enumeración oficial de este decreto de estructura. Tras revisar el catálogo de órganos colegiados de asesoramiento recogido en el Decreto 319/2024, se identifica que uno de los siguientes NO figura como un órgano asesor adscrito al Departamento de Salud. ¿Cuál es?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Consejo asesor de vacunaciones de Euskadi"
+      },
+      {
+        "value": 2,
+        "text": "Comité vasco de Autorizaciones de Uso Terapéutico"
+      },
+      {
+        "value": 3,
+        "text": "Consejo Asesor sobre el Cáncer en Euskadi"
+      },
+      {
+        "value": 4,
+        "text": "Comité de Planificación y Gestión de la Medicina Personalizada de Euskadi"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Comité vasco de Autorizaciones de Uso Terapéutico"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "El 'Comité vasco de Autorizaciones de Uso Terapéutico' no figura en la enumeración oficial de órganos colegiados asesores del Departamento de Salud del Decreto 319/2024. Los restantes (Consejo asesor de vacunaciones, Consejo Asesor sobre el Cáncer y Comité de Medicina Personalizada) sí están adscritos al Departamento.",
+    "officialId": 456
+  },
+  {
+    "id": "tec-t13_7",
+    "questionNum": 7,
+    "question": "El Ayuntamiento de X inicia de oficio un procedimiento para declarar en ruina un inmueble. Durante la tramitación: Luis, vecino colindante, presenta escrito manifestando su preocupación por los daños que podría sufrir su vivienda. El Ayuntamiento dicta un acto por el que acuerda la práctica de una inspección técnica del edificio. Posteriormente dicta resolución declarando el inmueble en ruina y ordenando su demolición. La resolución se notifica únicamente al propietario del inmueble, pero no a Luis. Luis interpone recurso alegando que debió ser notificado al tener interés legítimo en el procedimiento. ¿Tiene Luis la condición de interesado en el procedimiento y, por tanto, el derecho a ser notificado de la resolución?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "NCoo, npsoerjqou aes seosolor tdiee nveanc ulan accoinodniecsi ódne dEeu spkearsdoi nas interesadas quienes hayan iniciado elC pormociteéd vimasiceon tdoe. Autorizaciones de Uso Terapéutico"
+      },
+      {
+        "value": 2,
+        "text": "No, porque las y los vecinos colindantes nunca adquieren la condición de personas inCteornesseajdoa As esens porro scoebdriem eile nCtáonsc aedr menin Eisutrsaktaivdoi s."
+      },
+      {
+        "value": 3,
+        "text": "Sí, porque ostenta un interés legítimo que puede resultar afectado por la resolución qCueo msei taéd doep tPel.a nificación y Gestión de la Medicina Personalizada de Euskadi"
+      },
+      {
+        "value": 4,
+        "text": "Sí, pero únicamente si el Ayuntamiento le hubiera reconocido expresamente como interesado durante la tramitación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Sí, porque ostenta un interés legítimo que puede resultar afectado por la resolución qCueo msei taéd doep tPel.a nificación y Gestión de la Medicina Personalizada de Euskadi"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Sí, Luis ostenta un interés legítimo que puede resultar afectado por la resolución que ordena la demolición. El art. 4.1.b Ley 39/2015 atribuye la condición de interesado a quienes, sin haber iniciado el procedimiento, tengan derechos o intereses legítimos que puedan resultar afectados por la resolución.",
+    "officialId": 457
+  },
+  {
+    "id": "tec-t13_8",
+    "questionNum": 8,
+    "question": "El 3 de febrero de 2024, la Administración autonómica inicia de oficio un procedimiento sancionador contra una empresa por la comisión de una infracción administrativa grave. El acuerdo de iniciación se notifica correctamente el 10 de febrero de 2024. El procedimiento no fue declarado complejo ni se acordó ampliación del plazo máximo para resolver. El plazo máximo legal para resolver el procedimiento es de seis meses. Sin embargo, la Administración no dicta ni notifica resolución hasta el 20 de septiembre de 2024. La empresa sancionada alega que el procedimiento ha caducado. De acuerdo con la Ley 39/2015, ¿qué consecuencia jurídica se produce?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La sanción es válida porque la Administración puede resolver en cualquier momento mientras no haya prescrito la infracción."
+      },
+      {
+        "value": 2,
+        "text": "Se produce la estimación por silencio administrativo al haber transcurrido el plazo máximo."
+      },
+      {
+        "value": 3,
+        "text": "Se produce la caducidad del procedimiento al tratarse de un procedimiento iniciado de oficio con efectos desfavorables."
+      },
+      {
+        "value": 4,
+        "text": "El procedimiento continúa siendo válido porque el retraso no afecta a la validez del acto final."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Se produce la caducidad del procedimiento al tratarse de un procedimiento iniciado de oficio con efectos desfavorables."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Se produce la caducidad del procedimiento. Al tratarse de un procedimiento iniciado de oficio con efectos desfavorables para el ciudadano (sancionador), el incumplimiento del plazo máximo de resolución produce la caducidad, conforme al art. 25.1.b Ley 39/2015.",
+    "officialId": 458
+  },
+  {
+    "id": "tec-t13_9",
+    "questionNum": 9,
+    "question": "Carmen Sánchez, tras presentar su proyecto a la convocatoria de ayudas de la Consejería de Salud realizada en 2010 en el marco de la Acción estratégica de Salud, obtuvo una ayuda de 100.000 euros. La Sra. Carmen Sánchez se ha comunicado en todo momento electrónicamente con la Administración. La Directora de Investigación e Innovación Sanitaria de la Consejería de Salud, tras constatar que el grado de cumplimiento del proyecto de la beneficiaria no había alcanzado el 50 % de los objetivos del proyecto (que era el mínimo establecido), acordó el reintegro total del importe recibido por incumplimiento de las bases de la convocatoria. La Sra. Carmen Sánchez estima que el procedimiento de reintegro ha incurrido en caducidad, al exceder del plazo máximo de 12 meses para resolver y notificar la resolución del procedimiento desde la fecha del acuerdo de incoación, establecido por el artículo 42.4 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones. Este precepto señala: el plazo máximo para resolver y notificar la resolución del procedimiento de reintegro será de 12 meses desde la fecha de acuerdo de iniciación. Carmen Sánchez ha interpuesto en plazo un recurso de reposición ante la Directora de Investigación e Innovación Sanitaria de la Consejería de Salud solicitando la suspensión del acto impugnado. ¿Qué consecuencias tiene la falta de resolución y notificación expresa sobre dicha solicitud por parte del órgano competente para decidir sobre la misma?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Si transcurre un mes desde que la solicitud de suspensión ha tenido entrada en el registro electrónico de la Administración competente para decidir sobre la misma, la ejecución del acto impugnado se entenderá suspendida."
+      },
+      {
+        "value": 2,
+        "text": "Si transcurren dos meses desde que la solicitud de suspensión ha tenido entrada en el registro electrónico de la Administración competente para decidir sobre la misma, la solicitud de suspensión se entenderá desestimada."
+      },
+      {
+        "value": 3,
+        "text": "Si transcurren quince días desde que la solicitud de suspensión ha tenido entrada en el registro electrónico de la Administración competente para decidir sobre la misma, la ejecución del acto impugnado se entenderá suspendida."
+      },
+      {
+        "value": 4,
+        "text": "Si transcurre un mes desde que la solicitud de suspensión ha tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir sobre la misma, la solicitud de suspensión se entenderá desestimada."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Si transcurre un mes desde que la solicitud de suspensión ha tenido entrada en el registro electrónico de la Administración competente para decidir sobre la misma, la ejecución del acto impugnado se entenderá suspendida."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme al art. 117.3 Ley 39/2015, si transcurre un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico sin que la Administración haya dictado y notificado resolución expresa, la ejecución del acto impugnado se entenderá SUSPENDIDA (silencio positivo a favor de la suspensión).",
+    "officialId": 459
+  },
+  {
+    "id": "tec-t13_10",
+    "questionNum": 10,
+    "question": "El Departamento de Salud de una Comunidad Autónoma elabora un proyecto de Decreto para regular el régimen de autorización de determinados centros sanitarios privados. El proyecto: ✓ No estaba incluido en el Plan Anual Normativo. ✓ No se sometió a consulta pública previa. ✓ Se justificó la omisión alegando razones de urgencia. ✓ Tampoco se realizó trámite de audiencia ni información pública. ✓ Fue aprobado por el Consejo de Gobierno. ✓ Se publicó únicamente en la página web del Departamento, pero no en el Boletín Oficial de la Comunidad Autónoma. Una asociación profesional impugna el Decreto alegando vicios en su tramitación y falta de eficacia normativa. Conforme a la Ley 39/2015, ¿cuál de las siguientes afirmaciones es jurídicamente correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Decreto es plenamente válido y eficaz desde su aprobación por el Consejo de Gobierno, aunque no haya sido publicado en el boletín oficial."
+      },
+      {
+        "value": 2,
+        "text": "La omisión de consulta pública previa invalida automáticamente el Decreto en todo caso."
+      },
+      {
+        "value": 3,
+        "text": "La falta de publicación en el boletín oficial impide que el Decreto produzca efectos jurídicos."
+      },
+      {
+        "value": 4,
+        "text": "La no inclusión en el Plan Anual Normativo determina por sí sola la nulidad de pleno derecho del Decreto."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La falta de publicación en el boletín oficial impide que el Decreto produzca efectos jurídicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La falta de publicación en el boletín oficial impide que el Decreto produzca efectos jurídicos. Conforme al art. 52 Ley 39/2015, las disposiciones administrativas para ser eficaces deben publicarse en el diario oficial correspondiente; la publicación en la web departamental no suple ese requisito.",
+    "officialId": 460
+  },
+  {
+    "id": "tec-t13_11",
+    "questionNum": 11,
+    "question": "El Departamento de Salud de una Comunidad Autónoma firma un convenio de colaboración con una fundación privada para el desarrollo de un programa de investigación biomédica. El convenio: ✓ No incluye el régimen de modificación. ✓ No establece plazo de duración. ✓ No se inscribe en el Registro de convenios. ✓ Se publica únicamente en la página web del Departamento. ✓ Fue firmado por el Director General de Salud Pública en virtud de una delegación verbal efectuada por el Consejero. Posteriormente, una asociación profesional impugna el convenio alegando defectos formales en su tramitación y firma. Conforme a la Ley 40/2015, ¿cuál de las siguientes afirmaciones es jurídicamente correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El convenio es válido porque la delegación verbal es suficiente al tratarse de un acto de gestión ordinaria."
+      },
+      {
+        "value": 2,
+        "text": "La falta de inscripción en el Registro no afecta a la eficacia del convenio."
+      },
+      {
+        "value": 3,
+        "text": "La ausencia de plazo de duración determina la invalidez del convenio por incumplir el contenido mínimo exigido legalmente."
+      },
+      {
+        "value": 4,
+        "text": "La publicación en la página web es suficiente para su eficacia jurídica."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La ausencia de plazo de duración determina la invalidez del convenio por incumplir el contenido mínimo exigido legalmente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La ausencia de plazo de duración determina la invalidez del convenio por incumplir el contenido mínimo exigido. El art. 49.d Ley 40/2015 exige que los convenios incluyan el plazo de vigencia (máximo 4 años prorrogables). La omisión de un elemento del contenido mínimo obligatorio vicia el convenio.",
+    "officialId": 461
+  },
+  {
+    "id": "tec-t13_12",
+    "questionNum": 12,
+    "question": "El 4 de agosto de 2016, doña Carmen acudió a la consulta de ginecología del centro de salud de Osakidetza y fue atendida por el doctor D. Carlos. El motivo de la visita era la práctica de una prueba complementaria a fin de descartar una posible malignidad, ante el resultado anormal obtenido en una citología. Tras informarle de la posibilidad de vacunarse contra el VPH, el doctor D. Carlos le ofreció a doña Carmen la posibilidad de que se le administrase la profilaxis en su consulta privada y le comunicó que se pondría en contacto con ella con la finalidad de concertar una cita. Cinco días después, D. Carlos tomó el teléfono particular de doña Carmen de su historial clínico, sin consentimiento de la interesada con la finalidad de concertar una cita para suministrarle la vacuna en su consulta privada. Como consecuencia de estos hechos, se abrió expediente disciplinario contra el doctor D. Carlos el 3 de septiembre de 2018. Este concluyó mediante resolución de 30 de marzo de 2019, del Director Gerente del hospital por la que se le aplicaron las siguientes sanciones: ✓ Por desviar a la paciente a su consulta privada, veinticuatro meses de suspensión de funciones. ✓ Por haber tomado el número de teléfono de la paciente de su historia clínica para usarlo fuera de la asistencia de Osakidetza, tres meses de suspensión de funciones. Asimismo, en dicha Resolución se acordó mediante resolución motivada la suspensión provisional de funciones del doctor D. Carlos por un periodo de 6 meses. ¿Puede el órgano competente acordar la suspensión provisional de funciones del doctor D. Carlos durante la tramitación del procedimiento?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No, la Ley 55/2003, del Estatuto Marco del personal estatutario de los servicios de salud lo prohíbe expresamente."
+      },
+      {
+        "value": 2,
+        "text": "Sí, como medida cautelar por falta grave o muy grave, podrá acordar la suspensión provisional de funciones del interesado, que no podrá exceder de seis meses, salvo paralización del procedimiento imputable al interesado."
+      },
+      {
+        "value": 3,
+        "text": "Sí, como medida cautelar por falta grave o muy grave, podrá acordar la suspensión provisional de funciones del interesado, que no podrá exceder de ocho meses, salvo paralización del procedimiento imputable al interesado."
+      },
+      {
+        "value": 4,
+        "text": "No, la Ley 55/2003 del Estatuto Marco del personal estatutario de los servicios de salud, prevé dicha posibilidad únicamente para la falta de abandono del servicio."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Sí, como medida cautelar por falta grave o muy grave, podrá acordar la suspensión provisional de funciones del interesado, que no podrá exceder de seis meses, salvo paralización del procedimiento imputable al interesado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Sí, conforme al art. 71 Ley 55/2003 (Estatuto Marco del personal estatutario), el órgano competente puede acordar la suspensión provisional de funciones como medida cautelar ante falta grave o muy grave, con un límite de 6 meses salvo paralización del procedimiento imputable al interesado.",
+    "officialId": 462
+  },
+  {
+    "id": "tec-t13_13",
+    "questionNum": 13,
+    "question": "Una fundación del sector público autonómico, participada en un 80% por la Administración autonómica y financiada mayoritariamente con fondos públicos, decide adjudicar directamente un contrato de suministro de material sanitario por importe de 250.000 euros a una empresa sin exigir acreditación de solvencia económica ni comprobar si concurren prohibiciones para contratar. La fundación justifica su actuación afirmando que: ✓ No es Administración Pública. ✓ Tiene personalidad jurídica privada. ✓ Se rige por Derecho privado. Una empresa del sector impugna la adjudicación alegando infracción de la Ley 9/2017. Conforme al Título Preliminar de la Ley 9/2017, ¿cuál de las siguientes afirmaciones es jurídicamente correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La fundación no está sometida a la Ley 9/2017 porque tiene personalidad jurídica privada."
+      },
+      {
+        "value": 2,
+        "text": "La fundación es poder adjudicador y debe aplicar los principios de publicidad y concurrencia en la adjudicación del contrato."
+      },
+      {
+        "value": 3,
+        "text": "Al no ser Administración Pública, puede adjudicar libremente el contrato sin aplicar las reglas de solvencia ni comprobar prohibiciones para contratar. el umbral legal."
+      },
+      {
+        "value": 4,
+        "text": "Solo las Administraciones Públicas territoriales están sometidas a la Ley 9/2017."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La fundación es poder adjudicador y debe aplicar los principios de publicidad y concurrencia en la adjudicación del contrato."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La fundación es poder adjudicador conforme al art. 3.3 Ley 9/2017 LCSP (entidades del sector público financiadas mayoritariamente con fondos públicos y creadas para satisfacer necesidades de interés general). Como poder adjudicador debe aplicar los principios de publicidad y concurrencia.",
+    "officialId": 463
+  },
+  {
+    "id": "tec-t13_14",
+    "questionNum": 14,
+    "question": "La Consejería de Salud ha licitado un contrato de Servicios de limpieza para los centros de salud. El valor estimado del contrato asciende a 3.173.246,28 €, con división del objeto del contrato de servicios en tres lotes. Dentro del plazo para la presentación de proposiciones, se formalizaron 3 proposiciones por las empresas A, B y C. El representante de la sociedad mercantil A, cuya proposición ha obtenido una menor valoración que la empresa adjudicataria, estima que la adjudicación no es adecuada a Derecho dado que el contrato que se licita se trata de un contrato de servicios que ha de requerir varios criterios de adjudicación, con predominio de los criterios relacionados con la calidad. Por ello interpone un recurso especial ante el Tribunal Administrativo de Recursos Contractuales y solicita la anulación de los pliegos y una nueva redacción con el fin de reformular los criterios de valoración. ¿Es susceptible de recurso especial ante el Tribunal Administrativo de Recursos Contractuales el contrato de Servicios de limpieza para los centros de salud?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No, porque los Pliegos de Cláusulas Administrativas Particulares del contrato no son susceptibles de recurso especial en materia de contratación."
+      },
+      {
+        "value": 2,
+        "text": "No, porque el valor estimado del contrato no supera el importe establecido en la LCSP, para interponer el recurso especial en materia de contratación."
+      },
+      {
+        "value": 3,
+        "text": "Sí, porque los Pliegos de Bases Administrativas Particulares del contrato son susceptibles de recurso especial y el valor estimado supera el mínimo establecido por la LCSP para poder interponer el recurso especial en materia de contratación."
+      },
+      {
+        "value": 4,
+        "text": "No, porque, aunque los Pliegos de Bases Administrativas Particulares del contrato son susceptibles de recurso especial, el valor estimado no supera el mínimo establecido por la LCSP para poder interponer el recurso especial en materia de contratación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Sí, porque los Pliegos de Bases Administrativas Particulares del contrato son susceptibles de recurso especial y el valor estimado supera el mínimo establecido por la LCSP para poder interponer el recurso especial en materia de contratación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Sí es susceptible de recurso especial. Los PCAP son actos susceptibles de recurso especial (art. 44.2 LCSP) y el valor estimado del contrato (3.173.246,28 €) supera el umbral mínimo de 100.000 € para contratos de servicios establecido por la LCSP para interponer este recurso.",
+    "officialId": 464
+  },
+  {
+    "id": "tec-t13_15",
+    "questionNum": 15,
+    "question": "Un Ayuntamiento licita un contrato cuyo objeto es: ✓ La redacción del proyecto técnico. ✓ La ejecución material de una nueva biblioteca municipal. ✓ El suministro e instalación del mobiliario. ✓ El mantenimiento integral del edificio durante tres años. El contrato se adjudica como contrato de servicios. La prestación principal y económicamente predominante es la ejecución material de la biblioteca. Durante la ejecución: ✓ El adjudicatario incumple los plazos de ejecución de la obra. ✓ El Ayuntamiento acuerda modificar el contrato aumentando un 35 % el presupuesto inicial sin que dicha modificación estuviera prevista en los pliegos. ✓ Posteriormente acuerda la resolución del contrato por incumplimiento culpable del contratista. El contratista impugna alegando incorrecta calificación contractual y modificación ilegal. Conforme a la Ley 9/2017 (Libro Segundo), ¿cuál de las siguientes afirmaciones es jurídicamente correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El contrato está correctamente calificado como contrato de servicios, ya que incluye redacción de proyecto y mantenimiento."
+      },
+      {
+        "value": 2,
+        "text": "El contrato debería haberse calificado como contrato de obras, al incluir la ejecución material de una construcción."
+      },
+      {
+        "value": 3,
+        "text": "La modificación del 35 % es válida, aunque no estuviera prevista en los pliegos, porque el órgano de contratación puede modificar libremente el contrato."
+      },
+      {
+        "value": 4,
+        "text": "La resolución por incumplimiento solo puede acordarse mediante sentencia judicial firme."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El contrato debería haberse calificado como contrato de obras, al incluir la ejecución material de una construcción."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "El contrato debería haberse calificado como contrato de obras, al ser la ejecución material de la construcción la prestación principal y económicamente predominante. Conforme al art. 18 LCSP, los contratos mixtos se califican según la prestación principal. La modificación del 35% sin previsión en pliegos también sería ilegal (art. 205 LCSP: máximo 20% sin previsión).",
+    "officialId": 465
+  },
+  {
+    "id": "tec-t13_16",
+    "questionNum": 16,
+    "question": "Una sociedad mercantil cuyo capital social pertenece en un 100% a una Comunidad Autónoma desarrolla actividades de gestión hospitalaria. La entidad recibe financiación pública anual procedente del presupuesto autonómico y ejerce funciones de gestión de servicios sanitarios públicos. Una asociación solicita que la entidad publique en su página web: ✓ La relación de contratos formalizados. ✓ Las subvenciones concedidas. ✓ Las retribuciones de sus altos cargos. La sociedad mercantil se niega alegando que: ✓ Tiene personalidad jurídica privada. ✓ No forma parte de la Administración Pública. ✓ Se rige por Derecho privado. La asociación interpone reclamación ante el órgano competente en materia de transparencia. Conforme a la Ley 19/2013, ¿cuál de las siguientes afirmaciones es jurídicamente correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La sociedad mercantil está sujeta a las obligaciones de publicidad activa al formar parte del sector público y estar íntegramente participada por una Administración Pública."
+      },
+      {
+        "value": 2,
+        "text": "La sociedad mercantil no está sujeta a la Ley 19/2013 porque tiene personalidad jurídica privada."
+      },
+      {
+        "value": 3,
+        "text": "Solo está obligada a facilitar información si media solicitud individualizada de acceso, pero no a cumplir obligaciones de publicidad activa."
+      },
+      {
+        "value": 4,
+        "text": "Solo estaría obligada si ejerciera potestades administrativas propias."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La sociedad mercantil está sujeta a las obligaciones de publicidad activa al formar parte del sector público y estar íntegramente participada por una Administración Pública."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La sociedad mercantil está sujeta a las obligaciones de publicidad activa. El art. 2.1.g Ley 19/2013 somete a sus obligaciones de transparencia a las sociedades mercantiles con participación pública superior al 50 %; al estar íntegramente participada (100 %), está plenamente obligada a publicar contratos, subvenciones y retribuciones de altos cargos.",
+    "officialId": 466
+  },
+  {
+    "id": "tec-t13_17",
+    "questionNum": 17,
+    "question": "Miren, una enfermera de Osakidetza, lleva trabajando en el sistema de salud público desde hace varios años. A lo largo de su carrera, ha pasado por varias modalidades de contratación, comenzando como funcionaria de carrera, luego como personal estatutario fijo y en ocasiones como interina, en función de las necesidades del centro en el que trabaja. Actualmente, se encuentra trabajando en el turno diurno en el ámbito de atención primaria. Además de su función asistencial, participa activamente en la coordinación de proyectos de salud comunitaria, lo que le ha permitido acceder a formación continua en gestión y actualización profesional. Recientemente, el centro de salud ha recibido instrucciones de reestructurar la jornada laboral y las condiciones de permisos. En su centro, además de las modificaciones en la jornada, Miren ha recibido una invitación para formar parte de una comisión de trabajo destinada a la mejora de la jornada laboral y las condiciones de trabajo del personal sanitario. Miren está algo preocupada, ya que no está segura de si las modificaciones afectarán a su contrato, su jornada laboral y su acceso a beneficios como permisos o formación adicional. De acuerdo con la normativa vigente, ¿qué cambios podrían afectar a las condiciones laborales de Miren si su contrato pasa a una modalidad interina para cubrir necesidades estructurales, teniendo en cuenta las siguientes posibles situaciones?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Si su contrato pasa a ser interino para cubrir necesidades estructurales, Miren podrá acceder a los mismos permisos y beneficios que un funcionario de carrera, pero su jornada anual será ajustada a 1463 horas para turnos nocturnos."
+      },
+      {
+        "value": 2,
+        "text": "Si su contrato pasa a ser interino, tendrá acceso a los 3 días de permiso por asuntos particulares, pero deberá cumplir con una jornada anual de 1610 horas, sin ninguna deducción por permisos o formación adicional."
+      },
+      {
+        "value": 3,
+        "text": "Si su contrato pasa a ser interino en el ámbito de necesidades estructurales, Miren podrá disfrutar de los permisos por asuntos particulares y formación, pero su jornada anual será reducida a 1587 horas efectivas si realiza turnos diurnos y nocturnos, con un factor multiplicador en los turnos nocturnos."
+      },
+      {
+        "value": 4,
+        "text": "Si su contrato pasa a una modalidad de carácter eventual, Miren perdería el derecho a los permisos y licencias por asuntos personales, así como a la formación continuada, pero podría solicitar un adelanto de nómina para cubrir gastos personales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Si su contrato pasa a ser interino en el ámbito de necesidades estructurales, Miren podrá disfrutar de los permisos por asuntos particulares y formación, pero su jornada anual será reducida a 1587 horas efectivas si realiza turnos diurnos y nocturnos, con un factor multiplicador en los turnos nocturnos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "El personal estatutario interino para necesidades estructurales mantiene los mismos derechos que el personal fijo (permisos por asuntos particulares, formación). La jornada anual efectiva para turno mixto diurno-nocturno se reduce a 1.587 horas, con factor multiplicador para los turnos nocturnos según el Acuerdo de condiciones de Osakidetza.",
+    "officialId": 467
+  },
+  {
+    "id": "tec-t13_18",
+    "questionNum": 18,
+    "question": "Eneritz trabaja como funcionaria en el Departamento de Salud del Gobierno Vasco desde hace 5 años. Durante este tiempo, ha desempeñado tareas administrativas en diversos puestos, pero hace un mes fue promovida a un puesto de jefa de unidad. En este nuevo rol, Eneritz se enfrenta a un proceso de revisión de la carrera profesional y se le ha informado de la existencia de un plan de formación y de movilidad en el empleo público vasco, como parte de su desarrollo. Eneritz está considerando solicitar una movilidad hacia otro puesto dentro de la Administración local, pues cree que ese cambio le permitirá continuar su carrera profesional y mejorar su experiencia en otras áreas. Sin embargo, tiene dudas sobre si su solicitud será viable y sobre los derechos que le corresponderían durante este proceso. Según la Ley de Empleo Público Vasco, ¿cómo debe proceder Eneritz para solicitar su movilidad hacia otro puesto en la Administración local? ¿Cuáles son las implicaciones de este proceso y qué derechos mantendría durante el mismo?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Eneritz puede solicitar su movilidad sin restricciones, ya que la Ley de Empleo Público Vasco garantiza que la movilidad es un derecho sin condiciones para todo el personal funcionario, independientemente de su puesto actual."
+      },
+      {
+        "value": 2,
+        "text": "Eneritz debe pasar por un proceso de concurso o libre designación, según lo que determine la Comisión de Coordinación del Empleo Público y debe cumplir con los requisitos específicos para cada puesto. La Ley 11/2022 también garantiza que no perderá su puesto en caso de que la movilidad no sea posible."
+      },
+      {
+        "value": 3,
+        "text": "Eneritz debe solicitar su movilidad a través de un proceso de concurso específico entre las administraciones públicas, según lo establecido en la Ley de Empleo Público Vasco, y su solicitud debe ser evaluada según criterios de mérito y capacidad. Si se concede la movilidad, Eneritz mantendrá sus retribuciones y condiciones laborales."
+      },
+      {
+        "value": 4,
+        "text": "La movilidad no está permitida según la Ley 11/2022 para las personas funcionarias en puestos directivos como el de Eneritz, ya que estos puestos son incompatibles con el proceso de movilidad entre administraciones públicas. Eneritz debería seguir en su puesto actual hasta alcanzar la jubilación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Eneritz debe solicitar su movilidad a través de un proceso de concurso específico entre las administraciones públicas, según lo establecido en la Ley de Empleo Público Vasco, y su solicitud debe ser evaluada según criterios de mérito y capacidad. Si se concede la movilidad, Eneritz mantendrá sus retribuciones y condiciones laborales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La movilidad interadministrativa se articula mediante concurso específico entre administraciones, con evaluación de méritos y capacidad. Si se concede, la persona empleada mantiene sus retribuciones y condiciones laborales. Así lo establece la Ley 11/2022 del Empleo Público Vasco.",
+    "officialId": 468
+  },
+  {
+    "id": "tec-t13_19",
+    "questionNum": 19,
+    "question": "Juan Pérez es personal estatutario fijo en el Sistema Nacional de Salud, trabajando como médico en un hospital público de la Comunidad Autónoma Vasca. Tras varios años en el cargo, decide solicitar una reducción de jornada para poder compatibilizar su trabajo con estudios de postgrado. Además, se encuentra con dificultades laborales, ya que considera que su dignidad e intimidad no están siendo respetadas por parte de algunas personas compañeras y superiores. Frente a esta situación, plantea una queja ante su superior directo. De acuerdo con la normativa aplicable, ¿cuáles de los siguientes derechos le asisten a Juan Pérez en relación con su situación?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Juan Pérez tiene derecho a solicitar una reducción de jornada y, en caso de conflicto laboral, a ser respetado y tratado con corrección, sin necesidad de justificación adicional, además de tener derecho a la promoción interna en el hospital."
+      },
+      {
+        "value": 2,
+        "text": "Juan Pérez tiene derecho a la reducción de jornada; sin embargo, debe justificar su solicitud con la compatibilidad de las necesidades del servicio, y solo podrá recibir formación continuada si su superior lo autoriza."
+      },
+      {
+        "value": 3,
+        "text": "Juan Pérez tiene derecho a solicitar la reducción de jornada y a la formación continuada sin restricciones, así como a que se respete su dignidad e intimidad en el entorno laboral, ya que estos son derechos reconocidos para todo el personal estatutario."
+      },
+      {
+        "value": 4,
+        "text": "Juan Pérez no tiene derecho a reducir su jornada laboral, ya que solo puede pedir un cambio de turno o jornada si está inscrito en un programa de formación autorizado."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Juan Pérez tiene derecho a solicitar la reducción de jornada y a la formación continuada sin restricciones, así como a que se respete su dignidad e intimidad en el entorno laboral, ya que estos son derechos reconocidos para todo el personal estatutario."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Juan Pérez tiene derecho a solicitar reducción de jornada y a la formación continuada, así como a que se respete su dignidad e intimidad en el trabajo. El art. 17 Ley 55/2003 reconoce estos derechos para todo el personal estatutario del SNS.",
+    "officialId": 469
+  },
+  {
+    "id": "tec-t13_20",
+    "questionNum": 20,
+    "question": "Aitor es un funcionario del Gobierno Vasco que ocupa el puesto de administrativo en el Departamento de Cultura desde hace más de 10 años. Durante este tiempo, ha sido promovido a responsable de proyectos culturales tras una convocatoria interna, un puesto que requiere un grado superior de formación y experiencia en gestión de eventos. Recientemente, Aitor ha recibido una notificación para participar en la revisión de la planificación de personal en su departamento, y se le ha indicado que podría haber cambios en las clasificaciones del personal para adaptarse mejor a las nuevas necesidades organizativas del Gobierno Vasco. En la reunión de planificación, la directora del departamento comentó que las modificaciones que se implementarán tienen como objetivo mejorar la ordenación del personal estatutario, promoviendo una distribución más eficiente de los puestos según la clasificación actual de personas empleadas públicas. La estrategia también incluye la posibilidad de ajustar los puestos de trabajo a las nuevas exigencias y garantizar que los criterios de mérito y capacidad se mantengan como principios fundamentales para el acceso y la promoción. Aitor tiene dudas sobre cómo se llevan a cabo estos cambios en la planificación y clasificación del personal, y sobre cuáles son los criterios establecidos por la ley para la clasificación del personal y la ordenación dentro de la Administración Pública Vasca. A continuación, se le presentan varias cuestiones clave. Según la Ley de Empleo Público Vasco, ¿cuál de las siguientes afirmaciones describe mejor el proceso de clasificación del personal estatutario y su ordenación en la Administración Pública Vasca?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La clasificación del personal estatutario debe basarse exclusivamente en los títulos académicos de las personas empleadas, sin tener en cuenta la experiencia laboral o el desempeño en los puestos anteriores."
+      },
+      {
+        "value": 2,
+        "text": "El personal estatutario se clasifica de acuerdo con los grados de complejidad y responsabilidad de los puestos, y el proceso de clasificación se realiza teniendo en cuenta tanto los méritos, la formación y la experiencia de las personas empleadas."
+      },
+      {
+        "value": 3,
+        "text": "El proceso de clasificación del personal estatutario no tiene en cuenta la experiencia o los méritos personales, sino solo el cumplimiento de los requisitos formales establecidos en las convocatorias de acceso a los puestos."
+      },
+      {
+        "value": 4,
+        "text": "La clasificación del personal estatutario es un proceso automático basado exclusivamente en la antigüedad del personal en la Administración, sin intervención de ninguna otra variable."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El personal estatutario se clasifica de acuerdo con los grados de complejidad y responsabilidad de los puestos, y el proceso de clasificación se realiza teniendo en cuenta tanto los méritos, la formación y la experiencia de las personas empleadas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La clasificación del personal estatutario se realiza atendiendo al grado de complejidad y responsabilidad de los puestos, considerando méritos, formación y experiencia. La Ley 11/2022 LEPV establece que el proceso de clasificación y ordenación integra múltiples variables, no solo el título académico ni la antigüedad.",
+    "officialId": 470
+  },
+  {
+    "id": "tec-t13_21",
+    "questionNum": 21,
+    "question": "Carlos es un médico que ha comenzado su formación especializada como residente en el Hospital Universitario de San Sebastián en el año 2021. Desde que inició su formación, ha estado trabajando bajo el régimen de la relación laboral de carácter especial, conforme al Real Decreto 1146/2006. En el segundo año de su formación, se le propone realizar una rotación externa en otro hospital acreditado, lo cual es parte de su programa de formación. Sin embargo, Carlos está preocupado por las implicaciones de dicha rotación, ya que esta implicaría un cambio en su lugar de trabajo y en su unidad docente, lo que podría afectar tanto su formación como sus retribuciones. Carlos pregunta si la rotación externa es un derecho garantizado dentro del régimen de residencia y cuáles son las condiciones bajo las cuales podría llevarla a cabo. También tiene dudas sobre si las retribuciones y los derechos laborales se mantienen durante este tipo de rotaciones. Según el Real Decreto 1146/2006, ¿cuáles son las condiciones y los derechos de Carlos durante su rotación externa como residente en formación?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Carlos tiene derecho a realizar rotaciones externas solo si el hospital donde se realice la rotación está acreditado, pero no se le garantizarán sus retribuciones ni las condiciones laborales durante el proceso"
+      },
+      {
+        "value": 2,
+        "text": "Carlos puede realizar rotaciones externas, siempre que se cumplan ciertos requisitos como la autorización del centro de origen y la rotación no supere los cuatro meses continuados. Sus retribuciones y derechos laborales se mantienen durante este periodo."
+      },
+      {
+        "value": 3,
+        "text": "Las rotaciones externas no son permitidas según el Real Decreto 1146/2006 para los residentes en formación, por lo que Carlos debe continuar su formación exclusivamente en su unidad docente de origen."
+      },
+      {
+        "value": 4,
+        "text": "Carlos no puede realizar una rotación externa si no es una parte previa acordada en su programa de formación y, si decide hacerla, sus retribuciones se verían reducidas proporcionalmente al tiempo de rotación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Carlos puede realizar rotaciones externas, siempre que se cumplan ciertos requisitos como la autorización del centro de origen y la rotación no supere los cuatro meses continuados. Sus retribuciones y derechos laborales se mantienen durante este periodo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme al art. 16 RD 1146/2006, los residentes pueden realizar rotaciones externas con autorización del centro de origen y de la unidad docente responsable, con un período máximo de 4 meses continuados. Las retribuciones y derechos laborales se mantienen durante la rotación.",
+    "officialId": 471
+  },
+  {
+    "id": "tec-t13_22",
+    "questionNum": 22,
+    "question": "Paul es un funcionario de carrera con una antigüedad de 12 años en la administración pública trabajando como técnico de auditoría en un departamento financiero. Según la normativa vigente, Paul tiene derecho a disfrutar de 30 días naturales de vacaciones al año. Durante los primeros meses del año, Paul había solicitado y obtenido la aprobación de sus vacaciones para el mes de julio, un período que había planeado con tiempo para poder descansar y pasar tiempo con su familia. Sin embargo, a principios de junio, Paul sufrió un accidente fuera del horario laboral que le provocó una incapacidad temporal debido a una lesión en el brazo. Su médica le indicó que debería guardar reposo durante un período de 4 semanas, lo que coincidía parcialmente con las fechas en las que había solicitado sus vacaciones en julio. Tras recibir el parte médico de incapacidad temporal, Paul informa a su superior de la situación y le consulta sobre cómo podría gestionar sus vacaciones. Su jefe le responde que, si bien sus vacaciones ya habían sido aprobadas, tendría que determinar si el período de incapacidad temporal afectaba a las fechas establecidas para sus días de descanso, ya que no se podían acumular los períodos de vacaciones y baja por incapacidad. Además, su superior le advierte que la administración podría considerar que, al estar en incapacidad temporal durante ese tiempo, Paul perdería los días de vacaciones previstos. Según la normativa vigente, ¿cómo deben gestionarse los períodos de incapacidad temporal y vacaciones en el caso de Paul, y qué derechos le asisten?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las vacaciones de Paul pueden ser suspendidas por completo durante su incapacidad temporal, con posibilidad de reprogramarlas, siempre y cuando disfrute de las vacaciones en el mismo año natural."
+      },
+      {
+        "value": 2,
+        "text": "Si Paul está en situación de incapacidad temporal durante el período de sus vacaciones, las fechas de descanso pueden ser reprogramadas para que disfrute de sus días de vacaciones en otro momento, sin perjuicio de su derecho a recibir las retribuciones correspondientes durante la baja."
+      },
+      {
+        "value": 3,
+        "text": "Paul no puede disfrutar de sus vacaciones si está en incapacidad temporal, y las vacaciones serán automáticamente anuladas, sin posibilidad de solicitar nuevos días de descanso."
+      },
+      {
+        "value": 4,
+        "text": "Las vacaciones de Paul pueden ser suspendidas por completo durante su incapacidad temporal, con posibilidad de reprogramarlas, siempre y cuando disfrute de las vacaciones en un plazo máximo de 18 meses."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las vacaciones de Paul pueden ser suspendidas por completo durante su incapacidad temporal, con posibilidad de reprogramarlas, siempre y cuando disfrute de las vacaciones en un plazo máximo de 18 meses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme al EBEP y la doctrina del TJUE (caso Schultz-Hoff), si la IT coincide con el período de vacaciones aprobado, las vacaciones pueden ser reprogramadas. El plazo para disfrutarlas puede extenderse hasta 18 meses tras el final del año de devengo si la IT impide disfrutarlas en su momento.",
+    "officialId": 472
+  },
+  {
+    "id": "tec-t13_23",
+    "questionNum": 23,
+    "question": "En la Organización de Servicios Integrados (OSI) de Bilbao-Basurto de Osakidetza, se convoca un proceso interno para la provisión de un puesto funcional de Técnico/a Superior de Gestión Económica. En la convocatoria se establece como requisito estar en posesión del título de Licenciatura o Grado en Derecho, Economía o Administración y Dirección de Empresas, conforme a la definición del puesto funcional prevista en el Decreto 186/2005, de 19 de julio, regulador de los puestos funcionales del Ente Público. Una trabajadora con nombramiento como Administrativa (Grupo C1), que posee el título de Grado en Derecho, solicita participar en el proceso alegando que su titulación cumple el requisito exigido y que lleva más de 10 años desempeñando funciones de gestión económica. La Dirección de Recursos Humanos inadmite su solicitud argumentando que, conforme al Decreto 186/2005, los puestos funcionales se definen no solo por la titulación, sino también por su encuadramiento en el grupo profesional correspondiente, y que el acceso requiere pertenecer al grupo de clasificación exigido para el puesto convocado. De acuerdo con el Decreto 186/2005 sobre puestos funcionales de Osakidetza, el acceso a un puesto funcional viene determinado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exclusivamente por la titulación académica exigida en la convocatoria."
+      },
+      {
+        "value": 2,
+        "text": "Por la antigüedad en la organización, siempre que se acrediten funciones similares."
+      },
+      {
+        "value": 3,
+        "text": "Por la definición reglamentaria del puesto funcional, que incluye grupo profesional, titulación y funciones."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente por decisión discrecional de la Dirección de la Organización de Servicios."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Por la definición reglamentaria del puesto funcional, que incluye grupo profesional, titulación y funciones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "El acceso a un puesto funcional en Osakidetza viene determinado por la definición reglamentaria del puesto en el Decreto 186/2005, que incluye el grupo profesional de clasificación, la titulación exigida y las funciones. No basta con acreditar la titulación si no se pertenece al grupo profesional requerido.",
+    "officialId": 473
+  },
+  {
+    "id": "tec-t13_24",
+    "questionNum": 24,
+    "question": "La Autoridad Vasca de Protección de Datos ha tenido conocimiento a través de la denuncia de un particular de ciertas infracciones en materia de protección de datos de particulares cometidas en el seno de un centro universitario vasco por parte de su director, por lo que decide iniciar las correspondientes actuaciones disciplinarias. Conforme establece la ley reguladora de la Autoridad Vasca de Protección de Datos, si la autoridad acuerda sancionar a ese centro universitario:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su resolución debe comunicarse al Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Su resolución debe comunicarse al Ararteko."
+      },
+      {
+        "value": 3,
+        "text": "Su resolución debe comunicarse al Gobierno Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Ninguna de las anteriores opciones es correcta."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Su resolución debe comunicarse al Gobierno Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme a la Ley 2/2004 de la Autoridad Vasca de Protección de Datos (AVPD), cuando la AVPD sanciona a una entidad del sector público (como un centro universitario vasco), su resolución debe comunicarse al Gobierno Vasco para que adopte las medidas oportunas a través del departamento competente.",
+    "officialId": 474
+  },
+  {
+    "id": "tec-t13_25",
+    "questionNum": 25,
+    "question": "Paul es un funcionario público que trabaja en el área administrativa de un organismo autónomo del Estado. Durante los meses de abril y mayo, Paul sufre un accidente laboral que le obliga a iniciar un proceso de incapacidad temporal. Mientras se encuentra de baja médica, decide tomar sus vacaciones acumuladas correspondientes al año anterior, las cuales no había disfrutado. Durante su incapacidad temporal, su situación se ve afectada por varios factores administrativos, y Paul se pregunta si sus períodos de incapacidad temporal y vacaciones afectan su alta en el régimen de Seguridad Social. Dado que Paul ha estado recibiendo tratamiento médico y se encuentra en una situación de incapacidad temporal, se pregunta cómo debería ser reconocido este período para efectos de cotización a la Seguridad Social, especialmente en lo que respecta a las prestaciones por jubilación, incapacidad permanente y otras prestaciones. Según lo establecido en el texto refundido de la Ley General de la Seguridad Social, ¿qué impacto tiene la situación de incapacidad temporal de Paul combinada con su período de vacaciones en su alta en la Seguridad Social y sus derechos a prestaciones?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El período de incapacidad temporal es considerado una situación asimilada a la de alta en la Seguridad Social, lo que le permite seguir cotizando para las prestaciones contributivas como si estuviera trabajando."
+      },
+      {
+        "value": 2,
+        "text": "La situación de incapacidad temporal interrumpe su derecho a las prestaciones contributivas, ya que se considera un período de suspensión laboral no cotizado."
+      },
+      {
+        "value": 3,
+        "text": "Las vacaciones no disfrutadas de Paul no afectarán su situación de incapacidad temporal, y este seguirá cotizando en el régimen general sin interrupciones, incluso si su baja médica es prolongada."
+      },
+      {
+        "value": 4,
+        "text": "Si Paul está de baja por incapacidad temporal durante sus vacaciones, estas deben ser tratadas como una suspensión temporal sin efectos en sus cotizaciones, no siendo computables a efectos de pensiones o jubilación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El período de incapacidad temporal es considerado una situación asimilada a la de alta en la Seguridad Social, lo que le permite seguir cotizando para las prestaciones contributivas como si estuviera trabajando."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme al art. 166 LGSS (texto refundido), la situación de incapacidad temporal es una situación asimilada al alta en la Seguridad Social. Por tanto, el período de IT computa a efectos de cotización para prestaciones contributivas (jubilación, incapacidad permanente, etc.) como si el trabajador estuviera en activo.",
+    "officialId": 475
+  },
+  {
+    "id": "tec-t13_26",
+    "questionNum": 26,
+    "question": "Una asociación profesional del ámbito sanitario interpone recurso contra una Orden del Departamento de Salud por la que se reorganiza la prestación de determinados servicios asistenciales en varias comarcas. La asociación sostiene que: ✓ La competencia para adoptar decisiones estructurales sobre la organización del Sistema Sanitario corresponde exclusivamente a Osakidetza. ✓ El Departamento de Salud no puede alterar la planificación asistencial sin aprobación del Parlamento Vasco. ✓ La reorganización vulnera el principio de participación ciudadana al no haberse sometido a consulta previa a los Consejos de Salud. El Departamento de Salud defiende que la decisión se enmarca en sus competencias de dirección y planificación del Sistema Sanitario de Euskadi. Conforme a la Ley 8/1997, ¿cuál de las siguientes afirmaciones es jurídicamente correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La dirección, planificación y programación del Sistema Sanitario de Euskadi corresponde al Gobierno Vasco a través del Departamento competente en materia de sanidad."
+      },
+      {
+        "value": 2,
+        "text": "La competencia para reorganizar servicios sanitarios corresponde exclusivamente a Osakidetza como ente público prestador."
+      },
+      {
+        "value": 3,
+        "text": "Cualquier modificación estructural del Sistema Sanitario requiere aprobación previa del Parlamento Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Los Consejos de Salud tienen carácter decisorio y vinculante en materia de planificación sanitaria."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La dirección, planificación y programación del Sistema Sanitario de Euskadi corresponde al Gobierno Vasco a través del Departamento competente en materia de sanidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme al art. 14 y 15 Ley 8/1997 de Ordenación Sanitaria del País Vasco, la dirección, planificación y programación del Sistema Sanitario de Euskadi corresponde al Gobierno Vasco a través del Departamento competente en materia de sanidad. Osakidetza es el ente proveedor, pero la planificación es competencia del Departamento.",
+    "officialId": 476
+  },
+  {
+    "id": "tec-t13_27",
+    "questionNum": 27,
+    "question": "El Departamento de Salud acuerda reorganizar varias organizaciones de servicios sanitarios integradas en Osakidetza, otorgándoles mayor autonomía en la gestión de recursos humanos y materiales. Asimismo, decide que determinadas prestaciones sanitarias podrán articularse mediante medios ajenos, siempre dentro de la planificación sanitaria aprobada. Un sindicato impugna la decisión alegando que: ✓ Las estructuras públicas de provisión carecen de autonomía real de gestión. ✓ Al tratarse de un servicio público esencial, solo pueden gestionarse mediante fórmulas de gestión directa administrativa. ✓ La colaboración con medios ajenos vulnera el carácter público del servicio. El Departamento defiende que actúa conforme al régimen previsto en la Ley 8/1997. Conforme a la Ley 8/1997, ¿cuál de las siguientes afirmaciones es jurídicamente correcta?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las estructuras públicas de provisión de servicios sanitarios carecen de autonomía de gestión, al formar parte del Sistema Sanitario de Euskadi."
+      },
+      {
+        "value": 2,
+        "text": "El carácter de servicio de interés público impide cualquier forma de colaboración con medios ajenos."
+      },
+      {
+        "value": 3,
+        "text": "Las estructuras sanitarias solo pueden gestionarse mediante fórmulas de gestión directa administrativa."
+      },
+      {
+        "value": 4,
+        "text": "Las estructuras públicas de provisión pueden disponer de autonomía de gestión y articular la prestación mediante medios propios o ajenos conforme a la planificación sanitaria"
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Las estructuras públicas de provisión pueden disponer de autonomía de gestión y articular la prestación mediante medios propios o ajenos conforme a la planificación sanitaria"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme a la Ley 8/1997, las estructuras públicas de provisión de servicios sanitarios pueden disponer de autonomía de gestión y articular la prestación mediante medios propios o ajenos, dentro de la planificación sanitaria aprobada. El carácter de servicio de interés público no excluye la colaboración con medios ajenos.",
+    "officialId": 477
+  },
+  {
+    "id": "tec-t13_28",
+    "questionNum": 28,
+    "question": "Director Gerente de una organización de servicios de Osakidetza acuerda: ✓ Modificar unilateralmente la estructura interna del centro. ✓ Suscribir un contrato de colaboración con una empresa privada. ✓ Aprobar un protocolo asistencial de obligado cumplimiento. ✓ Ejercer potestad sancionadora frente a un profesional estatutario. Un sindicato impugna los acuerdos alegando que: ✓ Las organizaciones de servicios carecen de autonomía real. ✓ Solo la Organización Central puede ejercer potestades administrativas. ✓ El régimen de gestión de Osakidetza es exclusivamente de Derecho privado. El Director Gerente defiende que actúa conforme a las competencias reconocidas en los Estatutos Sociales del Ente Público. Conforme al Decreto 255/1997, ¿cuál de las siguientes afirmaciones es jurídicamente correcta",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las organizaciones de servicios carecen de capacidad decisoria propia y actúan como meras unidades administrativas sin autonomía."
+      },
+      {
+        "value": 2,
+        "text": "El régimen de gestión de Osakidetza es exclusivamente de Derecho privado en toda su actividad."
+      },
+      {
+        "value": 3,
+        "text": "Las organizaciones de servicios pueden ejercer potestades administrativas cuando así les sean atribuidas conforme al ordenamiento jurídico."
+      },
+      {
+        "value": 4,
+        "text": "Solo la Organización Central puede celebrar contratos y adoptar decisiones de gestión ordinaria."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las organizaciones de servicios pueden ejercer potestades administrativas cuando así les sean atribuidas conforme al ordenamiento jurídico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme al Decreto 255/1997 (Estatutos de Osakidetza), las organizaciones de servicios integradas en Osakidetza pueden ejercer potestades administrativas cuando así les sean atribuidas conforme al ordenamiento jurídico. Osakidetza es un ente público de Derecho privado pero puede actuar con poderes públicos cuando la ley lo establezca.",
+    "officialId": 478
+  },
+  {
+    "id": "tec-t13_29",
+    "questionNum": 29,
+    "question": "Osakidetza–Servicio Vasco de Salud convoca, mediante concurso-oposición, una plaza de enfermero/a para un centro de salud con atención directa y habitual a pacientes. En la relación de puestos funcionales vigente, el puesto tiene asignado perfil lingüístico 2 de euskera con fecha de preceptividad vencida desde hace dos años, conforme a la planificación lingüística aprobada en aplicación del decreto 67/2003. Las bases de la convocatoria establecen expresamente como requisito imprescindible la acreditación del perfil lingüístico en el momento de finalización del plazo de presentación de solicitudes. Dichas bases fueron publicadas oficialmente y no fueron recurridas. Una aspirante supera la fase de oposición y obtiene puntuación suficiente en el concurso, pero no acredita el perfil exigido, siendo excluida antes del nombramiento. Interpone recurso contra su exclusión alegando que el requisito lingüístico vulnera el principio de igualdad y que debería primar exclusivamente su capacidad profesional sanitaria. En el supuesto planteado, en aplicación del Decreto 67/2003, la impugnación formulada por la aspirante debe resolverse en el sentido de que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Procede estimar el recurso, ya que el mérito y capacidad profesional deben prevalecer sobre cualquier requisito lingüístico en el ámbito sanitario."
+      },
+      {
+        "value": 2,
+        "text": "Procede estimar el recurso, porque la exigencia del perfil lingüístico solo puede valorarse como mérito y no como requisito excluyente."
+      },
+      {
+        "value": 3,
+        "text": "Procede desestimar el recurso, al tratarse de un requisito establecido en bases firmes y relativo a un puesto con perfil lingüístico preceptivo vencido."
+      },
+      {
+        "value": 4,
+        "text": "Procede anular todo el proceso selectivo por vulneración automática del principio de igualdad."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Procede desestimar el recurso, al tratarse de un requisito establecido en bases firmes y relativo a un puesto con perfil lingüístico preceptivo vencido."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Procede desestimar el recurso. Las bases de la convocatoria son firmes al no haber sido recurridas en plazo. El puesto tiene asignado el perfil lingüístico 2 con fecha de preceptividad vencida, lo que lo convierte en requisito excluyente. Conforme al Decreto 67/2003, una vez vencida la fecha de preceptividad, el perfil lingüístico es de cumplimiento obligatorio.",
+    "officialId": 479
+  },
+  {
+    "id": "tec-t13_30",
+    "questionNum": 30,
+    "question": "En la empresa X, dedicada a la fabricación de maquinaria pesada, se ha detectado una alta tasa de accidentes laborales debido a la exposición constante de las personas trabajadoras a condiciones de riesgo. La empresa, con más de 200 personas empleadas, ha realizado varias intervenciones para mejorar las condiciones de seguridad y salud, pero no ha implementado un plan adecuado de prevención de riesgos laborales. Ignacia es una técnica de prevención de riesgos laborales contratada recientemente para evaluar y mejorar las condiciones de trabajo. Su función principal es garantizar que las personas trabajadoras estén correctamente informadas sobre los riesgos a los que están expuestas, que reciban la formación adecuada y que participen activamente en la mejora continua de la seguridad en el trabajo. Además, debe colaborar estrechamente con la representación de las personas trabajadoras y con las personas delegadas de prevención, quienes actualmente no cuentan con la formación necesaria para desempeñar adecuadamente sus funciones. ¿Cuál de las siguientes afirmaciones es correcta en relación con las responsabilidades de la empresa y los derechos de las personas trabajadoras en materia de prevención de riesgos laborales?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La empresa está obligada a garantizar la seguridad y salud de las personas trabajadoras sin necesidad de que sean consultadas o participen en la toma de decisiones sobre prevención."
+      },
+      {
+        "value": 2,
+        "text": "Las personas trabajadoras tienen derecho a interrumpir su actividad laboral y abandonar el lugar de trabajo en caso de riesgo grave e inminente para su salud, sin sufrir perjuicio alguno."
+      },
+      {
+        "value": 3,
+        "text": "La empresa puede imponer a las personas trabajadoras el coste de las medidas preventivas, siempre que se justifique económicamente."
+      },
+      {
+        "value": 4,
+        "text": "Las personas trabajadoras tienen derecho a interrumpir su actividad laboral y abandonar el lugar de trabajo en caso de riesgo grave e inminente para su salud, siempre que lo comuniquen previamente a la Inspección de Trabajo ENUNCIADO DE LAS PREGUNTAS 481, 482, 483 La sociedad FAN, S.A. adquiere 20.000 batas de enfermería a un precio unitario de 10€, incluyendo el proveedor en la factura gastos de transporte por importe de 2.000€. Tras la recepción de la mercancía, la empresa manifiesta su disconformidad con la calidad del algodón de las batas y comunica al proveedor su intención de no aceptar la operación salvo que se revise el precio pactado. Posteriormente, el proveedor concede una reducción del precio de 0,2€ por unidad suministrada y formula adicionalmente una reducción en factura de 6.000€, condicionada a la liquidación inmediata de la deuda. Todos los importes se consideran sin incluir el IVA."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las personas trabajadoras tienen derecho a interrumpir su actividad laboral y abandonar el lugar de trabajo en caso de riesgo grave e inminente para su salud, sin sufrir perjuicio alguno."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Conforme al art. 21 Ley 31/1995 PRL, los trabajadores tienen derecho a interrumpir su actividad laboral y abandonar el lugar de trabajo en caso de riesgo grave e inminente para su vida o salud, sin sufrir perjuicio alguno. Este derecho no requiere previa comunicación a la Inspección de Trabajo.",
+    "officialId": 480
+  },
+  {
+    "id": "tec-t13_31",
+    "questionNum": 31,
+    "question": "[ENUNCIADO: La sociedad FAN, S.A. adquiere 20.000 batas de enfermería a un precio unitario de 10€, incluyendo el proveedor en la factura gastos de transporte por importe de 2.000€. Tras la recepción de la mercanc...] ¿A cuánto asciende el precio de adquisición por unidad?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "9,6€."
+      },
+      {
+        "value": 2,
+        "text": "10€."
+      },
+      {
+        "value": 3,
+        "text": "9,8€."
+      },
+      {
+        "value": 4,
+        "text": "10,1€."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "9,8€."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Precio de adquisición por unidad = precio de compra - rappel por calidad = 10€ - 0,2€ = 9,8€/unidad. El descuento por pronto pago (6.000€) NO reduce el precio de adquisición (se registra en cuenta 606). El transporte se contabiliza aparte o incrementa el precio de adquisición total.",
+    "officialId": 481
+  },
+  {
+    "id": "tec-t13_32",
+    "questionNum": 32,
+    "question": "[ENUNCIADO: La sociedad FAN, S.A. adquiere 20.000 batas de enfermería a un precio unitario de 10€, incluyendo el proveedor en la factura gastos de transporte por importe de 2.000€. Tras la recepción de la mercanc...] ¿A cuánto asciende el gasto por compras de mercaderías (600)?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "100.000€."
+      },
+      {
+        "value": 2,
+        "text": "96.000€."
+      },
+      {
+        "value": 3,
+        "text": "101.000€."
+      },
+      {
+        "value": 4,
+        "text": "98.000€."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "98.000€."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Gasto por compras (cuenta 600) = precio unitario neto × unidades = 9,8€ × 10.000 unidades = 98.000€. El rappel de calidad (0,2€/unidad) reduce el precio de adquisición. El descuento por pronto pago va a cuenta (606) y no afecta a la cuenta (600).",
+    "officialId": 482
+  },
+  {
+    "id": "tec-t13_33",
+    "questionNum": 33,
+    "question": "[ENUNCIADO: La sociedad FAN, S.A. adquiere 20.000 batas de enfermería a un precio unitario de 10€, incluyendo el proveedor en la factura gastos de transporte por importe de 2.000€. Tras la recepción de la mercanc...] El descuento recibido por pagar la factura al contado se registra en la siguiente cuenta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "(606) Descuentos sobre compras por pronto pago."
+      },
+      {
+        "value": 2,
+        "text": "(608) Devoluciones de compras y operaciones similares."
+      },
+      {
+        "value": 3,
+        "text": "(609) «Rappels» por compras"
+      },
+      {
+        "value": 4,
+        "text": "(693) Pérdidas por deterioro de existencias. ENUNCIADO DE LA PREGUNTA 484 Se conoce que días después del pago, el proveedor abona a FAN, S.A. una compensación de 500€ por defectos adicionales detectados en los botones de las batas, ingresando el importe directamente en la cuenta bancaria de la empresa."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "(606) Descuentos sobre compras por pronto pago."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "El descuento por pagar al contado (pronto pago) de 6.000€ se registra en la cuenta (606) 'Descuentos sobre compras por pronto pago'. Esta cuenta recoge los descuentos concedidos por el proveedor como consecuencia de la liquidación anticipada de la deuda y NO reduce el precio de adquisición de las existencias.",
+    "officialId": 483
+  },
+  {
+    "id": "tec-t13_34",
+    "questionNum": 34,
+    "question": "¿Qué cuenta se utiliza para registrar la compensación de 500€?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "(693) Pérdidas por deterioro de existencias."
+      },
+      {
+        "value": 2,
+        "text": "(712) Variación de existencias de productos terminados."
+      },
+      {
+        "value": 3,
+        "text": "(793) Reversión del deterioro de existencias."
+      },
+      {
+        "value": 4,
+        "text": "(608) Devoluciones de compras y operaciones similares. ENUNCIADO DE LAS PREGUNTAS 485, 486, 487 Durante el ejercicio 2025, la sociedad SAKI, S.A., cuya actividad principal es la fabricación de maquinaria destinada a centros hospitalarios, experimento una notable caída como consecuencia de una reducción en los presupuestos destinados a sanidad. Como resultado, el 31 de enero de 2026 se puso en marcha un plan de desinversión y reorientación de sus líneas productivas. En el marco de dicho plan, la entidad decidió desprenderse de ciertos elementos del inmovilizado con menor aportación al negocio y concentrarse en las áreas con mayor rendimiento. Entre las decisiones adoptadas se encuentran: i. transmisión de algunas máquinas a una compañía situada en las proximidades de las instalaciones de SAKI, S.A.; y ii. venta de solares adquiridos en el momento de constitución de la sociedad (finales del año 2000) a un grupo inmobiliario. Del Balance de Situación cerrado a 31 de diciembre de 2025, y tomando los importes en Valor Neto Contable (VNC), se dispone de los siguientes datos: • Maquinas:1.776.000€; y • Solares: 2.440.000€. Las máquinas comenzaron a utilizarse el 1 de enero de 2023, se amortizan por el método lineal, tienen una vida útil estimada de 8 años y su valor residual es cero. Por su parte, los solares han permanecido en el patrimonio de OSAKI, S.A. desde su constitución, a finales del año 2000. Las operaciones de venta se formalizan el 31 de enero de 2026 mediante efectos comerciales aceptados por los compradores, por importes de 1.776.000€ en el caso de las máquinas vendidas y de 1.280.000€ en el caso de los solares. NOTA: Las operaciones deben considerarse exentas de IVA a efectos de los cálculos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "(608) Devoluciones de compras y operaciones similares. ENUNCIADO DE LAS PREGUNTAS 485, 486, 487 Durante el ejercicio 2025, la sociedad SAKI, S.A., cuya actividad principal es la fabricación de maquinaria destinada a centros hospitalarios, experimento una notable caída como consecuencia de una reducción en los presupuestos destinados a sanidad. Como resultado, el 31 de enero de 2026 se puso en marcha un plan de desinversión y reorientación de sus líneas productivas. En el marco de dicho plan, la entidad decidió desprenderse de ciertos elementos del inmovilizado con menor aportación al negocio y concentrarse en las áreas con mayor rendimiento. Entre las decisiones adoptadas se encuentran: i. transmisión de algunas máquinas a una compañía situada en las proximidades de las instalaciones de SAKI, S.A.; y ii. venta de solares adquiridos en el momento de constitución de la sociedad (finales del año 2000) a un grupo inmobiliario. Del Balance de Situación cerrado a 31 de diciembre de 2025, y tomando los importes en Valor Neto Contable (VNC), se dispone de los siguientes datos: • Maquinas:1.776.000€; y • Solares: 2.440.000€. Las máquinas comenzaron a utilizarse el 1 de enero de 2023, se amortizan por el método lineal, tienen una vida útil estimada de 8 años y su valor residual es cero. Por su parte, los solares han permanecido en el patrimonio de OSAKI, S.A. desde su constitución, a finales del año 2000. Las operaciones de venta se formalizan el 31 de enero de 2026 mediante efectos comerciales aceptados por los compradores, por importes de 1.776.000€ en el caso de las máquinas vendidas y de 1.280.000€ en el caso de los solares. NOTA: Las operaciones deben considerarse exentas de IVA a efectos de los cálculos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La compensación de 500€ por defectos en los botones, abonada directamente en cuenta bancaria, se registra: Debe (572) Bancos 500 / Haber (608) Devoluciones de compras y operaciones similares 500. La cuenta (608) recoge las compensaciones, devoluciones y reducciones de precio similares derivadas de incumplimientos de calidad.",
+    "officialId": 484
+  },
+  {
+    "id": "tec-t13_35",
+    "questionNum": 35,
+    "question": "[ENUNCIADO: Durante el ejercicio 2025, la sociedad SAKI, S.A., cuya actividad principal es la fabricación de maquinaria destinada a centros hospitalarios, experimento una notable caída como consecuencia de una re...] ¿Qué pérdida contable generó la venta de los solares?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "2.440.000€"
+      },
+      {
+        "value": 2,
+        "text": "1.280.000€"
+      },
+      {
+        "value": 3,
+        "text": "1.776.000€"
+      },
+      {
+        "value": 4,
+        "text": "1.160.000€"
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "1.160.000€"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Pérdida por venta de solares = Precio de venta - VNC = 1.280.000 - 2.440.000 = -1.160.000€. Los solares no se amortizan, por lo que su VNC en enero 2026 es el mismo que en diciembre 2025 (2.440.000€). La pérdida asciende a 1.160.000€.",
+    "officialId": 485
+  },
+  {
+    "id": "tec-t13_36",
+    "questionNum": 36,
+    "question": "[ENUNCIADO: Durante el ejercicio 2025, la sociedad SAKI, S.A., cuya actividad principal es la fabricación de maquinaria destinada a centros hospitalarios, experimento una notable caída como consecuencia de una re...] A 31-1-2026, el valor neto contable de la maquinaria era:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "1.746.400€"
+      },
+      {
+        "value": 2,
+        "text": "1.776.000€"
+      },
+      {
+        "value": 3,
+        "text": "2.960.000€"
+      },
+      {
+        "value": 4,
+        "text": "1.280.000€"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "1.746.400€"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "VNC de la maquinaria a 31/01/2026: Precio de coste = 1.776.000 × (8/5) = 2.841.600€. Amortización anual = 2.841.600/8 = 355.200€. Amortización mensual = 355.200/12 = 29.600€. VNC a 31/01/2026 = 1.776.000 - 29.600 = 1.746.400€.",
+    "officialId": 486
+  },
+  {
+    "id": "tec-t13_37",
+    "questionNum": 37,
+    "question": "[ENUNCIADO: Durante el ejercicio 2025, la sociedad SAKI, S.A., cuya actividad principal es la fabricación de maquinaria destinada a centros hospitalarios, experimento una notable caída como consecuencia de una re...] El asiento de venta de la maquinaria genera:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un beneficio de 1.100.000€"
+      },
+      {
+        "value": 2,
+        "text": "Una pérdida de 1.160.000€"
+      },
+      {
+        "value": 3,
+        "text": "Un beneficio de 29.600€"
+      },
+      {
+        "value": 4,
+        "text": "Un beneficio de 1.776.000€ ENUNCIADO DE LAS PREGUNTAS 488, 489, 490 El 10 de diciembre de 2017, la empresa OPETZA, S.A. recibe una demanda administrativa debido a que, durante su proceso productivo, sus instalaciones generaron emisiones de CO2 superiores a los máximos permitidos, afectando a varias zonas agrícolas cercanas en la zona de Durango. El departamento jurídico de la compañía evalúa la situación y concluye que es probable que la entidad resulte sancionada. Su estimación inicial es que la multa será de 50.000 €, con un pago previsto dentro de aproximadamente dos años. Para el cálculo del valor actual, se aplica un tipo de descuento del 4 % anual. A continuación, se muestran los valores actualizados de la provisión por responsabilidad medioambiental, correspondientes al cierre de cada ejercicio: Fecha Importe de la provisión (€) 10/12/2017 46.278,11 31/12/2018 48.076,92 31/12/2019 50.000,00 Posteriormente, el 21 de enero de 2020, se dicta sentencia firme desfavorable para la empresa, estableciendo que el importe definitivo de la sanción asciende a 52.000 €."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Un beneficio de 29.600€"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Resultado venta maquinaria = Precio de venta - VNC a 31/01/2026 = 1.776.000 - 1.746.400 = +29.600€ → BENEFICIO de 29.600€. El precio de venta coincide exactamente con el VNC a 31/12/2025 pero no con el VNC actualizado a 31/01/2026 (tras un mes más de amortización).",
+    "officialId": 487
+  },
+  {
+    "id": "tec-t13_38",
+    "questionNum": 38,
+    "question": "[ENUNCIADO: El 10 de diciembre de 2017, la empresa OPETZA, S.A. recibe una demanda administrativa debido a que, durante su proceso productivo, sus instalaciones generaron emisiones de CO2 superiores a los máximos...] La actualización financiera de la provisión (de 48.076,92€ a 50.000€) al cierre de 2019 debe registrarse:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como un gasto de personal (grupo 64)."
+      },
+      {
+        "value": 2,
+        "text": "Como un gasto financiero en la cuenta 660 Gastos financieros por actualización de provisiones."
+      },
+      {
+        "value": 3,
+        "text": "Como un gasto de explotación en la cuenta 62."
+      },
+      {
+        "value": 4,
+        "text": "Como un gasto extraordinario directamente contra reservas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Como un gasto financiero en la cuenta 660 Gastos financieros por actualización de provisiones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La actualización financiera de provisiones (unwinding of discount) se registra como gasto financiero en la cuenta (660) 'Gastos financieros por actualización de provisiones'. Conforme a la NRV 15ª PGC, el incremento de la provisión por el paso del tiempo (efecto financiero del descuento) es un gasto financiero, no de explotación.",
+    "officialId": 488
+  },
+  {
+    "id": "tec-t13_39",
+    "questionNum": 39,
+    "question": "[ENUNCIADO: El 10 de diciembre de 2017, la empresa OPETZA, S.A. recibe una demanda administrativa debido a que, durante su proceso productivo, sus instalaciones generaron emisiones de CO2 superiores a los máximos...] Por la diferencia entre el valor estimado (50.000€) y el valor de la sentencia firme (52.000€), se registrará:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un gasto."
+      },
+      {
+        "value": 2,
+        "text": "Una nueva provisión a corto plazo."
+      },
+      {
+        "value": 3,
+        "text": "Un ingreso."
+      },
+      {
+        "value": 4,
+        "text": "No se contabiliza."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Un gasto."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Por la diferencia entre el valor estimado (50.000€) y la sentencia firme (52.000€), se registra un GASTO adicional de 2.000€. Al quedar determinada la obligación real, se dota un gasto adicional (dotación a provisiones) por el exceso de 2.000€ sobre la provisión ya constituida.",
+    "officialId": 489
+  },
+  {
+    "id": "tec-t13_40",
+    "questionNum": 40,
+    "question": "[ENUNCIADO: El 10 de diciembre de 2017, la empresa OPETZA, S.A. recibe una demanda administrativa debido a que, durante su proceso productivo, sus instalaciones generaron emisiones de CO2 superiores a los máximos...] La cuantía a la que asciende la actualización de la provisión a 31/12/2019 es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "1.923,08€."
+      },
+      {
+        "value": 2,
+        "text": "1.798,81."
+      },
+      {
+        "value": 3,
+        "text": "50.000."
+      },
+      {
+        "value": 4,
+        "text": "No se contabiliza. ENUNCIADO DE LAS PREGUNTAS 491, 492, 493, 494 La responsable económica financiera de una entidad sanitaria tiene que realizar un informe para poder analizar la situación económico-financiera de la entidad. Para tal menester decide realizar una serie de cálculos relativos a la situación financiera y estructura de costes. Atendiendo a los datos descritos, responda a las siguientes cuestiones:"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "1.923,08€."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "La cuantía de la actualización financiera a 31/12/2019 = 50.000 - 48.076,92 = 1.923,08€. Esta diferencia representa el incremento de la provisión por el efecto del paso del tiempo (aplicando el tipo de descuento del 4% sobre 48.076,92€: 48.076,92 × 4% ≈ 1.923,08€).",
+    "officialId": 490
+  },
+  {
+    "id": "tec-t13_41",
+    "questionNum": 41,
+    "question": "[ENUNCIADO: La responsable económica financiera de una entidad sanitaria tiene que realizar un informe para poder analizar la situación económico-financiera de la entidad. Para tal menester decide realizar una se...] Calcular cuales son los flujos de efectivo de las operaciones de explotación. Teniendo en cuenta la siguiente información, ELIJA LA AFIRMACIÓN CORRECTA. • Resultado del ejercicio antes de impuestos: 20.000€ • Existencias iniciales: 15.000€ • Existencias finales: 25.000€ • Clientes Iniciales: 15.000€ • Clientes finales: 1.000€ • Deudas bancarias a largo plazo iniciales: 45.000€ • Deudas bancarias a largo plazo finales: 35.000€ • Amortizaciones del ejercicio: 10.000€ • Pago de impuestos de beneficios: 1.500€ • Pago de intereses: 1.000€",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los Flujos de efectivo de las operaciones de explotación son: 31.500€."
+      },
+      {
+        "value": 2,
+        "text": "Los Flujos de efectivo de las operaciones de explotación son: 21.500€."
+      },
+      {
+        "value": 3,
+        "text": "Los Flujos de efectivo de las operaciones de explotación son: 23.500€."
+      },
+      {
+        "value": 4,
+        "text": "Los Flujos de efectivo de las operaciones de explotación son: 13.500€."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Los Flujos de efectivo de las operaciones de explotación son: 31.500€."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "FEE explotación (método indirecto) = Resultado antes impuestos (20.000) + Amortizaciones (10.000) - Aumento existencias (10.000) + Disminución clientes (14.000) - Impuestos pagados (1.500) - Intereses pagados (1.000) = 31.500€. Las deudas bancarias a LP son flujos de financiación, no de explotación.",
+    "officialId": 491
+  },
+  {
+    "id": "tec-t13_42",
+    "questionNum": 42,
+    "question": "[ENUNCIADO: La responsable económica financiera de una entidad sanitaria tiene que realizar un informe para poder analizar la situación económico-financiera de la entidad. Para tal menester decide realizar una se...] Calcular el coeficiente básico de financiación teniendo en cuenta los siguientes datos, y ELIJA LA AFIRMACIÓN CORRECTA: • Patrimonio Neto: 200.000€ • Pasivos Totales: 200.000€ • Pasivos no corrientes: 150.000€ • Pasivos Corrientes: 50.000€ • Activos Totales: 400.000€ • Activos no corrientes: 250.000€ • Activos Corrientes: 150.000€ • Capital corriente necesario: 80.000€",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Coeficiente básico de financiación es: 1,52."
+      },
+      {
+        "value": 2,
+        "text": "El Coeficiente básico de financiación es: 1,21."
+      },
+      {
+        "value": 3,
+        "text": "El Coeficiente básico de financiación es: 1,06."
+      },
+      {
+        "value": 4,
+        "text": "El Coeficiente básico de financiación es: 4,38."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El Coeficiente básico de financiación es: 1,06."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "CBF = (PN + Pasivo No Corriente) / (Activo No Corriente + Capital Corriente Necesario) = (200.000 + 150.000) / (250.000 + 80.000) = 350.000 / 330.000 = 1,06. Un CBF > 1 indica que los capitales permanentes financian suficientemente el ANC y las necesidades operativas.",
+    "officialId": 492
+  },
+  {
+    "id": "tec-t13_43",
+    "questionNum": 43,
+    "question": "[ENUNCIADO: La responsable económica financiera de una entidad sanitaria tiene que realizar un informe para poder analizar la situación económico-financiera de la entidad. Para tal menester decide realizar una se...] Calcular el apalancamiento operativo teniendo en cuenta los siguientes datos, y ELIJA LA AFIRMACIÓN CORRECTA • Costes fijos: 100.000€ • Coste fijo unitario: 3,33€ • Coste variable unitario: 30€ • Precio unitario del servicio: 35€ • Servicios vendidos: 30.000 unidades",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Apalancamiento operativo es: 1,5."
+      },
+      {
+        "value": 2,
+        "text": "Apalancamiento operativo es: 3."
+      },
+      {
+        "value": 3,
+        "text": "Apalancamiento operativo es: -1,004."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Apalancamiento operativo es: 3."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Apalancamiento operativo = Margen de contribución / BAII. Margen contribución = (35 - 30) × 30.000 = 150.000€. BAII = 150.000 - 100.000 (costes fijos) = 50.000€. Ao = 150.000 / 50.000 = 3. Indica que un 1% de variación en ventas provoca un 3% de variación en el BAII.",
+    "officialId": 493
+  },
+  {
+    "id": "tec-t13_44",
+    "questionNum": 44,
+    "question": "[ENUNCIADO: La responsable económica financiera de una entidad sanitaria tiene que realizar un informe para poder analizar la situación económico-financiera de la entidad. Para tal menester decide realizar una se...] Calcular la ratio de solidez teniendo en cuenta los siguientes datos, y ELIJA LA AFIRMACIÓN CORRECTA: • Activo corriente: 50.000€ • Activo no corriente: 250.000€ • Patrimonio neto: 200.000€ • Pasivo no corriente: 150.000€ • Pasivo corriente: 150.000€",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La ratio de solidez es: 1,66."
+      },
+      {
+        "value": 2,
+        "text": "La ratio de solidez es: 0,8."
+      },
+      {
+        "value": 3,
+        "text": "La ratio de solidez es: 1,4."
+      },
+      {
+        "value": 4,
+        "text": "La ratio de solidez es: 1,25. ENUNCIADO DE LAS PREGUNTAS 495, 496, 497 498, 499, 500 La empresa LUMIER, S.A., dedicada a la fabricación de equipamiento óptico, presenta a 31/12/2025 los siguientes datos contables (en euros): • Activo Corriente: 62.480.000€ • Pasivo Corriente: 45.360.000€ • Activo No Corriente: 98.200.000€ • Patrimonio Neto: 70.000.000€ • Pasivo No Corriente: 40.000.000€ • Resultado Antes de Intereses e Impuestos (RAII): 18.900.000€ • Resultado del ejercicio: 11.340.000€ • Impuesto: 6.300.000€ • Ventas Netas: 136.500.000€"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La ratio de solidez es: 0,8."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Ratio de solidez = Patrimonio Neto / Activo No Corriente = 200.000 / 250.000 = 0,8. Una ratio de solidez < 1 indica que el ANC no está totalmente financiado con recursos propios, lo que revela una estructura financiera con cierta dependencia de financiación ajena a largo plazo.",
+    "officialId": 494
+  },
+  {
+    "id": "tec-t13_45",
+    "questionNum": 45,
+    "question": "[ENUNCIADO: La empresa LUMIER, S.A., dedicada a la fabricación de equipamiento óptico, presenta a 31/12/2025 los siguientes datos contables (en euros): • Activo Corriente: 62.480.000€ • Pasivo Corriente: 45.360.0...] El capital corriente o fondo de rotación (FR) de LUMIER, S.A. asciende a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "17.120.000€"
+      },
+      {
+        "value": 2,
+        "text": "62.480.000€"
+      },
+      {
+        "value": 3,
+        "text": "45.360.000€"
+      },
+      {
+        "value": 4,
+        "text": "–17.120.000€"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "17.120.000€"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Fondo de Rotación (FR) = Activo Corriente - Pasivo Corriente = 62.480.000 - 45.360.000 = 17.120.000€. El FR positivo indica que parte del activo corriente está financiada con recursos permanentes, lo que proporciona un margen de seguridad frente a las obligaciones a corto plazo.",
+    "officialId": 495
+  },
+  {
+    "id": "tec-t13_46",
+    "questionNum": 46,
+    "question": "[ENUNCIADO: La empresa LUMIER, S.A., dedicada a la fabricación de equipamiento óptico, presenta a 31/12/2025 los siguientes datos contables (en euros): • Activo Corriente: 62.480.000€ • Pasivo Corriente: 45.360.0...] La ratio de solvencia a corto plazo (RC) de la empresa es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "0,72"
+      },
+      {
+        "value": 2,
+        "text": "1,12"
+      },
+      {
+        "value": 3,
+        "text": "1,38"
+      },
+      {
+        "value": 4,
+        "text": "2,04"
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "1,38"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Ratio de solvencia a corto plazo = Activo Corriente / Pasivo Corriente = 62.480.000 / 45.360.000 = 1,377 ≈ 1,38. Un ratio > 1 indica que LUMIER puede atender sus obligaciones a corto plazo con su activo corriente, aunque el nivel no es excesivamente holgado.",
+    "officialId": 496
+  },
+  {
+    "id": "tec-t13_47",
+    "questionNum": 47,
+    "question": "La rentabilidad económica (RE o ROA) obtenida por LUMIER, S.A. es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "9,86 %"
+      },
+      {
+        "value": 2,
+        "text": "12,45 %"
+      },
+      {
+        "value": 3,
+        "text": "18,90 %"
+      },
+      {
+        "value": 4,
+        "text": "7,24 %"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "12,45 %"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Rentabilidad Económica (RE) = RAII / Activo Total ≈ 18.900.000 / 151.800.000 ≈ 12,45%. Mide la eficiencia de los activos para generar resultado operativo, con independencia de la estructura financiera.",
+    "officialId": 497
+  },
+  {
+    "id": "tec-t13_48",
+    "questionNum": 48,
+    "question": "La rentabilidad financiera (RF o ROE), utilizando el resultado antes de impuestos, es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "25,20 %"
+      },
+      {
+        "value": 2,
+        "text": "27,00 %"
+      },
+      {
+        "value": 3,
+        "text": "10,50 %"
+      },
+      {
+        "value": 4,
+        "text": "30,75 %"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "25,20 %"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Rentabilidad Financiera (RF) usando resultado antes de impuestos = EBT / PN = (11.340.000 + 6.300.000) / 70.000.000 = 17.640.000 / 70.000.000 = 0,252 = 25,20%. Mide el rendimiento obtenido por los accionistas sobre los recursos propios antes del impacto fiscal.",
+    "officialId": 498
+  },
+  {
+    "id": "tec-t13_49",
+    "questionNum": 49,
+    "question": "[ENUNCIADO: La empresa LUMIER, S.A., dedicada a la fabricación de equipamiento óptico, presenta a 31/12/2025 los siguientes datos contables (en euros): • Activo Corriente: 62.480.000€ • Pasivo Corriente: 45.360.0...] La ratio de endeudamiento de LUMIER, S.A. es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "1,00"
+      },
+      {
+        "value": 2,
+        "text": "0,85"
+      },
+      {
+        "value": 3,
+        "text": "1,22"
+      },
+      {
+        "value": 4,
+        "text": "0,57"
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "1,22"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Ratio de endeudamiento = Pasivo Total / Patrimonio Neto = (PNC + PC) / PN = (40.000.000 + 45.360.000) / 70.000.000 = 85.360.000 / 70.000.000 = 1,22. Un ratio > 1 indica que LUMIER tiene más deuda que recursos propios, lo que implica mayor dependencia de financiación ajena.",
+    "officialId": 499
+  },
+  {
+    "id": "tec-t13_50",
+    "questionNum": 50,
+    "question": "[ENUNCIADO: La empresa LUMIER, S.A., dedicada a la fabricación de equipamiento óptico, presenta a 31/12/2025 los siguientes datos contables (en euros): • Activo Corriente: 62.480.000€ • Pasivo Corriente: 45.360.0...] ¿Cuál es el margen económico (Margen = RAII / Ventas Netas) de la empresa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "8,7 %"
+      },
+      {
+        "value": 2,
+        "text": "13,8 %"
+      },
+      {
+        "value": 3,
+        "text": "5,2 %"
+      },
+      {
+        "value": 4,
+        "text": "16,4 %"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "13,8 %"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t13",
+    "explanation": "Margen económico = RAII / Ventas Netas = 18.900.000 / 136.500.000 = 0,1385 ≈ 13,8%. Mide el porcentaje del resultado operativo sobre las ventas, indicando la rentabilidad de la actividad de explotación por cada euro de venta generado.",
+    "officialId": 500
+  }
+]

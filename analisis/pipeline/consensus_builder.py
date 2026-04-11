@@ -104,7 +104,9 @@ def process_category(cat_key: str) -> list[dict]:
 
     app_data = load_json(DATA_DIR / cfg["app_file"])
     k_raw    = load_json(RAW_DIR / cfg["raw_kaixo"])   # {num_str: letra|dict}
-    o_raw    = load_json(RAW_DIR / cfg["raw_osasun"])   # {num_str: letra}
+    # raw_osasun puede ser None si la categoría no tiene banco Osasuntest (ej: TEC)
+    raw_osasun_file = cfg.get("raw_osasun")
+    o_raw    = load_json(RAW_DIR / raw_osasun_file) if raw_osasun_file else {}  # {num_str: letra}
     o_offset = cfg["osasun_offset"]
 
     if isinstance(app_data, dict):

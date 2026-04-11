@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "tec-t09_1",
+    "questionNum": 1,
+    "question": "Según la Ley de Principios Ordenadores de la Hacienda General del País Vasco, la hacienda General está constituida por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo los ingresos tributarios de la Comunidad Autónoma."
+      },
+      {
+        "value": 2,
+        "text": "El conjunto de derechos y obligaciones de naturaleza económica de los Territorios Históricos."
+      },
+      {
+        "value": 3,
+        "text": "El conjunto de derechos y obligaciones económicas de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "El patrimonio económico del Estado cedido a Euskadi."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El conjunto de derechos y obligaciones económicas de la Comunidad Autónoma de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 1.1 DL 1/1997: la Hacienda General está constituida por el conjunto de derechos y obligaciones económicas de la Comunidad Autónoma de Euskadi.",
+    "officialId": 274
+  },
+  {
+    "id": "tec-t09_2",
+    "questionNum": 2,
+    "question": "De acuerdo con la ley de Principios Ordenadores de la Hacienda General del País Vasco, el procedimiento de elaboración y gestión presupuestaria es competencia de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Gobierno."
+      },
+      {
+        "value": 2,
+        "text": "El departamento responsable en materia de Hacienda y Finanzas."
+      },
+      {
+        "value": 3,
+        "text": "El Parlamento."
+      },
+      {
+        "value": 4,
+        "text": "Las Juntas Generales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El Parlamento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 25.1.b DL 1/1997: el procedimiento de elaboración y gestión presupuestaria es competencia del Parlamento Vasco.",
+    "officialId": 275
+  },
+  {
+    "id": "tec-t09_3",
+    "questionNum": 3,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que las materias propias de la Hacienda General del País Vasco son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La política educativa."
+      },
+      {
+        "value": 2,
+        "text": "El régimen de concesión de garantías."
+      },
+      {
+        "value": 3,
+        "text": "Las relaciones laborales del personal funcionario."
+      },
+      {
+        "value": 4,
+        "text": "La ordenación del territorio."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El régimen de concesión de garantías."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 1.2.h DL 1/1997: el régimen de concesión de garantías es una de las materias propias de la Hacienda General del País Vasco.",
+    "officialId": 276
+  },
+  {
+    "id": "tec-t09_4",
+    "questionNum": 4,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que las materias propias de la Hacienda General del País Vasco son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El régimen del patrimonio."
+      },
+      {
+        "value": 2,
+        "text": "El Régimen de contratación."
+      },
+      {
+        "value": 3,
+        "text": "El régimen de endeudamiento."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 1.2 DL 1/1997: el régimen del patrimonio, el régimen de contratación y el régimen de endeudamiento son todas materias propias de la Hacienda General.",
+    "officialId": 277
+  },
+  {
+    "id": "tec-t09_5",
+    "questionNum": 5,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que la Hacienda General del País Vasco se regirá por una normativa, indiqué cuál:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exclusivamente por leyes estatales."
+      },
+      {
+        "value": 2,
+        "text": "Exclusivamente por el Decreto legislativo 1/1997 que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Por las leyes estatales, así como por las demás normas emanadas de la CAE y otras que le sean de aplicación."
+      },
+      {
+        "value": 4,
+        "text": "Decreto legislativo 1/1997 que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco, así como por las demás normas emanadas de la CAE y otras que le sean de aplicación."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Decreto legislativo 1/1997 que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco, así como por las demás normas emanadas de la CAE y otras que le sean de aplicación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 2.1 DL 1/1997: la Hacienda General del País Vasco se regirá por el Decreto Legislativo 1/1997 así como por las demás normas emanadas de la CAE y otras que le sean de aplicación.",
+    "officialId": 278
+  },
+  {
+    "id": "tec-t09_6",
+    "questionNum": 6,
+    "question": "Conforme a la Ley de Principios Ordenadores de la Hacienda General del País Vasco, indique a quién corresponde dictar disposiciones interpretativas o aclaratorias de las normas reguladoras de la Hacienda General:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Lehendakari."
+      },
+      {
+        "value": 2,
+        "text": "Parlamento Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Consejero/a del Departamento competente en materia de hacienda y finanzas."
+      },
+      {
+        "value": 4,
+        "text": "Dirección de la Administración Tributaria e la CAE."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Consejero/a del Departamento competente en materia de hacienda y finanzas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 2.5 DL 1/1997: corresponde al Consejero/a del Departamento competente en materia de hacienda y finanzas dictar disposiciones interpretativas o aclaratorias de las normas reguladoras de la Hacienda General.",
+    "officialId": 279
+  },
+  {
+    "id": "tec-t09_7",
+    "questionNum": 7,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco señala que la CAE, en materias de Hacienda General, actuará conforme a los siguientes principios:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Autonomía plena de gestión."
+      },
+      {
+        "value": 2,
+        "text": "Neutralidad presupuestaria."
+      },
+      {
+        "value": 3,
+        "text": "Transparencia fiscal."
+      },
+      {
+        "value": 4,
+        "text": "Unidad de caja."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Unidad de caja."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 3 DL 1/1997: entre los principios que rigen la actuación de la CAE en materias de Hacienda General se encuentra la unidad de caja.",
+    "officialId": 280
+  },
+  {
+    "id": "tec-t09_8",
+    "questionNum": 8,
+    "question": "La Comunidad Autónoma de Euskadi actuará en las materias propias de su Hacienda General, conforme a los principios de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Legalidad, objetividad, economía, eficacia, control y transparencia."
+      },
+      {
+        "value": 2,
+        "text": "Legalidad, objetividad, economía, eficacia, control, unidad de caja y coordinación."
+      },
+      {
+        "value": 3,
+        "text": "Legalidad, subjetividad, economía, eficacia, control, unidad de caja y coordinación."
+      },
+      {
+        "value": 4,
+        "text": "Legalidad, subjetividad, eficacia, control y transparencia."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Legalidad, objetividad, economía, eficacia, control, unidad de caja y coordinación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 3 DL 1/1997: la CAE actuará en materias de Hacienda General conforme a los principios de legalidad, objetividad, economía, eficacia, control, unidad de caja y coordinación.",
+    "officialId": 281
+  },
+  {
+    "id": "tec-t09_9",
+    "questionNum": 9,
+    "question": "Según la Ley de Principios Ordenadores de la Hacienda General del País Vasco, además de planificación económica, ¿qué función cumplen los Presupuestos Generales de Euskadi?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Crear nuevas figuras tributarias automáticamente."
+      },
+      {
+        "value": 2,
+        "text": "Establecer la política exterior vasca."
+      },
+      {
+        "value": 3,
+        "text": "Ser instrumento de control de la correcta administración de los recursos."
+      },
+      {
+        "value": 4,
+        "text": "Regular las elecciones autonómicas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ser instrumento de control de la correcta administración de los recursos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 5.2 DL 1/1997: los Presupuestos Generales de Euskadi, además de instrumento de planificación económica, son instrumento de control de la correcta administración de los recursos.",
+    "officialId": 282
+  },
+  {
+    "id": "tec-t09_10",
+    "questionNum": 10,
+    "question": "Indique qué materias adicionales pueden regular las Leyes de presupuestos de Euskadi, según la Ley de Principios Ordenadores de la Hacienda General del País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuestiones propias de la Hacienda General del País Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Exclusivamente las retribuciones del personal funcionario."
+      },
+      {
+        "value": 3,
+        "text": "Solo la política ambiental."
+      },
+      {
+        "value": 4,
+        "text": "Solo los gastos de Seguridad Social."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cuestiones propias de la Hacienda General del País Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 6.2 DL 1/1997: las Leyes de Presupuestos de Euskadi podrán regular materias adicionales que sean cuestiones propias de la Hacienda General del País Vasco.",
+    "officialId": 283
+  },
+  {
+    "id": "tec-t09_11",
+    "questionNum": 11,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que el proyecto de Ley de Presupuestos, antes de enviarlo al Parlamento, debe ser aprobado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Tribunal Vasco de Cuentas Públicas."
+      },
+      {
+        "value": 2,
+        "text": "El Gobierno Vasco."
+      },
+      {
+        "value": 3,
+        "text": "La Diputación Foral."
+      },
+      {
+        "value": 4,
+        "text": "El Parlamento Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El Gobierno Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 6.4 / Art. 26.b DL 1/1997: el proyecto de Ley de Presupuestos debe ser aprobado por el Gobierno Vasco antes de enviarlo al Parlamento.",
+    "officialId": 284
+  },
+  {
+    "id": "tec-t09_12",
+    "questionNum": 12,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que la fecha límite para presentar el proyecto de Ley de Presupuestos en el Parlamento es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "1 de septiembre del ejercicio anterior."
+      },
+      {
+        "value": 2,
+        "text": "15 de octubre del ejercicio anterior."
+      },
+      {
+        "value": 3,
+        "text": "31 de diciembre del ejercicio anterior."
+      },
+      {
+        "value": 4,
+        "text": "Antes del 1 de noviembre del ejercicio anterior."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Antes del 1 de noviembre del ejercicio anterior."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 6.4 DL 1/1997: el proyecto de Ley de Presupuestos debe presentarse ante el Parlamento antes del 1 de noviembre del ejercicio anterior.",
+    "officialId": 285
+  },
+  {
+    "id": "tec-t09_13",
+    "questionNum": 13,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que es competencia del Parlamento Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La aprobación, seguimiento y control de los Presupuestos Generales de Euskadi."
+      },
+      {
+        "value": 2,
+        "text": "El régimen de patrimonio."
+      },
+      {
+        "value": 3,
+        "text": "El régimen de endeudamiento."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 25.1 DL 1/1997: es competencia del Parlamento Vasco la aprobación, seguimiento y control de los Presupuestos Generales (a), el régimen de patrimonio (d) y el régimen de endeudamiento (f).",
+    "officialId": 286
+  },
+  {
+    "id": "tec-t09_14",
+    "questionNum": 14,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que son competencia del Gobierno:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La aprobación de los proyectos de leyes de Presupuestos generales."
+      },
+      {
+        "value": 2,
+        "text": "El establecimiento o reforma de los tributos propios de la Comunidad Autónoma."
+      },
+      {
+        "value": 3,
+        "text": "El régimen de contratación."
+      },
+      {
+        "value": 4,
+        "text": "El régimen de endeudamiento."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La aprobación de los proyectos de leyes de Presupuestos generales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 26.b DL 1/1997: es competencia del Gobierno la aprobación de los proyectos de Leyes de Presupuestos Generales de la Comunidad, para su remisión al Parlamento.",
+    "officialId": 287
+  },
+  {
+    "id": "tec-t09_15",
+    "questionNum": 15,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que es competencia del Departamento responsable en materia de hacienda y finanzas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Autorizar la liquidación presupuestaria de los entes institucionales del sector público de la CAE."
+      },
+      {
+        "value": 2,
+        "text": "La aprobación de los presupuestos y, posteriormente, el control de los gastos e ingresos adscritos a los Departamentos."
+      },
+      {
+        "value": 3,
+        "text": "Las facultades de contabilidad y del control interventor de la actividad económica de la CAE."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las facultades de contabilidad y del control interventor de la actividad económica de la CAE."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 27.d DL 1/1997: corresponde al Departamento responsable en materia de hacienda y finanzas las facultades de contabilidad y del control interventor de la actividad económica de la Comunidad Autónoma de Euskadi.",
+    "officialId": 288
+  },
+  {
+    "id": "tec-t09_16",
+    "questionNum": 16,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que es competencia de otros entes integrantes del sector público de la CAE:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cada ente tiene las facultades de contabilidad y del control interventor de su actividad económica."
+      },
+      {
+        "value": 2,
+        "text": "En el caso de entes públicos de derecho privado: aprobar su liquidación presupuestaria."
+      },
+      {
+        "value": 3,
+        "text": "En el caso de organismos autónomos: aprobar su liquidación presupuestaria."
+      },
+      {
+        "value": 4,
+        "text": "La autorización de los gastos, de acuerdo con las dotaciones aprobadas en sus presupuestos, y la ordenación de los correspondientes pagos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La autorización de los gastos, de acuerdo con las dotaciones aprobadas en sus presupuestos, y la ordenación de los correspondientes pagos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 29.1.c DL 1/1997: corresponde a los organismos autónomos la autorización de los gastos, de acuerdo con las dotaciones aprobadas en sus presupuestos, y la ordenación de los correspondientes pagos.",
+    "officialId": 289
+  },
+  {
+    "id": "tec-t09_17",
+    "questionNum": 17,
+    "question": "Los Derechos de naturaleza pública que reconoce la Ley de Principios Ordenadores de la Hacienda General del País Vasco pueden ser:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ingresos de derecho privado pero que pertenecen a entidades del Sector Público de la CAE."
+      },
+      {
+        "value": 2,
+        "text": "Ingresos de derecho público y otros derechos."
+      },
+      {
+        "value": 3,
+        "text": "Ingresos y gastos de derecho público."
+      },
+      {
+        "value": 4,
+        "text": "Sólo ingresos de derecho público."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ingresos de derecho público y otros derechos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 31.2 DL 1/1997: los derechos de naturaleza pública pueden ser: a) Ingresos de derecho público, y b) Otros derechos.",
+    "officialId": 290
+  },
+  {
+    "id": "tec-t09_18",
+    "questionNum": 18,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco incluye como ingreso de derecho público, el siguiente ingreso:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aportaciones de las Diputaciones Forales derivados de los rendimientos por Tributos."
+      },
+      {
+        "value": 2,
+        "text": "Herencias y Donaciones."
+      },
+      {
+        "value": 3,
+        "text": "Indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 32.i DL 1/1997: son ingresos de derecho público las indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública. Las herencias y donaciones son ingresos de derecho privado (Art. 38.b).",
+    "officialId": 291
+  },
+  {
+    "id": "tec-t09_19",
+    "questionNum": 19,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco considera, sobre los tributos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que se gestionan por las Diputaciones Forales."
+      },
+      {
+        "value": 2,
+        "text": "Que solo pueden ser tasas."
+      },
+      {
+        "value": 3,
+        "text": "Que su creación no requiere ley."
+      },
+      {
+        "value": 4,
+        "text": "Que tienen naturaleza fiscal y se reflejan en los presupuestos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Que tienen naturaleza fiscal y se reflejan en los presupuestos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 34.2 DL 1/1997: todos los tributos de la Comunidad Autónoma de Euskadi tendrán naturaleza de fiscales y quedarán reflejados en sus correspondientes Presupuestos.",
+    "officialId": 292
+  },
+  {
+    "id": "tec-t09_20",
+    "questionNum": 20,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que los recargos sobre impuestos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su creación y supresión requiere ley."
+      },
+      {
+        "value": 2,
+        "text": "Deben aprobarse por Decreto."
+      },
+      {
+        "value": 3,
+        "text": "Necesitan aprobación judicial."
+      },
+      {
+        "value": 4,
+        "text": "Solo pueden modificarlos los Territorios Históricos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Su creación y supresión requiere ley."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 35.3 DL 1/1997: la creación y supresión de los recargos sobre impuestos requerirá de ley.",
+    "officialId": 293
+  },
+  {
+    "id": "tec-t09_21",
+    "questionNum": 21,
+    "question": "Indique cuál de los siguientes presupuestos NO se de integran en los Presupuestos Generales, según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los Presupuestos de los Organismos Autónomos."
+      },
+      {
+        "value": 2,
+        "text": "Los Presupuestos de los Entes Públicos de derecho privado."
+      },
+      {
+        "value": 3,
+        "text": "Los Presupuestos de las Sociedades Públicas."
+      },
+      {
+        "value": 4,
+        "text": "Los Presupuestos de los Ayuntamientos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Los Presupuestos de los Ayuntamientos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 2 DL 1/2011: los Presupuestos Generales de Euskadi integran los presupuestos de la Administración de la CAE, Organismos Autónomos, Entes Públicos de derecho privado, Sociedades Públicas, Fundaciones y Consorcios del sector público. Los Ayuntamientos son entidades locales, no integradas en los PGE.",
+    "officialId": 294
+  },
+  {
+    "id": "tec-t09_22",
+    "questionNum": 22,
+    "question": "Indique, en base a las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, qué información se consignará en los presupuestos generales:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La información fiscal detallada de los municipios."
+      },
+      {
+        "value": 2,
+        "text": "La información sobre beneficios fiscales facilitada por el Consejo Vasco de Finanzas Públicas."
+      },
+      {
+        "value": 3,
+        "text": "Las exenciones de IRPF estatal facilitada por el Consejo Vasco de Finanzas Públicas."
+      },
+      {
+        "value": 4,
+        "text": "Los beneficios fiscales de la Unión Europea"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La información sobre beneficios fiscales facilitada por el Consejo Vasco de Finanzas Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: en los Presupuestos Generales se consignará la información sobre beneficios fiscales facilitada por el Consejo Vasco de Finanzas Públicas, dada la gestión tributaria por las Diputaciones Forales.",
+    "officialId": 295
+  },
+  {
+    "id": "tec-t09_23",
+    "questionNum": 23,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi establecen el principio de universalidad. ¿Qué significa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que comprenderán todos los derechos y obligaciones, sin excepción, que se prevea liquidar y sea necesario atender."
+      },
+      {
+        "value": 2,
+        "text": "Que los presupuestos deben equilibrarse para todas las entidades de las Administración."
+      },
+      {
+        "value": 3,
+        "text": "Que se incluirán solo los gastos necesarios que se prevea liquidar y sea necesario atender."
+      },
+      {
+        "value": 4,
+        "text": "Que se incluirán únicamente las obligaciones reconocidas y sea necesario atender."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Que comprenderán todos los derechos y obligaciones, sin excepción, que se prevea liquidar y sea necesario atender."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 6 DL 1/2011: el principio de universalidad establece que los Presupuestos Generales comprenderán todos los derechos y obligaciones, sin excepción alguna, que se prevea liquidar y sea necesario atender.",
+    "officialId": 296
+  },
+  {
+    "id": "tec-t09_24",
+    "questionNum": 24,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren un equilibrio financiero. ¿Qué significa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que los Presupuestos Generales comprenderán los activos y pasivos que cubran los ingresos y gastos."
+      },
+      {
+        "value": 2,
+        "text": "Que los Presupuestos Generales comprenderán todos los derechos y obligaciones, sin excepción alguna."
+      },
+      {
+        "value": 3,
+        "text": "Que los presupuestos se elaborarán con un criterio contable consistente a lo largo del tiempo."
+      },
+      {
+        "value": 4,
+        "text": "Que los presupuestos se elaborarán de modo que la totalidad de los ingresos cubra el importe de los gastos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Que los presupuestos se elaborarán de modo que la totalidad de los ingresos cubra el importe de los gastos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 7 DL 1/2011: el principio de equilibrio financiero establece que los presupuestos se elaborarán de modo que la totalidad de los ingresos cubra el importe de los gastos.",
+    "officialId": 297
+  },
+  {
+    "id": "tec-t09_25",
+    "questionNum": 25,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi indican que los Presupuestos de la Administración de la CAE comprendan:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un estado de gastos comprensivo de los créditos necesarios para atender los gastos necesarios asociados a la recaudación."
+      },
+      {
+        "value": 2,
+        "text": "Un estado de ingresos comprensivo de las distintas inversiones futuras a liquidar durante el ejercicio."
+      },
+      {
+        "value": 3,
+        "text": "Un estado de ingresos comprensivo de los distintos derechos económicos a liquidar durante el ejercicio."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Un estado de ingresos comprensivo de los distintos derechos económicos a liquidar durante el ejercicio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 8 DL 1/2011: los Presupuestos de la Administración de la CAE comprenden un estado de ingresos comprensivo de los distintos derechos económicos a liquidar durante el ejercicio, y un estado de gastos comprensivo de los créditos necesarios.",
+    "officialId": 298
+  },
+  {
+    "id": "tec-t09_26",
+    "questionNum": 26,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi establecen que los Presupuestos de los Organismos Autónomos Mercantiles comprenderán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dotaciones de gastos y de ingresos del ejercicio."
+      },
+      {
+        "value": 2,
+        "text": "Dotaciones de inversiones y financiación del ejercicio."
+      },
+      {
+        "value": 3,
+        "text": "Un estado de compromisos futuros."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 8 DL 1/2011: los Presupuestos de los Organismos Autónomos Mercantiles comprenden dotaciones de gastos y de ingresos, dotaciones de inversiones y financiación del ejercicio, así como un estado de compromisos futuros.",
+    "officialId": 299
+  },
+  {
+    "id": "tec-t09_27",
+    "questionNum": 27,
+    "question": "Según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, indique qué deben recoger los estados de ingresos respecto a los recursos financieros:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo los ingresos financieros que se recauden efectivamente."
+      },
+      {
+        "value": 2,
+        "text": "Todos los recursos financieros que se prevea liquidar en el ejercicio."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente los ingresos financieros derivados de impuestos directos."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Todos los recursos financieros que se prevea liquidar en el ejercicio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: los estados de ingresos deben recoger todos los recursos financieros que se prevea liquidar en el ejercicio, conforme al principio de universalidad presupuestaria.",
+    "officialId": 300
+  },
+  {
+    "id": "tec-t09_28",
+    "questionNum": 28,
+    "question": "Según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, indique en qué caso los importes de los estados de ingresos pueden tener valor definitivo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando así lo decidan los departamentos gestores."
+      },
+      {
+        "value": 2,
+        "text": "Cuando la liquidación del ejercicio anterior sea positiva."
+      },
+      {
+        "value": 3,
+        "text": "Cuando lo determine el Gobierno mediante decreto."
+      },
+      {
+        "value": 4,
+        "text": "Cuando se califiquen expresamente como definitivos en los propios estados."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Cuando se califiquen expresamente como definitivos en los propios estados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: los importes de los estados de ingresos tienen carácter de previsión o estimación, salvo que se califiquen expresamente como definitivos en los propios estados.",
+    "officialId": 301
+  },
+  {
+    "id": "tec-t09_29",
+    "questionNum": 29,
+    "question": "Según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, indique qué representan las aportaciones de las Diputaciones Forales recogidas en el estado de ingresos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La contribución de los Territorios Históricos a la deuda la CAE."
+      },
+      {
+        "value": 2,
+        "text": "La contribución de los Territorios Históricos a los gastos presupuestarios de la CAE."
+      },
+      {
+        "value": 3,
+        "text": "La contribución de los Territorios Históricos a los ingresos presupuestarios de la CAE."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La contribución de los Territorios Históricos a los gastos presupuestarios de la CAE."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 32.a DL 1/1997 (aplicable en DL 1/2011): las aportaciones de las Diputaciones Forales representan la contribución de los Territorios Históricos a los gastos presupuestarios de la CAE.",
+    "officialId": 302
+  },
+  {
+    "id": "tec-t09_30",
+    "questionNum": 30,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren que los impuestos propios y los recargos establecidos por la CAE deben registrase en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En el estado de gastos del presupuesto de la entidad correspondiente del sector público autonómico."
+      },
+      {
+        "value": 2,
+        "text": "En el estado de ingresos del presupuesto de la entidad correspondiente del sector público autonómico."
+      },
+      {
+        "value": 3,
+        "text": "En el estado de gastos del presupuesto de la entidad mercantil correspondiente."
+      },
+      {
+        "value": 4,
+        "text": "En el estado de ingresos del presupuesto de la entidad mercantil correspondiente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "En el estado de ingresos del presupuesto de la entidad correspondiente del sector público autonómico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: los impuestos propios y los recargos establecidos por la CAE se registran en el estado de ingresos del presupuesto de la entidad correspondiente del sector público autonómico.",
+    "officialId": 303
+  },
+  {
+    "id": "tec-t09_31",
+    "questionNum": 31,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren que las asignaciones recibidas con cargo a los Presupuestos Generales del Estado se integren como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como créditos de compromiso del presupuesto del ente receptor."
+      },
+      {
+        "value": 2,
+        "text": "Como ingresos extrapresupuestarios."
+      },
+      {
+        "value": 3,
+        "text": "Como transferencias no condicionadas."
+      },
+      {
+        "value": 4,
+        "text": "En el estado de ingresos del presupuesto del ente receptor."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "En el estado de ingresos del presupuesto del ente receptor."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: las asignaciones recibidas con cargo a los Presupuestos Generales del Estado se integran en el estado de ingresos del presupuesto del ente receptor.",
+    "officialId": 304
+  },
+  {
+    "id": "tec-t09_32",
+    "questionNum": 32,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi indican que los estados de ingresos, respecto al endeudamiento, deben reflejar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La deuda histórica acumulada."
+      },
+      {
+        "value": 2,
+        "text": "Las amortizaciones de préstamos."
+      },
+      {
+        "value": 3,
+        "text": "Los recursos que se prevea obtener por vía de endeudamiento."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los recursos que se prevea obtener por vía de endeudamiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: los estados de ingresos, respecto al endeudamiento, deben reflejar los recursos que se prevea obtener por vía de endeudamiento durante el ejercicio.",
+    "officialId": 305
+  },
+  {
+    "id": "tec-t09_33",
+    "questionNum": 33,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren que las transferencias y subvenciones corrientes que perciban los Entes Públicos de derecho privado del sector público de la CAE formen parte de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los estados de gastos expresivos del desarrollo de las actividades de dicho ente."
+      },
+      {
+        "value": 2,
+        "text": "Los estados de ingresos expresivos del desarrollo de las actividades de dicho ente."
+      },
+      {
+        "value": 3,
+        "text": "No pueden formar parte de los presupuestos generales de la Administración General."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los estados de ingresos expresivos del desarrollo de las actividades de dicho ente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: las transferencias y subvenciones corrientes que perciban los Entes Públicos de derecho privado forman parte de los estados de ingresos expresivos del desarrollo de las actividades de dicho ente.",
+    "officialId": 306
+  },
+  {
+    "id": "tec-t09_34",
+    "questionNum": 34,
+    "question": "Las transferencias y subvenciones corrientes que reciben las entidades del sector público, según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Créditos de compromiso plurianuales."
+      },
+      {
+        "value": 2,
+        "text": "Gastos administrativos."
+      },
+      {
+        "value": 3,
+        "text": "Parte de los estados de ingresos relativos al desarrollo de sus actividades."
+      },
+      {
+        "value": 4,
+        "text": "Recursos destinados exclusivamente a inversiones."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Parte de los estados de ingresos relativos al desarrollo de sus actividades."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: las transferencias y subvenciones corrientes que reciben las entidades del sector público son parte de los estados de ingresos relativos al desarrollo de sus actividades.",
+    "officialId": 307
+  },
+  {
+    "id": "tec-t09_35",
+    "questionNum": 35,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren que las transferencias y subvenciones de capital que perciban los Entes Públicos de derecho privado del sector público de la CAE se consideren:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Gastos corrientes."
+      },
+      {
+        "value": 2,
+        "text": "Ingresos municipales."
+      },
+      {
+        "value": 3,
+        "text": "Recaudación directa."
+      },
+      {
+        "value": 4,
+        "text": "Recursos para financiar operaciones de capital o financieras."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Recursos para financiar operaciones de capital o financieras."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "DL 1/2011: las transferencias y subvenciones de capital que perciban los Entes Públicos de derecho privado se consideran recursos para financiar operaciones de capital o financieras.",
+    "officialId": 308
+  },
+  {
+    "id": "tec-t09_36",
+    "questionNum": 36,
+    "question": "Los estados de gastos de los presupuestos determinados en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi recogerán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Créditos de pago y créditos de compromiso."
+      },
+      {
+        "value": 2,
+        "text": "Crédito global y créditos de pago."
+      },
+      {
+        "value": 3,
+        "text": "Créditos ampliables."
+      },
+      {
+        "value": 4,
+        "text": "Créditos de pago."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Créditos de pago y créditos de compromiso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 8 DL 1/2011: los estados de gastos de los presupuestos recogen créditos de pago y créditos de compromiso, necesarios para atender el cumplimiento de las respectivas obligaciones.",
+    "officialId": 309
+  },
+  {
+    "id": "tec-t09_37",
+    "questionNum": 37,
+    "question": "Indique qué créditos de pago se consideran ampliables sin necesidad de figurar expresamente como tales, según lo establecido en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los destinados a bienes corrientes."
+      },
+      {
+        "value": 2,
+        "text": "Los destinados a cotizaciones de previsión social obligatoria del personal."
+      },
+      {
+        "value": 3,
+        "text": "Los vinculados a impuestos de recaudación voluntaria."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los destinados a cotizaciones de previsión social obligatoria del personal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 25 DL 1/2011: son créditos ampliables sin necesidad de figurar expresamente como tales los destinados a las cotizaciones relativas al régimen de previsión social obligatoria del personal.",
+    "officialId": 310
+  },
+  {
+    "id": "tec-t09_38",
+    "questionNum": 38,
+    "question": "Indique qué caracteriza a los créditos variables, según lo establecido en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que corresponden a créditos de compromiso plurianuales."
+      },
+      {
+        "value": 2,
+        "text": "Que están destinados a nuevas necesidades sin dotación."
+      },
+      {
+        "value": 3,
+        "text": "Que su cuantía depende de excedentes presupuestarios."
+      },
+      {
+        "value": 4,
+        "text": "Cuando su importe definitivo depende del valor de módulos aplicables."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Cuando su importe definitivo depende del valor de módulos aplicables."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 27 DL 1/2011: los créditos variables son créditos de pago cuyo importe definitivo se fija en función del valor que alcancen los módulos que intervienen en su determinación.",
+    "officialId": 311
+  },
+  {
+    "id": "tec-t09_39",
+    "questionNum": 39,
+    "question": "Según lo establecido en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, los créditos destinados a transferir fondos a entes aún no constituidos se clasifican como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como ampliables."
+      },
+      {
+        "value": 2,
+        "text": "Como créditos en suspenso."
+      },
+      {
+        "value": 3,
+        "text": "Como créditos globales."
+      },
+      {
+        "value": 4,
+        "text": "Como variables."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Como créditos globales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 20 DL 1/2011: los créditos destinados a transferir fondos a entes aún no constituidos se clasifican como créditos globales, que pueden incluirse para atender nuevas necesidades o insuficiencias.",
+    "officialId": 312
+  },
+  {
+    "id": "tec-t09_40",
+    "questionNum": 40,
+    "question": "Según lo establecido en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, los créditos de compromiso que no requieren autorización son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No hay créditos de compromiso sin autorización, ya que todos requieren ser autorizados en el ejercicio corriente"
+      },
+      {
+        "value": 2,
+        "text": "Aquéllos que sean para para gastos que hayan de extenderse a ejercicios posteriores cuando correspondan a cargas financieras derivadas del endeudamiento realizado en conformidad con las disposiciones vigentes."
+      },
+      {
+        "value": 3,
+        "text": "Aquéllos que sean para para gastos que hayan de extenderse a ejercicios posteriores cuando correspondan a cargas financieras derivadas del endeudamiento, con el límite del 5% del importe total de la carga financiera."
+      },
+      {
+        "value": 4,
+        "text": "Aquéllos que correspondan a adquisiciones habituales de bienes o servicios necesarios para el normal funcionamiento de la Administración, con el límite del 5% del importe total de la carga financiera."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Aquéllos que sean para para gastos que hayan de extenderse a ejercicios posteriores cuando correspondan a cargas financieras derivadas del endeudamiento realizado en conformidad con las disposiciones vigentes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t09",
+    "explanation": "Art. 32 DL 1/2011: no requieren aprobación ni autorización los compromisos para gastos correspondientes a cargas financieras derivadas del endeudamiento realizado en conformidad con las disposiciones vigentes.",
+    "officialId": 313
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "tec-compras_1",
+    "questionNum": 1,
+    "question": "Gestión de compras en la empresa. Aportación de valor de compras: equilibrio buscado:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Maximizar nº de proveedores que paga al contado sin ninguna financiación."
+      },
+      {
+        "value": 2,
+        "text": "Maximizar beneficio aportado por el proveedor minimizando riesgos."
+      },
+      {
+        "value": 3,
+        "text": "Subir precios para estabilidad."
+      },
+      {
+        "value": 4,
+        "text": "Reducir categorías a 1."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Maximizar beneficio aportado por el proveedor minimizando riesgos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "La aportación de valor de la función de compras busca maximizar el beneficio que aporta el proveedor (calidad, coste, plazo, innovación) minimizando simultáneamente los riesgos asociados (dependencia, incumplimiento, calidad, país, etc.).",
+    "officialId": 436
+  },
+  {
+    "id": "tec-compras_2",
+    "questionNum": 2,
+    "question": "Gestión de compras en la empresa. Un factor que aumenta la complejidad de compras es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Estabilidad plena de materias primas consumidas en el año."
+      },
+      {
+        "value": 2,
+        "text": "Todo local."
+      },
+      {
+        "value": 3,
+        "text": "Contratos indexados y riesgos moneda‑país‑ruta."
+      },
+      {
+        "value": 4,
+        "text": "Eliminación de logística internacional."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Contratos indexados y riesgos moneda‑país‑ruta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "Los contratos indexados (ligados a índices de precios de materias primas) y los riesgos de tipo de cambio, riesgo-país y riesgo de ruta incrementan significativamente la complejidad de la gestión de compras. La estabilidad y el aprovisionamiento local reducen la complejidad.",
+    "officialId": 437
+  },
+  {
+    "id": "tec-compras_3",
+    "questionNum": 3,
+    "question": "Gestión de compras en la empresa. Los “cuatro ámbitos” de la función de compras NO incluyen:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Gestión de producto."
+      },
+      {
+        "value": 2,
+        "text": "Gestión de contrato."
+      },
+      {
+        "value": 3,
+        "text": "Gestión del proceso/aprovisionamiento."
+      },
+      {
+        "value": 4,
+        "text": "Gestión de ventas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Gestión de ventas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "Los cuatro ámbitos de la función de compras son: gestión de producto, gestión de contrato, gestión del proceso/aprovisionamiento y gestión de proveedores. La gestión de ventas pertenece a la función comercial, no a compras.",
+    "officialId": 438
+  },
+  {
+    "id": "tec-compras_4",
+    "questionNum": 4,
+    "question": "Gestión de compras en la empresa. “Equipo de compras” (integración por procesos) aporta:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Silos funcionales."
+      },
+      {
+        "value": 2,
+        "text": "Trabajo transversal con I+D, producción, logística para LNP y CPS."
+      },
+      {
+        "value": 3,
+        "text": "Solo control de facturas electrónicas siempre que su importe sea superior a 300€."
+      },
+      {
+        "value": 4,
+        "text": "Restricción de proveedores."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Trabajo transversal con I+D, producción, logística para LNP y CPS."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "El equipo de compras integrado por procesos aporta trabajo transversal con I+D, producción y logística para el lanzamiento de nuevos productos (LNP) y la gestión del coste/precio/suministro (CPS), rompiendo los silos funcionales tradicionales.",
+    "officialId": 439
+  },
+  {
+    "id": "tec-compras_5",
+    "questionNum": 5,
+    "question": "Gestión de compras en la empresa. En organización de compras, una ventaja de la centralización es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Menor estandarización."
+      },
+      {
+        "value": 2,
+        "text": "Pérdida de visión estratégica a medio y largo plazo."
+      },
+      {
+        "value": 3,
+        "text": "Agilidad local extrema y sin supervisión."
+      },
+      {
+        "value": 4,
+        "text": "Economías de escala y especialización."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Economías de escala y especialización."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "La centralización de compras permite obtener economías de escala (mayor volumen de compra → menor precio unitario) y desarrollar especialización en categorías de gasto, con mayor poder de negociación frente a proveedores.",
+    "officialId": 440
+  },
+  {
+    "id": "tec-compras_6",
+    "questionNum": 6,
+    "question": "Gestión de compras en la empresa. El despliegue de la estrategia de compras (por ejemplo, KATAIA) vincula:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Acciones sueltas sin diagnóstico y sin una supervisión de la persona responsable del control (controller)."
+      },
+      {
+        "value": 2,
+        "text": "Objetivos estratégicos (“qué”) con estrategias (“cómo”), métricas y desarrollo por categorías."
+      },
+      {
+        "value": 3,
+        "text": "Solo DAFO."
+      },
+      {
+        "value": 4,
+        "text": "Solo compras spot."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Objetivos estratégicos (“qué”) con estrategias (“cómo”), métricas y desarrollo por categorías."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "El despliegue de la estrategia de compras (metodologías como KATAIA) vincula los objetivos estratégicos ('qué se quiere lograr') con las estrategias ('cómo lograrlo'), las métricas de seguimiento y el desarrollo específico por categorías de gasto.",
+    "officialId": 441
+  },
+  {
+    "id": "tec-compras_7",
+    "questionNum": 7,
+    "question": "Gestión de compras en la empresa. La “Segmentación del mercado proveedor” por familias sirve para:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Determinar el precio de venta al público (PVP) final."
+      },
+      {
+        "value": 2,
+        "text": "Eliminar la compra global y favorecer las compras ilimitadas y alternativas."
+      },
+      {
+        "value": 3,
+        "text": "Sustituir homologación."
+      },
+      {
+        "value": 4,
+        "text": "Priorizar requerimientos, decidir dónde/a quién comprar y definir políticas por familia."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Priorizar requerimientos, decidir dónde/a quién comprar y definir políticas por familia."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "La segmentación del mercado proveedor por familias de compra sirve para: priorizar los requerimientos de cada familia, decidir dónde y a quién comprar (single source, multi-source, global vs. local), y definir políticas de gestión diferenciadas para cada familia.",
+    "officialId": 442
+  },
+  {
+    "id": "tec-compras_8",
+    "questionNum": 8,
+    "question": "Gestión de compras en la empresa. Un “itinerario de integración” con personas, empresas o entidades proveedoras busca:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Reducir el indicador clave de desempeño o Key Performance Indicator (KPI) a cero."
+      },
+      {
+        "value": 2,
+        "text": "Evitar compartir información."
+      },
+      {
+        "value": 3,
+        "text": "Elevar desempeño conjunto (coste, calidad, plazo) con mayor colaboración."
+      },
+      {
+        "value": 4,
+        "text": "Prescindir lo máximo posible del aseguramiento de la calidad del proveedor (SQA)."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Elevar desempeño conjunto (coste, calidad, plazo) con mayor colaboración."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "Un itinerario de integración con proveedores busca elevar el desempeño conjunto en las dimensiones de coste, calidad y plazo mediante mayor colaboración, intercambio de información y desarrollo conjunto de capacidades.",
+    "officialId": 443
+  },
+  {
+    "id": "tec-compras_9",
+    "questionNum": 9,
+    "question": "Gestión de compras en la empresa. En “gestión del riesgo de categoría” se consideran:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Riesgos de la categoría, proveedor/a y país (entre otros)."
+      },
+      {
+        "value": 2,
+        "text": "Solo meteorología del ámbito local y nacional."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente riesgo financiero de los recursos ajenos a medio y largo plazo."
+      },
+      {
+        "value": 4,
+        "text": "Solo riesgo legal."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Riesgos de la categoría, proveedor/a y país (entre otros)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "La gestión del riesgo de categoría en compras considera múltiples tipologías de riesgo: riesgos propios de la categoría (tecnológicos, regulatorios), riesgos del proveedor (financieros, operativos) y riesgos del país (políticos, logísticos, cambiarios).",
+    "officialId": 444
+  },
+  {
+    "id": "tec-compras_10",
+    "questionNum": 10,
+    "question": "Gestión de compras en la empresa. El “plan de gestión de compras” incluye:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo marketing de clientes fieles a la empresa en la gestión."
+      },
+      {
+        "value": 2,
+        "text": "Gestión por categorías, priorización y cuadro de mando."
+      },
+      {
+        "value": 3,
+        "text": "Excluir métricas."
+      },
+      {
+        "value": 4,
+        "text": "Solo contrato marco."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Gestión por categorías, priorización y cuadro de mando."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "El plan de gestión de compras incluye la gestión por categorías (estrategia diferenciada por familia de gasto), la priorización de iniciativas y un cuadro de mando con métricas (KPIs) para el seguimiento de los resultados.",
+    "officialId": 445
+  },
+  {
+    "id": "tec-compras_11",
+    "questionNum": 11,
+    "question": "Gestión de compras en la empresa. Una reclamación eficaz ante incumplimiento contractual debe:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ser verbal y grabarse ante posibles futuras demandas."
+      },
+      {
+        "value": 2,
+        "text": "Esperar siempre al cierre y comprobar si hay reclamaciones importantes que pudieran dañar la imagen de la empresa de forma significativa."
+      },
+      {
+        "value": 3,
+        "text": "Ir solo al/a la comercial."
+      },
+      {
+        "value": 4,
+        "text": "Alinearse con el contrato, documentar incumplimiento y activar el procedimiento (plazos, penalizaciones, remedios)."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Alinearse con el contrato, documentar incumplimiento y activar el procedimiento (plazos, penalizaciones, remedios)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "Una reclamación eficaz ante incumplimiento contractual debe: alinearse con los términos del contrato, documentar el incumplimiento de forma objetiva (evidencias, fechas) y activar el procedimiento previsto (plazos de respuesta, penalizaciones, vías de remedio).",
+    "officialId": 446
+  },
+  {
+    "id": "tec-compras_12",
+    "questionNum": 12,
+    "question": "Gestión de compras en la empresa. La negociación profesional en compras frente al “regateo” se centra en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Precios puntuales sin relación alguna."
+      },
+      {
+        "value": 2,
+        "text": "Sin preparación y con una fluidez e incertidumbre que permite una mayor flexibilidad de alcance."
+      },
+      {
+        "value": 3,
+        "text": "Generar acuerdos de valor y relaciones sostenibles."
+      },
+      {
+        "value": 4,
+        "text": "Improvisación total."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Generar acuerdos de valor y relaciones sostenibles."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "La negociación profesional en compras, a diferencia del regateo (centrado en el precio puntual), busca generar acuerdos de valor sostenibles, con preparación rigurosa, identificación de intereses de ambas partes y construcción de relaciones a largo plazo.",
+    "officialId": 447
+  },
+  {
+    "id": "tec-compras_13",
+    "questionNum": 13,
+    "question": "Gestión de compras en la empresa. Un comprador se reúne con un proveedor y, en vez de insistir en su posición, le pregunta qué necesidades y limitaciones tiene, buscando un acuerdo que mejore el resultado para ambos. ¿Qué tipo de enfoque está aplicando?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Negociación dura por posiciones."
+      },
+      {
+        "value": 2,
+        "text": "Tácticas de presión unilateral con revisión posterior."
+      },
+      {
+        "value": 3,
+        "text": "Negociación basada en intereses."
+      },
+      {
+        "value": 4,
+        "text": "Regateo clásico."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Negociación basada en intereses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "El comprador aplica negociación basada en intereses (interest-based negotiation): en lugar de defender posiciones rígidas, explora las necesidades y limitaciones del proveedor para encontrar soluciones que creen valor para ambas partes (principios de Fisher & Ury).",
+    "officialId": 448
+  },
+  {
+    "id": "tec-compras_14",
+    "questionNum": 14,
+    "question": "Gestión de compras en la empresa. ¿Qué tipo de negociación busca acuerdos que amplíen el valor disponible en lugar de repartirlo mediante confrontación directa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Competitiva por posiciones."
+      },
+      {
+        "value": 2,
+        "text": "Regateo."
+      },
+      {
+        "value": 3,
+        "text": "Concesiones secuenciales."
+      },
+      {
+        "value": 4,
+        "text": "Colaborativa por intereses."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Colaborativa por intereses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "La negociación colaborativa por intereses (integrativa) busca ampliar el valor disponible ('agrandar el pastel') antes de repartirlo, en lugar de la negociación competitiva por posiciones que confronta directamente intereses opuestos.",
+    "officialId": 449
+  },
+  {
+    "id": "tec-compras_15",
+    "questionNum": 15,
+    "question": "Gestión de compras en la empresa. Una persona compradora tiene buena posición en el mercado, está motivada para negociar y domina técnicas como preguntas, silencios y reformulación. ¿Qué factores está combinando?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ventas, logística y marketing."
+      },
+      {
+        "value": 2,
+        "text": "Solo poder y algo de intuición."
+      },
+      {
+        "value": 3,
+        "text": "Poder, querer y saber."
+      },
+      {
+        "value": 4,
+        "text": "Experiencia y azar. PREGUNTAS PRACTICAS"
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Poder, querer y saber."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-compras",
+    "explanation": "Los tres factores para negociar con eficacia son: Poder (posición favorable en el mercado), Querer (motivación para negociar y alcanzar un acuerdo) y Saber (dominio de técnicas de negociación: preguntas abiertas, silencios, reformulación, etc.).",
+    "officialId": 450
+  }
+]

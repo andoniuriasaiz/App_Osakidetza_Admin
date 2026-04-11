@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "tec-economia-empresa_1",
+    "questionNum": 1,
+    "question": "Cuál de los siguientes costes no comporta el coste del material comprado por la empresa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Coste de adquisición del stock."
+      },
+      {
+        "value": 2,
+        "text": "Coste de la compra."
+      },
+      {
+        "value": 3,
+        "text": "Coste de oportunidad."
+      },
+      {
+        "value": 4,
+        "text": "Coste de posesión del stock."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Coste de oportunidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El coste del material comprado incluye: coste de adquisición del stock, coste de la compra y coste de posesión del stock. El coste de oportunidad es un concepto económico teórico que refleja el beneficio foregone de la mejor alternativa no elegida; no es un componente directo del coste del material comprado.",
+    "officialId": 314
+  },
+  {
+    "id": "tec-economia-empresa_2",
+    "questionNum": 2,
+    "question": "El stock de seguridad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es necesario siempre."
+      },
+      {
+        "value": 2,
+        "text": "Se necesita utilizar si el consumo es el normal independientemente si hay retraso en el plazo de entrega."
+      },
+      {
+        "value": 3,
+        "text": "No se necesita utilizar si el consumo es el normal y no hay retraso en el plazo de entrega."
+      },
+      {
+        "value": 4,
+        "text": "Es el punto de pedido."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No se necesita utilizar si el consumo es el normal y no hay retraso en el plazo de entrega."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El stock de seguridad es un colchón ante variaciones imprevistas en la demanda o retrasos en el aprovisionamiento. No es necesario utilizarlo cuando el consumo es el normal previsto y no hay retraso en el plazo de entrega.",
+    "officialId": 315
+  },
+  {
+    "id": "tec-economia-empresa_3",
+    "questionNum": 3,
+    "question": "Para proceder de manera operativa al despliegue del plan de gestión y seguir las directrices de despliegue de objetivos serán premisas las siguientes cuestiones:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Concentrarse en pocos objetivos críticos para el éxito, considerando aspectos de calidad en la gestión."
+      },
+      {
+        "value": 2,
+        "text": "Generar interacción no sólo sobre el qué y el cuánto, sino sobre cómo se va a lograr el objetivo."
+      },
+      {
+        "value": 3,
+        "text": "Comunicar a todos las políticas de la compañía."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "Para el despliegue operativo del plan de gestión, las tres premisas son válidas: concentrarse en pocos objetivos críticos, generar interacción sobre el cómo se lograrán los objetivos, y comunicar las políticas a toda la organización.",
+    "officialId": 316
+  },
+  {
+    "id": "tec-economia-empresa_4",
+    "questionNum": 4,
+    "question": "En relación a la matriz DAFO, indique cuál de las siguientes afirmaciones es INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dentro del análisis DAFO debemos llevar a cabo una confrontación o nivel de relación entre fortalezas y oportunidades, debilidades y oportunidades, fortalezas y amenazas, y, debilidades y amenazas."
+      },
+      {
+        "value": 2,
+        "text": "Es una herramienta que se utiliza en el análisis de la información contable."
+      },
+      {
+        "value": 3,
+        "text": "Recoge, entre otra información, las fortalezas y amenazas de la empresa."
+      },
+      {
+        "value": 4,
+        "text": "Se utiliza para realizar diagnósticos y determinar estrategias en las empresas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Es una herramienta que se utiliza en el análisis de la información contable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "La matriz DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades) es una herramienta de análisis estratégico, NO de análisis de información contable. Se usa para diagnósticos estratégicos y determinación de estrategias empresariales.",
+    "officialId": 317
+  },
+  {
+    "id": "tec-economia-empresa_5",
+    "questionNum": 5,
+    "question": "Economía de la empresa. Las decisiones financieras. Respecto al EBITDA: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se calcula como la suma de EBIT más amortizaciones más provisiones."
+      },
+      {
+        "value": 2,
+        "text": "Se calcula como la suma de EBIT más amortizaciones más provisiones, más intereses."
+      },
+      {
+        "value": 3,
+        "text": "Se calcula como la suma de EBIT más amortizaciones más provisiones, más intereses, más impuestos."
+      },
+      {
+        "value": 4,
+        "text": "Se calcula como la suma de EBIT menos amortizaciones menos provisiones."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se calcula como la suma de EBIT más amortizaciones más provisiones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "EBITDA = EBIT + Amortizaciones + Provisiones. El EBITDA (Earnings Before Interest, Taxes, Depreciation and Amortization) se calcula sumando al EBIT las amortizaciones y provisiones, ya que estas son gastos no monetarios.",
+    "officialId": 318
+  },
+  {
+    "id": "tec-economia-empresa_6",
+    "questionNum": 6,
+    "question": "Economía de la empresa. Criterios de selección. Respecto la Tasa de Valor Actual: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es el periodo de tiempo que se tarda en recuperar el desembolso inicial de una inversión mediante los flujos de caja."
+      },
+      {
+        "value": 2,
+        "text": "Es el periodo de tiempo que se tarda en recuperar el desembolso inicial de una inversión mediante los beneficios contables de la empresa."
+      },
+      {
+        "value": 3,
+        "text": "Es el valor actual neto que se obtiene con la inversión por cada unidad monetaria comprometida."
+      },
+      {
+        "value": 4,
+        "text": "Es el valor actual bruto que se obtiene con la inversión por cada unidad monetaria comprometida."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Es el valor actual neto que se obtiene con la inversión por cada unidad monetaria comprometida."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "La Tasa de Valor Actual (TVA) o Índice de Rentabilidad es el valor actual neto obtenido por cada unidad monetaria comprometida en la inversión: TVA = VAN / Desembolso inicial. Mide la eficiencia relativa de la inversión.",
+    "officialId": 319
+  },
+  {
+    "id": "tec-economia-empresa_7",
+    "questionNum": 7,
+    "question": "Economía de la empresa. Dirección estratégica. Respecto a los factores determinantes a la hora de elegir un tipo de estructura: ELIJA LA AFIRMACIÓN INCORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El entorno de la organización."
+      },
+      {
+        "value": 2,
+        "text": "El tipo de estrategia que persigue la organización."
+      },
+      {
+        "value": 3,
+        "text": "La tecnología."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son incorrectas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "La pregunta pide la afirmación INCORRECTA. Los factores determinantes de la estructura organizativa (contingency theory: Mintzberg) son precisamente el entorno (1), la estrategia (2) y la tecnología (3). Por tanto, afirmar que 'todas las respuestas son incorrectas' ES la afirmación incorrecta.",
+    "officialId": 320
+  },
+  {
+    "id": "tec-economia-empresa_8",
+    "questionNum": 8,
+    "question": "Dirección estratégica. La misión en dirección estratégica se define principalmente como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El conjunto de indicadores financieros que la empresa usará a fin de año."
+      },
+      {
+        "value": 2,
+        "text": "El propósito fundamental y razón de ser de la organización."
+      },
+      {
+        "value": 3,
+        "text": "El plan de marketing operativo para el próximo trimestre."
+      },
+      {
+        "value": 4,
+        "text": "La política de dividendos."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El propósito fundamental y razón de ser de la organización."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "La misión en dirección estratégica se define como el propósito fundamental y razón de ser de la organización. Responde a las preguntas: ¿quiénes somos?, ¿qué hacemos?, ¿para qué existimos?",
+    "officialId": 321
+  },
+  {
+    "id": "tec-economia-empresa_9",
+    "questionNum": 9,
+    "question": "Dirección estratégica. En una matriz DAFO, ¿qué combina el análisis interno y externo?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Objetivos y presupuestos."
+      },
+      {
+        "value": 2,
+        "text": "Fortalezas/Debilidades con Oportunidades/Amenazas."
+      },
+      {
+        "value": 3,
+        "text": "Ratios de liquidez y solvencia con el apalancamiento financiero."
+      },
+      {
+        "value": 4,
+        "text": "Rotaciones y margen neto."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Fortalezas/Debilidades con Oportunidades/Amenazas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "La matriz DAFO combina el análisis interno (Fortalezas y Debilidades) con el análisis externo (Oportunidades y Amenazas), permitiendo una visión global de la situación estratégica de la empresa.",
+    "officialId": 322
+  },
+  {
+    "id": "tec-economia-empresa_10",
+    "questionNum": 10,
+    "question": "Criterios e instrumentos de decisión. El criterio de Savage (o del pesar) busca:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Maximizar el beneficio esperado."
+      },
+      {
+        "value": 2,
+        "text": "Minimizar el riesgo total."
+      },
+      {
+        "value": 3,
+        "text": "Minimizar el máximo pesar posible."
+      },
+      {
+        "value": 4,
+        "text": "Maximizar el valor actual neto."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Minimizar el máximo pesar posible."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El criterio de Savage o del mínimo pesar (minimax regret) busca minimizar el máximo pesar posible. El 'pesar' se calcula como la diferencia entre el resultado obtenido y el mejor resultado posible en cada estado de la naturaleza.",
+    "officialId": 323
+  },
+  {
+    "id": "tec-economia-empresa_11",
+    "questionNum": 11,
+    "question": "Criterios e instrumentos de decisión. En Teoría de la Información, la entropía del sistema es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Negativa cuando los sucesos son equiprobables."
+      },
+      {
+        "value": 2,
+        "text": "Nula cuando todos los sucesos son equiprobables."
+      },
+      {
+        "value": 3,
+        "text": "Máxima cuando un suceso es seguro."
+      },
+      {
+        "value": 4,
+        "text": "Máxima cuando todos los sucesos son equiprobables."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Máxima cuando todos los sucesos son equiprobables."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "En Teoría de la Información, la entropía (incertidumbre) es MÁXIMA cuando todos los sucesos son equiprobables (máxima incertidumbre), y es NULA (mínima) cuando un suceso es seguro (probabilidad 1). La entropía nunca es negativa.",
+    "officialId": 324
+  },
+  {
+    "id": "tec-economia-empresa_12",
+    "questionNum": 12,
+    "question": "Decisiones financieras. El EBITDA se define como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "EBIT + amortizaciones + provisiones."
+      },
+      {
+        "value": 2,
+        "text": "Beneficio neto + intereses + impuestos."
+      },
+      {
+        "value": 3,
+        "text": "Ingresos – gastos financieros."
+      },
+      {
+        "value": 4,
+        "text": "EBIT – amortizaciones – provisiones."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "EBIT + amortizaciones + provisiones."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "EBITDA = EBIT + Amortizaciones + Provisiones. El EBITDA representa el resultado operativo antes de deducir los gastos no monetarios (amortizaciones y provisiones), los intereses y los impuestos.",
+    "officialId": 325
+  },
+  {
+    "id": "tec-economia-empresa_13",
+    "questionNum": 13,
+    "question": "Decisiones financieras. La rentabilidad económica (RE) mide:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Beneficio neto por unidad de recursos propios."
+      },
+      {
+        "value": 2,
+        "text": "Beneficio líquido por unidad de pasivo total deducido los intereses."
+      },
+      {
+        "value": 3,
+        "text": "EBITDA por unidad de ventas."
+      },
+      {
+        "value": 4,
+        "text": "Beneficio económico (EBIT) por unidad de activo total."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Beneficio económico (EBIT) por unidad de activo total."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "La rentabilidad económica (RE) = EBIT / Activo Total. Mide la capacidad del activo total de la empresa para generar beneficio operativo (EBIT), con independencia de cómo esté financiada.",
+    "officialId": 326
+  },
+  {
+    "id": "tec-economia-empresa_14",
+    "questionNum": 14,
+    "question": "Decisiones financieras. El fondo de maniobra (FM). ¿Qué es el fondo de maniobra?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es la parte del activo fijo que se financia con pasivo corriente sin interés."
+      },
+      {
+        "value": 2,
+        "text": "Es el exceso de pasivo corriente sobre el activo circulante."
+      },
+      {
+        "value": 3,
+        "text": "Es la parte del activo circulante financiada con capitales permanentes."
+      },
+      {
+        "value": 4,
+        "text": "Es la suma de todos los recursos ajenos de la empresa."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Es la parte del activo circulante financiada con capitales permanentes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El fondo de maniobra (FM) = Activo circulante – Pasivo corriente = Capitales permanentes – Activo fijo. Es la parte del activo circulante financiada con capitales permanentes (recursos propios + deuda a largo plazo).",
+    "officialId": 327
+  },
+  {
+    "id": "tec-economia-empresa_15",
+    "questionNum": 15,
+    "question": "Decisiones financieras. ¿Qué interpreta mejor un fondo de maniobra positivo?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que la empresa financia su activo fijo con deuda a corto plazo registrando los intereses."
+      },
+      {
+        "value": 2,
+        "text": "Que dispone de un margen de seguridad para atender pagos a corto plazo."
+      },
+      {
+        "value": 3,
+        "text": "Que el activo circulante es inferior al pasivo corriente."
+      },
+      {
+        "value": 4,
+        "text": "Que el período medio de maduración es negativo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Que dispone de un margen de seguridad para atender pagos a corto plazo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "Un fondo de maniobra positivo significa que el activo circulante supera al pasivo corriente, lo que otorga a la empresa un margen de seguridad para atender sus compromisos de pago a corto plazo.",
+    "officialId": 328
+  },
+  {
+    "id": "tec-economia-empresa_16",
+    "questionNum": 16,
+    "question": "Decisiones financieras. Según el criterio conservador de equilibrio financiero, el fondo de maniobra debería ser:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Negativo, para aumentar la rentabilidad financiera."
+      },
+      {
+        "value": 2,
+        "text": "Cero, porque así no se inmovilizan recursos en exceso. Recursos inmovilizados no dan rentabilidad a la empresa."
+      },
+      {
+        "value": 3,
+        "text": "Positivo, para que parte del activo circulante esté financiado con capitales permanentes."
+      },
+      {
+        "value": 4,
+        "text": "Inexistente, dado que solo importa el activo fijo."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Positivo, para que parte del activo circulante esté financiado con capitales permanentes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "Según el criterio conservador de equilibrio financiero, el fondo de maniobra debe ser positivo: el activo fijo y parte del activo circulante se financian con capitales permanentes, reduciendo el riesgo de insolvencia a corto plazo.",
+    "officialId": 329
+  },
+  {
+    "id": "tec-economia-empresa_17",
+    "questionNum": 17,
+    "question": "Decisiones financieras. ¿Cuál de las siguientes expresiones es equivalente al fondo de rotación?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Capitales permanentes – Pasivo a corto plazo."
+      },
+      {
+        "value": 2,
+        "text": "Activo fijo – Capitales permanentes."
+      },
+      {
+        "value": 3,
+        "text": "Activo total – Activo circulante."
+      },
+      {
+        "value": 4,
+        "text": "Capitales permanentes – Activo fijo."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Capitales permanentes – Activo fijo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El fondo de rotación (o fondo de maniobra) = Capitales permanentes – Activo fijo. Esta expresión equivale a: Activo circulante – Pasivo corriente, ya que Activo total = Activo fijo + Activo circulante = Capitales permanentes + Pasivo corriente.",
+    "officialId": 330
+  },
+  {
+    "id": "tec-economia-empresa_18",
+    "questionNum": 18,
+    "question": "Decisiones financieras. En el equilibrio económico–financiero conservador, lo recomendable es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Financiar el activo fijo con pasivo a corto plazo."
+      },
+      {
+        "value": 2,
+        "text": "Financiar el circulante íntegramente con deuda a corto."
+      },
+      {
+        "value": 3,
+        "text": "Financiar activo fijo con capitales permanentes y parte del circulante también con ellos."
+      },
+      {
+        "value": 4,
+        "text": "No mantener fondo de maniobra."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Financiar activo fijo con capitales permanentes y parte del circulante también con ellos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El equilibrio económico-financiero conservador recomienda financiar el activo fijo con capitales permanentes y, además, financiar parte del activo circulante también con capitales permanentes, garantizando así un fondo de maniobra positivo.",
+    "officialId": 331
+  },
+  {
+    "id": "tec-economia-empresa_19",
+    "questionNum": 19,
+    "question": "Decisiones financieras. El período medio de maduración (PM) representa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El tiempo en que se amortiza la maquinaria utilizada en la producción."
+      },
+      {
+        "value": 2,
+        "text": "Los días que tarda en recuperarse una unidad monetaria en el ciclo de explotación."
+      },
+      {
+        "value": 3,
+        "text": "Los días de pago a empresas o entidades proveedoras."
+      },
+      {
+        "value": 4,
+        "text": "El tiempo medio de depreciación contable de los inmovilizados productivos de la empresa."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los días que tarda en recuperarse una unidad monetaria en el ciclo de explotación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El período medio de maduración (PMM) representa los días que tarda en recuperarse una unidad monetaria invertida en el ciclo de explotación, desde el pago a proveedores hasta el cobro de clientes.",
+    "officialId": 332
+  },
+  {
+    "id": "tec-economia-empresa_20",
+    "questionNum": 20,
+    "question": "Decisiones financieras. El periodo medio (PM) financiero (PMF) se obtiene:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Restando el período medio de pago (a proveedores) al PM económico."
+      },
+      {
+        "value": 2,
+        "text": "Sumando el período de pago al PM."
+      },
+      {
+        "value": 3,
+        "text": "Dividiendo PM entre la rotación del activo no corriente utilizado en la producción."
+      },
+      {
+        "value": 4,
+        "text": "Multiplicando PM por el margen neto."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Restando el período medio de pago (a proveedores) al PM económico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "PMF (Período Medio de Maduración Financiero) = PME (Período Medio Económico) – PMP (Período Medio de Pago a proveedores). El proveedor financia parte del ciclo, reduciéndolo.",
+    "officialId": 333
+  },
+  {
+    "id": "tec-economia-empresa_21",
+    "questionNum": 21,
+    "question": "En las inversiones simples si la rentabilidad requerida es inferior al TIR, el VAN:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es positivo."
+      },
+      {
+        "value": 2,
+        "text": "Es negativo."
+      },
+      {
+        "value": 3,
+        "text": "Es indiferente."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Es positivo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "En inversiones simples, si la rentabilidad requerida (k) es inferior a la TIR, el VAN es positivo. La relación VAN-k es inversa: a menor tasa de descuento, mayor VAN. Si k < TIR → VAN > 0.",
+    "officialId": 334
+  },
+  {
+    "id": "tec-economia-empresa_22",
+    "questionNum": 22,
+    "question": "El plazo de recuperación o Pay-Back es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El periodo de tiempo para recuperar la inversión o desembolso inicial."
+      },
+      {
+        "value": 2,
+        "text": "El periodo de tiempo para recuperar la solvencia de una empresa."
+      },
+      {
+        "value": 3,
+        "text": "El periodo medio de maduración."
+      },
+      {
+        "value": 4,
+        "text": "El tiempo promedio para recuperar una unidad invertida en el ciclo de explotación."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El periodo de tiempo para recuperar la inversión o desembolso inicial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El plazo de recuperación o Pay-Back es el período de tiempo que se tarda en recuperar el desembolso inicial de una inversión a través de los flujos de caja que genera.",
+    "officialId": 335
+  },
+  {
+    "id": "tec-economia-empresa_23",
+    "questionNum": 23,
+    "question": "La inversión A será preferible a la inversión B si:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Payback(A) es igual que Payback(B)."
+      },
+      {
+        "value": 2,
+        "text": "Payback(A) es mayor que Payback(B)."
+      },
+      {
+        "value": 3,
+        "text": "Payback(A) es menor que Payback(B)."
+      },
+      {
+        "value": 4,
+        "text": "VAN(A) es menor que VAN(B)."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Payback(A) es menor que Payback(B)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "Con el criterio Pay-Back, se prefiere la inversión que recupera antes el desembolso inicial. La inversión A es preferible a la B si Payback(A) < Payback(B), es decir, si A recupera la inversión en menos tiempo.",
+    "officialId": 336
+  },
+  {
+    "id": "tec-economia-empresa_24",
+    "questionNum": 24,
+    "question": "Selección de inversiones. El VAN de un proyecto es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La suma aritmética de los flujos futuros."
+      },
+      {
+        "value": 2,
+        "text": "El valor actual de los flujos de caja menos el desembolso inicial."
+      },
+      {
+        "value": 3,
+        "text": "El tiempo que tarda en recuperarse la inversión en el ejercicio económico."
+      },
+      {
+        "value": 4,
+        "text": "La tasa de beneficio contable."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El valor actual de los flujos de caja menos el desembolso inicial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El Valor Actual Neto (VAN) = Valor actual de los flujos de caja futuros – Desembolso inicial. Mide la creación de valor neta que genera un proyecto de inversión.",
+    "officialId": 337
+  },
+  {
+    "id": "tec-economia-empresa_25",
+    "questionNum": 25,
+    "question": "Selección de inversiones. Regla de decisión del VAN:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aceptar si VAN < 0."
+      },
+      {
+        "value": 2,
+        "text": "Aceptar si TIR < k."
+      },
+      {
+        "value": 3,
+        "text": "Aceptar si VAN > 0."
+      },
+      {
+        "value": 4,
+        "text": "Aceptar si pay‑back > vida útil."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Aceptar si VAN > 0."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "Regla de decisión del VAN: se acepta la inversión si VAN > 0 (crea valor), se rechaza si VAN < 0 (destruye valor) y es indiferente si VAN = 0.",
+    "officialId": 338
+  },
+  {
+    "id": "tec-economia-empresa_26",
+    "questionNum": 26,
+    "question": "Selección de inversiones. La TIR es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La tasa que maximiza el VAN."
+      },
+      {
+        "value": 2,
+        "text": "La tasa de descuento que hace VAN = 0."
+      },
+      {
+        "value": 3,
+        "text": "El coste medio ponderado del capital."
+      },
+      {
+        "value": 4,
+        "text": "El tipo de interés sin riesgo actualizado."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La tasa de descuento que hace VAN = 0."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "La Tasa Interna de Retorno (TIR) es la tasa de descuento que hace que el VAN del proyecto sea igual a cero. Representa la rentabilidad propia del proyecto.",
+    "officialId": 339
+  },
+  {
+    "id": "tec-economia-empresa_27",
+    "questionNum": 27,
+    "question": "Selección de inversiones. En inversiones simples, si k < TIR, entonces:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "VAN < 0."
+      },
+      {
+        "value": 2,
+        "text": "La inversión es indiferente."
+      },
+      {
+        "value": 3,
+        "text": "El pay‑back aumenta."
+      },
+      {
+        "value": 4,
+        "text": "VAN > 0."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "VAN > 0."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "En inversiones simples, si k < TIR (la rentabilidad requerida es menor que la TIR), descontando los flujos a la tasa k se obtiene un VAN > 0. La inversión es rentable y debe aceptarse.",
+    "officialId": 340
+  },
+  {
+    "id": "tec-economia-empresa_28",
+    "questionNum": 28,
+    "question": "Selección de inversiones. Una advertencia práctica previa al análisis de inversiones es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No merece la pena analizar si la suma aritmética de flujos (S) < desembolso inicial (A)."
+      },
+      {
+        "value": 2,
+        "text": "Analizar proyectos, aunque Σ flujos sin descontar < desembolso."
+      },
+      {
+        "value": 3,
+        "text": "Nunca considerar inflación."
+      },
+      {
+        "value": 4,
+        "text": "Descartar el VAN y usar solo pay‑back."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "No merece la pena analizar si la suma aritmética de flujos (S) < desembolso inicial (A)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "Advertencia práctica: si la suma aritmética (sin descontar) de los flujos de caja es menor que el desembolso inicial (Σflujos < A), el VAN será inevitablemente negativo para cualquier tasa positiva. No merece la pena continuar el análisis.",
+    "officialId": 341
+  },
+  {
+    "id": "tec-economia-empresa_29",
+    "questionNum": 29,
+    "question": "El estudio del apalancamiento financiero:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se realiza mediante el estudio de analizar la sensibilidad del beneficio neto respecto al beneficio económico."
+      },
+      {
+        "value": 2,
+        "text": "Se efectúa mediante el estudio del apalancamiento operativo."
+      },
+      {
+        "value": 3,
+        "text": "Se realiza mediante el análisis de la relación entre el beneficio de explotación y la modificación de las ventas."
+      },
+      {
+        "value": 4,
+        "text": "Se efectúa mediante el análisis del endeudamiento."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se realiza mediante el estudio de analizar la sensibilidad del beneficio neto respecto al beneficio económico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El apalancamiento financiero analiza la sensibilidad del beneficio neto respecto al beneficio económico (EBIT). Estudia cómo los costes financieros fijos (intereses) amplifican las variaciones del EBIT en el beneficio neto.",
+    "officialId": 342
+  },
+  {
+    "id": "tec-economia-empresa_30",
+    "questionNum": 30,
+    "question": "Métodos de valoración de empresas. ¿Cuál es la diferencia fundamental entre el método directo y el método indirecto de valoración en funcionamiento de una empresa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El método directo valora solo los activos materiales, mientras que el indirecto incluye los intangibles."
+      },
+      {
+        "value": 2,
+        "text": "El método directo utiliza beneficios contables, mientras que el indirecto usa únicamente flujos de tesorería."
+      },
+      {
+        "value": 3,
+        "text": "El método directo valora la empresa a partir de los flujos de caja generados directamente por la actividad, mientras que el método indirecto los obtiene ajustando el beneficio contable para convertirlo en flujo de caja."
+      },
+      {
+        "value": 4,
+        "text": "El método indirecto se aplica solo a empresas en liquidación."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El método directo valora la empresa a partir de los flujos de caja generados directamente por la actividad, mientras que el método indirecto los obtiene ajustando el beneficio contable para convertirlo en flujo de caja."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El método directo de cálculo del flujo de caja parte directamente de los cobros y pagos de la explotación. El método indirecto parte del beneficio contable y lo ajusta sumando gastos no monetarios (amortizaciones) y restando variaciones del capital circulante.",
+    "officialId": 343
+  },
+  {
+    "id": "tec-economia-empresa_31",
+    "questionNum": 31,
+    "question": "Riesgo y valoración de empresas. El punto muerto (umbral de rentabilidad) en unidades se obtiene como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Precio / Coste variable unitario."
+      },
+      {
+        "value": 2,
+        "text": "Coste fijo / (Precio – Coste variable unitario)."
+      },
+      {
+        "value": 3,
+        "text": "(Precio – Coste fijo) / Coste variable unitario."
+      },
+      {
+        "value": 4,
+        "text": "Coste variable total / Precio."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Coste fijo / (Precio – Coste variable unitario)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El punto muerto o umbral de rentabilidad en unidades = Costes fijos / (Precio unitario – Coste variable unitario) = CF / (p – cv). Es el volumen de ventas a partir del cual la empresa comienza a obtener beneficio.",
+    "officialId": 344
+  },
+  {
+    "id": "tec-economia-empresa_32",
+    "questionNum": 32,
+    "question": "Riesgo y valoración de empresas. El apalancamiento operativo (Ao) expresa:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La elasticidad de las ventas respecto al beneficio neto del ejercicio económico."
+      },
+      {
+        "value": 2,
+        "text": "La elasticidad del VAN respecto al tipo de descuento."
+      },
+      {
+        "value": 3,
+        "text": "La sensibilidad del coste financiero a la deuda descontados los intereses."
+      },
+      {
+        "value": 4,
+        "text": "La elasticidad del beneficio operativo respecto a las ventas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La elasticidad del beneficio operativo respecto a las ventas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El apalancamiento operativo (Ao) expresa la elasticidad del beneficio operativo (BAII/EBIT) respecto a las variaciones en las ventas. Un Ao elevado indica que pequeñas variaciones en ventas producen grandes variaciones en el beneficio de explotación.",
+    "officialId": 345
+  },
+  {
+    "id": "tec-economia-empresa_33",
+    "questionNum": 33,
+    "question": "Riesgo y valoración de empresas. Relación entre rentabilidad financiera (RF) y económica (RE) con endeudamiento L = D/K y coste de deuda kᵢ:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "RF = RE – (RE – kᵢ)·L."
+      },
+      {
+        "value": 2,
+        "text": "RF = RE + (RE – kᵢ)·L"
+      },
+      {
+        "value": 3,
+        "text": "RF = RE · (1 – L)."
+      },
+      {
+        "value": 4,
+        "text": "RF = kᵢ + L/RE."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "RF = RE + (RE – kᵢ)·L"
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "RF = RE + (RE – kᵢ) × L, donde L = D/K (ratio de endeudamiento) y kᵢ es el coste de la deuda. Si RE > kᵢ, el endeudamiento aumenta la rentabilidad financiera (efecto multiplicador positivo del apalancamiento financiero).",
+    "officialId": 346
+  },
+  {
+    "id": "tec-economia-empresa_34",
+    "questionNum": 34,
+    "question": "Métodos de valoración de empresas. La valoración en liquidación de una empresa se basa en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los flujos de caja esperados de la empresa como unidad productiva."
+      },
+      {
+        "value": 2,
+        "text": "El valor de mercado de cada bien, derecho y deuda considerados por separado."
+      },
+      {
+        "value": 3,
+        "text": "El valor actual de los beneficios promedio futuros alcanzados en el ejercicio económico."
+      },
+      {
+        "value": 4,
+        "text": "La comparación con empresas similares en el sector."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El valor de mercado de cada bien, derecho y deuda considerados por separado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "La valoración en liquidación considera cada activo y pasivo por separado a su valor de mercado, sin tener en cuenta las sinergias de la empresa en funcionamiento. Se aplica cuando la empresa cesa su actividad.",
+    "officialId": 347
+  },
+  {
+    "id": "tec-economia-empresa_35",
+    "questionNum": 35,
+    "question": "Métodos de valoración de empresas. ¿Qué refleja el valor sustancial neto de una empresa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El valor actual de los flujos de caja descontados a su rentabilidad requerida."
+      },
+      {
+        "value": 2,
+        "text": "El valor contable después de impuestos."
+      },
+      {
+        "value": 3,
+        "text": "El precio total que un comprador estaría dispuesto a pagar incluyendo el fondo de comercio."
+      },
+      {
+        "value": 4,
+        "text": "El valor de reposición actualizado de los activos menos las deudas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "El valor de reposición actualizado de los activos menos las deudas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El valor sustancial neto = valor de reposición actualizado de los activos necesarios para la explotación, menos las deudas. Representa el coste de reemplazar todos los activos productivos de la empresa a precios actuales.",
+    "officialId": 348
+  },
+  {
+    "id": "tec-economia-empresa_36",
+    "questionNum": 36,
+    "question": "Métodos de valoración de empresas. El valor de rendimiento supone habitualmente que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los beneficios crecen indefinidamente a una tasa acelerada y progresiva, de forma anual, durante los ejercicios económicos."
+      },
+      {
+        "value": 2,
+        "text": "La empresa tiene una duración limitada a un número concreto de años."
+      },
+      {
+        "value": 3,
+        "text": "La empresa puede considerarse de duración ilimitada y el beneficio anual promedio permanece constante."
+      },
+      {
+        "value": 4,
+        "text": "Los flujos se igualan al ebitda anual medio."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La empresa puede considerarse de duración ilimitada y el beneficio anual promedio permanece constante."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El valor de rendimiento supone que la empresa tiene duración ilimitada (perpetuidad) y que el beneficio anual promedio permanece constante. Se calcula como: V = Beneficio medio anual / Tasa de capitalización.",
+    "officialId": 349
+  },
+  {
+    "id": "tec-economia-empresa_37",
+    "questionNum": 37,
+    "question": "El valor del patrimonio se determina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Por diferencia entre el activo y los recursos ajenos."
+      },
+      {
+        "value": 2,
+        "text": "Por diferencia entre el activo y los recursos propios."
+      },
+      {
+        "value": 3,
+        "text": "Por diferencia entre el pasivo y los recursos ajenos."
+      },
+      {
+        "value": 4,
+        "text": "Por diferencia entre el pasivo y los recursos propios."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Por diferencia entre el activo y los recursos ajenos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "Patrimonio neto = Activo total – Recursos ajenos (deudas/pasivo exigible). El patrimonio representa la diferencia entre lo que la empresa posee (activo) y lo que debe a terceros (recursos ajenos).",
+    "officialId": 350
+  },
+  {
+    "id": "tec-economia-empresa_38",
+    "questionNum": 38,
+    "question": "Denominamos valor actual neto de una inversión a:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La diferencia entre su valor actual y su desembolso inicial."
+      },
+      {
+        "value": 2,
+        "text": "El valor actual de mercado."
+      },
+      {
+        "value": 3,
+        "text": "El valor de su desembolso inicial."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La diferencia entre su valor actual y su desembolso inicial."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El Valor Actual Neto (VAN) de una inversión es la diferencia entre el valor actual de todos los flujos de caja que genera y el desembolso inicial: VAN = VA(flujos) – A.",
+    "officialId": 351
+  },
+  {
+    "id": "tec-economia-empresa_39",
+    "questionNum": 39,
+    "question": "Al valor actual de todas las rentas que generará la empresa en el futuro se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Valor de reposición."
+      },
+      {
+        "value": 2,
+        "text": "Valor sustancial."
+      },
+      {
+        "value": 3,
+        "text": "Valor de rendimiento."
+      },
+      {
+        "value": 4,
+        "text": "Valor de los capitales invertidos."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Valor de rendimiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El valor de rendimiento es el valor actual de todas las rentas (beneficios o flujos) que generará la empresa en el futuro, descontadas a una tasa apropiada. Refleja el valor de la empresa como unidad generadora de ingresos.",
+    "officialId": 352
+  },
+  {
+    "id": "tec-economia-empresa_40",
+    "questionNum": 40,
+    "question": "Al importe que la empresa estima que podría obtener en el momento actual por la venta de un activo, tomando en consideración que el activo hubiese alcanzado la antigüedad y demás condiciones que se espera que tenga al final de su vida útil se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Valor residual."
+      },
+      {
+        "value": 2,
+        "text": "Valor actual."
+      },
+      {
+        "value": 3,
+        "text": "Valor contable en libros."
+      },
+      {
+        "value": 4,
+        "text": "Valor razonable."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Valor residual."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-economia-empresa",
+    "explanation": "El valor residual es el importe que la empresa estima que podría obtener actualmente por la venta de un activo, considerando que dicho activo ha alcanzado la antigüedad y estado que se espera al final de su vida útil. Según el PGC español, se usa para calcular la amortización.",
+    "officialId": 353
+  }
+]

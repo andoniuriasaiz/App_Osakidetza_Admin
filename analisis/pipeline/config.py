@@ -112,6 +112,21 @@ CATEGORIES = {
         "raw_osasun":     "osasun_aux.json",
         "app_file":       "aux.json",
     },
+    "TEC": {
+        "label":          "Técnico Superior Administrativo (específico)",
+        "kaixo_cat":      "ope26osakitecnico",
+        "kaixo_n":        500,
+        # No hay banco Osasuntest para Técnico Superior Administrativo.
+        # El cruce solo será App vs Kaixo.
+        "osasun_cat":     None,
+        "osasun_n":       0,
+        "osasun_offset":  0,
+        "raw_kaixo":      "kaixo_tec.json",
+        "raw_osasun":     None,
+        "app_file":       "tec.json",
+        # officialId asignado por el consolidador (coincide con numeración del PDF oficial
+        # y con la numeración de Kaixo, verificado por comparación directa de textos)
+    },
 }
 
 # ── Conversión número ↔ letra ─────────────────────────────────────────────────

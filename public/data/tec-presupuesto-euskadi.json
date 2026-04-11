@@ -1,0 +1,742 @@
+[
+  {
+    "id": "tec-presupuesto-euskadi_1",
+    "questionNum": 1,
+    "question": "Indique cuál de los siguientes presupuestos NO se de integran en los Presupuestos Generales, según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los Presupuestos de los Organismos Autónomos."
+      },
+      {
+        "value": 2,
+        "text": "Los Presupuestos de los Entes Públicos de derecho privado."
+      },
+      {
+        "value": 3,
+        "text": "Los Presupuestos de las Sociedades Públicas."
+      },
+      {
+        "value": 4,
+        "text": "Los Presupuestos de los Ayuntamientos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Los Presupuestos de los Ayuntamientos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 2 DL 1/2011: los Presupuestos Generales de Euskadi integran los presupuestos de la Administración de la CAE, Organismos Autónomos, Entes Públicos de derecho privado, Sociedades Públicas, Fundaciones y Consorcios del sector público. Los Ayuntamientos son entidades locales, no integradas en los PGE.",
+    "officialId": 294
+  },
+  {
+    "id": "tec-presupuesto-euskadi_2",
+    "questionNum": 2,
+    "question": "Indique, en base a las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, qué información se consignará en los presupuestos generales:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La información fiscal detallada de los municipios."
+      },
+      {
+        "value": 2,
+        "text": "La información sobre beneficios fiscales facilitada por el Consejo Vasco de Finanzas Públicas."
+      },
+      {
+        "value": 3,
+        "text": "Las exenciones de IRPF estatal facilitada por el Consejo Vasco de Finanzas Públicas."
+      },
+      {
+        "value": 4,
+        "text": "Los beneficios fiscales de la Unión Europea"
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La información sobre beneficios fiscales facilitada por el Consejo Vasco de Finanzas Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: en los Presupuestos Generales se consignará la información sobre beneficios fiscales facilitada por el Consejo Vasco de Finanzas Públicas, dada la gestión tributaria por las Diputaciones Forales.",
+    "officialId": 295
+  },
+  {
+    "id": "tec-presupuesto-euskadi_3",
+    "questionNum": 3,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi establecen el principio de universalidad. ¿Qué significa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que comprenderán todos los derechos y obligaciones, sin excepción, que se prevea liquidar y sea necesario atender."
+      },
+      {
+        "value": 2,
+        "text": "Que los presupuestos deben equilibrarse para todas las entidades de las Administración."
+      },
+      {
+        "value": 3,
+        "text": "Que se incluirán solo los gastos necesarios que se prevea liquidar y sea necesario atender."
+      },
+      {
+        "value": 4,
+        "text": "Que se incluirán únicamente las obligaciones reconocidas y sea necesario atender."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Que comprenderán todos los derechos y obligaciones, sin excepción, que se prevea liquidar y sea necesario atender."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 6 DL 1/2011: el principio de universalidad establece que los Presupuestos Generales comprenderán todos los derechos y obligaciones, sin excepción alguna, que se prevea liquidar y sea necesario atender.",
+    "officialId": 296
+  },
+  {
+    "id": "tec-presupuesto-euskadi_4",
+    "questionNum": 4,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren un equilibrio financiero. ¿Qué significa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que los Presupuestos Generales comprenderán los activos y pasivos que cubran los ingresos y gastos."
+      },
+      {
+        "value": 2,
+        "text": "Que los Presupuestos Generales comprenderán todos los derechos y obligaciones, sin excepción alguna."
+      },
+      {
+        "value": 3,
+        "text": "Que los presupuestos se elaborarán con un criterio contable consistente a lo largo del tiempo."
+      },
+      {
+        "value": 4,
+        "text": "Que los presupuestos se elaborarán de modo que la totalidad de los ingresos cubra el importe de los gastos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Que los presupuestos se elaborarán de modo que la totalidad de los ingresos cubra el importe de los gastos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 7 DL 1/2011: el principio de equilibrio financiero establece que los presupuestos se elaborarán de modo que la totalidad de los ingresos cubra el importe de los gastos.",
+    "officialId": 297
+  },
+  {
+    "id": "tec-presupuesto-euskadi_5",
+    "questionNum": 5,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi indican que los Presupuestos de la Administración de la CAE comprendan:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Un estado de gastos comprensivo de los créditos necesarios para atender los gastos necesarios asociados a la recaudación."
+      },
+      {
+        "value": 2,
+        "text": "Un estado de ingresos comprensivo de las distintas inversiones futuras a liquidar durante el ejercicio."
+      },
+      {
+        "value": 3,
+        "text": "Un estado de ingresos comprensivo de los distintos derechos económicos a liquidar durante el ejercicio."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Un estado de ingresos comprensivo de los distintos derechos económicos a liquidar durante el ejercicio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 8 DL 1/2011: los Presupuestos de la Administración de la CAE comprenden un estado de ingresos comprensivo de los distintos derechos económicos a liquidar durante el ejercicio, y un estado de gastos comprensivo de los créditos necesarios.",
+    "officialId": 298
+  },
+  {
+    "id": "tec-presupuesto-euskadi_6",
+    "questionNum": 6,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi establecen que los Presupuestos de los Organismos Autónomos Mercantiles comprenderán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dotaciones de gastos y de ingresos del ejercicio."
+      },
+      {
+        "value": 2,
+        "text": "Dotaciones de inversiones y financiación del ejercicio."
+      },
+      {
+        "value": 3,
+        "text": "Un estado de compromisos futuros."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 8 DL 1/2011: los Presupuestos de los Organismos Autónomos Mercantiles comprenden dotaciones de gastos y de ingresos, dotaciones de inversiones y financiación del ejercicio, así como un estado de compromisos futuros.",
+    "officialId": 299
+  },
+  {
+    "id": "tec-presupuesto-euskadi_7",
+    "questionNum": 7,
+    "question": "Según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, indique qué deben recoger los estados de ingresos respecto a los recursos financieros:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo los ingresos financieros que se recauden efectivamente."
+      },
+      {
+        "value": 2,
+        "text": "Todos los recursos financieros que se prevea liquidar en el ejercicio."
+      },
+      {
+        "value": 3,
+        "text": "Únicamente los ingresos financieros derivados de impuestos directos."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Todos los recursos financieros que se prevea liquidar en el ejercicio."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: los estados de ingresos deben recoger todos los recursos financieros que se prevea liquidar en el ejercicio, conforme al principio de universalidad presupuestaria.",
+    "officialId": 300
+  },
+  {
+    "id": "tec-presupuesto-euskadi_8",
+    "questionNum": 8,
+    "question": "Según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, indique en qué caso los importes de los estados de ingresos pueden tener valor definitivo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando así lo decidan los departamentos gestores."
+      },
+      {
+        "value": 2,
+        "text": "Cuando la liquidación del ejercicio anterior sea positiva."
+      },
+      {
+        "value": 3,
+        "text": "Cuando lo determine el Gobierno mediante decreto."
+      },
+      {
+        "value": 4,
+        "text": "Cuando se califiquen expresamente como definitivos en los propios estados."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Cuando se califiquen expresamente como definitivos en los propios estados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: los importes de los estados de ingresos tienen carácter de previsión o estimación, salvo que se califiquen expresamente como definitivos en los propios estados.",
+    "officialId": 301
+  },
+  {
+    "id": "tec-presupuesto-euskadi_9",
+    "questionNum": 9,
+    "question": "Según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, indique qué representan las aportaciones de las Diputaciones Forales recogidas en el estado de ingresos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La contribución de los Territorios Históricos a la deuda la CAE."
+      },
+      {
+        "value": 2,
+        "text": "La contribución de los Territorios Históricos a los gastos presupuestarios de la CAE."
+      },
+      {
+        "value": 3,
+        "text": "La contribución de los Territorios Históricos a los ingresos presupuestarios de la CAE."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La contribución de los Territorios Históricos a los gastos presupuestarios de la CAE."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 32.a DL 1/1997 (aplicable en DL 1/2011): las aportaciones de las Diputaciones Forales representan la contribución de los Territorios Históricos a los gastos presupuestarios de la CAE.",
+    "officialId": 302
+  },
+  {
+    "id": "tec-presupuesto-euskadi_10",
+    "questionNum": 10,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren que los impuestos propios y los recargos establecidos por la CAE deben registrase en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En el estado de gastos del presupuesto de la entidad correspondiente del sector público autonómico."
+      },
+      {
+        "value": 2,
+        "text": "En el estado de ingresos del presupuesto de la entidad correspondiente del sector público autonómico."
+      },
+      {
+        "value": 3,
+        "text": "En el estado de gastos del presupuesto de la entidad mercantil correspondiente."
+      },
+      {
+        "value": 4,
+        "text": "En el estado de ingresos del presupuesto de la entidad mercantil correspondiente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "En el estado de ingresos del presupuesto de la entidad correspondiente del sector público autonómico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: los impuestos propios y los recargos establecidos por la CAE se registran en el estado de ingresos del presupuesto de la entidad correspondiente del sector público autonómico.",
+    "officialId": 303
+  },
+  {
+    "id": "tec-presupuesto-euskadi_11",
+    "questionNum": 11,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren que las asignaciones recibidas con cargo a los Presupuestos Generales del Estado se integren como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como créditos de compromiso del presupuesto del ente receptor."
+      },
+      {
+        "value": 2,
+        "text": "Como ingresos extrapresupuestarios."
+      },
+      {
+        "value": 3,
+        "text": "Como transferencias no condicionadas."
+      },
+      {
+        "value": 4,
+        "text": "En el estado de ingresos del presupuesto del ente receptor."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "En el estado de ingresos del presupuesto del ente receptor."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: las asignaciones recibidas con cargo a los Presupuestos Generales del Estado se integran en el estado de ingresos del presupuesto del ente receptor.",
+    "officialId": 304
+  },
+  {
+    "id": "tec-presupuesto-euskadi_12",
+    "questionNum": 12,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi indican que los estados de ingresos, respecto al endeudamiento, deben reflejar:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La deuda histórica acumulada."
+      },
+      {
+        "value": 2,
+        "text": "Las amortizaciones de préstamos."
+      },
+      {
+        "value": 3,
+        "text": "Los recursos que se prevea obtener por vía de endeudamiento."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los recursos que se prevea obtener por vía de endeudamiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: los estados de ingresos, respecto al endeudamiento, deben reflejar los recursos que se prevea obtener por vía de endeudamiento durante el ejercicio.",
+    "officialId": 305
+  },
+  {
+    "id": "tec-presupuesto-euskadi_13",
+    "questionNum": 13,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren que las transferencias y subvenciones corrientes que perciban los Entes Públicos de derecho privado del sector público de la CAE formen parte de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los estados de gastos expresivos del desarrollo de las actividades de dicho ente."
+      },
+      {
+        "value": 2,
+        "text": "Los estados de ingresos expresivos del desarrollo de las actividades de dicho ente."
+      },
+      {
+        "value": 3,
+        "text": "No pueden formar parte de los presupuestos generales de la Administración General."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los estados de ingresos expresivos del desarrollo de las actividades de dicho ente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: las transferencias y subvenciones corrientes que perciban los Entes Públicos de derecho privado forman parte de los estados de ingresos expresivos del desarrollo de las actividades de dicho ente.",
+    "officialId": 306
+  },
+  {
+    "id": "tec-presupuesto-euskadi_14",
+    "questionNum": 14,
+    "question": "Las transferencias y subvenciones corrientes que reciben las entidades del sector público, según las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Créditos de compromiso plurianuales."
+      },
+      {
+        "value": 2,
+        "text": "Gastos administrativos."
+      },
+      {
+        "value": 3,
+        "text": "Parte de los estados de ingresos relativos al desarrollo de sus actividades."
+      },
+      {
+        "value": 4,
+        "text": "Recursos destinados exclusivamente a inversiones."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Parte de los estados de ingresos relativos al desarrollo de sus actividades."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: las transferencias y subvenciones corrientes que reciben las entidades del sector público son parte de los estados de ingresos relativos al desarrollo de sus actividades.",
+    "officialId": 307
+  },
+  {
+    "id": "tec-presupuesto-euskadi_15",
+    "questionNum": 15,
+    "question": "Las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi requieren que las transferencias y subvenciones de capital que perciban los Entes Públicos de derecho privado del sector público de la CAE se consideren:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Gastos corrientes."
+      },
+      {
+        "value": 2,
+        "text": "Ingresos municipales."
+      },
+      {
+        "value": 3,
+        "text": "Recaudación directa."
+      },
+      {
+        "value": 4,
+        "text": "Recursos para financiar operaciones de capital o financieras."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Recursos para financiar operaciones de capital o financieras."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "DL 1/2011: las transferencias y subvenciones de capital que perciban los Entes Públicos de derecho privado se consideran recursos para financiar operaciones de capital o financieras.",
+    "officialId": 308
+  },
+  {
+    "id": "tec-presupuesto-euskadi_16",
+    "questionNum": 16,
+    "question": "Los estados de gastos de los presupuestos determinados en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi recogerán:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Créditos de pago y créditos de compromiso."
+      },
+      {
+        "value": 2,
+        "text": "Crédito global y créditos de pago."
+      },
+      {
+        "value": 3,
+        "text": "Créditos ampliables."
+      },
+      {
+        "value": 4,
+        "text": "Créditos de pago."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Créditos de pago y créditos de compromiso."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 8 DL 1/2011: los estados de gastos de los presupuestos recogen créditos de pago y créditos de compromiso, necesarios para atender el cumplimiento de las respectivas obligaciones.",
+    "officialId": 309
+  },
+  {
+    "id": "tec-presupuesto-euskadi_17",
+    "questionNum": 17,
+    "question": "Indique qué créditos de pago se consideran ampliables sin necesidad de figurar expresamente como tales, según lo establecido en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los destinados a bienes corrientes."
+      },
+      {
+        "value": 2,
+        "text": "Los destinados a cotizaciones de previsión social obligatoria del personal."
+      },
+      {
+        "value": 3,
+        "text": "Los vinculados a impuestos de recaudación voluntaria."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los destinados a cotizaciones de previsión social obligatoria del personal."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 25 DL 1/2011: son créditos ampliables sin necesidad de figurar expresamente como tales los destinados a las cotizaciones relativas al régimen de previsión social obligatoria del personal.",
+    "officialId": 310
+  },
+  {
+    "id": "tec-presupuesto-euskadi_18",
+    "questionNum": 18,
+    "question": "Indique qué caracteriza a los créditos variables, según lo establecido en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que corresponden a créditos de compromiso plurianuales."
+      },
+      {
+        "value": 2,
+        "text": "Que están destinados a nuevas necesidades sin dotación."
+      },
+      {
+        "value": 3,
+        "text": "Que su cuantía depende de excedentes presupuestarios."
+      },
+      {
+        "value": 4,
+        "text": "Cuando su importe definitivo depende del valor de módulos aplicables."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Cuando su importe definitivo depende del valor de módulos aplicables."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 27 DL 1/2011: los créditos variables son créditos de pago cuyo importe definitivo se fija en función del valor que alcancen los módulos que intervienen en su determinación.",
+    "officialId": 311
+  },
+  {
+    "id": "tec-presupuesto-euskadi_19",
+    "questionNum": 19,
+    "question": "Según lo establecido en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, los créditos destinados a transferir fondos a entes aún no constituidos se clasifican como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como ampliables."
+      },
+      {
+        "value": 2,
+        "text": "Como créditos en suspenso."
+      },
+      {
+        "value": 3,
+        "text": "Como créditos globales."
+      },
+      {
+        "value": 4,
+        "text": "Como variables."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Como créditos globales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 20 DL 1/2011: los créditos destinados a transferir fondos a entes aún no constituidos se clasifican como créditos globales, que pueden incluirse para atender nuevas necesidades o insuficiencias.",
+    "officialId": 312
+  },
+  {
+    "id": "tec-presupuesto-euskadi_20",
+    "questionNum": 20,
+    "question": "Según lo establecido en las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi, los créditos de compromiso que no requieren autorización son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No hay créditos de compromiso sin autorización, ya que todos requieren ser autorizados en el ejercicio corriente"
+      },
+      {
+        "value": 2,
+        "text": "Aquéllos que sean para para gastos que hayan de extenderse a ejercicios posteriores cuando correspondan a cargas financieras derivadas del endeudamiento realizado en conformidad con las disposiciones vigentes."
+      },
+      {
+        "value": 3,
+        "text": "Aquéllos que sean para para gastos que hayan de extenderse a ejercicios posteriores cuando correspondan a cargas financieras derivadas del endeudamiento, con el límite del 5% del importe total de la carga financiera."
+      },
+      {
+        "value": 4,
+        "text": "Aquéllos que correspondan a adquisiciones habituales de bienes o servicios necesarios para el normal funcionamiento de la Administración, con el límite del 5% del importe total de la carga financiera."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Aquéllos que sean para para gastos que hayan de extenderse a ejercicios posteriores cuando correspondan a cargas financieras derivadas del endeudamiento realizado en conformidad con las disposiciones vigentes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-presupuesto-euskadi",
+    "explanation": "Art. 32 DL 1/2011: no requieren aprobación ni autorización los compromisos para gastos correspondientes a cargas financieras derivadas del endeudamiento realizado en conformidad con las disposiciones vigentes.",
+    "officialId": 313
+  }
+]

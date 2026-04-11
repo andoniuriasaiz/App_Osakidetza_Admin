@@ -66,14 +66,26 @@ MAPPINGS = [
         "osa_file":    "osasuntest_auxiliar-administrativo_especifico.json",
         "output_file": "osasun_aux.json",
     },
+    {
+        "name":        "TEC",
+        "app_file":    "tec.json",
+        "osa_file":    None,   # Sin banco Osasuntest para Técnico Superior
+        "output_file": None,
+    },
 ]
 
 
 # ─── Mapeo de una categoría ───────────────────────────────────────────────────
 
-def map_category(name: str, app_file: str, osa_file: str, output_file: str, 
+def map_category(name: str, app_file: str, osa_file, output_file,
                  data_dir: Path, osa_out_dir: Path, raw_dir: Path) -> None:
     print(f"  [{name}] ", end="", flush=True)
+
+    # Sin banco Osasuntest para esta categoría
+    if osa_file is None:
+        print("sin Osasuntest (no aplica para esta categoría)")
+        return
+
     app_path = data_dir / app_file
     osa_path = osa_out_dir / osa_file
     out_path = raw_dir / output_file

@@ -105,6 +105,11 @@ export const OPE_TRACKS: OpeTrack[] = [
     specificModuleIds: [
       'tec-t01', 'tec-t02', 'tec-t03', 'tec-t04',
       'tec-t05', 'tec-t06', 'tec-t07', 'tec-t08',
+      'tec-hacienda-pv', 'tec-presupuesto-euskadi',
+      'tec-economia-empresa',
+      'tec-pgc-contabilidad', 'tec-analisis-financiero', 'tec-control-publico',
+      'tec-logistica-scm', 'tec-compras',
+      'tec-derecho-aplicado', 'tec-casos-practicos',
     ],
     examDate: '2026-06-21',
   },

@@ -83,10 +83,41 @@ def run(categories: list[str] | None = None) -> None:
         "AUX": ("aux-e",        "aux.json"),
     }
 
+    # TEC usa lista explícita (T09-T13 se renombraron a módulos temáticos;
+    # el prefijo "tec-t" ya no cubre todos los archivos).
+    TEC_FILES = [
+        "tec-t01.json", "tec-t02.json", "tec-t03.json", "tec-t04.json",
+        "tec-t05.json", "tec-t06.json", "tec-t07.json", "tec-t08.json",
+        "tec-hacienda-pv.json", "tec-presupuesto-euskadi.json",
+        "tec-economia-empresa.json",
+        "tec-pgc-contabilidad.json", "tec-analisis-financiero.json",
+        "tec-control-publico.json",
+        "tec-logistica-scm.json", "tec-compras.json",
+        "tec-derecho-aplicado.json", "tec-casos-practicos.json",
+    ]
+
     cats = categories or list(CATEGORIES.keys())
-    
+
     for cat in cats:
-        if cat in PREFIX_MAP:
+        if cat == "TEC":
+            # Lista explícita — T09-T13 se dividieron en módulos temáticos
+            all_q = []
+            for fn in TEC_FILES:
+                fp = DATA_DIR / fn
+                if fp.exists():
+                    with open(fp, encoding="utf-8") as fh:
+                        data = json.load(fh)
+                        if isinstance(data, list):
+                            all_q.extend(data)
+                else:
+                    print(f"    [WARN] No existe: {fn}")
+            out_path = DATA_DIR / "tec.json"
+            with open(out_path, "w", encoding="utf-8") as fh:
+                json.dump(all_q, fh, ensure_ascii=False, indent=2)
+            with open(out_path, "a", encoding="utf-8") as fh:
+                fh.write("\n")
+            print(f"  [TEC] (lista explícita) ➔ tec.json          | {len(all_q):4d} preguntas")
+        elif cat in PREFIX_MAP:
             prefix, out_name = PREFIX_MAP[cat]
             count = consolidate_category(prefix, out_name)
             print(f"  [{cat:3s}] {prefix:12s} ➔ {out_name:15s} | {count:4d} preguntas")

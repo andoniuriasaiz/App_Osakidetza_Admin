@@ -1,0 +1,2296 @@
+[
+  {
+    "id": "tec-t11_1",
+    "questionNum": 1,
+    "question": "La cuenta que recoge el resultado del ejercicio, formado por los ingresos y gastos del mismo es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El balance."
+      },
+      {
+        "value": 2,
+        "text": "La cuenta de pérdidas y ganancias."
+      },
+      {
+        "value": 3,
+        "text": "El estado de cambios en el patrimonio neto."
+      },
+      {
+        "value": 4,
+        "text": "El estado de flujos de efectivo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La cuenta de pérdidas y ganancias."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La cuenta de pérdidas y ganancias recoge los ingresos y gastos del ejercicio y muestra el resultado (beneficio o pérdida) del mismo. El balance muestra la situación patrimonial, el ECPN los cambios en patrimonio neto, y el EFE los cobros y pagos.",
+    "officialId": 354
+  },
+  {
+    "id": "tec-t11_2",
+    "questionNum": 2,
+    "question": "“Los efectos de las transacciones o hechos económicos se registrarán cuando ocurran, imputándose al ejercicio al que las cuentas anuales se refieran, con independencia de la fecha de su pago o de su cobro”, nos estamos refiriendo al:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Principio de uniformidad."
+      },
+      {
+        "value": 2,
+        "text": "Principio de devengo."
+      },
+      {
+        "value": 3,
+        "text": "Principio de prudencia."
+      },
+      {
+        "value": 4,
+        "text": "Principio de no compensación."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Principio de devengo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El principio de devengo establece que los efectos de las transacciones y hechos económicos se registran cuando ocurren, con independencia de cuándo se produzca el cobro o el pago. Es uno de los principios contables fundamentales del PGC.",
+    "officialId": 355
+  },
+  {
+    "id": "tec-t11_3",
+    "questionNum": 3,
+    "question": "El documento que muestra los cobros y pagos producidos en el ejercicio, clasificándolos en actividades de explotación, inversión o financiación es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El estado de flujos de efectivo."
+      },
+      {
+        "value": 2,
+        "text": "El estado de cambios en el patrimonio neto."
+      },
+      {
+        "value": 3,
+        "text": "El balance."
+      },
+      {
+        "value": 4,
+        "text": "La cuenta de pérdidas y ganancias."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El estado de flujos de efectivo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El Estado de Flujos de Efectivo (EFE) muestra los cobros y pagos producidos durante el ejercicio, clasificados en actividades de explotación (operaciones ordinarias), inversión (compra/venta de activos) y financiación (deuda y capital).",
+    "officialId": 356
+  },
+  {
+    "id": "tec-t11_4",
+    "questionNum": 4,
+    "question": "Los documentos que integran las cuentas anuales son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El balance y la cuenta de pérdidas y ganancias."
+      },
+      {
+        "value": 2,
+        "text": "El balance, la cuenta de pérdidas y ganancias, el estado de cambios en el patrimonio neto."
+      },
+      {
+        "value": 3,
+        "text": "El balance, la cuenta de pérdidas y ganancias, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo y la memoria."
+      },
+      {
+        "value": 4,
+        "text": "El balance, la cuenta de pérdidas y ganancias, el estado de cambios en el patrimonio, el estado de flujos de efectivo la memoria y el informe."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El balance, la cuenta de pérdidas y ganancias, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo y la memoria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el PGC 2007, las cuentas anuales comprenden exactamente cinco documentos: Balance, Cuenta de Pérdidas y Ganancias, Estado de Cambios en el Patrimonio Neto (ECPN), Estado de Flujos de Efectivo (EFE) y Memoria. El informe de auditoría y el informe de gestión son documentos separados.",
+    "officialId": 357
+  },
+  {
+    "id": "tec-t11_5",
+    "questionNum": 5,
+    "question": "El tratamiento contable que se debe dar a las subvenciones, donaciones y legados que con frecuencia reciben las empresas de asistencia sanitaria:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Será como criterio general, la consideración de resultados extraordinarios."
+      },
+      {
+        "value": 2,
+        "text": "Será como criterio general, la consideración de ingresos ordinarios."
+      },
+      {
+        "value": 3,
+        "text": "Es la consideración de otros ingresos de gestión."
+      },
+      {
+        "value": 4,
+        "text": "Es la consideración de subvenciones ordinarias."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Es la consideración de otros ingresos de gestión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Conforme a la Orden de 23 de diciembre de 1996 (adaptación del PGC para empresas de asistencia sanitaria), las subvenciones, donaciones y legados que reciben estas empresas se clasifican como 'otros ingresos de gestión', reconociéndose como ingresos ordinarios de la actividad.",
+    "officialId": 358
+  },
+  {
+    "id": "tec-t11_6",
+    "questionNum": 6,
+    "question": "Registro contable que se puede derivar de las operaciones. Indique cuál de las siguientes afirmaciones es INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Si el Banco concede un préstamo, se registra un pasivo."
+      },
+      {
+        "value": 2,
+        "text": "Cuando se compran mercaderías a proveedores del extranjero con pago aplazado, puede surgir un gasto."
+      },
+      {
+        "value": 3,
+        "text": "Cada fin de año la empresa debe analizar si sus existencias sufren algún deterioro, y en caso afirmativo, registrar una pérdida recuperable."
+      },
+      {
+        "value": 4,
+        "text": "La amortización es una pérdida reversible, y se genera, entre otros, por el paso del tiempo y la pérdida de valor que de ello deriva."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La amortización es una pérdida reversible, y se genera, entre otros, por el paso del tiempo y la pérdida de valor que de ello deriva."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La afirmación incorrecta es la opción 4: la amortización (depreciación) NO es una pérdida reversible, sino irreversible y sistemática. Las pérdidas reversibles son los 'deterioros de valor' (p.ej., depreciación de existencias o inversiones), que sí pueden revertirse. La amortización refleja el consumo sistemático de un activo a lo largo de su vida útil.",
+    "officialId": 359
+  },
+  {
+    "id": "tec-t11_7",
+    "questionNum": 7,
+    "question": "El marco conceptual contable señala cómo realizar el registro y la valoración de los elementos de las cuentas anuales. En relación a ello, indique cuál de las siguientes afirmaciones es INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Para el registro y valoración de los elementos, es obligatorio aplicar los principios contables."
+      },
+      {
+        "value": 2,
+        "text": "El principio de Uniformidad establece que, adoptado un criterio de valoración para un elemento, este criterio deberá mantenerse en el tiempo y aplicarse de manera uniforme para transacciones, otros eventos y condiciones que sean similares."
+      },
+      {
+        "value": 3,
+        "text": "El principio de Importancia relativa posibilita no aplicación de algunos de los principios cuando la importancia relativa en términos cuantitativos o cualitativos de la variación que tal hecho produzca sea escasamente significativa y, en consecuencia, no altere la expresión de la imagen fiel."
+      },
+      {
+        "value": 4,
+        "text": "La aplicación de los principios tiene el propósito de determinar el valor del patrimonio neto a efectos de su transmisión."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La aplicación de los principios tiene el propósito de determinar el valor del patrimonio neto a efectos de su transmisión."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La opción 4 es INCORRECTA: la aplicación de los principios contables no tiene como propósito determinar el valor del patrimonio neto a efectos de su transmisión. El objetivo es proporcionar la imagen fiel del patrimonio, la situación financiera y los resultados de la empresa (art. 34.2 C.Co.).",
+    "officialId": 360
+  },
+  {
+    "id": "tec-t11_8",
+    "questionNum": 8,
+    "question": "Cuando una empresa está construyendo un edificio que servirá de almacén, dentro de la actividad ordinaria de la empresa, éste se valora al coste de producción. Este coste de producción incluye diferentes conceptos. Indique cuál de las siguientes afirmaciones es INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se incluye el precio de adquisición de las materias primas y otras materias consumibles que se han utilizado."
+      },
+      {
+        "value": 2,
+        "text": "Se incluye la parte de costes indirectos imputables."
+      },
+      {
+        "value": 3,
+        "text": "Se incluyen los honorarios correspondientes a la dirección de obra."
+      },
+      {
+        "value": 4,
+        "text": "Si la obra está financiada, tanto con financiación a corto plazo como a largo plazo, se incluyen todos los gastos financieros de la operación."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Si la obra está financiada, tanto con financiación a corto plazo como a largo plazo, se incluyen todos los gastos financieros de la operación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según la NRV 10 del PGC, en el coste de producción de un activo construido por la empresa solo se pueden activar los gastos financieros de la financiación ESPECÍFICA a largo plazo. Los gastos financieros de la financiación a corto plazo NO pueden incluirse en el coste de producción.",
+    "officialId": 361
+  },
+  {
+    "id": "tec-t11_9",
+    "questionNum": 9,
+    "question": "La empresa contrata un seguro para los elementos de transporte para el periodo de 12 meses (desde el 1 de junio de X0 hasta el 1 de junio de X1). El importe se paga de manera anticipada. En relación a este hecho, indique cuál de las siguientes afirmaciones es INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "En X0, surge un gasto."
+      },
+      {
+        "value": 2,
+        "text": "En X1, surge un gasto."
+      },
+      {
+        "value": 3,
+        "text": "La salida de tesorería se produce en X0 y surge un activo."
+      },
+      {
+        "value": 4,
+        "text": "La salida de tesorería se produce en X0 y surge un pasivo."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La salida de tesorería se produce en X0 y surge un pasivo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La opción incorrecta es la 4: cuando se paga una prima de seguro de forma anticipada, surge un ACTIVO (gasto anticipado o pagos anticipados), NO un pasivo. La tesorería sale en X0, y el gasto anticipado se consume a lo largo del periodo asegurado (X0 y X1).",
+    "officialId": 362
+  },
+  {
+    "id": "tec-t11_10",
+    "questionNum": 10,
+    "question": "Conforme al Plan general de Contabilidad, el reconocimiento de un ingreso tiene lugar como consecuencia: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "De un incremento del patrimonio neto de la empresa, y siempre que su cuantía pueda determinarse con fiabilidad, siempre que se haya cobrado."
+      },
+      {
+        "value": 2,
+        "text": "De un incremento del patrimonio neto de la empresa, y aunque su cuantía no pueda determinarse con fiabilidad, independientemente que se haya cobrado."
+      },
+      {
+        "value": 3,
+        "text": "De un incremento del patrimonio neto de la empresa, y siempre que su cuantía pueda determinarse con fiabilidad, independientemente que se haya cobrado."
+      },
+      {
+        "value": 4,
+        "text": "Todas respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "De un incremento del patrimonio neto de la empresa, y siempre que su cuantía pueda determinarse con fiabilidad, independientemente que se haya cobrado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el Marco Conceptual del PGC, un ingreso se reconoce cuando: (1) se produce un incremento del patrimonio neto, (2) su cuantía puede determinarse con fiabilidad, y (3) independientemente de que se haya cobrado (principio de devengo). No es necesario el cobro previo.",
+    "officialId": 363
+  },
+  {
+    "id": "tec-t11_11",
+    "questionNum": 11,
+    "question": "Conforme al Plan General de Contabilidad: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los activos son bienes, derechos y otros recursos que se reconocen exclusivamente cuando son propiedad de la empresa."
+      },
+      {
+        "value": 2,
+        "text": "Los activos son bienes, derechos y otros recursos que se reconocen exclusivamente cuando son controlados por la empresa."
+      },
+      {
+        "value": 3,
+        "text": "Los pasivos son obligaciones que pudieran ocurrir en el futuro surgidas como consecuencia de sucesos pasados, para cuya extinción la empresa espera desprenderse de recursos que puedan producir beneficios o rendimientos económicos en el futuro, entre ellas las provisiones."
+      },
+      {
+        "value": 4,
+        "text": "Los pasivos son obligaciones que pudieran ocurrir en el futuro surgidas como consecuencia de sucesos pasados, para cuya extinción la empresa espera desprenderse de recursos que puedan producir beneficios o rendimientos económicos en el futuro, entre ellas las provisiones y las contingencias."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los activos son bienes, derechos y otros recursos que se reconocen exclusivamente cuando son controlados por la empresa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el PGC, los activos son bienes, derechos y otros recursos CONTROLADOS económicamente por la empresa (no se exige propiedad jurídica). El criterio de control es el determinante para el reconocimiento contable de activos, no la titularidad.",
+    "officialId": 364
+  },
+  {
+    "id": "tec-t11_12",
+    "questionNum": 12,
+    "question": "Conforme al Plan General de Contabilidad, se entenderá que existe influencia significativa y por lo tanto es una empresa asociada del grupo cuando: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando una o varias empresas del grupo incluidas las entidades o personas físicas dominantes, posean, al menos, el 20 por 100 de los derechos de voto de otra sociedad."
+      },
+      {
+        "value": 2,
+        "text": "Cuando haya representación en el consejo de administración u órgano equivalente de dirección de la empresa participada, siempre que alguna empresa incluida en el grupo o personas físicas dominantes, tenga participación en ella."
+      },
+      {
+        "value": 3,
+        "text": "Cuando haya representación en el consejo de administración u órgano equivalente de dirección de la empresa participada, aunque ninguna empresa incluida en el grupo o personas físicas dominantes, tenga participación en ella."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cuando una o varias empresas del grupo incluidas las entidades o personas físicas dominantes, posean, al menos, el 20 por 100 de los derechos de voto de otra sociedad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el PGC (NRV 9), se considera que existe influencia significativa cuando una o varias empresas del grupo posean al menos el 20% de los derechos de voto de otra sociedad (o el 3% si cotiza en mercados regulados). Esta presunción puede confirmarse o desvirtuarse por otros indicios.",
+    "officialId": 365
+  },
+  {
+    "id": "tec-t11_13",
+    "questionNum": 13,
+    "question": "Conforme al Plan General de Contabilidad: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La empresa clasificará un activo no corriente como mantenido para la venta si su valor contable se recuperará fundamentalmente a través de su venta y aunque este hecho no sea altamente probable."
+      },
+      {
+        "value": 2,
+        "text": "Mientras un activo se clasifique como no corriente mantenido para la venta, deberemos de amortizarlo de la manera en que se estaba realizando previamente."
+      },
+      {
+        "value": 3,
+        "text": "Los activos no corrientes mantenidos para la venta se valorarán en el momento de su clasificación en esta categoría, por el menor de los dos importes siguientes: su valor contable y su valor razonable menos los costes de venta."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Los activos no corrientes mantenidos para la venta se valorarán en el momento de su clasificación en esta categoría, por el menor de los dos importes siguientes: su valor contable y su valor razonable menos los costes de venta."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según la NRV 7 del PGC, los activos no corrientes mantenidos para la venta se valoran por el MENOR de: su valor contable y su valor razonable menos los costes de venta. Además, deben dejar de amortizarse desde su clasificación en esta categoría, y su venta debe ser altamente probable.",
+    "officialId": 366
+  },
+  {
+    "id": "tec-t11_14",
+    "questionNum": 14,
+    "question": "Conforme al Plan General de Contabilidad, las cuentas anuales están compuestas por: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Balance, cuenta de pérdidas y ganancias, estado de cambios en el patrimonio neto, estado de flujos de efectivo, memoria, e informe de auditoría."
+      },
+      {
+        "value": 2,
+        "text": "Balance, cuenta de pérdidas y ganancias, estado de cambios en el patrimonio neto, estado de flujos de efectivo, y memoria."
+      },
+      {
+        "value": 3,
+        "text": "Balance, cuenta de pérdidas y ganancias, estado de cambios en el patrimonio neto, estado de flujos de efectivo, memoria, e informe de gestión."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Balance, cuenta de pérdidas y ganancias, estado de cambios en el patrimonio neto, estado de flujos de efectivo, y memoria."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Las cuentas anuales según el PGC 2007 comprenden: Balance, Cuenta de Pérdidas y Ganancias, Estado de Cambios en el Patrimonio Neto, Estado de Flujos de Efectivo y Memoria. El informe de auditoría y el informe de gestión NO forman parte de las cuentas anuales.",
+    "officialId": 367
+  },
+  {
+    "id": "tec-t11_15",
+    "questionNum": 15,
+    "question": "¿Cuándo procede el reconocimiento contable de un activo según el Marco Conceptual del Plan General de Contabilidad?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuando sea probable la obtención de beneficios o rendimientos económicos futuros y su valor pueda determinarse con fiabilidad."
+      },
+      {
+        "value": 2,
+        "text": "Únicamente cuando el activo haya sido pagado."
+      },
+      {
+        "value": 3,
+        "text": "Siempre que exista un título de propiedad a nombre de la empresa, aunque no se controle económicamente."
+      },
+      {
+        "value": 4,
+        "text": "a) y c) son correctas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cuando sea probable la obtención de beneficios o rendimientos económicos futuros y su valor pueda determinarse con fiabilidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el Marco Conceptual del PGC, un activo se reconoce contablemente cuando: (1) es probable la obtención de beneficios o rendimientos económicos futuros derivados del mismo, y (2) su valor puede determinarse con fiabilidad. No se requiere ni titularidad jurídica ni pago previo.",
+    "officialId": 368
+  },
+  {
+    "id": "tec-t11_16",
+    "questionNum": 16,
+    "question": "En el Plan General Contable, ¿cómo se contabilizan, con carácter general, las subvenciones, donaciones y legados NO reintegrables otorgados por terceros distintos de los socios o propietarios?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Como ingresos directamente imputados al patrimonio neto y se reconocerán en la cuenta de pérdidas y ganancias de forma sistemática y racional, correlacionada con los gastos."
+      },
+      {
+        "value": 2,
+        "text": "Como ingresos extraordinarios directamente en la cuenta de pérdidas y ganancias en el momento del cobro."
+      },
+      {
+        "value": 3,
+        "text": "Como pasivos hasta su vencimiento, aunque sean no reintegrables."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Como ingresos directamente imputados al patrimonio neto y se reconocerán en la cuenta de pérdidas y ganancias de forma sistemática y racional, correlacionada con los gastos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según la NRV 18 del PGC, las subvenciones, donaciones y legados NO reintegrables otorgados por terceros se contabilizan como ingresos imputados directamente al patrimonio neto (Subvenciones oficiales de capital u otras subvenciones), y posteriormente se transfieren a la cuenta de pérdidas y ganancias de forma sistemática y racional, correlacionada con los gastos financiados.",
+    "officialId": 369
+  },
+  {
+    "id": "tec-t11_17",
+    "questionNum": 17,
+    "question": "Conforme a la Orden de 23 de diciembre de 1996 (Normas de adaptación del Plan General Contable a las empresas de asistencia sanitaria), los elementos patrimoniales recibidos en subvenciones, donaciones y legados NO reintegrables se valorarán, con carácter general, por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su valor venal, con el límite del valor de mercado."
+      },
+      {
+        "value": 2,
+        "text": "Su coste histórico, con independencia del valor de mercado."
+      },
+      {
+        "value": 3,
+        "text": "Su valor razonable, sin ningún límite."
+      },
+      {
+        "value": 4,
+        "text": "Su valor neto realizable."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Su valor venal, con el límite del valor de mercado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Conforme a la Orden de 23 de diciembre de 1996 (adaptación del PGC para empresas de asistencia sanitaria), los elementos patrimoniales recibidos como subvenciones, donaciones y legados no reintegrables se valorarán por su valor venal, con el límite del valor de mercado.",
+    "officialId": 370
+  },
+  {
+    "id": "tec-t11_18",
+    "questionNum": 18,
+    "question": "El fondo de rotación o maniobra es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La diferencia entre el activo circulante y el pasivo a corto plazo."
+      },
+      {
+        "value": 2,
+        "text": "La diferencia entre el activo no circulante y el pasivo a largo plazo."
+      },
+      {
+        "value": 3,
+        "text": "El cociente entre el beneficio económico y el volumen de ventas."
+      },
+      {
+        "value": 4,
+        "text": "El beneficio generado por los activos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La diferencia entre el activo circulante y el pasivo a corto plazo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El fondo de maniobra (o fondo de rotación) = Activo circulante (corriente) – Pasivo a corto plazo (corriente). También puede calcularse como: Capitales permanentes – Activo fijo. Representa la parte del activo circulante financiada con recursos permanentes.",
+    "officialId": 371
+  },
+  {
+    "id": "tec-t11_19",
+    "questionNum": 19,
+    "question": "La ratio de tesorería inmediata es un:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ratio de equilibrio financiero a largo plazo."
+      },
+      {
+        "value": 2,
+        "text": "Ratio de equilibrio financiero a corto plazo."
+      },
+      {
+        "value": 3,
+        "text": "Ratio de garantía."
+      },
+      {
+        "value": 4,
+        "text": "Ratio de capital propio en circulante."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ratio de equilibrio financiero a corto plazo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La ratio de tesorería inmediata (Efectivo y equivalentes / Pasivo corriente) es un ratio de equilibrio financiero a CORTO plazo, que mide la capacidad de pago inmediata con los recursos más líquidos disponibles.",
+    "officialId": 372
+  },
+  {
+    "id": "tec-t11_20",
+    "questionNum": 20,
+    "question": "Diga cuál de las siguientes afirmaciones ES CORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los apalancamientos operativo y financiero se combinan de forma multiplicativa."
+      },
+      {
+        "value": 2,
+        "text": "El apalancamiento financiero se produce por el endeudamiento."
+      },
+      {
+        "value": 3,
+        "text": "Las empresas con grandes inmovilizados y costes fijos elevados tendrán un gran apalancamiento operativo."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Las tres afirmaciones son correctas: (1) Apalancamiento total = Ao × Af (multiplicativo); (2) el apalancamiento financiero se genera por el uso de deuda con costes financieros fijos; (3) empresas con altos costes fijos (grandes inmovilizados) tienen mayor apalancamiento operativo.",
+    "officialId": 373
+  },
+  {
+    "id": "tec-t11_21",
+    "questionNum": 21,
+    "question": "Señale la respuesta INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aunque una empresa presente un capital corriente negativo, es posible que su liquidez sea buena."
+      },
+      {
+        "value": 2,
+        "text": "Los ratios de liquidez tienen en cuenta el momento exacto en que vence cada pasivo corriente."
+      },
+      {
+        "value": 3,
+        "text": "Los ratios de liquidez ofrecen una primera visión sobre si la empresa cuenta que activos líquidos suficientes para atender a sus deudas a corto plazo."
+      },
+      {
+        "value": 4,
+        "text": "Una liquidez excesiva puede provocar una disminución de la rentabilidad de la empresa."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los ratios de liquidez tienen en cuenta el momento exacto en que vence cada pasivo corriente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La opción INCORRECTA es la 2: los ratios de liquidez (ratio corriente, prueba ácida, ratio de tesorería) son medidas ESTÁTICAS que NO tienen en cuenta el momento exacto de vencimiento de cada pasivo. Para eso se necesita un análisis dinámico de flujos de caja o un calendario de vencimientos.",
+    "officialId": 374
+  },
+  {
+    "id": "tec-t11_22",
+    "questionNum": 22,
+    "question": "Al tiempo promedio que tarda en recuperarse una unidad monetaria invertida se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Período medio de maduración financiero."
+      },
+      {
+        "value": 2,
+        "text": "Período medio de maduración económico."
+      },
+      {
+        "value": 3,
+        "text": "Período medio de cobro."
+      },
+      {
+        "value": 4,
+        "text": "Período medio de pago."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Período medio de maduración económico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Al tiempo promedio que tarda en recuperarse una unidad monetaria invertida en el ciclo de explotación se le denomina Período Medio de Maduración ECONÓMICO (PMMe). El PMM financiero descuenta el período de pago a proveedores.",
+    "officialId": 375
+  },
+  {
+    "id": "tec-t11_23",
+    "questionNum": 23,
+    "question": "El estudio del apalancamiento financiero:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se realiza mediante el estudio de analizar la sensibilidad del beneficio neto respecto al beneficio económico."
+      },
+      {
+        "value": 2,
+        "text": "Se efectúa mediante el estudio del apalancamiento operativo."
+      },
+      {
+        "value": 3,
+        "text": "Se realiza mediante el análisis de la relación entre el beneficio de explotación y la modificación de las ventas."
+      },
+      {
+        "value": 4,
+        "text": "Se efectúa mediante el análisis del endeudamiento."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se realiza mediante el estudio de analizar la sensibilidad del beneficio neto respecto al beneficio económico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El apalancamiento financiero se estudia mediante el análisis de la sensibilidad del beneficio neto respecto al beneficio económico (BAII/EBIT). Mide el impacto de los costes financieros fijos (intereses) sobre la variabilidad del beneficio neto ante cambios en el BAII.",
+    "officialId": 376
+  },
+  {
+    "id": "tec-t11_24",
+    "questionNum": 24,
+    "question": "Diga cuál de las siguientes afirmaciones NO es correcta. Una empresa en situación de insolvencia técnica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Está cuando el beneficio que generan sus activos no es suficiente para hacer frente a los intereses de la deuda."
+      },
+      {
+        "value": 2,
+        "text": "Está cuando su beneficio neto es negativo."
+      },
+      {
+        "value": 3,
+        "text": "Puede ser una empresa saneada y contar con capacidad económica suficiente."
+      },
+      {
+        "value": 4,
+        "text": "Está cuando la probabilidad de insolvencia decrece con el endeudamiento."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Está cuando la probabilidad de insolvencia decrece con el endeudamiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La opción INCORRECTA es la 4: en situación de insolvencia técnica, la probabilidad de insolvencia NO decrece con el endeudamiento, sino todo lo contrario: mayor endeudamiento aumenta el riesgo de insolvencia. Las demás opciones pueden describir situaciones de insolvencia técnica.",
+    "officialId": 377
+  },
+  {
+    "id": "tec-t11_25",
+    "questionNum": 25,
+    "question": "La rentabilidad económica de una empresa relaciona:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Beneficios obtenidos con el pasivo exigible de la empresa."
+      },
+      {
+        "value": 2,
+        "text": "Beneficios obtenidos con las inversiones totales de la empresa."
+      },
+      {
+        "value": 3,
+        "text": "Beneficios obtenidos con las pérdidas de los últimos años."
+      },
+      {
+        "value": 4,
+        "text": "Beneficios obtenidos con los capitales ajenos a corto plazo de la empresa."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Beneficios obtenidos con las inversiones totales de la empresa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La rentabilidad económica (RE) = BAII / Activo total. Relaciona los beneficios obtenidos (BAII/EBIT) con las inversiones totales de la empresa (activo), midiendo la eficiencia con que se usan todos los recursos, independientemente de su financiación.",
+    "officialId": 378
+  },
+  {
+    "id": "tec-t11_26",
+    "questionNum": 26,
+    "question": "El estudio de la rentabilidad financiera es un asunto que se incluye en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El análisis económico."
+      },
+      {
+        "value": 2,
+        "text": "El análisis financiero."
+      },
+      {
+        "value": 3,
+        "text": "El análisis operativo."
+      },
+      {
+        "value": 4,
+        "text": "El análisis patrimonial."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El análisis financiero."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El estudio de la rentabilidad financiera (RF = Beneficio neto / Recursos propios, o ROE) forma parte del análisis FINANCIERO de la empresa. El análisis financiero estudia la estructura de financiación, la liquidez, el endeudamiento y la rentabilidad financiera.",
+    "officialId": 379
+  },
+  {
+    "id": "tec-t11_27",
+    "questionNum": 27,
+    "question": "Si el ratio de Garantía (Activo / Pasivo) es igual a la unidad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La empresa se encuentra en suspensión de pagos."
+      },
+      {
+        "value": 2,
+        "text": "La empresa se encuentra ante la máxima estabilidad financiera."
+      },
+      {
+        "value": 3,
+        "text": "La empresa tiene un fondo de maniobra positivo."
+      },
+      {
+        "value": 4,
+        "text": "La empresa tiene un nivel de endeudamiento muy elevado."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La empresa se encuentra en suspensión de pagos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Si el ratio de Garantía (Activo total / Pasivo total) = 1, significa que el Activo = Pasivo y por tanto el Patrimonio neto = 0. La empresa se encuentra en una situación límite (suspensión de pagos / quiebra técnica), sin colchón patrimonial para absorber pérdidas.",
+    "officialId": 380
+  },
+  {
+    "id": "tec-t11_28",
+    "questionNum": 28,
+    "question": "La capacidad que tiene la empresa para convertir sus inversiones en medios de pago totalmente líquidos se denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Apalancamiento financiero."
+      },
+      {
+        "value": 2,
+        "text": "Liquidez."
+      },
+      {
+        "value": 3,
+        "text": "Rentabilidad."
+      },
+      {
+        "value": 4,
+        "text": "Solvencia."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Liquidez."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La LIQUIDEZ es la capacidad de la empresa para convertir sus activos e inversiones en medios de pago líquidos. No confundir con solvencia (capacidad de pagar deudas a largo plazo) ni con rentabilidad.",
+    "officialId": 381
+  },
+  {
+    "id": "tec-t11_29",
+    "questionNum": 29,
+    "question": "En términos financiero-contables, el concepto de liquidez se define como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El tipo de cambio aplicable a la moneda extranjera."
+      },
+      {
+        "value": 2,
+        "text": "La capacidad del dinero para adquirir determinados bienes."
+      },
+      {
+        "value": 3,
+        "text": "La disponibilidad de los activos para ser incorporados al proceso productivo."
+      },
+      {
+        "value": 4,
+        "text": "La mayor o menor facilidad para convertir un activo en dinero."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La mayor o menor facilidad para convertir un activo en dinero."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "En términos financiero-contables, la liquidez se define como la mayor o menor facilidad para convertir un activo en dinero efectivo, sin pérdida significativa de valor. Los activos más líquidos son el efectivo y los equivalentes al efectivo.",
+    "officialId": 382
+  },
+  {
+    "id": "tec-t11_30",
+    "questionNum": 30,
+    "question": "El análisis patrimonial de la empresa se realiza a través de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Balance de Situación."
+      },
+      {
+        "value": 2,
+        "text": "El Estado de flujos de efectivo."
+      },
+      {
+        "value": 3,
+        "text": "La Cuenta de Pérdidas y Ganancias."
+      },
+      {
+        "value": 4,
+        "text": "La Memoria."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El Balance de Situación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El análisis patrimonial estudia la composición y estructura del patrimonio de la empresa (activo, pasivo y patrimonio neto) y se realiza a través del Balance de Situación. El análisis económico usa la Cuenta de PG, y el análisis financiero usa el EFE y el Balance.",
+    "officialId": 383
+  },
+  {
+    "id": "tec-t11_31",
+    "questionNum": 31,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. La ratio de tesorería o liquidez inmediata: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se define como la ratio entre el activo corriente entre el pasivo corriente."
+      },
+      {
+        "value": 2,
+        "text": "Se define como la ratio entre el activo no corriente entre el pasivo no corriente."
+      },
+      {
+        "value": 3,
+        "text": "Se define como la ratio entre el activo no corriente menos las existencias entre el pasivo no corriente."
+      },
+      {
+        "value": 4,
+        "text": "Se define como la ratio entre efectivo y equivalentes al efectivo entre pasivo corriente."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se define como la ratio entre efectivo y equivalentes al efectivo entre pasivo corriente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La ratio de tesorería o liquidez INMEDIATA = Efectivo y equivalentes al efectivo / Pasivo corriente. Mide la capacidad de pago con los recursos más líquidos (solo cash y equivalentes). La ratio corriente incluye todo el activo corriente; la prueba ácida excluye existencias.",
+    "officialId": 384
+  },
+  {
+    "id": "tec-t11_32",
+    "questionNum": 32,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. El periodo medio de maduración en las empresas comerciales: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es la suma del periodo de almacenamiento de mercancías y el periodo de cobro a clientes."
+      },
+      {
+        "value": 2,
+        "text": "Es la suma del periodo de almacenamiento de mercancías y el periodo de cobro a clientes menos el periodo de pago a proveedores."
+      },
+      {
+        "value": 3,
+        "text": "Es el periodo de cobro a clientes menos el periodo de pago a proveedores."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Es la suma del periodo de almacenamiento de mercancías y el periodo de cobro a clientes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El período medio de maduración económico en empresas comerciales = Período de almacenamiento de mercancías + Período de cobro a clientes. No hay proceso de fabricación. El PMM financiero también resta el período de pago a proveedores.",
+    "officialId": 385
+  },
+  {
+    "id": "tec-t11_33",
+    "questionNum": 33,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. El coeficiente básico de financiación: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "(Patrimonio neto + Pasivo no Corriente) / (Activo no Corriente+ Capital corriente necesario)."
+      },
+      {
+        "value": 2,
+        "text": "(Patrimonio neto + Pasivo Total) / (Activo Corriente+ Activo no corriente)."
+      },
+      {
+        "value": 3,
+        "text": "(Patrimonio neto + Pasivo Corriente) / (Capital corriente necesario)."
+      },
+      {
+        "value": 4,
+        "text": "(Patrimonio neto + Pasivo no Corriente) / (Capital corriente necesario)."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "(Patrimonio neto + Pasivo no Corriente) / (Activo no Corriente+ Capital corriente necesario)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El coeficiente básico de financiación (CBF) = (Patrimonio neto + Pasivo no Corriente) / (Activo no Corriente + Capital corriente necesario). Si CBF = 1: equilibrio ideal; CBF > 1: exceso de recursos permanentes; CBF < 1: insuficiencia de financiación permanente.",
+    "officialId": 386
+  },
+  {
+    "id": "tec-t11_34",
+    "questionNum": 34,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. La ratio Price to book se calcula de la siguiente manera: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dividendo Bruto entre resultado del ejercicio."
+      },
+      {
+        "value": 2,
+        "text": "Dividendo Neto entre resultado del ejercicio."
+      },
+      {
+        "value": 3,
+        "text": "Precio de cotización entre valor contable de la acción."
+      },
+      {
+        "value": 4,
+        "text": "Precio de cotización entre dividendo neto."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Precio de cotización entre valor contable de la acción."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La ratio Price to Book (P/B) = Precio de cotización de la acción / Valor contable de la acción. Mide cuánto paga el mercado por cada euro de patrimonio neto contable. Si P/B > 1, el mercado valora la empresa por encima de su valor contable.",
+    "officialId": 387
+  },
+  {
+    "id": "tec-t11_35",
+    "questionNum": 35,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. ELIJA LA AFIRMACIÓN CORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las provisiones son pasivos que resulten indeterminados únicamente respecto a su importe."
+      },
+      {
+        "value": 2,
+        "text": "Las provisiones son pasivos que resulten indeterminados respecto a su importe o a la fecha en que se cancelarán."
+      },
+      {
+        "value": 3,
+        "text": "Las contingencias son pasivos que resulten indeterminados respecto a su importe o a la fecha en que se cancelarán."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las provisiones son pasivos que resulten indeterminados respecto a su importe o a la fecha en que se cancelarán."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el PGC (NRV 15), las provisiones son pasivos cuyo importe o fecha de cancelación son INDETERMINADOS (uno u otro, o ambos). Las contingencias son obligaciones posibles, no actuales, que no se reconocen como pasivo sino que se informan en la Memoria.",
+    "officialId": 388
+  },
+  {
+    "id": "tec-t11_36",
+    "questionNum": 36,
+    "question": "¿Qué ratio mide la capacidad de la empresa para atender el coste de su deuda mediante el resultado antes de intereses e impuestos?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ratio de cobertura de intereses."
+      },
+      {
+        "value": 2,
+        "text": "Ratio de tesorería inmediata."
+      },
+      {
+        "value": 3,
+        "text": "Ratio de garantía."
+      },
+      {
+        "value": 4,
+        "text": "Ratio de rotación del activo."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Ratio de cobertura de intereses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El ratio de cobertura de intereses = BAII (EBIT) / Gastos financieros. Mide cuántas veces el resultado de explotación cubre el coste de la deuda (intereses). Un valor > 1 indica capacidad para pagar los intereses; cuanto mayor, más holgura financiera.",
+    "officialId": 389
+  },
+  {
+    "id": "tec-t11_37",
+    "questionNum": 37,
+    "question": "¿Qué caracteriza principalmente a la financiación espontánea en el pasivo corriente?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se origina por deudas con entidades de crédito y siempre implica un interés explícito."
+      },
+      {
+        "value": 2,
+        "text": "Se genera por aplazamientos derivados de la actividad ordinaria, sin coste explícito."
+      },
+      {
+        "value": 3,
+        "text": "Está formada exclusivamente por provisiones a corto plazo."
+      },
+      {
+        "value": 4,
+        "text": "Se compone únicamente de pasivos por impuesto diferido."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se genera por aplazamientos derivados de la actividad ordinaria, sin coste explícito."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La financiación espontánea surge de forma natural de la actividad ordinaria (proveedores, acreedores, Hacienda Pública) sin negociación explícita y sin coste de interés explícito. Se opone a la financiación negociada (préstamos bancarios) que tiene coste financiero explícito.",
+    "officialId": 390
+  },
+  {
+    "id": "tec-t11_38",
+    "questionNum": 38,
+    "question": "Si el coeficiente básico de financiación es mayor que 1, esto indica que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La empresa utiliza exactamente los recursos permanentes que necesita para financiar su activo no corriente y su capital corriente mínimo."
+      },
+      {
+        "value": 2,
+        "text": "La empresa utiliza más recursos permanentes de los que realmente necesita para financiar su activo no corriente y su capital corriente mínimo."
+      },
+      {
+        "value": 3,
+        "text": "La empresa utiliza menos recursos permanentes de los que necesita, por lo que siempre tendrá capital corriente negativo."
+      },
+      {
+        "value": 4,
+        "text": "La empresa se encuentra necesariamente en quiebra técnica."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La empresa utiliza más recursos permanentes de los que realmente necesita para financiar su activo no corriente y su capital corriente mínimo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Si el coeficiente básico de financiación (CBF) > 1, la empresa dispone de más recursos permanentes (PN + PnC) de los estrictamente necesarios para financiar el activo no corriente y el capital corriente mínimo. Indica exceso de financiación a largo plazo y suele generar fondo de maniobra positivo.",
+    "officialId": 391
+  },
+  {
+    "id": "tec-t11_39",
+    "questionNum": 39,
+    "question": "¿Qué situación sugiere, con carácter general, una ratio de firmeza inferior a 1?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que el activo no corriente cubre holgadamente las deudas a largo plazo."
+      },
+      {
+        "value": 2,
+        "text": "Que el pasivo no corriente supera al activo no corriente."
+      },
+      {
+        "value": 3,
+        "text": "Que la empresa tiene un fondo de rotación necesariamente positivo."
+      },
+      {
+        "value": 4,
+        "text": "Que la empresa está en equilibrio financiero a corto plazo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Que el pasivo no corriente supera al activo no corriente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La ratio de firmeza = Activo no corriente / Pasivo no corriente. Si < 1, el activo no corriente es menor que el pasivo no corriente, lo que significa que el pasivo a largo plazo supera al activo fijo. Esto puede indicar que parte del activo corriente se está financiando con deuda a largo plazo.",
+    "officialId": 392
+  },
+  {
+    "id": "tec-t11_40",
+    "questionNum": 40,
+    "question": "¿Por qué la ratio corriente (activo corriente/pasivo corriente) puede SOBREESTIMAR la liquidez real de una empresa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Porque incluye partidas del activo corriente que NO siempre son fácilmente convertibles en efectivo a corto plazo, como existencias o realizable condicionado."
+      },
+      {
+        "value": 2,
+        "text": "Porque excluye el efectivo y otros activos líquidos equivalentes."
+      },
+      {
+        "value": 3,
+        "text": "Porque se calcula con partidas de largo plazo."
+      },
+      {
+        "value": 4,
+        "text": "Porque sustituye al análisis del periodo medio de maduración financiero."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Porque incluye partidas del activo corriente que NO siempre son fácilmente convertibles en efectivo a corto plazo, como existencias o realizable condicionado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La ratio corriente (Activo corriente / Pasivo corriente) puede sobreestimar la liquidez porque incluye existencias y otras partidas del activo corriente que pueden no ser fácilmente convertibles en efectivo a corto plazo (realizable condicionado). La prueba ácida corrige esto excluyendo las existencias.",
+    "officialId": 393
+  },
+  {
+    "id": "tec-t11_41",
+    "questionNum": 41,
+    "question": "Si aumenta el volumen de existencias y el resto de las partidas permanece constante, ¿qué efecto tiene, con carácter general, sobre la ratio de prueba ácida?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aumenta, porque las existencias incrementan la liquidez inmediata."
+      },
+      {
+        "value": 2,
+        "text": "Disminuye, porque las existencias incrementan el pasivo corriente."
+      },
+      {
+        "value": 3,
+        "text": "No cambia, porque la prueba ácida excluye las existencias del numerador."
+      },
+      {
+        "value": 4,
+        "text": "Depende exclusivamente del ratio de garantía."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No cambia, porque la prueba ácida excluye las existencias del numerador."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La prueba ácida (o acid-test ratio) = (Activo corriente – Existencias) / Pasivo corriente. Si aumentan las existencias pero el pasivo corriente se mantiene igual, el numerador (AC – Existencias) NO CAMBIA, por lo que la ratio de prueba ácida no varía. Solo cambia el ratio corriente.",
+    "officialId": 394
+  },
+  {
+    "id": "tec-t11_42",
+    "questionNum": 42,
+    "question": "Son trabajos obligatorios para el Tribunal Vasco de Cuentas Públicas, en relación a los trabajos de fiscalización: (indique la afirmación FALSA):",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las cuentas de los municipios de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 2,
+        "text": "Peticiones específicas aprobadas por el Pleno del Parlamento Vasco."
+      },
+      {
+        "value": 3,
+        "text": "La cuenta de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "Las cuentas de Osakidetza."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Peticiones específicas aprobadas por el Pleno del Parlamento Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Los trabajos de fiscalización OBLIGATORIOS del TVCP incluyen: la Cuenta de la CAE, las cuentas de entidades locales (municipios), las de Osakidetza como ente del sector público vasco, etc. Las 'peticiones específicas del Parlamento Vasco' son trabajos DISCRECIONALES, no obligatorios.",
+    "officialId": 395
+  },
+  {
+    "id": "tec-t11_43",
+    "questionNum": 43,
+    "question": "La función fiscalizadora del Tribunal Vasco de Cuentas Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Examina y comprueba la documentación relativa a la autorización de las operaciones económico-financieras de los Entes del Sector Público Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Se extiende al examen de la eficacia y eficiencia de la actividad económico- financiera de los Entes del Sector Público Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Tiene por objeto controlar la actividad económico-financiera de los Entes del Sector Público Vasco."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son falsas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Tiene por objeto controlar la actividad económico-financiera de los Entes del Sector Público Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La función fiscalizadora del TVCP (Ley 1/1988) tiene por objeto el control de la actividad económico-financiera de los Entes del Sector Público Vasco, verificando la legalidad, regularidad y el buen uso de los fondos públicos. También puede extenderse a eficacia y eficiencia.",
+    "officialId": 396
+  },
+  {
+    "id": "tec-t11_44",
+    "questionNum": 44,
+    "question": "El Tribunal Vasco de Cuentas Públicas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "No podrá instruir procedimientos jurisdiccionales al enjuiciamiento de presuntas responsabilidades contables."
+      },
+      {
+        "value": 2,
+        "text": "Podrá adoptar cuantas medidas precautorias considere oportunas para salvaguardar y proteger los bienes, caudales y efectos públicos."
+      },
+      {
+        "value": 3,
+        "text": "Realizará los controles en la sede del propio tribunal."
+      },
+      {
+        "value": 4,
+        "text": "Será examinado de sus propias cuentas por el Gobierno."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Podrá adoptar cuantas medidas precautorias considere oportunas para salvaguardar y proteger los bienes, caudales y efectos públicos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El Tribunal Vasco de Cuentas Públicas tiene la potestad de adoptar medidas precautorias para salvaguardar y proteger los bienes, caudales y efectos públicos cuando sea necesario. También puede instruir procedimientos por responsabilidades contables, y los trabajos se realizan en las entidades auditadas.",
+    "officialId": 397
+  },
+  {
+    "id": "tec-t11_45",
+    "questionNum": 45,
+    "question": "Las personas integrantes del Tribunal Vasco de Cuentas Públicas serán elegidas entre aquellas personas que estén en posesión de titulación académica superior, que dispongan de reconocida competencia garantizada en relación con el ámbito funcional del Tribunal y contar, en todos los casos, con una experiencia profesional de al menos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ocho años."
+      },
+      {
+        "value": 2,
+        "text": "Diez años."
+      },
+      {
+        "value": 3,
+        "text": "Doce años."
+      },
+      {
+        "value": 4,
+        "text": "Quince años."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Diez años."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según la normativa reguladora del Tribunal Vasco de Cuentas Públicas, sus miembros deben contar con titulación académica superior, reconocida competencia en el ámbito funcional del Tribunal, y una experiencia profesional de al menos diez años.",
+    "officialId": 398
+  },
+  {
+    "id": "tec-t11_46",
+    "questionNum": 46,
+    "question": "Según la ORDEN de 2017, del Consejero de Hacienda y Economía, relativa al ejercicio del control económico-financiero y de gestión de carácter permanente en los entes públicos de derecho privado de la CAE, su finalidad es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Crear nuevos organismos públicos de derecho privado en la CAE."
+      },
+      {
+        "value": 2,
+        "text": "Establecer el control económico-financiero y de gestión permanente de la Administración General."
+      },
+      {
+        "value": 3,
+        "text": "Establecer el control económico-financiero y de gestión permanente en los entes públicos de derecho privado, entre los que se encuentra Osakidetza."
+      },
+      {
+        "value": 4,
+        "text": "Regular la contratación pública de Osakidetza"
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Establecer el control económico-financiero y de gestión permanente en los entes públicos de derecho privado, entre los que se encuentra Osakidetza."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La Orden de 2017 del Consejero de Hacienda y Economía tiene por finalidad establecer el control económico-financiero y de gestión permanente en los entes públicos de derecho privado del sector público de la CAE, entre los que se encuentra Osakidetza como ente público de derecho privado.",
+    "officialId": 399
+  },
+  {
+    "id": "tec-t11_47",
+    "questionNum": 47,
+    "question": "Según la ORDEN de 2017, del Consejero de Hacienda y Economía, relativa al ejercicio del control económico-financiero y de gestión de carácter permanente en los entes públicos de derecho privado de la CAE, el principio que debe guiar la realización de las actuaciones de control económico-financiero es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El principio de anualidad, coincidiendo con el año natural."
+      },
+      {
+        "value": 2,
+        "text": "El principio de eficiencia."
+      },
+      {
+        "value": 3,
+        "text": "El principio de proximidad temporal respecto de los actos controlados."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El principio de proximidad temporal respecto de los actos controlados."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El principio que guía las actuaciones de control económico-financiero permanente según la Orden de 2017 es el principio de PROXIMIDAD TEMPORAL respecto de los actos controlados: el control debe realizarse lo más cerca posible en el tiempo a los hechos controlados, lo que distingue el control permanente del control periódico.",
+    "officialId": 400
+  },
+  {
+    "id": "tec-t11_48",
+    "questionNum": 48,
+    "question": "El Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE regula:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El control externo en su modalidad económico-administrativa."
+      },
+      {
+        "value": 2,
+        "text": "El control interventor en su modalidad económico-administrativa."
+      },
+      {
+        "value": 3,
+        "text": "La fiscalización previa e interna en su modalidad económico-administrativa."
+      },
+      {
+        "value": 4,
+        "text": "La fiscalización previa y externa en su modalidad económico-administrativa."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El control interventor en su modalidad económico-administrativa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El Decreto que desarrolla el control económico interno y la contabilidad de la CAE regula el CONTROL INTERVENTOR (fiscalización interna) en su modalidad económico-administrativa, que es el control previo interno realizado por la Oficina de Control Económico sobre las operaciones económico-financieras de la Administración.",
+    "officialId": 401
+  },
+  {
+    "id": "tec-t11_49",
+    "questionNum": 49,
+    "question": "El Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE establece que las operaciones contables producen anotaciones, ¿de qué tipo?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Agregada, siempre que se trate de la misma materia."
+      },
+      {
+        "value": 2,
+        "text": "Individualizada y por orden cronológico."
+      },
+      {
+        "value": 3,
+        "text": "Según orden del órgano gestor."
+      },
+      {
+        "value": 4,
+        "text": "Solo al final del ejercicio."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Individualizada y por orden cronológico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el Decreto, las operaciones contables generan anotaciones individualizadas y por orden cronológico, garantizando la trazabilidad completa de cada operación y permitiendo el seguimiento histórico de la actividad económica de la Administración.",
+    "officialId": 402
+  },
+  {
+    "id": "tec-t11_50",
+    "questionNum": 50,
+    "question": "El Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE establece que los documentos contables justificativos deben conservarse durante un periodo. Indique cuál es dicho periodo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "3 años, desde la finalización del ejercicio económico al que se refieran."
+      },
+      {
+        "value": 2,
+        "text": "6 años, desde la finalización del ejercicio económico al que se refieran."
+      },
+      {
+        "value": 3,
+        "text": "10 años, desde la finalización del ejercicio económico al que se refieran."
+      },
+      {
+        "value": 4,
+        "text": "Se conservan indefinidamente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "6 años, desde la finalización del ejercicio económico al que se refieran."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el Decreto de control económico interno de la CAE, los documentos contables justificativos deben conservarse durante 6 años desde la finalización del ejercicio económico al que se refieran, en línea con el plazo general del Código de Comercio para la conservación de documentos contables.",
+    "officialId": 403
+  },
+  {
+    "id": "tec-t11_51",
+    "questionNum": 51,
+    "question": "El Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE establece quien tiene acceso a la información contable para la correcta gestión de los recursos. Indique quién:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cualquier persona."
+      },
+      {
+        "value": 2,
+        "text": "Los órganos de dirección y gestión de la Administración."
+      },
+      {
+        "value": 3,
+        "text": "Solo la persona titular de la Consejería de Hacienda."
+      },
+      {
+        "value": 4,
+        "text": "Únicamente la Oficina de Control Económico."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los órganos de dirección y gestión de la Administración."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el Decreto, tienen acceso a la información contable los órganos de dirección y gestión de la Administración, para el ejercicio de sus funciones de gestión y control. Este acceso está limitado a quienes tienen competencias de gestión, no es abierto al público general.",
+    "officialId": 404
+  },
+  {
+    "id": "tec-t11_52",
+    "questionNum": 52,
+    "question": "Indique cuál es la responsabilidad de la Oficina de Control Económico respecto a la contabilidad, según lo indicado en el Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aprobar los presupuestos."
+      },
+      {
+        "value": 2,
+        "text": "Emitir las nóminas del personal una vez superados los controles fiscal y contable."
+      },
+      {
+        "value": 3,
+        "text": "Gestionar los ingresos tributarios."
+      },
+      {
+        "value": 4,
+        "text": "Registrar datos una vez superados los controles fiscal y contable."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Registrar datos una vez superados los controles fiscal y contable."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La Oficina de Control Económico (OCE) tiene la responsabilidad de registrar datos contables una vez que las operaciones han superado los controles fiscal (interventor) y contable. La OCE centraliza el registro contable tras verificar la corrección de las operaciones.",
+    "officialId": 405
+  },
+  {
+    "id": "tec-t11_53",
+    "questionNum": 53,
+    "question": "Según lo indicado en el Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE, indique qué comprueba el control contable:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La adecuación a los principios."
+      },
+      {
+        "value": 2,
+        "text": "La correcta imputación, valoración y correspondencia documental."
+      },
+      {
+        "value": 3,
+        "text": "La correspondencia entre el documento contable y los justificantes o documentos soporte que le acompañen, que debe incluir la autorización de la operación."
+      },
+      {
+        "value": 4,
+        "text": "La necesidad del gasto y su posterior eficiencia."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "La correspondencia entre el documento contable y los justificantes o documentos soporte que le acompañen, que debe incluir la autorización de la operación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El control contable verifica la correspondencia entre el documento contable y los justificantes o documentos soporte que le acompañan, incluyendo la comprobación de que la operación cuenta con la autorización correspondiente del órgano competente.",
+    "officialId": 406
+  },
+  {
+    "id": "tec-t11_54",
+    "questionNum": 54,
+    "question": "Según lo indicado en el Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE, en caso de que falten datos para justificar un saldo contable, la oficina de Control Económico podrá:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cancelar el asiento si no se envía la información en 15 días."
+      },
+      {
+        "value": 2,
+        "text": "Delegar en el departamento gestor."
+      },
+      {
+        "value": 3,
+        "text": "Esperar al cierre del ejercicio."
+      },
+      {
+        "value": 4,
+        "text": "No realizará nada"
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cancelar el asiento si no se envía la información en 15 días."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Cuando faltan datos para justificar un saldo contable, la Oficina de Control Económico puede requerir la documentación justificativa y, si no se remite en el plazo establecido (15 días), procederá a cancelar el asiento contable correspondiente.",
+    "officialId": 407
+  },
+  {
+    "id": "tec-t11_55",
+    "questionNum": 55,
+    "question": "Según lo indicado en el Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE, indique qué entidades están sujetas al control económico-financiero y de gestión:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Departamentos y servicios de la Administración General y Organismos Autónomos."
+      },
+      {
+        "value": 2,
+        "text": "Entes Públicos de Derecho Privado y Sociedades Públicas."
+      },
+      {
+        "value": 3,
+        "text": "Entidades y empresas públicas o privadas y particulares perceptores de subvenciones o ayudas con cargo a los Presupuestos Generales de la CAE o fondos comunitarios."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El control económico-financiero y de gestión se extiende a: (1) Departamentos y servicios de la Administración General y OAs, (2) Entes Públicos de Derecho Privado y Sociedades Públicas, y (3) particulares, entidades y empresas perceptores de subvenciones con cargo a los PGE de la CAE o fondos comunitarios.",
+    "officialId": 408
+  },
+  {
+    "id": "tec-t11_56",
+    "questionNum": 56,
+    "question": "Según lo indicado en el Decreto que desarrolla el ejercicio del control económico interno y la contabilidad en el ámbito de la Administración Pública de la CAE, el control económico-normativo:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Tendrá por objeto verificar la contabilidad e información económico-financiera de los órganos y entes controlados."
+      },
+      {
+        "value": 2,
+        "text": "Podrá ejercerse sobre cualquier entidad o empresa pública o privada."
+      },
+      {
+        "value": 3,
+        "text": "Tendrá por objeto la fiscalización de los anteproyectos de ley y proyectos de disposición normativa."
+      },
+      {
+        "value": 4,
+        "text": "Tendrá por objeto la fiscalización de los anteproyectos de ley y proyectos de disposición normativa con contenido económico."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Tendrá por objeto la fiscalización de los anteproyectos de ley y proyectos de disposición normativa con contenido económico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El control económico-normativo tiene por objeto la fiscalización de los anteproyectos de ley y proyectos de disposición normativa CON CONTENIDO ECONÓMICO, verificando su adecuación a la normativa económico-presupuestaria vigente.",
+    "officialId": 409
+  },
+  {
+    "id": "tec-t11_57",
+    "questionNum": 57,
+    "question": "El Decreto Legislativo que regula el Control Económico y Contabilidad de la CAE señala que el control económico externo en la Administración pública lo realiza:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Parlamento Vasco."
+      },
+      {
+        "value": 2,
+        "text": "El Tribunal Vasco de Cuentas Públicas."
+      },
+      {
+        "value": 3,
+        "text": "La Oficina de Control Económico."
+      },
+      {
+        "value": 4,
+        "text": "El personal interventor correspondiente."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El Tribunal Vasco de Cuentas Públicas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El Decreto Legislativo establece que el control económico EXTERNO en la Administración pública de la CAE es realizado por el Tribunal Vasco de Cuentas Públicas (TVCP), que es el órgano fiscalizador externo e independiente del sector público vasco.",
+    "officialId": 410
+  },
+  {
+    "id": "tec-t11_58",
+    "questionNum": 58,
+    "question": "El Decreto Legislativo que regula el Control Económico y Contabilidad de la CAE señala que las funciones de contabilidad y control económico interno se realizarán por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La Oficina de Control Económico."
+      },
+      {
+        "value": 2,
+        "text": "El Tribunal de Cuentas."
+      },
+      {
+        "value": 3,
+        "text": "Los Departamentos del Gobierno Vasco y los Organismos Autónomos."
+      },
+      {
+        "value": 4,
+        "text": "La Dirección de Presupuestos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La Oficina de Control Económico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Las funciones de contabilidad y control económico INTERNO son realizadas por la Oficina de Control Económico (OCE), que depende del Departamento competente en materia de Hacienda y Economía, y ejerce el control interventor y las funciones de contabilidad pública.",
+    "officialId": 411
+  },
+  {
+    "id": "tec-t11_59",
+    "questionNum": 59,
+    "question": "El Decreto Legislativo que regula el Control Económico y Contabilidad de la CAE define el control económico de carácter interno en el ámbito del sector público como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El control contable, el control interventor y el control que se ejerce a través de las reclamaciones económico-administrativas."
+      },
+      {
+        "value": 2,
+        "text": "El control Parlamentario."
+      },
+      {
+        "value": 3,
+        "text": "El Control Parlamentario a petición de los partidos políticos."
+      },
+      {
+        "value": 4,
+        "text": "Aquel control realizado por los departamentos del Gobierno vasco y los Organismos Autónomos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El control contable, el control interventor y el control que se ejerce a través de las reclamaciones económico-administrativas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El control económico de carácter interno en el sector público de la CAE comprende: el control contable (reflejo contable adecuado), el control interventor (legalidad de las operaciones), y el control que se ejerce a través de las reclamaciones económico-administrativas.",
+    "officialId": 412
+  },
+  {
+    "id": "tec-t11_60",
+    "questionNum": 60,
+    "question": "Conforme al Decreto Legislativo que regula el Control Económico y Contabilidad de la CAE, el control contable consiste en: NUEVA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El seguimiento de la actividad económica del sector público de la CAE a fin de asegurar y garantizar que todas las operaciones tengan un adecuado reflejo en la contabilidad."
+      },
+      {
+        "value": 2,
+        "text": "Garantizar, en los términos establecidos, que la actividad económica de las entidades integrantes del sector público de la CAE se ajuste a las disposiciones legales de carácter económico, financiero, presupuestario, hacendístico y contable que le son aplicables."
+      },
+      {
+        "value": 3,
+        "text": "Comprobar la adecuación de la gestión económico-financiera del sector público de la CAE a las disposiciones y directrices que rijan el comportamiento económico- financiero de las entidades, órganos, servicios y unidades que la componen y a los principios de regularidad, legalidad, eficacia, eficiencia y economía que la informan."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El seguimiento de la actividad económica del sector público de la CAE a fin de asegurar y garantizar que todas las operaciones tengan un adecuado reflejo en la contabilidad."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "El control contable consiste en el seguimiento de la actividad económica del sector público de la CAE a fin de asegurar y garantizar que todas las operaciones tengan un adecuado reflejo en la contabilidad, verificando la imagen fiel de los estados financieros.",
+    "officialId": 413
+  },
+  {
+    "id": "tec-t11_61",
+    "questionNum": 61,
+    "question": "El Decreto Legislativo que regula el Control Económico y Contabilidad de la CAE establece que: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Estarán sujetos al régimen de contabilidad empresarial los entes públicos de derecho privado, las sociedades públicas, y las fundaciones del sector público."
+      },
+      {
+        "value": 2,
+        "text": "Estarán sujetos al régimen de contabilidad empresarial los entes públicos de derecho privado, las sociedades públicas, y los consorcios del sector público y las fundaciones del sector público."
+      },
+      {
+        "value": 3,
+        "text": "Estarán sujetos al régimen de contabilidad pública la Administración General de la Comunidad Autónoma, los organismos autónomos, los consorcios del sector público y las fundaciones del sector público."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Estarán sujetos al régimen de contabilidad pública la Administración General de la Comunidad Autónoma, los organismos autónomos, los consorcios del sector público y las fundaciones del sector público."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "Según el Decreto Legislativo, estarán sujetos al régimen de contabilidad PÚBLICA: la Administración General de la CAE, los organismos autónomos, los consorcios del sector público y las fundaciones del sector público. El régimen de contabilidad empresarial aplica a EPDPs y Sociedades Públicas.",
+    "officialId": 414
+  },
+  {
+    "id": "tec-t11_62",
+    "questionNum": 62,
+    "question": "Conforme al Decreto Legislativo que regula el Control Económico y Contabilidad de la CAE, es competencia del consejero o de la consejera del departamento del Gobierno Vasco competente en materia de contabilidad y responsabilidades contables: (ELIJA LA AFIRMACIÓN INCORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aprobar el Plan de Contabilidad Pública de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 2,
+        "text": "Determinar las cuentas anuales y demás documentación a rendir por las entidades y órganos del sector público de la Comunidad Autónoma, así como su estructura y modelos, de acuerdo, en lo referente a la contabilidad empresarial, a la normativa mercantil y al Plan General de Contabilidad."
+      },
+      {
+        "value": 3,
+        "text": "Determinar el régimen de contabilidad aplicable a las distintas entidades del sector público de la Comunidad Autónoma en los casos en que nada se disponga al efecto en la normativa que las regule."
+      },
+      {
+        "value": 4,
+        "text": "Aprobar las normas de contabilidad mediante las cuales se establezcan las reglas contables a las que habrán de sujetarse las entidades sometidas al régimen de contabilidad pública."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Aprobar el Plan de Contabilidad Pública de la Comunidad Autónoma de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-t11",
+    "explanation": "La competencia INCORRECTA atribuida al Consejero es 'Aprobar el Plan de Contabilidad Pública de la Comunidad Autónoma de Euskadi' — esta competencia de aprobación del Plan corresponde al Gobierno Vasco, no al Consejero de Hacienda. El Consejero sí puede aprobar normas de contabilidad (opción 4) y determinar las cuentas anuales a rendir (opción 2) y el régimen aplicable (opción 3).",
+    "officialId": 415
+  }
+]

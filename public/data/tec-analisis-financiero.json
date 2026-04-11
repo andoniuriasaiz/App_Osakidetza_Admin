@@ -1,0 +1,890 @@
+[
+  {
+    "id": "tec-analisis-financiero_1",
+    "questionNum": 1,
+    "question": "El fondo de rotación o maniobra es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La diferencia entre el activo circulante y el pasivo a corto plazo."
+      },
+      {
+        "value": 2,
+        "text": "La diferencia entre el activo no circulante y el pasivo a largo plazo."
+      },
+      {
+        "value": 3,
+        "text": "El cociente entre el beneficio económico y el volumen de ventas."
+      },
+      {
+        "value": 4,
+        "text": "El beneficio generado por los activos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La diferencia entre el activo circulante y el pasivo a corto plazo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "El fondo de maniobra (o fondo de rotación) = Activo circulante (corriente) – Pasivo a corto plazo (corriente). También puede calcularse como: Capitales permanentes – Activo fijo. Representa la parte del activo circulante financiada con recursos permanentes.",
+    "officialId": 371
+  },
+  {
+    "id": "tec-analisis-financiero_2",
+    "questionNum": 2,
+    "question": "La ratio de tesorería inmediata es un:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ratio de equilibrio financiero a largo plazo."
+      },
+      {
+        "value": 2,
+        "text": "Ratio de equilibrio financiero a corto plazo."
+      },
+      {
+        "value": 3,
+        "text": "Ratio de garantía."
+      },
+      {
+        "value": 4,
+        "text": "Ratio de capital propio en circulante."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ratio de equilibrio financiero a corto plazo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La ratio de tesorería inmediata (Efectivo y equivalentes / Pasivo corriente) es un ratio de equilibrio financiero a CORTO plazo, que mide la capacidad de pago inmediata con los recursos más líquidos disponibles.",
+    "officialId": 372
+  },
+  {
+    "id": "tec-analisis-financiero_3",
+    "questionNum": 3,
+    "question": "Diga cuál de las siguientes afirmaciones ES CORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Los apalancamientos operativo y financiero se combinan de forma multiplicativa."
+      },
+      {
+        "value": 2,
+        "text": "El apalancamiento financiero se produce por el endeudamiento."
+      },
+      {
+        "value": 3,
+        "text": "Las empresas con grandes inmovilizados y costes fijos elevados tendrán un gran apalancamiento operativo."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "Las tres afirmaciones son correctas: (1) Apalancamiento total = Ao × Af (multiplicativo); (2) el apalancamiento financiero se genera por el uso de deuda con costes financieros fijos; (3) empresas con altos costes fijos (grandes inmovilizados) tienen mayor apalancamiento operativo.",
+    "officialId": 373
+  },
+  {
+    "id": "tec-analisis-financiero_4",
+    "questionNum": 4,
+    "question": "Señale la respuesta INCORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aunque una empresa presente un capital corriente negativo, es posible que su liquidez sea buena."
+      },
+      {
+        "value": 2,
+        "text": "Los ratios de liquidez tienen en cuenta el momento exacto en que vence cada pasivo corriente."
+      },
+      {
+        "value": 3,
+        "text": "Los ratios de liquidez ofrecen una primera visión sobre si la empresa cuenta que activos líquidos suficientes para atender a sus deudas a corto plazo."
+      },
+      {
+        "value": 4,
+        "text": "Una liquidez excesiva puede provocar una disminución de la rentabilidad de la empresa."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Los ratios de liquidez tienen en cuenta el momento exacto en que vence cada pasivo corriente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La opción INCORRECTA es la 2: los ratios de liquidez (ratio corriente, prueba ácida, ratio de tesorería) son medidas ESTÁTICAS que NO tienen en cuenta el momento exacto de vencimiento de cada pasivo. Para eso se necesita un análisis dinámico de flujos de caja o un calendario de vencimientos.",
+    "officialId": 374
+  },
+  {
+    "id": "tec-analisis-financiero_5",
+    "questionNum": 5,
+    "question": "Al tiempo promedio que tarda en recuperarse una unidad monetaria invertida se le denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Período medio de maduración financiero."
+      },
+      {
+        "value": 2,
+        "text": "Período medio de maduración económico."
+      },
+      {
+        "value": 3,
+        "text": "Período medio de cobro."
+      },
+      {
+        "value": 4,
+        "text": "Período medio de pago."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Período medio de maduración económico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "Al tiempo promedio que tarda en recuperarse una unidad monetaria invertida en el ciclo de explotación se le denomina Período Medio de Maduración ECONÓMICO (PMMe). El PMM financiero descuenta el período de pago a proveedores.",
+    "officialId": 375
+  },
+  {
+    "id": "tec-analisis-financiero_6",
+    "questionNum": 6,
+    "question": "El estudio del apalancamiento financiero:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se realiza mediante el estudio de analizar la sensibilidad del beneficio neto respecto al beneficio económico."
+      },
+      {
+        "value": 2,
+        "text": "Se efectúa mediante el estudio del apalancamiento operativo."
+      },
+      {
+        "value": 3,
+        "text": "Se realiza mediante el análisis de la relación entre el beneficio de explotación y la modificación de las ventas."
+      },
+      {
+        "value": 4,
+        "text": "Se efectúa mediante el análisis del endeudamiento."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Se realiza mediante el estudio de analizar la sensibilidad del beneficio neto respecto al beneficio económico."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "El apalancamiento financiero se estudia mediante el análisis de la sensibilidad del beneficio neto respecto al beneficio económico (BAII/EBIT). Mide el impacto de los costes financieros fijos (intereses) sobre la variabilidad del beneficio neto ante cambios en el BAII.",
+    "officialId": 376
+  },
+  {
+    "id": "tec-analisis-financiero_7",
+    "questionNum": 7,
+    "question": "Diga cuál de las siguientes afirmaciones NO es correcta. Una empresa en situación de insolvencia técnica:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Está cuando el beneficio que generan sus activos no es suficiente para hacer frente a los intereses de la deuda."
+      },
+      {
+        "value": 2,
+        "text": "Está cuando su beneficio neto es negativo."
+      },
+      {
+        "value": 3,
+        "text": "Puede ser una empresa saneada y contar con capacidad económica suficiente."
+      },
+      {
+        "value": 4,
+        "text": "Está cuando la probabilidad de insolvencia decrece con el endeudamiento."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Está cuando la probabilidad de insolvencia decrece con el endeudamiento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La opción INCORRECTA es la 4: en situación de insolvencia técnica, la probabilidad de insolvencia NO decrece con el endeudamiento, sino todo lo contrario: mayor endeudamiento aumenta el riesgo de insolvencia. Las demás opciones pueden describir situaciones de insolvencia técnica.",
+    "officialId": 377
+  },
+  {
+    "id": "tec-analisis-financiero_8",
+    "questionNum": 8,
+    "question": "La rentabilidad económica de una empresa relaciona:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Beneficios obtenidos con el pasivo exigible de la empresa."
+      },
+      {
+        "value": 2,
+        "text": "Beneficios obtenidos con las inversiones totales de la empresa."
+      },
+      {
+        "value": 3,
+        "text": "Beneficios obtenidos con las pérdidas de los últimos años."
+      },
+      {
+        "value": 4,
+        "text": "Beneficios obtenidos con los capitales ajenos a corto plazo de la empresa."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Beneficios obtenidos con las inversiones totales de la empresa."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La rentabilidad económica (RE) = BAII / Activo total. Relaciona los beneficios obtenidos (BAII/EBIT) con las inversiones totales de la empresa (activo), midiendo la eficiencia con que se usan todos los recursos, independientemente de su financiación.",
+    "officialId": 378
+  },
+  {
+    "id": "tec-analisis-financiero_9",
+    "questionNum": 9,
+    "question": "El estudio de la rentabilidad financiera es un asunto que se incluye en:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El análisis económico."
+      },
+      {
+        "value": 2,
+        "text": "El análisis financiero."
+      },
+      {
+        "value": 3,
+        "text": "El análisis operativo."
+      },
+      {
+        "value": 4,
+        "text": "El análisis patrimonial."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El análisis financiero."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "El estudio de la rentabilidad financiera (RF = Beneficio neto / Recursos propios, o ROE) forma parte del análisis FINANCIERO de la empresa. El análisis financiero estudia la estructura de financiación, la liquidez, el endeudamiento y la rentabilidad financiera.",
+    "officialId": 379
+  },
+  {
+    "id": "tec-analisis-financiero_10",
+    "questionNum": 10,
+    "question": "Si el ratio de Garantía (Activo / Pasivo) es igual a la unidad:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La empresa se encuentra en suspensión de pagos."
+      },
+      {
+        "value": 2,
+        "text": "La empresa se encuentra ante la máxima estabilidad financiera."
+      },
+      {
+        "value": 3,
+        "text": "La empresa tiene un fondo de maniobra positivo."
+      },
+      {
+        "value": 4,
+        "text": "La empresa tiene un nivel de endeudamiento muy elevado."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La empresa se encuentra en suspensión de pagos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "Si el ratio de Garantía (Activo total / Pasivo total) = 1, significa que el Activo = Pasivo y por tanto el Patrimonio neto = 0. La empresa se encuentra en una situación límite (suspensión de pagos / quiebra técnica), sin colchón patrimonial para absorber pérdidas.",
+    "officialId": 380
+  },
+  {
+    "id": "tec-analisis-financiero_11",
+    "questionNum": 11,
+    "question": "La capacidad que tiene la empresa para convertir sus inversiones en medios de pago totalmente líquidos se denomina:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Apalancamiento financiero."
+      },
+      {
+        "value": 2,
+        "text": "Liquidez."
+      },
+      {
+        "value": 3,
+        "text": "Rentabilidad."
+      },
+      {
+        "value": 4,
+        "text": "Solvencia."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Liquidez."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La LIQUIDEZ es la capacidad de la empresa para convertir sus activos e inversiones en medios de pago líquidos. No confundir con solvencia (capacidad de pagar deudas a largo plazo) ni con rentabilidad.",
+    "officialId": 381
+  },
+  {
+    "id": "tec-analisis-financiero_12",
+    "questionNum": 12,
+    "question": "En términos financiero-contables, el concepto de liquidez se define como:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El tipo de cambio aplicable a la moneda extranjera."
+      },
+      {
+        "value": 2,
+        "text": "La capacidad del dinero para adquirir determinados bienes."
+      },
+      {
+        "value": 3,
+        "text": "La disponibilidad de los activos para ser incorporados al proceso productivo."
+      },
+      {
+        "value": 4,
+        "text": "La mayor o menor facilidad para convertir un activo en dinero."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La mayor o menor facilidad para convertir un activo en dinero."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "En términos financiero-contables, la liquidez se define como la mayor o menor facilidad para convertir un activo en dinero efectivo, sin pérdida significativa de valor. Los activos más líquidos son el efectivo y los equivalentes al efectivo.",
+    "officialId": 382
+  },
+  {
+    "id": "tec-analisis-financiero_13",
+    "questionNum": 13,
+    "question": "El análisis patrimonial de la empresa se realiza a través de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Balance de Situación."
+      },
+      {
+        "value": 2,
+        "text": "El Estado de flujos de efectivo."
+      },
+      {
+        "value": 3,
+        "text": "La Cuenta de Pérdidas y Ganancias."
+      },
+      {
+        "value": 4,
+        "text": "La Memoria."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "El Balance de Situación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "El análisis patrimonial estudia la composición y estructura del patrimonio de la empresa (activo, pasivo y patrimonio neto) y se realiza a través del Balance de Situación. El análisis económico usa la Cuenta de PG, y el análisis financiero usa el EFE y el Balance.",
+    "officialId": 383
+  },
+  {
+    "id": "tec-analisis-financiero_14",
+    "questionNum": 14,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. La ratio de tesorería o liquidez inmediata: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se define como la ratio entre el activo corriente entre el pasivo corriente."
+      },
+      {
+        "value": 2,
+        "text": "Se define como la ratio entre el activo no corriente entre el pasivo no corriente."
+      },
+      {
+        "value": 3,
+        "text": "Se define como la ratio entre el activo no corriente menos las existencias entre el pasivo no corriente."
+      },
+      {
+        "value": 4,
+        "text": "Se define como la ratio entre efectivo y equivalentes al efectivo entre pasivo corriente."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Se define como la ratio entre efectivo y equivalentes al efectivo entre pasivo corriente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La ratio de tesorería o liquidez INMEDIATA = Efectivo y equivalentes al efectivo / Pasivo corriente. Mide la capacidad de pago con los recursos más líquidos (solo cash y equivalentes). La ratio corriente incluye todo el activo corriente; la prueba ácida excluye existencias.",
+    "officialId": 384
+  },
+  {
+    "id": "tec-analisis-financiero_15",
+    "questionNum": 15,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. El periodo medio de maduración en las empresas comerciales: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Es la suma del periodo de almacenamiento de mercancías y el periodo de cobro a clientes."
+      },
+      {
+        "value": 2,
+        "text": "Es la suma del periodo de almacenamiento de mercancías y el periodo de cobro a clientes menos el periodo de pago a proveedores."
+      },
+      {
+        "value": 3,
+        "text": "Es el periodo de cobro a clientes menos el periodo de pago a proveedores."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Es la suma del periodo de almacenamiento de mercancías y el periodo de cobro a clientes."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "El período medio de maduración económico en empresas comerciales = Período de almacenamiento de mercancías + Período de cobro a clientes. No hay proceso de fabricación. El PMM financiero también resta el período de pago a proveedores.",
+    "officialId": 385
+  },
+  {
+    "id": "tec-analisis-financiero_16",
+    "questionNum": 16,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. El coeficiente básico de financiación: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "(Patrimonio neto + Pasivo no Corriente) / (Activo no Corriente+ Capital corriente necesario)."
+      },
+      {
+        "value": 2,
+        "text": "(Patrimonio neto + Pasivo Total) / (Activo Corriente+ Activo no corriente)."
+      },
+      {
+        "value": 3,
+        "text": "(Patrimonio neto + Pasivo Corriente) / (Capital corriente necesario)."
+      },
+      {
+        "value": 4,
+        "text": "(Patrimonio neto + Pasivo no Corriente) / (Capital corriente necesario)."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "(Patrimonio neto + Pasivo no Corriente) / (Activo no Corriente+ Capital corriente necesario)."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "El coeficiente básico de financiación (CBF) = (Patrimonio neto + Pasivo no Corriente) / (Activo no Corriente + Capital corriente necesario). Si CBF = 1: equilibrio ideal; CBF > 1: exceso de recursos permanentes; CBF < 1: insuficiencia de financiación permanente.",
+    "officialId": 386
+  },
+  {
+    "id": "tec-analisis-financiero_17",
+    "questionNum": 17,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. La ratio Price to book se calcula de la siguiente manera: ELIJA LA AFIRMACIÓN CORRECTA",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Dividendo Bruto entre resultado del ejercicio."
+      },
+      {
+        "value": 2,
+        "text": "Dividendo Neto entre resultado del ejercicio."
+      },
+      {
+        "value": 3,
+        "text": "Precio de cotización entre valor contable de la acción."
+      },
+      {
+        "value": 4,
+        "text": "Precio de cotización entre dividendo neto."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Precio de cotización entre valor contable de la acción."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La ratio Price to Book (P/B) = Precio de cotización de la acción / Valor contable de la acción. Mide cuánto paga el mercado por cada euro de patrimonio neto contable. Si P/B > 1, el mercado valora la empresa por encima de su valor contable.",
+    "officialId": 387
+  },
+  {
+    "id": "tec-analisis-financiero_18",
+    "questionNum": 18,
+    "question": "Análisis de estados contables. Elaboración e interpretación de la información financiera. Pascual Garrido Miralles, Raúl Íñiguez Sánchez. Edit. Pirámide. ELIJA LA AFIRMACIÓN CORRECTA:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Las provisiones son pasivos que resulten indeterminados únicamente respecto a su importe."
+      },
+      {
+        "value": 2,
+        "text": "Las provisiones son pasivos que resulten indeterminados respecto a su importe o a la fecha en que se cancelarán."
+      },
+      {
+        "value": 3,
+        "text": "Las contingencias son pasivos que resulten indeterminados respecto a su importe o a la fecha en que se cancelarán."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son incorrectas."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Las provisiones son pasivos que resulten indeterminados respecto a su importe o a la fecha en que se cancelarán."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "Según el PGC (NRV 15), las provisiones son pasivos cuyo importe o fecha de cancelación son INDETERMINADOS (uno u otro, o ambos). Las contingencias son obligaciones posibles, no actuales, que no se reconocen como pasivo sino que se informan en la Memoria.",
+    "officialId": 388
+  },
+  {
+    "id": "tec-analisis-financiero_19",
+    "questionNum": 19,
+    "question": "¿Qué ratio mide la capacidad de la empresa para atender el coste de su deuda mediante el resultado antes de intereses e impuestos?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ratio de cobertura de intereses."
+      },
+      {
+        "value": 2,
+        "text": "Ratio de tesorería inmediata."
+      },
+      {
+        "value": 3,
+        "text": "Ratio de garantía."
+      },
+      {
+        "value": 4,
+        "text": "Ratio de rotación del activo."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Ratio de cobertura de intereses."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "El ratio de cobertura de intereses = BAII (EBIT) / Gastos financieros. Mide cuántas veces el resultado de explotación cubre el coste de la deuda (intereses). Un valor > 1 indica capacidad para pagar los intereses; cuanto mayor, más holgura financiera.",
+    "officialId": 389
+  },
+  {
+    "id": "tec-analisis-financiero_20",
+    "questionNum": 20,
+    "question": "¿Qué caracteriza principalmente a la financiación espontánea en el pasivo corriente?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Se origina por deudas con entidades de crédito y siempre implica un interés explícito."
+      },
+      {
+        "value": 2,
+        "text": "Se genera por aplazamientos derivados de la actividad ordinaria, sin coste explícito."
+      },
+      {
+        "value": 3,
+        "text": "Está formada exclusivamente por provisiones a corto plazo."
+      },
+      {
+        "value": 4,
+        "text": "Se compone únicamente de pasivos por impuesto diferido."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Se genera por aplazamientos derivados de la actividad ordinaria, sin coste explícito."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La financiación espontánea surge de forma natural de la actividad ordinaria (proveedores, acreedores, Hacienda Pública) sin negociación explícita y sin coste de interés explícito. Se opone a la financiación negociada (préstamos bancarios) que tiene coste financiero explícito.",
+    "officialId": 390
+  },
+  {
+    "id": "tec-analisis-financiero_21",
+    "questionNum": 21,
+    "question": "Si el coeficiente básico de financiación es mayor que 1, esto indica que:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La empresa utiliza exactamente los recursos permanentes que necesita para financiar su activo no corriente y su capital corriente mínimo."
+      },
+      {
+        "value": 2,
+        "text": "La empresa utiliza más recursos permanentes de los que realmente necesita para financiar su activo no corriente y su capital corriente mínimo."
+      },
+      {
+        "value": 3,
+        "text": "La empresa utiliza menos recursos permanentes de los que necesita, por lo que siempre tendrá capital corriente negativo."
+      },
+      {
+        "value": 4,
+        "text": "La empresa se encuentra necesariamente en quiebra técnica."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "La empresa utiliza más recursos permanentes de los que realmente necesita para financiar su activo no corriente y su capital corriente mínimo."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "Si el coeficiente básico de financiación (CBF) > 1, la empresa dispone de más recursos permanentes (PN + PnC) de los estrictamente necesarios para financiar el activo no corriente y el capital corriente mínimo. Indica exceso de financiación a largo plazo y suele generar fondo de maniobra positivo.",
+    "officialId": 391
+  },
+  {
+    "id": "tec-analisis-financiero_22",
+    "questionNum": 22,
+    "question": "¿Qué situación sugiere, con carácter general, una ratio de firmeza inferior a 1?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que el activo no corriente cubre holgadamente las deudas a largo plazo."
+      },
+      {
+        "value": 2,
+        "text": "Que el pasivo no corriente supera al activo no corriente."
+      },
+      {
+        "value": 3,
+        "text": "Que la empresa tiene un fondo de rotación necesariamente positivo."
+      },
+      {
+        "value": 4,
+        "text": "Que la empresa está en equilibrio financiero a corto plazo."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Que el pasivo no corriente supera al activo no corriente."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La ratio de firmeza = Activo no corriente / Pasivo no corriente. Si < 1, el activo no corriente es menor que el pasivo no corriente, lo que significa que el pasivo a largo plazo supera al activo fijo. Esto puede indicar que parte del activo corriente se está financiando con deuda a largo plazo.",
+    "officialId": 392
+  },
+  {
+    "id": "tec-analisis-financiero_23",
+    "questionNum": 23,
+    "question": "¿Por qué la ratio corriente (activo corriente/pasivo corriente) puede SOBREESTIMAR la liquidez real de una empresa?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Porque incluye partidas del activo corriente que NO siempre son fácilmente convertibles en efectivo a corto plazo, como existencias o realizable condicionado."
+      },
+      {
+        "value": 2,
+        "text": "Porque excluye el efectivo y otros activos líquidos equivalentes."
+      },
+      {
+        "value": 3,
+        "text": "Porque se calcula con partidas de largo plazo."
+      },
+      {
+        "value": 4,
+        "text": "Porque sustituye al análisis del periodo medio de maduración financiero."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Porque incluye partidas del activo corriente que NO siempre son fácilmente convertibles en efectivo a corto plazo, como existencias o realizable condicionado."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La ratio corriente (Activo corriente / Pasivo corriente) puede sobreestimar la liquidez porque incluye existencias y otras partidas del activo corriente que pueden no ser fácilmente convertibles en efectivo a corto plazo (realizable condicionado). La prueba ácida corrige esto excluyendo las existencias.",
+    "officialId": 393
+  },
+  {
+    "id": "tec-analisis-financiero_24",
+    "questionNum": 24,
+    "question": "Si aumenta el volumen de existencias y el resto de las partidas permanece constante, ¿qué efecto tiene, con carácter general, sobre la ratio de prueba ácida?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aumenta, porque las existencias incrementan la liquidez inmediata."
+      },
+      {
+        "value": 2,
+        "text": "Disminuye, porque las existencias incrementan el pasivo corriente."
+      },
+      {
+        "value": 3,
+        "text": "No cambia, porque la prueba ácida excluye las existencias del numerador."
+      },
+      {
+        "value": 4,
+        "text": "Depende exclusivamente del ratio de garantía."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "No cambia, porque la prueba ácida excluye las existencias del numerador."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-analisis-financiero",
+    "explanation": "La prueba ácida (o acid-test ratio) = (Activo corriente – Existencias) / Pasivo corriente. Si aumentan las existencias pero el pasivo corriente se mantiene igual, el numerador (AC – Existencias) NO CAMBIA, por lo que la ratio de prueba ácida no varía. Solo cambia el ratio corriente.",
+    "officialId": 394
+  }
+]

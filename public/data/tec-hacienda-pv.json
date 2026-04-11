@@ -1,0 +1,742 @@
+[
+  {
+    "id": "tec-hacienda-pv_1",
+    "questionNum": 1,
+    "question": "Según la Ley de Principios Ordenadores de la Hacienda General del País Vasco, la hacienda General está constituida por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Solo los ingresos tributarios de la Comunidad Autónoma."
+      },
+      {
+        "value": 2,
+        "text": "El conjunto de derechos y obligaciones de naturaleza económica de los Territorios Históricos."
+      },
+      {
+        "value": 3,
+        "text": "El conjunto de derechos y obligaciones económicas de la Comunidad Autónoma de Euskadi."
+      },
+      {
+        "value": 4,
+        "text": "El patrimonio económico del Estado cedido a Euskadi."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El conjunto de derechos y obligaciones económicas de la Comunidad Autónoma de Euskadi."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 1.1 DL 1/1997: la Hacienda General está constituida por el conjunto de derechos y obligaciones económicas de la Comunidad Autónoma de Euskadi.",
+    "officialId": 274
+  },
+  {
+    "id": "tec-hacienda-pv_2",
+    "questionNum": 2,
+    "question": "De acuerdo con la ley de Principios Ordenadores de la Hacienda General del País Vasco, el procedimiento de elaboración y gestión presupuestaria es competencia de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Gobierno."
+      },
+      {
+        "value": 2,
+        "text": "El departamento responsable en materia de Hacienda y Finanzas."
+      },
+      {
+        "value": 3,
+        "text": "El Parlamento."
+      },
+      {
+        "value": 4,
+        "text": "Las Juntas Generales."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "El Parlamento."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 25.1.b DL 1/1997: el procedimiento de elaboración y gestión presupuestaria es competencia del Parlamento Vasco.",
+    "officialId": 275
+  },
+  {
+    "id": "tec-hacienda-pv_3",
+    "questionNum": 3,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que las materias propias de la Hacienda General del País Vasco son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La política educativa."
+      },
+      {
+        "value": 2,
+        "text": "El régimen de concesión de garantías."
+      },
+      {
+        "value": 3,
+        "text": "Las relaciones laborales del personal funcionario."
+      },
+      {
+        "value": 4,
+        "text": "La ordenación del territorio."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El régimen de concesión de garantías."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 1.2.h DL 1/1997: el régimen de concesión de garantías es una de las materias propias de la Hacienda General del País Vasco.",
+    "officialId": 276
+  },
+  {
+    "id": "tec-hacienda-pv_4",
+    "questionNum": 4,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que las materias propias de la Hacienda General del País Vasco son:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El régimen del patrimonio."
+      },
+      {
+        "value": 2,
+        "text": "El Régimen de contratación."
+      },
+      {
+        "value": 3,
+        "text": "El régimen de endeudamiento."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 1.2 DL 1/1997: el régimen del patrimonio, el régimen de contratación y el régimen de endeudamiento son todas materias propias de la Hacienda General.",
+    "officialId": 277
+  },
+  {
+    "id": "tec-hacienda-pv_5",
+    "questionNum": 5,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que la Hacienda General del País Vasco se regirá por una normativa, indiqué cuál:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Exclusivamente por leyes estatales."
+      },
+      {
+        "value": 2,
+        "text": "Exclusivamente por el Decreto legislativo 1/1997 que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Por las leyes estatales, así como por las demás normas emanadas de la CAE y otras que le sean de aplicación."
+      },
+      {
+        "value": 4,
+        "text": "Decreto legislativo 1/1997 que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco, así como por las demás normas emanadas de la CAE y otras que le sean de aplicación."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Decreto legislativo 1/1997 que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco, así como por las demás normas emanadas de la CAE y otras que le sean de aplicación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 2.1 DL 1/1997: la Hacienda General del País Vasco se regirá por el Decreto Legislativo 1/1997 así como por las demás normas emanadas de la CAE y otras que le sean de aplicación.",
+    "officialId": 278
+  },
+  {
+    "id": "tec-hacienda-pv_6",
+    "questionNum": 6,
+    "question": "Conforme a la Ley de Principios Ordenadores de la Hacienda General del País Vasco, indique a quién corresponde dictar disposiciones interpretativas o aclaratorias de las normas reguladoras de la Hacienda General:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Lehendakari."
+      },
+      {
+        "value": 2,
+        "text": "Parlamento Vasco."
+      },
+      {
+        "value": 3,
+        "text": "Consejero/a del Departamento competente en materia de hacienda y finanzas."
+      },
+      {
+        "value": 4,
+        "text": "Dirección de la Administración Tributaria e la CAE."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Consejero/a del Departamento competente en materia de hacienda y finanzas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 2.5 DL 1/1997: corresponde al Consejero/a del Departamento competente en materia de hacienda y finanzas dictar disposiciones interpretativas o aclaratorias de las normas reguladoras de la Hacienda General.",
+    "officialId": 279
+  },
+  {
+    "id": "tec-hacienda-pv_7",
+    "questionNum": 7,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco señala que la CAE, en materias de Hacienda General, actuará conforme a los siguientes principios:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Autonomía plena de gestión."
+      },
+      {
+        "value": 2,
+        "text": "Neutralidad presupuestaria."
+      },
+      {
+        "value": 3,
+        "text": "Transparencia fiscal."
+      },
+      {
+        "value": 4,
+        "text": "Unidad de caja."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Unidad de caja."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 3 DL 1/1997: entre los principios que rigen la actuación de la CAE en materias de Hacienda General se encuentra la unidad de caja.",
+    "officialId": 280
+  },
+  {
+    "id": "tec-hacienda-pv_8",
+    "questionNum": 8,
+    "question": "La Comunidad Autónoma de Euskadi actuará en las materias propias de su Hacienda General, conforme a los principios de:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Legalidad, objetividad, economía, eficacia, control y transparencia."
+      },
+      {
+        "value": 2,
+        "text": "Legalidad, objetividad, economía, eficacia, control, unidad de caja y coordinación."
+      },
+      {
+        "value": 3,
+        "text": "Legalidad, subjetividad, economía, eficacia, control, unidad de caja y coordinación."
+      },
+      {
+        "value": 4,
+        "text": "Legalidad, subjetividad, eficacia, control y transparencia."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Legalidad, objetividad, economía, eficacia, control, unidad de caja y coordinación."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 3 DL 1/1997: la CAE actuará en materias de Hacienda General conforme a los principios de legalidad, objetividad, economía, eficacia, control, unidad de caja y coordinación.",
+    "officialId": 281
+  },
+  {
+    "id": "tec-hacienda-pv_9",
+    "questionNum": 9,
+    "question": "Según la Ley de Principios Ordenadores de la Hacienda General del País Vasco, además de planificación económica, ¿qué función cumplen los Presupuestos Generales de Euskadi?",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Crear nuevas figuras tributarias automáticamente."
+      },
+      {
+        "value": 2,
+        "text": "Establecer la política exterior vasca."
+      },
+      {
+        "value": 3,
+        "text": "Ser instrumento de control de la correcta administración de los recursos."
+      },
+      {
+        "value": 4,
+        "text": "Regular las elecciones autonómicas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Ser instrumento de control de la correcta administración de los recursos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 5.2 DL 1/1997: los Presupuestos Generales de Euskadi, además de instrumento de planificación económica, son instrumento de control de la correcta administración de los recursos.",
+    "officialId": 282
+  },
+  {
+    "id": "tec-hacienda-pv_10",
+    "questionNum": 10,
+    "question": "Indique qué materias adicionales pueden regular las Leyes de presupuestos de Euskadi, según la Ley de Principios Ordenadores de la Hacienda General del País Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cuestiones propias de la Hacienda General del País Vasco."
+      },
+      {
+        "value": 2,
+        "text": "Exclusivamente las retribuciones del personal funcionario."
+      },
+      {
+        "value": 3,
+        "text": "Solo la política ambiental."
+      },
+      {
+        "value": 4,
+        "text": "Solo los gastos de Seguridad Social."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Cuestiones propias de la Hacienda General del País Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 6.2 DL 1/1997: las Leyes de Presupuestos de Euskadi podrán regular materias adicionales que sean cuestiones propias de la Hacienda General del País Vasco.",
+    "officialId": 283
+  },
+  {
+    "id": "tec-hacienda-pv_11",
+    "questionNum": 11,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que el proyecto de Ley de Presupuestos, antes de enviarlo al Parlamento, debe ser aprobado por:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "El Tribunal Vasco de Cuentas Públicas."
+      },
+      {
+        "value": 2,
+        "text": "El Gobierno Vasco."
+      },
+      {
+        "value": 3,
+        "text": "La Diputación Foral."
+      },
+      {
+        "value": 4,
+        "text": "El Parlamento Vasco."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "El Gobierno Vasco."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 6.4 / Art. 26.b DL 1/1997: el proyecto de Ley de Presupuestos debe ser aprobado por el Gobierno Vasco antes de enviarlo al Parlamento.",
+    "officialId": 284
+  },
+  {
+    "id": "tec-hacienda-pv_12",
+    "questionNum": 12,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que la fecha límite para presentar el proyecto de Ley de Presupuestos en el Parlamento es:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "1 de septiembre del ejercicio anterior."
+      },
+      {
+        "value": 2,
+        "text": "15 de octubre del ejercicio anterior."
+      },
+      {
+        "value": 3,
+        "text": "31 de diciembre del ejercicio anterior."
+      },
+      {
+        "value": 4,
+        "text": "Antes del 1 de noviembre del ejercicio anterior."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Antes del 1 de noviembre del ejercicio anterior."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 6.4 DL 1/1997: el proyecto de Ley de Presupuestos debe presentarse ante el Parlamento antes del 1 de noviembre del ejercicio anterior.",
+    "officialId": 285
+  },
+  {
+    "id": "tec-hacienda-pv_13",
+    "questionNum": 13,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que es competencia del Parlamento Vasco:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La aprobación, seguimiento y control de los Presupuestos Generales de Euskadi."
+      },
+      {
+        "value": 2,
+        "text": "El régimen de patrimonio."
+      },
+      {
+        "value": 3,
+        "text": "El régimen de endeudamiento."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Todas las respuestas son verdaderas."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 25.1 DL 1/1997: es competencia del Parlamento Vasco la aprobación, seguimiento y control de los Presupuestos Generales (a), el régimen de patrimonio (d) y el régimen de endeudamiento (f).",
+    "officialId": 286
+  },
+  {
+    "id": "tec-hacienda-pv_14",
+    "questionNum": 14,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que son competencia del Gobierno:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "La aprobación de los proyectos de leyes de Presupuestos generales."
+      },
+      {
+        "value": 2,
+        "text": "El establecimiento o reforma de los tributos propios de la Comunidad Autónoma."
+      },
+      {
+        "value": 3,
+        "text": "El régimen de contratación."
+      },
+      {
+        "value": 4,
+        "text": "El régimen de endeudamiento."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "La aprobación de los proyectos de leyes de Presupuestos generales."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 26.b DL 1/1997: es competencia del Gobierno la aprobación de los proyectos de Leyes de Presupuestos Generales de la Comunidad, para su remisión al Parlamento.",
+    "officialId": 287
+  },
+  {
+    "id": "tec-hacienda-pv_15",
+    "questionNum": 15,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que es competencia del Departamento responsable en materia de hacienda y finanzas:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Autorizar la liquidación presupuestaria de los entes institucionales del sector público de la CAE."
+      },
+      {
+        "value": 2,
+        "text": "La aprobación de los presupuestos y, posteriormente, el control de los gastos e ingresos adscritos a los Departamentos."
+      },
+      {
+        "value": 3,
+        "text": "Las facultades de contabilidad y del control interventor de la actividad económica de la CAE."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Las facultades de contabilidad y del control interventor de la actividad económica de la CAE."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 27.d DL 1/1997: corresponde al Departamento responsable en materia de hacienda y finanzas las facultades de contabilidad y del control interventor de la actividad económica de la Comunidad Autónoma de Euskadi.",
+    "officialId": 288
+  },
+  {
+    "id": "tec-hacienda-pv_16",
+    "questionNum": 16,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que es competencia de otros entes integrantes del sector público de la CAE:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Cada ente tiene las facultades de contabilidad y del control interventor de su actividad económica."
+      },
+      {
+        "value": 2,
+        "text": "En el caso de entes públicos de derecho privado: aprobar su liquidación presupuestaria."
+      },
+      {
+        "value": 3,
+        "text": "En el caso de organismos autónomos: aprobar su liquidación presupuestaria."
+      },
+      {
+        "value": 4,
+        "text": "La autorización de los gastos, de acuerdo con las dotaciones aprobadas en sus presupuestos, y la ordenación de los correspondientes pagos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "La autorización de los gastos, de acuerdo con las dotaciones aprobadas en sus presupuestos, y la ordenación de los correspondientes pagos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 29.1.c DL 1/1997: corresponde a los organismos autónomos la autorización de los gastos, de acuerdo con las dotaciones aprobadas en sus presupuestos, y la ordenación de los correspondientes pagos.",
+    "officialId": 289
+  },
+  {
+    "id": "tec-hacienda-pv_17",
+    "questionNum": 17,
+    "question": "Los Derechos de naturaleza pública que reconoce la Ley de Principios Ordenadores de la Hacienda General del País Vasco pueden ser:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Ingresos de derecho privado pero que pertenecen a entidades del Sector Público de la CAE."
+      },
+      {
+        "value": 2,
+        "text": "Ingresos de derecho público y otros derechos."
+      },
+      {
+        "value": 3,
+        "text": "Ingresos y gastos de derecho público."
+      },
+      {
+        "value": 4,
+        "text": "Sólo ingresos de derecho público."
+      }
+    ],
+    "correctAnswerNums": [
+      2
+    ],
+    "correctAnswers": [
+      "Ingresos de derecho público y otros derechos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 31.2 DL 1/1997: los derechos de naturaleza pública pueden ser: a) Ingresos de derecho público, y b) Otros derechos.",
+    "officialId": 290
+  },
+  {
+    "id": "tec-hacienda-pv_18",
+    "questionNum": 18,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco incluye como ingreso de derecho público, el siguiente ingreso:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Aportaciones de las Diputaciones Forales derivados de los rendimientos por Tributos."
+      },
+      {
+        "value": 2,
+        "text": "Herencias y Donaciones."
+      },
+      {
+        "value": 3,
+        "text": "Indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública."
+      },
+      {
+        "value": 4,
+        "text": "Todas las respuestas son verdaderas."
+      }
+    ],
+    "correctAnswerNums": [
+      3
+    ],
+    "correctAnswers": [
+      "Indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 32.i DL 1/1997: son ingresos de derecho público las indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública. Las herencias y donaciones son ingresos de derecho privado (Art. 38.b).",
+    "officialId": 291
+  },
+  {
+    "id": "tec-hacienda-pv_19",
+    "questionNum": 19,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco considera, sobre los tributos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Que se gestionan por las Diputaciones Forales."
+      },
+      {
+        "value": 2,
+        "text": "Que solo pueden ser tasas."
+      },
+      {
+        "value": 3,
+        "text": "Que su creación no requiere ley."
+      },
+      {
+        "value": 4,
+        "text": "Que tienen naturaleza fiscal y se reflejan en los presupuestos."
+      }
+    ],
+    "correctAnswerNums": [
+      4
+    ],
+    "correctAnswers": [
+      "Que tienen naturaleza fiscal y se reflejan en los presupuestos."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 34.2 DL 1/1997: todos los tributos de la Comunidad Autónoma de Euskadi tendrán naturaleza de fiscales y quedarán reflejados en sus correspondientes Presupuestos.",
+    "officialId": 292
+  },
+  {
+    "id": "tec-hacienda-pv_20",
+    "questionNum": 20,
+    "question": "La Ley de Principios Ordenadores de la Hacienda General del País Vasco establece que los recargos sobre impuestos:",
+    "type": "C",
+    "options": [
+      {
+        "value": 1,
+        "text": "Su creación y supresión requiere ley."
+      },
+      {
+        "value": 2,
+        "text": "Deben aprobarse por Decreto."
+      },
+      {
+        "value": 3,
+        "text": "Necesitan aprobación judicial."
+      },
+      {
+        "value": 4,
+        "text": "Solo pueden modificarlos los Territorios Históricos."
+      }
+    ],
+    "correctAnswerNums": [
+      1
+    ],
+    "correctAnswers": [
+      "Su creación y supresión requiere ley."
+    ],
+    "multipleCorrect": false,
+    "hasImage": false,
+    "image": null,
+    "imageUrl": null,
+    "module": "tec-hacienda-pv",
+    "explanation": "Art. 35.3 DL 1/1997: la creación y supresión de los recargos sobre impuestos requerirá de ley.",
+    "officialId": 293
+  }
+]
