@@ -1527,25 +1527,48 @@ export default function StudyPage() {
                         </span>
                       );
 
-                      // 2. Detalle de votos
-                      const voteDetails = Object.entries(votes).map(([ans, srcs]) => {
-                        if (!srcs || (Array.isArray(srcs) && srcs.length === 0)) return null;
+                      // 2. Detalle de votos (Fantasía CSS)
+                      // Invertimos el mapa para mostrar Fuente -> Respuesta (con colores)
+                      const sourceNames: Record<string, string> = {
+                        "IA": "IA",
+                        "Kaixo": "Kaixo.com",
+                        "Osasun": "Osasuntest",
+                        "UGT": "UGT"
+                      };
+
+                      const sourceOrder = ["UGT", "Kaixo", "Osasun", "IA"];
+                      const correctAns = current?.correctAnswers?.[0] || (current?.correctAnswerNums && current.correctAnswerNums.length > 0 ? String.fromCharCode(64 + current.correctAnswerNums[0]) : '');
+
+                      // Crear un mapa plano Fuente -> Respuesta a partir de votes (que es Respuesta -> [Fuentes])
+                      const flatVotes: Record<string, string> = {};
+                      Object.entries(votes).forEach(([ans, srcs]) => {
+                        if (Array.isArray(srcs)) {
+                           srcs.forEach(s => { flatVotes[s] = ans; });
+                        }
+                      });
+
+                      const voteDetails = sourceOrder.map(srcKey => {
+                        const ans = flatVotes[srcKey];
+                        if (!ans) return null;
                         
-                        const isMain = ans === current?.correctAnswers?.[0] || 
-                                       (current?.correctAnswerNums && current.correctAnswerNums.length > 0 && 
-                                        String.fromCharCode(65 + current.correctAnswerNums[0] - 1) === ans);
-                        
-                        const sourceList = Array.isArray(srcs) ? srcs.join(', ') : String(srcs);
+                        const isCorrectSource = ans === correctAns;
+                        const label = sourceNames[srcKey] || srcKey;
                         
                         return (
-                          <span key={ans} className={`inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-lg border ${isMain ? 'bg-white border-slate-200 text-slate-600' : 'bg-slate-100 border-transparent text-slate-400 opacity-80'}`}>
-                            <b className={isMain ? 'text-[#282182]' : ''}>{ans}:</b> {sourceList}
-                          </span>
+                          <div key={srcKey} className={`flex items-center gap-1.5 px-2.5 py-1 rounded-lg border shadow-sm transition-all duration-300 ${
+                            isCorrectSource 
+                              ? 'bg-emerald-50/80 border-emerald-200 text-emerald-800 backdrop-blur-sm' 
+                              : 'bg-red-50/80 border-red-100 text-red-700 backdrop-blur-sm opacity-90'
+                          }`}>
+                            <span className={`w-1.5 h-1.5 rounded-full ${isCorrectSource ? 'bg-emerald-500 animate-pulse' : 'bg-red-400'}`} />
+                            <span className="text-[10px] font-bold tracking-tight uppercase">{label}:</span>
+                            <span className={`text-[11px] font-black ${isCorrectSource ? 'text-emerald-900' : 'text-red-900'}`}>{ans}</span>
+                          </div>
                         );
                       });
 
                       return (
-                        <div className="flex flex-col gap-2">
+                        <div className="flex flex-col gap-3 py-1">
                           <div className="flex items-center gap-2 flex-wrap">
                             {confidenceBadge}
                             {!confidence && (
@@ -1554,11 +1577,9 @@ export default function StudyPage() {
                               </span>
                             )}
                           </div>
-                          {Object.keys(votes).length > 0 && (
-                            <div className="flex items-center gap-1.5 flex-wrap pl-1">
-                              {voteDetails}
-                            </div>
-                          )}
+                          <div className="flex items-center gap-2 flex-wrap drop-shadow-sm">
+                            {voteDetails}
+                          </div>
                         </div>
                       );
                     })()}
