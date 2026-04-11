@@ -22,6 +22,8 @@ export interface Question {
   sourceSources?: string[];       // Sources confirming the answer: ["Kaixo", "Osasuntest", "UGT", "IA"]
   sourceTrio?: boolean;           // true if all 4 sources agree (legacy compat)
   sourceStatus?: string;          // 'PERFECT' | 'RED_FLAG' | 'UGT_OUTLIER' | 'REVIEW_K_VS_UGT' etc.
+  sourceConfidence?: number;      // Bayesian confidence percentage (0-100)
+  sourceVotes?: Record<string, string[]>; // Votes by letter: { "A": ["UGT", "Osasun"], "B": ["IA"] }
   o_reliable?: boolean;           // osasuntest source is reliable for this question
 }
 

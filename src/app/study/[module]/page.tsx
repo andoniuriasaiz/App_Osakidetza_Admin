@@ -1492,67 +1492,70 @@ export default function StudyPage() {
                     )}
                   </div>
 
-                  {/* Badge de fuentes de fiabilidad */}
-                  {current?.sourceStatus && (() => {
-                    const sources   = current.sourceSources ?? [];
-                    const status    = current.sourceStatus ?? '';
-                    const count     = sources.length;
-                    const hasIA     = sources.includes('IA');
+                    {/* Badge de fuentes de fiabilidad */}
+                    {current?.sourceStatus && (() => {
+                      const sources     = current.sourceSources ?? [];
+                      const status      = current.sourceStatus ?? '';
+                      const confidence  = current.sourceConfidence;
+                      const votes       = current.sourceVotes ?? {};
+                      const count       = sources.length;
 
-                    // Formatear lista de fuentes en español natural:
-                    // ["Kaixo", "UGT", "IA"] → "Kaixo, UGT y la IA"
-                    const fmt = (srcs: string[]) => {
-                      const labels = srcs.map(s => s === 'IA' ? 'la IA' : s);
-                      if (labels.length === 0) return '';
-                      if (labels.length === 1) return labels[0];
-                      return labels.slice(0, -1).join(', ') + ' y ' + labels[labels.length - 1];
-                    };
+                      // Formatear lista de fuentes en español natural:
+                      const fmt = (srcs: string[]) => {
+                        const labels = srcs.map(s => s === 'IA' ? 'la IA' : s);
+                        if (labels.length === 0) return '';
+                        if (labels.length === 1) return labels[0];
+                        return labels.slice(0, -1).join(', ') + ' y ' + labels[labels.length - 1];
+                      };
 
-                    // RED_FLAG sin corregir: la app tiene la respuesta incorrecta,
-                    // las fuentes externas discrepan de lo que muestra la app.
-                    if (status === 'RED_FLAG' && !hasIA) {
-                      return (
-                        <div className="flex items-center gap-2 flex-wrap">
-                          <span className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-red-50 text-red-700 border border-red-200">
-                            <IconAlertTriangle size={11} /> {fmt(sources)} discrepan con la IA — posible error
-                          </span>
-                        </div>
-                      );
-                    }
+                      if (count === 0 && !confidence) return null;
 
-                    // Disputas entre fuentes sin consenso claro
-                    if (['TRIPLE_DISPUTE', 'REVIEW_K_VS_UGT'].includes(status)) {
-                      return (
-                        <div className="flex items-center gap-2 flex-wrap">
-                          <span className="inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full bg-amber-50 text-amber-700 border border-amber-200">
-                            <IconAlertTriangle size={11} /> Fuentes discrepan — revisa con cuidado
-                          </span>
-                        </div>
-                      );
-                    }
+                      // Colores basados en confianza o status
+                      const isHighConf = (confidence ?? 0) >= 80;
+                      const isLowConf  = (confidence ?? 0) < 60;
+                      const isDispute = ['DISPUTE', 'TRIPLE_DISPUTE', 'REVIEW_K_VS_UGT'].includes(status);
 
-                    if (count === 0) return null;
+                      const bgClass  = isHighConf ? 'bg-emerald-50' : isDispute ? 'bg-amber-50' : 'bg-slate-50';
+                      const txtClass = isHighConf ? 'text-emerald-700' : isDispute ? 'text-amber-700' : 'text-slate-500';
+                      const brdClass = isHighConf ? 'border-emerald-200' : isDispute ? 'border-amber-200' : 'border-slate-200';
+                      const icon     = isHighConf ? <IconCheckCircle size={11} /> : isDispute ? <IconAlertTriangle size={11} /> : <IconInfo size={11} />;
 
-                    // Verde: 4 fuentes (máxima fiabilidad), Verde: 3 fuentes, Gris: 1-2
-                    const isMax  = count === 4;
-                    const isGood = count === 3;
-                    const bgClass  = isMax || isGood ? 'bg-emerald-50'    : 'bg-slate-50';
-                    const txtClass = isMax || isGood ? 'text-emerald-700'  : 'text-slate-500';
-                    const brdClass = isMax || isGood ? 'border-emerald-200': 'border-slate-200';
-                    const icon     = isMax || isGood  ? <IconCheckCircle size={11} /> : <IconInfo size={11} />;
-
-                    const label = count >= 2
-                      ? `${fmt(sources)} coinciden`
-                      : `Solo ${fmt(sources)} confirma`;
-
-                    return (
-                      <div className="flex items-center gap-2 flex-wrap">
-                        <span className={`inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full border ${bgClass} ${txtClass} ${brdClass}`}>
-                          {icon} {label}
+                      // 1. Badge de Confianza (si existe)
+                      const confidenceBadge = confidence !== undefined && (
+                        <span className={`inline-flex items-center gap-1.5 text-xs font-bold px-2.5 py-1 rounded-full border ${bgClass} ${txtClass} ${brdClass}`}>
+                          {icon} {confidence}% credibilidad
                         </span>
-                      </div>
-                    );
-                  })()}
+                      );
+
+                      // 2. Detalle de votos
+                      const voteDetails = Object.entries(votes).map(([ans, srcs]) => {
+                        if (srcs.length === 0) return null;
+                        const isMain = ans === current.correctAnswers[0] || (current.correctAnswerNums.length > 0 && String.fromCharCode(65 + current.correctAnswerNums[0]-1) === ans);
+                        return (
+                          <span key={ans} className={`inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-lg border ${isMain ? 'bg-white border-slate-200 text-slate-600' : 'bg-slate-100 border-transparent text-slate-400 opacity-80'}`}>
+                            <b className={isMain ? 'text-[#282182]' : ''}>{ans}:</b> {srcs.join(', ')}
+                          </span>
+                        );
+                      });
+
+                      return (
+                        <div className="flex flex-col gap-2">
+                          <div className="flex items-center gap-2 flex-wrap">
+                            {confidenceBadge}
+                            {!confidence && (
+                              <span className={`inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full border ${bgClass} ${txtClass} ${brdClass}`}>
+                                {icon} {count >= 2 ? `${fmt(sources)} coinciden` : `Solo ${fmt(sources)} confirma`}
+                              </span>
+                            )}
+                          </div>
+                          {Object.keys(votes).length > 0 && (
+                            <div className="flex items-center gap-1.5 flex-wrap pl-1">
+                              {voteDetails}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })()}
 
                   {/* Explicación (toggle) */}
                   {current?.explanation && (
