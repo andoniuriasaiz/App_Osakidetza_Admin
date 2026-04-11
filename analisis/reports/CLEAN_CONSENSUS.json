@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-04-11T13:05:03",
+  "_generated": "2026-04-11T13:12:07",
   "_categories": [
     "C2",
     "A2",
@@ -92,7 +92,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -158,7 +158,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -180,7 +180,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -334,7 +334,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -356,7 +356,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -400,7 +400,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -422,7 +422,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -510,7 +510,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.3,
+      "confidence": 35.8,
       "consensus": "D",
       "status": "DISPUTE"
     },
@@ -576,7 +576,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -774,7 +774,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -840,7 +840,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -884,7 +884,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -1038,7 +1038,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -1104,7 +1104,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -1280,7 +1280,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.8,
+      "confidence": 36.2,
       "consensus": "B",
       "status": "DISPUTE"
     },
@@ -1324,7 +1324,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -1786,7 +1786,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.3,
+      "confidence": 35.8,
       "consensus": "C",
       "status": "DISPUTE"
     },
@@ -2050,7 +2050,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -2182,7 +2182,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -2204,7 +2204,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.3,
+      "confidence": 35.8,
       "consensus": "C",
       "status": "DISPUTE"
     },
@@ -2248,7 +2248,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -2358,7 +2358,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.3,
+      "confidence": 35.8,
       "consensus": "C",
       "status": "DISPUTE"
     },
@@ -2380,7 +2380,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -2424,7 +2424,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -2578,7 +2578,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -2688,7 +2688,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -2710,7 +2710,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -2732,7 +2732,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.8,
+      "confidence": 36.2,
       "consensus": "D",
       "status": "DISPUTE"
     },
@@ -2776,7 +2776,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -2842,7 +2842,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -3084,7 +3084,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -3238,7 +3238,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -3260,7 +3260,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -3414,7 +3414,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -3546,7 +3546,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -3634,7 +3634,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -3744,7 +3744,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -3854,7 +3854,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -3920,7 +3920,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -3986,7 +3986,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -4074,7 +4074,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -4250,7 +4250,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -4382,7 +4382,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -5218,7 +5218,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -6361,7 +6361,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.3,
+      "confidence": 35.8,
       "consensus": "A",
       "status": "DISPUTE"
     },
@@ -6605,7 +6605,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 21.5,
+      "confidence": 32.3,
       "consensus": "A",
       "status": "DISPUTE"
     },
@@ -6649,7 +6649,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -6869,7 +6869,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -6891,7 +6891,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -6913,7 +6913,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -6957,7 +6957,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -6979,7 +6979,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -7001,7 +7001,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -7023,7 +7023,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -7045,7 +7045,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -7221,7 +7221,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -7243,9 +7243,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.6,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 27.7,
+      "consensus": "B",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-comun-t03_11",
@@ -7353,7 +7353,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -7397,7 +7397,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -7617,7 +7617,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -7639,8 +7639,8 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.6,
-      "consensus": "C",
+      "confidence": 27.7,
+      "consensus": "B",
       "status": "DISPUTE"
     },
     {
@@ -7683,7 +7683,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -7727,9 +7727,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.6,
-      "consensus": "B",
-      "status": "UGT_OUTLIER"
+      "confidence": 27.7,
+      "consensus": "A",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-comun-t04_18",
@@ -7749,7 +7749,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "A",
       "status": "UGT_OUTLIER"
     },
@@ -7793,7 +7793,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -7837,7 +7837,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -7859,7 +7859,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -7925,7 +7925,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8013,7 +8013,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -8035,7 +8035,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -8079,7 +8079,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -8299,9 +8299,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 31.1,
-      "consensus": "A",
-      "status": "UGT_OUTLIER"
+      "confidence": 30.7,
+      "consensus": "B",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-comun-t05_14",
@@ -8343,8 +8343,8 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 31.1,
-      "consensus": "A",
+      "confidence": 30.7,
+      "consensus": "B",
       "status": "DISPUTE"
     },
     {
@@ -8365,7 +8365,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8387,8 +8387,8 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 31.1,
-      "consensus": "A",
+      "confidence": 30.7,
+      "consensus": "C",
       "status": "DISPUTE"
     },
     {
@@ -8409,9 +8409,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 31.1,
-      "consensus": "D",
-      "status": "DISPUTE"
+      "confidence": 30.7,
+      "consensus": "A",
+      "status": "STABLE"
     },
     {
       "id": "tec-comun-t06_4",
@@ -8431,7 +8431,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -8497,7 +8497,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 29.5,
+      "confidence": 40.4,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -8629,7 +8629,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8651,7 +8651,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -8761,7 +8761,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -8783,7 +8783,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8849,9 +8849,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.6,
-      "consensus": "C",
-      "status": "DISPUTE"
+      "confidence": 27.7,
+      "consensus": "B",
+      "status": "STABLE"
     },
     {
       "id": "tec-comun-t09_8",
@@ -8871,7 +8871,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8893,7 +8893,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -8915,7 +8915,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -8959,7 +8959,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -9003,7 +9003,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9047,7 +9047,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.8,
+      "confidence": 36.2,
       "consensus": "D",
       "status": "DISPUTE"
     },
@@ -9069,7 +9069,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9245,7 +9245,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9267,7 +9267,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9311,7 +9311,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9421,7 +9421,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9443,7 +9443,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9487,7 +9487,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9685,7 +9685,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9729,7 +9729,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9751,7 +9751,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -9773,7 +9773,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9795,7 +9795,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -9905,7 +9905,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9949,7 +9949,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9971,7 +9971,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -10015,8 +10015,8 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.6,
-      "consensus": "B",
+      "confidence": 27.7,
+      "consensus": "A",
       "status": "DISPUTE"
     },
     {
@@ -10037,7 +10037,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10103,7 +10103,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10125,7 +10125,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10169,7 +10169,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10191,7 +10191,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -10213,7 +10213,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10235,7 +10235,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10367,7 +10367,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -10411,7 +10411,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10433,7 +10433,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -10477,8 +10477,8 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.6,
-      "consensus": "C",
+      "confidence": 27.7,
+      "consensus": "D",
       "status": "DISPUTE"
     },
     {
@@ -10499,7 +10499,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10521,7 +10521,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -10565,7 +10565,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10609,7 +10609,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -10653,7 +10653,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10675,7 +10675,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10697,7 +10697,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -10719,7 +10719,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10741,7 +10741,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10763,7 +10763,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10785,7 +10785,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10807,9 +10807,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.6,
-      "consensus": "B",
-      "status": "UGT_OUTLIER"
+      "confidence": 27.7,
+      "consensus": "A",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-comun-t16_9",
@@ -10851,7 +10851,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -11007,7 +11007,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -11029,7 +11029,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -11051,7 +11051,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11139,7 +11139,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -11205,7 +11205,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -11249,7 +11249,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11293,7 +11293,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11425,7 +11425,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -11491,7 +11491,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -11579,7 +11579,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -11601,7 +11601,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11777,7 +11777,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -11799,7 +11799,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11953,7 +11953,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11975,7 +11975,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -12239,7 +12239,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -12261,7 +12261,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -12393,7 +12393,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -12415,7 +12415,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -12481,7 +12481,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -12569,7 +12569,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -12723,7 +12723,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -12789,7 +12789,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -12811,7 +12811,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -12855,7 +12855,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -12899,7 +12899,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -12943,7 +12943,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13009,7 +13009,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13031,7 +13031,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -13053,7 +13053,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -13119,7 +13119,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13163,7 +13163,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -13185,7 +13185,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13273,7 +13273,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -13449,7 +13449,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -13471,7 +13471,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -13515,7 +13515,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -13845,7 +13845,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -13867,7 +13867,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13889,7 +13889,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -13911,7 +13911,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13999,7 +13999,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -14197,7 +14197,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -14285,7 +14285,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -14329,7 +14329,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -14461,7 +14461,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -14527,7 +14527,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.7,
+      "confidence": 62.3,
       "consensus": "D",
       "status": "DISPUTE"
     },
@@ -14747,7 +14747,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -14835,7 +14835,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -15231,7 +15231,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -15409,7 +15409,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -15475,7 +15475,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -15541,7 +15541,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -15563,7 +15563,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -15607,7 +15607,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -15629,7 +15629,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -15673,7 +15673,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -15717,7 +15717,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -15739,7 +15739,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -15761,7 +15761,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -15783,7 +15783,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -15805,7 +15805,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -16025,7 +16025,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -16047,7 +16047,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -16069,7 +16069,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -16091,7 +16091,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -16179,7 +16179,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -16267,7 +16267,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -16289,7 +16289,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -16377,7 +16377,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -16443,7 +16443,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -16553,7 +16553,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -16575,7 +16575,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -16663,7 +16663,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -16905,7 +16905,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -17147,7 +17147,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -17169,7 +17169,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "A",
       "status": "UGT_OUTLIER"
     },
@@ -17191,7 +17191,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -17235,7 +17235,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -17323,7 +17323,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -17345,7 +17345,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -17411,7 +17411,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -17609,7 +17609,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -17697,7 +17697,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -17763,7 +17763,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -17785,7 +17785,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -17807,7 +17807,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -17939,7 +17939,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -18005,7 +18005,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 25.3,
+      "confidence": 35.8,
       "consensus": "C",
       "status": "DISPUTE"
     },
@@ -18027,7 +18027,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -18049,7 +18049,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -18203,7 +18203,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -18225,7 +18225,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -18313,7 +18313,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -18423,7 +18423,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -18665,7 +18665,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -18731,7 +18731,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -18841,7 +18841,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -18885,7 +18885,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -18951,7 +18951,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -19017,7 +19017,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 91.4,
+      "confidence": 92.2,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -19193,7 +19193,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -19215,7 +19215,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -19259,7 +19259,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -19303,7 +19303,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 41.2,
+      "confidence": 29.3,
       "consensus": "A",
       "status": "UGT_OUTLIER"
     },
@@ -19545,7 +19545,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -19611,7 +19611,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -19765,7 +19765,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": true,
-      "confidence": 85.0,
+      "confidence": 86.1,
       "consensus": "C",
       "status": "STABLE"
     }
@@ -20053,9 +20053,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 31.1,
-      "consensus": "C",
-      "status": "UGT_OUTLIER"
+      "confidence": 30.7,
+      "consensus": "A",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-t02_6",
@@ -20581,9 +20581,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 31.1,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 30.7,
+      "consensus": "A",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-t03_8",
@@ -20735,9 +20735,9 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 31.1,
-      "consensus": "C",
-      "status": "UGT_OUTLIER"
+      "confidence": 30.7,
+      "consensus": "D",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-t03_15",
@@ -23045,9 +23045,9 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 31.1,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 30.7,
+      "consensus": "C",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-t05_50",
@@ -23281,15 +23281,15 @@
       },
       "explanation": "Art. 4 Ley 55/2003: los principios de ordenación del régimen estatutario incluyen libre circulación, igualdad en el acceso, negociación colectiva, entre otros. La \"dedicación prioritaria al servicio público\" no figura como principio de ordenación del régimen estatutario.",
       "ia": "B",
-      "app": "B",
+      "app": "C",
       "k": "?",
       "o": "?",
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "C",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t06_11",
@@ -23369,15 +23369,15 @@
       },
       "explanation": "Art. 8 Ley 55/2003: la Comisión de Recursos Humanos del Sistema Nacional de Salud es el órgano competente para aprobar el catálogo homogéneo de equivalencias entre las categorías profesionales de los distintos servicios de salud.",
       "ia": "A",
-      "app": "A",
+      "app": "D",
       "k": "?",
       "o": "?",
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "D",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t06_15",
@@ -23501,15 +23501,15 @@
       },
       "explanation": "Art. 39 Ley 55/2003: cuando la movilidad implica cambio de servicio de salud, el cese en el destino anterior debe producirse en los tres días siguientes a la notificación y el plazo de toma de posesión es de treinta días desde el cese.",
       "ia": "A",
-      "app": "A",
+      "app": "C",
       "k": "?",
       "o": "?",
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "C",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t06_21",
@@ -23589,15 +23589,15 @@
       },
       "explanation": "Art. 57.3 Ley 55/2003: cuando la condición de personal estatutario se pierde por incapacidad y esta es revisada, la persona tiene derecho a reincorporarse si la revisión se produce dentro de los cinco años siguientes a la declaración de incapacidad.",
       "ia": "A",
-      "app": "A",
+      "app": "D",
       "k": "?",
       "o": "?",
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "D",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t06_25",
@@ -23611,15 +23611,15 @@
       },
       "explanation": "Art. 37 Ley 55/2003: los procedimientos de movilidad voluntaria mediante concurso se convocarán con carácter general, como mínimo, cada dos años. La frecuencia preferente según la norma es anual.",
       "ia": "A",
-      "app": "A",
+      "app": "B",
       "k": "?",
       "o": "?",
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "B",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t06_26",
@@ -23919,15 +23919,15 @@
       },
       "explanation": "Art. 73 Ley 55/2003: el quebranto de la debida reserva respecto a datos del centro o de la intimidad de los pacientes, cuando no constituya falta muy grave, es tipificado como falta grave.",
       "ia": "B",
-      "app": "B",
+      "app": "A",
       "k": "?",
       "o": "?",
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "A",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t06_40",
@@ -23941,15 +23941,15 @@
       },
       "explanation": "Art. 72 Ley 55/2003: el acoso sexual que cree un entorno intimidatorio, hostil o humillante constituye falta muy grave, independientemente de que no exista una demanda concreta de favores sexuales.",
       "ia": "A",
-      "app": "A",
+      "app": "B",
       "k": "?",
       "o": "?",
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "B",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t06_41",
@@ -24161,15 +24161,15 @@
       },
       "explanation": "Art. 37.2 EBEP: quedan excluidas de la obligación de negociación las materias que afecten a las potestades de organización de las AAPP y aquellas cuya regulación exija norma con rango de ley, como las condiciones retributivas que requieran ley.",
       "ia": "C",
-      "app": "C",
+      "app": "A",
       "k": "?",
       "o": "?",
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "A",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t06_51",
@@ -24315,15 +24315,15 @@
       },
       "explanation": "Decreto 186/2025: la aprobación de la plantilla funcional de cada organización de servicios de Osakidetza corresponde al Consejo de Administración del Ente Público.",
       "ia": "C",
-      "app": "C",
+      "app": "A",
       "k": "?",
       "o": "?",
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "A",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t07_5",
@@ -24579,15 +24579,15 @@
       },
       "explanation": "LO 7/2021 y normativa de protección de datos: las infracciones graves en materia de protección de datos prescriben a los tres años desde que se cometieron o desde que el responsable pudo ser conocido.",
       "ia": "C",
-      "app": "C",
+      "app": "D",
       "k": "?",
       "o": "?",
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "D",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t07_17",
@@ -24601,15 +24601,15 @@
       },
       "explanation": "Normativa de protección de datos (LOPDGDD y RGPD): las sanciones impuestas en aplicación del RGPD prescriben en función de su cuantía. Las sanciones de importe medio (como 50.000 euros) prescriben a los tres años.",
       "ia": "C",
-      "app": "C",
+      "app": "D",
       "k": "?",
       "o": "?",
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "D",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t07_18",
@@ -24645,15 +24645,15 @@
       },
       "explanation": "Art. 12 LGSS: no tienen la consideración de trabajadores por cuenta ajena el cónyuge, los descendientes y demás parientes hasta segundo grado que convivan y trabajen con el empresario autónomo, salvo que se pruebe la condición de asalariados. Las tres opciones anteriores contienen inexactitudes.",
       "ia": "D",
-      "app": "D",
+      "app": "C",
       "k": "?",
       "o": "?",
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "C",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t07_20",
@@ -24711,15 +24711,15 @@
       },
       "explanation": "Art. 10.2 LGSS: los regímenes especiales que deben tender a la homogeneidad con el Régimen General son el RETA (autónomos) y el Régimen Especial del Mar. El personal funcionario tiene régimen propio diferente.",
       "ia": "C",
-      "app": "C",
+      "app": "A",
       "k": "?",
       "o": "?",
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "A",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t07_23",
@@ -24997,15 +24997,15 @@
       },
       "explanation": "Art. 22 Ley 8/1997: en Osakidetza se mantendrá un marco único de negociación colectiva, garantizando la uniformidad de las condiciones de trabajo para todo el personal del ente público.",
       "ia": "C",
-      "app": "C",
+      "app": "A",
       "k": "?",
       "o": "?",
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 66.1,
+      "confidence": 73.5,
       "consensus": "A",
-      "status": "FIX_SUGGESTED"
+      "status": "STABLE"
     },
     {
       "id": "tec-t08_9",
@@ -28017,7 +28017,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 38.2,
+      "confidence": 49.8,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -30613,7 +30613,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 38.2,
+      "confidence": 49.8,
       "consensus": "D",
       "status": "DISPUTE"
     },
@@ -30723,7 +30723,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 38.2,
+      "confidence": 49.8,
       "consensus": "B",
       "status": "DISPUTE"
     },
@@ -30745,7 +30745,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 38.2,
+      "confidence": 49.8,
       "consensus": "B",
       "status": "DISPUTE"
     },

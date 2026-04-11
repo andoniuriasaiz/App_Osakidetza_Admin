@@ -42,7 +42,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 64.3,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "C",
@@ -146,7 +146,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "B",
@@ -354,7 +354,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "B",
@@ -562,7 +562,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "D",
@@ -665,7 +665,7 @@
     "sourceStatus": "UGT_OUTLIER",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 36.3,
+    "sourceConfidence": 31.1,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -1081,7 +1081,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "B",
@@ -1133,7 +1133,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "A",
@@ -1340,7 +1340,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 64.3,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "B",
@@ -1391,7 +1391,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 64.3,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "D",
@@ -1755,7 +1755,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "A",
@@ -1807,7 +1807,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "C",
@@ -1910,7 +1910,7 @@
     "sourceStatus": "UGT_OUTLIER",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 36.3,
+    "sourceConfidence": 31.1,
     "sourceVotes": {
       "ia": "D",
       "k": "D",
@@ -2273,7 +2273,7 @@
     "sourceStatus": "UGT_OUTLIER",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 36.3,
+    "sourceConfidence": 31.1,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -3365,7 +3365,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "B",
@@ -3469,7 +3469,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "D",
@@ -4093,7 +4093,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "A",
@@ -5132,7 +5132,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 64.3,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -5392,7 +5392,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "B",
@@ -5444,7 +5444,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
@@ -5807,7 +5807,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 64.3,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "A",
@@ -7418,7 +7418,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 64.3,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -7521,7 +7521,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 64.3,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -7676,7 +7676,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 64.3,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
@@ -7727,7 +7727,7 @@
     "sourceStatus": "UGT_OUTLIER",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 36.3,
+    "sourceConfidence": 31.1,
     "sourceVotes": {
       "ia": "D",
       "k": "D",
@@ -7779,7 +7779,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 62.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "D",
@@ -8270,10 +8270,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "La dedicación prioritaria al servicio público."
+      "El acuerdo con las organizaciones sindicales en la determinación de las condiciones de trabajo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -8283,12 +8283,13 @@
     "explanation": "Art. 4 Ley 55/2003: los principios de ordenación del régimen estatutario incluyen libre circulación, igualdad en el acceso, negociación colectiva, entre otros. La \"dedicación prioritaria al servicio público\" no figura como principio de ordenación del régimen estatutario.",
     "officialId": 160,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "B",
       "k": "?",
@@ -8473,10 +8474,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "A la Comisión de Recursos Humanos del Sistema Nacional de Salud."
+      "Todas las respuestas anteriores son incorrectas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -8486,12 +8487,13 @@
     "explanation": "Art. 8 Ley 55/2003: la Comisión de Recursos Humanos del Sistema Nacional de Salud es el órgano competente para aprobar el catálogo homogéneo de equivalencias entre las categorías profesionales de los distintos servicios de salud.",
     "officialId": 164,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "A",
       "k": "?",
@@ -8778,10 +8780,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Treinta días, a contar desde el día del cese en el destino anterior, que deberá tener lugar en los tres días siguientes a la notificación o publicación del nuevo destino adjudicado."
+      "Un mes, a contar desde el día del cese en el destino anterior, que deberá tener lugar en los tres días siguientes a la notificación o publicación del nuevo destino adjudicado."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -8791,12 +8793,13 @@
     "explanation": "Art. 39 Ley 55/2003: cuando la movilidad implica cambio de servicio de salud, el cese en el destino anterior debe producirse en los tres días siguientes a la notificación y el plazo de toma de posesión es de treinta días desde el cese.",
     "officialId": 170,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "A",
       "k": "?",
@@ -8981,10 +8984,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Dentro de los cinco años siguientes a la fecha de la declaración de incapacidad."
+      "Dentro de los cuatro años siguientes a la fecha de la declaración de incapacidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -8994,12 +8997,13 @@
     "explanation": "Art. 57.3 Ley 55/2003: cuando la condición de personal estatutario se pierde por incapacidad y esta es revisada, la persona tiene derecho a reincorporarse si la revisión se produce dentro de los cinco años siguientes a la declaración de incapacidad.",
     "officialId": 174,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "A",
       "k": "?",
@@ -9031,10 +9035,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Cada año."
+      "Cada dos años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -9044,12 +9048,13 @@
     "explanation": "Art. 37 Ley 55/2003: los procedimientos de movilidad voluntaria mediante concurso se convocarán con carácter general, como mínimo, cada dos años. La frecuencia preferente según la norma es anual.",
     "officialId": 175,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "A",
       "k": "?",
@@ -9744,10 +9749,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Constituye falta grave."
+      "Constituye falta muy grave."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -9757,12 +9762,13 @@
     "explanation": "Art. 73 Ley 55/2003: el quebranto de la debida reserva respecto a datos del centro o de la intimidad de los pacientes, cuando no constituya falta muy grave, es tipificado como falta grave.",
     "officialId": 189,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "B",
       "k": "?",
@@ -9794,10 +9800,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Constituye falta muy grave."
+      "Constituye falta grave."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -9807,12 +9813,13 @@
     "explanation": "Art. 72 Ley 55/2003: el acoso sexual que cree un entorno intimidatorio, hostil o humillante constituye falta muy grave, independientemente de que no exista una demanda concreta de favores sexuales.",
     "officialId": 190,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "A",
       "k": "?",
@@ -10303,10 +10310,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Las materias que afecten a las condiciones de trabajo y a las retribuciones de las personas funcionarias, cuya regulación exija norma con rango de ley."
+      "La regulación y determinación concreta de los sistemas, criterios, órganos y procedimientos de acceso al empleo público y la promoción profesional."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -10316,12 +10323,13 @@
     "explanation": "Art. 37.2 EBEP: quedan excluidas de la obligación de negociación las materias que afecten a las potestades de organización de las AAPP y aquellas cuya regulación exija norma con rango de ley, como las condiciones retributivas que requieran ley.",
     "officialId": 200,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "C",
       "k": "?",
@@ -10659,10 +10667,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "El Consejo de Administración de Osakidetza."
+      "La Dirección Gerencia de la propia Organización de Servicios."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -10672,12 +10680,13 @@
     "explanation": "Decreto 186/2025: la aprobación de la plantilla funcional de cada organización de servicios de Osakidetza corresponde al Consejo de Administración del Ente Público.",
     "officialId": 207,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "C",
       "k": "?",
@@ -11270,10 +11279,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Prescriben a los 3 años."
+      "Prescriben a los 2 años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -11283,12 +11292,13 @@
     "explanation": "LO 7/2021 y normativa de protección de datos: las infracciones graves en materia de protección de datos prescriben a los tres años desde que se cometieron o desde que el responsable pudo ser conocido.",
     "officialId": 219,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "C",
       "k": "?",
@@ -11320,10 +11330,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Prescriben a los 3 años."
+      "Prescriben a los 2 años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -11333,12 +11343,13 @@
     "explanation": "Normativa de protección de datos (LOPDGDD y RGPD): las sanciones impuestas en aplicación del RGPD prescriben en función de su cuantía. Las sanciones de importe medio (como 50.000 euros) prescriben a los tres años.",
     "officialId": 220,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "C",
       "k": "?",
@@ -11421,10 +11432,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Las tres afirmaciones anteriores son falsas."
+      "Si la persona empresaria es trabajadora autónoma, podrá contratar como trabajadora/or por cuenta ajena a las hijas e hijos menores de 30 años aunque convivan con ella."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -11434,12 +11445,13 @@
     "explanation": "Art. 12 LGSS: no tienen la consideración de trabajadores por cuenta ajena el cónyuge, los descendientes y demás parientes hasta segundo grado que convivan y trabajen con el empresario autónomo, salvo que se pruebe la condición de asalariados. Las tres opciones anteriores contienen inexactitudes.",
     "officialId": 222,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "D",
       "k": "?",
@@ -11573,10 +11585,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Personas trabajadoras por cuenta propia o autónomas y personas trabajadoras del mar."
+      "Personas trabajadoras del mar y personal funcionario público, civil y militar."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -11586,12 +11598,13 @@
     "explanation": "Art. 10.2 LGSS: los regímenes especiales que deben tender a la homogeneidad con el Régimen General son el RETA (autónomos) y el Régimen Especial del Mar. El personal funcionario tiene régimen propio diferente.",
     "officialId": 225,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "C",
       "k": "?",
@@ -12235,10 +12248,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Se mantendrá en todo caso un marco único de negociación colectiva en el ente Osakidetza."
+      "Los acuerdos requieren para su validez la aprobación expresa y formal del Consejo de Gobierno."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -12248,12 +12261,13 @@
     "explanation": "Art. 22 Ley 8/1997: en Osakidetza se mantendrá un marco único de negociación colectiva, garantizando la uniformidad de las condiciones de trabajo para todo el personal del ente público.",
     "officialId": 238,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "DISPUTE",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 38.5,
+    "sourceConfidence": 66.1,
     "sourceVotes": {
       "ia": "C",
       "k": "?",
@@ -14953,7 +14967,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -15004,7 +15018,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -15361,7 +15375,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -17401,7 +17415,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -18727,7 +18741,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -19242,7 +19256,7 @@
     "sourceStatus": "STABLE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 41.3,
+    "sourceConfidence": 38.2,
     "sourceVotes": {
       "ia": "?",
       "k": "A",
@@ -19443,7 +19457,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -19494,7 +19508,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -20259,7 +20273,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -20310,7 +20324,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -21228,7 +21242,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -21279,7 +21293,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -21534,7 +21548,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -23115,7 +23129,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -24288,7 +24302,7 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
     "o_reliable": true,
     "sourceConfidence": 100.0,
@@ -25270,7 +25284,7 @@
     "sourceStatus": "DISPUTE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 41.3,
+    "sourceConfidence": 38.2,
     "sourceVotes": {
       "ia": "?",
       "k": "B",
@@ -25527,7 +25541,7 @@
     "sourceStatus": "DISPUTE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 41.3,
+    "sourceConfidence": 38.2,
     "sourceVotes": {
       "ia": "?",
       "k": "A",
@@ -25577,7 +25591,7 @@
     "sourceStatus": "DISPUTE",
     "sourceTrio": false,
     "o_reliable": true,
-    "sourceConfidence": 41.3,
+    "sourceConfidence": 38.2,
     "sourceVotes": {
       "ia": "?",
       "k": "C",

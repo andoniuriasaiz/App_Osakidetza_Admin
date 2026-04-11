@@ -43,7 +43,7 @@
       "Osasuntest",
       "IA"
     ],
-    "sourceConfidence": 55.2,
+    "sourceConfidence": 41.2,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -202,7 +202,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "D",
@@ -361,7 +361,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "D",
@@ -414,7 +414,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -520,7 +520,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "D",
@@ -573,7 +573,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
@@ -679,7 +679,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "A",
@@ -785,7 +785,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
@@ -838,7 +838,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "C",
@@ -891,7 +891,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -944,7 +944,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "D",
@@ -997,7 +997,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "D",
@@ -1527,7 +1527,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -1580,7 +1580,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "A",
@@ -1633,7 +1633,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "A",
@@ -1686,7 +1686,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "C",
@@ -1731,14 +1731,14 @@
     "explanation": "Diagnóstico NO confirmatorio -> libertad de elección de centro.",
     "originalId": 34,
     "sourceTrio": false,
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 41.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "B",
@@ -1897,7 +1897,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "D",
@@ -2109,7 +2109,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "C",
@@ -2162,7 +2162,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "A",
@@ -2374,7 +2374,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "A",
@@ -2533,7 +2533,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "B",
@@ -2798,7 +2798,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "D",
@@ -2851,7 +2851,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "B",
@@ -3063,7 +3063,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "C",
@@ -3645,7 +3645,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 74.6,
+    "sourceConfidence": 91.4,
     "sourceVotes": {
       "ia": "B",
       "k": "B",
@@ -4228,7 +4228,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "D",
@@ -4280,7 +4280,7 @@
       "Osasuntest",
       "IA"
     ],
-    "sourceConfidence": 55.2,
+    "sourceConfidence": 41.2,
     "sourceVotes": {
       "ia": "A",
       "k": "A",
@@ -4333,7 +4333,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "B",
@@ -4438,7 +4438,7 @@
       "Osasuntest",
       "IA"
     ],
-    "sourceConfidence": 55.2,
+    "sourceConfidence": 41.2,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -4650,7 +4650,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "B",
@@ -4703,7 +4703,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "A",
@@ -4862,7 +4862,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "D",
@@ -5339,7 +5339,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "B",
@@ -5550,7 +5550,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 74.6,
+    "sourceConfidence": 91.4,
     "sourceVotes": {
       "ia": "D",
       "k": "D",
@@ -5709,7 +5709,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "D",
@@ -5761,7 +5761,7 @@
       "Osasuntest",
       "IA"
     ],
-    "sourceConfidence": 55.2,
+    "sourceConfidence": 41.2,
     "sourceVotes": {
       "ia": "B",
       "k": "B",
@@ -5813,7 +5813,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 74.6,
+    "sourceConfidence": 91.4,
     "sourceVotes": {
       "ia": "B",
       "k": "B",
@@ -5911,14 +5911,14 @@
     "explanation": "D.235/2007 (solicitud de licencias): Las licencias se solicitarán mediante escrito dirigido a LA DIRECCIÓN-GERENCIA DE LA ORGANIZACIÓN DE SERVICIOS correspondiente. No a la Dirección de RRHH (a) ni al responsable de unidad (c). Respuesta D.",
     "originalId": 113,
     "sourceTrio": false,
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 33.1,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "D",
@@ -5963,14 +5963,14 @@
     "explanation": "D.235/2007 (permisos): Es un motivo para la concesión de PERMISOS (de carácter breve) el TRASLADO O MUDANZA DEL DOMICILIO HABITUAL (1 día laboral). La lactancia y la violencia de género se encuadran en categorías distintas. Respuesta B.",
     "originalId": 114,
     "sourceTrio": false,
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 33.1,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "B",
@@ -6068,14 +6068,14 @@
     "explanation": "D.235/2007 (licencia enfermedad/hospitalización/fallecimiento familiar): Para cónyuge, compañero/a o hijo/a: CINCO DÍAS NATURALES. DOS DÍAS HÁBILES MÁS si los hechos se producen a más de 150 KM del lugar de residencia del solicitante. Respuesta D.",
     "originalId": 116,
     "sourceTrio": false,
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 41.0,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "A",
@@ -6128,7 +6128,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "D",
@@ -6284,7 +6284,7 @@
     "sourceSources": [
       "UGT"
     ],
-    "sourceConfidence": 13.1,
+    "sourceConfidence": 25.3,
     "sourceVotes": {
       "ia": "D",
       "k": "A",
@@ -6336,7 +6336,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 74.6,
+    "sourceConfidence": 91.4,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -6388,7 +6388,7 @@
       "Osasuntest",
       "IA"
     ],
-    "sourceConfidence": 55.2,
+    "sourceConfidence": 41.2,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -6592,14 +6592,14 @@
     "explanation": "Decreto 255/1997, art. 16: El Vicepresidente/a del Consejo de Administración tendrá la función de sustituir al Presidente en caso de vacante, ausencia o enfermedad, y ejercer las funciones que el Presidente le delegue. La A es correcta. Respuesta B.",
     "originalId": 126,
     "sourceTrio": false,
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 33.1,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "B",
@@ -6644,14 +6644,14 @@
     "explanation": "Decreto 255/1997, art. 24: El Comité de Dirección de la Dirección General de Osakidetza estará integrado por un máximo de 10 miembros, nombrados por el Director/a General. La C es la respuesta correcta. Respuesta C.",
     "originalId": 127,
     "sourceTrio": false,
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 33.1,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -6757,7 +6757,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "B",
@@ -6809,7 +6809,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 74.6,
+    "sourceConfidence": 91.4,
     "sourceVotes": {
       "ia": "D",
       "k": "D",
@@ -7020,7 +7020,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 74.6,
+    "sourceConfidence": 91.4,
     "sourceVotes": {
       "ia": "D",
       "k": "D",
@@ -7284,7 +7284,7 @@
       "Osasuntest",
       "IA"
     ],
-    "sourceConfidence": 55.2,
+    "sourceConfidence": 41.2,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -7867,7 +7867,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -8025,7 +8025,7 @@
       "Osasuntest",
       "IA"
     ],
-    "sourceConfidence": 55.2,
+    "sourceConfidence": 41.2,
     "sourceVotes": {
       "ia": "B",
       "k": "B",
@@ -8123,14 +8123,14 @@
     "explanation": "Art. 13.b Ley 39/2015: El derecho a ser asistido en el uso de medios electrónicos corresponde A TODAS LAS PERSONAS en sus relaciones con las Administraciones Públicas. Respuesta B.",
     "originalId": 155,
     "sourceTrio": false,
-    "sourceStatus": "FIX_SUGGESTED",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 33.1,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "B",
@@ -8288,7 +8288,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 74.6,
+    "sourceConfidence": 91.4,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -8394,7 +8394,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "A",
       "k": "B",
@@ -8553,7 +8553,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -8711,7 +8711,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 74.6,
+    "sourceConfidence": 91.4,
     "sourceVotes": {
       "ia": "C",
       "k": "C",
@@ -9135,7 +9135,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
@@ -9188,7 +9188,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "D",
       "k": "B",
@@ -9294,7 +9294,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "C",
       "k": "B",
@@ -9399,7 +9399,7 @@
       "Osasuntest",
       "IA"
     ],
-    "sourceConfidence": 55.2,
+    "sourceConfidence": 41.2,
     "sourceVotes": {
       "ia": "A",
       "k": "A",
@@ -9451,7 +9451,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 42.6,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
@@ -9503,7 +9503,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 42.6,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
@@ -9980,7 +9980,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
@@ -10139,7 +10139,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "A",
@@ -10510,7 +10510,7 @@
       "UGT",
       "IA"
     ],
-    "sourceConfidence": 72.7,
+    "sourceConfidence": 85.0,
     "sourceVotes": {
       "ia": "B",
       "k": "C",
