@@ -36,13 +36,20 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: Según el diagnóstico, en enero de 2025 la plantilla de Osakidetza estaba compuesta por un 75% de mujeres y un 25% de hombres. Respuesta B.",
     "originalId": 246,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t15_2",
@@ -81,14 +88,21 @@
     "explanation": "Capacitación en igualdad = formación obligatoria de todo el personal.",
     "originalId": 247,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t15_3",
@@ -127,14 +141,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta C.",
     "originalId": 248,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t15_4",
@@ -173,14 +194,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: El Plan contempla medidas para reducir la brecha de género en los puestos de responsabilidad y dirección, donde los hombres están sobrerrepresentados pese a ser minoría en la plantilla. Respuesta A.",
     "originalId": 249,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t15_5",
@@ -219,14 +247,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: El Plan incluye un protocolo de actuación ante el acoso sexual y el acoso por razón de sexo, contemplando medidas de prevención, detección y respuesta. Respuesta D.",
     "originalId": 250,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t15_6",
@@ -265,14 +300,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La conciliación de la vida laboral, familiar y personal es uno de los ejes del Plan, contemplando medidas para facilitar la corresponsabilidad. Respuesta B.",
     "originalId": 251,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t15_7",
@@ -311,13 +353,20 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
     "originalId": 252,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t15_8",
@@ -356,14 +405,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
     "originalId": 253,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t15_9",
@@ -402,14 +458,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: El seguimiento del Plan se realizará a través de una Comisión de Seguimiento, con informes periódicos y evaluación final. Respuesta D.",
     "originalId": 254,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t15_10",
@@ -448,13 +511,20 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La segregación ocupacional (concentración de mujeres en determinadas categorías y hombres en otras) es una de las desigualdades de género identificadas en el diagnóstico del Plan. Respuesta B.",
     "originalId": 255,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   }
 ]

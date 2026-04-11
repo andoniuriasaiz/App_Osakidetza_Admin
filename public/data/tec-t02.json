@@ -40,9 +40,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t02_2",
@@ -85,9 +92,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t02_3",
@@ -113,10 +127,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "La bandera del País Vasco es la bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo."
+      "Podrán agregarse a la Comunidad Autónoma del País Vasco otros territorios o municipios que estuvieran enclavados parcialmente o en su totalidad dentro del territorio de la misma, siempre que lo aprueben el Parlamento Vasco y las Cortes Generales."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -127,11 +141,19 @@
     "officialId": 11,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t02_4",
@@ -174,9 +196,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t02_5",
@@ -215,11 +244,19 @@
     "explanation": "La DT 4ª CE prevé el procedimiento por el que Navarra podría incorporarse al País Vasco si así lo decidiesen sus órganos forales y lo ratificase el pueblo navarro.",
     "officialId": 13,
     "sourceSources": [
-      "UGT"
+      "Kaixo",
+      "IA"
     ],
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "UGT_OUTLIER",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 31.1,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t02_6",
@@ -262,9 +299,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t02_7",
@@ -307,9 +351,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t02_8",
@@ -352,9 +403,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t02_9",
@@ -397,9 +455,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t02_10",
@@ -442,9 +507,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t02_11",
@@ -487,9 +559,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t02_12",
@@ -532,9 +611,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t02_13",
@@ -560,10 +646,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "La propuesta de reforma corresponde al Parlamento Vasco, al Gobierno Vasco o a las Cortes Generales y, una vez aprobada por el Parlamento Vasco, podrá ser sometida a referéndum."
+      "El Gobierno Vasco podrá ser facultado, por delegación expresa del Estado, para convocar el referéndum necesario para la reforma del Estatuto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -574,11 +660,19 @@
     "officialId": 21,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t02_14",
@@ -604,10 +698,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Legislación del Estado sobre productos farmacéuticos."
+      "Organización del crédito, banca y seguros."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -618,11 +712,19 @@
     "officialId": 22,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t02_15",
@@ -665,9 +767,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t02_16",
@@ -710,9 +819,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t02_17",
@@ -755,9 +871,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t02_18",
@@ -799,9 +922,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "CONSENSUS",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t02_19",
@@ -843,9 +973,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "CONSENSUS",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t02_20",
@@ -888,9 +1025,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t02_21",
@@ -933,9 +1077,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t02_22",
@@ -978,8 +1129,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   }
 ]

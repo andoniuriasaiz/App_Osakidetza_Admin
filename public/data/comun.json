@@ -36,13 +36,20 @@
     "explanation": "Art. 2 Ley 44/2003: la colegiación es requisito imprescindible cuando una ley estatal la establezca.",
     "originalId": 1,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t01_2",
@@ -81,14 +88,21 @@
     "explanation": "Art. 2 Ley 44/2003: El seguro de responsabilidad se exige 'cuando se ejerza la profesión en el ámbito de la asistencia sanitaria PÚBLICA', no privada. La opción C es la única que recoge correctamente el ámbito público y acepta tanto seguro individual como aval u otra garantía financiera de protección colectiva. Respuesta B.",
     "originalId": 2,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t01_3",
@@ -127,14 +141,21 @@
     "explanation": "Art. 2.3 Ley 44/2003: Las corporaciones colegiales remitirán las resoluciones sancionadoras 'cuando una ley estatal establezca para este ejercicio la obligación de colegiación'. La opción C añade la condición 'siempre que la persona colegiada no se oponga explícitamente', lo cual NO está en la ley — es la afirmación FALSA. La ley no contempla ese derecho de oposición. Respuesta C.",
     "originalId": 3,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t01_4",
@@ -173,13 +194,20 @@
     "explanation": "Art. 3 bis Ley 44/2003 (añadido por Ley 6/2023): El órgano del Registro Estatal de Profesionales Sanitarios podrá consultar los datos del DNI/NIE del personal sanitario ante el organismo competente en identificación de personas para verificar la autenticidad de los documentos aportados. Respuesta A.",
     "originalId": 4,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t01_5",
@@ -218,14 +246,21 @@
     "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta A.",
     "originalId": 5,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t01_6",
@@ -264,14 +299,21 @@
     "explanation": "Art. 5.1.b Ley 44/2003: El personal facilitará a las personas pacientes el ejercicio del derecho a conocer 'el nombre, la titulación y la especialidad del personal sanitario que les atiende, así como la categoría y función de dicho personal, si así estuvieran definidas en su centro o institución'. NO incluye 'hoja de servicios'. La opción C es la correcta. Respuesta C.",
     "originalId": 6,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t01_7",
@@ -310,14 +352,21 @@
     "explanation": "Art. 5.1.c Ley 44/2003: El derecho a la renuncia requiere que NO conlleve desatención y que quede CONSTANCIA FORMAL. La opción C ('aunque no sea formal') es INCORRECTA. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to C based on Kaixo/Osasun consensus.",
     "originalId": 7,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t01_8",
@@ -356,14 +405,21 @@
     "explanation": "La Ley 44/2003 remite expresamente a la Ley 41/2002 para el derecho de información.",
     "originalId": 8,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t01_9",
@@ -402,14 +458,21 @@
     "explanation": "La dispensación de medicamentos es función del farmacéutico (incorrecta para médico).",
     "originalId": 9,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t01_10",
@@ -448,14 +511,21 @@
     "explanation": "Art. 3 ter Ley 44/2003: 'Los centros sanitarios revisarán que el personal sanitario de su plantilla cumple los requisitos necesarios para ejercer la profesión (…) cada TRES años como mínimo.' Respuesta B.",
     "originalId": 10,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t01_11",
@@ -494,13 +564,20 @@
     "explanation": "Art. 9.1 Ley 44/2003: 'Cuando una actuación sanitaria se realice por un equipo de profesionales, se articulará de forma COLEGIADA o JERARQUIZADA, atendiendo a los criterios de conocimientos y competencia...'. La opción A dice 'preferentemente de forma jerarquizada', lo que es INCORRECTO — la ley no establece preferencia por la forma jerarquizada; son dos formas alternativas. Respuesta B.",
     "originalId": 11,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t01_12",
@@ -539,14 +616,21 @@
     "explanation": "Art. 10.2 Ley 44/2003: Las funciones de gestión clínica comprenden: jefatura/coordinación de unidades y equipos sanitarios, tutorías y organización de formación especializada, continuada e investigación, participación en comités internos. La 'creación y difusión de contenidos en redes sociales' NO está contemplada como función de gestión clínica. Respuesta C.",
     "originalId": 12,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t01_13",
@@ -585,13 +669,20 @@
     "explanation": "Art. 10.3 Ley 44/2003: 'El ejercicio de funciones de gestión clínica estará sometido a una evaluación del desempeño y de los resultados que tendrá lugar CADA CUATRO AÑOS.' Respuesta C.",
     "originalId": 13,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t01_14",
@@ -630,14 +721,21 @@
     "explanation": "Art. 10.4 Ley 44/2003: 'El reconocimiento del desempeño de funciones de gestión clínica será objeto del oportuno reconocimiento por parte del centro, del servicio de salud y del conjunto del sistema sanitario, en la forma en que en cada comunidad autónoma se determine.' Respuesta B.",
     "originalId": 14,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t01_15",
@@ -682,7 +780,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_1",
@@ -721,13 +826,20 @@
     "explanation": "Art. 85 Ley 8/1997: Los convenios con el Instituto de Salud Carlos III y otros centros de investigación se formalizarán para: desarrollo de programas de investigación, dotación de plazas vinculadas de investigación, y formación de personal investigador. La 'designación de la tutoría de la investigación' NO aparece como finalidad de estos convenios. Respuesta D.",
     "originalId": 16,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "B",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t01_16",
@@ -766,14 +878,21 @@
     "explanation": "C es el principio falso: no existe deber de informar sobre demandas de responsabilidad administrativa.",
     "originalId": 17,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t01_17",
@@ -812,14 +931,21 @@
     "explanation": "Art. 8 Ley 44/2003: La eficacia organizativa requiere: normas de funcionamiento interno escritas, definición de objetivos y funciones generales y específicas, cumplimentación de documentación asistencial. Los 'controles periódicos sobre la eficiencia del personal profesional sanitario' como requisito de eficacia organizativa NO aparecen en este artículo. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 18,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t01_18",
@@ -858,14 +984,21 @@
     "explanation": "Art. 10.3 Ley 44/2003: Los equipos de atención primaria son grupos de profesionales sanitarios y no sanitarios (no solo sanitarios) con organización jerarquizada. La afirmación de que el médico de familia siempre ostenta la coordinación del equipo es INCORRECTA (puede recaer en otro profesional según la organización). La D es la opción incorrecta. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 19,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t01_19",
@@ -904,14 +1037,21 @@
     "explanation": "Art. 16.4 Ley 44/2003: Los centros acreditados para formación continuada no están obligados por ley a tener comisión de docencia ni jefaturas de estudios — eso es solo para formación especializada (art. 16.3). Tampoco se exige figura de defensoría del alumnado. La opción D ('todas las anteriores son incorrectas') es la correcta, ya que la ley no impone esas estructuras para formación continuada. Respuesta D.",
     "originalId": 20,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t02_1",
@@ -950,14 +1090,21 @@
     "explanation": "Art. 2 Ley 16/2003: aplicación a servicios públicos y privados en seguridad y calidad.",
     "originalId": 21,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t02_2",
@@ -996,14 +1143,21 @@
     "explanation": "Art. 3 bis Ley 16/2003 (tras reforma): Para hacer efectivo el derecho a la protección de la salud son titulares: los españoles con residencia habitual en España (a), quienes tengan reconocido su derecho por otro título jurídico aunque no residan en España (b), y extranjeros con residencia legal y habitual en España sin otra cobertura obligatoria (c). Las tres son correctas → Respuesta D.",
     "originalId": 22,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t02_3",
@@ -1042,12 +1196,18 @@
     "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
     "originalId": 23,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 13.1,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t02_4",
@@ -1086,12 +1246,19 @@
     "explanation": "Art. 8bis SNS: tres modalidades (básica, suplementaria, accesorios).",
     "originalId": 24,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 73.8,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t02_5",
@@ -1130,13 +1297,20 @@
     "explanation": "Art. 8bis: la cartera básica se aprueba por Real Decreto.",
     "originalId": 25,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t02_6",
@@ -1175,14 +1349,21 @@
     "explanation": "Cartera básica = asistenciales + transporte urgente. Farmacia/Ortoprotésica son suplementaria.",
     "originalId": 26,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t02_7",
@@ -1221,14 +1402,21 @@
     "explanation": "Art. 8 ter Ley 16/2003: La cartera común suplementaria incluye 'la prestación farmacéutica, la prestación ortoprotésica y la prestación con productos dietéticos.' Todas tres. Respuesta D.",
     "originalId": 27,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t02_8",
@@ -1267,14 +1455,21 @@
     "explanation": "Servicios accesorios sujetos a aportación y/o reembolso.",
     "originalId": 28,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t02_9",
@@ -1313,14 +1508,21 @@
     "explanation": "Art. 7.2 Ley 16/2003: Las comunidades autónomas podrán aprobar sus carteras de servicios que incluirán, cuando menos, 'la cartera común de servicios del Sistema Nacional de Salud en sus modalidades básica de servicios asistenciales, suplementaria y de servicios accesorios.' Respuesta C.",
     "originalId": 29,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t02_10",
@@ -1359,14 +1561,21 @@
     "explanation": "Art. 20.2: las CCAA SÍ deben informar motivadamente al CISNS.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t02_11",
@@ -1405,14 +1614,21 @@
     "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta D.",
     "originalId": 31,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t02_12",
@@ -1451,14 +1667,21 @@
     "explanation": "La Red de Agencias de ETS participa en la evaluación, no es preceptiva solitariamente.",
     "originalId": 32,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t02_13",
@@ -1497,14 +1720,21 @@
     "explanation": "Exclusión solo procede por falta de eficacia/eficiencia o balance riesgo desfavorable.",
     "originalId": 33,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t02_14",
@@ -1530,10 +1760,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud, acreditados por el Ministerio de Sanidad y Consumo y financiados por la Comunidad Autónoma donde se ubiquen."
+      "Serán designados en el seno del Consejo Interterritorial del Sistema Nacional de Salud y acreditados por el Ministerio de Sanidad y Consumo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1543,12 +1773,20 @@
     "explanation": "Art. 15 Ley 16/2003: La atención de urgencia se presta al paciente en los casos en que su situación clínica obliga a una atención sanitaria inmediata, garantizándose en todos los centros sanitarios públicos, privados y en los espacios públicos. La B recoge correctamente la definición y alcance. Respuesta B.",
     "originalId": 34,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "FIX_SUGGESTED",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 41.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t02_15",
@@ -1587,14 +1825,21 @@
     "explanation": "Financiación medicamentos = competencia Ministerio de Sanidad.",
     "originalId": 35,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t02_16",
@@ -1633,14 +1878,21 @@
     "explanation": "Art. 37: la Comisión de RRHH del SNS diseña programas de formación.",
     "originalId": 36,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t02_17",
@@ -1679,14 +1931,21 @@
     "explanation": "Art. 12 Ley 16/2003: La atención primaria es el nivel básico e inicial de atención, garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. La A recoge estas características. Respuesta C.",
     "originalId": 37,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t02_18",
@@ -1725,13 +1984,20 @@
     "explanation": "Art. 7 Ley 16/2003: La cartera de servicios comunes del SNS se establece mediante Real Decreto del Consejo de Ministros, a propuesta del Ministro de Sanidad, previo acuerdo del Consejo Interterritorial. Se actualiza periódicamente. La C recoge correctamente el procedimiento de aprobación y actualización. Respuesta C.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t02_19",
@@ -1770,13 +2036,20 @@
     "explanation": "Art. 59 Ley 16/2003: La infraestructura para la mejora de la calidad incluye: el registro de declaración de incidentes y eventos adversos, los indicadores, la acreditación, el sistema de información, etc. No contempla un 'registro de agresiones a profesionales' como elemento de esa infraestructura. La opción d) (ambas falsas) es correcta respecto a las afirmaciones a) y b) tal como están formuladas (b es falsa porque el registro es de incidentes/eventos adversos, no de prácticas que 'hayan resultado un problema potencial'). Respuesta D.",
     "originalId": 39,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t02_20",
@@ -1821,7 +2094,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_1",
@@ -1860,14 +2140,21 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta A.",
     "originalId": 41,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_2",
@@ -1906,14 +2193,21 @@
     "explanation": "Art. 2 Ley 55/2003: Los principios y criterios son: igualdad, mérito, capacidad y publicidad (no solo 'sometimiento pleno a ley y derecho' como principio rector de la ordenación). Los demás principios mencionados (integración en el régimen organizativo, coordinación entre administraciones) SÍ están. El 'sometimiento pleno a la ley y el derecho' es un principio general pero no de los específicamente enumerados en la ordenación del régimen estatutario. Respuesta B.",
     "originalId": 42,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t02_21",
@@ -1952,12 +2246,19 @@
     "explanation": "Art. 18 Ley 55/2003: El personal estatutario ostenta el derecho a la actividad sindical. El derecho de reunión no requiere autorización previa (art. 19 EM). La libre sindicación SÍ está reconocida. La opción correcta es la b) 'ostenta el derecho a la actividad sindical'. Respuesta B.",
     "originalId": 43,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 73.8,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_3",
@@ -1996,14 +2297,21 @@
     "explanation": "Art. 20 Ley 55/2003: La condición de personal estatutario fijo se adquiere por: superación de las pruebas de selección, nombramiento conferido por el órgano competente, e incorporación 'previo cumplimiento de los requisitos formales en cada caso establecidos, a una plaza del servicio, institución o centro que corresponda en el plazo determinado en la convocatoria'. Respuesta C.",
     "originalId": 44,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_4",
@@ -2042,14 +2350,21 @@
     "explanation": "Art. 20.2 Ley 55/2003: No podrán recibir nombramiento quienes 'no acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria, UNA VEZ SUPERADO el proceso selectivo.' Si no los acreditan previamente, no pueden participar; si no los acreditan al final, no reciben nombramiento. Respuesta A.",
     "originalId": 45,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_5",
@@ -2088,13 +2403,20 @@
     "explanation": "Art. 26.d Ley 55/2003: La pérdida de la condición se produce por 'la pena de inhabilitación especial para la CORRESPONDIENTE PROFESIÓN, siempre que esta exceda de TRES AÑOS.' La opción D recoge correctamente el plazo de tres años para inhabilitación especial. Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_6",
@@ -2133,14 +2455,21 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 47,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_7",
@@ -2179,12 +2508,19 @@
     "explanation": "Art. 26 Ley 55/2003: Procede la extinción por: pérdida de la nacionalidad (a), sanción firme de separación del servicio (b), e inhabilitación especial (c). Las tres causas están contempladas, por tanto 'todas las anteriores' es correcto. Respuesta D.",
     "originalId": 48,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 73.8,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t03_8",
@@ -2223,14 +2559,21 @@
     "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta D.",
     "originalId": 49,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t03_9",
@@ -2269,13 +2612,20 @@
     "explanation": "Art. 42 Ley 55/2003: Las retribuciones básicas son: sueldo asignado a la categoría en función del título exigido, trienios y pagas extraordinarias. Respuesta A.",
     "originalId": 50,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_10",
@@ -2314,14 +2664,21 @@
     "explanation": "Art. 26.e Ley 55/2003: La incapacidad permanente que causa la pérdida de la condición estatutaria es la declarada en grado de: incapacidad permanente total para la profesión habitual, incapacidad permanente absoluta para todo trabajo, y gran invalidez. Todas las respuestas son correctas. Respuesta D.",
     "originalId": 51,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t03_11",
@@ -2360,13 +2717,20 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
     "originalId": 52,
     "sourceTrio": false,
-    "sourceStatus": "CONSENSUS",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 73.8,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_12",
@@ -2405,13 +2769,20 @@
     "explanation": "Art. 57.3 Ley 55/2003: 'El período de localización es aquel período de tiempo en el que el personal se encuentra en situación de disponibilidad A LOS SOLOS EFECTOS DE ASEGURAR SU POSIBLE LOCALIZACIÓN.' Respuesta D.",
     "originalId": 53,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_13",
@@ -2450,14 +2821,21 @@
     "explanation": "Art. 57 Ley 55/2003: 'El período nocturno tendrá una duración MÍNIMA DE OCHO HORAS e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural.' Respuesta A.",
     "originalId": 54,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_14",
@@ -2496,14 +2874,21 @@
     "explanation": "Art. 37 Ley 55/2003: Las comisiones de servicio pueden otorgarse, con carácter voluntario o forzoso, por un plazo de hasta un año, prorrogable por otro más. El personal en comisión de servicio percibe las retribuciones correspondientes a su plaza de origen más las indemnizaciones que correspondan. Respuesta A.",
     "originalId": 55,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_15",
@@ -2542,13 +2927,20 @@
     "explanation": "Art. 60 Ley 55/2003: El personal tiene derecho a un período mínimo de descanso ininterrumpido de 12 horas entre jornadas. Esta reducción solo podrá producirse en el caso de trabajo a turnos, cuando el personal cambie de equipo. La opción D describe correctamente la excepción del trabajo a turnos. Respuesta D.",
     "originalId": 56,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_16",
@@ -2587,13 +2979,20 @@
     "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta B.",
     "originalId": 57,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_17",
@@ -2632,12 +3031,18 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
     "originalId": 58,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 15.3,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_18",
@@ -2676,14 +3081,21 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta D.",
     "originalId": 59,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t03_19",
@@ -2722,13 +3134,20 @@
     "explanation": "Art. 67 Ley 55/2003: 'La excedencia voluntaria por interés particular exige haber prestado servicios efectivos en cualquiera de las administraciones públicas durante LOS CINCO AÑOS INMEDIATAMENTE ANTERIORES.' Respuesta A.",
     "originalId": 60,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_2",
@@ -2767,14 +3186,21 @@
     "explanation": "Art. 2 Ley 8/1997: La Administración sanitaria vasca garantiza la tutela general de la salud pública 'a través de medidas preventivas, promoción de la salud y prestaciones sanitarias individuales'. Son correctas todas las respuestas. Respuesta D.",
     "originalId": 61,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_3",
@@ -2813,14 +3239,21 @@
     "explanation": "Art. 3 Ley 8/1997: La ley reconoce 'la universalidad del derecho a la protección de la salud para todas las personas residentes en el territorio de Euskadi, así como para las personas transeúntes.' Respuesta A.",
     "originalId": 62,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_4",
@@ -2859,14 +3292,21 @@
     "explanation": "Art. 4 Ley 8/1997: Los principios informadores del sistema sanitario vasco son: universalidad, equidad, calidad de los servicios, eficiencia, participación ciudadana, etc. 'Solidaridad ciudadana' NO aparece explícitamente entre los principios informadores del art. 4. Respuesta B.",
     "originalId": 63,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_5",
@@ -2905,12 +3345,19 @@
     "explanation": "Art. 7 Ley 8/1997: Las áreas de salud son delimitadas en función de factores geográficos, socioeconómicos, demográficos y culturales. En cada área 'se garantizará una adecuada ordenación de la atención primaria y su coordinación con la atención especializada'. La opción C es la correcta. Respuesta C.",
     "originalId": 64,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 73.8,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_6",
@@ -2949,14 +3396,21 @@
     "explanation": "Art. 9 Ley 8/1997: Los principios programáticos son: orientación a promoción y prevención, separación de regulación/financiación de la provisión, responsabilización del personal sanitario, etc. La 'optimización del marco de cualquier tipo de financiación del catálogo de prestaciones' NO es un principio programático de la ley. Respuesta A.",
     "originalId": 65,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_7",
@@ -2995,14 +3449,21 @@
     "explanation": "Art. 12 Ley 8/1997: Los datos de salud podrán ser recabados y tratados: con consentimiento de la persona afectada, O cuando la actuación esté debidamente autorizada Y se efectúe previo procedimiento de disociación que garantice el anonimato. La opción B recoge correctamente la segunda alternativa. Respuesta B.",
     "originalId": 66,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_8",
@@ -3041,14 +3502,21 @@
     "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C.",
     "originalId": 67,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_9",
@@ -3087,13 +3555,20 @@
     "explanation": "Art. 15.4 Ley 8/1997: Existe 'la obligación de dejar constancia POR CUALQUIER MEDIO de todo proceso diagnóstico o terapéutico.' No se limita a forma escrita. Respuesta C.",
     "originalId": 68,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_10",
@@ -3132,14 +3607,21 @@
     "explanation": "Art. 17 Ley 8/1997: Los consejos de participación comunitaria tienen 'facultades consultivas y de asesoramiento en la formulación de planes y objetivos generales del sistema', no decisorias. Respuesta B.",
     "originalId": 69,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_11",
@@ -3178,14 +3660,21 @@
     "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C.",
     "originalId": 70,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_12",
@@ -3224,13 +3713,20 @@
     "explanation": "Art. 25 Ley 8/1997: 'Osakidetza-Servicio Vasco de Salud se constituye como ENTE PÚBLICO con personalidad jurídica propia adscrito al Departamento de la Administración General competente en materia de salud.' Respuesta A.",
     "originalId": 71,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t05_1",
@@ -3269,14 +3765,21 @@
     "explanation": "Art. 6 Decreto 255/1997: El Consejo de Administración de Osakidetza está integrado por 'la persona titular de la presidencia y por un número no superior a CINCO miembros en representación de la Administración de la Comunidad Autónoma de Euskadi'. Respuesta A.",
     "originalId": 72,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_13",
@@ -3302,10 +3805,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "El Departamento competente en materia de sanidad debe elaborar anualmente y remitir al Parlamento un informe con la evaluación de los objetivos y determinaciones del Plan de Salud de Euskadi."
+      "Son correctas las respuestas a) y c)."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -3315,12 +3818,20 @@
     "explanation": "Art. 8 Ley 8/1997: El Consejo Vasco de Salud es el órgano consultivo y de participación en materia sanitaria del Gobierno Vasco, presidido por el Consejero competente en sanidad, e integrado por representantes de las Administraciones implicadas, de los agentes sociales y de las organizaciones de consumidores y usuarios. La C recoge esta configuración. Respuesta C.",
     "originalId": 73,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "FIX_SUGGESTED",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 33.1,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_14",
@@ -3359,14 +3870,21 @@
     "explanation": "Art. 33 Ley 8/1997 / Decreto 255/1997: Las plantillas de personal se denominan así al 'número de efectivos de carácter estructural con que cuentan tanto su organización central de administración como las organizaciones de servicios dependientes de Osakidetza.' Respuesta B.",
     "originalId": 74,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_15",
@@ -3405,13 +3923,20 @@
     "explanation": "Art. 15 Ley 8/1997: 'La dirección, planificación y programación del sistema sanitario de Euskadi es competencia del DEPARTAMENTO COMPETENTE EN MATERIA DE SANIDAD.' No del Gobierno Vasco en pleno ni del Parlamento. Respuesta D.",
     "originalId": 75,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_16",
@@ -3450,14 +3975,21 @@
     "explanation": "Art. 48 Ley 8/1997: Las inspecciones necesarias para asegurar el cumplimiento de la legislación sanitaria 'corresponden al Departamento competente en materia de sanidad.' Respuesta C.",
     "originalId": 76,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_17",
@@ -3496,14 +4028,21 @@
     "explanation": "Art. 55 Ley 8/1997: Los criterios para clasificar infracciones son: riesgos para la salud, grado de intencionalidad, alteración sanitaria y social producida, beneficio obtenido, y daño causado. La 'cuantía de la indemnización solicitada' NO es un criterio de clasificación de infracciones. Respuesta A.",
     "originalId": 77,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_18",
@@ -3542,13 +4081,20 @@
     "explanation": "Art. 57 Ley 8/1997: Sin perjuicio de la multa, 'la sanción económica podrá ser incrementada hasta el TRIPLE de la cuantía del beneficio ilícito obtenido'. Respuesta C.",
     "originalId": 78,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_19",
@@ -3587,14 +4133,21 @@
     "explanation": "Art. 26.2 Ley 8/1997: Las organizaciones de servicios sanitarios 'realizarán su actividad bajo el principio de AUTONOMÍA ECONÓMICO-FINANCIERA Y DE GESTIÓN'. Respuesta A.",
     "originalId": 79,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_20",
@@ -3633,14 +4186,21 @@
     "explanation": "Art. 30 Ley 8/1997: Los instrumentos de clasificación del personal estatutario son: 'el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe.' Respuesta C.",
     "originalId": 80,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_20",
@@ -3679,12 +4239,18 @@
     "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta A.",
     "originalId": 81,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 13.1,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_21",
@@ -3723,14 +4289,21 @@
     "explanation": "Art. 27 Ley 8/1997/Decreto 255/1997: Los fines de Osakidetza no incluyen 'cualquier otro fin relacionado con su objeto que decida su Dirección General' — esa cláusula abierta ilimitada no aparece en la ley. Los fines están tasados. Respuesta B.",
     "originalId": 82,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_22",
@@ -3769,14 +4342,21 @@
     "explanation": "Art. 31 Ley 8/1997 y Decreto 255/1997: Osakidetza es un ente público de derecho privado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, sometido al derecho privado en sus relaciones externas excepto en el ejercicio de potestades públicas. No es organismo autónomo ni agencia, sino ente público. Respuesta D.",
     "originalId": 83,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t05_2",
@@ -3815,13 +4395,20 @@
     "explanation": "Decreto 255/1997, art. 22: El nombramiento y separación de los Directores de División de la organización central de Osakidetza es competencia del Consejo de Administración, a propuesta del Director General. La app indica C (Director General) pero la competencia recae en el Consejo de Administración. Respuesta B.",
     "originalId": 84,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_23",
@@ -3860,13 +4447,20 @@
     "explanation": "Decreto 255/1997 art. 6: El Consejo de Administración contará, además de la Presidencia, con cinco integrantes: uno a propuesta del Departamento de Hacienda y Administración Pública, uno a propuesta de Bienestar Social y tres a propuesta de la persona titular de Sanidad. Respuesta A.",
     "originalId": 85,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_24",
@@ -3905,14 +4499,21 @@
     "explanation": "Art. 28 Ley 8/1997/Decreto 255/1997: La función de 'aprobar los criterios y líneas generales de actuación' de Osakidetza corresponde al CONSEJO DE ADMINISTRACIÓN. Respuesta A.",
     "originalId": 86,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_25",
@@ -3951,13 +4552,20 @@
     "explanation": "La Dirección General formula la propuesta del Plan Estratégico.",
     "originalId": 87,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t05_3",
@@ -3996,14 +4604,21 @@
     "explanation": "Art. 8 Decreto 255/1997: La función de 'convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones y decidir los empates con su voto de calidad' en el Consejo de Administración corresponde a 'LA PRESIDENCIA'. Respuesta B.",
     "originalId": 88,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t05_4",
@@ -4042,13 +4657,20 @@
     "explanation": "Decreto 255/1997: el equipo directivo cuenta con TRES Direcciones de División.",
     "originalId": 89,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_26",
@@ -4087,14 +4709,21 @@
     "explanation": "Decreto 255/1997: La persona titular de la Dirección General 'asistirá a las reuniones del Consejo de Administración CON VOZ Y SIN VOTO.' Respuesta D.",
     "originalId": 90,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t05_5",
@@ -4133,14 +4762,21 @@
     "explanation": "Art. 20 Decreto 255/1997: En materia de gestión asistencial, corresponde a la organización central: supervisar el cumplimiento de políticas de calidad y realizar auditorías (a), coordinar recursos y proponer medidas sobre listas de espera (c), y promover protocolos de interés general (d). 'Definir criterios y proponer la política de precios' NO es función de la organización central en materia de gestión asistencial — los precios se fijan a nivel superior. Respuesta B.",
     "originalId": 91,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t05_6",
@@ -4179,14 +4815,21 @@
     "explanation": "Art. 21 Decreto 255/1997: En materia de gestión de recursos humanos, corresponde a la organización central: supervisar políticas de personal (a), dirigir el registro de personal (c), y gestionar procesos de selección (d). 'Promover acuerdos de cooperación con centros de sanidad PRIVADA' NO es función de la organización central en gestión de RRHH. Respuesta B.",
     "originalId": 92,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t05_7",
@@ -4225,14 +4868,21 @@
     "explanation": "El Decreto 255/1997 remite a la Ley 8/1997 de Ordenación Sanitaria de Euskadi.",
     "originalId": 93,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_27",
@@ -4271,14 +4921,21 @@
     "explanation": "Art. 26 Ley 8/1997/Decreto 255/1997: Las organizaciones de servicios podrán ejercer todas las facultades de gestión, quedando excluidas las 'que los estatutos sociales del ente público atribuyen expresamente a la ORGANIZACIÓN CENTRAL del Ente y las competencias propias de otras instancias.' Respuesta A.",
     "originalId": 94,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_28",
@@ -4317,13 +4974,20 @@
     "explanation": "Equipo directivo: máximo de cinco personas.",
     "originalId": 95,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_29",
@@ -4362,14 +5026,21 @@
     "explanation": "Decreto 255/1997: La representación de Osakidetza en la negociación colectiva del Acuerdo Marco corresponde a 'la ORGANIZACIÓN CENTRAL de administración y gestión corporativa del ente público.' Respuesta A.",
     "originalId": 96,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t06_1",
@@ -4408,14 +5079,21 @@
     "explanation": "Art. 24 Decreto 255/1997 / Decreto 100/2018: El Consejo de Dirección de cada organización de servicios está integrado por 'el equipo directivo, las jefaturas de unidad que se determinen y una REPRESENTACIÓN DE PERSONAS VOCALES ELECTAS que formen parte de los Consejos Técnicos de participación profesional respectivos.' No se incluyen representantes sindicales. Respuesta A.",
     "originalId": 97,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_30",
@@ -4454,14 +5132,21 @@
     "explanation": "Art. 26.3 Ley 8/1997: Las organizaciones de servicios podrán descentralizar su funcionamiento 'delegando en quienes ostenten la responsabilidad clínica facultades de gestión tanto en materia ECONÓMICA como de PERSONAL, de acuerdo con el marco estratégico, los planes de gestión y el compromiso del contrato-programa suscrito por la organización.' Respuesta C.",
     "originalId": 98,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t05_8",
@@ -4500,14 +5185,21 @@
     "explanation": "Las compras centralizadas corresponden a la organización central de Osakidetza.",
     "originalId": 99,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_31",
@@ -4546,12 +5238,18 @@
     "explanation": "Decreto 255/1997: La presidencia de los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento corresponde a 'quien ostente la titularidad de la DIRECCIÓN-GERENCIA del Ente.' Respuesta B.",
     "originalId": 100,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 13.1,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_32",
@@ -4590,14 +5288,21 @@
     "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta C.",
     "originalId": 101,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_33",
@@ -4636,14 +5341,21 @@
     "explanation": "OSI = Atención Primaria + Atención Hospitalaria.",
     "originalId": 102,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_34",
@@ -4682,14 +5394,21 @@
     "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B.",
     "originalId": 103,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_35",
@@ -4728,14 +5447,21 @@
     "explanation": "Art. 1 Decreto 100/2018: Las OSI actúan bajo el 'principio de AUTONOMÍA ECONÓMICO-FINANCIERA Y DE GESTIÓN', reconocido en la Ley 8/1997. Respuesta C.",
     "originalId": 104,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_36",
@@ -4774,14 +5500,21 @@
     "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B.",
     "originalId": 105,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_37",
@@ -4820,14 +5553,21 @@
     "explanation": "Art. 4 Decreto 100/2018: Las OSI de Tipo I tienen hospitales de carácter universitario Y disponen de 'unidades o servicios calificados de referencia para el conjunto del sistema sanitario vasco.' Respuesta C.",
     "originalId": 106,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_38",
@@ -4866,12 +5606,18 @@
     "explanation": "Art. 4 Decreto 100/2018: Las OSI de Tipo III integran atención primaria con hospital general y tienen una base poblacional atendida inferior a 200.000 habitantes. Respuesta B.",
     "originalId": 107,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 13.1,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_39",
@@ -4910,13 +5656,20 @@
     "explanation": "Art. 5 Decreto 100/2018: Los tres órganos de participación de las OSI son: el Consejo Clínico Asistencial, el Consejo Social y la Comisión Sociosanitaria. Respuesta B.",
     "originalId": 108,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_40",
@@ -4955,14 +5708,21 @@
     "explanation": "Art. 5.2 Decreto 100/2018: Los órganos del equipo directivo de una OSI son: Dirección Gerencia, Dirección Médica, Dirección de Atención Integrada, Dirección de Enfermería, Dirección de Personas, Dirección Económico-Financiera y Dirección de Gestión. Respuesta B.",
     "originalId": 109,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_41",
@@ -5001,13 +5761,20 @@
     "explanation": "Art. 5 Decreto 100/2018: En las OSI de Tipo IV (monográficas pequeñas), la Dirección Gerencia asume las funciones de la Dirección Médica y la Dirección de Enfermería. Respuesta C.",
     "originalId": 110,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_42",
@@ -5046,14 +5813,21 @@
     "explanation": "Art. 5 Decreto 100/2018: El Consejo Clínico Asistencial es un órgano de PARTICIPACIÓN, no de dirección. Los órganos de dirección de una OSI Tipo I y II son los enumerados en el equipo directivo. Respuesta B.",
     "originalId": 111,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_43",
@@ -5092,14 +5866,21 @@
     "explanation": "Art. 7.3 Decreto 100/2018: El nombramiento y cese de la persona titular de la Dirección Gerencia corresponde a 'la DIRECCIÓN GENERAL del Ente Público Osakidetza.' Respuesta B.",
     "originalId": 112,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_44",
@@ -5138,14 +5919,21 @@
     "explanation": "Arts. 7 y 9 Decreto 100/2018: Para el nombramiento de cargos directivos se requiere 'previa convocatoria pública donde se acredite titulación, capacidad y experiencia profesional.' Respuesta C.",
     "originalId": 113,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_45",
@@ -5184,13 +5972,20 @@
     "explanation": "Art. 8.m Decreto 100/2018: La función de 'orientar la gestión desde una visión integradora empoderando la atención primaria' corresponde a la DIRECCIÓN DE ATENCIÓN INTEGRADA. Respuesta A.",
     "originalId": 114,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_46",
@@ -5229,14 +6024,21 @@
     "explanation": "Art. 11.2 Decreto 100/2018: Impulsar el vínculo con la comunidad a través de la promoción y prevención de la salud corresponde a la DIRECCIÓN DE ATENCIÓN INTEGRADA. Respuesta C.",
     "originalId": 115,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_47",
@@ -5275,14 +6077,21 @@
     "explanation": "Art. 11 Decreto 100/2018: La Dirección de Atención Integrada coordina su actividad con atención primaria, hospitalaria y también con el ÁMBITO COMUNITARIO Y SOCIO-SANITARIO. Respuesta B.",
     "originalId": 116,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_48",
@@ -5327,7 +6136,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_49",
@@ -5366,14 +6182,21 @@
     "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B.",
     "originalId": 118,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_50",
@@ -5412,14 +6235,21 @@
     "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B.",
     "originalId": 119,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_51",
@@ -5458,12 +6288,19 @@
     "explanation": "Art. 5 Decreto 100/2018: Las OSI se crean mediante Decreto del Consejo de Gobierno a propuesta del Consejero de Salud, previo informe del Consejo de Administración de Osakidetza. Respuesta B.",
     "originalId": 120,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 73.8,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_52",
@@ -5502,13 +6339,20 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 121,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_53",
@@ -5553,7 +6397,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_54",
@@ -5592,13 +6443,20 @@
     "explanation": "Art. 4 Decreto 147/2015: Los principios que informan las acciones de carácter sanitario incluyen 'el respeto a la libertad de la persona, a su dignidad y a la autonomía en las decisiones que afecten a su salud'. No se menciona el respeto a todo el personal profesional como principio de la Declaración, ni la investigación científica. El respeto a la persona paciente/usuaria es el principio central. Respuesta A.",
     "originalId": 123,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_55",
@@ -5637,12 +6495,18 @@
     "explanation": "Ámbitos D.147/2015 incluyen investigación biomédica.",
     "originalId": 124,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 15.3,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_56",
@@ -5681,14 +6545,21 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
     "originalId": 125,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_57",
@@ -5733,7 +6604,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_58",
@@ -5772,14 +6650,21 @@
     "explanation": "Art. 13 Decreto 147/2015: El derecho a la participación activa en el sistema sanitario de Euskadi está reconocido en la Declaración y se contempla 'tanto en su modalidad de participación directa como a través de organizaciones'. No se mencionan sindicatos expresamente. Respuesta C.",
     "originalId": 127,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_59",
@@ -5818,14 +6703,21 @@
     "explanation": "Art. 28 y ss. Decreto 147/2015: Las fases de vida contempladas son: 1) Infancia y adolescencia; 2) Salud sexual y reproductiva; 3) Personas mayores; 4) Final de la vida. NO se incluye 'neonatología' como fase separada ni 'salud laboral' como fase de vida específica en este decreto. Respuesta D.",
     "originalId": 128,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_60",
@@ -5864,13 +6756,20 @@
     "explanation": "Art. 29 Decreto 147/2015: Los niños, niñas y adolescentes tienen derecho 'a la seguridad de recibir los cuidados que necesitan, incluso en el caso de que fuese necesaria la intervención de la justicia, SI LOS PADRES O MADRES, O LA PERSONA SUSTITUTA, SE LOS NEGARAN POR RAZONES RELIGIOSAS, CULTURALES O CUALQUIERA OTRAS.' La intervención es de la justicia (no de la Consejería) y no admite excepciones por razones religiosas. Respuesta C.",
     "originalId": 129,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t04_61",
@@ -5909,14 +6808,21 @@
     "explanation": "Art. 35 Decreto 147/2015: Las personas tienen derecho a 'obtener información veraz sobre las opciones terapéuticas y a que se respete y acate su voluntad de aceptación o rechazo de cualquiera de ellas, TANTO SI SE HACE SABER DE FORMA DIRECTA como EN FORMA DE VOLUNTADES ANTICIPADAS o MEDIANTE UNA PERSONA QUE LA REPRESENTE.' La opción B recoge correctamente las tres vías. Respuesta B.",
     "originalId": 130,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_62",
@@ -5955,14 +6861,21 @@
     "explanation": "Art. 35 Decreto 147/2015: Las personas tienen derecho a 'obtener información veraz sobre las opciones terapéuticas y a que se respete y acate su voluntad de aceptación o rechazo de cualquiera de ellas, TANTO SI SE HACE SABER DE FORMA DIRECTA como EN FORMA DE VOLUNTADES ANTICIPADAS o MEDIANTE UNA PERSONA QUE LA REPRESENTE.' La opción B recoge correctamente las tres vías. Respuesta B.",
     "originalId": 130,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_63",
@@ -6001,14 +6914,21 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta A.",
     "originalId": 132,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_64",
@@ -6047,13 +6967,20 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 133,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_65",
@@ -6092,13 +7019,20 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 134,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_66",
@@ -6137,14 +7071,21 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
     "originalId": 135,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_68",
@@ -6183,14 +7124,21 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.",
     "originalId": 135,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_67",
@@ -6229,13 +7177,20 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 136,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t04_69",
@@ -6274,14 +7229,21 @@
     "explanation": "Art. 41 Decreto 147/2015: Las reclamaciones contra las personas usuarias se tramitarán 'por el PROCEDIMIENTO VIGENTE PARA ELLO.' La norma sí prevé este tipo de reclamaciones. Respuesta B.",
     "originalId": 138,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t04_70",
@@ -6320,13 +7282,20 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 139,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t04_71",
@@ -6371,7 +7340,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t08_1",
@@ -6410,13 +7386,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 141,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_2",
@@ -6455,14 +7438,21 @@
     "explanation": "Art. 3 Ley 41/2002: definición de usuario vs paciente sin restricción a sistema público.",
     "originalId": 142,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t08_3",
@@ -6501,13 +7491,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 143,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t08_4",
@@ -6546,14 +7543,21 @@
     "explanation": "Art. 4: información mínima incluye consecuencias.",
     "originalId": 144,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t08_5",
@@ -6592,13 +7596,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 145,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t08_6",
@@ -6637,13 +7648,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 146,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t08_7",
@@ -6682,13 +7700,20 @@
     "explanation": "Art. 9.3.a Ley 41/2002: En caso de riesgo para la salud pública o riesgo inmediato grave para la integridad física o psíquica del paciente, el facultativo puede actuar sin consentimiento. Pero si el paciente tuviera capacidad, debe ser informado. Los representantes actúan en ausencia de capacidad. Respuesta B.",
     "originalId": 147,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_8",
@@ -6727,13 +7752,20 @@
     "explanation": "Art. 16 Ley 41/2002: Los usos de la historia clínica están regulados. El acceso de cada profesional se limita 'a los datos de la historia clínica relacionados con la asistencia que le haya prestado.' No hay acceso general de todo el personal del centro a todas las historias. Respuesta D.",
     "originalId": 148,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_9",
@@ -6772,13 +7804,20 @@
     "explanation": "Art. 9.3: consentimiento por representación como regla general en menores.",
     "originalId": 149,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_10",
@@ -6817,14 +7856,21 @@
     "explanation": "Art. 10.1.a: información incluye riesgos probables.",
     "originalId": 150,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t08_11",
@@ -6863,13 +7909,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 151,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t08_12",
@@ -6908,13 +7961,20 @@
     "explanation": "Art. 6 Ley 41/2002: 'El médico responsable del paciente tiene la obligación de informarle... sobre el diagnóstico, pronóstico y alternativas de tratamiento.' La persona responsable de dar la información asistencial es el MÉDICO RESPONSABLE. Respuesta A.",
     "originalId": 152,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_13",
@@ -6953,13 +8013,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 153,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t08_14",
@@ -6998,13 +8065,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 154,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t08_15",
@@ -7043,14 +8117,21 @@
     "explanation": "Art. 21.2: la dirección del centro oye al paciente y acude a la autoridad judicial.",
     "originalId": 155,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t09_1",
@@ -7089,14 +8170,21 @@
     "explanation": "Art. 14.1 Ley 41/2002: 'La historia clínica comprende el conjunto de los documentos relativos a los procesos asistenciales de cada paciente, con la identificación de los médicos y de los demás profesionales que han intervenido en ellos.' Es el soporte principal del trabajo asistencial. Respuesta C.",
     "originalId": 156,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_2",
@@ -7135,14 +8223,21 @@
     "explanation": "Art. 1 Ley 7/2002: El objeto de la ley es 'regular la expresión anticipada de la voluntad para que sea tenida en cuenta cuando la persona que la emitió no pueda expresarla personalmente en el momento en que deba tomarse alguna decisión respecto a su atención sanitaria.' Respuesta A.",
     "originalId": 157,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t09_3",
@@ -7181,14 +8276,21 @@
     "explanation": "Objetivos vitales sirven para interpretar instrucciones y orientar decisiones clínicas.",
     "originalId": 158,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t09_4",
@@ -7227,13 +8329,20 @@
     "explanation": "Art. 6 Ley 7/2002: representante para cualquier supuesto de incapacidad de expresión.",
     "originalId": 159,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t08_16",
@@ -7272,14 +8381,21 @@
     "explanation": "Art. 2 Ley 7/2002: La declaración puede incluir: instrucciones sobre los tratamientos y cuidados que la persona desea o no recibir, la designación de una persona representante y el destino del cuerpo o de sus órganos tras el fallecimiento. Todas son correctas. Respuesta A.",
     "originalId": 160,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_5",
@@ -7318,14 +8434,21 @@
     "explanation": "Art. 5: instrucciones para enfermedad presente o futura.",
     "originalId": 161,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_6",
@@ -7364,13 +8487,20 @@
     "explanation": "Procedimientos: Registro/Centros + 2 testigos.",
     "originalId": 162,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t09_7",
@@ -7409,14 +8539,21 @@
     "explanation": "Art. 7 Ley 7/2002: testigos deben ser mayores de edad (18) y cumplir grados.",
     "originalId": 163,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t09_8",
@@ -7455,14 +8592,21 @@
     "explanation": "Art. 3 Ley 7/2002: 'La persona declarante podrá revocar, en cualquier momento y por cualquier medio, la declaración de voluntad anticipada que hubiera otorgado.' Sin límites. Respuesta D.",
     "originalId": 164,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t09_9",
@@ -7501,14 +8645,21 @@
     "explanation": "Modificación formalizada por mismos cauces que otorgamiento (escrito).",
     "originalId": 165,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t09_10",
@@ -7547,13 +8698,20 @@
     "explanation": "Prevalece voluntad inequívoca ante interlocutor.",
     "originalId": 166,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t09_11",
@@ -7592,13 +8750,20 @@
     "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.",
     "originalId": 167,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_12",
@@ -7637,13 +8802,20 @@
     "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 167,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_13",
@@ -7682,14 +8854,21 @@
     "explanation": "Art. 12: la interconexión del Registro no precisa consentimiento adicional.",
     "originalId": 169,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t09_14",
@@ -7728,14 +8907,21 @@
     "explanation": "Art. 11: DVA no inscrito ES válido si se aporta.",
     "originalId": 170,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t10_1",
@@ -7774,14 +8960,21 @@
     "explanation": "Art. 9 RGPD y art. 9 LOPDGDD: Los datos relativos a la salud son una categoría especial de datos personales cuyo tratamiento está prohibido con carácter general, salvo en los supuestos que el propio RGPD reconoce (consentimiento explícito, interés vital, protección de la salud, etc.). Respuesta C.",
     "originalId": 171,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t10_2",
@@ -7820,14 +9013,21 @@
     "explanation": "Art. 5 RGPD: Los principios del tratamiento de datos personales son: licitud, lealtad y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad. Respuesta A.",
     "originalId": 172,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t10_3",
@@ -7866,13 +9066,20 @@
     "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta A.",
     "originalId": 173,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t10_4",
@@ -7911,14 +9118,21 @@
     "explanation": "Arts. 15-22 RGPD: Los derechos de los interesados incluyen: acceso (art. 15), rectificación (art. 16), supresión/olvido (art. 17), limitación (art. 18), portabilidad (art. 20), oposición (art. 21). La 'restricción de acceso de terceros' no es un derecho propiamente dicho reconocido de forma autónoma. Respuesta D.",
     "originalId": 174,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t10_5",
@@ -7957,14 +9171,21 @@
     "explanation": "Art. 10 LO 3/2018: tratamiento de datos penales por abogacía y procura.",
     "originalId": 175,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t10_6",
@@ -8003,14 +9224,21 @@
     "explanation": "Art. 24 LO 3/2018: Los sistemas de denuncias internas deben garantizar la confidencialidad del denunciante. Los datos conservados sólo podrán ser accedidos por quienes sean indispensables para resolver la denuncia. La B recoge correctamente los requisitos de confidencialidad. Respuesta B.",
     "originalId": 176,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t10_7",
@@ -8049,14 +9277,21 @@
     "explanation": "Art. 7 LO 3/2018: El tratamiento de datos personales de menores requiere el consentimiento de sus padres o tutores cuando el menor sea menor de 14 años. Los mayores de 14 años pueden consentir por sí mismos. La A recoge correctamente este umbral de 14 años. Respuesta C.",
     "originalId": 177,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t10_8",
@@ -8101,7 +9336,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t10_9",
@@ -8140,13 +9382,20 @@
     "explanation": "LO 3/2018 y RGPD: La Agencia Española de Protección de Datos (AEPD) es la autoridad de control independiente, con personalidad jurídica propia y plena capacidad pública y privada. Actúa con plena independencia de los poderes públicos. La C recoge correctamente sus características. Respuesta C.",
     "originalId": 179,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t10_10",
@@ -8185,13 +9434,20 @@
     "explanation": "Art. 28 RGPD: Cuando el tratamiento se realice por cuenta del responsable, este solo utilizará encargados que ofrezcan garantías suficientes. Las relaciones entre responsable y encargado deben regularse mediante un contrato u otro acto jurídico. Respuesta B.",
     "originalId": 180,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t11_1",
@@ -8230,13 +9486,20 @@
     "explanation": "Art. 1 DL 1/2023: El objeto del Decreto Legislativo 1/2023 es 'aprobar el Texto Refundido de la Ley para la Igualdad de Mujeres y Hombres, incorporando también las disposiciones en materia de violencia contra las mujeres.' Respuesta B.",
     "originalId": 181,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t11_2",
@@ -8275,14 +9538,21 @@
     "explanation": "Art. 9 DL 1/2023: Se define discriminación directa cuando 'una persona sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación comparable por razón de sexo.' Respuesta C.",
     "originalId": 182,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t11_3",
@@ -8321,14 +9591,21 @@
     "explanation": "Art. 10 DL 1/2023: La discriminación indirecta ocurre cuando 'una disposición, criterio o práctica aparentemente neutros sitúa o puede situar a personas de un sexo en desventaja particular con respecto a personas del otro sexo, salvo que dicha disposición, criterio o práctica pueda justificarse objetivamente en atención a una finalidad legítima.' Respuesta A.",
     "originalId": 183,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t11_4",
@@ -8367,14 +9644,21 @@
     "explanation": "Art. 24 DL 1/2023: Los planes de igualdad de las Administraciones Públicas vascas deben incluir: diagnóstico de la situación, objetivos y medidas, indicadores de seguimiento, dotación presupuestaria y evaluación periódica. Respuesta D.",
     "originalId": 184,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t11_5",
@@ -8413,13 +9697,20 @@
     "explanation": "Art. 18 DL 1/2023: La composición de los órganos colegiados de la Administración Vasca debe respetar el principio de presencia equilibrada de mujeres y hombres, de forma que ningún sexo supere el 60% ni sea inferior al 40%. Respuesta B.",
     "originalId": 185,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t11_6",
@@ -8458,14 +9749,21 @@
     "explanation": "Art. 65 DL 1/2023: Emakunde-Instituto Vasco de la Mujer es el organismo de la Comunidad Autónoma de Euskadi responsable de la aplicación de las políticas de igualdad, con personalidad jurídica propia y plena capacidad de obrar. Respuesta C.",
     "originalId": 186,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t11_7",
@@ -8504,14 +9802,21 @@
     "explanation": "Art. 31 DL 1/2023: El lenguaje no sexista y la imagen no estereotipada de mujeres y hombres debe utilizarse en todas las actuaciones, comunicaciones y documentación oficial de las administraciones públicas vascas. Respuesta A.",
     "originalId": 187,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t11_8",
@@ -8550,14 +9855,21 @@
     "explanation": "Art. 77 DL 1/2023: Se considera violencia contra las mujeres toda violencia ejercida sobre las mujeres por el hecho de serlo. Incluye violencia física, psicológica, sexual, económica y social, en el ámbito de la pareja, la familia, el trabajo, la comunidad o el Estado. Respuesta D.",
     "originalId": 188,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t11_9",
@@ -8596,14 +9908,21 @@
     "explanation": "Art. 19 DL 1/2023: La evaluación de impacto en función del género debe realizarse en los procesos de elaboración de disposiciones normativas, planes y programas de las administraciones públicas vascas. Respuesta B.",
     "originalId": 189,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t11_10",
@@ -8642,14 +9961,21 @@
     "explanation": "Art. 14 DL 1/2023: La Administración General de la Comunidad Autónoma de Euskadi establecerá medidas de acción positiva para promover la igualdad real de mujeres y hombres. El objetivo de las acciones positivas es compensar las desventajas de un colectivo históricamente discriminado para alcanzar la igualdad efectiva. Respuesta B.",
     "originalId": 190,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_1",
@@ -8688,14 +10014,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El Plan define SIETE Objetivos Generales, clasificados en finalistas (que buscan resultados en salud) e instrumentales (que buscan mejorar el sistema para lograr esos resultados). Respuesta C.",
     "originalId": 191,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_2",
@@ -8734,14 +10067,21 @@
     "explanation": "Plan de Salud Euskadi 2030: La VISIÓN del Plan es 'Liderar una Euskadi más saludable.' Respuesta B.",
     "originalId": 192,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_3",
@@ -8780,14 +10120,21 @@
     "explanation": "Autosuficiencia presupuestaria no es principio rector del Plan Salud 2030.",
     "originalId": 193,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_4",
@@ -8826,14 +10173,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El OG1 se centra en 'Mejorar la salud y el bienestar de la población de Euskadi', con especial énfasis en la reducción de las desigualdades en salud. La B recoge correctamente este objetivo general. Respuesta B.",
     "originalId": 194,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_5",
@@ -8872,14 +10226,21 @@
     "explanation": "Plan de Salud Euskadi 2030: Uno de los enfoques fundamentales del Plan es el enfoque de 'UNA SOLA SALUD' ('One Health'), que reconoce la interconexión entre la salud humana, animal y medioambiental, junto con la reducción de desigualdades y la Salud en Todas las Políticas. Respuesta C.",
     "originalId": 196,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_6",
@@ -8918,14 +10279,21 @@
     "explanation": "AVAD = Años de Vida Ajustados por Discapacidad (DALY). La opción A es incorrecta. Respuesta D.",
     "originalId": 197,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t12_7",
@@ -8964,13 +10332,20 @@
     "explanation": "Plan de Salud Euskadi 2030 (introducción): En la elaboración del plan participaron aproximadamente 3.000 personas (expertas, profesionales, entidades y ciudadanía). La D recoge este dato numérico correcto. Respuesta D.",
     "originalId": 198,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_8",
@@ -9009,14 +10384,21 @@
     "explanation": "Plan de Salud Euskadi 2030: La MISIÓN se define como 'Mejorar la salud y el bienestar de la población de Euskadi, garantizando el acceso equitativo a una atención sanitaria de calidad'. La C recoge mejor esta definición. Respuesta C.",
     "originalId": 199,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_9",
@@ -9055,14 +10437,21 @@
     "explanation": "Objetivo central: reducir morbimortalidad evitable y desigualdades.",
     "originalId": 200,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_10",
@@ -9101,14 +10490,21 @@
     "explanation": "Plan Salud Euskadi 2030: elaborado por un Comité de Dirección y un Comité Estratégico bajo el Departamento de Salud. Respuesta B.",
     "originalId": 201,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_11",
@@ -9147,13 +10543,20 @@
     "explanation": "Plan de Salud Euskadi 2030, OG5: El sistema sanitario debe ser sostenible, resiliente e innovador. La D recoge estas tres características principales. Respuesta D.",
     "originalId": 202,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_12",
@@ -9192,14 +10595,21 @@
     "explanation": "Plan de Salud Euskadi 2030: La cronificación de las enfermedades y el envejecimiento de la población son los principales retos que el Plan identifica para el sistema sanitario vasco en el horizonte 2030. Respuesta B.",
     "originalId": 203,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_13",
@@ -9238,14 +10648,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El modelo de evaluación se basa en cuatro criterios: eficacia, efectividad, eficiencia y equidad. La B recoge correctamente estos cuatro criterios. Respuesta B.",
     "originalId": 204,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_14",
@@ -9284,14 +10701,21 @@
     "explanation": "Plan de Salud Euskadi 2030: Uno de los objetivos instrumentales del Plan es mejorar la coordinación y continuidad asistencial entre niveles (atención primaria, hospitalaria y sociosanitaria). Respuesta A.",
     "originalId": 205,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_15",
@@ -9330,14 +10754,21 @@
     "explanation": "Plan de Salud Euskadi 2030, Memoria Económica: El programa presupuestario con mayor dotación es el de Atención Especializada / Hospitales. La B es la respuesta correcta. Respuesta B.",
     "originalId": 206,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_16",
@@ -9376,14 +10807,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El Plan incorpora el enfoque 'One Health' que reconoce la interconexión entre la salud humana, animal y medioambiental. Respuesta B.",
     "originalId": 207,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_17",
@@ -9422,14 +10860,21 @@
     "explanation": "Plan de Salud Euskadi 2030: Para el seguimiento y evaluación del Plan se han definido indicadores cuantitativos y cualitativos organizados en torno a los objetivos del Plan, con seguimiento periódico y evaluaciones a mitad de período y final. Respuesta D.",
     "originalId": 208,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_18",
@@ -9468,14 +10913,21 @@
     "explanation": "Plan de Salud Euskadi 2030: Las enfermedades cardiovasculares continúan siendo la primera causa de mortalidad en Euskadi, seguidas del cáncer. Respuesta A.",
     "originalId": 209,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_19",
@@ -9514,14 +10966,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El Plan contempla la promoción de la actividad física, la alimentación saludable, la prevención del tabaquismo y el alcohol como intervenciones clave sobre los estilos de vida. Respuesta C.",
     "originalId": 210,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_1",
@@ -9560,14 +11019,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: El acceso generalizado a la información y un mayor nivel educativo en la CAPV se identifican como factores que llevan a la ciudadanía a demandar un papel más activo en su salud y en las decisiones que les afectan. Respuesta B.",
     "originalId": 211,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_2",
@@ -9606,14 +11072,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Los flujos migratorios 'revelan patologías anteriormente poco conocidas en nuestro entorno, pero prevalentes en otras latitudes', lo que supone un reto para el sistema sanitario. Respuesta B.",
     "originalId": 212,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_3",
@@ -9652,14 +11125,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Uno de los principales desafíos es 'la necesidad de planificar el relevo ante la jubilación de cohortes numerosas de profesionales', especialmente en especialidades con mayor demanda. Respuesta C.",
     "originalId": 213,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_4",
@@ -9698,14 +11178,21 @@
     "explanation": "Pacto Vasco de Salud: El Pacto Vasco de Salud es un acuerdo de consenso político y social que establece las bases para el desarrollo del sistema sanitario vasco con una visión compartida a largo plazo. Respuesta A.",
     "originalId": 214,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_5",
@@ -9744,14 +11231,21 @@
     "explanation": "Pacto Vasco de Salud: Los tres pilares o ámbitos principales del Pacto son: la ciudadanía y su salud, el sistema sanitario y los determinantes de la salud. La financiación es un elemento instrumental, no un pilar por sí solo. Respuesta D.",
     "originalId": 215,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t13_6",
@@ -9790,14 +11284,21 @@
     "explanation": "Pacto Vasco de Salud: La Atención Primaria es el primer nivel de contacto de la ciudadanía con el sistema de salud y el eje vertebrador del sistema. El Pacto refuerza su papel central y la necesidad de fortalecerla. Respuesta B.",
     "originalId": 216,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_7",
@@ -9836,14 +11337,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: La cronicidad y el envejecimiento de la población son los principales retos identificados en el diagnóstico, junto con la necesidad de sostenibilidad del sistema y la coordinación sociosanitaria. Respuesta C.",
     "originalId": 217,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_8",
@@ -9882,14 +11390,21 @@
     "explanation": "Pacto Vasco de Salud: El Pacto contempla la coordinación sociosanitaria como un elemento fundamental para dar respuesta a las necesidades de las personas con dependencia, cronicidad y fragilidad. Respuesta A.",
     "originalId": 218,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t13_9",
@@ -9928,14 +11443,21 @@
     "explanation": "Pacto Vasco de Salud: La innovación y la digitalización se contemplan como herramientas al servicio de la mejora de la salud y del sistema sanitario, no como fines en sí mismos. Respuesta D.",
     "originalId": 219,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_10",
@@ -9974,14 +11496,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: La salud mental y los problemas de salud mental son identificados como uno de los grandes retos sanitarios, con una mayor prevalencia de trastornos de ansiedad y depresión, agravados por la pandemia. Respuesta B.",
     "originalId": 220,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_11",
@@ -10020,14 +11549,21 @@
     "explanation": "Pacto Vasco de Salud: El Pacto propone potenciar la participación ciudadana en el diseño, evaluación y mejora del sistema sanitario, considerando a la ciudadanía como agente activo de su salud. Respuesta C.",
     "originalId": 221,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t13_12",
@@ -10066,14 +11602,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Las desigualdades en salud por nivel socioeconómico son reconocidas como uno de los principales desafíos, siendo los grupos más vulnerables los más afectados. Respuesta A.",
     "originalId": 222,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_13",
@@ -10112,14 +11655,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: El envejecimiento de la población vasca es identificado como uno de los principales factores que incrementa la demanda de servicios sanitarios y sociosanitarios. Respuesta D.",
     "originalId": 223,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t13_14",
@@ -10158,14 +11708,21 @@
     "explanation": "Pacto Vasco de Salud: La sostenibilidad del sistema sanitario es un objetivo transversal que requiere la optimización de recursos, la eficiencia y la innovación en los modelos de atención. Respuesta B.",
     "originalId": 224,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t13_15",
@@ -10204,14 +11761,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Las listas de espera y los tiempos de acceso son identificados como uno de los principales problemas de satisfacción ciudadana con el sistema sanitario vasco. Respuesta C.",
     "originalId": 225,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_16",
@@ -10250,14 +11814,21 @@
     "explanation": "Pacto Vasco de Salud: La investigación, innovación y conocimiento son ejes estratégicos del Pacto para mejorar la calidad y eficiencia del sistema sanitario vasco. Respuesta A.",
     "originalId": 226,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_17",
@@ -10296,14 +11867,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Los determinantes sociales de la salud (empleo, educación, vivienda, medioambiente) son reconocidos como factores clave que influyen en la salud de la población y que requieren intervención intersectorial. Respuesta D.",
     "originalId": 227,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t13_18",
@@ -10342,14 +11920,21 @@
     "explanation": "Pacto Vasco de Salud: La coordinación entre el sistema sanitario y el sistema de servicios sociales es uno de los ámbitos de actuación prioritarios del Pacto para dar respuesta integral a las personas con necesidades complejas. Respuesta B.",
     "originalId": 228,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_19",
@@ -10388,14 +11973,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Las diferencias en salud entre mujeres y hombres (mayor esperanza de vida femenina pero mayor morbilidad), así como el impacto de los roles de género en la salud, son aspectos identificados en el diagnóstico del Pacto. Respuesta C.",
     "originalId": 229,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_20",
@@ -10434,14 +12026,21 @@
     "explanation": "Pacto Vasco de Salud: La prevención y la promoción de la salud son reconocidas como inversión prioritaria, con el objetivo de reducir la morbimortalidad evitable y mejorar la calidad de vida de la población. Respuesta A.",
     "originalId": 230,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t14_1",
@@ -10480,14 +12079,21 @@
     "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La Estrategia tiene vigencia 2020-2030 y su primera edición fue publicada en abril de 2023. Respuesta C.",
     "originalId": 231,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_2",
@@ -10526,14 +12132,21 @@
     "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: El Objetivo General es 'Promover el máximo nivel de seguridad posible, minimizando la probabilidad de ocurrencia de incidentes de seguridad en el transcurso de la asistencia sanitaria.' Respuesta C.",
     "originalId": 232,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_3",
@@ -10572,14 +12185,21 @@
     "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: El principio hipocrático de referencia es 'PRIMUM NON NOCERE' (primero, no hacer daño), que la ciudadanía asume que se cumple en la actividad asistencial. Respuesta D.",
     "originalId": 233,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t14_4",
@@ -10618,13 +12238,20 @@
     "explanation": "Estrategia de Seguridad del Paciente 2030: Las dos estrategias previas correspondieron a los periodos 2009-2012 y 2013-2016. La A recoge correctamente ambos periodos. Respuesta A.",
     "originalId": 234,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_5",
@@ -10663,14 +12290,21 @@
     "explanation": "Estrategia de Seguridad del Paciente 2030: Las dos nuevas líneas de acción incorporadas son la L9 (Seguridad en la transición asistencial) y la L10 (Cultura de seguridad en la organización). La C recoge estas dos nuevas líneas. Respuesta C.",
     "originalId": 235,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_6",
@@ -10709,14 +12343,21 @@
     "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: Los incidentes de seguridad incluyen: eventos adversos (que causan daño), incidentes sin daño (que no llegan a causar daño) y cuasi-incidentes (near misses). Respuesta D.",
     "originalId": 236,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t14_7",
@@ -10755,13 +12396,20 @@
     "explanation": "Estrategia de Seguridad del Paciente 2030, L2: La L2 se centra en la comunicación y la notificación de incidentes de seguridad, fomentando una cultura de aprendizaje y no de castigo. La D recoge correctamente este enfoque. Respuesta D.",
     "originalId": 237,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_8",
@@ -10806,7 +12454,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t14_9",
@@ -10845,14 +12500,21 @@
     "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La formación y capacitación del personal en seguridad del paciente es una de las líneas estratégicas de la Estrategia. Respuesta A.",
     "originalId": 239,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_10",
@@ -10891,14 +12553,21 @@
     "explanation": "Estrategia de Seguridad del Paciente 2030, L8: La L8 está dedicada a la seguridad del paciente en los cuidados de enfermería, incluyendo la prevención de úlceras por presión, caídas y otras complicaciones. La B es correcta. Respuesta B.",
     "originalId": 240,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t14_11",
@@ -10937,14 +12606,21 @@
     "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: El sistema de notificación de incidentes debe ser no punitivo, confidencial y orientado al aprendizaje organizacional. Respuesta C.",
     "originalId": 241,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_12",
@@ -10983,14 +12659,21 @@
     "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: Las prácticas seguras (checklist quirúrgico, higiene de manos, conciliación de medicación) son intervenciones de probada eficacia para reducir los eventos adversos. Respuesta C.",
     "originalId": 242,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_13",
@@ -11029,14 +12712,21 @@
     "explanation": "Estrategia de Seguridad del Paciente Osakidetza 20-30: La digitalización y las tecnologías de la información son herramientas reconocidas para mejorar la seguridad del paciente (historia clínica electrónica, alertas automatizadas, etc.). Respuesta A.",
     "originalId": 243,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t14_14",
@@ -11075,14 +12765,21 @@
     "explanation": "Estrategia de Seguridad del Paciente 2030: La estrategia incluye 10 líneas de acción (L1 a L10). La opción que no corresponde a ninguna línea real de la estrategia es la C. Respuesta C.",
     "originalId": 244,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t14_15",
@@ -11121,13 +12818,20 @@
     "explanation": "Estrategia de Seguridad del Paciente 2030: Se definen 10 Líneas de Acción Corporativas (L1 a L10). La B es la respuesta correcta con este número. Respuesta B (10 líneas).",
     "originalId": 245,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t15_1",
@@ -11166,13 +12870,20 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: Según el diagnóstico, en enero de 2025 la plantilla de Osakidetza estaba compuesta por un 75% de mujeres y un 25% de hombres. Respuesta B.",
     "originalId": 246,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t15_2",
@@ -11211,14 +12922,21 @@
     "explanation": "Capacitación en igualdad = formación obligatoria de todo el personal.",
     "originalId": 247,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t15_3",
@@ -11257,14 +12975,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta C.",
     "originalId": 248,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t15_4",
@@ -11303,14 +13028,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: El Plan contempla medidas para reducir la brecha de género en los puestos de responsabilidad y dirección, donde los hombres están sobrerrepresentados pese a ser minoría en la plantilla. Respuesta A.",
     "originalId": 249,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t15_5",
@@ -11349,14 +13081,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: El Plan incluye un protocolo de actuación ante el acoso sexual y el acoso por razón de sexo, contemplando medidas de prevención, detección y respuesta. Respuesta D.",
     "originalId": 250,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t15_6",
@@ -11395,14 +13134,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La conciliación de la vida laboral, familiar y personal es uno de los ejes del Plan, contemplando medidas para facilitar la corresponsabilidad. Respuesta B.",
     "originalId": 251,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t15_7",
@@ -11441,13 +13187,20 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
     "originalId": 252,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t15_8",
@@ -11486,14 +13239,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La Meta 5 es 'Salud'. Se centra en incorporar la perspectiva de género en la atención sanitaria y en la investigación en salud. La D es la respuesta correcta. Respuesta D.",
     "originalId": 253,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t15_9",
@@ -11532,14 +13292,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: El seguimiento del Plan se realizará a través de una Comisión de Seguimiento, con informes periódicos y evaluación final. Respuesta D.",
     "originalId": 254,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t15_10",
@@ -11578,14 +13345,21 @@
     "explanation": "II Plan Igualdad Osakidetza 2025-2028: La segregación ocupacional (concentración de mujeres en determinadas categorías y hombres en otras) es una de las desigualdades de género identificadas en el diagnóstico del Plan. Respuesta B.",
     "originalId": 255,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t16_1",
@@ -11624,14 +13398,21 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta A.",
     "originalId": 256,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t16_2",
@@ -11670,14 +13451,21 @@
     "explanation": "Mensajes audiovisuales: bilingües, euskera primero.",
     "originalId": 257,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t16_3",
@@ -11716,14 +13504,21 @@
     "explanation": "Prohibición absoluta de una sola lengua es incorrecta por excepciones.",
     "originalId": 258,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t16_4",
@@ -11762,14 +13557,21 @@
     "explanation": "Obligación de registrar idioma de preferencia oral del paciente.",
     "originalId": 259,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t16_5",
@@ -11804,12 +13606,19 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: Los perfiles lingüísticos de los puestos de trabajo son requisitos de acreditación del nivel de euskera necesario para cada puesto. La C recoge correctamente la función y naturaleza de los perfiles lingüísticos. Respuesta C.",
     "originalId": 260,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 73.8,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t01_20",
@@ -11848,14 +13657,21 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: En los servicios de recepción y admisión, y en las unidades asistenciales y administrativas, a toda la ciudadanía vascohablante debe garantizarse 'la recepción en euskera', independientemente del canal (presencial o telefónico). Respuesta A.",
     "originalId": 261,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t16_6",
@@ -11894,14 +13710,21 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El Plan contempla que la historia clínica puede redactarse en cualquiera de las dos lenguas oficiales, pero garantizando que la información esté disponible para todos los profesionales. Respuesta A.",
     "originalId": 262,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t16_7",
@@ -11940,14 +13763,21 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan establece un sistema de seguimiento anual de los indicadores de avance y una evaluación intermedia a mitad del periodo (2025). La C recoge correctamente este sistema de evaluación. Respuesta B.",
     "originalId": 263,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t16_8",
@@ -11986,14 +13816,21 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: La normalización del uso del euskera en Osakidetza se basa en la Ley 10/1982, básica de normalización del uso del Euskera, y la Ley 6/1989 de la función pública vasca. Respuesta C.",
     "originalId": 264,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t16_9",
@@ -12032,14 +13869,21 @@
     "explanation": "La competencia de quejas lingüísticas no suele ser de RRHH.",
     "originalId": 265,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t16_10",
@@ -12078,14 +13922,21 @@
     "explanation": "Designar interlocutores vascoparlantes con proveedores.",
     "originalId": 266,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t16_11",
@@ -12124,14 +13975,21 @@
     "explanation": "Comunicación interna anual sobre lengua preferente.",
     "originalId": 267,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t16_12",
@@ -12170,14 +14028,21 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta C.",
     "originalId": 268,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t16_13",
@@ -12216,14 +14081,21 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: El plan contempla la existencia de Comisiones de Euskera en cada organización de servicios, como órganos de participación y seguimiento. La B recoge correctamente esta estructura participativa. Respuesta B.",
     "originalId": 269,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t16_14",
@@ -12262,14 +14134,21 @@
     "explanation": "III Plan Euskera Osakidetza 2022-2028: Las dos evaluaciones generales del plan se realizarán: la primera el TERCER AÑO del período de planificación (2024) y la segunda el SEXTO AÑO (2027/final del período). Respuesta A.",
     "originalId": 270,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t17_1",
@@ -12308,14 +14187,21 @@
     "explanation": "POIE 2025-2030: La vigencia temporal del Plan Oncológico Integral de Euskadi (POIE) es 2025-2030. Respuesta B.",
     "originalId": 271,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t17_2",
@@ -12354,13 +14240,20 @@
     "explanation": "POIE 2025-2030 (Resumen Ejecutivo): El cáncer es responsable del 28% de las muertes en Euskadi, siendo la segunda causa de mortalidad. La C recoge correctamente este porcentaje. Respuesta C.",
     "originalId": 272,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t17_3",
@@ -12399,14 +14292,21 @@
     "explanation": "POIE 2025-2030 Resumen Ejecutivo: Las dos localizaciones más frecuentes en el período 2015-2019 fueron: cáncer de mama en mujeres y cáncer de próstata en hombres. Respuesta B.",
     "originalId": 273,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t17_4",
@@ -12445,14 +14345,21 @@
     "explanation": "POIE 2025-2030: Los cinco ejes o áreas prioritarias del Plan Oncológico son: Prevención y detección precoz, Diagnóstico y tratamiento, Cuidados y calidad de vida, Investigación e innovación, e Información y vigilancia epidemiológica. Respuesta C.",
     "originalId": 274,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t17_5",
@@ -12491,14 +14398,21 @@
     "explanation": "POIE 2025-2030: El Plan incorpora el enfoque de equidad para garantizar que todos los pacientes oncológicos tengan acceso equitativo a los tratamientos y cuidados, independientemente de su lugar de residencia o situación socioeconómica. Respuesta A.",
     "originalId": 275,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t11_11",
@@ -12537,14 +14451,21 @@
     "explanation": "POIE 2025-2030: La supervivencia al cáncer ha mejorado significativamente en las últimas décadas gracias a los avances en diagnóstico precoz y tratamientos. El Plan propone continuar esta tendencia mediante la innovación terapéutica. Respuesta D.",
     "originalId": 276,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t17_6",
@@ -12583,14 +14504,21 @@
     "explanation": "POIE 2025-2030: El Plan contempla la participación de los pacientes oncológicos y sus familias como agentes activos en el diseño y evaluación de los servicios oncológicos. Respuesta B.",
     "originalId": 277,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t17_7",
@@ -12629,14 +14557,21 @@
     "explanation": "POIE 2025-2030: Los programas de cribado (detección precoz) contemplados en el Plan incluyen: cribado de cáncer colorrectal, de cáncer de mama y de cáncer de cérvix. Respuesta C.",
     "originalId": 278,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t17_8",
@@ -12675,14 +14610,21 @@
     "explanation": "POIE 2025-2030 (Listado de acrónimos): 'PROMs' corresponde a 'Patient-Reported Outcome Measures', traducido como 'Medidas de Resultados Reportadas por los y las Pacientes'. Son instrumentos que recogen la perspectiva del paciente sobre los resultados de su tratamiento. Respuesta D.",
     "originalId": 279,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t12_20",
@@ -12721,13 +14663,20 @@
     "explanation": "POIE 2025-2030 y Plan de Salud Euskadi 2030: Una de las prioridades estratégicas del Plan de Salud de Euskadi 2030 con la que se alinea el POIE es 'reducir la morbimortalidad evitable y disminuir las desigualdades en salud'. Respuesta C.",
     "originalId": 280,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "?"
+    }
   },
   {
     "id": "comun-t18_1",
@@ -12766,14 +14715,21 @@
     "explanation": "Art. 1 LO 3/2021: 'La presente ley tiene por objeto regular el derecho de toda persona a solicitar y recibir la prestación de ayuda para morir, así como las obligaciones de las administraciones públicas y del personal profesional sanitario a garantizarla.' Respuesta C.",
     "originalId": 281,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_2",
@@ -12812,14 +14768,21 @@
     "explanation": "Art. 5.1.a LO 3/2021: Para poder recibir la prestación de ayuda para morir se requiere 'tener la nacionalidad española o residencia legal en España o certificado de empadronamiento que acredite un tiempo de permanencia en territorio español superior a doce meses.' Respuesta C.",
     "originalId": 282,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_3",
@@ -12858,13 +14821,20 @@
     "explanation": "Art. 3.b LO 3/2021: La ley define como 'eutanasia' la 'administración directa a la persona paciente de una sustancia por parte del personal sanitario competente.' El suicidio médicamente asistido implica que el propio paciente se administra la sustancia. Respuesta C.",
     "originalId": 283,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t18_4",
@@ -12903,14 +14873,21 @@
     "explanation": "Art. 5 LO 3/2021: Los requisitos para solicitar la prestación incluyen: mayoría de edad, nacionalidad/residencia, capacidad de obrar, padecer una enfermedad grave e incurable o padecimiento crónico grave, expresar de forma libre y autónoma la solicitud. Respuesta D.",
     "originalId": 284,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_5",
@@ -12949,14 +14926,21 @@
     "explanation": "Art. 8 LO 3/2021: La solicitud de prestación de ayuda para morir deberá realizarse 'por escrito o por otro medio que permita dejar constancia, ante el médico o médica responsable, en DOS ocasiones como mínimo, con un intervalo de al menos quince días naturales entre ambas.' Respuesta B.",
     "originalId": 285,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t18_6",
@@ -12995,14 +14979,21 @@
     "explanation": "Art. 17: la Comisión de Garantía y Evaluación verifica previo a la prestación.",
     "originalId": 286,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_7",
@@ -13041,14 +15032,21 @@
     "explanation": "Art. 16 LO 3/2021: El personal sanitario podrá ejercer la objeción de conciencia para negarse a participar en la prestación de ayuda para morir, debiendo manifestarla con antelación y por escrito. Respuesta C.",
     "originalId": 287,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t18_8",
@@ -13087,14 +15085,21 @@
     "explanation": "Art. 16: derecho a la objeción de conciencia del personal implicado.",
     "originalId": 288,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_9",
@@ -13133,12 +15138,19 @@
     "explanation": "Art. 3.c LO 3/2021: 'Padecimiento grave e incurable' es la enfermedad o condición resultante de una patología que incapacita de forma permanente para las actividades de la vida diaria y que no responde a los tratamientos disponibles. La B recoge esta definición legal. Respuesta B.",
     "originalId": 289,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 73.8,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t18_10",
@@ -13177,12 +15189,18 @@
     "explanation": "Art. 3 LO 3/2021: La ley distingue entre 'eutanasia' (médico administra directamente la sustancia) y 'suicidio médicamente asistido' (médico prescribe o suministra la sustancia pero la administra la propia persona). Respuesta B.",
     "originalId": 290,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 13.1,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t19_1",
@@ -13221,14 +15239,21 @@
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 291,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t19_2",
@@ -13267,14 +15292,21 @@
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta C.",
     "originalId": 292,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t19_3",
@@ -13313,14 +15345,21 @@
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 293,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t19_4",
@@ -13359,14 +15398,21 @@
     "explanation": "Art. 4 Ley 53/1984: El personal podrá compatibilizar su puesto con el ejercicio de actividades en el sector privado, con determinadas limitaciones, salvo que el puesto sea de especial responsabilidad o dedicación exclusiva. Respuesta C.",
     "originalId": 294,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t19_5",
@@ -13405,14 +15451,21 @@
     "explanation": "Art. 6 Ley 53/1984: No podrá autorizarse la compatibilidad cuando el segundo puesto público o actividad privada esté directamente relacionado con las funciones del primer puesto, pudiendo generar conflicto de intereses. Respuesta A.",
     "originalId": 295,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_21",
@@ -13451,14 +15504,21 @@
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 296,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t19_6",
@@ -13497,14 +15557,21 @@
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta C.",
     "originalId": 297,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t19_7",
@@ -13543,14 +15610,21 @@
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta A.",
     "originalId": 298,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t19_8",
@@ -13589,14 +15663,21 @@
     "explanation": "Art. 14 Ley 53/1984: Las sanciones por incumplimiento de la normativa de incompatibilidades van desde apercibimiento hasta la declaración de incompatibilidad y la pérdida del puesto. La sanción depende de la gravedad. Respuesta C.",
     "originalId": 299,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t19_9",
@@ -13635,13 +15716,20 @@
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 300,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   }
 ]

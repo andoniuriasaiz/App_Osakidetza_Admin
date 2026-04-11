@@ -82,7 +82,7 @@ def compute_changes(consensus: dict) -> list[dict]:
     y nunca se auto-corrigen aquí.
     Devuelve lista de {id, file, old_letter, new_letter, status, text, ...}.
     """
-    AUTO_CORRECT_STATUSES = {"RED_FLAG"}
+    AUTO_CORRECT_STATUSES = {"FIX_SUGGESTED"}
 
     changes = []
     for cat_qs in consensus.values():
@@ -113,6 +113,13 @@ def compute_changes(consensus: dict) -> list[dict]:
                 "status":     q.get("status", "UNKNOWN"),
                 "text":       q.get("text", "")[:80],
                 "osasun":     q.get("o", "?"),
+                "confidence": q.get("confidence", 0),
+                "votes": {
+                    "ia": q.get("ia", "?"),
+                    "k":  q.get("k", "?"),
+                    "o":  q.get("o", "?"),
+                    "u":  q.get("u", "?")
+                },
                 # Fuentes que coincidirán DESPUÉS de aplicar la corrección
                 # (target = la respuesta corregida, así que IA también coincide)
                 "source_sources": _compute_source_sources(
@@ -158,10 +165,19 @@ def build_source_index(consensus: dict) -> dict[str, dict]:
             # respuesta de la app se habrá corregido y "IA" se incluirá.
             sources = _compute_source_sources(app, ka, oa, ua, o_rel, correct)
             index[qid] = {
-                "sourceSources": sources,
-                "sourceStatus":  status,
-                "sourceTrio":    len(sources) == 4,  # Kaixo+Osasun+UGT+IA
-                "o_reliable":    o_rel,
+                "sourceSources":    sources,
+                "sourceStatus":     status,
+                "sourceTrio":       len(sources) == 4,  # Kaixo+Osasun+UGT+IA
+                "sourceConfidence": q.get("confidence", 0),
+                "sourceVotes": {
+                    "ia": ka, # Error en variable ka? no, ka es k. Ah, espera.
+                    # Déjame corregir esto. El loop de build_source_index tiene ka=q.get("k")
+                    "ia": q.get("ia", "?"),
+                    "k":  ka,
+                    "o":  oa,
+                    "u":  ua
+                },
+                "o_reliable":       o_rel,
             }
     return index
 
@@ -277,16 +293,20 @@ def apply(consensus: dict, dry_run: bool = True) -> dict:
                     # Pregunta corregida: usar fuentes pre-calculadas con nueva respuesta
                     ch = corrected_sources[qid]
                     new_ss = ch["source_sources"]
-                    questions[idx]["sourceSources"] = new_ss
-                    questions[idx]["sourceStatus"]  = src_data["sourceStatus"]
-                    questions[idx]["sourceTrio"]    = len(new_ss) == 4
-                    questions[idx]["o_reliable"]    = src_data["o_reliable"]
+                    questions[idx]["sourceSources"]    = new_ss
+                    questions[idx]["sourceStatus"]     = src_data["sourceStatus"]
+                    questions[idx]["sourceTrio"]       = len(new_ss) == 4
+                    questions[idx]["sourceConfidence"] = ch["confidence"]
+                    questions[idx]["sourceVotes"]      = ch["votes"]
+                    questions[idx]["o_reliable"]       = src_data["o_reliable"]
                 else:
                     # Pregunta sin corrección: usar datos directos del índice
-                    questions[idx]["sourceSources"] = src_data["sourceSources"]
-                    questions[idx]["sourceStatus"]  = src_data["sourceStatus"]
-                    questions[idx]["sourceTrio"]    = src_data["sourceTrio"]
-                    questions[idx]["o_reliable"]    = src_data["o_reliable"]
+                    questions[idx]["sourceSources"]    = src_data["sourceSources"]
+                    questions[idx]["sourceStatus"]     = src_data["sourceStatus"]
+                    questions[idx]["sourceTrio"]       = src_data["sourceTrio"]
+                    questions[idx]["sourceConfidence"] = src_data["sourceConfidence"]
+                    questions[idx]["sourceVotes"]      = src_data["sourceVotes"]
+                    questions[idx]["o_reliable"]       = src_data["o_reliable"]
 
         # ── 3. Guardar ────────────────────────────────────────────────────────
         if not dry_run and (file_applied > 0 or src_entries):
@@ -342,10 +362,12 @@ def update_sources_only(consensus: dict) -> dict:
             idx = id_index.get(qid)
             if idx is None:
                 continue
-            questions[idx]["sourceSources"] = src_data["sourceSources"]
-            questions[idx]["sourceStatus"]  = src_data["sourceStatus"]
-            questions[idx]["sourceTrio"]    = src_data["sourceTrio"]
-            questions[idx]["o_reliable"]    = src_data["o_reliable"]
+            questions[idx]["sourceSources"]    = src_data["sourceSources"]
+            questions[idx]["sourceStatus"]     = src_data["sourceStatus"]
+            questions[idx]["sourceTrio"]       = src_data["sourceTrio"]
+            questions[idx]["sourceConfidence"] = src_data["sourceConfidence"]
+            questions[idx]["sourceVotes"]      = src_data["sourceVotes"]
+            questions[idx]["o_reliable"]       = src_data["o_reliable"]
             changed = True
             updated_questions += 1
         if changed:

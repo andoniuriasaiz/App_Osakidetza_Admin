@@ -23,10 +23,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Todas las respuestas anteriores son correctas."
+      "Todas las personas que accedan o utilicen las prestaciones y servicios sanitarios que se proporcionan por el sistema sanitario de Euskadi."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -36,12 +36,20 @@
     "explanation": "Decreto 147/2015: Se reconoce el derecho a presentar quejas, reclamaciones y sugerencias, y a recibir respuesta por escrito en un plazo razonable. La B es correcta al recoger el procedimiento de reclamaciones en el sistema sanitario vasco. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 81,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t06_2",
@@ -80,11 +88,18 @@
     "explanation": "Art. 3 Decreto 147/2015: los derechos son exigibles en centros de titularidad pública, privada o concertados de Euskadi, incluyendo docencia. La investigación biomédica se rige por su normativa específica.",
     "officialId": 82,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo"
-    ]
+    ],
+    "sourceConfidence": 31.1,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t06_3",
@@ -123,12 +138,18 @@
     "explanation": "Art. 4 Decreto 147/2015: el principio fundamental es el respeto a la libertad, dignidad y autonomía de la persona en las decisiones sobre su salud. Las opciones b y c no son principios informadores de la Declaración.",
     "officialId": 83,
     "sourceTrio": false,
-    "sourceStatus": "CONSENSUS",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "UGT",
-      "IA"
-    ]
+      "Kaixo"
+    ],
+    "sourceConfidence": 31.1,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t06_4",
@@ -154,10 +175,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "1. Neonatología, infancia y adolescencia. 2. Salud sexual y reproductiva, embarazo y parto. 3. Salud laboral. 4. Personas mayores y final de la vida."
+      "1. Infancia y adolescencia. 2. Salud sexual y reproductiva. 3. Personas mayores. 4. Final de la vida."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -167,12 +188,20 @@
     "explanation": "Decreto 147/2015: las fases específicas reconocidas son: infancia y adolescencia; salud sexual y reproductiva; personas mayores; y final de la vida.",
     "officialId": 84,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "tec-comun-t06_5",
@@ -198,10 +227,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Al acompañamiento espiritual."
+      "Todas las respuestas anteriores son correctas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -211,12 +240,20 @@
     "explanation": "Decreto 147/2015: en el ámbito del final de la vida, los derechos incluyen acompañamiento de familiares y allegados, habitación individual con carácter general y acompañamiento espiritual. Todas correctas.",
     "officialId": 85,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-comun-t06_6",
@@ -242,10 +279,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Debe dejar por escrito las decisiones cuando la política del centro sanitario así lo establezca."
+      "Debe dejar por escrito las decisiones cuando sea legalmente exigible o recomendable."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -255,12 +292,20 @@
     "explanation": "Decreto 147/2015: la persona paciente tiene la obligación de dejar constancia escrita de sus decisiones cuando así lo exija la ley o sea recomendable por las circunstancias del caso.",
     "officialId": 86,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t06_7",
@@ -299,12 +344,19 @@
     "explanation": "Decreto 147/2015: los Servicios de Atención a Pacientes estarán en Osakidetza, centros concertados, privados y el departamento competente en sanidad.",
     "officialId": 87,
     "sourceTrio": false,
-    "sourceStatus": "CONSENSUS",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 29.5,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t06_8",
@@ -343,12 +395,19 @@
     "explanation": "Decreto 147/2015: las reclamaciones contra el personal se resuelven conforme a las normas disciplinarias específicas (no generales), con expediente informativo previo cuando corresponda.",
     "officialId": 88,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   }
 ]

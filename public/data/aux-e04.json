@@ -36,12 +36,18 @@
     "explanation": "Decreto 255/1997: las revisiones de oficio y recursos extraordinarios corresponden a la Presidencia o Director General.",
     "originalId": 120,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 25.3,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "aux-e04_2",
@@ -80,14 +86,21 @@
     "explanation": "Art. 122.1 Ley 39/2015: El plazo para interponer recurso de alzada será de UN MES SI EL ACTO FUERA EXPRESO. Si no lo fuera (silencio), el recurso PODRÁ INTERPONERSE EN CUALQUIER MOMENTO. Respuesta B.",
     "originalId": 173,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "aux-e04_3",
@@ -126,14 +139,21 @@
     "explanation": "Art. 123 Ley 39/2015: reposición contra actos que ponen fin vía administrativa.",
     "originalId": 174,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "aux-e04_4",
@@ -172,14 +192,21 @@
     "explanation": "Art. 123.2 Ley 39/2015: el recurso potestativo de reposición impide acudir a lo contencioso hasta resolución.",
     "originalId": 175,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "aux-e04_5",
@@ -218,14 +245,21 @@
     "explanation": "Art. 122.2 Ley 39/2015: El plazo máximo para dictar y notificar la resolución del recurso de alzada será de TRES MESES. Transcurrido ese plazo sin resolución expresa, el recurso se entenderá desestimado. Respuesta C.",
     "originalId": 176,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "aux-e04_6",
@@ -264,14 +298,21 @@
     "explanation": "Art. 122.2 Ley 39/2015: silencio en recurso de alzada = desestimación, no caducidad.",
     "originalId": 177,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "aux-e04_7",
@@ -310,14 +351,21 @@
     "explanation": "Art. 124.1 Ley 39/2015: El plazo para interponer el recurso potestativo de reposición será de UN MES SI EL ACTO FUERA EXPRESO. Si no lo fuera, en cualquier momento. Respuesta A.",
     "originalId": 178,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "aux-e04_8",
@@ -362,7 +410,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 41.2,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "aux-e04_9",
@@ -401,13 +456,20 @@
     "explanation": "Art. 125 Ley 39/2015: revisión por documentos esenciales ignorados.",
     "originalId": 180,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "aux-e04_10",
@@ -446,13 +508,20 @@
     "explanation": "Art. 125 Ley 39/2015: revisión por documentos esenciales ignorados.",
     "originalId": 180,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "aux-e04_11",
@@ -491,14 +560,21 @@
     "explanation": "Art. 126.2 Ley 39/2015: El recurso extraordinario de revisión por ERROR DE HECHO (causa a del Art. 125.1) deberá interponerse en el plazo de CUATRO AÑOS siguientes a la fecha de la notificación de la resolución impugnada. Respuesta C.",
     "originalId": 182,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "aux-e04_12",
@@ -537,14 +613,21 @@
     "explanation": "Art. 126.3 Ley 39/2015: En los demás casos (causas b, c, d del Art. 125.1, incluida la APARICIÓN DE DOCUMENTOS DE VALOR ESENCIAL), el recurso deberá interponerse en el plazo de TRES MESES a contar desde el conocimiento de los documentos. Respuesta B.",
     "originalId": 183,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "aux-e04_13",
@@ -583,14 +666,21 @@
     "explanation": "Art. 126 Ley 39/2015: Contra la resolución del recurso extraordinario de revisión NO CABRÁ NINGÚN OTRO RECURSO ADMINISTRATIVO. La vía administrativa queda agotada con este recurso. Respuesta D.",
     "originalId": 184,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "aux-e04_14",
@@ -629,14 +719,21 @@
     "explanation": "Art. 125 Ley 39/2015: El recurso extraordinario de revisión solo procede contra actos firmes en vía administrativa cuando concurra alguno de los motivos tasados: aparición de documentos de valor esencial desconocidos al dictarse el acto, que el acto se dictara por influencia de documentos o testimonios declarados falsos, o que el acto se dictase como consecuencia de prevaricación, cohecho u otras conductas punibles. La B recoge correctamente estas causas. Respuesta B.",
     "originalId": 185,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "aux-e04_15",
@@ -675,14 +772,21 @@
     "explanation": "Art. 116.1.c Ley 39/2015: Será causa de inadmisión de un recurso administrativo CARECER MANIFIESTAMENTE DE FUNDAMENTO. No simplemente no estar de acuerdo con la resolución (a). Respuesta B.",
     "originalId": 186,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "aux-e04_16",
@@ -721,14 +825,21 @@
     "explanation": "Art. 117.1 Ley 39/2015: La interposición de un recurso administrativo NO SUSPENDE LA EJECUCIÓN DEL ACTO IMPUGNADO, SALVO QUE UNA NORMA LO ESTABLEZCA EXPRESAMENTE O EL ÓRGANO LO ACUERDE MOTIVADAMENTE. Regla general: no suspensión automática. Respuesta C.",
     "originalId": 187,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "aux-e04_17",
@@ -767,14 +878,21 @@
     "explanation": "Art. 122.1 Ley 39/2015: La competencia para resolver el recurso de alzada corresponde AL ÓRGANO SUPERIOR JERÁRQUICO DEL QUE DICTÓ EL ACTO impugnado. No al mismo órgano (a). Respuesta B.",
     "originalId": 188,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "aux-e04_18",
@@ -813,13 +931,20 @@
     "explanation": "Art. 106.1 Ley 39/2015: La nulidad de pleno derecho podrá declararse POR INICIATIVA PROPIA (de oficio) O A SOLICITUD DEL INTERESADO, en cualquier momento. No solo a instancia de parte (a). Respuesta B.",
     "originalId": 198,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   }
 ]

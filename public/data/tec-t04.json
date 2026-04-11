@@ -40,9 +40,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_2",
@@ -85,9 +92,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_3",
@@ -130,9 +144,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t04_4",
@@ -175,9 +196,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_5",
@@ -220,9 +248,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_6",
@@ -265,9 +300,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_7",
@@ -310,9 +352,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_8",
@@ -355,9 +404,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_9",
@@ -400,9 +456,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_10",
@@ -445,9 +508,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_11",
@@ -490,9 +560,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_12",
@@ -535,9 +612,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_13",
@@ -563,10 +647,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "El plazo máximo para dictar resolución expresa no podrá exceder de 6 meses, salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea."
+      "Cuando las normas reguladoras del procedimiento no fijen un plazo máximo para la resolución, éste será de 3 meses."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -577,11 +661,19 @@
     "officialId": 65,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_14",
@@ -624,9 +716,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t04_15",
@@ -652,10 +751,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "En cualquier momento anterior al trámite de propuesta de resolución."
+      "En cualquier momento anterior al trámite de audiencia."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -666,11 +765,19 @@
     "officialId": 67,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t04_16",
@@ -713,9 +820,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_17",
@@ -758,9 +872,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_18",
@@ -803,9 +924,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_19",
@@ -848,9 +976,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t04_20",
@@ -893,9 +1028,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_21",
@@ -938,9 +1080,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_22",
@@ -983,9 +1132,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_23",
@@ -1028,9 +1184,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_24",
@@ -1073,9 +1236,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_25",
@@ -1118,9 +1288,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_26",
@@ -1163,9 +1340,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t04_27",
@@ -1191,10 +1375,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Se discrepe de la valoración jurídica realizada por la Administración."
+      "Exista error de hecho que resulte de los propios documentos incorporados al expediente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1205,11 +1389,19 @@
     "officialId": 79,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t04_28",
@@ -1252,9 +1444,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t04_29",
@@ -1297,9 +1496,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_30",
@@ -1342,9 +1548,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_31",
@@ -1387,9 +1600,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_32",
@@ -1432,9 +1652,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_33",
@@ -1477,9 +1704,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_34",
@@ -1522,9 +1756,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_35",
@@ -1567,9 +1808,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_36",
@@ -1612,9 +1860,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_37",
@@ -1657,9 +1912,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t04_38",
@@ -1702,9 +1964,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_39",
@@ -1747,9 +2016,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t04_40",
@@ -1792,9 +2068,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_41",
@@ -1837,9 +2120,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t04_42",
@@ -1882,9 +2172,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_43",
@@ -1927,9 +2224,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_44",
@@ -1972,9 +2276,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_45",
@@ -2017,9 +2328,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_46",
@@ -2062,9 +2380,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t04_47",
@@ -2106,9 +2431,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "CONSENSUS",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t04_48",
@@ -2151,8 +2483,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   }
 ]

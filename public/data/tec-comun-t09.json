@@ -23,10 +23,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Documentar la actuación del personal profesional sanitario a efectos de responsabilidad legal."
+      "Ayudar a interpretar las instrucciones y servir de orientación para la toma de decisiones clínicas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -36,12 +36,20 @@
     "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
     "officialId": 97,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t09_2",
@@ -67,10 +75,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Se podrá designar exclusivamente una persona representante para que sea la interlocutora válida del personal facultativo o del equipo sanitario."
+      "Se podrá designar una o varias personas representantes para que sean las interlocutoras válidas del personal facultativo o del equipo sanitario."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -80,12 +88,20 @@
     "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
     "officialId": 98,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t09_3",
@@ -130,7 +146,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 41.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t09_4",
@@ -169,13 +192,20 @@
     "explanation": "Art. 2 Ley 7/2002: las instrucciones sobre el tratamiento pueden referirse tanto a enfermedades actuales como a futuras posibles. No hay restricción a una sola modalidad.",
     "officialId": 100,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t09_5",
@@ -201,10 +231,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de Voluntades Anticipadas o del servicio de documentación de un centro sanitario de la CAPV; o ante dos testigos."
+      "Se formaliza ante notaría; ante funcionaria/o encargada/o del Registro Vasco de Voluntades Anticipadas; o ante tres testigos."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -214,12 +244,20 @@
     "explanation": "Art. 3 Ley 7/2002: El DVA puede ser revocado en cualquier momento sin necesidad de respetar ninguna formalidad especial, basta con manifestar la voluntad de forma fehaciente. La última voluntad expresada prevalece sobre la anterior. Respuesta D.",
     "officialId": 101,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t09_6",
@@ -245,10 +283,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Siempre que actúe libremente."
+      "Siempre que conserve la capacidad y actúe libremente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -258,12 +296,20 @@
     "explanation": "Art. 4.2 Ley 7/2002: el documento de VA puede modificarse, sustituirse o revocarse siempre que la persona conserve la capacidad Y actúe libremente. Ambas condiciones son necesarias simultáneamente.",
     "officialId": 102,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "tec-comun-t09_7",
@@ -302,11 +348,18 @@
     "explanation": "Art. 5 Ley 7/2002: la voluntad actual del paciente prevalece sobre el documento cuando conserva su capacidad, libertad de actuación y puede expresarse de manera inequívoca.",
     "officialId": 103,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo"
-    ]
+    ],
+    "sourceConfidence": 27.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t09_8",
@@ -345,13 +398,20 @@
     "explanation": "Art. 2.3 Ley 7/2002: El DVA puede contener: instrucciones sobre tratamientos deseados o rechazados, designación de representante, y donación de órganos. No puede contener instrucciones contrarias al ordenamiento jurídico o a la buena práctica. La D recoge correctamente el contenido posible. Respuesta D.",
     "officialId": 104,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   }
 ]

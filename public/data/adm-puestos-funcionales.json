@@ -36,14 +36,21 @@
     "explanation": "D.186/2005 Art. 3: 'Los Puestos Funcionales se constituyen como el instrumento de clasificación del personal orientado a la ORGANIZACIÓN, PROMOCIÓN Y DESARROLLO INTEGRAL del personal.' Definición literal del artículo. Las opciones b) formación, c) conocimientos informáticos y d) gestión de jubilaciones son falsas. Respuesta A.",
     "originalId": 24,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-puestos-funcionales_2",
@@ -82,14 +89,21 @@
     "explanation": "D.186/2005 Art. 3 (definición): Puesto Funcional = 'toda agrupación de efectivos por razón común respecto a UNO O MÁS ámbitos funcionales, DIFERENCIADA de cualquier otra existente en el conjunto de la estructura del Ente Público en cuanto a las exigencias de requerimientos profesionales para su desempeño o a las responsabilidades jerárquicas y/o de gestión que asuman.' Opción A dice 'cinco ámbitos' (FALSO). Opción C dice 'sin diferenciarse' (FALSO). Opción D dice 'sin razón común' (FALSO). Respuesta B.",
     "originalId": 25,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_3",
@@ -128,14 +142,21 @@
     "explanation": "D.186/2005 Art. 5 (Identificación): Los Puestos Funcionales se identifican mediante: a) Perfil profesional requerido; b) Modo de provisión; c) Efectos retributivos asignados. De las opciones procedencia (a), edad (b) y perfil profesional (c), ÚNICAMENTE el PERFIL PROFESIONAL REQUERIDO es un elemento identificador. Respuesta C.",
     "originalId": 26,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-puestos-funcionales_4",
@@ -174,13 +195,20 @@
     "explanation": "D.186/2005 Art. 5: Los EFECTOS RETRIBUTIVOS ASIGNADOS figuran expresamente como uno de los aspectos que identifican los Puestos Funcionales, con carácter general (no solo en determinadas ocasiones). Opción B ('en determinadas ocasiones') y opción C ('no identifica') son incorrectas. Respuesta A.",
     "originalId": 27,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "adm-puestos-funcionales_5",
@@ -219,14 +247,21 @@
     "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 28,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-puestos-funcionales_6",
@@ -265,14 +300,21 @@
     "explanation": "D.186/2005 Art. 7 (Perfil Profesional requerido): estará constituido por 1) La titulación o titulaciones requeridas; 2) La EXPERIENCIA (años en la categoría de procedencia); 3) El PERFIL LINGÜÍSTICO (conforme al D.67/2003). El carnet de conducir (a), la fecha de nacimiento (b) y el lugar de procedencia (d) no forman parte del perfil profesional. Respuesta C.",
     "originalId": 29,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-puestos-funcionales_7",
@@ -311,14 +353,21 @@
     "explanation": "D.186/2005: La provisión de los Puestos Funcionales será regulada por el CONSEJO DE ADMINISTRACIÓN de Osakidetza-Servicio vasco de salud, con los principios generales fijados en la Ley de Ordenación sanitaria de Euskadi y demás normas aplicables. El responsable de RRHH (a), el Comité de Médicos (c) y el Sindicato (d) no tienen esta competencia regulatoria. Respuesta B.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_8",
@@ -357,14 +406,21 @@
     "explanation": "D.186/2005 Art. 10: El número de efectivos de las Plantillas Funcionales vendrá limitado por la Plantilla Estructural aprobada por el Consejo de Administración, constituida por el TOTAL de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios. Las opciones b) 'algunos', c) '25%' y d) '50%' son incorrectas. Respuesta D.",
     "originalId": 31,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-puestos-funcionales_9",
@@ -403,14 +459,21 @@
     "explanation": "D.186/2005 Art. 10 (modificaciones de Plantilla): Los efectivos incluidos en las Plantillas Funcionales SÍ PODRÁN ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas. La opción a) dice que 'no podrán' (FALSO). Las opciones b) y c) introducen porcentajes (25%, 50%) inexistentes. Respuesta D.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_10",
@@ -449,14 +512,21 @@
     "explanation": "D.186/2005: Los efectivos de las distintas Organizaciones de Servicios PODRÁN ser objeto de traslado entre las mismas mediante Resolución del DIRECTOR GENERAL de Osakidetza-Servicio vasco de Salud. La opción b) niega la posibilidad de traslado (FALSO) y la c) lo limita a la misma organización (FALSO). Respuesta A.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_11",
@@ -495,14 +565,21 @@
     "explanation": "D.186/2005 Art. 11.1: Las modificaciones de Plantilla Funcional que NO conlleven alteración de la Plantilla Estructural de una Organización de Servicios serán aprobadas por Resolución del DIRECTOR-GERENTE de la misma. Para modificaciones menores (sin cambio estructural), la competencia reside en el Director-Gerente de la organización afectada, no en el CA (b) ni en la Dirección Médica (c). Respuesta A.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_12",
@@ -541,14 +618,21 @@
     "explanation": "D.186/2005 Art. 11.2: Las modificaciones que SÍ impliquen variación de la Plantilla Estructural estarán sujetas a la consideración y aprobación del CONSEJO DE ADMINISTRACIÓN de Osakidetza, debiendo ser aprobadas por el CONSEJO DE GOBIERNO si suponen alteración del número máximo de efectivos por Grupo Profesional. Opción a) atribuye esta función al Director-Gerente (FALSO). Opción b) invierte la condición ('no suponen' → FALSO). Respuesta C.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_13",
@@ -587,13 +671,20 @@
     "explanation": "D.186/2005 Art. 11 (notificación): Las modificaciones de Plantilla SE DEBERÁN NOTIFICAR a los trabajadores que viniesen desempeñando el puesto modificado. La notificación individual es obligatoria en todo caso. Opción a) niega la obligación (FALSO) y la c) la condiciona a 'algunos casos' (FALSO). Respuesta B.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   }
 ]

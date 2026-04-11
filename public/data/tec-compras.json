@@ -39,9 +39,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-compras_2",
@@ -83,9 +90,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-compras_3",
@@ -127,9 +141,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-compras_4",
@@ -171,9 +192,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-compras_5",
@@ -215,9 +243,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-compras_6",
@@ -259,9 +294,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-compras_7",
@@ -303,9 +345,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-compras_8",
@@ -347,9 +396,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-compras_9",
@@ -391,9 +447,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-compras_10",
@@ -435,9 +498,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-compras_11",
@@ -479,9 +549,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-compras_12",
@@ -523,9 +600,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-compras_13",
@@ -567,9 +651,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-compras_14",
@@ -611,9 +702,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-compras_15",
@@ -655,8 +753,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   }
 ]

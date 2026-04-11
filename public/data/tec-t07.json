@@ -39,9 +39,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t07_2",
@@ -83,9 +90,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_3",
@@ -127,9 +141,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t07_4",
@@ -155,10 +176,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "El Consejo de Administración de Osakidetza."
+      "La Dirección Gerencia de la propia Organización de Servicios."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -168,11 +189,19 @@
     "explanation": "Decreto 186/2025: la aprobación de la plantilla funcional de cada organización de servicios de Osakidetza corresponde al Consejo de Administración del Ente Público.",
     "officialId": 207,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 66.1,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t07_5",
@@ -214,9 +243,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_6",
@@ -258,9 +294,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t07_7",
@@ -302,9 +345,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t07_8",
@@ -346,9 +396,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_9",
@@ -390,9 +447,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t07_10",
@@ -434,9 +498,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t07_11",
@@ -478,9 +549,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_12",
@@ -522,9 +600,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_13",
@@ -566,9 +651,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t07_14",
@@ -610,9 +702,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_15",
@@ -654,9 +753,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t07_16",
@@ -682,10 +788,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Prescriben a los 3 años."
+      "Prescriben a los 2 años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -695,11 +801,19 @@
     "explanation": "LO 7/2021 y normativa de protección de datos: las infracciones graves en materia de protección de datos prescriben a los tres años desde que se cometieron o desde que el responsable pudo ser conocido.",
     "officialId": 219,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 66.1,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t07_17",
@@ -725,10 +839,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Prescriben a los 3 años."
+      "Prescriben a los 2 años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -738,11 +852,19 @@
     "explanation": "Normativa de protección de datos (LOPDGDD y RGPD): las sanciones impuestas en aplicación del RGPD prescriben en función de su cuantía. Las sanciones de importe medio (como 50.000 euros) prescriben a los tres años.",
     "officialId": 220,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 66.1,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t07_18",
@@ -784,9 +906,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t07_19",
@@ -812,10 +941,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "Las tres afirmaciones anteriores son falsas."
+      "Si la persona empresaria es trabajadora autónoma, podrá contratar como trabajadora/or por cuenta ajena a las hijas e hijos menores de 30 años aunque convivan con ella."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -825,11 +954,19 @@
     "explanation": "Art. 12 LGSS: no tienen la consideración de trabajadores por cuenta ajena el cónyuge, los descendientes y demás parientes hasta segundo grado que convivan y trabajen con el empresario autónomo, salvo que se pruebe la condición de asalariados. Las tres opciones anteriores contienen inexactitudes.",
     "officialId": 222,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 66.1,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_20",
@@ -871,9 +1008,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t07_21",
@@ -915,9 +1059,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t07_22",
@@ -943,10 +1094,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Personas trabajadoras por cuenta propia o autónomas y personas trabajadoras del mar."
+      "Personas trabajadoras del mar y personal funcionario público, civil y militar."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -956,11 +1107,19 @@
     "explanation": "Art. 10.2 LGSS: los regímenes especiales que deben tender a la homogeneidad con el Régimen General son el RETA (autónomos) y el Régimen Especial del Mar. El personal funcionario tiene régimen propio diferente.",
     "officialId": 225,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 66.1,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t07_23",
@@ -1002,9 +1161,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_24",
@@ -1046,9 +1212,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_25",
@@ -1090,9 +1263,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t07_26",
@@ -1134,9 +1314,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t07_27",
@@ -1178,8 +1365,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   }
 ]

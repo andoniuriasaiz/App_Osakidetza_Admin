@@ -40,9 +40,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t03_2",
@@ -85,9 +92,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t03_3",
@@ -130,9 +144,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t03_4",
@@ -158,10 +179,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Diez años."
+      "Doce años."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -172,11 +193,19 @@
     "officialId": 34,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t03_5",
@@ -202,10 +231,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "La función delegada puede ser objeto de subdelegación si tal posibilidad está prevista en el Decreto u Orden de delegación."
+      "Los actos delegados se considerarán dictados por el Órgano delegante."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -216,11 +245,19 @@
     "officialId": 35,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t03_6",
@@ -263,9 +300,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t03_7",
@@ -304,11 +348,19 @@
     "explanation": "Ley 7/1981: la delegación legislativa no puede afectar al ordenamiento básico del Gobierno ni al régimen jurídico de la Administración vasca. Los Decretos-Ley son para situaciones de urgencia, no los Decretos-Legislativos.",
     "officialId": 37,
     "sourceSources": [
-      "UGT"
+      "Kaixo",
+      "IA"
     ],
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "UGT_OUTLIER",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 31.1,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t03_8",
@@ -351,9 +403,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t03_9",
@@ -396,9 +455,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t03_10",
@@ -441,9 +507,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t03_11",
@@ -486,9 +559,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t03_12",
@@ -531,9 +611,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t03_13",
@@ -576,9 +663,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t03_14",
@@ -617,11 +711,19 @@
     "explanation": "Decreto 319/2024: la Dirección de Farmacia depende de la Viceconsejería de Administración y Financiación Sanitarias, no de la Viceconsejería de Salud.",
     "officialId": 44,
     "sourceSources": [
-      "UGT"
+      "Kaixo",
+      "IA"
     ],
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "UGT_OUTLIER",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 31.1,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t03_15",
@@ -664,9 +766,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t03_16",
@@ -709,9 +818,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t03_17",
@@ -754,9 +870,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t03_18",
@@ -799,9 +922,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t03_19",
@@ -844,9 +974,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t03_20",
@@ -889,9 +1026,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t03_21",
@@ -934,9 +1078,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t03_22",
@@ -979,8 +1130,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   }
 ]

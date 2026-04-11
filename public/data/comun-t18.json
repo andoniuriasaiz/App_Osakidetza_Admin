@@ -36,14 +36,21 @@
     "explanation": "Art. 1 LO 3/2021: 'La presente ley tiene por objeto regular el derecho de toda persona a solicitar y recibir la prestación de ayuda para morir, así como las obligaciones de las administraciones públicas y del personal profesional sanitario a garantizarla.' Respuesta C.",
     "originalId": 281,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_2",
@@ -82,14 +89,21 @@
     "explanation": "Art. 5.1.a LO 3/2021: Para poder recibir la prestación de ayuda para morir se requiere 'tener la nacionalidad española o residencia legal en España o certificado de empadronamiento que acredite un tiempo de permanencia en territorio español superior a doce meses.' Respuesta C.",
     "originalId": 282,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_3",
@@ -128,13 +142,20 @@
     "explanation": "Art. 3.b LO 3/2021: La ley define como 'eutanasia' la 'administración directa a la persona paciente de una sustancia por parte del personal sanitario competente.' El suicidio médicamente asistido implica que el propio paciente se administra la sustancia. Respuesta C.",
     "originalId": 283,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t18_4",
@@ -173,14 +194,21 @@
     "explanation": "Art. 5 LO 3/2021: Los requisitos para solicitar la prestación incluyen: mayoría de edad, nacionalidad/residencia, capacidad de obrar, padecer una enfermedad grave e incurable o padecimiento crónico grave, expresar de forma libre y autónoma la solicitud. Respuesta D.",
     "originalId": 284,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_5",
@@ -219,14 +247,21 @@
     "explanation": "Art. 8 LO 3/2021: La solicitud de prestación de ayuda para morir deberá realizarse 'por escrito o por otro medio que permita dejar constancia, ante el médico o médica responsable, en DOS ocasiones como mínimo, con un intervalo de al menos quince días naturales entre ambas.' Respuesta B.",
     "originalId": 285,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t18_6",
@@ -265,14 +300,21 @@
     "explanation": "Art. 17: la Comisión de Garantía y Evaluación verifica previo a la prestación.",
     "originalId": 286,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_7",
@@ -311,14 +353,21 @@
     "explanation": "Art. 16 LO 3/2021: El personal sanitario podrá ejercer la objeción de conciencia para negarse a participar en la prestación de ayuda para morir, debiendo manifestarla con antelación y por escrito. Respuesta C.",
     "originalId": 287,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t18_8",
@@ -357,14 +406,21 @@
     "explanation": "Art. 16: derecho a la objeción de conciencia del personal implicado.",
     "originalId": 288,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t18_9",
@@ -403,12 +459,19 @@
     "explanation": "Art. 3.c LO 3/2021: 'Padecimiento grave e incurable' es la enfermedad o condición resultante de una patología que incapacita de forma permanente para las actividades de la vida diaria y que no responde a los tratamientos disponibles. La B recoge esta definición legal. Respuesta B.",
     "originalId": 289,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t18_10",
@@ -447,11 +510,17 @@
     "explanation": "Art. 3 LO 3/2021: La ley distingue entre 'eutanasia' (médico administra directamente la sustancia) y 'suicidio médicamente asistido' (médico prescribe o suministra la sustancia pero la administra la propia persona). Respuesta B.",
     "originalId": 290,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 25.3,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "A"
+    }
   }
 ]

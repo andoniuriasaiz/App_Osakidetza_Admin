@@ -36,13 +36,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 141,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_2",
@@ -81,14 +88,21 @@
     "explanation": "Art. 3 Ley 41/2002: definición de usuario vs paciente sin restricción a sistema público.",
     "originalId": 142,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t08_3",
@@ -127,13 +141,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 143,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t08_4",
@@ -172,14 +193,21 @@
     "explanation": "Art. 4: información mínima incluye consecuencias.",
     "originalId": 144,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t08_5",
@@ -218,13 +246,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 145,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t08_6",
@@ -263,13 +298,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 146,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t08_7",
@@ -308,13 +350,20 @@
     "explanation": "Art. 9.3.a Ley 41/2002: En caso de riesgo para la salud pública o riesgo inmediato grave para la integridad física o psíquica del paciente, el facultativo puede actuar sin consentimiento. Pero si el paciente tuviera capacidad, debe ser informado. Los representantes actúan en ausencia de capacidad. Respuesta B.",
     "originalId": 147,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_8",
@@ -353,13 +402,20 @@
     "explanation": "Art. 16 Ley 41/2002: Los usos de la historia clínica están regulados. El acceso de cada profesional se limita 'a los datos de la historia clínica relacionados con la asistencia que le haya prestado.' No hay acceso general de todo el personal del centro a todas las historias. Respuesta D.",
     "originalId": 148,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_9",
@@ -398,13 +454,20 @@
     "explanation": "Art. 9.3: consentimiento por representación como regla general en menores.",
     "originalId": 149,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_10",
@@ -443,14 +506,21 @@
     "explanation": "Art. 10.1.a: información incluye riesgos probables.",
     "originalId": 150,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t08_11",
@@ -489,13 +559,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 151,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t08_12",
@@ -534,13 +611,20 @@
     "explanation": "Art. 6 Ley 41/2002: 'El médico responsable del paciente tiene la obligación de informarle... sobre el diagnóstico, pronóstico y alternativas de tratamiento.' La persona responsable de dar la información asistencial es el MÉDICO RESPONSABLE. Respuesta A.",
     "originalId": 152,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t08_13",
@@ -579,13 +663,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 153,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t08_14",
@@ -624,13 +715,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 154,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t08_15",
@@ -669,14 +767,21 @@
     "explanation": "Art. 21.2: la dirección del centro oye al paciente y acude a la autoridad judicial.",
     "originalId": 155,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t08_16",
@@ -715,13 +820,20 @@
     "explanation": "Art. 2 Ley 7/2002: La declaración puede incluir: instrucciones sobre los tratamientos y cuidados que la persona desea o no recibir, la designación de una persona representante y el destino del cuerpo o de sus órganos tras el fallecimiento. Todas son correctas. Respuesta A.",
     "originalId": 160,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   }
 ]

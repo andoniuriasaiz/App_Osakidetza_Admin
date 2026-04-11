@@ -39,9 +39,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "CONSENSUS",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-t01_2",
@@ -84,9 +91,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t01_3",
@@ -112,10 +126,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      2
     ],
     "correctAnswers": [
-      "El Consejo de Estado es el supremo órgano consultivo del Gobierno."
+      "El Gobierno se compone de la Presidencia, de las Vicepresidencias, de los Ministerios y de las demás personas integrantes que establezca la ley."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -126,11 +140,19 @@
     "officialId": 3,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t01_4",
@@ -173,9 +195,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t01_5",
@@ -218,9 +247,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-t01_6",
@@ -263,9 +299,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-t01_7",
@@ -291,10 +334,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "El Rey a través de la Presidencia del Congreso, propondrá una persona candidata a la Presidencia del Gobierno."
+      "El Rey, previa consulta con la representación designada por los partidos políticos, y a través de la Presidencia del Congreso, propondrá una persona candidata a la Presidencia del Gobierno."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -305,11 +348,19 @@
     "officialId": 7,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-t01_8",
@@ -352,8 +403,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   }
 ]

@@ -36,13 +36,20 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
     "originalId": 14,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_2",
@@ -68,10 +75,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Acreditar que no existe duplicación de otros órganos administrativos ya existentes."
+      "Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -81,12 +88,20 @@
     "explanation": "Art. 5.4 Ley 40/2015: 'La creación de cualquier órgano administrativo exigirá: a) Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica; b) Delimitación de sus funciones y competencias; c) Dotación de los créditos necesarios para su puesta en marcha y funcionamiento; d) No duplicación con otros ya existentes.' La opción C reproduce literalmente el requisito a) del artículo. Respuesta C.",
     "originalId": 122,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_3",
@@ -125,14 +140,21 @@
     "explanation": "Art. 8.1 Ley 40/2015: 'La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia NO suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén.' La titularidad permanece en el órgano delegante; solo cambian los elementos de ejercicio. Respuesta A.",
     "originalId": 123,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_4",
@@ -171,14 +193,21 @@
     "explanation": "Art. 8.5 Ley 40/2015: 'No podrán ser objeto de delegación las competencias relativas a: a) La adopción de disposiciones de carácter general.' Prohibición absoluta: las disposiciones generales (reglamentos, circulares, instrucciones de alcance general) NO se pueden delegar en ningún caso. Respuesta C.",
     "originalId": 124,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_5",
@@ -217,14 +246,21 @@
     "explanation": "Art. 11.1 Ley 40/2015: 'La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser encomendada a otros órganos o Entidades...' La encomienda NO supone cesión de titularidad (opción B incorrecta) ni adjudicación contractual (opción C incorrecta). Es solo gestión material/técnica. Respuesta A.",
     "originalId": 125,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_6",
@@ -263,14 +299,21 @@
     "explanation": "Art. 11.3 Ley 40/2015: 'En los supuestos de encomienda de gestión que impliquen el tratamiento de datos de carácter personal, tendrá la consideración de ENCARGADO DEL TRATAMIENTO el órgano o entidad encomendada.' El órgano encomendante mantiene la condición de responsable del tratamiento. Respuesta B: el órgano encomendado.",
     "originalId": 126,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_7",
@@ -309,14 +352,21 @@
     "explanation": "Art. 13.1 Ley 40/2015: 'En los casos de vacante, ausencia o enfermedad, así como en los supuestos en que haya sido declarada su abstención o recusación, los titulares de los órganos administrativos serán suplidos TEMPORALMENTE por quien designe el órgano competente para efectuar el nombramiento.' Suplencia = siempre temporal, cubre situaciones concretas y limitadas en el tiempo. Respuesta C.",
     "originalId": 127,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_8",
@@ -355,14 +405,21 @@
     "explanation": "Art. 14.1 Ley 40/2015: 'Los conflictos de atribuciones SÓLO podrán suscitarse entre órganos de una MISMA ADMINISTRACIÓN NO RELACIONADOS JERÁRQUICAMENTE.' Dos requisitos acumulativos: misma Administración + sin relación jerárquica. Si hay jerarquía, la resuelve el superior. Si son de distintas AAPP, hay otros mecanismos. Respuesta D.",
     "originalId": 128,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_9",
@@ -401,13 +458,20 @@
     "explanation": "Art. 17.2 Ley 40/2015: 'Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y el Secretario o en su caso, de quienes les suplan, y la de LA MITAD AL MENOS de sus miembros.' Tres requisitos: Presidente + Secretario (o suplentes) + mitad de miembros. Respuesta D.",
     "originalId": 129,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_10",
@@ -446,13 +510,20 @@
     "explanation": "Art. 19.1 Ley 40/2015 — Funciones del Presidente: 'f) Visar las actas y certificaciones de los acuerdos del órgano.' Las opciones b) y c) (formular ruegos/obtener información) son derechos de los MIEMBROS. La opción d) (expedir certificaciones) es función del SECRETARIO. Respuesta A.",
     "originalId": 130,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_11",
@@ -491,13 +562,20 @@
     "explanation": "Art. 19.3 Ley 40/2015 — Funciones del Secretario: 'd) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.' Las opciones a) (participar en debates) y c) (moderar debates) y d) (acordar convocatoria) son funciones del PRESIDENTE. Respuesta B.",
     "originalId": 131,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_12",
@@ -536,14 +614,21 @@
     "explanation": "Art. 23.2 Ley 40/2015 enumera causas de abstención: a) Interés personal en el asunto [→ opción b]; f) Relación de servicio con persona natural o jurídica interesada directamente [→ opción c]; h) Enemistad manifiesta con alguna de las personas [→ opción a]. LAS TRES son motivos de abstención reconocidos expresamente. Respuesta A: a), b) y c) correctas.",
     "originalId": 132,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_13",
@@ -582,12 +667,19 @@
     "explanation": "Art. 3.2 Ley 40/2015: 'Se entiende por portal de internet el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública... que permite el acceso a través de internet A LA INFORMACIÓN PUBLICADA.' Diferencia clave: la SEDE ELECTRÓNICA (art. 3.1) permite acceso a SERVICIOS; el PORTAL DE INTERNET permite acceso a INFORMACIÓN PUBLICADA. Respuesta B.",
     "originalId": 133,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   }
 ]

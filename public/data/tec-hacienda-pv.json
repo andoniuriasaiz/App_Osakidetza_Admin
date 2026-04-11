@@ -39,9 +39,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-hacienda-pv_2",
@@ -83,9 +90,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-hacienda-pv_3",
@@ -127,9 +141,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-hacienda-pv_4",
@@ -171,9 +192,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-hacienda-pv_5",
@@ -215,9 +243,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-hacienda-pv_6",
@@ -259,9 +294,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-hacienda-pv_7",
@@ -303,9 +345,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-hacienda-pv_8",
@@ -347,9 +396,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-hacienda-pv_9",
@@ -391,9 +447,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-hacienda-pv_10",
@@ -435,9 +498,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-hacienda-pv_11",
@@ -479,9 +549,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-hacienda-pv_12",
@@ -523,9 +600,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-hacienda-pv_13",
@@ -567,9 +651,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-hacienda-pv_14",
@@ -611,9 +702,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-hacienda-pv_15",
@@ -655,9 +753,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-hacienda-pv_16",
@@ -699,9 +804,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-hacienda-pv_17",
@@ -743,9 +855,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-hacienda-pv_18",
@@ -771,10 +890,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública."
+      "Todas las respuestas son verdaderas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -784,11 +903,19 @@
     "explanation": "Art. 32.i DL 1/1997: son ingresos de derecho público las indemnizaciones por daños y perjuicios producidos a los derechos de naturaleza pública. Las herencias y donaciones son ingresos de derecho privado (Art. 38.b).",
     "officialId": 291,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-hacienda-pv_19",
@@ -814,10 +941,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      1
     ],
     "correctAnswers": [
-      "Que tienen naturaleza fiscal y se reflejan en los presupuestos."
+      "Que se gestionan por las Diputaciones Forales."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -827,11 +954,19 @@
     "explanation": "Art. 34.2 DL 1/1997: todos los tributos de la Comunidad Autónoma de Euskadi tendrán naturaleza de fiscales y quedarán reflejados en sus correspondientes Presupuestos.",
     "officialId": 292,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-hacienda-pv_20",
@@ -873,8 +1008,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   }
 ]

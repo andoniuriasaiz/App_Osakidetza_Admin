@@ -36,14 +36,21 @@
     "explanation": "Art. 14.1 Ley 41/2002: 'La historia clínica comprende el conjunto de los documentos relativos a los procesos asistenciales de cada paciente, con la identificación de los médicos y de los demás profesionales que han intervenido en ellos.' Es el soporte principal del trabajo asistencial. Respuesta C.",
     "originalId": 156,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_2",
@@ -82,14 +89,21 @@
     "explanation": "Art. 1 Ley 7/2002: El objeto de la ley es 'regular la expresión anticipada de la voluntad para que sea tenida en cuenta cuando la persona que la emitió no pueda expresarla personalmente en el momento en que deba tomarse alguna decisión respecto a su atención sanitaria.' Respuesta A.",
     "originalId": 157,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t09_3",
@@ -128,14 +142,21 @@
     "explanation": "Objetivos vitales sirven para interpretar instrucciones y orientar decisiones clínicas.",
     "originalId": 158,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t09_4",
@@ -174,13 +195,20 @@
     "explanation": "Art. 6 Ley 7/2002: representante para cualquier supuesto de incapacidad de expresión.",
     "originalId": 159,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_5",
@@ -219,14 +247,21 @@
     "explanation": "Art. 5: instrucciones para enfermedad presente o futura.",
     "originalId": 161,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_6",
@@ -265,13 +300,20 @@
     "explanation": "Procedimientos: Registro/Centros + 2 testigos.",
     "originalId": 162,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t09_7",
@@ -310,14 +352,21 @@
     "explanation": "Art. 7 Ley 7/2002: testigos deben ser mayores de edad (18) y cumplir grados.",
     "originalId": 163,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t09_8",
@@ -356,14 +405,21 @@
     "explanation": "Art. 3 Ley 7/2002: 'La persona declarante podrá revocar, en cualquier momento y por cualquier medio, la declaración de voluntad anticipada que hubiera otorgado.' Sin límites. Respuesta D.",
     "originalId": 164,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t09_9",
@@ -402,14 +458,21 @@
     "explanation": "Modificación formalizada por mismos cauces que otorgamiento (escrito).",
     "originalId": 165,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t09_10",
@@ -448,13 +511,20 @@
     "explanation": "Prevalece voluntad inequívoca ante interlocutor.",
     "originalId": 166,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t09_11",
@@ -493,13 +563,20 @@
     "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.",
     "originalId": 167,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_12",
@@ -538,13 +615,20 @@
     "explanation": "Art. 9: no puestas cuando contrarias al ordenamiento en momento de APLICACIÓN.\n[AUTO-AUDIT 2026-03-31]: Corrected to A based on Kaixo/Osasun consensus.",
     "originalId": 167,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t09_13",
@@ -583,14 +667,21 @@
     "explanation": "Art. 12: la interconexión del Registro no precisa consentimiento adicional.",
     "originalId": 169,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t09_14",
@@ -629,13 +720,20 @@
     "explanation": "Art. 11: DVA no inscrito ES válido si se aporta.",
     "originalId": 170,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   }
 ]

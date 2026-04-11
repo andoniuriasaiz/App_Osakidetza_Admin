@@ -39,9 +39,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_2",
@@ -83,9 +90,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_3",
@@ -127,9 +141,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-economia-empresa_4",
@@ -171,9 +192,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-economia-empresa_5",
@@ -215,9 +243,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_6",
@@ -259,9 +294,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_7",
@@ -303,9 +345,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-economia-empresa_8",
@@ -347,9 +396,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-economia-empresa_9",
@@ -391,9 +447,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-economia-empresa_10",
@@ -435,9 +498,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_11",
@@ -479,9 +549,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-economia-empresa_12",
@@ -523,9 +600,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_13",
@@ -567,9 +651,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-economia-empresa_14",
@@ -611,9 +702,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_15",
@@ -655,9 +753,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-economia-empresa_16",
@@ -699,9 +804,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_17",
@@ -743,9 +855,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-economia-empresa_18",
@@ -787,9 +906,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_19",
@@ -831,9 +957,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-economia-empresa_20",
@@ -875,9 +1008,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_21",
@@ -919,9 +1059,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_22",
@@ -963,9 +1110,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_23",
@@ -1007,9 +1161,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_24",
@@ -1051,9 +1212,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-economia-empresa_25",
@@ -1095,9 +1263,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_26",
@@ -1123,10 +1298,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "La tasa de descuento que hace VAN = 0."
+      "El coste medio ponderado del capital."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1136,11 +1311,19 @@
     "explanation": "La Tasa Interna de Retorno (TIR) es la tasa de descuento que hace que el VAN del proyecto sea igual a cero. Representa la rentabilidad propia del proyecto.",
     "officialId": 339,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_27",
@@ -1182,9 +1365,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-economia-empresa_28",
@@ -1226,9 +1416,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_29",
@@ -1270,9 +1467,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_30",
@@ -1314,9 +1518,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_31",
@@ -1358,9 +1569,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-economia-empresa_32",
@@ -1402,9 +1620,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-economia-empresa_33",
@@ -1443,11 +1668,19 @@
     "explanation": "RF = RE + (RE – kᵢ) × L, donde L = D/K (ratio de endeudamiento) y kᵢ es el coste de la deuda. Si RE > kᵢ, el endeudamiento aumenta la rentabilidad financiera (efecto multiplicador positivo del apalancamiento financiero).",
     "officialId": 346,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "FIX_SUGGESTED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "E"
+    }
   },
   {
     "id": "tec-economia-empresa_34",
@@ -1489,9 +1722,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-economia-empresa_35",
@@ -1533,9 +1773,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-economia-empresa_36",
@@ -1577,9 +1824,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_37",
@@ -1621,9 +1875,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_38",
@@ -1665,9 +1926,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-economia-empresa_39",
@@ -1709,9 +1977,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-economia-empresa_40",
@@ -1753,8 +2028,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   }
 ]

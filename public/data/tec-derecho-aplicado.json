@@ -23,10 +23,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Si transcurren más de dos meses desde la primera votación de investidura, sin que la misma u otra candidatura obtenga la confianza del Congreso, la Presidencia del Congreso disolverá ambas cámaras."
+      "Ninguna de las anteriores opciones es correcta."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -36,11 +36,19 @@
     "explanation": "Art. 99.5 CE: si transcurren dos meses desde la primera votación de investidura sin que ninguna candidatura obtenga la confianza del Congreso, la Presidencia del Congreso disolverá ambas cámaras. El cómputo se inicia desde la PRIMERA votación, no desde la última.",
     "officialId": 451,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-derecho-aplicado_2",
@@ -82,9 +90,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_3",
@@ -126,9 +141,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-derecho-aplicado_4",
@@ -170,9 +192,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-derecho-aplicado_5",
@@ -214,9 +243,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-derecho-aplicado_6",
@@ -258,9 +294,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-derecho-aplicado_7",
@@ -302,9 +345,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_8",
@@ -346,9 +396,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_9",
@@ -390,9 +447,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-derecho-aplicado_10",
@@ -434,9 +498,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_11",
@@ -478,9 +549,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_12",
@@ -522,9 +600,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-derecho-aplicado_13",
@@ -566,9 +651,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-derecho-aplicado_14",
@@ -610,9 +702,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_15",
@@ -654,9 +753,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-derecho-aplicado_16",
@@ -698,9 +804,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-derecho-aplicado_17",
@@ -742,9 +855,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_18",
@@ -786,9 +906,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_19",
@@ -830,9 +957,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_20",
@@ -874,9 +1008,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-derecho-aplicado_21",
@@ -918,9 +1059,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-derecho-aplicado_22",
@@ -962,9 +1110,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-derecho-aplicado_23",
@@ -1006,9 +1161,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_24",
@@ -1034,10 +1196,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Su resolución debe comunicarse al Gobierno Vasco."
+      "Su resolución debe comunicarse al Parlamento Vasco."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -1047,11 +1209,19 @@
     "explanation": "Conforme a la Ley 2/2004 de la Autoridad Vasca de Protección de Datos (AVPD), cuando la AVPD sanciona a una entidad del sector público (como un centro universitario vasco), su resolución debe comunicarse al Gobierno Vasco para que adopte las medidas oportunas a través del departamento competente.",
     "officialId": 474,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-derecho-aplicado_25",
@@ -1093,9 +1263,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-derecho-aplicado_26",
@@ -1137,9 +1314,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-derecho-aplicado_27",
@@ -1181,9 +1365,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-derecho-aplicado_28",
@@ -1225,9 +1416,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_29",
@@ -1269,9 +1467,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-derecho-aplicado_30",
@@ -1313,8 +1518,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   }
 ]

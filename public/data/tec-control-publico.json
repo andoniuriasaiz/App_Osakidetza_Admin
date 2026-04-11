@@ -23,10 +23,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Peticiones específicas aprobadas por el Pleno del Parlamento Vasco."
+      "Las cuentas de Osakidetza."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -36,11 +36,19 @@
     "explanation": "Los trabajos de fiscalización OBLIGATORIOS del TVCP incluyen: la Cuenta de la CAE, las cuentas de entidades locales (municipios), las de Osakidetza como ente del sector público vasco, etc. Las 'peticiones específicas del Parlamento Vasco' son trabajos DISCRECIONALES, no obligatorios.",
     "officialId": 395,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-control-publico_2",
@@ -66,10 +74,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      2
     ],
     "correctAnswers": [
-      "Tiene por objeto controlar la actividad económico-financiera de los Entes del Sector Público Vasco."
+      "Se extiende al examen de la eficacia y eficiencia de la actividad económico- financiera de los Entes del Sector Público Vasco."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -79,11 +87,19 @@
     "explanation": "La función fiscalizadora del TVCP (Ley 1/1988) tiene por objeto el control de la actividad económico-financiera de los Entes del Sector Público Vasco, verificando la legalidad, regularidad y el buen uso de los fondos públicos. También puede extenderse a eficacia y eficiencia.",
     "officialId": 396,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-control-publico_3",
@@ -125,9 +141,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-control-publico_4",
@@ -169,9 +192,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-control-publico_5",
@@ -213,9 +243,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-control-publico_6",
@@ -257,9 +294,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-control-publico_7",
@@ -301,9 +345,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-control-publico_8",
@@ -345,9 +396,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-control-publico_9",
@@ -389,9 +447,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-control-publico_10",
@@ -433,9 +498,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-control-publico_11",
@@ -477,9 +549,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-control-publico_12",
@@ -521,9 +600,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-control-publico_13",
@@ -565,9 +651,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-control-publico_14",
@@ -609,9 +702,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-control-publico_15",
@@ -653,9 +753,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-control-publico_16",
@@ -697,9 +804,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-control-publico_17",
@@ -741,9 +855,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-control-publico_18",
@@ -785,9 +906,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-control-publico_19",
@@ -829,9 +957,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-control-publico_20",
@@ -857,10 +992,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "Estarán sujetos al régimen de contabilidad pública la Administración General de la Comunidad Autónoma, los organismos autónomos, los consorcios del sector público y las fundaciones del sector público."
+      "Estarán sujetos al régimen de contabilidad empresarial los entes públicos de derecho privado, las sociedades públicas, y las fundaciones del sector público."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -870,11 +1005,19 @@
     "explanation": "Según el Decreto Legislativo, estarán sujetos al régimen de contabilidad PÚBLICA: la Administración General de la CAE, los organismos autónomos, los consorcios del sector público y las fundaciones del sector público. El régimen de contabilidad empresarial aplica a EPDPs y Sociedades Públicas.",
     "officialId": 414,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-control-publico_21",
@@ -900,10 +1043,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Aprobar el Plan de Contabilidad Pública de la Comunidad Autónoma de Euskadi."
+      "Aprobar las normas de contabilidad mediante las cuales se establezcan las reglas contables a las que habrán de sujetarse las entidades sometidas al régimen de contabilidad pública."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -913,10 +1056,18 @@
     "explanation": "La competencia INCORRECTA atribuida al Consejero es 'Aprobar el Plan de Contabilidad Pública de la Comunidad Autónoma de Euskadi' — esta competencia de aprobación del Plan corresponde al Gobierno Vasco, no al Consejero de Hacienda. El Consejero sí puede aprobar normas de contabilidad (opción 4) y determinar las cuentas anuales a rendir (opción 2) y el régimen aplicable (opción 3).",
     "officialId": 415,
     "sourceSources": [
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "UGT_ONLY",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   }
 ]

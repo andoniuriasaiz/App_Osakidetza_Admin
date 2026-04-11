@@ -23,10 +23,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "9,8€."
+      "9,6€."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -37,11 +37,19 @@
     "officialId": 481,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-casos-practicos_2",
@@ -83,9 +91,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-casos-practicos_3",
@@ -128,9 +143,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-casos-practicos_4",
@@ -173,9 +195,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-casos-practicos_5",
@@ -218,9 +247,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-casos-practicos_6",
@@ -263,9 +299,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-casos-practicos_7",
@@ -308,9 +351,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-casos-practicos_8",
@@ -353,9 +403,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-casos-practicos_9",
@@ -398,9 +455,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-casos-practicos_10",
@@ -443,9 +507,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-casos-practicos_11",
@@ -488,9 +559,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-casos-practicos_12",
@@ -533,9 +611,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-casos-practicos_13",
@@ -576,9 +661,16 @@
     "sourceSources": [
       "UGT"
     ],
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "DISPUTE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 38.2,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "B",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "tec-casos-practicos_14",
@@ -604,10 +696,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "La ratio de solidez es: 0,8."
+      "La ratio de solidez es: 1,4."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -618,11 +710,19 @@
     "officialId": 494,
     "sourceSources": [
       "Kaixo",
-      "UGT"
+      "UGT",
+      "IA"
     ],
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-casos-practicos_15",
@@ -665,9 +765,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "tec-casos-practicos_16",
@@ -710,9 +817,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "tec-casos-practicos_17",
@@ -754,9 +868,16 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "?",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-casos-practicos_18",
@@ -797,9 +918,16 @@
     "sourceSources": [
       "UGT"
     ],
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "DISPUTE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 38.2,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "A",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-casos-practicos_19",
@@ -840,9 +968,16 @@
     "sourceSources": [
       "UGT"
     ],
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "DISPUTE",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 38.2,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "C",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "tec-casos-practicos_20",
@@ -885,8 +1020,15 @@
       "UGT",
       "IA"
     ],
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "sourceTrio": false,
-    "o_reliable": true
+    "o_reliable": true,
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "?",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   }
 ]

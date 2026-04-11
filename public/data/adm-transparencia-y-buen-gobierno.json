@@ -36,14 +36,21 @@
     "explanation": "Art. 1 Ley 19/2013: 'Esta Ley tiene por objeto: a) Ampliar y reforzar la transparencia de la actividad pública [→ a]; b) Regular y garantizar el derecho de acceso a la información relativa a aquella actividad [→ b]; c) Establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos así como las consecuencias derivadas de su incumplimiento [→ c].' Los tres objetos son correctos. Respuesta C.",
     "originalId": 37,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_2",
@@ -82,13 +89,20 @@
     "explanation": "Art. 2.1.a Ley 19/2013: La transparencia se aplica a 'La Administración General del Estado, las Administraciones de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla y las entidades que integran la Administración Local.' Respuesta A.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_3",
@@ -127,13 +141,20 @@
     "explanation": "Art. 2.1.b Ley 19/2013: Se aplica a 'Las entidades gestoras y los servicios COMUNES de la Seguridad Social, así como las mutuas de accidente de trabajo y enfermedades profesionales COLABORADORAS de la Seguridad Social.' Clave: servicios COMUNES (no los no-comunes) + mutuas COLABORADORAS (no las no-colaboradoras). Respuesta C.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_4",
@@ -172,13 +193,20 @@
     "explanation": "Art. 2.1.c Ley 19/2013: Se aplica a 'Las entidades de Derecho Público que, con independencia funcional o con una especial autonomía reconocida por la Ley, tengan atribuidas funciones de regulación o supervisión de carácter externo sobre un determinado sector o actividad.' El artículo dice 'entidades de Derecho Público', no 'organismos autónomos' (a) ni 'entidades públicas empresariales' (b). Respuesta C.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_5",
@@ -217,13 +245,20 @@
     "explanation": "Art. 2.1.d Ley 19/2013: Se aplica a 'Las entidades de Derecho Público con personalidad jurídica propia, VINCULADAS a cualquiera de las Administraciones Públicas o DEPENDIENTES de ellas, incluidas las UNIVERSIDADES PÚBLICAS.' Doble clave: vinculadas/dependientes (no 'sin vinculación') + Universidades PÚBLICAS (no privadas). Respuesta B.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_6",
@@ -262,13 +297,20 @@
     "explanation": "Art. 2.1 Ley 19/2013 incluye en su ámbito: f) 'La Casa de su Majestad el Rey' [→ a]; h) 'El Banco de España' [→ b]; y el 'Consejo General del Poder Judicial' [→ c]. Los tres están expresamente incluidos en el ámbito de aplicación de la Ley de Transparencia. Respuesta D.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_7",
@@ -307,13 +349,20 @@
     "explanation": "Art. 2.1.g Ley 19/2013: Se aplica a 'Las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades previstas en este artículo sea SUPERIOR AL 50 POR 100.' Ninguna de las opciones reproduce correctamente este umbral: la a) dice 'igual al 50%' (FALSO), la b) dice 'inferior al 50%' (FALSO), la c) dice 'superior al 25%' (FALSO). Respuesta D.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_8",
@@ -352,14 +401,21 @@
     "explanation": "Art. 3 Ley 19/2013 (sujetos obligados adicionales): Están también obligados 'Los partidos políticos, las ORGANIZACIONES SINDICALES y las ORGANIZACIONES EMPRESARIALES' cuando perciban fondos públicos. Las asociaciones de pacientes (c) no están incluidas en esta mención expresa del Art. 3. Respuesta D: a) y b) correctas.",
     "originalId": 44,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_9",
@@ -398,14 +454,21 @@
     "explanation": "Art. 3.b Ley 19/2013: También estarán obligadas 'Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía SUPERIOR A 100.000 EUROS o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 EUROS.' Umbral exacto: 100.000€ / 40% / 5.000€. Respuesta A.",
     "originalId": 44,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_10",
@@ -444,13 +507,20 @@
     "explanation": "Art. 5.4 Ley 19/2013: 'La información sujeta a las obligaciones de transparencia será publicada en las correspondientes sedes electrónicas o páginas web y de una manera CLARA, ESTRUCTURADA Y ENTENDIBLE para los interesados y, preferiblemente, en FORMATOS REUTILIZABLES.' La opción a) dice 'difícil de entender' (FALSO) y la c) dice 'formatos no reutilizables' (FALSO). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_11",
@@ -489,13 +559,20 @@
     "explanation": "Art. 5.4 Ley 19/2013 (in fine): 'Toda la información será comprensible, de acceso fácil y GRATUITO y estará a disposición de las personas con discapacidad en una modalidad suministrada por medios o en formatos adecuados de manera que resulten accesibles y comprensibles, conforme al principio de ACCESIBILIDAD UNIVERSAL Y DISEÑO PARA TODOS.' Clave: GRATUITO (no 'coste mínimo' de la opción a). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_12",
@@ -534,13 +611,20 @@
     "explanation": "Art. 6 Ley 19/2013 (publicidad activa — información institucional): Los sujetos publicarán: a) información sobre funciones, normativa aplicable y estructura organizativa [→ opción a: VERDAD]; b) organigrama actualizado que identifique a los responsables [→ opción b: VERDAD]; c) perfil y trayectoria profesional de los responsables [→ opción c: VERDAD]. Las tres afirmaciones son correctas. Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_13",
@@ -579,13 +663,20 @@
     "explanation": "Art. 6.2 Ley 19/2013: 'El grado de cumplimiento y resultados de las Administraciones Públicas deberán ser objeto de EVALUACIÓN Y PUBLICACIÓN PERIÓDICA junto con los INDICADORES DE MEDIDA Y VALORACIÓN, en la forma en que se determine por cada Administración competente.' La opción b) niega la publicación (FALSO), la c) niega la publicación de planes (FALSO), la d) excluye los indicadores (FALSO). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_14",
@@ -624,14 +715,21 @@
     "explanation": "Art. 7 Ley 19/2013 (publicidad activa — información jurídica): Las AAPP publicarán: a) documentos sometidos a información pública [→ a]; b) directrices, instrucciones, circulares y respuestas a consultas con efectos jurídicos [→ b]; c) anteproyectos de Ley y proyectos de Decretos Legislativos cuando se soliciten dictámenes [→ c]. Las tres son correctas. Respuesta D.",
     "originalId": 50,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_15",
@@ -670,13 +768,20 @@
     "explanation": "Art. 8.1.a Ley 19/2013: 'Todos los contratos, con indicación del objeto, duración, el importe de licitación y de adjudicación, el procedimiento utilizado para su celebración, los instrumentos a través de los que se ha publicitado, el número de licitadores participantes y la identidad del adjudicatario, así como las MODIFICACIONES DEL CONTRATO.' La opción a) excluye importes y procedimiento (FALSO). La opción c) excluye adjudicatario y modificaciones (FALSO). Respuesta B.",
     "originalId": 51,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_16",
@@ -715,13 +820,20 @@
     "explanation": "Art. 8.1.c Ley 19/2013: 'Las subvenciones y ayudas públicas concedidas con indicación de su IMPORTE, OBJETIVO O FINALIDAD y BENEFICIARIOS.' La opción a) excluye importe, objetivo y finalidad (FALSO). La opción b) excluye beneficiarios (FALSO). Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 51,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_17",
@@ -760,13 +872,20 @@
     "explanation": "Art. 8.1.d Ley 19/2013: 'Los PRESUPUESTOS, con descripción de las principales partidas presupuestarias e INFORMACIÓN ACTUALIZADA Y COMPRENSIBLE sobre su estado de ejecución y sobre el cumplimiento de los OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA de las Administraciones Públicas.' La opción a) reproduce literalmente el artículo. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 51,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_18",
@@ -805,13 +924,20 @@
     "explanation": "Art. 9.3 Ley 19/2013: 'El incumplimiento reiterado de las obligaciones de publicidad activa reguladas en este capítulo tendrá la consideración de INFRACCIÓN GRAVE a los efectos de aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora.' No es infracción leve (b) ni ausencia de infracción (c). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_19",
@@ -850,13 +976,20 @@
     "explanation": "Art. 10.1 Ley 19/2013: 'La Administración General del Estado desarrollará un Portal de Transparencia, dependiente del Ministerio de la Presidencia, que facilitará el acceso de LOS CIUDADANOS a toda la información relativa a su ámbito de actuación.' Sin restricción de edad (no 'mayores de 50 años' ni 'mayores de 65 años') y el acceso es a TODA la información (no 'parte'). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_20",
@@ -895,13 +1028,20 @@
     "explanation": "Art. 10.2 Ley 19/2013: Las prescripciones técnicas del Portal de Transparencia deberán adecuarse a los principios de: a) ACCESIBILIDAD [→ a]; b) INTEROPERABILIDAD [→ b]; c) REUTILIZACIÓN [→ c]. Los tres principios están expresamente previstos. Respuesta D.",
     "originalId": 56,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   }
 ]

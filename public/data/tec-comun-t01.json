@@ -36,13 +36,18 @@
     "explanation": "Art. 2 Ley 44/2003: Para ejercer una profesión sanitaria son requisitos: la colegiación (cuando ley estatal la exija), la inexistencia de inhabilitación o suspensión, Y tener suscrito seguro de responsabilidad cuando se ejerza en asistencia sanitaria pública. Al tratarse de requisitos acumulativos, 'todo lo anterior' es la respuesta correcta. Respuesta D.",
     "officialId": 1,
     "sourceTrio": false,
-    "sourceStatus": "UGT_OUTLIER",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "Osasuntest",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 21.5,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t01_2",
@@ -81,14 +86,21 @@
     "explanation": "Art. 2 Ley 44/2003: El seguro de responsabilidad se exige 'cuando se ejerza la profesión en el ámbito de la asistencia sanitaria PÚBLICA', no privada. La opción C es la única que recoge correctamente el ámbito público y acepta tanto seguro individual como aval u otra garantía financiera de protección colectiva. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 2,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t01_3",
@@ -127,13 +139,20 @@
     "explanation": "Art. 3 bis Ley 44/2003 (añadido por Ley 6/2023): El órgano del Registro Estatal de Profesionales Sanitarios podrá consultar los datos del DNI/NIE del personal sanitario ante el organismo competente en identificación de personas para verificar la autenticidad de los documentos aportados. Respuesta A.",
     "officialId": 3,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t01_4",
@@ -172,14 +191,21 @@
     "explanation": "Art. 5.3 Ley 44/2003: Los pacientes tienen derecho a conocer el nombre, la titulación y la especialidad de los profesionales sanitarios que les atienden, así como a recibir información completa y continuada. La opción D recoge correctamente el conjunto de derechos reconocidos. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 4,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t01_5",
@@ -218,13 +244,20 @@
     "explanation": "Art. 5.1.c) Ley 44/2003: los pacientes tienen derecho a conocer el nombre, titulación y especialidad del profesional, así como la categoría y función si estuvieran definidas en su centro o institución. No incluye la hoja de servicios.",
     "officialId": 5,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t01_6",
@@ -263,14 +296,21 @@
     "explanation": "Art. 5.2 Ley 44/2003: la renuncia requiere que no conlleve desatención, que se ejerza según procedimientos establecidos y explícitos, y que quede constancia formal. La opción C es incorrecta al decir \"aunque no sea formal\": la ley exige constancia formal.",
     "officialId": 6,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t01_7",
@@ -309,14 +349,21 @@
     "explanation": "Art. 22 bis Ley 44/2003 (añadido por RDL 1/2023): los centros sanitarios revisarán el cumplimiento de requisitos cada cinco años como mínimo.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 7,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t01_8",
@@ -342,10 +389,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      4
     ],
     "correctAnswers": [
-      "Se articulará, preferentemente, de forma jerarquizada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas."
+      "Ninguna de las anteriores es correcta."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -355,12 +402,20 @@
     "explanation": "Art. 9.2 Ley 44/2003: el equipo se articulará de forma jerarquizada o colegiada (opción B es la literal). La opción A dice \"preferentemente jerarquizada\" y la C dice \"preferentemente colegiada\": ambas son incorrectas por añadir \"preferentemente\" donde no lo hay y alterar el texto. La opción C es la incorrecta pedida.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 8,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "tec-comun-t01_9",
@@ -399,14 +454,21 @@
     "explanation": "Art. 5 Ley 44/2003: los principios de la relación profesional-paciente incluyen a, b y d. La opción C no corresponde a ningún principio del art. 5; la obligación de informar sobre formación y demandas de responsabilidad no está recogida como principio general.",
     "officialId": 9,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t01_10",
@@ -432,10 +494,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Deberán contar una comisión de docencia, así como con jefaturas de estudios, coordinación docente y personal tutor de la formación que resulten adecuados en función de las actividades a desarrollar."
+      "Todas las anteriores son incorrectas."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -445,11 +507,19 @@
     "explanation": "Art. 40 Ley 44/2003: los centros para formación de especialistas (no simplemente formación continuada) deben contar con comisión de docencia, jefatura de estudios y tutores. Ninguna opción describe exactamente lo que prevé la ley para formación continuada específicamente, que se regula de forma distinta.\n[AUTO-AUDIT 2026-03-31]: Corrected based on Kaixo/Osasun consensus. Previous answer was incorrect.",
     "officialId": 10,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "B",
+      "u": "D"
+    }
   }
 ]

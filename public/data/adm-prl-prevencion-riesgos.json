@@ -36,13 +36,20 @@
     "explanation": "Art. 2.1 Ley 31/1995: 'La presente Ley tiene por objeto PROMOVER LA MEJORA DE LAS CONDICIONES DE TRABAJO dirigida a ELEVAR EL NIVEL DE PROTECCIÓN DE LA SEGURIDAD Y LA SALUD de los trabajadores en el trabajo.' La opción a) dice solo 'en salud laboral' (incompleta), la c) habla de 'establecer obligaciones' (no es el objeto), la d) de 'regular accidentes' (tampoco). Respuesta B.",
     "originalId": 155,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "?",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_2",
@@ -81,14 +88,21 @@
     "explanation": "Art. 14.5 Ley 31/1995: 'El coste de las medidas relativas a la seguridad y la salud en el trabajo NO DEBERÁ RECAER EN MODO ALGUNO SOBRE LOS TRABAJADORES.' Prohibición absoluta: ni parcialmente (a), ni compartido (b), ni repercutido en salarios (c). El coste es exclusivamente del empresario. Respuesta D.",
     "originalId": 156,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_3",
@@ -127,14 +141,21 @@
     "explanation": "Art. 15.1.d Ley 31/1995 (principios de la acción preventiva): 'ADAPTAR EL TRABAJO A LA PERSONA, en particular en lo que respecta a la concepción de los puestos de trabajo, así como a la elección de los equipos y los métodos de trabajo y de producción.' También, Art. 15.1.h: 'Anteponer la protección COLECTIVA a la INDIVIDUAL' (lo contrario de la opción d). Respuesta A.",
     "originalId": 157,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_4",
@@ -173,14 +194,21 @@
     "explanation": "Art. 14.1 + Art. 18 + Art. 19 Ley 31/1995: Los trabajadores tienen derecho a: a) una PROTECCIÓN EFICAZ en seguridad y salud (Art. 14.1); b) INFORMACIÓN sobre los riesgos para su seguridad y salud (Art. 18); c) FORMACIÓN en materia preventiva (Art. 19). Los tres derechos están reconocidos expresamente. Respuesta C.",
     "originalId": 158,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_5",
@@ -219,14 +247,21 @@
     "explanation": "Art. 16.2 Ley 31/1995: La evaluación inicial debe REVISARSE 'cuando se hayan detectado daños para la salud de los trabajadores' y cuando existan cambios en las condiciones de trabajo. No es un hecho puntual (inicio de actividad, a), ni requiere solicitud de representantes (c), ni solo en accidentes graves (d). Respuesta B.",
     "originalId": 159,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_6",
@@ -265,14 +300,21 @@
     "explanation": "Art. 21.2 Ley 31/1995: 'Los trabajadores... podrán interrumpir su actividad y, si fuera necesario, abandonar el lugar de trabajo de forma inmediata CUANDO CONSIDEREN QUE DICHA ACTIVIDAD ENTRAÑA UN RIESGO GRAVE E INMINENTE para su vida o su salud.' El criterio es la percepción subjetiva de riesgo grave e inminente. Respuesta A.",
     "originalId": 160,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_7",
@@ -311,12 +353,18 @@
     "explanation": "Art. 2.1 Ley 31/1995 (ámbito de aplicación): 'Esta Ley y sus normas de desarrollo serán de aplicación tanto en el ámbito de las relaciones laborales reguladas en el texto refundido del ESTATUTO DE LOS TRABAJADORES, como en el de las relaciones de carácter administrativo o estatutario del PERSONAL CIVIL AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS.' Doble ámbito: ET + AAPP. Respuesta C.",
     "originalId": 161,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Osasuntest",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 52.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_8",
@@ -355,14 +403,21 @@
     "explanation": "Manual Informativo de PRL en Atención Primaria de Osakidetza: La finalidad del documento es INFORMAR A LOS TRABAJADORES SOBRE LOS RIESGOS ESPECÍFICOS DE SU PUESTO DE TRABAJO. No sustituye al manual de riesgos generales (a), ni se limita a todos los trabajadores sanitarios en general (b), ni se centra exclusivamente en el área de atención al cliente (d). Respuesta C.",
     "originalId": 174,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_9",
@@ -401,14 +456,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 175,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_10",
@@ -447,14 +509,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (riesgo eléctrico): Recomendación clara: 'NO SE DEBEN SOBRECARGAR enchufes ni regletas NI UTILIZAR CABLES EN MAL ESTADO O PELADOS.' La opción a) solo habla de sobrecarga en uso continuado (incompleta). La opción b) prohíbe regletas sin protección adicional (no es la recomendación exacta). Respuesta C.",
     "originalId": 176,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_11",
@@ -493,14 +562,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (detección de anomalías): Cuando se detecten anomalías o defectos en equipos, instalaciones o mobiliario, el trabajador debe 'INFORMARLO AL RESPONSABLE MEDIANTE EL CORRESPONDIENTE PARTE DE AVERÍA.' No debe intentar corregirlo por su cuenta (a), ni solo al Servicio de Prevención (b), ni simplemente señalizar y continuar (d). Respuesta C.",
     "originalId": 177,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_12",
@@ -539,14 +615,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (Área de Atención al Cliente): Recomendación: 'MANTENER EL PUESTO DE TRABAJO ORGANIZADO Y LIMPIO, disponiendo únicamente de lo ESTRICTAMENTE NECESARIO.' La opción a) menciona solo lo necesario (sin 'organizado y limpio'). La opción b) admite acumulación de material ocasional (incorrecto). Respuesta D.",
     "originalId": 178,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_13",
@@ -572,10 +655,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Únicamente a solicitud del trabajador."
+      "En función de los riesgos inherentes al trabajo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -585,12 +668,20 @@
     "explanation": "Art. 22.1 Ley 31/1995: 'El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud EN FUNCIÓN DE LOS RIESGOS INHERENTES AL TRABAJO.' Con carácter VOLUNTARIO para el trabajador (salvo excepciones). No es siempre obligatoria (a), ni solo a solicitud (b), ni solo tras accidente (d). Respuesta B.",
     "originalId": 190,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_14",
@@ -629,14 +720,21 @@
     "explanation": "Art. 35.1 Ley 31/1995: 'Los Delegados de Prevención son los REPRESENTANTES DE LOS TRABAJADORES CON FUNCIONES ESPECÍFICAS EN MATERIA DE PREVENCIÓN DE RIESGOS en el trabajo.' No son técnicos del Servicio de Prevención (a). Son miembros del Comité de Seguridad y Salud (b) pero eso no es su definición. Son elegidos por y entre los representantes de los trabajadores, no designados por el empresario (d). Respuesta C.",
     "originalId": 191,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_15",
@@ -675,14 +773,21 @@
     "explanation": "Art. 16.2.b Ley 31/1995: La planificación de la actividad preventiva deberá realizarse 'A PARTIR DE UNA EVALUACIÓN INICIAL DE RIESGOS' cuando los resultados de la misma pusieran de manifiesto situaciones de riesgo. La evaluación es el punto de partida necesario. Respuesta B.",
     "originalId": 192,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_16",
@@ -721,14 +826,21 @@
     "explanation": "Art. 19.1 Ley 31/1995: El empresario garantizará formación preventiva 'tanto EN EL MOMENTO DE SU CONTRATACIÓN, cualquiera que sea la modalidad o duración, como CUANDO SE PRODUZCAN CAMBIOS EN LAS FUNCIONES QUE DESEMPEÑE o se INTRODUZCAN NUEVAS TECNOLOGÍAS o cambios en los equipos de trabajo.' No se limita a la contratación (a) ni solo a accidentes (b). Respuesta C.",
     "originalId": 195,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_17",
@@ -767,13 +879,20 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (posturas forzadas): Se recomienda 'ADAPTAR EL PUESTO DE TRABAJO A LAS CARACTERÍSTICAS FÍSICAS DEL TRABAJADOR, REGULANDO SILLA Y PANTALLA.' La adaptación ergonómica es integral (silla + pantalla), no solo la altura de la pantalla (d). Nunca se debe mantener la misma postura estática (a) ni sacrificar la postura por la rapidez (b). Respuesta C.",
     "originalId": 199,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   }
 ]

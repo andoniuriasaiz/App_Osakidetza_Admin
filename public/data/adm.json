@@ -36,13 +36,20 @@
     "explanation": "Art. 8.1 RDL 5/2015 EBEP: 'Son empleados públicos quienes desempeñan funciones RETRIBUIDAS en las Administraciones Públicas al servicio de los INTERESES GENERALES.' Dos condiciones definitorias: retribución + servicio al interés general (no particular). Respuesta C.",
     "originalId": 1,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "adm-ebep-empleado-publico_2",
@@ -81,14 +88,21 @@
     "explanation": "Art. 10.1 RDL 5/2015 EBEP establece las circunstancias para ser funcionario interino: b) 'La sustitución transitoria de los titulares' [→ opción A]; c) Programas temporales: 'no podrán tener duración superior a TRES AÑOS, ampliable hasta 12 meses' (la opción B dice 'un año' → FALSO); d) Exceso de tareas: plazo máximo de SEIS MESES dentro de doce (la opción C dice '9 meses en 3 años' → FALSO). Solo la opción A es correcta. Respuesta B.",
     "originalId": 2,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-ebep-empleado-publico_3",
@@ -127,13 +141,20 @@
     "explanation": "Art. 10.3 RDL 5/2015 EBEP (tras Ley 20/2021): La Administración formalizará de oficio la finalización de la interinidad por: a) Cobertura reglada del puesto por funcionario de carrera; b) Razones organizativas que supriman o amorticen el puesto; c) Finalización de la causa que originó el nombramiento. Las tres son causas expresas de extinción. Respuesta D: a), b) y c) correctas.",
     "originalId": 3,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "adm-ebep-empleado-publico_4",
@@ -172,13 +193,20 @@
     "explanation": "Art. 11.1 RDL 5/2015 EBEP: 'Es personal laboral el que, en virtud de contrato de trabajo formalizado POR ESCRITO, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios RETRIBUIDOS por las Administraciones Públicas.' Dos condiciones: contrato escrito (no verbal) + servicios retribuidos. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 4,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "adm-ebep-empleado-publico_5",
@@ -217,14 +245,21 @@
     "explanation": "Art. 12.1 RDL 5/2015 EBEP: 'Es personal eventual el que, en virtud de nombramiento y con carácter NO PERMANENTE, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.' Clave: NO PERMANENTE + confianza/asesoramiento especial. Respuesta A.",
     "originalId": 5,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_1",
@@ -263,14 +298,21 @@
     "explanation": "D.255/1997 Art. 1: 'el Ente Público Osakidetza-Servicio vasco de salud es el Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de Ente Público de DERECHO PRIVADO, cuyo objeto o finalidad es la provisión de servicios sanitarios a través de las organizaciones PÚBLICAS de servicios sanitarios dependientes del mismo.' Clave: Derecho PRIVADO (no Público) + organizaciones PÚBLICAS (no privadas). Respuesta C.",
     "originalId": 6,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_2",
@@ -309,14 +351,21 @@
     "explanation": "D.255/1997 Art. 3.b (Fines): 'Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes de carácter instrumental o complementario, promoviendo especialmente la mejora contínua de los niveles de información, la personalización en la atención y la calidad de la misma.' La opción A incluye 'sin tener en cuenta la calidad' (FALSO) y la B dice 'siempre que no sea personalizada' (FALSO). Solo la C reproduce correctamente el fin. Respuesta B.",
     "originalId": 7,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_3",
@@ -355,13 +404,20 @@
     "explanation": "D.255/1997 Art. 3 enumera los fines de Osakidetza: c) 'Promover la docencia en ciencias de la salud' [→ opción a: TRUE]; d) 'Promover la formación y actualización de los conocimientos... de su personal sanitario y no sanitario' [→ opciones b y c: TRUE]. 'Promover la creación de empresas privadas' NO aparece en ningún fin del Art. 3; es totalmente ajeno al objeto sanitario público. Respuesta C: la opción incorrecta.",
     "originalId": 8,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_4",
@@ -400,13 +456,20 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
     "originalId": 9,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_5",
@@ -445,13 +508,20 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
     "originalId": 10,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_6",
@@ -490,13 +560,20 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 11,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_7",
@@ -535,13 +612,20 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
     "originalId": 12,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_8",
@@ -580,14 +664,21 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta C.",
     "originalId": 13,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_1",
@@ -626,13 +717,20 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
     "originalId": 14,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_9",
@@ -671,13 +769,20 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta B.",
     "originalId": 15,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_10",
@@ -716,13 +821,20 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
     "originalId": 16,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_11",
@@ -761,13 +873,20 @@
     "explanation": "D.255/1997 Art. 12 (Facultades organización central): 1. 'Establecer las reglas generales sobre representación, comunicación e imagen oficial' [→ opción a]; 2. 'Elaborar el Plan Estratégico del Ente Público' [→ opción b]; 3. 'Suministrar servicios comunes de asesoramiento y apoyo técnico' [→ opción c]. Las tres son funciones expresas de la organización central. Respuesta C: a)+b)+c) correctas.",
     "originalId": 17,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_12",
@@ -806,13 +925,20 @@
     "explanation": "D.255/1997 Art. 12.5 (materia de gestión de RRHH) enumera: c) Supervisar, controlar y evaluar políticas de personal [→ opción c: pertenece]; d) Dirigir el registro de personal [→ opción a: pertenece]; d) Gestionar procesos de selección y provisión [→ opción d: pertenece]. 'Elaborar el Plan Estratégico' está en Art. 12.2 (función general corporativa), NO en el apartado específico de RRHH (Art. 12.5). Respuesta C.",
     "originalId": 18,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_13",
@@ -851,13 +977,20 @@
     "explanation": "D.255/1997 Art. 14.1: 'Corresponde a cada organización de servicios del Ente Público... el ejercicio de TODAS las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tengan encomendada, quedando EXCLUIDAS ÚNICAMENTE aquellas facultades de gestión centralizada que los presentes Estatutos atribuyen expresamente.' La opción D dice 'quedando incluidas' (inversión del texto). Respuesta B.",
     "originalId": 19,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_14",
@@ -896,13 +1029,20 @@
     "explanation": "D.255/1997 Art. 15.1: 'Al frente de cada organización de servicios sanitarios del Ente Público se encontrará un DIRECTOR-GERENTE, considerado como cargo directivo sujeto al régimen del artículo 27 de la Ley de Ordenación sanitaria.' Respuesta B.",
     "originalId": 20,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_15",
@@ -941,13 +1081,20 @@
     "explanation": "D.255/1997 Art. 15.1 (Director-Gerente): a) 'Ostentar la representación oficial de la organización y ejercer la autoridad directa' [→ opción a: TRUE]; b) 'Suscribir el contrato-programa en representación de la organización' [→ opción c: TRUE]; d) 'Dirigir e impulsar la investigación, docencia y formación en el seno de su organización' [→ opción b: TRUE]. La opción D dice 'en las Universidades y Centros de FP privados' → FALSO: el D-G actúa dentro de su organización, no en entidades privadas externas. Respuesta B.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 21,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_16",
@@ -986,14 +1133,21 @@
     "explanation": "D.255/1997 Art. 15 (Dirección Médica — atribuciones ordinarias): a) 'Presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento' [→ opción c: VERDAD]; b) 'Dirigir, coordinar y evaluar las actividades clínico-asistenciales' (no 'gestión administrativa' de opción a); c) 'Promover y supervisar las actividades de docencia e investigación del personal Facultativo.' Las opciones a/b/d describen funciones de otras Direcciones. Respuesta C.",
     "originalId": 22,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-d255-osakidetza-especifico_17",
@@ -1032,14 +1186,21 @@
     "explanation": "Decreto 255/1997, art. 13: El Consejo de Administración de Osakidetza estará compuesto por el Presidente/a (el/la Consejero/a de Salud), 8 vocales representantes de la Administración y 4 vocales en representación del personal. Total: 13 miembros. La D recoge esta composición. Respuesta D.",
     "originalId": 23,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-puestos-funcionales_1",
@@ -1078,14 +1239,21 @@
     "explanation": "D.186/2005 Art. 3: 'Los Puestos Funcionales se constituyen como el instrumento de clasificación del personal orientado a la ORGANIZACIÓN, PROMOCIÓN Y DESARROLLO INTEGRAL del personal.' Definición literal del artículo. Las opciones b) formación, c) conocimientos informáticos y d) gestión de jubilaciones son falsas. Respuesta A.",
     "originalId": 24,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-puestos-funcionales_2",
@@ -1124,14 +1292,21 @@
     "explanation": "D.186/2005 Art. 3 (definición): Puesto Funcional = 'toda agrupación de efectivos por razón común respecto a UNO O MÁS ámbitos funcionales, DIFERENCIADA de cualquier otra existente en el conjunto de la estructura del Ente Público en cuanto a las exigencias de requerimientos profesionales para su desempeño o a las responsabilidades jerárquicas y/o de gestión que asuman.' Opción A dice 'cinco ámbitos' (FALSO). Opción C dice 'sin diferenciarse' (FALSO). Opción D dice 'sin razón común' (FALSO). Respuesta B.",
     "originalId": 25,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_3",
@@ -1170,14 +1345,21 @@
     "explanation": "D.186/2005 Art. 5 (Identificación): Los Puestos Funcionales se identifican mediante: a) Perfil profesional requerido; b) Modo de provisión; c) Efectos retributivos asignados. De las opciones procedencia (a), edad (b) y perfil profesional (c), ÚNICAMENTE el PERFIL PROFESIONAL REQUERIDO es un elemento identificador. Respuesta C.",
     "originalId": 26,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-puestos-funcionales_4",
@@ -1216,13 +1398,20 @@
     "explanation": "D.186/2005 Art. 5: Los EFECTOS RETRIBUTIVOS ASIGNADOS figuran expresamente como uno de los aspectos que identifican los Puestos Funcionales, con carácter general (no solo en determinadas ocasiones). Opción B ('en determinadas ocasiones') y opción C ('no identifica') son incorrectas. Respuesta A.",
     "originalId": 27,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "adm-puestos-funcionales_5",
@@ -1261,14 +1450,21 @@
     "explanation": "D.186/2005 Art. 5: La lista de elementos identificadores de un Puesto Funcional es: perfil profesional requerido, modo de provisión y efectos retributivos. La EDAD no figura en ningún apartado como elemento identificador, ni con carácter general ni para ningún territorio. Las opciones a), b) y c) son todas incorrectas. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 28,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-puestos-funcionales_6",
@@ -1307,14 +1503,21 @@
     "explanation": "D.186/2005 Art. 7 (Perfil Profesional requerido): estará constituido por 1) La titulación o titulaciones requeridas; 2) La EXPERIENCIA (años en la categoría de procedencia); 3) El PERFIL LINGÜÍSTICO (conforme al D.67/2003). El carnet de conducir (a), la fecha de nacimiento (b) y el lugar de procedencia (d) no forman parte del perfil profesional. Respuesta C.",
     "originalId": 29,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-puestos-funcionales_10",
@@ -1353,14 +1556,21 @@
     "explanation": "D.186/2005: Los efectivos de las distintas Organizaciones de Servicios PODRÁN ser objeto de traslado entre las mismas mediante Resolución del DIRECTOR GENERAL de Osakidetza-Servicio vasco de Salud. La opción b) niega la posibilidad de traslado (FALSO) y la c) lo limita a la misma organización (FALSO). Respuesta A.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_11",
@@ -1399,14 +1609,21 @@
     "explanation": "D.186/2005 Art. 11.1: Las modificaciones de Plantilla Funcional que NO conlleven alteración de la Plantilla Estructural de una Organización de Servicios serán aprobadas por Resolución del DIRECTOR-GERENTE de la misma. Para modificaciones menores (sin cambio estructural), la competencia reside en el Director-Gerente de la organización afectada, no en el CA (b) ni en la Dirección Médica (c). Respuesta A.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_12",
@@ -1445,14 +1662,21 @@
     "explanation": "D.186/2005 Art. 11.2: Las modificaciones que SÍ impliquen variación de la Plantilla Estructural estarán sujetas a la consideración y aprobación del CONSEJO DE ADMINISTRACIÓN de Osakidetza, debiendo ser aprobadas por el CONSEJO DE GOBIERNO si suponen alteración del número máximo de efectivos por Grupo Profesional. Opción a) atribuye esta función al Director-Gerente (FALSO). Opción b) invierte la condición ('no suponen' → FALSO). Respuesta C.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_13",
@@ -1491,14 +1715,21 @@
     "explanation": "D.186/2005 Art. 11 (notificación): Las modificaciones de Plantilla SE DEBERÁN NOTIFICAR a los trabajadores que viniesen desempeñando el puesto modificado. La notificación individual es obligatoria en todo caso. Opción a) niega la obligación (FALSO) y la c) la condiciona a 'algunos casos' (FALSO). Respuesta B.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_7",
@@ -1537,14 +1768,21 @@
     "explanation": "D.186/2005: La provisión de los Puestos Funcionales será regulada por el CONSEJO DE ADMINISTRACIÓN de Osakidetza-Servicio vasco de salud, con los principios generales fijados en la Ley de Ordenación sanitaria de Euskadi y demás normas aplicables. El responsable de RRHH (a), el Comité de Médicos (c) y el Sindicato (d) no tienen esta competencia regulatoria. Respuesta B.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_9",
@@ -1583,14 +1821,21 @@
     "explanation": "D.186/2005 Art. 10 (modificaciones de Plantilla): Los efectivos incluidos en las Plantillas Funcionales SÍ PODRÁN ser objeto de modificación mediante traslado, amortización y creación de alguno de los efectivos pertenecientes a dichas Plantillas. La opción a) dice que 'no podrán' (FALSO). Las opciones b) y c) introducen porcentajes (25%, 50%) inexistentes. Respuesta D.",
     "originalId": 30,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-puestos-funcionales_8",
@@ -1629,14 +1874,21 @@
     "explanation": "D.186/2005 Art. 10: El número de efectivos de las Plantillas Funcionales vendrá limitado por la Plantilla Estructural aprobada por el Consejo de Administración, constituida por el TOTAL de efectivos por Grupo Profesional del conjunto de las Organizaciones de Servicios. Las opciones b) 'algunos', c) '25%' y d) '50%' son incorrectas. Respuesta D.",
     "originalId": 31,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_1",
@@ -1675,14 +1927,21 @@
     "explanation": "Art. 1 Ley 19/2013: 'Esta Ley tiene por objeto: a) Ampliar y reforzar la transparencia de la actividad pública [→ a]; b) Regular y garantizar el derecho de acceso a la información relativa a aquella actividad [→ b]; c) Establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos así como las consecuencias derivadas de su incumplimiento [→ c].' Los tres objetos son correctos. Respuesta C.",
     "originalId": 37,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_2",
@@ -1721,13 +1980,20 @@
     "explanation": "Art. 2.1.a Ley 19/2013: La transparencia se aplica a 'La Administración General del Estado, las Administraciones de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla y las entidades que integran la Administración Local.' Respuesta A.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_3",
@@ -1766,13 +2032,20 @@
     "explanation": "Art. 2.1.b Ley 19/2013: Se aplica a 'Las entidades gestoras y los servicios COMUNES de la Seguridad Social, así como las mutuas de accidente de trabajo y enfermedades profesionales COLABORADORAS de la Seguridad Social.' Clave: servicios COMUNES (no los no-comunes) + mutuas COLABORADORAS (no las no-colaboradoras). Respuesta C.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_4",
@@ -1811,13 +2084,20 @@
     "explanation": "Art. 2.1.c Ley 19/2013: Se aplica a 'Las entidades de Derecho Público que, con independencia funcional o con una especial autonomía reconocida por la Ley, tengan atribuidas funciones de regulación o supervisión de carácter externo sobre un determinado sector o actividad.' El artículo dice 'entidades de Derecho Público', no 'organismos autónomos' (a) ni 'entidades públicas empresariales' (b). Respuesta C.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_5",
@@ -1856,13 +2136,20 @@
     "explanation": "Art. 2.1.d Ley 19/2013: Se aplica a 'Las entidades de Derecho Público con personalidad jurídica propia, VINCULADAS a cualquiera de las Administraciones Públicas o DEPENDIENTES de ellas, incluidas las UNIVERSIDADES PÚBLICAS.' Doble clave: vinculadas/dependientes (no 'sin vinculación') + Universidades PÚBLICAS (no privadas). Respuesta B.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_6",
@@ -1901,13 +2188,20 @@
     "explanation": "Art. 2.1 Ley 19/2013 incluye en su ámbito: f) 'La Casa de su Majestad el Rey' [→ a]; h) 'El Banco de España' [→ b]; y el 'Consejo General del Poder Judicial' [→ c]. Los tres están expresamente incluidos en el ámbito de aplicación de la Ley de Transparencia. Respuesta D.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_7",
@@ -1946,13 +2240,20 @@
     "explanation": "Art. 2.1.g Ley 19/2013: Se aplica a 'Las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades previstas en este artículo sea SUPERIOR AL 50 POR 100.' Ninguna de las opciones reproduce correctamente este umbral: la a) dice 'igual al 50%' (FALSO), la b) dice 'inferior al 50%' (FALSO), la c) dice 'superior al 25%' (FALSO). Respuesta D.",
     "originalId": 38,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_8",
@@ -1991,14 +2292,21 @@
     "explanation": "Art. 3 Ley 19/2013 (sujetos obligados adicionales): Están también obligados 'Los partidos políticos, las ORGANIZACIONES SINDICALES y las ORGANIZACIONES EMPRESARIALES' cuando perciban fondos públicos. Las asociaciones de pacientes (c) no están incluidas en esta mención expresa del Art. 3. Respuesta D: a) y b) correctas.",
     "originalId": 44,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_9",
@@ -2037,14 +2345,21 @@
     "explanation": "Art. 3.b Ley 19/2013: También estarán obligadas 'Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía SUPERIOR A 100.000 EUROS o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 EUROS.' Umbral exacto: 100.000€ / 40% / 5.000€. Respuesta A.",
     "originalId": 44,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_10",
@@ -2083,13 +2398,20 @@
     "explanation": "Art. 5.4 Ley 19/2013: 'La información sujeta a las obligaciones de transparencia será publicada en las correspondientes sedes electrónicas o páginas web y de una manera CLARA, ESTRUCTURADA Y ENTENDIBLE para los interesados y, preferiblemente, en FORMATOS REUTILIZABLES.' La opción a) dice 'difícil de entender' (FALSO) y la c) dice 'formatos no reutilizables' (FALSO). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_11",
@@ -2128,13 +2450,20 @@
     "explanation": "Art. 5.4 Ley 19/2013 (in fine): 'Toda la información será comprensible, de acceso fácil y GRATUITO y estará a disposición de las personas con discapacidad en una modalidad suministrada por medios o en formatos adecuados de manera que resulten accesibles y comprensibles, conforme al principio de ACCESIBILIDAD UNIVERSAL Y DISEÑO PARA TODOS.' Clave: GRATUITO (no 'coste mínimo' de la opción a). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_12",
@@ -2173,13 +2502,20 @@
     "explanation": "Art. 6 Ley 19/2013 (publicidad activa — información institucional): Los sujetos publicarán: a) información sobre funciones, normativa aplicable y estructura organizativa [→ opción a: VERDAD]; b) organigrama actualizado que identifique a los responsables [→ opción b: VERDAD]; c) perfil y trayectoria profesional de los responsables [→ opción c: VERDAD]. Las tres afirmaciones son correctas. Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_13",
@@ -2218,13 +2554,20 @@
     "explanation": "Art. 6.2 Ley 19/2013: 'El grado de cumplimiento y resultados de las Administraciones Públicas deberán ser objeto de EVALUACIÓN Y PUBLICACIÓN PERIÓDICA junto con los INDICADORES DE MEDIDA Y VALORACIÓN, en la forma en que se determine por cada Administración competente.' La opción b) niega la publicación (FALSO), la c) niega la publicación de planes (FALSO), la d) excluye los indicadores (FALSO). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_18",
@@ -2263,13 +2606,20 @@
     "explanation": "Art. 9.3 Ley 19/2013: 'El incumplimiento reiterado de las obligaciones de publicidad activa reguladas en este capítulo tendrá la consideración de INFRACCIÓN GRAVE a los efectos de aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora.' No es infracción leve (b) ni ausencia de infracción (c). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_19",
@@ -2308,13 +2658,20 @@
     "explanation": "Art. 10.1 Ley 19/2013: 'La Administración General del Estado desarrollará un Portal de Transparencia, dependiente del Ministerio de la Presidencia, que facilitará el acceso de LOS CIUDADANOS a toda la información relativa a su ámbito de actuación.' Sin restricción de edad (no 'mayores de 50 años' ni 'mayores de 65 años') y el acceso es a TODA la información (no 'parte'). Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_14",
@@ -2353,14 +2710,21 @@
     "explanation": "Art. 7 Ley 19/2013 (publicidad activa — información jurídica): Las AAPP publicarán: a) documentos sometidos a información pública [→ a]; b) directrices, instrucciones, circulares y respuestas a consultas con efectos jurídicos [→ b]; c) anteproyectos de Ley y proyectos de Decretos Legislativos cuando se soliciten dictámenes [→ c]. Las tres son correctas. Respuesta D.",
     "originalId": 50,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_15",
@@ -2399,13 +2763,20 @@
     "explanation": "Art. 8.1.a Ley 19/2013: 'Todos los contratos, con indicación del objeto, duración, el importe de licitación y de adjudicación, el procedimiento utilizado para su celebración, los instrumentos a través de los que se ha publicitado, el número de licitadores participantes y la identidad del adjudicatario, así como las MODIFICACIONES DEL CONTRATO.' La opción a) excluye importes y procedimiento (FALSO). La opción c) excluye adjudicatario y modificaciones (FALSO). Respuesta B.",
     "originalId": 51,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_16",
@@ -2444,13 +2815,20 @@
     "explanation": "Art. 8.1.c Ley 19/2013: 'Las subvenciones y ayudas públicas concedidas con indicación de su IMPORTE, OBJETIVO O FINALIDAD y BENEFICIARIOS.' La opción a) excluye importe, objetivo y finalidad (FALSO). La opción b) excluye beneficiarios (FALSO). Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 51,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_17",
@@ -2489,13 +2867,20 @@
     "explanation": "Art. 8.1.d Ley 19/2013: 'Los PRESUPUESTOS, con descripción de las principales partidas presupuestarias e INFORMACIÓN ACTUALIZADA Y COMPRENSIBLE sobre su estado de ejecución y sobre el cumplimiento de los OBJETIVOS DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA de las Administraciones Públicas.' La opción a) reproduce literalmente el artículo. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 51,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 45.2,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-transparencia-y-buen-gobierno_20",
@@ -2534,14 +2919,21 @@
     "explanation": "Art. 10.2 Ley 19/2013: Las prescripciones técnicas del Portal de Transparencia deberán adecuarse a los principios de: a) ACCESIBILIDAD [→ a]; b) INTEROPERABILIDAD [→ b]; c) REUTILIZACIÓN [→ c]. Los tres principios están expresamente previstos. Respuesta D.",
     "originalId": 56,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_1",
@@ -2580,13 +2972,20 @@
     "explanation": "D.235/2007 Art. 2 (ámbito de aplicación): El Acuerdo es de aplicación al personal ESTATUTARIO y al personal LABORAL FIJO Y TEMPORAL de Osakidetza, EXCEPTO el personal laboral temporal contratado al amparo del art. 26.6 de la Ley de Ordenación sanitaria de Euskadi, que queda EXCLUIDO expresamente. Respuesta C.",
     "originalId": 57,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_2",
@@ -2625,13 +3024,20 @@
     "explanation": "D.235/2007 Art. 14 (ropa de trabajo): 'La organización de servicios facilitará al personal que así lo requiera la ropa de trabajo necesaria para el ejercicio de su actividad profesional, SIENDO OBLIGATORIO su uso.' La obligatoriedad del uso de la ropa de trabajo es la característica definitoria del artículo. Respuesta A.",
     "originalId": 58,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_3",
@@ -2670,13 +3076,20 @@
     "explanation": "D.235/2007 Art. 20 (jubilación): 'La edad de jubilación forzosa será la de 65 años. No obstante, el personal podrá solicitar la prórroga de su permanencia en el servicio activo hasta un MÁXIMO DE 70 AÑOS de edad.' La edad ordinaria es 65 años y el límite máximo de prórroga es 70 años. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_4",
@@ -2715,13 +3128,20 @@
     "explanation": "D.235/2007 Art. 27.3: 'Con carácter general, LA JORNADA NORMALIZADA DIARIA SERÁ DE 7 HORAS.' Este artículo fija expresamente la jornada diaria normalizada en 7 horas (no 8). Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_5",
@@ -2760,13 +3180,20 @@
     "explanation": "D.235/2007 Art. 28.4: 'La jornada complementaria NO TENDRÁ, en ningún caso, la condición ni los efectos de las HORAS EXTRAORDINARIAS.' La jornada complementaria es una categoría específica del ámbito sanitario, distinta y separada del régimen de horas extraordinarias. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_6",
@@ -2805,13 +3232,20 @@
     "explanation": "D.235/2007 regulación de vacaciones: a) Las vacaciones anuales son de 28 DÍAS LABORABLES [→ opción a: VERDAD]; b) Cuando no se haya completado el año, las vacaciones son PROPORCIONALES al tiempo trabajado [→ opción b: VERDAD]; c) Las vacaciones NO pueden ser COMPENSADAS ECONÓMICAMENTE (salvo extinción de la relación de servicio) [→ opción c: VERDAD]. Las tres afirmaciones son correctas. Respuesta D: a), b) y c) correctas.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_9",
@@ -2850,13 +3284,20 @@
     "explanation": "D.235/2007 Art. 47.2: Por intervención quirúrgica SIN HOSPITALIZACIÓN que precise reposo domiciliario, de familiar hasta primer grado de consanguinidad o afinidad: 1 DÍA. La clave es 'sin hospitalización' — si hubiera hospitalización se aplicaría el plazo del Art. 47.1. Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 59,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_7",
@@ -2895,13 +3336,20 @@
     "explanation": "D.235/2007 Art. 39 (licencias): Las licencias son ausencias del puesto de trabajo TIPIFICADAS Y JUSTIFICADAS, que deben solicitarse POR ESCRITO con una antelación mínima de 10 DÍAS (salvo urgencia justificada). La opción C reproduce correctamente los elementos esenciales del régimen de licencias. Respuesta C.",
     "originalId": 63,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_8",
@@ -2940,13 +3388,20 @@
     "explanation": "D.235/2007 Art. 47.1.a (permisos por fallecimiento/enfermedad grave): Por fallecimiento, accidente o enfermedad graves de cónyuge, hijos o padres: 5 DÍAS NATURALES ampliables en 2 DÍAS HÁBILES cuando sea necesario desplazamiento superior a 150 km. Total máximo: 5 naturales + 2 hábiles. Respuesta A.",
     "originalId": 64,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "D",
+      "u": "A"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_10",
@@ -2985,14 +3440,21 @@
     "explanation": "D.235/2007 Art. 48.2 (deberes inexcusables): La lista incluye: asistencia a juicios, citaciones judiciales o notariales, cumplimiento de obligaciones electorales, renovación del DNI, reconocimientos médicos obligatorios, etc. 'Asistir a un CONCIERTO DE MÚSICA' NO figura en ningún apartado de deberes inexcusables. Es una actividad de ocio, no un deber legal o cívico inexcusable. Respuesta D.",
     "originalId": 66,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-condiciones-trabajo-osakidetza_11",
@@ -3031,14 +3493,21 @@
     "explanation": "D.235/2007 Art. 60.1 (reducción de jornada por guarda legal): La reducción general es de UN TERCIO A LA MITAD (33%-50%) de la jornada. La opción D afirma que 'la reducción máxima es del 10%' → FALSO: el artículo establece que la reducción puede alcanzar hasta el 50% (la mitad). Respuesta D (afirmación FALSA).",
     "originalId": 67,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_1",
@@ -3077,13 +3546,20 @@
     "explanation": "Art. 2 EAPV: 'Los Territorios Históricos que integran el País Vasco son: Álava, Guipúzcoa y Vizcaya, así como Navarra, siempre que esta última decida su incorporación de acuerdo con el procedimiento establecido en la disposición transitoria cuarta.' → Tienen derecho a formar parte: Álava + Guipúzcoa + Vizcaya (ya integradas) + Navarra (derecho de incorporación). Respuesta D.",
     "originalId": 68,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_2",
@@ -3122,14 +3598,21 @@
     "explanation": "Art. 5 EAPV: 'La bandera del País Vasco es la bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo.' La palabra exacta del estatuto es 'bicrucífera' (dos cruces: aspa diagonal verde + cruz recta blanca superpuesta). Respuesta C.",
     "originalId": 69,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_3",
@@ -3168,14 +3651,21 @@
     "explanation": "Art. 6.3 EAPV: 'La Real Academia de la Lengua Vasca-Euskaltzaindia es institución consultiva oficial en lo referente al euskera.' Fijado expresamente en el Estatuto. Respuesta A.",
     "originalId": 70,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_4",
@@ -3214,13 +3704,20 @@
     "explanation": "Art. 8 EAPV: 'Los territorios o municipios que estuvieran enclavados totalmente dentro del territorio de la Comunidad Autónoma podrán, por las causas que sean, incorporarse a dicha Comunidad previa aprobación de sus órganos representativos.' El requisito es estar TOTALMENTE enclavado dentro del territorio. Los casos reales son Treviño (Álava) y Valle de Villaverde (Bizkaia), ambos 100% enclavados. Respuesta C.",
     "originalId": 71,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_5",
@@ -3259,13 +3756,20 @@
     "explanation": "Art. 9.2 EAPV: 'Los poderes públicos vascos, en el ámbito de su competencia, adoptarán aquellas medidas que tiendan a fomentar el incremento del empleo y la estabilidad económica.' Esta es la fórmula literal del artículo. Respuesta B.",
     "originalId": 72,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_6",
@@ -3304,14 +3808,21 @@
     "explanation": "Art. 26.1 EAPV: 'El Parlamento Vasco será elegido por un período de cuatro años.' Mismo periodo que el Congreso de los Diputados y la mayoría de parlamentos autonómicos. Respuesta C.",
     "originalId": 73,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_7",
@@ -3350,14 +3861,21 @@
     "explanation": "Art. 26.3 EAPV: 'Los miembros del Parlamento Vasco, por los actos delictivos cometidos en el ámbito territorial de la Comunidad Autónoma, no podrán ser detenidos ni retenidos sino en caso de flagrante delito.' Inmunidad parlamentaria clásica limitada al territorio autonómico. Respuesta D.",
     "originalId": 74,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_8",
@@ -3396,14 +3914,21 @@
     "explanation": "Art. 27.1 EAPV: 'El Parlamento aprobará su propio Reglamento, que deberá ser aprobado por mayoría absoluta de sus miembros.' Mayoría absoluta (más de la mitad del total de miembros), no simple. Respuesta A.",
     "originalId": 75,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_9",
@@ -3442,14 +3967,21 @@
     "explanation": "Art. 27.2 EAPV: 'El Parlamento se reunirá en períodos ordinarios de sesiones durante ocho meses como mínimo al año.' La sesión ordinaria abarca típicamente dos períodos: febrero-junio y septiembre-diciembre. Respuesta B.",
     "originalId": 76,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_10",
@@ -3488,14 +4020,21 @@
     "explanation": "Art. 27.3 EAPV: 'La Cámara podrá reunirse en período extraordinario de sesiones a petición del Gobierno, de la Diputación Permanente o de la tercera parte de sus miembros.' Los tres órganos tienen capacidad de convocatoria. Respuesta D.",
     "originalId": 77,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_11",
@@ -3534,14 +4073,21 @@
     "explanation": "Art. 27.4 EAPV: 'Las Leyes del Parlamento Vasco serán promulgadas por el Presidente del Gobierno Vasco, quien ordenará su publicación en el Boletín Oficial del País Vasco en el plazo de quince días de su aprobación.' Plazo de 15 días desde la aprobación parlamentaria. Respuesta C.",
     "originalId": 78,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_12",
@@ -3580,13 +4126,20 @@
     "explanation": "Art. 27.4 EAPV (continuación): 'Para la entrada en vigor de las leyes, regirá a todos los efectos la fecha de publicación en el Boletín Oficial del País Vasco.' La fecha de referencia para la vigencia es la de publicación en el BOPV, no la de aprobación ni la posterior. Respuesta A.",
     "originalId": 79,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_13",
@@ -3625,14 +4178,21 @@
     "explanation": "Art. 46 EAPV: El Gobierno Vasco cesa por: celebración de elecciones al Parlamento Vasco, pérdida de la confianza parlamentaria (art. 47), dimisión o fallecimiento de su Presidente. La opción C (solo al final de legislatura) es falsa. Las opciones A (pérdida de confianza) y B (fallecimiento) son ambas causas de cese → Respuesta D: a) y b) son correctas.",
     "originalId": 80,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_1",
@@ -3671,13 +4231,20 @@
     "explanation": "Art. 1.1 Ley 39/2015: 'Esta Ley tiene por objeto regular el procedimiento administrativo común de las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las AAPP, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.' El objeto principal es el PROCEDIMIENTO administrativo común. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 81,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_2",
@@ -3716,13 +4283,20 @@
     "explanation": "Art. 3.2 Ley 39/2015: 'A efectos de esta Ley, también tendrán capacidad de obrar ante las Administraciones Públicas: a) Las personas menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico SIN LA ASISTENCIA de la persona que ejerza la patria potestad, tutela o curatela.' La clave es 'sin asistencia' cuando el ordenamiento lo permita. Respuesta B.",
     "originalId": 82,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_3",
@@ -3761,14 +4335,21 @@
     "explanation": "Art. 5.4 Ley 39/2015: 'La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo de diez días hábiles.' Se aplica el principio de subsanación: el defecto no anula el acto si se corrige en plazo. Respuesta D.",
     "originalId": 83,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_4",
@@ -3807,14 +4388,21 @@
     "explanation": "Art. 6.2 Ley 39/2015 especifica los datos de cada asiento del registro de apoderamientos: nombre e identificación de poderdante y apoderado, tipo de poder según facultades que otorgue, fecha de inscripción, y período de vigencia. El MOTIVO por el que se otorga el poder no es un dato exigido legalmente. Respuesta D.",
     "originalId": 84,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_5",
@@ -3853,13 +4441,20 @@
     "explanation": "Art. 6.3 Ley 39/2015: 'Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez máxima de cinco años a contar desde la fecha de su inscripción. Antes de que finalice ese plazo, el poderdante podrá renovar su inscripción por un período de igual duración.' Plazo exacto: CINCO AÑOS desde la inscripción. Respuesta C.",
     "originalId": 85,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_6",
@@ -3898,13 +4493,20 @@
     "explanation": "Art. 66.1(e) Ley 39/2015: Las solicitudes contendrán 'Firma del solicitante O acreditación de la autenticidad de su voluntad expresada por cualquier medio.' La ley distingue entre identificación (siempre necesaria) y firma (no siempre obligatoria, puede sustituirse por acreditación de autenticidad). En procedimientos electrónicos, la identificación electrónica sustituye a la firma tradicional. Para la mera formulación de solicitudes, NO se requiere firma en sentido estricto. Respuesta C.",
     "originalId": 86,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_7",
@@ -3943,14 +4545,21 @@
     "explanation": "Art. 14.2(c) Ley 39/2015: 'En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: ... c) Los Notarios y Registradores de la Propiedad y Mercantiles.' Obligación expresa y sin excepciones. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to D based on Kaixo/Osasun consensus.",
     "originalId": 87,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-procedimiento_1",
@@ -3989,14 +4598,21 @@
     "explanation": "Art. 24.1 Ley 39/2015: La estimación por silencio administrativo (silencio positivo) 'tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.' No es meramente informativo ni parcial; produce los mismos efectos que una resolución expresa favorable. Respuesta D.",
     "originalId": 88,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_8",
@@ -4022,10 +4638,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "Debe contener un código generado electrónicamente."
+      "Debe incorporar una referencia temporal del momento en el que ha sido emitido."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -4034,14 +4650,22 @@
     "module": "adm-lpac-interesados-y-actos",
     "explanation": "Art. 26.2 Ley 39/2015: 'Para ser considerados válidos, los documentos electrónicos administrativos deberán: ... c) Incorporar una referencia temporal del momento en que han sido emitidos.' De entre las opciones, la referencia temporal es el requisito de validez que recoge literalmente el artículo. Respuesta A.",
     "originalId": 89,
-    "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceTrio": true,
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_9",
@@ -4080,14 +4704,21 @@
     "explanation": "Art. 27.1 Ley 39/2015: 'Las Administraciones Públicas podrán obtener imágenes electrónicas de los documentos privados aportados por los ciudadanos, con su misma validez y eficacia, a través de procesos de DIGITALIZACIÓN que garanticen su autenticidad, integridad y la conservación del documento imagen.' El término jurídico exacto es digitalización. Respuesta C.",
     "originalId": 90,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_10",
@@ -4126,14 +4757,21 @@
     "explanation": "Art. 27.3 Ley 39/2015: 'Las copias auténticas en papel deberán incluir la condición de copia auténtica y contendrán un código generado electrónicamente u otro sistema de verificación que permita contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos de la Administración.' Dos requisitos: indicación de 'copia auténtica' + código electrónico/sistema de verificación. Respuesta A.",
     "originalId": 91,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_11",
@@ -4172,13 +4810,20 @@
     "explanation": "Art. 28.2 Ley 39/2015: 'Los interesados no estarán obligados a aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.' Consagra el derecho a no aportar documentación que la propia Administración ya posea o pueda obtener. Respuesta B.",
     "originalId": 92,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_12",
@@ -4217,14 +4862,21 @@
     "explanation": "Art. 16.4 Ley 39/2015: 'Los registros electrónicos de todas y cada una de las Administraciones... permitirán la presentación de documentos TODOS LOS DÍAS DEL AÑO DURANTE LAS VEINTICUATRO HORAS.' Este es uno de los principios clave de la Administración electrónica: disponibilidad 24/7/365. Respuesta A.",
     "originalId": 93,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_13",
@@ -4263,13 +4915,20 @@
     "explanation": "Art. 42.2 Ley 39/2015: 'Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de la entrega, podrá hacerse cargo de la misma CUALQUIER PERSONA MAYOR DE CATORCE AÑOS que se encuentre en el domicilio y HAGA CONSTAR SU IDENTIDAD.' Dos requisitos: mayor de 14 años + identificación. Respuesta C.",
     "originalId": 94,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_14",
@@ -4308,14 +4967,21 @@
     "explanation": "Art. 43.2 Ley 39/2015: 'Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.' Si el interesado no accede, se entenderá rechazada a los 10 días naturales desde la puesta a disposición. El momento determinante es el ACCESO. Respuesta A.",
     "originalId": 95,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_15",
@@ -4354,14 +5020,21 @@
     "explanation": "Art. 53.1 Ley 39/2015 reconoce como derechos de los interesados: (a) Conocer en cualquier momento el estado de tramitación [→ opción b]; (d) Obtener copia de los documentos [→ opción a]; (e) Aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia [→ opción c]. Los tres son derechos reconocidos expresamente. Respuesta D: a), b) y c) son correctas.",
     "originalId": 96,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-procedimiento_2",
@@ -4400,14 +5073,21 @@
     "explanation": "Art. 56.1 Ley 39/2015: Las medidas provisionales que puede adoptar el órgano incluyen: 'c) Suspensión temporal de actividades.' El embargo definitivo no es provisional; la pérdida de condición de funcionario y las sanciones son medidas definitivas que no pueden anticiparse mediante cautelar. La suspensión temporal de actividades sí es una medida cautelar clásica. Respuesta A.",
     "originalId": 97,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-procedimiento_3",
@@ -4446,13 +5126,20 @@
     "explanation": "Art. 58.1 Ley 39/2015: 'Se entiende por PROPIA INICIATIVA la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación.' Definición literal del artículo. Respuesta C.",
     "originalId": 98,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-procedimiento_4",
@@ -4491,14 +5178,21 @@
     "explanation": "Art. 62.3 Ley 39/2015: 'El órgano competente para resolver, cuando el denunciante haya participado en la comisión de una infracción y existan otros infractores, PODRÁ EXIMIR al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario.' Posibilidad de exención para incentivar la denuncia. Respuesta D.",
     "originalId": 99,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_16",
@@ -4537,13 +5231,20 @@
     "explanation": "Art. 67.1 Ley 39/2015: 'El derecho a reclamar prescribe AL AÑO de producido el hecho o el acto que motive la indemnización o de manifestarse su efecto lesivo. En caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.' Prescripción general: 1 año. Respuesta B.",
     "originalId": 100,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_17",
@@ -4582,13 +5283,20 @@
     "explanation": "Art. 69.1 Ley 39/2015: 'A los efectos de esta Ley, se entenderá por declaración responsable el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Administración cuando le sea requerida.' Respuesta C.",
     "originalId": 101,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_18",
@@ -4627,13 +5335,20 @@
     "explanation": "Art. 70.1 Ley 39/2015: 'Se entiende por expediente administrativo el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.' Definición literal del artículo: documentos + actuaciones → antecedente y fundamento de la resolución. Respuesta A.",
     "originalId": 102,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lpac-procedimiento_5",
@@ -4672,13 +5387,20 @@
     "explanation": "Art. 84 del Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad (ENI) en el ámbito de la Administración Electrónica, en relación con el Art. 26 Ley 39/2015: Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en el ESQUEMA NACIONAL DE INTEROPERABILIDAD (ENI) y en las NORMAS TÉCNICAS DE INTEROPERABILIDAD. El ENI (no 'autonómico') es el marco de referencia para garantizar la compatibilidad entre sistemas. Respuesta D.",
     "originalId": 103,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_19",
@@ -4717,13 +5439,20 @@
     "explanation": "Art. 79.1 Ley 39/2015: 'Salvo disposición expresa en contrario, los informes serán FACULTATIVOS Y NO VINCULANTES.' Regla general: el órgano decide si los solicita (facultativo) y no queda vinculado por su contenido (no vinculante). Excepción: cuando la ley los declara preceptivos y/o vinculantes. Respuesta D.",
     "originalId": 104,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-procedimiento_6",
@@ -4762,14 +5491,21 @@
     "explanation": "Art. 84 Ley 39/2015 LPAC: Las formas de terminación del procedimiento son: resolución, desistimiento, renuncia, declaración de caducidad, imposibilidad material sobrevenida y terminación convencional. 'Notificación infructuosa' NO es forma de terminación. Desistimiento (Art. 93) y declaración de caducidad (Art. 95) sí ponen fin → respuesta D (a y b son correctas).",
     "originalId": 105,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_20",
@@ -4808,13 +5544,20 @@
     "explanation": "Art. 85.3 Ley 39/2015: 'Cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra no pecuniaria pero se ha justificado la improcedencia de la segunda, el órgano competente para resolver aplicará reducciones de, al menos, el 20% sobre el importe de la sanción propuesta.' El umbral mínimo de reducción es el VEINTE POR CIENTO. Respuesta D.",
     "originalId": 106,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_21",
@@ -4853,13 +5596,20 @@
     "explanation": "Art. 88.2 Ley 39/2015 establece los medios válidos para pago de sanciones pecuniarias a la Hacienda Pública: a) transferencia bancaria, b) domiciliación bancaria, c) tarjeta de crédito y débito. El PAGARÉ A 120 DÍAS no figura como medio admitido. Respuesta B.",
     "originalId": 107,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "?",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-procedimiento_7",
@@ -4898,13 +5648,20 @@
     "explanation": "Art. 96.5 Ley 39/2015 LPAC: En la tramitación simplificada del procedimiento sancionador NO existe fase de alegaciones previa a la propuesta de resolución. La afirmación que indica que sí existe dicha fase es FALSA. Respuesta C.",
     "originalId": 108,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "?",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_22",
@@ -4943,13 +5700,20 @@
     "explanation": "Art. 106.5 Ley 39/2015: La caducidad por inactividad en revisión de actos se produce cuando el procedimiento se inicia DE OFICIO. En los procedimientos iniciados a solicitud del interesado, el transcurso del plazo no produce caducidad sino desestimación presunta (silencio negativo). Respuesta A: si se hubiera iniciado de oficio.",
     "originalId": 109,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "?",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lpac-recursos_1",
@@ -4988,14 +5752,21 @@
     "explanation": "Art. 107.2 Ley 39/2015: 'La acción de lesividad no podrá adoptarse una vez transcurridos CUATRO AÑOS desde que se dictó el acto administrativo.' Plazo exacto: 4 años. Respuesta C.",
     "originalId": 110,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-recursos_2",
@@ -5034,14 +5805,21 @@
     "explanation": "Art. 107.3 Ley 39/2015: 'La declaración de lesividad no es susceptible de recurso en vía administrativa.' Se notifica a los interesados pero solo a efectos informativos, sin abrir plazo de recurso administrativo. Respuesta D.",
     "originalId": 111,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-recursos_3",
@@ -5080,14 +5858,21 @@
     "explanation": "Art. 106.2 Ley 39/2015: En la AGE, la competencia para resolver la revisión de oficio corresponde al Consejo de Ministros (actos de Ministros y Secretarios de Estado) o al Ministro (demás actos). El Consejo de Estado emite dictamen preceptivo pero no resuelve. Los SECRETARIOS DE ESTADO no tienen competencia propia para resolver revisiones de oficio. Respuesta B.",
     "originalId": 112,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lpac-recursos_4",
@@ -5126,13 +5911,20 @@
     "explanation": "Art. 112.2 Ley 39/2015: 'Las Leyes podrán sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especialidad de la materia así lo justifique, por otros procedimientos de impugnación, reclamación, conciliación, MEDIACIÓN y arbitraje.' Tanto mediación (b) como reclamación (c) están expresamente previstos. Respuesta D: b) y c).",
     "originalId": 113,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-recursos_5",
@@ -5171,14 +5963,21 @@
     "explanation": "Art. 114.2 Ley 39/2015: 'Las resoluciones de los recursos de alzada PONEN FIN A LA VÍA ADMINISTRATIVA.' Una vez resuelta la alzada, el interesado puede acudir directamente a la vía contencioso-administrativa. Respuesta C.",
     "originalId": 114,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-recursos_6",
@@ -5217,13 +6016,20 @@
     "explanation": "Art. 115.1 Ley 39/2015 establece el contenido obligatorio del recurso: nombre/apellidos, acto recurrido y razón de impugnación, lugar/fecha/firma, órgano al que se dirige y código de identificación. No se exige 'relación de documentos que se adjuntan' como elemento obligatorio del escrito de recurso. Respuesta C.",
     "originalId": 115,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-recursos_7",
@@ -5262,14 +6068,21 @@
     "explanation": "Art. 116.1 Ley 39/2015 establece causas de inadmisión del recurso: entre ellas 'd) Que se hubiera interpuesto el recurso FUERA DE PLAZO.' La falta de firma o los defectos formales son subsanables (no conducen a inadmisión directa). El incumplimiento del plazo es causa de inadmisión insubsanable. Respuesta B.",
     "originalId": 116,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_23",
@@ -5308,14 +6121,21 @@
     "explanation": "Art. 117.1 Ley 39/2015: 'La interposición de cualquier recurso... no suspenderá la ejecución del acto impugnado.' (regla general). Art. 117.2: 'No obstante... podrá suspender, de oficio o a solicitud del recurrente, la ejecución del acto impugnado cuando la ejecución HUBIERA DE OCASIONAR DAÑOS O PERJUICIOS DE IMPOSIBLE O DIFÍCIL REPARACIÓN.' Respuesta D.",
     "originalId": 117,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_24",
@@ -5354,14 +6174,21 @@
     "explanation": "Art. 82.4 Ley 39/2015: 'Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrá de manifiesto a los interesados para que, en un plazo no inferior a DIEZ DÍAS NI SUPERIOR A QUINCE, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.' Respuesta B.",
     "originalId": 118,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-recursos_8",
@@ -5400,14 +6227,21 @@
     "explanation": "Art. 121.1 Ley 39/2015: 'Las resoluciones y actos que no pongan fin a la vía administrativa podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó.' El RECURSO DE ALZADA es el ordinario ante el superior jerárquico cuando el acto no pone fin a la vía administrativa. Respuesta A.",
     "originalId": 119,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lpac-recursos_9",
@@ -5446,14 +6280,21 @@
     "explanation": "Art. 125.1 Ley 39/2015: 'Contra los actos firmes en vía administrativa podrán interponerse el recurso extraordinario de revisión ante el órgano administrativo que los dictó.' El recurso extraordinario de revisión solo procede contra actos FIRMES (que ya no pueden ser objeto de recurso ordinario). Los actos que ponen fin a la vía administrativa pero no son firmes (opción A) aún pueden ser impugnados en contencioso-administrativo pero no mediante este recurso. Respuesta B.",
     "originalId": 120,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-recursos_10",
@@ -5492,14 +6333,21 @@
     "explanation": "Art. 126.2 Ley 39/2015: 'El plazo máximo para resolver el recurso extraordinario de revisión es de TRES MESES, transcurrido el cual se entenderá desestimado.' ⚠️ NOTA: Ninguna de las opciones recoge el plazo correcto de TRES MESES. La opción más aproximada disponible es D (un mes), pero el plazo real no figura entre las alternativas. Esta pregunta requiere revisión y corrección de sus opciones para incluir 'Tres meses'. Se mantiene D como mejor respuesta disponible por descarte.",
     "originalId": 121,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_2",
@@ -5525,10 +6373,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      3
     ],
     "correctAnswers": [
-      "Acreditar que no existe duplicación de otros órganos administrativos ya existentes."
+      "Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -5538,12 +6386,20 @@
     "explanation": "Art. 5.4 Ley 40/2015: 'La creación de cualquier órgano administrativo exigirá: a) Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica; b) Delimitación de sus funciones y competencias; c) Dotación de los créditos necesarios para su puesta en marcha y funcionamiento; d) No duplicación con otros ya existentes.' La opción C reproduce literalmente el requisito a) del artículo. Respuesta C.",
     "originalId": 122,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_3",
@@ -5582,14 +6438,21 @@
     "explanation": "Art. 8.1 Ley 40/2015: 'La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia NO suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén.' La titularidad permanece en el órgano delegante; solo cambian los elementos de ejercicio. Respuesta A.",
     "originalId": 123,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_4",
@@ -5628,14 +6491,21 @@
     "explanation": "Art. 8.5 Ley 40/2015: 'No podrán ser objeto de delegación las competencias relativas a: a) La adopción de disposiciones de carácter general.' Prohibición absoluta: las disposiciones generales (reglamentos, circulares, instrucciones de alcance general) NO se pueden delegar en ningún caso. Respuesta C.",
     "originalId": 124,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_5",
@@ -5674,14 +6544,21 @@
     "explanation": "Art. 11.1 Ley 40/2015: 'La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser encomendada a otros órganos o Entidades...' La encomienda NO supone cesión de titularidad (opción B incorrecta) ni adjudicación contractual (opción C incorrecta). Es solo gestión material/técnica. Respuesta A.",
     "originalId": 125,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_6",
@@ -5720,14 +6597,21 @@
     "explanation": "Art. 11.3 Ley 40/2015: 'En los supuestos de encomienda de gestión que impliquen el tratamiento de datos de carácter personal, tendrá la consideración de ENCARGADO DEL TRATAMIENTO el órgano o entidad encomendada.' El órgano encomendante mantiene la condición de responsable del tratamiento. Respuesta B: el órgano encomendado.",
     "originalId": 126,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_7",
@@ -5766,14 +6650,21 @@
     "explanation": "Art. 13.1 Ley 40/2015: 'En los casos de vacante, ausencia o enfermedad, así como en los supuestos en que haya sido declarada su abstención o recusación, los titulares de los órganos administrativos serán suplidos TEMPORALMENTE por quien designe el órgano competente para efectuar el nombramiento.' Suplencia = siempre temporal, cubre situaciones concretas y limitadas en el tiempo. Respuesta C.",
     "originalId": 127,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_8",
@@ -5812,14 +6703,21 @@
     "explanation": "Art. 14.1 Ley 40/2015: 'Los conflictos de atribuciones SÓLO podrán suscitarse entre órganos de una MISMA ADMINISTRACIÓN NO RELACIONADOS JERÁRQUICAMENTE.' Dos requisitos acumulativos: misma Administración + sin relación jerárquica. Si hay jerarquía, la resuelve el superior. Si son de distintas AAPP, hay otros mecanismos. Respuesta D.",
     "originalId": 128,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_9",
@@ -5858,13 +6756,20 @@
     "explanation": "Art. 17.2 Ley 40/2015: 'Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y el Secretario o en su caso, de quienes les suplan, y la de LA MITAD AL MENOS de sus miembros.' Tres requisitos: Presidente + Secretario (o suplentes) + mitad de miembros. Respuesta D.",
     "originalId": 129,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "?",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_10",
@@ -5903,13 +6808,20 @@
     "explanation": "Art. 19.1 Ley 40/2015 — Funciones del Presidente: 'f) Visar las actas y certificaciones de los acuerdos del órgano.' Las opciones b) y c) (formular ruegos/obtener información) son derechos de los MIEMBROS. La opción d) (expedir certificaciones) es función del SECRETARIO. Respuesta A.",
     "originalId": 130,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_11",
@@ -5948,13 +6860,20 @@
     "explanation": "Art. 19.3 Ley 40/2015 — Funciones del Secretario: 'd) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.' Las opciones a) (participar en debates) y c) (moderar debates) y d) (acordar convocatoria) son funciones del PRESIDENTE. Respuesta B.",
     "originalId": 131,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_12",
@@ -5993,14 +6912,21 @@
     "explanation": "Art. 23.2 Ley 40/2015 enumera causas de abstención: a) Interés personal en el asunto [→ opción b]; f) Relación de servicio con persona natural o jurídica interesada directamente [→ opción c]; h) Enemistad manifiesta con alguna de las personas [→ opción a]. LAS TRES son motivos de abstención reconocidos expresamente. Respuesta A: a), b) y c) correctas.",
     "originalId": 132,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-lrjsp-sector-publico_13",
@@ -6039,13 +6965,20 @@
     "explanation": "Art. 3.2 Ley 40/2015: 'Se entiende por portal de internet el punto de acceso electrónico cuya titularidad corresponda a una Administración Pública... que permite el acceso a través de internet A LA INFORMACIÓN PUBLICADA.' Diferencia clave: la SEDE ELECTRÓNICA (art. 3.1) permite acceso a SERVICIOS; el PORTAL DE INTERNET permite acceso a INFORMACIÓN PUBLICADA. Respuesta B.",
     "originalId": 133,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_25",
@@ -6084,14 +7017,21 @@
     "explanation": "Ley 16/2003 de Cohesión y Calidad del SNS + normativa de protección de datos (RGPD/LOPDGDD): Los datos de salud son datos especialmente protegidos. Los sistemas de información del SNS que traten datos personales de pacientes deben ubicarse y prestarse DENTRO DEL TERRITORIO DE LA UNIÓN EUROPEA, como garantía de protección equivalente. La ubicación fuera de la UE requeriría garantías adicionales que no aplican a sistemas públicos sanitarios. Respuesta A.",
     "originalId": 134,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_1",
@@ -6117,10 +7057,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "En cualquier registro oficial de la Administración."
+      "En los Servicios de Atención al Paciente-Usuario de los centros sanitarios o del Departamento de Sanidad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -6130,12 +7070,20 @@
     "explanation": "D.149/2007: La solicitud de segunda opinión médica deberá presentarse en los SERVICIOS DE ATENCIÓN AL PACIENTE-USUARIO de los centros sanitarios del Ente Público Osakidetza o del Departamento de Sanidad. No es exclusivamente telemática (a), ni en cualquier registro oficial (b), ni solo en el centro de origen (d). Respuesta C.",
     "originalId": 135,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_2",
@@ -6174,14 +7122,21 @@
     "explanation": "D.149/2007: La concesión del derecho a la segunda opinión médica será INCOMPATIBLE con la SOLICITUD SIMULTÁNEA DE CAMBIO DE PROFESIONAL. Si el paciente ha solicitado simultáneamente ambas cosas, no procede la segunda opinión mientras esté tramitándose el cambio. Respuesta B.",
     "originalId": 136,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_3",
@@ -6220,14 +7175,21 @@
     "explanation": "D.149/2007: Cuando la segunda opinión CONFIRMA el primer diagnóstico, el paciente PODRÁ OPTAR por continuar la atención en el centro que emitió la segunda opinión o en el centro de origen. No hay obligación de continuar en el centro de origen (a no es correcta). Respuesta B.",
     "originalId": 137,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_4",
@@ -6266,14 +7228,21 @@
     "explanation": "D.149/2007 Art. 3 (titulares del derecho): Puede solicitar la segunda opinión el PACIENTE, su REPRESENTANTE LEGAL o PERSONA EXPRESAMENTE AUTORIZADA por él. No se limita al paciente mayor de edad (a), ni incluye a cualquier profesional sanitario (b), ni solo familiares directos (d). Respuesta C.",
     "originalId": 138,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_5",
@@ -6312,14 +7281,21 @@
     "explanation": "D.149/2007 establece el derecho a la segunda opinión para procesos que implican diagnóstico de patologías graves, crónicas, de difícil tratamiento o con elevada mortalidad. Las ENFERMEDADES NEUROLÓGICAS DEGENERATIVAS (c) encajan en esta categoría. Las enfermedades infecciosas comunes (a), patologías leves temporales (b) y trastornos psicológicos transitorios (d) no alcanzan este umbral. Respuesta C.",
     "originalId": 139,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_6",
@@ -6358,14 +7334,21 @@
     "explanation": "D.149/2007: La finalidad del derecho a la segunda opinión médica es CONTRASTAR EL PRIMER DIAGNÓSTICO O PROPUESTA TERAPÉUTICA para una MEJOR TOMA DE DECISIONES por parte del paciente. No sustituye el primer diagnóstico (a), ni garantiza el cambio de profesional (c), ni reduce listas de espera (d). Respuesta B.",
     "originalId": 140,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_7",
@@ -6404,14 +7387,21 @@
     "explanation": "D.149/2007: La segunda opinión debe ser emitida por profesionales sanitarios que FORMEN PARTE DE LA RED PÚBLICA DE OSAKIDETZA y sean DISTINTOS DEL CENTRO DE ORIGEN. No puede ser del mismo centro (a), ni elegidos libremente por el paciente sin más (c), ni de centros privados concertados exclusivamente (d). Respuesta B.",
     "originalId": 141,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_8",
@@ -6450,13 +7440,20 @@
     "explanation": "D.149/2007: Desde la entrada de la solicitud en el registro, la cita para la segunda opinión médica deberá ser concertada en un plazo MÁXIMO DE 15 DÍAS NATURALES. Respuesta C.",
     "originalId": 142,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_9",
@@ -6495,14 +7492,21 @@
     "explanation": "D.149/2007: Cuando la segunda opinión NO confirma el primer diagnóstico, el paciente puede igualmente OPTAR POR CONTINUAR LA ATENCIÓN en el centro que emitió la segunda opinión. No está obligado a continuar en el centro de origen (a) ni pierde el derecho a asistencia (b). Respuesta C.",
     "originalId": 143,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_10",
@@ -6541,14 +7545,21 @@
     "explanation": "D.149/2007: Cuando no se considera adecuada la concesión de una segunda opinión médica, la decisión debe EMITIRSE MEDIANTE INFORME RAZONADO DE LA DIRECCIÓN MÉDICA. No es suficiente la comunicación verbal (a) ni puede ser sin justificación (b). Respuesta C.",
     "originalId": 144,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-eapv-estatuto-autonomia_14",
@@ -6587,14 +7598,21 @@
     "explanation": "D. 149/2007 Art. 6.2: 'Excepcionalmente, cuando sea necesario por las especiales circunstancias de una técnica diagnóstica y/o terapéutica, la segunda opinión médica podrá obtenerse en centros sanitarios fuera de la Comunidad Autónoma del País Vasco, previa autorización del Departamento de Sanidad.' Requiere circunstancias especiales de técnica + autorización expresa del Departamento. Respuesta D.",
     "originalId": 145,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_11",
@@ -6633,14 +7651,21 @@
     "explanation": "D.149/2007: Las solicitudes de segunda opinión médica son tramitadas por LOS SERVICIOS DE ATENCIÓN AL PACIENTE-USUARIO de los centros sanitarios Y LAS DIRECCIONES MÉDICAS DEL CENTRO DE ORIGEN. Estas dos unidades actúan de forma coordinada en el proceso. Respuesta C.",
     "originalId": 146,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_1",
@@ -6679,13 +7704,20 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (disposición final): El protocolo será revisado ANUALMENTE Y, UNA VEZ TRANSCURRIDOS LOS PRIMEROS CUATRO AÑOS, CADA CUATRO AÑOS. Respuesta C.",
     "originalId": 147,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_2",
@@ -6724,13 +7756,20 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento informal): Se utilizará cuando LOS HECHOS NO ALCANCEN LA ENTIDAD SUFICIENTE PARA SER CALIFICADOS COMO ACOSO SEXUAL O ACOSO POR RAZÓN DE SEXO, PERO PUEDAN RESULTAR INADECUADOS. Son situaciones incipientes o fronterizas que, sin constituir acoso formalmente, requieren intervención preventiva rápida. Respuesta A.",
     "originalId": 148,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_3",
@@ -6769,14 +7808,21 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (Asesoría Confidencial): Sus funciones incluyen RECIBIR, ANALIZAR Y TRAMITAR LAS QUEJAS Y DENUNCIAS relacionadas con posibles situaciones de acoso. No adopta ni ejecuta sanciones disciplinarias (a) — eso corresponde a la Dirección. No resuelve definitivamente los casos (b). No sustituye a la Dirección de Personas en materia de personal (d). Respuesta C.",
     "originalId": 149,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_4",
@@ -6815,14 +7861,21 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024: Osakidetza velará por el mantenimiento de un entorno laboral EXENTO DE RIESGOS y, en consecuencia, LIBRE DE SITUACIONES DE ACOSO SEXUAL Y ACOSO POR RAZÓN DE SEXO EN TODAS SUS FORMAS, INCLUYENDO EL CIBERACOSO. La mención expresa al ciberacoso (a) distingue a esta opción de la d). Respuesta C.",
     "originalId": 150,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_5",
@@ -6861,14 +7914,21 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024: Osakidetza se compromete a salvaguardar los derechos DE LAS PERSONAS AFECTADAS CON LAS DEBIDAS GARANTÍAS. El protocolo garantiza: confidencialidad, presunción de inocencia, protección frente a represalias, y trato digno a todas las partes. Respuesta B.",
     "originalId": 151,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_6",
@@ -6913,7 +7973,14 @@
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 55.2,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_7",
@@ -6952,14 +8019,21 @@
     "explanation": "LO 3/2007 Art. 7.1 (recogida en el Protocolo): 'Constituye acoso sexual cualquier COMPORTAMIENTO, VERBAL O FÍSICO, DE NATURALEZA SEXUAL que tenga el PROPÓSITO O PRODUZCA EL EFECTO DE ATENTAR CONTRA LA DIGNIDAD de una persona.' Clave: verbal O físico + propósito O efecto. La opción a) exige reiteración (FALSO — un solo acto puede ser acoso sexual). Respuesta C.",
     "originalId": 153,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_8",
@@ -6998,14 +8072,21 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024: Cualquier persona que sufra o conozca una situación de acoso TENDRÁ DERECHO A DENUNCIARLA. Es un derecho (no una obligación). No se limita a personal fijo (b), ni a la representación sindical (a), ni obliga a acudir solo a la Dirección de Personas (c). Respuesta D.",
     "originalId": 154,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_1",
@@ -7044,13 +8125,20 @@
     "explanation": "Art. 2.1 Ley 31/1995: 'La presente Ley tiene por objeto PROMOVER LA MEJORA DE LAS CONDICIONES DE TRABAJO dirigida a ELEVAR EL NIVEL DE PROTECCIÓN DE LA SEGURIDAD Y LA SALUD de los trabajadores en el trabajo.' La opción a) dice solo 'en salud laboral' (incompleta), la c) habla de 'establecer obligaciones' (no es el objeto), la d) de 'regular accidentes' (tampoco). Respuesta B.",
     "originalId": 155,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "?",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_2",
@@ -7089,14 +8177,21 @@
     "explanation": "Art. 14.5 Ley 31/1995: 'El coste de las medidas relativas a la seguridad y la salud en el trabajo NO DEBERÁ RECAER EN MODO ALGUNO SOBRE LOS TRABAJADORES.' Prohibición absoluta: ni parcialmente (a), ni compartido (b), ni repercutido en salarios (c). El coste es exclusivamente del empresario. Respuesta D.",
     "originalId": 156,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_3",
@@ -7135,14 +8230,21 @@
     "explanation": "Art. 15.1.d Ley 31/1995 (principios de la acción preventiva): 'ADAPTAR EL TRABAJO A LA PERSONA, en particular en lo que respecta a la concepción de los puestos de trabajo, así como a la elección de los equipos y los métodos de trabajo y de producción.' También, Art. 15.1.h: 'Anteponer la protección COLECTIVA a la INDIVIDUAL' (lo contrario de la opción d). Respuesta A.",
     "originalId": 157,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_4",
@@ -7181,14 +8283,21 @@
     "explanation": "Art. 14.1 + Art. 18 + Art. 19 Ley 31/1995: Los trabajadores tienen derecho a: a) una PROTECCIÓN EFICAZ en seguridad y salud (Art. 14.1); b) INFORMACIÓN sobre los riesgos para su seguridad y salud (Art. 18); c) FORMACIÓN en materia preventiva (Art. 19). Los tres derechos están reconocidos expresamente. Respuesta C.",
     "originalId": 158,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_5",
@@ -7227,14 +8336,21 @@
     "explanation": "Art. 16.2 Ley 31/1995: La evaluación inicial debe REVISARSE 'cuando se hayan detectado daños para la salud de los trabajadores' y cuando existan cambios en las condiciones de trabajo. No es un hecho puntual (inicio de actividad, a), ni requiere solicitud de representantes (c), ni solo en accidentes graves (d). Respuesta B.",
     "originalId": 159,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_6",
@@ -7273,14 +8389,21 @@
     "explanation": "Art. 21.2 Ley 31/1995: 'Los trabajadores... podrán interrumpir su actividad y, si fuera necesario, abandonar el lugar de trabajo de forma inmediata CUANDO CONSIDEREN QUE DICHA ACTIVIDAD ENTRAÑA UN RIESGO GRAVE E INMINENTE para su vida o su salud.' El criterio es la percepción subjetiva de riesgo grave e inminente. Respuesta A.",
     "originalId": 160,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_7",
@@ -7319,12 +8442,18 @@
     "explanation": "Art. 2.1 Ley 31/1995 (ámbito de aplicación): 'Esta Ley y sus normas de desarrollo serán de aplicación tanto en el ámbito de las relaciones laborales reguladas en el texto refundido del ESTATUTO DE LOS TRABAJADORES, como en el de las relaciones de carácter administrativo o estatutario del PERSONAL CIVIL AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS.' Doble ámbito: ET + AAPP. Respuesta C.",
     "originalId": 161,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Osasuntest",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 19.7,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "?",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_1",
@@ -7363,14 +8492,21 @@
     "explanation": "Art. 4.2 Ley 31/1995 + Manual Informativo Osakidetza: 'Riesgo laboral': LA POSIBILIDAD DE QUE UN TRABAJADOR SUFRA UN DETERMINADO DAÑO DERIVADO DEL TRABAJO. No es solo la probabilidad de accidente durante la jornada (a), ni exclusivamente daños por accidente (c), ni toda situación peligrosa detectada (d). Respuesta B.",
     "originalId": 162,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_2",
@@ -7409,14 +8545,21 @@
     "explanation": "Manual Informativo Osakidetza: Un accidente se define como 'todo SUCESO NO DESEADO NI ESPERADO que puede dar lugar a PÉRDIDAS DE LA SALUD O LESIONES en las personas.' Esta definición es más amplia que la legal (que requiere lesión corporal). No requiere que sea durante la jornada (a), ni fuera del entorno laboral (b), ni solo en el centro de trabajo (d). Respuesta C.",
     "originalId": 163,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_3",
@@ -7455,14 +8598,21 @@
     "explanation": "Manual Informativo Osakidetza: En caso de accidente de trabajo, el trabajador deberá notificarlo A LA MAYOR BREVEDAD POSIBLE tanto A SU RESPONSABLE INMEDIATO como A LA UNIDAD BÁSICA DE PREVENCIÓN (UBP). No se notifica solo a la UBP (b), ni se va al sanitario sin comunicar (c), ni se espera al día siguiente (d). Respuesta A.",
     "originalId": 164,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_4",
@@ -7501,14 +8651,21 @@
     "explanation": "Manual Informativo Osakidetza (manipulación manual de cargas): Técnica correcta: MANTENER LA ESPALDA RECTA y FLEXIONAR LAS RODILLAS durante la elevación de la carga. Así se aprovecha la musculatura de piernas (más potente) y se protege la columna. El esfuerzo con musculatura dorsal (a) o con el tronco sin flexionar piernas (c) son técnicas incorrectas. Respuesta B.",
     "originalId": 165,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_5",
@@ -7547,14 +8704,21 @@
     "explanation": "Manual Informativo Osakidetza (riesgos biológicos): El personal con mayor exposición es: EL PERSONAL QUE PRESTA ASISTENCIA DIRECTA A ENFERMOS, EL PERSONAL DE LABORATORIO y EL PERSONAL QUE TRABAJA CON ANIMALES. No todo el personal por igual (a), ni específicamente el administrativo (b), ni solo el de limpieza (c). Respuesta D.",
     "originalId": 166,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_6",
@@ -7593,14 +8757,21 @@
     "explanation": "Manual Informativo Osakidetza (productos químicos): Regla absoluta: 'NUNCA SE DEBE OLER NI PROBAR UN PRODUCTO QUÍMICO, CON INDEPENDENCIA DE SU ETIQUETADO O USO HABITUAL.' La opción a) admite oler para identificar (FALSO — nunca está justificado). La d) dice que basta conservarlos cerrados (FALSO — hay más medidas). Respuesta C.",
     "originalId": 167,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_7",
@@ -7639,14 +8810,21 @@
     "explanation": "RD 488/1997 + Manual PVD Osakidetza: Se considera 'usuario de PVD' el trabajador que supere MÁS DE 4 HORAS DIARIAS o MÁS DE 20 HORAS SEMANALES de trabajo efectivo con la pantalla de visualización de datos. Umbrales exactos: 4 horas/día / 20 horas/semana. Respuesta A.",
     "originalId": 168,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_8",
@@ -7685,14 +8863,21 @@
     "explanation": "Manual Informativo PVD Osakidetza (fatiga visual): La FATIGA VISUAL se debe específicamente a: LA ILUMINACIÓN INADECUADA DEL PUESTO y LA PRESENCIA DE BRILLOS, REFLEJOS Y DESLUMBRAMIENTOS en la pantalla. Las posturas forzadas (a) causan fatiga musculoesquelética, las pausas (b) son preventivas pero no la causa, y el teclado/ratón (d) causan otra tipología de fatiga. Respuesta C.",
     "originalId": 169,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_9",
@@ -7731,14 +8916,21 @@
     "explanation": "Manual Informativo PVD Osakidetza (condiciones ambientales): Se recomienda ORIENTAR LA PANTALLA PERPENDICULARMENTE A LAS VENTANAS PARA EVITAR DESLUMBRAMIENTOS, de forma que las ventanas queden a los laterales del puesto. La opción a) 'paralela a las ventanas' situaría la ventana directamente frente o detrás del usuario (FALSO). Reducir la iluminación (b) no es correcto. Iluminación exclusivamente artificial (d) tampoco. Respuesta C.",
     "originalId": 170,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_10",
@@ -7777,13 +8969,20 @@
     "explanation": "Manual Informativo PVD Osakidetza (regulación de la silla): La altura de la silla se regula hasta que, APOYANDO EL ANTEBRAZO EN LA MESA, SE FORME UN ÁNGULO DE APROXIMADAMENTE 90°. Esto garantiza que los brazos trabajen en una posición neutra. Los pies deben quedar apoyados (usualmente con reposapiés si es necesario), pero el criterio principal de regulación es el ángulo del codo. Respuesta D.",
     "originalId": 171,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 74.6,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_11",
@@ -7822,13 +9021,20 @@
     "explanation": "Manual Informativo PVD Osakidetza (atención a personas): Cuando sea necesario atender a personas en un puesto con ordenador, la pantalla podrá colocarse girada HASTA UN MÁXIMO DE 45°. Este giro permite la interacción sin abandonar el puesto y manteniendo visibilidad de la pantalla. Respuesta B.",
     "originalId": 172,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 42.6,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_12",
@@ -7867,14 +9073,21 @@
     "explanation": "Manual Informativo PVD Osakidetza (teclado y ratón): Para prevenir molestias musculoesqueléticas, el teclado y el ratón se colocarán de manera que PERMITAN EL APOYO ADECUADO DE MUÑECAS Y/O ANTEBRAZOS SOBRE LA MESA. Mantener los brazos en suspensión (c) aumenta la carga muscular estática. Solo apoyar las manos (a) es insuficiente. Respuesta B.",
     "originalId": 173,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_8",
@@ -7913,14 +9126,21 @@
     "explanation": "Manual Informativo de PRL en Atención Primaria de Osakidetza: La finalidad del documento es INFORMAR A LOS TRABAJADORES SOBRE LOS RIESGOS ESPECÍFICOS DE SU PUESTO DE TRABAJO. No sustituye al manual de riesgos generales (a), ni se limita a todos los trabajadores sanitarios en general (b), ni se centra exclusivamente en el área de atención al cliente (d). Respuesta C.",
     "originalId": 174,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_9",
@@ -7959,14 +9179,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (prevención caída de objetos): Se recomienda 'colocar los objetos de forma ESTABLE sobre armarios, baldas o vitrinas y RETIRAR aquellos que no sean necesarios.' Esto previene la caída de objetos en altura. La opción a) prioriza accesibilidad sobre estabilidad (incorrecto). Respuesta D.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 175,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_10",
@@ -8005,14 +9232,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (riesgo eléctrico): Recomendación clara: 'NO SE DEBEN SOBRECARGAR enchufes ni regletas NI UTILIZAR CABLES EN MAL ESTADO O PELADOS.' La opción a) solo habla de sobrecarga en uso continuado (incompleta). La opción b) prohíbe regletas sin protección adicional (no es la recomendación exacta). Respuesta C.",
     "originalId": 176,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_11",
@@ -8051,14 +9285,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (detección de anomalías): Cuando se detecten anomalías o defectos en equipos, instalaciones o mobiliario, el trabajador debe 'INFORMARLO AL RESPONSABLE MEDIANTE EL CORRESPONDIENTE PARTE DE AVERÍA.' No debe intentar corregirlo por su cuenta (a), ni solo al Servicio de Prevención (b), ni simplemente señalizar y continuar (d). Respuesta C.",
     "originalId": 177,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_12",
@@ -8097,14 +9338,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (Área de Atención al Cliente): Recomendación: 'MANTENER EL PUESTO DE TRABAJO ORGANIZADO Y LIMPIO, disponiendo únicamente de lo ESTRICTAMENTE NECESARIO.' La opción a) menciona solo lo necesario (sin 'organizado y limpio'). La opción b) admite acumulación de material ocasional (incorrecto). Respuesta D.",
     "originalId": 178,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_13",
@@ -8143,14 +9391,21 @@
     "explanation": "Carpeta Roja de Prevención (accidente in itinere): Para que se considere in itinere, además de producirse en el trayecto domicilio-trabajo o viceversa, el MEDIO DE LOCOMOCIÓN SEA EL HABITUAL y EL ITINERARIO SE CONSIDERE NORMAL (el trayecto habitual, sin desvíos no justificados). Respuesta B.",
     "originalId": 179,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_26",
@@ -8189,14 +9444,21 @@
     "explanation": "Carpeta Roja de Prevención Osakidetza: El parte interno de notificación de accidente, incidente o agresión ES EL REGISTRO NECESARIO para declarar el hecho y posibilitar su reconocimiento a efectos legales (reconocimiento como accidente de trabajo, tramitación ante Mutua/INSS, etc.). No es meramente informativo (opción A incorrecta), no solo lo cumplimenta el trabajador afectado (opción B incorrecta), y no equivale al parte de la Mutua que es un documento diferente (opción D incorrecta). Respuesta C.",
     "originalId": 180,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-lpac-interesados-y-actos_27",
@@ -8235,14 +9497,21 @@
     "explanation": "Carpeta Roja de Prevención Osakidetza: El parte interno es para el personal de Osakidetza. Los accidentes o incidentes LEVES sufridos por trabajadores de EMPRESAS EXTERNAS O SUBCONTRATADAS no se declaran mediante el parte interno de Osakidetza, ya que es la empresa contratista la responsable de su declaración ante su propia Mutua. Los accidentes graves de empresas externas en instalaciones de Osakidetza sí deben comunicarse internamente por razones de coordinación de actividades preventivas (Art. 24 Ley 31/1995). Respuesta C.",
     "originalId": 181,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_14",
@@ -8281,14 +9550,21 @@
     "explanation": "Carpeta Roja de Prevención (pinchazo/corte): Actuación inmediata: 1) LIMPIAR LA HERIDA SIN RESTREGAR; 2) DEJAR FLUIR LA SANGRE DURANTE 2-3 MINUTOS (no exprimir); 3) APLICAR ANTISÉPTICO. No se tapa inmediatamente (c) ni se acude a urgencias sin manipular (d). Respuesta B.",
     "originalId": 182,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_15",
@@ -8327,14 +9603,21 @@
     "explanation": "Carpeta Roja de Prevención (contacto fluidos biológicos con mucosas): Actuación: LAVAR LA ZONA AFECTADA CON AGUA ABUNDANTE O SUERO FISIOLÓGICO DURANTE VARIOS MINUTOS. El arrastre mecánico por irrigación es la medida más efectiva. No se seca sin aclarar (a), ni se aplica jabón sin aclarado (b), ni se usa antiséptico concentrado (c). Respuesta D.",
     "originalId": 183,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_16",
@@ -8373,14 +9656,21 @@
     "explanation": "Carpeta Roja de Prevención (contacto fluidos biológicos con piel no intacta): Actuación: LAVAR LA ZONA AFECTADA CON AGUA Y JABÓN, SIN FROTAR DE FORMA AGRESIVA (para no ampliar la lesión). No se aplica antiséptico sin aclarado (a), ni se cubre inmediatamente sin lavar (c), ni solo desinfectante alcohólico (d). Respuesta B.",
     "originalId": 184,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_12",
@@ -8419,14 +9709,21 @@
     "explanation": "D.149/2007: El procedimiento de segunda opinión médica se iniciará siempre A INSTANCIA DEL PACIENTE, su representante legal o persona autorizada. No puede iniciarse de oficio por la Dirección Médica (a), ni a solicitud del profesional sanitario (b) sin petición del paciente. Respuesta C.",
     "originalId": 185,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_9",
@@ -8465,14 +9762,21 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (principio de confidencialidad): La información obtenida en el procedimiento SE LIMITARÁ A LAS PERSONAS ESTRICTAMENTE NECESARIAS PARA LA TRAMITACIÓN. No requiere autorización judicial (a), no es accesible a todas las partes (b), y no se comunica sistemáticamente a la representación sindical (d). Respuesta C.",
     "originalId": 186,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_10",
@@ -8511,14 +9815,21 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024: La reiteración de conductas ofensivas tras haber utilizado los procedimientos establecidos constituye UNA CIRCUNSTANCIA AGRAVANTE de la conducta. No es un requisito para que exista acoso (a — el acoso puede ser un único acto grave), ni es un supuesto excluido (b), ni es atenuante (c). Respuesta D.",
     "originalId": 187,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_11",
@@ -8544,10 +9855,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "El trabajador lo solicite verbalmente."
+      "Las partes no alcancen acuerdo en el procedimiento informal."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -8556,14 +9867,22 @@
     "module": "adm-protocolo-acoso-sexual-osaki",
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (procedimiento formal): El procedimiento formal se iniciará cuando LAS PARTES NO ALCANCEN ACUERDO EN EL PROCEDIMIENTO INFORMAL, o cuando la gravedad de los hechos aconseje ir directamente a la vía formal. No requiere solo solicitud verbal (b), ni indicios penales (c), ni decisión unilateral del responsable (d). Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 188,
-    "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceTrio": true,
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_12",
@@ -8602,14 +9921,21 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (formación): La formación en materia de acoso sexual y por razón de sexo tiene como finalidad principal SENSIBILIZAR Y PREVENIR SITUACIONES DE ACOSO en el entorno laboral. No se limita a las denuncias (a), ni sustituye el procedimiento disciplinario (c), ni se restringe solo al personal directivo (d). Respuesta B.",
     "originalId": 189,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_13",
@@ -8635,10 +9961,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Únicamente a solicitud del trabajador."
+      "En función de los riesgos inherentes al trabajo."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -8648,12 +9974,20 @@
     "explanation": "Art. 22.1 Ley 31/1995: 'El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud EN FUNCIÓN DE LOS RIESGOS INHERENTES AL TRABAJO.' Con carácter VOLUNTARIO para el trabajador (salvo excepciones). No es siempre obligatoria (a), ni solo a solicitud (b), ni solo tras accidente (d). Respuesta B.",
     "originalId": 190,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "FIX_SUGGESTED",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 33.1,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_14",
@@ -8692,14 +10026,21 @@
     "explanation": "Art. 35.1 Ley 31/1995: 'Los Delegados de Prevención son los REPRESENTANTES DE LOS TRABAJADORES CON FUNCIONES ESPECÍFICAS EN MATERIA DE PREVENCIÓN DE RIESGOS en el trabajo.' No son técnicos del Servicio de Prevención (a). Son miembros del Comité de Seguridad y Salud (b) pero eso no es su definición. Son elegidos por y entre los representantes de los trabajadores, no designados por el empresario (d). Respuesta C.",
     "originalId": 191,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_15",
@@ -8738,14 +10079,21 @@
     "explanation": "Art. 16.2.b Ley 31/1995: La planificación de la actividad preventiva deberá realizarse 'A PARTIR DE UNA EVALUACIÓN INICIAL DE RIESGOS' cuando los resultados de la misma pusieran de manifiesto situaciones de riesgo. La evaluación es el punto de partida necesario. Respuesta B.",
     "originalId": 192,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_17",
@@ -8784,14 +10132,21 @@
     "explanation": "Carpeta Roja de Prevención (definición de incidente): Un INCIDENTE es un suceso que NO PRODUCE LESIONES, pero SÍ PUEDE OCASIONAR DAÑOS MATERIALES O AMBIENTALES. Se diferencia del accidente (que produce lesión) y del suceso sin consecuencias. No siempre produce baja (a), no son exclusivamente materiales (b), y sí puede haber daños materiales (c incorrecta). Respuesta B.",
     "originalId": 193,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 72.7,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-segunda-opinion-medica_13",
@@ -8830,14 +10185,21 @@
     "explanation": "D.149/2007: Durante la tramitación del procedimiento de segunda opinión, LA ATENCIÓN SANITARIA CONTINÚA EN EL CENTRO DE ORIGEN hasta que se emita la segunda opinión. La solicitud NO suspende el tratamiento en curso (b) ni implica automáticamente cambio de centro (d). El procedimiento no tiene carácter preferente general (a). Respuesta C.",
     "originalId": 194,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_16",
@@ -8876,14 +10238,21 @@
     "explanation": "Art. 19.1 Ley 31/1995: El empresario garantizará formación preventiva 'tanto EN EL MOMENTO DE SU CONTRATACIÓN, cualquiera que sea la modalidad o duración, como CUANDO SE PRODUZCAN CAMBIOS EN LAS FUNCIONES QUE DESEMPEÑE o se INTRODUZCAN NUEVAS TECNOLOGÍAS o cambios en los equipos de trabajo.' No se limita a la contratación (a) ni solo a accidentes (b). Respuesta C.",
     "originalId": 195,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-protocolo-acoso-sexual-osaki_13",
@@ -8922,14 +10291,21 @@
     "explanation": "Protocolo Acoso Sexual Osakidetza 2024 (objetivo del procedimiento informal): El procedimiento informal tiene como objetivo principal RESOLVER DE FORMA ÁGIL SITUACIONES INCIPIENTES ANTES DE QUE DERIVEN EN ACOSO. Es un mecanismo de intervención temprana. No inicia el expediente disciplinario (a), ni sustituye el formal en todos los casos (c), ni determina responsabilidades (d). Respuesta B.",
     "originalId": 196,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_18",
@@ -8968,14 +10344,21 @@
     "explanation": "Manual Informativo Osakidetza (prevención caídas al mismo nivel): Las medidas básicas son: a) MANTENER LIMPIAS Y DESPEJADAS LAS ZONAS DE PASO; b) RETIRAR OBSTÁCULOS Y OBJETOS INNECESARIOS de las zonas de tránsito; c) LIMPIAR INMEDIATAMENTE LOS DERRAMES EN EL SUELO. Las tres son medidas básicas y complementarias. Respuesta D: a), b) y c) correctas.",
     "originalId": 197,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_19",
@@ -9014,14 +10397,21 @@
     "explanation": "Carpeta Roja de Prevención: En caso de accidente SIN LESIONES APARENTES, el trabajador igualmente DEBERÁ COMUNICARLO Y CUMPLIMENTAR EL PARTE INTERNO DE NOTIFICACIÓN. Todo accidente, aunque no produzca lesión visible, debe registrarse para el análisis de las causas y la prevención futura. Respuesta B.",
     "originalId": 198,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "adm-prl-prevencion-riesgos_17",
@@ -9060,14 +10450,21 @@
     "explanation": "Manual Informativo de PRL Atención Primaria (posturas forzadas): Se recomienda 'ADAPTAR EL PUESTO DE TRABAJO A LAS CARACTERÍSTICAS FÍSICAS DEL TRABAJADOR, REGULANDO SILLA Y PANTALLA.' La adaptación ergonómica es integral (silla + pantalla), no solo la altura de la pantalla (d). Nunca se debe mantener la misma postura estática (a) ni sacrificar la postura por la rapidez (b). Respuesta C.",
     "originalId": 199,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "adm-prl-atencion-cliente-osaki_20",
@@ -9106,13 +10503,20 @@
     "explanation": "Carpeta Roja de Prevención (protocolo accidente biológico): Ante exposición accidental a riesgo biológico el trabajador debe: 1) APLICAR LAS MEDIDAS INMEDIATAS (lavado, antiséptico según el tipo de exposición) y 2) COMUNICAR EL ACCIDENTE al responsable y cumplimentar el parte interno. No se espera pasivamente (a), ni se cumplimenta solo el parte sin medidas previas (c), ni se acude a urgencias sin comunicar (d). Respuesta B.",
     "originalId": 200,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   }
 ]

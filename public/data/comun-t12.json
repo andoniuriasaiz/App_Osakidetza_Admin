@@ -36,14 +36,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El Plan define SIETE Objetivos Generales, clasificados en finalistas (que buscan resultados en salud) e instrumentales (que buscan mejorar el sistema para lograr esos resultados). Respuesta C.",
     "originalId": 191,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_2",
@@ -82,14 +89,21 @@
     "explanation": "Plan de Salud Euskadi 2030: La VISIÓN del Plan es 'Liderar una Euskadi más saludable.' Respuesta B.",
     "originalId": 192,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_3",
@@ -128,14 +142,21 @@
     "explanation": "Autosuficiencia presupuestaria no es principio rector del Plan Salud 2030.",
     "originalId": 193,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_4",
@@ -174,14 +195,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El OG1 se centra en 'Mejorar la salud y el bienestar de la población de Euskadi', con especial énfasis en la reducción de las desigualdades en salud. La B recoge correctamente este objetivo general. Respuesta B.",
     "originalId": 194,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_5",
@@ -220,14 +248,21 @@
     "explanation": "Plan de Salud Euskadi 2030: Uno de los enfoques fundamentales del Plan es el enfoque de 'UNA SOLA SALUD' ('One Health'), que reconoce la interconexión entre la salud humana, animal y medioambiental, junto con la reducción de desigualdades y la Salud en Todas las Políticas. Respuesta C.",
     "originalId": 196,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_6",
@@ -266,14 +301,21 @@
     "explanation": "AVAD = Años de Vida Ajustados por Discapacidad (DALY). La opción A es incorrecta. Respuesta D.",
     "originalId": 197,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t12_7",
@@ -312,13 +354,20 @@
     "explanation": "Plan de Salud Euskadi 2030 (introducción): En la elaboración del plan participaron aproximadamente 3.000 personas (expertas, profesionales, entidades y ciudadanía). La D recoge este dato numérico correcto. Respuesta D.",
     "originalId": 198,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_8",
@@ -357,14 +406,21 @@
     "explanation": "Plan de Salud Euskadi 2030: La MISIÓN se define como 'Mejorar la salud y el bienestar de la población de Euskadi, garantizando el acceso equitativo a una atención sanitaria de calidad'. La C recoge mejor esta definición. Respuesta C.",
     "originalId": 199,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_9",
@@ -403,14 +459,21 @@
     "explanation": "Objetivo central: reducir morbimortalidad evitable y desigualdades.",
     "originalId": 200,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t12_10",
@@ -449,14 +512,21 @@
     "explanation": "Plan Salud Euskadi 2030: elaborado por un Comité de Dirección y un Comité Estratégico bajo el Departamento de Salud. Respuesta B.",
     "originalId": 201,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_11",
@@ -495,13 +565,20 @@
     "explanation": "Plan de Salud Euskadi 2030, OG5: El sistema sanitario debe ser sostenible, resiliente e innovador. La D recoge estas tres características principales. Respuesta D.",
     "originalId": 202,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_12",
@@ -540,14 +617,21 @@
     "explanation": "Plan de Salud Euskadi 2030: La cronificación de las enfermedades y el envejecimiento de la población son los principales retos que el Plan identifica para el sistema sanitario vasco en el horizonte 2030. Respuesta B.",
     "originalId": 203,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_13",
@@ -586,14 +670,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El modelo de evaluación se basa en cuatro criterios: eficacia, efectividad, eficiencia y equidad. La B recoge correctamente estos cuatro criterios. Respuesta B.",
     "originalId": 204,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_14",
@@ -632,14 +723,21 @@
     "explanation": "Plan de Salud Euskadi 2030: Uno de los objetivos instrumentales del Plan es mejorar la coordinación y continuidad asistencial entre niveles (atención primaria, hospitalaria y sociosanitaria). Respuesta A.",
     "originalId": 205,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_15",
@@ -678,14 +776,21 @@
     "explanation": "Plan de Salud Euskadi 2030, Memoria Económica: El programa presupuestario con mayor dotación es el de Atención Especializada / Hospitales. La B es la respuesta correcta. Respuesta B.",
     "originalId": 206,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_16",
@@ -724,14 +829,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El Plan incorpora el enfoque 'One Health' que reconoce la interconexión entre la salud humana, animal y medioambiental. Respuesta B.",
     "originalId": 207,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_17",
@@ -770,14 +882,21 @@
     "explanation": "Plan de Salud Euskadi 2030: Para el seguimiento y evaluación del Plan se han definido indicadores cuantitativos y cualitativos organizados en torno a los objetivos del Plan, con seguimiento periódico y evaluaciones a mitad de período y final. Respuesta D.",
     "originalId": 208,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_18",
@@ -816,14 +935,21 @@
     "explanation": "Plan de Salud Euskadi 2030: Las enfermedades cardiovasculares continúan siendo la primera causa de mortalidad en Euskadi, seguidas del cáncer. Respuesta A.",
     "originalId": 209,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_19",
@@ -862,14 +988,21 @@
     "explanation": "Plan de Salud Euskadi 2030: El Plan contempla la promoción de la actividad física, la alimentación saludable, la prevención del tabaquismo y el alcohol como intervenciones clave sobre los estilos de vida. Respuesta C.",
     "originalId": 210,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t12_20",
@@ -908,12 +1041,19 @@
     "explanation": "POIE 2025-2030 y Plan de Salud Euskadi 2030: Una de las prioridades estratégicas del Plan de Salud de Euskadi 2030 con la que se alinea el POIE es 'reducir la morbimortalidad evitable y disminuir las desigualdades en salud'. Respuesta C.",
     "originalId": 280,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "?"
+    }
   }
 ]

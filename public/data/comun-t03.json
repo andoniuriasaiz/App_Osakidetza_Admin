@@ -36,14 +36,21 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta A.",
     "originalId": 41,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_2",
@@ -82,14 +89,21 @@
     "explanation": "Art. 2 Ley 55/2003: Los principios y criterios son: igualdad, mérito, capacidad y publicidad (no solo 'sometimiento pleno a ley y derecho' como principio rector de la ordenación). Los demás principios mencionados (integración en el régimen organizativo, coordinación entre administraciones) SÍ están. El 'sometimiento pleno a la ley y el derecho' es un principio general pero no de los específicamente enumerados en la ordenación del régimen estatutario. Respuesta B.",
     "originalId": 42,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_3",
@@ -128,14 +142,21 @@
     "explanation": "Art. 20 Ley 55/2003: La condición de personal estatutario fijo se adquiere por: superación de las pruebas de selección, nombramiento conferido por el órgano competente, e incorporación 'previo cumplimiento de los requisitos formales en cada caso establecidos, a una plaza del servicio, institución o centro que corresponda en el plazo determinado en la convocatoria'. Respuesta C.",
     "originalId": 44,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_4",
@@ -174,14 +195,21 @@
     "explanation": "Art. 20.2 Ley 55/2003: No podrán recibir nombramiento quienes 'no acrediten que reúnen los requisitos y condiciones exigidos en la convocatoria, UNA VEZ SUPERADO el proceso selectivo.' Si no los acreditan previamente, no pueden participar; si no los acreditan al final, no reciben nombramiento. Respuesta A.",
     "originalId": 45,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_5",
@@ -220,13 +248,20 @@
     "explanation": "Art. 26.d Ley 55/2003: La pérdida de la condición se produce por 'la pena de inhabilitación especial para la CORRESPONDIENTE PROFESIÓN, siempre que esta exceda de TRES AÑOS.' La opción D recoge correctamente el plazo de tres años para inhabilitación especial. Respuesta D.",
     "originalId": 46,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_6",
@@ -265,14 +300,21 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 47,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_7",
@@ -311,12 +353,19 @@
     "explanation": "Art. 26 Ley 55/2003: Procede la extinción por: pérdida de la nacionalidad (a), sanción firme de separación del servicio (b), e inhabilitación especial (c). Las tres causas están contempladas, por tanto 'todas las anteriores' es correcto. Respuesta D.",
     "originalId": 48,
     "sourceTrio": false,
-    "sourceStatus": "REVIEW_K_VS_UGT",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t03_8",
@@ -355,14 +404,21 @@
     "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta D.",
     "originalId": 49,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t03_9",
@@ -401,13 +457,20 @@
     "explanation": "Art. 42 Ley 55/2003: Las retribuciones básicas son: sueldo asignado a la categoría en función del título exigido, trienios y pagas extraordinarias. Respuesta A.",
     "originalId": 50,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_10",
@@ -446,14 +509,21 @@
     "explanation": "Art. 26.e Ley 55/2003: La incapacidad permanente que causa la pérdida de la condición estatutaria es la declarada en grado de: incapacidad permanente total para la profesión habitual, incapacidad permanente absoluta para todo trabajo, y gran invalidez. Todas las respuestas son correctas. Respuesta D.",
     "originalId": 51,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t03_11",
@@ -492,13 +562,20 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
     "originalId": 52,
     "sourceTrio": false,
-    "sourceStatus": "CONSENSUS",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_12",
@@ -537,13 +614,20 @@
     "explanation": "Art. 57.3 Ley 55/2003: 'El período de localización es aquel período de tiempo en el que el personal se encuentra en situación de disponibilidad A LOS SOLOS EFECTOS DE ASEGURAR SU POSIBLE LOCALIZACIÓN.' Respuesta D.",
     "originalId": 53,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_13",
@@ -582,14 +666,21 @@
     "explanation": "Art. 57 Ley 55/2003: 'El período nocturno tendrá una duración MÍNIMA DE OCHO HORAS e incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural.' Respuesta A.",
     "originalId": 54,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_14",
@@ -628,14 +719,21 @@
     "explanation": "Art. 37 Ley 55/2003: Las comisiones de servicio pueden otorgarse, con carácter voluntario o forzoso, por un plazo de hasta un año, prorrogable por otro más. El personal en comisión de servicio percibe las retribuciones correspondientes a su plaza de origen más las indemnizaciones que correspondan. Respuesta A.",
     "originalId": 55,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_15",
@@ -674,13 +772,20 @@
     "explanation": "Art. 60 Ley 55/2003: El personal tiene derecho a un período mínimo de descanso ininterrumpido de 12 horas entre jornadas. Esta reducción solo podrá producirse en el caso de trabajo a turnos, cuando el personal cambie de equipo. La opción D describe correctamente la excepción del trabajo a turnos. Respuesta D.",
     "originalId": 56,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_16",
@@ -719,13 +824,20 @@
     "explanation": "Art. 54 Ley 55/2003: La jornada ordinaria de trabajo del personal estatutario será la que establezca cada Servicio de Salud, sin que pueda exceder de la jornada general del personal al servicio de la Administración Pública de la respectiva Comunidad Autónoma. Respuesta B.",
     "originalId": 57,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_17",
@@ -764,12 +876,18 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta C.",
     "originalId": 58,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "DISPUTE",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo",
-      "IA"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 25.8,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t03_18",
@@ -808,14 +926,21 @@
     "explanation": "Art. 38 Ley 55/2003: La promoción interna temporal consiste en la ocupación transitoria de plazas de categoría superior, manteniéndose la relación estatutaria de origen. Tiene carácter excepcional y requiere cumplir los requisitos exigidos para el ingreso en la categoría superior. Respuesta D.",
     "originalId": 59,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t03_19",
@@ -854,13 +979,20 @@
     "explanation": "Art. 67 Ley 55/2003: 'La excedencia voluntaria por interés particular exige haber prestado servicios efectivos en cualquiera de las administraciones públicas durante LOS CINCO AÑOS INMEDIATAMENTE ANTERIORES.' Respuesta A.",
     "originalId": 60,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t03_20",
@@ -899,14 +1031,21 @@
     "explanation": "Art. 30 Ley 8/1997: Los instrumentos de clasificación del personal estatutario son: 'el grupo de titulación, el grupo profesional, la categoría y el puesto funcional que se desempeñe.' Respuesta C.",
     "originalId": 80,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t03_21",
@@ -945,13 +1084,20 @@
     "explanation": "Art. 14 Ley 53/1984: El ejercicio de actividades privadas requiere la previa autorización de compatibilidad, que se denegará cuando el ejercicio sea directamente contrario a las funciones públicas. La A recoge correctamente este principio. Respuesta B.",
     "originalId": 296,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   }
 ]

@@ -36,14 +36,21 @@
     "explanation": "El Diagnostico del Pacto Vasco indica que el mayor nivel educativo y el acceso generalizado a la informacion son motores clave del empoderamiento ciudadano en salud.",
     "officialId": 136,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t13_2",
@@ -82,14 +89,21 @@
     "explanation": "El Diagnostico indica que la migracion trae patologias poco conocidas en Euskadi pero prevalentes en paises de origen, suponiendo un reto epidemiologico.",
     "officialId": 137,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t13_3",
@@ -128,14 +142,21 @@
     "explanation": "El Diagnostico identifica como reto clave la planificacion del relevo generacional ante la proxima jubilacion de grandes cohortes de profesionales sanitarios.",
     "officialId": 138,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t13_4",
@@ -174,11 +195,18 @@
     "explanation": "El Diagnostico advierte que el cambio climatico favorece la aparicion de nuevos vectores y patogenos, como el virus del Nilo Occidental, antes inexistentes en el entorno vasco.",
     "officialId": 139,
     "sourceTrio": false,
-    "sourceStatus": "TRIPLE_DISPUTE",
+    "sourceStatus": "KAIXO_RECOVERY",
     "o_reliable": true,
     "sourceSources": [
-      "Kaixo"
-    ]
+      "UGT"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "D",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t13_5",
@@ -204,10 +232,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "Ignorar la perspectiva de genero para simplificar la toma de datos estadisticos."
+      "Reflejar resultados en salud y sostenibilidad, y no solo volumen de actividad."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -217,12 +245,20 @@
     "explanation": "El Diagnostico propone orientar los indicadores hacia resultados en salud y sostenibilidad del sistema, superando la vision centrada unicamente en volumen de actividad asistencial.",
     "officialId": 140,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "B",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "tec-comun-t13_6",
@@ -261,13 +297,20 @@
     "explanation": "Los Valores Fundamentales del Pacto Vasco de Salud constituyen el fundamento etico y social sobre el que se sustenta toda la actividad del Sistema Publico de Salud de Euskadi.",
     "officialId": 141,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "B",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t13_7",
@@ -306,14 +349,21 @@
     "explanation": "El Pacto Vasco de Salud define como Valores Fundamentales la Universalidad, la Equidad y la Corresponsabilidad, implicando a ciudadania y profesionales en el sistema.",
     "officialId": 142,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t13_8",
@@ -352,13 +402,20 @@
     "explanation": "El principio de Innovacion del Pacto Vasco abarca la I+D+i en todas sus dimensiones: clinica, organizativa, tecnologica y de gestion.",
     "officialId": 143,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t13_9",
@@ -384,10 +441,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "El incremento constante de las infraestructuras fisicas sobre la inversion en personal."
+      "Las intervenciones que generen los mejores resultados relevantes para la persona al menor coste posible."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -397,12 +454,20 @@
     "explanation": "La Orientacion al Valor como principio rector significa priorizar las intervenciones que aporten los mejores resultados en salud relevantes para la persona al menor coste posible.",
     "officialId": 144,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "B",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t13_10",
@@ -441,13 +506,20 @@
     "explanation": "El Pacto Vasco de Salud se estructura en 6 Lineas Estrategicas: prevencion/promocion, atencion a la enfermedad, areas prioritarias, calidad/innovacion/sostenibilidad, desarrollo de profesionales y gobernanza.",
     "officialId": 145,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "D",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t13_11",
@@ -473,10 +545,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      4
     ],
     "correctAnswers": [
-      "Ser un servicio opcional para quienes no dispongan de seguro privado."
+      "Ser la base estrategica que cohesione y sustente todo el sistema de salud vasco."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -486,12 +558,20 @@
     "explanation": "El Pacto Vasco posiciona la Atencion Primaria y Comunitaria como la base estrategica que cohesiona y sustenta el conjunto del sistema sanitario vasco.",
     "officialId": 146,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "tec-comun-t13_12",
@@ -530,14 +610,21 @@
     "explanation": "La Linea Estrategica sobre Cronicidad busca reforzar la autonomia y corresponsabilidad de las personas con enfermedades cronicas, fomentando el autocuidado y la atencion integrada.",
     "officialId": 147,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t13_13",
@@ -576,14 +663,21 @@
     "explanation": "La Linea de Atencion Sociosanitaria pone el foco en mejorar la coordinacion y los transitos entre el sistema sanitario y social, evitando la fragmentacion de la atencion.",
     "officialId": 148,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t13_14",
@@ -622,14 +716,21 @@
     "explanation": "La Linea 11 sobre Salud Mental prioriza la promocion del bienestar emocional y la deteccion precoz, con especial enfasis en jovenes y adolescentes.",
     "officialId": 149,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t13_15",
@@ -668,13 +769,20 @@
     "explanation": "La Linea 18 de Digitalizacion persigue facilitar la accesibilidad de la ciudadania, personalizar la atencion sanitaria y mejorar la eficiencia organizativa del sistema.",
     "officialId": 150,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   }
 ]

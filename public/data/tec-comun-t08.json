@@ -36,13 +36,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
     "officialId": 89,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "tec-comun-t08_2",
@@ -68,10 +75,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      1
     ],
     "correctAnswers": [
-      "Como regla general se proporcionará por escrito."
+      "Como regla general se proporcionará verbalmente."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -81,12 +88,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
     "officialId": 90,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t08_3",
@@ -125,14 +140,21 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
     "officialId": 91,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t08_4",
@@ -158,10 +180,10 @@
       }
     ],
     "correctAnswerNums": [
-      1
+      2
     ],
     "correctAnswers": [
-      "La persona facultativa responsable de la persona paciente."
+      "La persona facultativa responsable de la persona paciente y el personal profesional que le atienda durante el proceso asistencial o le aplique una técnica o un procedimiento concreto."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -171,12 +193,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
     "officialId": 92,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "B",
+      "o": "C",
+      "u": "B"
+    }
   },
   {
     "id": "tec-comun-t08_5",
@@ -202,10 +232,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      1
     ],
     "correctAnswers": [
-      "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho, en la medida que la persona paciente lo permita por escrito."
+      "La persona paciente. También serán informadas las personas vinculadas a ella, por razones familiares o de hecho, en la medida que la persona paciente lo permita de manera expresa o tácita."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -215,12 +245,20 @@
     "explanation": "Art. 20 Ley 41/2002: La unidad de admisión y documentación clínica de cada centro tendrá encomendada la custodia y la gestión de la historia clínica. La C es correcta al atribuir esta función a dicha unidad. Respuesta C.",
     "officialId": 93,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "C",
+      "u": "A"
+    }
   },
   {
     "id": "tec-comun-t08_6",
@@ -246,10 +284,10 @@
       }
     ],
     "correctAnswerNums": [
-      3
+      4
     ],
     "correctAnswers": [
-      "El personal facultativo podrá llevar a cabo las intervenciones clínicas indispensables en favor de la salud de la persona paciente, con autorización judicial."
+      "El personal facultativo podrá llevar a cabo las intervenciones clínicas indispensables en favor de la salud de la persona paciente, sin necesidad de contar con su consentimiento."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -259,12 +297,20 @@
     "explanation": "Art. 9.2.b) Ley 41/2002: ante riesgo inmediato grave y sin posibilidad de obtener autorización, el facultativo puede intervenir sin consentimiento. La urgencia vital no requiere esperar familiares, representante legal ni autorización judicial.",
     "officialId": 94,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "C",
+      "u": "D"
+    }
   },
   {
     "id": "tec-comun-t08_7",
@@ -290,10 +336,10 @@
       }
     ],
     "correctAnswerNums": [
-      2
+      3
     ],
     "correctAnswers": [
-      "Todos los riesgos, siempre que sean graves, en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
+      "Todos los riesgos probables en condiciones normales, conforme a la experiencia y al estado de la ciencia o directamente relacionados con el tipo de intervención."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -303,12 +349,20 @@
     "explanation": "Art. 10.1.b) Ley 41/2002: la información previa al consentimiento escrito incluye los riesgos probables en condiciones normales, conforme a la experiencia y al estado de la ciencia.",
     "officialId": 95,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "D",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "tec-comun-t08_8",
@@ -334,10 +388,10 @@
       }
     ],
     "correctAnswerNums": [
-      4
+      3
     ],
     "correctAnswers": [
-      "La dirección del centro, previa comprobación del informe clínico, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad administrativa competente."
+      "La dirección del centro, previa comprobación del informe clínico, oirá a la persona paciente y, si persiste en su negativa, lo pondrá en conocimiento de la autoridad judicial para que confirme o revoque la decisión."
     ],
     "multipleCorrect": false,
     "hasImage": false,
@@ -347,11 +401,19 @@
     "explanation": "Art. 21.2 Ley 41/2002: si el paciente no acepta el alta, la dirección del centro (no el facultativo), previa comprobación del informe clínico, le oirá y si persiste lo comunicará a la autoridad judicial.",
     "officialId": 96,
     "sourceTrio": false,
-    "sourceStatus": "RED_FLAG",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Osasuntest",
-      "UGT"
-    ]
+      "UGT",
+      "IA"
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "A",
+      "o": "C",
+      "u": "C"
+    }
   }
 ]

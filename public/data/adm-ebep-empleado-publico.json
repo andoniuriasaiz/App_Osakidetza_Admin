@@ -36,13 +36,20 @@
     "explanation": "Art. 8.1 RDL 5/2015 EBEP: 'Son empleados públicos quienes desempeñan funciones RETRIBUIDAS en las Administraciones Públicas al servicio de los INTERESES GENERALES.' Dos condiciones definitorias: retribución + servicio al interés general (no particular). Respuesta C.",
     "originalId": 1,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "A",
+      "u": "C"
+    }
   },
   {
     "id": "adm-ebep-empleado-publico_2",
@@ -81,14 +88,21 @@
     "explanation": "Art. 10.1 RDL 5/2015 EBEP establece las circunstancias para ser funcionario interino: b) 'La sustitución transitoria de los titulares' [→ opción A]; c) Programas temporales: 'no podrán tener duración superior a TRES AÑOS, ampliable hasta 12 meses' (la opción B dice 'un año' → FALSO); d) Exceso de tareas: plazo máximo de SEIS MESES dentro de doce (la opción C dice '9 meses en 3 años' → FALSO). Solo la opción A es correcta. Respuesta B.",
     "originalId": 2,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "adm-ebep-empleado-publico_3",
@@ -127,13 +141,20 @@
     "explanation": "Art. 10.3 RDL 5/2015 EBEP (tras Ley 20/2021): La Administración formalizará de oficio la finalización de la interinidad por: a) Cobertura reglada del puesto por funcionario de carrera; b) Razones organizativas que supriman o amorticen el puesto; c) Finalización de la causa que originó el nombramiento. Las tres son causas expresas de extinción. Respuesta D: a), b) y c) correctas.",
     "originalId": 3,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 91.4,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "A",
+      "u": "D"
+    }
   },
   {
     "id": "adm-ebep-empleado-publico_4",
@@ -172,13 +193,20 @@
     "explanation": "Art. 11.1 RDL 5/2015 EBEP: 'Es personal laboral el que, en virtud de contrato de trabajo formalizado POR ESCRITO, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios RETRIBUIDOS por las Administraciones Públicas.' Dos condiciones: contrato escrito (no verbal) + servicios retribuidos. Respuesta A.\n[AUTO-AUDIT 2026-03-31]: Corrected to B based on Kaixo/Osasun consensus.",
     "originalId": 4,
     "sourceTrio": false,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "STABLE",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 85.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "B",
+      "o": "A",
+      "u": "B"
+    }
   },
   {
     "id": "adm-ebep-empleado-publico_5",
@@ -217,13 +245,20 @@
     "explanation": "Art. 12.1 RDL 5/2015 EBEP: 'Es personal eventual el que, en virtud de nombramiento y con carácter NO PERMANENTE, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.' Clave: NO PERMANENTE + confianza/asesoramiento especial. Respuesta A.",
     "originalId": 5,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   }
 ]

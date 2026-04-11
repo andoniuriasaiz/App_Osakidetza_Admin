@@ -36,14 +36,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: El acceso generalizado a la información y un mayor nivel educativo en la CAPV se identifican como factores que llevan a la ciudadanía a demandar un papel más activo en su salud y en las decisiones que les afectan. Respuesta B.",
     "originalId": 211,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_2",
@@ -82,14 +89,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Los flujos migratorios 'revelan patologías anteriormente poco conocidas en nuestro entorno, pero prevalentes en otras latitudes', lo que supone un reto para el sistema sanitario. Respuesta B.",
     "originalId": 212,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_3",
@@ -128,14 +142,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Uno de los principales desafíos es 'la necesidad de planificar el relevo ante la jubilación de cohortes numerosas de profesionales', especialmente en especialidades con mayor demanda. Respuesta C.",
     "originalId": 213,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_4",
@@ -174,14 +195,21 @@
     "explanation": "Pacto Vasco de Salud: El Pacto Vasco de Salud es un acuerdo de consenso político y social que establece las bases para el desarrollo del sistema sanitario vasco con una visión compartida a largo plazo. Respuesta A.",
     "originalId": 214,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_5",
@@ -220,14 +248,21 @@
     "explanation": "Pacto Vasco de Salud: Los tres pilares o ámbitos principales del Pacto son: la ciudadanía y su salud, el sistema sanitario y los determinantes de la salud. La financiación es un elemento instrumental, no un pilar por sí solo. Respuesta D.",
     "originalId": 215,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t13_6",
@@ -266,14 +301,21 @@
     "explanation": "Pacto Vasco de Salud: La Atención Primaria es el primer nivel de contacto de la ciudadanía con el sistema de salud y el eje vertebrador del sistema. El Pacto refuerza su papel central y la necesidad de fortalecerla. Respuesta B.",
     "originalId": 216,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_7",
@@ -312,14 +354,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: La cronicidad y el envejecimiento de la población son los principales retos identificados en el diagnóstico, junto con la necesidad de sostenibilidad del sistema y la coordinación sociosanitaria. Respuesta C.",
     "originalId": 217,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_8",
@@ -358,14 +407,21 @@
     "explanation": "Pacto Vasco de Salud: El Pacto contempla la coordinación sociosanitaria como un elemento fundamental para dar respuesta a las necesidades de las personas con dependencia, cronicidad y fragilidad. Respuesta A.",
     "originalId": 218,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t13_9",
@@ -404,14 +460,21 @@
     "explanation": "Pacto Vasco de Salud: La innovación y la digitalización se contemplan como herramientas al servicio de la mejora de la salud y del sistema sanitario, no como fines en sí mismos. Respuesta D.",
     "originalId": 219,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_10",
@@ -450,14 +513,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: La salud mental y los problemas de salud mental son identificados como uno de los grandes retos sanitarios, con una mayor prevalencia de trastornos de ansiedad y depresión, agravados por la pandemia. Respuesta B.",
     "originalId": 220,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_11",
@@ -496,14 +566,21 @@
     "explanation": "Pacto Vasco de Salud: El Pacto propone potenciar la participación ciudadana en el diseño, evaluación y mejora del sistema sanitario, considerando a la ciudadanía como agente activo de su salud. Respuesta C.",
     "originalId": 221,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t13_12",
@@ -542,14 +619,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Las desigualdades en salud por nivel socioeconómico son reconocidas como uno de los principales desafíos, siendo los grupos más vulnerables los más afectados. Respuesta A.",
     "originalId": 222,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_13",
@@ -588,14 +672,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: El envejecimiento de la población vasca es identificado como uno de los principales factores que incrementa la demanda de servicios sanitarios y sociosanitarios. Respuesta D.",
     "originalId": 223,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t13_14",
@@ -634,14 +725,21 @@
     "explanation": "Pacto Vasco de Salud: La sostenibilidad del sistema sanitario es un objetivo transversal que requiere la optimización de recursos, la eficiencia y la innovación en los modelos de atención. Respuesta B.",
     "originalId": 224,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "D",
+      "k": "D",
+      "o": "D",
+      "u": "D"
+    }
   },
   {
     "id": "comun-t13_15",
@@ -680,14 +778,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Las listas de espera y los tiempos de acceso son identificados como uno de los principales problemas de satisfacción ciudadana con el sistema sanitario vasco. Respuesta C.",
     "originalId": 225,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_16",
@@ -726,14 +831,21 @@
     "explanation": "Pacto Vasco de Salud: La investigación, innovación y conocimiento son ejes estratégicos del Pacto para mejorar la calidad y eficiencia del sistema sanitario vasco. Respuesta A.",
     "originalId": 226,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_17",
@@ -772,14 +884,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Los determinantes sociales de la salud (empleo, educación, vivienda, medioambiente) son reconocidos como factores clave que influyen en la salud de la población y que requieren intervención intersectorial. Respuesta D.",
     "originalId": 227,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   },
   {
     "id": "comun-t13_18",
@@ -818,14 +937,21 @@
     "explanation": "Pacto Vasco de Salud: La coordinación entre el sistema sanitario y el sistema de servicios sociales es uno de los ámbitos de actuación prioritarios del Pacto para dar respuesta integral a las personas con necesidades complejas. Respuesta B.",
     "originalId": 228,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "C",
+      "k": "C",
+      "o": "C",
+      "u": "C"
+    }
   },
   {
     "id": "comun-t13_19",
@@ -864,14 +990,21 @@
     "explanation": "Diagnóstico Pacto Vasco de Salud: Las diferencias en salud entre mujeres y hombres (mayor esperanza de vida femenina pero mayor morbilidad), así como el impacto de los roles de género en la salud, son aspectos identificados en el diagnóstico del Pacto. Respuesta C.",
     "originalId": 229,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "B",
+      "k": "B",
+      "o": "B",
+      "u": "B"
+    }
   },
   {
     "id": "comun-t13_20",
@@ -910,13 +1043,20 @@
     "explanation": "Pacto Vasco de Salud: La prevención y la promoción de la salud son reconocidas como inversión prioritaria, con el objetivo de reducir la morbimortalidad evitable y mejorar la calidad de vida de la población. Respuesta A.",
     "originalId": 230,
     "sourceTrio": true,
-    "sourceStatus": "PERFECT",
+    "sourceStatus": "VERIFIED",
     "o_reliable": true,
     "sourceSources": [
       "Kaixo",
       "Osasuntest",
       "UGT",
       "IA"
-    ]
+    ],
+    "sourceConfidence": 100.0,
+    "sourceVotes": {
+      "ia": "A",
+      "k": "A",
+      "o": "A",
+      "u": "A"
+    }
   }
 ]

@@ -39,7 +39,8 @@ def build(consensus: dict, out_path: Optional[Path] = None) -> Path:
     gen_ts = datetime.now().strftime("%d/%m/%Y %H:%M")
 
     # ── Estadísticas globales ─────────────────────────────────────────────────
-    global_stats = {"PERFECT": 0, "RED_FLAG": 0, "TRIPLE_DISPUTE": 0, "INCOMPLETE": 0}
+    ST_KEYS = ["VERIFIED", "STABLE", "FIX_SUGGESTED", "KAIXO_RECOVERY", "UGT_OUTLIER", "DISPUTE", "INCOMPLETE"]
+    global_stats = {k: 0 for k in ST_KEYS}
     cat_stats    = {}
     all_disputes: list[dict] = []
     agree_au = agree_ak = agree_ao = agree_ko = 0
@@ -48,9 +49,11 @@ def build(consensus: dict, out_path: Optional[Path] = None) -> Path:
     for cat_key, questions in consensus.items():
         if not isinstance(questions, list):
             continue
-        cs = {"PERFECT": 0, "RED_FLAG": 0, "TRIPLE_DISPUTE": 0, "INCOMPLETE": 0, "total": 0}
+        cs = {k: 0 for k in ST_KEYS}
+        cs["total"] = 0
         for q in questions:
             s = q.get("status", "INCOMPLETE")
+            if s not in ST_KEYS: s = "DISPUTE" # fallback
             cs[s] = cs.get(s, 0) + 1
             cs["total"] += 1
             global_stats[s] = global_stats.get(s, 0) + 1
@@ -72,26 +75,22 @@ def build(consensus: dict, out_path: Optional[Path] = None) -> Path:
             has_any_diff = (
                 (u not in ("?", "") and app != u) or
                 (k not in ("?", "") and app != k) or
-                (o not in ("?", "") and app != o) or
-                (k not in ("?", "") and o not in ("?", "") and k != o)
+                (o not in ("?", "") and app != o)
             )
-            if s != "PERFECT" or has_any_diff:
+            # Solo añadir a la tabla de "discrepancias" lo que NO sea perfecto y NO sea estable/ugt_outlier
+            if s not in ("PERFECT", "STABLE", "UGT_OUTLIER") or has_any_diff:
                 all_disputes.append({**q, "_cat": cat_key})
         cat_stats[cat_key] = cs
 
     global_total = sum(global_stats.values())
-    needs_review = global_stats.get("RED_FLAG", 0) + global_stats.get("TRIPLE_DISPUTE", 0)
-    correctable  = sum(
-        1 for q in all_disputes
-        if (q.get("u") not in ("?", None, "") and q.get("app") != q.get("u")) or 
-           (q.get("u") in ("?", None, "") and q.get("app") != q.get("k") and q.get("k") not in ("?", None, ""))
-    )
+    needs_review = global_stats.get("FIX_SUGGESTED", 0) + global_stats.get("KAIXO_RECOVERY", 0) + global_stats.get("DISPUTE", 0)
+    correctable  = global_stats.get("FIX_SUGGESTED", 0) + global_stats.get("KAIXO_RECOVERY", 0)
 
-    pct_perfect = f"{global_stats.get('PERFECT', 0) / global_total * 100:.1f}" if global_total else "0"
-    n_perfect   = global_stats.get("PERFECT", 0)
-    n_red       = global_stats.get("RED_FLAG", 0)
-    n_dispute   = global_stats.get("TRIPLE_DISPUTE", 0)
-    n_inc       = global_stats.get("INCOMPLETE", 0)
+    pct_verified = f"{global_stats.get('VERIFIED', 0) / global_total * 100:.1f}" if global_total else "0"
+    n_verified   = global_stats.get('VERIFIED', 0)
+    n_fix        = global_stats.get("FIX_SUGGESTED", 0)
+    n_dispute    = global_stats.get("DISPUTE", 0)
+    n_inc        = global_stats.get("INCOMPLETE", 0)
 
     pct_au = f"{agree_au / total_u * 100:.0f}" if total_u else "—"
     pct_ak = f"{agree_ak / total_k * 100:.0f}" if total_k else "—"
@@ -114,7 +113,7 @@ def build(consensus: dict, out_path: Optional[Path] = None) -> Path:
             f'<div class="alert">'
             f'<span class="alert-icon">⚠</span> '
             f'<strong>{needs_review}</strong> preguntas con discrepancias '
-            f'<span class="alert-breakdown">({n_red} Red Flags · {n_dispute} Disputas)</span>.'
+            f'<span class="alert-breakdown">({n_fix} Sugerencias Fix · {n_dispute} Disputas)</span>.'
             f'{fix_hint}'
             f'</div>'
         )
@@ -299,6 +298,18 @@ tbody tr.expand-row td {{ padding: 0; background: #f1f5f9; border-bottom: 1px so
 }}
 .opt-item.opt-app  {{ background: #eff6ff; border-color: #bfdbfe; }}
 .opt-item.opt-k    {{ background: #f0fdf4; border-color: #bbf7d0; }}
+
+/* Confidence progress bar */
+.conf-bar {{
+  height: 4px; border-radius: 2px;
+  background: var(--bg); margin-top: 4px; overflow: hidden;
+  width: 100%;
+}}
+.conf-fill {{ height: 100%; transition: width 0.3s ease; }}
+.conf-hi {{ background: #16a34a; }}
+.conf-mid {{ background: #ea580c; }}
+.conf-lo {{ background: #dc2626; }}
+
 .opt-item.opt-bad  {{ background: #fef2f2; border-color: #fecaca; }}
 .opt-letter {{ font-weight: 900; font-size: 13px; min-width: 16px; color: var(--slate); }}
 .expand-sources {{ display: flex; flex-wrap: wrap; gap: 10px; font-size: 11px; color: var(--slate); }}
@@ -323,9 +334,12 @@ tbody tr.expand-row td {{ padding: 0; background: #f1f5f9; border-bottom: 1px so
   display: inline-block; padding: 3px 8px; border-radius: 20px;
   font-size: 10px; font-weight: 800; color: #fff; white-space: nowrap;
 }}
-.badge-PERFECT        {{ background: #16a34a; }}
-.badge-RED_FLAG       {{ background: #dc2626; }}
-.badge-TRIPLE_DISPUTE {{ background: #ea580c; }}
+.badge-VERIFIED       {{ background: #16a34a; }}
+.badge-STABLE         {{ background: #059669; }}
+.badge-UGT_OUTLIER    {{ background: #0891b2; }}
+.badge-KAIXO_RECOVERY {{ background: #7c3aed; }}
+.badge-FIX_SUGGESTED  {{ background: #dc2626; }}
+.badge-DISPUTE        {{ background: #ea580c; }}
 .badge-INCOMPLETE     {{ background: #64748b; }}
 .badge-cat            {{ background: var(--blue-d); }}
 
@@ -374,8 +388,8 @@ tbody tr.expand-row td {{ padding: 0; background: #f1f5f9; border-bottom: 1px so
     </div>
   </div>
   <div class="header-score">
-    <div class="score-val">{pct_perfect}%</div>
-    <div class="score-lbl">en consenso</div>
+    <div class="score-val">{pct_verified}%</div>
+    <div class="score-lbl">Verificado</div>
   </div>
 </header>
 
@@ -386,34 +400,34 @@ tbody tr.expand-row td {{ padding: 0; background: #f1f5f9; border-bottom: 1px so
 <!-- KPIs -->
 <div class="kpi-grid">
   <div class="kpi" style="border-top-color:#16a34a">
-    <div class="kpi-val" style="color:#16a34a">{n_perfect}</div>
-    <div class="kpi-lbl">Perfectas</div>
-    <div class="kpi-sub">App = Kaixo</div>
+    <div class="kpi-val" style="color:#16a34a">{n_verified}</div>
+    <div class="kpi-lbl">Verificadas</div>
+    <div class="kpi-sub">Confianza > 90%</div>
   </div>
   <div class="kpi" style="border-top-color:#dc2626">
-    <div class="kpi-val" style="color:#dc2626">{n_red}</div>
-    <div class="kpi-lbl">Red Flags</div>
-    <div class="kpi-sub">K&amp;O coinciden ≠ App</div>
+    <div class="kpi-val" style="color:#dc2626">{n_fix}</div>
+    <div class="kpi-lbl">Sugerencias Fix</div>
+    <div class="kpi-sub">Cambios recomendados</div>
   </div>
   <div class="kpi" style="border-top-color:#ea580c">
     <div class="kpi-val" style="color:#ea580c">{n_dispute}</div>
-    <div class="kpi-lbl">Disputas</div>
-    <div class="kpi-sub">3 fuentes difieren</div>
+    <div class="kpi-lbl">Dudosas / Caos</div>
+    <div class="kpi-sub">Falta de consenso</div>
   </div>
   <div class="kpi" style="border-top-color:#64748b">
     <div class="kpi-val" style="color:#64748b">{n_inc}</div>
     <div class="kpi-lbl">Sin datos</div>
-    <div class="kpi-sub">Kaixo o Osasun —</div>
+    <div class="kpi-sub">Fuentes incompletas</div>
   </div>
   <div class="kpi" style="border-top-color:#1d4ed8">
     <div class="kpi-val" style="color:#1d4ed8">{correctable}</div>
     <div class="kpi-lbl">Corregibles</div>
-    <div class="kpi-sub">App ≠ Kaixo (tiene resp.)</div>
+    <div class="kpi-sub">App ≠ Consenso</div>
   </div>
   <div class="kpi" style="border-top-color:#0891b2">
     <div class="kpi-val" style="color:#0891b2">{global_total}</div>
     <div class="kpi-lbl">Total</div>
-    <div class="kpi-sub">4 categorías</div>
+    <div class="kpi-sub">{len(cat_stats)} categorías</div>
   </div>
 </div>
 
@@ -466,10 +480,9 @@ tbody tr.expand-row td {{ padding: 0; background: #f1f5f9; border-bottom: 1px so
   <!-- Chips de estado -->
   <div class="chip-row" id="chip-status">
     <button class="chip active"           data-val="">Todos</button>
-    <button class="chip chip-red"         data-val="RED_FLAG">🚩 Red Flag</button>
-    <button class="chip chip-orange"      data-val="TRIPLE_DISPUTE">⚡ Disputa</button>
-    <button class="chip chip-slate"       data-val="INCOMPLETE">○ Incompleto</button>
-    <button class="chip chip-green"       data-val="PERFECT">✓ Perfecto+diff</button>
+    <button class="chip chip-red"         data-val="FIX_SUGGESTED">🚩 Sugerencias Fix</button>
+    <button class="chip chip-orange"      data-val="DISPUTE">⚡ Dudosas / Disputa</button>
+    <button class="chip chip-green"       data-val="VERIFIED">✓ Verificadas</button>
   </div>
 
   <!-- Filtros avanzados -->
@@ -515,10 +528,12 @@ tbody tr.expand-row td {{ padding: 0; background: #f1f5f9; border-bottom: 1px so
           <th data-col="originalId">ID <span class="si">⇅</span></th>
           <th data-col="_cat">Cat <span class="si">⇅</span></th>
           <th>Pregunta</th>
+          <th data-col="ia">IA <span class="si">⇅</span></th>
           <th data-col="app">App <span class="si">⇅</span></th>
           <th data-col="u">UGT <span class="si">⇅</span></th>
           <th data-col="k">Kaixo <span class="si">⇅</span></th>
           <th data-col="o">Osasun <span class="si">⇅</span></th>
+          <th data-col="confidence" title="Confianza estadística en el consenso">Conf <span class="si">⇅</span></th>
           <th data-col="status">Estado <span class="si">⇅</span></th>
         </tr>
       </thead>
@@ -561,16 +576,22 @@ const CAT_STATS = JSON.parse(document.getElementById('j-cat-stats').textContent)
 const CAT_META  = JSON.parse(document.getElementById('j-cat-meta').textContent);
 
 const STATUS_COLORS = {{
-  PERFECT:        '#16a34a',
-  RED_FLAG:       '#dc2626',
-  TRIPLE_DISPUTE: '#ea580c',
+  VERIFIED:       '#16a34a',
+  STABLE:         '#059669',
+  UGT_OUTLIER:    '#0891b2',
+  KAIXO_RECOVERY: '#7c3aed',
+  FIX_SUGGESTED:  '#dc2626',
+  DISPUTE:        '#ea580c',
   INCOMPLETE:     '#64748b',
 }};
 const STATUS_LABELS = {{
-  PERFECT:        'Perfecto',
-  RED_FLAG:       'Red Flag',
-  TRIPLE_DISPUTE: 'Disputa',
-  INCOMPLETE:     'Incompleto',
+  VERIFIED:       'Verificado',
+  STABLE:         'Consenso Estable',
+  UGT_OUTLIER:    'UGT Outlier (Protegido)',
+  KAIXO_RECOVERY: 'Recuperar IA',
+  FIX_SUGGESTED:  'Sugerencia de Cambio',
+  DISPUTE:        'Disputa / Duda',
+  INCOMPLETE:     'Sin Datos',
 }};
 
 // ── Barras de acuerdo ─────────────────────────────────────────────────────────
@@ -597,8 +618,11 @@ const STATUS_LABELS = {{
     const total = cs.total || 1;
     const segs = [
       ['PERFECT',        cs.PERFECT        || 0, '#16a34a'],
+      ['STABLE',         cs.STABLE         || 0, '#059669'],
+      ['UGT_OUTLIER',    cs.UGT_OUTLIER    || 0, '#0891b2'],
+      ['KAIXO_RECOVERY', cs.KAIXO_RECOVERY || 0, '#7c3aed'],
       ['RED_FLAG',       cs.RED_FLAG        || 0, '#dc2626'],
-      ['TRIPLE_DISPUTE', cs.TRIPLE_DISPUTE  || 0, '#ea580c'],
+      ['DISPUTE',        cs.DISPUTE         || 0, '#ea580c'],
       ['INCOMPLETE',     cs.INCOMPLETE      || 0, '#64748b'],
     ].filter(([, n]) => n > 0);
 
@@ -711,6 +735,8 @@ function renderTable() {{
     const oDiff   = q.o && q.o !== '?' && q.o !== q.app;
     const uDiff   = q.u && q.u !== '?' && q.u !== q.app;
     const statusColor = STATUS_COLORS[q.status] || '#64748b';
+    const conf = q.confidence || 0;
+    const confClass = conf > 90 ? 'conf-hi' : (conf > 70 ? 'conf-mid' : 'conf-lo');
 
     const tr = document.createElement('tr');
     tr.className = 'data-row';
@@ -718,11 +744,16 @@ function renderTable() {{
     tr.innerHTML =
       `<td style="font-family:monospace;font-size:11px;color:#475569;white-space:nowrap">${{esc(q.originalId ?? q.id)}}</td>` +
       `<td><span class="badge badge-cat">${{esc(q._cat)}}</span></td>` +
-      `<td><div class="txt-trunc" title="${{esc(q.text)}}">${{esc((q.text || '—').substring(0, 90))}}…</div></td>` +
+      `<td><div class="txt-trunc" title="${{esc(q.text)}}">${{esc((q.text || '—').substring(0, 80))}}…</div></td>` +
+      `<td><span class="${{ansClass(q.ia)}}">${{esc(q.ia || '?')}}</span></td>` +
       `<td><span class="${{ansClass(q.app)}} ${{appDiff ? 'ans-diff' : ''}}">${{esc(q.app || '?')}}</span></td>` +
       `<td><span class="${{ansClass(q.u)}} ${{uDiff ? 'ans-diff' : ''}}">${{esc(q.u || '?')}}</span></td>` +
       `<td><span class="${{ansClass(q.k)}}">${{esc(q.k || '?')}}</span></td>` +
       `<td><span class="${{ansClass(q.o)}} ${{oDiff ? 'ans-diff' : ''}}">${{esc(q.o || '?')}}</span></td>` +
+      `<td>
+        <div style="font-size:10px;font-weight:700">${{conf}}%</div>
+        <div class="conf-bar"><div class="conf-fill ${{confClass}}" style="width:${{conf}}%"></div></div>
+      </td>` +
       `<td><span class="badge badge-${{q.status}}">${{STATUS_LABELS[q.status] || q.status}}</span></td>`;
 
     tr.addEventListener('click', () => toggleExpand(rowId, q, tr));
@@ -779,10 +810,12 @@ function toggleExpand(rowId, q, tr) {{
       <div class="expand-q">${{esc(q.text || '—')}}</div>
       <div class="expand-opts">${{optsHtml}}</div>
       <div class="expand-sources">
+        <span class="src"><span class="src-dot" style="background:#64748b"></span>IA: <strong>${{esc(q.ia || '?')}}</strong></span>
         <span class="src"><span class="src-dot" style="background:#1d4ed8"></span>App: <strong>${{esc(q.app || '?')}}</strong></span>
         <span class="src"><span class="src-dot" style="background:#ea580c"></span>UGT: <strong>${{esc(q.u || '?')}}</strong></span>
         <span class="src"><span class="src-dot" style="background:#16a34a"></span>Kaixo: <strong>${{esc(q.k || '?')}}</strong></span>
         <span class="src"><span class="src-dot" style="background:#7c3aed"></span>Osasun: <strong>${{esc(q.o || '?')}}</strong></span>
+        <span class="src" style="background:#f1f5f9;border-radius:4px;padding:2px 6px">Confianza: <strong>${{q.confidence}}%</strong></span>
         <span class="src" style="color:var(--muted)">ID interno: ${{esc(q.id)}}</span>
       </div>
     </div>`;
@@ -826,8 +859,8 @@ document.getElementById('btn-reset').addEventListener('click', () => {{
 
 // ── CSV export ────────────────────────────────────────────────────────────────
 document.getElementById('btn-csv').addEventListener('click', () => {{
-  const cols   = ['id','originalId','_cat','status','app','u','k','o','text'];
-  const header = ['ID','OriginalID','Categoría','Estado','App','UGT','Kaixo','Osasun','Pregunta'];
+  const cols   = ['id','originalId','_cat','status','confidence','ia','app','u','k','o','text'];
+  const header = ['ID','OriginalID','Categoría','Estado','Confianza %','IA Original','App Actual','UGT','Kaixo','Osasun','Pregunta'];
   const rows   = [header.join(';')];
   filtered.forEach(q =>
     rows.push(cols.map(c => '"' + String(q[c] ?? '').replace(/"/g,'""') + '"').join(';'))
