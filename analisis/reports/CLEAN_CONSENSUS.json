@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-04-11T13:14:23",
+  "_generated": "2026-04-11T13:16:35",
   "_categories": [
     "C2",
     "A2",
@@ -92,7 +92,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -334,7 +334,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -356,7 +356,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -510,9 +510,9 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.0,
-      "consensus": "A",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.3,
+      "consensus": "D",
+      "status": "DISPUTE"
     },
     {
       "id": "comun-t02_4",
@@ -840,7 +840,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -884,7 +884,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -1104,7 +1104,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -1280,9 +1280,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.4,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.8,
+      "consensus": "B",
+      "status": "DISPUTE"
     },
     {
       "id": "comun-t03_18",
@@ -1324,7 +1324,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -1610,9 +1610,9 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 35.4,
-      "consensus": "C",
-      "status": "DISPUTE"
+      "confidence": 85.0,
+      "consensus": "D",
+      "status": "STABLE"
     },
     {
       "id": "comun-t04_14",
@@ -1786,9 +1786,9 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.0,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.3,
+      "consensus": "C",
+      "status": "DISPUTE"
     },
     {
       "id": "comun-t04_21",
@@ -2204,9 +2204,9 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.0,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.3,
+      "consensus": "C",
+      "status": "DISPUTE"
     },
     {
       "id": "comun-t04_32",
@@ -2358,9 +2358,9 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.0,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.3,
+      "consensus": "C",
+      "status": "DISPUTE"
     },
     {
       "id": "comun-t04_39",
@@ -2380,7 +2380,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -2424,7 +2424,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -2578,7 +2578,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -2688,7 +2688,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -2710,7 +2710,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -2732,9 +2732,9 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.4,
-      "consensus": "C",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.8,
+      "consensus": "D",
+      "status": "DISPUTE"
     },
     {
       "id": "comun-t04_56",
@@ -2776,7 +2776,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -2842,7 +2842,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -3084,7 +3084,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -3238,7 +3238,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -3260,7 +3260,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -3920,7 +3920,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -3986,7 +3986,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -4074,7 +4074,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -5218,7 +5218,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -6361,9 +6361,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.0,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.3,
+      "consensus": "A",
+      "status": "DISPUTE"
     },
     {
       "id": "comun-t19_1",
@@ -6605,9 +6605,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 29.3,
-      "consensus": "D",
-      "status": "UGT_OUTLIER"
+      "confidence": 21.1,
+      "consensus": "A",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-comun-t01_2",
@@ -6649,7 +6649,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -7023,7 +7023,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -7045,7 +7045,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -7221,7 +7221,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -7243,7 +7243,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 40.6,
+      "confidence": 27.1,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -7353,7 +7353,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -7617,7 +7617,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -7639,7 +7639,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 40.6,
+      "confidence": 27.1,
       "consensus": "C",
       "status": "DISPUTE"
     },
@@ -7683,7 +7683,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -7727,7 +7727,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 40.6,
+      "confidence": 27.1,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -7749,7 +7749,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "A",
       "status": "UGT_OUTLIER"
     },
@@ -7837,7 +7837,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -7859,7 +7859,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -7925,7 +7925,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8013,7 +8013,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -8035,7 +8035,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -8079,7 +8079,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -8299,7 +8299,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 46.8,
+      "confidence": 31.0,
       "consensus": "A",
       "status": "UGT_OUTLIER"
     },
@@ -8343,7 +8343,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 46.8,
+      "confidence": 31.0,
       "consensus": "A",
       "status": "DISPUTE"
     },
@@ -8365,7 +8365,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8387,7 +8387,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 46.8,
+      "confidence": 31.0,
       "consensus": "A",
       "status": "DISPUTE"
     },
@@ -8409,7 +8409,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 46.8,
+      "confidence": 31.0,
       "consensus": "D",
       "status": "DISPUTE"
     },
@@ -8431,7 +8431,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -8497,9 +8497,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 19.5,
-      "consensus": "A",
-      "status": "DISPUTE"
+      "confidence": 28.9,
+      "consensus": "B",
+      "status": "STABLE"
     },
     {
       "id": "tec-comun-t06_8",
@@ -8629,7 +8629,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8651,7 +8651,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -8761,7 +8761,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -8783,7 +8783,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -8805,9 +8805,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 35.4,
-      "consensus": "C",
-      "status": "DISPUTE"
+      "confidence": 85.0,
+      "consensus": "B",
+      "status": "STABLE"
     },
     {
       "id": "tec-comun-t09_6",
@@ -8849,7 +8849,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 40.6,
+      "confidence": 27.1,
       "consensus": "C",
       "status": "DISPUTE"
     },
@@ -8893,7 +8893,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -8915,7 +8915,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -8959,7 +8959,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -9003,7 +9003,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9047,9 +9047,9 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.4,
-      "consensus": "A",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.8,
+      "consensus": "D",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-comun-t11_1",
@@ -9069,7 +9069,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9245,7 +9245,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9267,7 +9267,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9311,7 +9311,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9421,7 +9421,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9443,7 +9443,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9685,7 +9685,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9729,7 +9729,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -9751,7 +9751,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -9773,7 +9773,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9795,7 +9795,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -9905,7 +9905,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9949,7 +9949,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -9971,7 +9971,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -10015,7 +10015,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 40.6,
+      "confidence": 27.1,
       "consensus": "B",
       "status": "DISPUTE"
     },
@@ -10037,7 +10037,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10125,7 +10125,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10169,7 +10169,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10191,7 +10191,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -10213,7 +10213,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10235,7 +10235,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10367,7 +10367,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -10411,7 +10411,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10433,7 +10433,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -10477,7 +10477,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 40.6,
+      "confidence": 27.1,
       "consensus": "C",
       "status": "DISPUTE"
     },
@@ -10499,7 +10499,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10521,7 +10521,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -10565,7 +10565,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10609,7 +10609,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -10653,7 +10653,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10675,7 +10675,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10697,7 +10697,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -10719,7 +10719,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -10741,7 +10741,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10785,7 +10785,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -10807,7 +10807,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 40.6,
+      "confidence": 27.1,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -10851,7 +10851,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -11007,7 +11007,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -11051,7 +11051,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11205,7 +11205,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -11249,7 +11249,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11293,7 +11293,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -11425,7 +11425,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -11579,7 +11579,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -12239,7 +12239,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -12261,7 +12261,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -12393,7 +12393,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -12415,7 +12415,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -12481,7 +12481,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -12569,7 +12569,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -12723,7 +12723,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -12789,7 +12789,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -12855,7 +12855,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -13009,7 +13009,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13053,7 +13053,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -13185,7 +13185,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13273,7 +13273,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -13471,7 +13471,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -13515,7 +13515,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -13845,7 +13845,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -13867,7 +13867,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -13911,7 +13911,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -14329,7 +14329,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -14527,7 +14527,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 37.0,
+      "confidence": 48.8,
       "consensus": "D",
       "status": "DISPUTE"
     },
@@ -14747,7 +14747,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -15165,9 +15165,9 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 35.4,
-      "consensus": "B",
-      "status": "DISPUTE"
+      "confidence": 85.0,
+      "consensus": "C",
+      "status": "STABLE"
     },
     {
       "id": "adm-prl-prevencion-riesgos_14",
@@ -15409,7 +15409,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -16905,7 +16905,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -17169,7 +17169,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "A",
       "status": "UGT_OUTLIER"
     },
@@ -17235,7 +17235,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -17697,7 +17697,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -17785,7 +17785,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -17807,7 +17807,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -17851,9 +17851,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 35.4,
-      "consensus": "D",
-      "status": "DISPUTE"
+      "confidence": 85.0,
+      "consensus": "A",
+      "status": "STABLE"
     },
     {
       "id": "aux-e08_14",
@@ -17873,9 +17873,9 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 35.4,
-      "consensus": "B",
-      "status": "DISPUTE"
+      "confidence": 85.0,
+      "consensus": "C",
+      "status": "STABLE"
     },
     {
       "id": "aux-e08_15",
@@ -18005,9 +18005,9 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 16.0,
-      "consensus": "A",
-      "status": "UGT_OUTLIER"
+      "confidence": 24.3,
+      "consensus": "C",
+      "status": "DISPUTE"
     },
     {
       "id": "aux-e02_3",
@@ -18027,7 +18027,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -18049,7 +18049,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -18137,9 +18137,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 35.4,
-      "consensus": "B",
-      "status": "DISPUTE"
+      "confidence": 85.0,
+      "consensus": "A",
+      "status": "STABLE"
     },
     {
       "id": "aux-e07_7",
@@ -18159,9 +18159,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 35.4,
-      "consensus": "C",
-      "status": "DISPUTE"
+      "confidence": 85.0,
+      "consensus": "B",
+      "status": "STABLE"
     },
     {
       "id": "aux-e07_8",
@@ -18225,7 +18225,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -18313,7 +18313,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -18423,7 +18423,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -18731,7 +18731,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "B",
       "status": "UGT_OUTLIER"
     },
@@ -18775,9 +18775,9 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 35.4,
-      "consensus": "B",
-      "status": "DISPUTE"
+      "confidence": 85.0,
+      "consensus": "A",
+      "status": "STABLE"
     },
     {
       "id": "aux-e02_26",
@@ -18841,7 +18841,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -19017,7 +19017,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 90.0,
+      "confidence": 90.6,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -19303,7 +19303,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 55.5,
+      "confidence": 41.4,
       "consensus": "A",
       "status": "UGT_OUTLIER"
     },
@@ -20053,7 +20053,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 46.8,
+      "confidence": 31.0,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -20581,7 +20581,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 46.8,
+      "confidence": 31.0,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -20735,7 +20735,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 46.8,
+      "confidence": 31.0,
       "consensus": "C",
       "status": "UGT_OUTLIER"
     },
@@ -23045,7 +23045,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 46.8,
+      "confidence": 31.0,
       "consensus": "D",
       "status": "UGT_OUTLIER"
     },
@@ -23287,7 +23287,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -23375,7 +23375,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -23507,7 +23507,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -23595,7 +23595,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -23617,7 +23617,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -23925,7 +23925,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -23947,7 +23947,7 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "B",
       "status": "STABLE"
     },
@@ -24167,7 +24167,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -24321,7 +24321,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -24585,7 +24585,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -24607,7 +24607,7 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "D",
       "status": "STABLE"
     },
@@ -24651,7 +24651,7 @@
       "u": "C",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "C",
       "status": "STABLE"
     },
@@ -24717,7 +24717,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -25003,7 +25003,7 @@
       "u": "A",
       "o_reliable": true,
       "trio": false,
-      "confidence": 52.3,
+      "confidence": 62.9,
       "consensus": "A",
       "status": "STABLE"
     },
@@ -28017,9 +28017,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.3,
-      "consensus": "A",
-      "status": "DISPUTE"
+      "confidence": 38.9,
+      "consensus": "B",
+      "status": "STABLE"
     },
     {
       "id": "tec-analisis-financiero_6",
@@ -30613,9 +30613,9 @@
       "u": "D",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.3,
-      "consensus": "B",
-      "status": "UGT_OUTLIER"
+      "confidence": 38.9,
+      "consensus": "D",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-casos-practicos_14",
@@ -30723,9 +30723,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.3,
-      "consensus": "A",
-      "status": "UGT_OUTLIER"
+      "confidence": 38.9,
+      "consensus": "B",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-casos-practicos_19",
@@ -30745,9 +30745,9 @@
       "u": "B",
       "o_reliable": true,
       "trio": false,
-      "confidence": 27.3,
-      "consensus": "C",
-      "status": "UGT_OUTLIER"
+      "confidence": 38.9,
+      "consensus": "B",
+      "status": "DISPUTE"
     },
     {
       "id": "tec-casos-practicos_20",
