@@ -1540,38 +1540,39 @@ export default function StudyPage() {
                       
                       // Obtener la letra correcta de forma robusta (A, B, C...)
                       let correctAns = '';
-                      if (current?.correctAnswers?.[0] && current.correctAnswers[0].length === 1) {
+                      const firstCorrectNum = (current?.correctAnswerNums && current.correctAnswerNums.length > 0) ? current.correctAnswerNums[0] : null;
+                      
+                      if (firstCorrectNum !== null) {
+                        correctAns = String.fromCharCode(64 + firstCorrectNum).toUpperCase();
+                      } else if (current?.correctAnswers?.[0] && current.correctAnswers[0].length === 1) {
                         correctAns = current.correctAnswers[0].toUpperCase();
-                      } else if (current?.correctAnswerNums && current.correctAnswerNums.length > 0) {
-                        correctAns = String.fromCharCode(64 + current.correctAnswerNums[0]);
                       }
 
                       // Crear mapa normalizado: Fuente (minúsculas) -> Respuesta (Mayúscula)
                       const flatVotes: Record<string, string> = {};
                       Object.entries(votes || {}).forEach(([rawAns, srcs]) => {
-                        const ans = rawAns.toUpperCase();
+                        const ans = rawAns.trim().toUpperCase();
                         if (Array.isArray(srcs)) {
                            srcs.forEach(s => { 
                              flatVotes[s.toLowerCase()] = ans; 
                            });
                         } else if (typeof srcs === 'string') {
-                           // Formato antiguo: fuente: respuesta
-                           flatVotes[rawAns.toLowerCase()] = srcs.toUpperCase();
+                           flatVotes[rawAns.toLowerCase()] = srcs.trim().toUpperCase();
                         }
                       });
 
                       const voteDetails = sourceOrder.map(srcKey => {
-                        const ans = flatVotes[srcKey] || flatVotes[sourceTagsMap[srcKey]?.toLowerCase() || ''];
+                        const ans = (flatVotes[srcKey] || flatVotes[sourceTagsMap[srcKey]?.toLowerCase() || ''])?.trim().toUpperCase();
                         if (!ans || ans === "?") return null;
                         
-                        const isCorrectSource = ans === correctAns;
+                        const isCorrectSource = ans === correctAns && correctAns !== '';
                         const label = sourceTagsMap[srcKey] || srcKey.toUpperCase();
                         
                         return (
                           <div key={srcKey} className={`flex items-center gap-1.5 px-2.5 py-1 rounded-lg border shadow-sm transition-all duration-300 ${
                             isCorrectSource 
-                              ? 'bg-emerald-50/80 border-emerald-200 text-emerald-800 backdrop-blur-sm' 
-                              : 'bg-red-50/80 border-red-100 text-red-700 backdrop-blur-sm opacity-90'
+                              ? 'bg-emerald-50 border-emerald-200 text-emerald-800 backdrop-blur-sm' 
+                              : 'bg-red-50 border-red-100 text-red-700 backdrop-blur-sm opacity-90'
                           }`}>
                             <span className={`w-1.5 h-1.5 rounded-full ${isCorrectSource ? 'bg-emerald-500 animate-pulse' : 'bg-red-400'}`} />
                             <span className="text-[10px] font-bold tracking-tight uppercase">{label}:</span>
