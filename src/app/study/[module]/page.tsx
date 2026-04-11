@@ -1527,7 +1527,7 @@ export default function StudyPage() {
                         </span>
                       );
 
-                      // 2. Detalle de votos (Fantasía CSS) - Versión de robustez extrema
+                      // 2. Detalle de votos (Fantasía CSS) - Versión Infalible
                       const sourceTagsMap: Record<string, string> = {
                         "ugt": "UGT",
                         "kaixo": "Kaixo.com",
@@ -1538,26 +1538,23 @@ export default function StudyPage() {
 
                       const sourceOrder = ["ugt", "kaixo", "osasun", "ia"];
                       
-                      // Obtener la letra correcta de forma robusta (A, B, C...)
+                      // Obtener la letra correcta de la App de forma infalible (A=1, B=2...)
                       let correctAns = '';
-                      const firstCorrectNum = (current?.correctAnswerNums && current.correctAnswerNums.length > 0) ? current.correctAnswerNums[0] : null;
-                      
-                      if (firstCorrectNum !== null) {
-                        correctAns = String.fromCharCode(64 + firstCorrectNum).toUpperCase();
-                      } else if (current?.correctAnswers?.[0] && current.correctAnswers[0].length === 1) {
-                        correctAns = current.correctAnswers[0].toUpperCase();
+                      const correctNum = current?.correctAnswerNums?.[0];
+                      if (correctNum) {
+                        correctAns = String.fromCharCode(64 + Number(correctNum)).trim().toUpperCase();
                       }
 
                       // Crear mapa normalizado: Fuente (minúsculas) -> Respuesta (Mayúscula)
                       const flatVotes: Record<string, string> = {};
                       Object.entries(votes || {}).forEach(([rawAns, srcs]) => {
-                        const ans = rawAns.trim().toUpperCase();
+                        const ans = String(rawAns).trim().toUpperCase();
                         if (Array.isArray(srcs)) {
                            srcs.forEach(s => { 
-                             flatVotes[s.toLowerCase()] = ans; 
+                             if (s) flatVotes[String(s).toLowerCase()] = ans; 
                            });
                         } else if (typeof srcs === 'string') {
-                           flatVotes[rawAns.toLowerCase()] = srcs.trim().toUpperCase();
+                           flatVotes[String(rawAns).toLowerCase()] = String(srcs).trim().toUpperCase();
                         }
                       });
 
@@ -1565,7 +1562,8 @@ export default function StudyPage() {
                         const ans = (flatVotes[srcKey] || flatVotes[sourceTagsMap[srcKey]?.toLowerCase() || ''])?.trim().toUpperCase();
                         if (!ans || ans === "?") return null;
                         
-                        const isCorrectSource = ans === correctAns && correctAns !== '';
+                        // Comparación final
+                        const isCorrectSource = correctAns !== '' && ans === correctAns;
                         const label = sourceTagsMap[srcKey] || srcKey.toUpperCase();
                         
                         return (
