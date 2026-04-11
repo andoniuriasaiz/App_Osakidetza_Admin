@@ -15,6 +15,7 @@ import json
 import sys
 from datetime import datetime
 from pathlib import Path
+from typing import Optional, Union
 
 _HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(_HERE))
@@ -26,7 +27,7 @@ def _safe_json(obj) -> str:
     return json.dumps(obj, ensure_ascii=False).replace("</", "<\\/")
 
 
-def build(consensus: dict, out_path: Path | None = None) -> Path:
+def build(consensus: dict, out_path: Optional[Path] = None) -> Path:
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     if out_path is None:
         ts = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -41,8 +42,8 @@ def build(consensus: dict, out_path: Path | None = None) -> Path:
     global_stats = {"PERFECT": 0, "RED_FLAG": 0, "TRIPLE_DISPUTE": 0, "INCOMPLETE": 0}
     cat_stats    = {}
     all_disputes: list[dict] = []
-    agree_ak = agree_ao = agree_ko = 0
-    total_k = total_o = total_ko = 0
+    agree_au = agree_ak = agree_ao = agree_ko = 0
+    total_u = total_k = total_o = total_ko = 0
 
     for cat_key, questions in consensus.items():
         if not isinstance(questions, list):
@@ -54,7 +55,10 @@ def build(consensus: dict, out_path: Path | None = None) -> Path:
             cs["total"] += 1
             global_stats[s] = global_stats.get(s, 0) + 1
 
-            app, k, o = q.get("app", "?"), q.get("k", "?"), q.get("o", "?")
+            app, k, o, u = q.get("app", "?"), q.get("k", "?"), q.get("o", "?"), q.get("u", "?")
+            if u not in ("?", ""):
+                total_u += 1
+                if app == u: agree_au += 1
             if k not in ("?", ""):
                 total_k += 1
                 if app == k: agree_ak += 1
@@ -66,6 +70,7 @@ def build(consensus: dict, out_path: Path | None = None) -> Path:
                 if k == o: agree_ko += 1
 
             has_any_diff = (
+                (u not in ("?", "") and app != u) or
                 (k not in ("?", "") and app != k) or
                 (o not in ("?", "") and app != o) or
                 (k not in ("?", "") and o not in ("?", "") and k != o)
@@ -78,7 +83,8 @@ def build(consensus: dict, out_path: Path | None = None) -> Path:
     needs_review = global_stats.get("RED_FLAG", 0) + global_stats.get("TRIPLE_DISPUTE", 0)
     correctable  = sum(
         1 for q in all_disputes
-        if q.get("app") != q.get("k") and q.get("k") not in ("?", None, "")
+        if (q.get("u") not in ("?", None, "") and q.get("app") != q.get("u")) or 
+           (q.get("u") in ("?", None, "") and q.get("app") != q.get("k") and q.get("k") not in ("?", None, ""))
     )
 
     pct_perfect = f"{global_stats.get('PERFECT', 0) / global_total * 100:.1f}" if global_total else "0"
@@ -87,6 +93,7 @@ def build(consensus: dict, out_path: Path | None = None) -> Path:
     n_dispute   = global_stats.get("TRIPLE_DISPUTE", 0)
     n_inc       = global_stats.get("INCOMPLETE", 0)
 
+    pct_au = f"{agree_au / total_u * 100:.0f}" if total_u else "—"
     pct_ak = f"{agree_ak / total_k * 100:.0f}" if total_k else "—"
     pct_ao = f"{agree_ao / total_o * 100:.0f}" if total_o else "—"
     pct_ko = f"{agree_ko / total_ko * 100:.0f}" if total_ko else "—"
@@ -413,16 +420,21 @@ tbody tr.expand-row td {{ padding: 0; background: #f1f5f9; border-bottom: 1px so
 <!-- Acuerdo entre fuentes -->
 <div class="agree-grid">
   <div class="agree-card">
+    <div class="agree-pct" style="color:#ea580c">{pct_au}<span style="font-size:18px">%</span></div>
+    <div class="agree-lbl">App = UGT</div>
+    <div class="agree-bar"><div class="agree-fill" id="ab4" style="background:#ea580c;width:0%"></div></div>
+  </div>
+  <div class="agree-card">
     <div class="agree-pct" style="color:#1d4ed8">{pct_ak}<span style="font-size:18px">%</span></div>
     <div class="agree-lbl">App = Kaixo</div>
     <div class="agree-bar"><div class="agree-fill" id="ab1" style="background:#1d4ed8;width:0%"></div></div>
   </div>
-  <div class="agree-card">
+  <div class="agree-card" style="display:none">
     <div class="agree-pct" style="color:#0891b2">{pct_ao}<span style="font-size:18px">%</span></div>
     <div class="agree-lbl">App = Osasuntest</div>
     <div class="agree-bar"><div class="agree-fill" id="ab2" style="background:#0891b2;width:0%"></div></div>
   </div>
-  <div class="agree-card">
+  <div class="agree-card" style="display:none">
     <div class="agree-pct" style="color:#7c3aed">{pct_ko}<span style="font-size:18px">%</span></div>
     <div class="agree-lbl">Kaixo = Osasuntest</div>
     <div class="agree-bar"><div class="agree-fill" id="ab3" style="background:#7c3aed;width:0%"></div></div>
@@ -504,6 +516,7 @@ tbody tr.expand-row td {{ padding: 0; background: #f1f5f9; border-bottom: 1px so
           <th data-col="_cat">Cat <span class="si">⇅</span></th>
           <th>Pregunta</th>
           <th data-col="app">App <span class="si">⇅</span></th>
+          <th data-col="u">UGT <span class="si">⇅</span></th>
           <th data-col="k">Kaixo <span class="si">⇅</span></th>
           <th data-col="o">Osasun <span class="si">⇅</span></th>
           <th data-col="status">Estado <span class="si">⇅</span></th>
@@ -563,6 +576,7 @@ const STATUS_LABELS = {{
 // ── Barras de acuerdo ─────────────────────────────────────────────────────────
 (function () {{
   const data = [
+    ['ab4', '{pct_au}'],
     ['ab1', '{pct_ak}'],
     ['ab2', '{pct_ao}'],
     ['ab3', '{pct_ko}'],
@@ -693,8 +707,9 @@ function renderTable() {{
   tbody.innerHTML = '';
   slice.forEach((q, i) => {{
     const rowId   = 'r' + i;
-    const appDiff = q.k && q.k !== '?' && q.app !== q.k;
+    const appDiff = q.k && q.k !== '?' && q.app !== q.k || q.u && q.u !== '?' && q.app !== q.u;
     const oDiff   = q.o && q.o !== '?' && q.o !== q.app;
+    const uDiff   = q.u && q.u !== '?' && q.u !== q.app;
     const statusColor = STATUS_COLORS[q.status] || '#64748b';
 
     const tr = document.createElement('tr');
@@ -705,6 +720,7 @@ function renderTable() {{
       `<td><span class="badge badge-cat">${{esc(q._cat)}}</span></td>` +
       `<td><div class="txt-trunc" title="${{esc(q.text)}}">${{esc((q.text || '—').substring(0, 90))}}…</div></td>` +
       `<td><span class="${{ansClass(q.app)}} ${{appDiff ? 'ans-diff' : ''}}">${{esc(q.app || '?')}}</span></td>` +
+      `<td><span class="${{ansClass(q.u)}} ${{uDiff ? 'ans-diff' : ''}}">${{esc(q.u || '?')}}</span></td>` +
       `<td><span class="${{ansClass(q.k)}}">${{esc(q.k || '?')}}</span></td>` +
       `<td><span class="${{ansClass(q.o)}} ${{oDiff ? 'ans-diff' : ''}}">${{esc(q.o || '?')}}</span></td>` +
       `<td><span class="badge badge-${{q.status}}">${{STATUS_LABELS[q.status] || q.status}}</span></td>`;
@@ -751,7 +767,7 @@ function toggleExpand(rowId, q, tr) {{
   ['A','B','C','D'].forEach(l => {{
     if (!opts[l]) return;
     let cls = 'opt-item';
-    if (l === q.app && l !== q.k) cls += ' opt-bad';
+    if (l === q.app && l !== q.k && l !== q.u) cls += ' opt-bad';
     else if (l === q.app)         cls += ' opt-app';
     if (l === q.k && l !== q.app) cls += ' opt-k';
     optsHtml += `<div class="${{cls}}"><span class="opt-letter">${{l}}</span><span>${{esc(opts[l])}}</span></div>`;
@@ -764,6 +780,7 @@ function toggleExpand(rowId, q, tr) {{
       <div class="expand-opts">${{optsHtml}}</div>
       <div class="expand-sources">
         <span class="src"><span class="src-dot" style="background:#1d4ed8"></span>App: <strong>${{esc(q.app || '?')}}</strong></span>
+        <span class="src"><span class="src-dot" style="background:#ea580c"></span>UGT: <strong>${{esc(q.u || '?')}}</strong></span>
         <span class="src"><span class="src-dot" style="background:#16a34a"></span>Kaixo: <strong>${{esc(q.k || '?')}}</strong></span>
         <span class="src"><span class="src-dot" style="background:#7c3aed"></span>Osasun: <strong>${{esc(q.o || '?')}}</strong></span>
         <span class="src" style="color:var(--muted)">ID interno: ${{esc(q.id)}}</span>
@@ -809,8 +826,8 @@ document.getElementById('btn-reset').addEventListener('click', () => {{
 
 // ── CSV export ────────────────────────────────────────────────────────────────
 document.getElementById('btn-csv').addEventListener('click', () => {{
-  const cols   = ['id','originalId','_cat','status','app','k','o','text'];
-  const header = ['ID','OriginalID','Categoría','Estado','App','Kaixo','Osasun','Pregunta'];
+  const cols   = ['id','originalId','_cat','status','app','u','k','o','text'];
+  const header = ['ID','OriginalID','Categoría','Estado','App','UGT','Kaixo','Osasun','Pregunta'];
   const rows   = [header.join(';')];
   filtered.forEach(q =>
     rows.push(cols.map(c => '"' + String(q[c] ?? '').replace(/"/g,'""') + '"').join(';'))

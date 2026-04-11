@@ -24,6 +24,7 @@ import re
 import json
 import sys
 from pathlib import Path
+from typing import List, Optional
 
 _HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(_HERE))
@@ -135,7 +136,7 @@ def scrape_category(cat_key: str, force: bool = False) -> dict:
     return merged
 
 
-def run(categories: list | None = None, force: bool = False) -> None:
+def run(categories: Optional[List] = None, force: bool = False) -> None:
     print("\n" + "=" * 60)
     print("  PASO 2 — Scraping Osasuntest.es (tablas de respuestas)")
     print("=" * 60)

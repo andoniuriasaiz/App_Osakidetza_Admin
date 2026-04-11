@@ -13,6 +13,7 @@ import re
 import difflib
 import sys
 from pathlib import Path
+from typing import List, Optional
 
 # ─── Normalización de texto ───────────────────────────────────────────────────
 
@@ -144,7 +145,7 @@ def map_category(name: str, app_file: str, osa_file, output_file,
 
 # ─── Punto de entrada ─────────────────────────────────────────────────────────
 
-def run(categories: list | None = None, force: bool = False, root_path: Path | None = None) -> None:
+def run(categories: Optional[List] = None, force: bool = False, root_path: Optional[Path] = None) -> None:
     """Llamado por run_pipeline.py.
 
     categories : ['C2', 'ADM', …] o None = todas.
